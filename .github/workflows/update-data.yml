@@ -17,10 +17,10 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Download Saxon HE
+      - name: Download Saxon HE 11.6 (fat JAR – keine Abhängigkeiten nötig)
         run: |
           mkdir saxon
-          curl -L -o saxon/saxon-he.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/12.4/Saxon-HE-12.4.jar
+          curl -L -o saxon/saxon-he.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/11.6/Saxon-HE-11.6.jar
 
       - name: Create data directory
         run: mkdir -p data/editions
@@ -40,5 +40,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/editions/listevent.xml
-          git commit -m "Automatisch transformierte listevent.xml mit Saxon aktualisiert" || echo "Keine Änderungen zu committen"
+          git commit -m "Automatisch transformierte listevent.xml mit Saxon HE 11.6 aktualisiert" || echo "Keine Änderungen zu committen"
           git push
