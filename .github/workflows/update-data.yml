@@ -32,7 +32,7 @@ jobs:
         run: |
           java -jar saxon/saxon-he.jar \
             -s:temp-listevent.xml \
-            -xsl:xsl/import-listevent.xsl \
+            -xsl:xslt/import-listevent.xsl \
             -o:data/editions/listevent.xml
 
       - name: Commit and push changes
