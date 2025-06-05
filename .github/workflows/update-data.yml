@@ -21,6 +21,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/listevent.xml
+          git add data/editions/listevent.xml
           git commit -m "Automatisch heruntergeladene listevent.xml" || echo "Keine Änderungen zu committen"
           git push
