@@ -4,23 +4,29 @@ on:
   workflow_dispatch:  # Manuell auslösbar
 
 jobs:
-  download-and-commit:
+  download-transform-commit:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create data directory if it doesn't exist
-        run: mkdir -p data
+      - name: Install xsltproc
+        run: sudo apt-get update && sudo apt-get install -y xsltproc
 
-      - name: Download XML file
-        run: curl -o data/listevent.xml https://pmb.acdh.oeaw.ac.at/media/listevent.xml
+      - name: Create data directory if it doesn’t exist
+        run: mkdir -p data/editions
+
+      - name: Download original XML file
+        run: curl -o temp-listevent.xml https://pmb.acdh.oeaw.ac.at/media/listevent.xml
+
+      - name: Transform XML with XSLT
+        run: xsltproc xsl/import-listevent.xsl temp-listevent.xml > data/editions/listevent.xml
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/editions/listevent.xml
-          git commit -m "Automatisch heruntergeladene listevent.xml" || echo "Keine Änderungen zu committen"
+          git commit -m "Automatisch transformierte listevent.xml aktualisiert" || echo "Keine Änderungen zu committen"
           git push
