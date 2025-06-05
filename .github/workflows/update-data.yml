@@ -11,22 +11,34 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install xsltproc
-        run: sudo apt-get update && sudo apt-get install -y xsltproc
+      - name: Install Java (required for Saxon)
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
 
-      - name: Create data directory if it doesn’t exist
+      - name: Download Saxon HE
+        run: |
+          mkdir saxon
+          curl -L -o saxon/saxon-he.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/12.4/Saxon-HE-12.4.jar
+
+      - name: Create data directory
         run: mkdir -p data/editions
 
-      - name: Download original XML file
+      - name: Download original XML
         run: curl -o temp-listevent.xml https://pmb.acdh.oeaw.ac.at/media/listevent.xml
 
-      - name: Transform XML with XSLT
-        run: xsltproc xsl/import-listevent.xsl temp-listevent.xml > data/editions/listevent.xml
+      - name: Transform XML with Saxon
+        run: |
+          java -jar saxon/saxon-he.jar \
+            -s:temp-listevent.xml \
+            -xsl:xsl/import-listevent.xsl \
+            -o:data/editions/listevent.xml
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/editions/listevent.xml
-          git commit -m "Automatisch transformierte listevent.xml aktualisiert" || echo "Keine Änderungen zu committen"
+          git commit -m "Automatisch transformierte listevent.xml mit Saxon aktualisiert" || echo "Keine Änderungen zu committen"
           git push
