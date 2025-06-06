@@ -1,4 +1,4 @@
-# Konzert-, Theater-, Kinobesuche und Teilahme an kulturellen Veranstaltungen von Arthur Schnitzler
+# Konzert-, Theater-, Kinobesuche und Teilnahme an kulturellen Veranstaltungen von Arthur Schnitzler
 
 Seite im Aufbau. Not ready for prime time
 
