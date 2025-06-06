@@ -20,7 +20,7 @@
             
             <head>
                 <xsl:call-template name="html_head">
-                    <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
+                    <xsl:with-param name="html_title" select="'Verzeichnis der Ereignisse'"></xsl:with-param>
                 </xsl:call-template>
                 <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css" rel="stylesheet"/>
             </head>

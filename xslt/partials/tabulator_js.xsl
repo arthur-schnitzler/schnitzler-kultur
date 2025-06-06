@@ -44,6 +44,19 @@
             },
             locale: "de-de"
             });
+            
+            
+            table.on("dataLoaded", function (data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            var el = document.getElementById("counter2");
+            el.innerHTML = `${data.length}`;
+            });
+            
+            table.on("dataFiltered", function (filters, data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            }); 
         </script>
         
     </xsl:template>
@@ -87,6 +100,18 @@
             },
             locale: "de-de"
             });
+            
+            table.on("dataLoaded", function (data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            var el = document.getElementById("counter2");
+            el.innerHTML = `${data.length}`;
+            });
+            
+            table.on("dataFiltered", function (filters, data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            }); 
             
             table.on("dataLoaded", function (data) {
             var el = document.getElementById("counter1");
@@ -205,6 +230,19 @@
             },
             locale: "de-de"
             });
+            
+            
+            table.on("dataLoaded", function (data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            var el = document.getElementById("counter2");
+            el.innerHTML = `${data.length}`;
+            });
+            
+            table.on("dataFiltered", function (filters, data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            }); 
         </script>
         
     </xsl:template>
@@ -255,6 +293,18 @@
             locale: "de-de"
             });
             
+            
+            table.on("dataLoaded", function (data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            var el = document.getElementById("counter2");
+            el.innerHTML = `${data.length}`;
+            });
+            
+            table.on("dataFiltered", function (filters, data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            }); 
         </script>
         
     </xsl:template>
@@ -304,6 +354,18 @@
             locale: "de-de"
             });
             
+            
+            table.on("dataLoaded", function (data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            var el = document.getElementById("counter2");
+            el.innerHTML = `${data.length}`;
+            });
+            
+            table.on("dataFiltered", function (filters, data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            }); 
         </script>
         
     </xsl:template>
@@ -346,6 +408,18 @@
             locale: "de-de"
             });
             
+            
+            table.on("dataLoaded", function (data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            var el = document.getElementById("counter2");
+            el.innerHTML = `${data.length}`;
+            });
+            
+            table.on("dataFiltered", function (filters, data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            }); 
         </script>
         
     </xsl:template>
@@ -384,6 +458,20 @@
             },
             locale: "de-de"
             });
+            
+            
+            table.on("dataLoaded", function (data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            var el = document.getElementById("counter2");
+            el.innerHTML = `${data.length}`;
+            });
+            
+            table.on("dataFiltered", function (filters, data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            }); 
+
         </script>
     </xsl:template>
     
