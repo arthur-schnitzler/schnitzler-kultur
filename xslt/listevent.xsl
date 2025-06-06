@@ -11,7 +11,7 @@
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:import href="./partials/event.xsl"/>
     <xsl:import href="./partials/blockquote.xsl"/>
-    
+    <xsl:import href="./partials/tabulator_js.xsl"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
             <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
@@ -23,13 +23,6 @@
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
                 <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css" rel="stylesheet"/>
-            <link rel="stylesheet" href="vendor/leaflet/leaflet.css"/>
-            <script src="vendor/leaflet/leaflet.js"/>
-            <link rel="stylesheet"
-                href="vendor/leaflet.markercluster/MarkerCluster.css"/>
-            <link rel="stylesheet"
-                href="vendor/leaflet.markercluster/MarkerCluster.Default.css"/>
-            <script src="vendor/leaflet.markercluster/leaflet.markercluster.js"/>
             </head>
             
             <body class="d-flex flex-column h-100">
@@ -37,65 +30,148 @@
                 <main class="flex-shrink-0 flex-grow-1">
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
-                        <div id="map"/>
-                        <table id="placesTable">
+                        <table class="table table-sm display" id="tabulator-table-event">
                             <thead>
                                 <tr>
-                                    <th scope="col">Ortsname</th>
-                                    <th scope="col">Erwähnungen</th>
-                                    <th scope="col">lat</th>
-                                    <th scope="col">lng</th>
-                                    <th scope="col">linkToEntity</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html">Ereignis</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html">Arbeitskraft</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html">Teilnehmer_innen</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html">Werk</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html">Ort</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html">Organisation</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html">Datum</th>
+                                    <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html">Link</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
-                                <xsl:for-each select=".//tei:place[@xml:id]">
+                                <xsl:for-each select=".//tei:event[@xml:id]">
                                     <xsl:variable name="id">
                                         <xsl:value-of select="data(@xml:id)"/>
                                     </xsl:variable>
                                     <tr>
                                         <td>
-                                            <xsl:value-of select="./tei:placeName[1]/text()"/>
+                                            <xsl:value-of select="./tei:eventName[1]/text()"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
+                                            <xsl:for-each select="tei:listPerson/tei:person[@role='hat als Arbeitskraft']">
+                                                <xsl:variable name="name" select="tei:persName"/>
+                                                
+                                                <xsl:choose>
+                                                    <!-- Wenn genau ein Komma enthalten ist -->
+                                                    <xsl:when test="matches($name, '^[^,]+,\s*[^,]+$')">
+                                                        <xsl:analyze-string select="$name" regex="^([^,]+),\s*(.+)$">
+                                                            <xsl:matching-substring>
+                                                                <xsl:value-of select="regex-group(2)"/><xsl:text> </xsl:text><xsl:value-of select="regex-group(1)"/>
+                                                            </xsl:matching-substring>
+                                                            <xsl:non-matching-substring>
+                                                                <xsl:value-of select="."/>
+                                                            </xsl:non-matching-substring>
+                                                        </xsl:analyze-string>
+                                                    </xsl:when>
+                                                    
+                                                    <!-- Wenn kein oder mehr als ein Komma enthalten ist -->
+                                                    <xsl:otherwise>
+                                                        <xsl:value-of select="$name"/>
+                                                    </xsl:otherwise>
+                                                </xsl:choose>
+                                                
+                                                <!-- Semikolon nur, wenn nicht letztes Element -->
+                                                <xsl:if test="not(position() = last())">
+                                                    <xsl:text>; </xsl:text>
+                                                </xsl:if>
+                                            </xsl:for-each>
                                         </td>
                                         <td>
-                                            <xsl:choose>
-                                                <xsl:when test="./tei:location/tei:geo">
-                                                    <xsl:value-of select="replace(tokenize(./tei:location[1]/tei:geo/text(), ' ')[1], ',', '.')"/>
-                                                </xsl:when>
-                                            </xsl:choose>
+                                            <xsl:for-each select="tei:listPerson/tei:person[@role='hat als Teilnehmer:in']">
+                                                <xsl:variable name="name" select="tei:persName"/>
+                                                
+                                                <xsl:choose>
+                                                    <!-- Wenn genau ein Komma enthalten ist -->
+                                                    <xsl:when test="matches($name, '^[^,]+,\s*[^,]+$')">
+                                                        <xsl:analyze-string select="$name" regex="^([^,]+),\s*(.+)$">
+                                                            <xsl:matching-substring>
+                                                                <xsl:value-of select="regex-group(2)"/><xsl:text> </xsl:text><xsl:value-of select="regex-group(1)"/>
+                                                            </xsl:matching-substring>
+                                                            <xsl:non-matching-substring>
+                                                                <xsl:value-of select="."/>
+                                                            </xsl:non-matching-substring>
+                                                        </xsl:analyze-string>
+                                                    </xsl:when>
+                                                    
+                                                    <!-- Wenn kein oder mehr als ein Komma enthalten ist -->
+                                                    <xsl:otherwise>
+                                                        <xsl:value-of select="$name"/>
+                                                    </xsl:otherwise>
+                                                </xsl:choose>
+                                                
+                                                <!-- Semikolon nur, wenn nicht letztes Element -->
+                                                <xsl:if test="not(position() = last())">
+                                                    <xsl:text>; </xsl:text>
+                                                </xsl:if>
+                                            </xsl:for-each>
+                                        </td>
+                                        
+                                        <td>
+                                            <xsl:for-each select="tei:listBibl/tei:bibl[not(tei:note[contains(., 'rezensi')]) and normalize-space(tei:title)]">
+                                                <xsl:value-of select="normalize-space(tei:title)"/>
+                                                <xsl:if test="not(position()=last())">
+                                                    <xsl:text>; </xsl:text>
+                                                </xsl:if>
+                                            </xsl:for-each>
                                         </td>
                                         <td>
-                                            <xsl:choose>
-                                                <xsl:when test="./tei:location/tei:geo">
-                                                    <xsl:value-of select="replace(tokenize(./tei:location[1]/tei:geo/text(), ' ')[last()], ',', '.')"/>
-                                                </xsl:when>
-                                            </xsl:choose>
+                                            <xsl:for-each select="tei:listPlace/tei:place">
+                                                <xsl:value-of select="tei:placeName"/>
+                                                <xsl:if test="not(position()=last())">
+                                                    <xsl:text>; </xsl:text>
+                                                </xsl:if>
+                                            </xsl:for-each>
                                         </td>
                                         <td>
-                                            <xsl:value-of select="$id"/>
+                                            <xsl:for-each select="tei:note[@type='listorg']/tei:listOrg/tei:org">
+                                                <xsl:value-of select="tei:orgName"/>
+                                                <xsl:if test="not(position()=last())">
+                                                    <xsl:text>; </xsl:text>
+                                                </xsl:if>
+                                            </xsl:for-each>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="@when-iso"/>
+                                        </td>
+                                        <td>
+                                            <a>
+                                                <xsl:attribute name="href">
+                                                    <xsl:value-of select="concat($id, '.html')"/>
+                                                </xsl:attribute>
+                                                <xsl:value-of select="$id"/>
+                                            </a>
+
+                                            
                                         </td>
                                     </tr>
                                 </xsl:for-each>
                             </tbody>
                         </table>
+                        <xsl:call-template name="tabulator_dl_buttons"/>
                         <div class="text-center p-4">
                             <xsl:call-template name="blockquote">
-                                <xsl:with-param name="pageId" select="'listplace.html'"/>
+                                <xsl:with-param name="pageId" select="'listevent.html'"/>
                             </xsl:call-template>
                         </div>
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <script type="text/javascript" src="vendor/tabulator-tables/js/tabulator.min.js"/>
-                <script src="js/map_table_cfg.js"/>
-                <script src="js/make_map_and_table.js"/>
+                <xsl:call-template name="tabulator_event_js"/>
                 
-                <script>
-                    build_map_and_table(map_cfg, table_cfg, wms_cfg=null, tms_cfg=tms_cfg);
-                </script>
             </body>
         </html>
         <xsl:for-each select=".//tei:place[@xml:id]">
