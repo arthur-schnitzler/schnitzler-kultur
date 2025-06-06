@@ -30,6 +30,7 @@
                 <main class="flex-shrink-0 flex-grow-1">
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
+                        <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Ereignissen</div>
                         <table class="table table-sm display" id="tabulator-table-event">
                             <thead>
                                 <tr>
