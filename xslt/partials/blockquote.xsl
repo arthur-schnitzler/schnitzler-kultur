@@ -11,7 +11,7 @@
             <h2 class="fs-4">Zitatvorlage</h2>
             <blockquote class="blockquote">
                 <p>
-                    <xsl:value-of select="$project_title"/>, herausgegeben von Martin Anton Müller und Laura Untner mit Katharina Sophie Kühnel, Wien 2025  (<a href="{$fullUrl}"><xsl:value-of select="$fullUrl"/></a>)
+                    <xsl:value-of select="$project_title"/>, herausgegeben von Martin Anton Müller und Laura Untner unter Mitarbeit von Katharina Sophie Kühnel, Wien 2025  (<a href="{$fullUrl}"><xsl:value-of select="$fullUrl"/></a>)
                 </p>
             </blockquote>
         </div>

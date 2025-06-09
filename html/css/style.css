@@ -8,3 +8,27 @@ div#map {
     outline: 0;
     box-shadow: 0 0 0 .25rem rgba(13,110,253,.25);
 }
+
+.404-body {
+    background-image: url('../images/404.jpg'); /* Hintergrundbild */
+    background-size: contain; /* Bild vollständig sichtbar */
+    background-position: center; /* Zentrieren */
+    background-repeat: no-repeat; /* Kein Wiederholen */
+    min-height: calc(100vh + 10px); /* Platz für Footer abziehen */
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.404-container {
+    padding: 20px;
+    max-width: 800px; /* Optionale Breitenbegrenzung */
+    margin: auto; /* Zentriere den Container */
+}
+
+.404-h1,
+.404-p,
+.404-small {
+    color: black;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.7); /* Schlagschatten */
+}
