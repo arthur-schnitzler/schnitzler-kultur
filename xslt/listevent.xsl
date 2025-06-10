@@ -49,6 +49,8 @@
                                     <th scope="col" tabulator-headerFilter="input"
                                         tabulator-formatter="html">Datum</th>
                                     <th scope="col" tabulator-headerFilter="input"
+                                        tabulator-formatter="html">Typ</th>
+                                    <th scope="col" tabulator-headerFilter="input"
                                         tabulator-formatter="html">Link</th>
                                     
                                 </tr>
@@ -96,6 +98,9 @@
                                                 <xsl:variable name="name" select="tei:persName"/>
                                                 
                                                 <xsl:choose>
+                                                    <xsl:when test="tei:persName/@key='pmb2121'">
+                                                        <xsl:text>AS</xsl:text>
+                                                    </xsl:when>
                                                     <!-- Wenn genau ein Komma enthalten ist -->
                                                     <xsl:when test="matches($name, '^[^,]+,\s*[^,]+$')">
                                                         <xsl:analyze-string select="$name" regex="^([^,]+),\s*(.+)$">
@@ -147,6 +152,9 @@
                                         </td>
                                         <td>
                                             <xsl:value-of select="@when-iso"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="tei:label"/>
                                         </td>
                                         <td>
                                             <a>
