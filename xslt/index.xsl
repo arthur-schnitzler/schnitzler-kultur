@@ -57,18 +57,15 @@
                                 id="body"/>
                             <p class="mt-3">Arthur Schnitzler war ein eifriger Besucher von Kulturveranstaltungen.
                                 Diese Website versammelt erstmals knapp 5800 öffentliche Ereignisse, die er zwischen 
-                                1876 und 1931 besuchte und macht sie durchsuchbar. Das umfasst auch Veranstaltungen, 
-                                bei denen er selbst tätig wurde, wie alle öffentlichen und privaten Lesungen. 
+                                1876 und 1931 besuchte und macht sie durchsuchbar. Das umfasst alle Veranstaltungen, 
+                                bei denen er selbst tätig wurde, darunter die öffentlichen und privaten Lesungen. 
                                Dazu kommen
                                 Theater-, Konzert-, Opern-, Kinobesuche, Besuche im Kaiserpanorama, Bälle und 
-                                Soiréen. 
-                                
-                                
-                            
+                                Soiréen. Schließlich sind auch erstmals alle Teilnahmen an Theaterproben erfasst.
                             </p>
                             
                             <a href="listevent.html">
-                                <button class="btn btn-round">Lesen</button>
+                                <button class="btn btn-round">Zur Liste</button>
                             </a>
                             <span>&#160;&#160;&#160;&#160;</span>
                             <a href="about.html">
@@ -78,40 +75,8 @@
                     </div>
                     <div class="container-fluid" style="margin:2em auto;">
                         <div class="row wrapper img_bottom">
-                            <div class="col-md-6 col-lg-6 col-sm-12">
-                                <a href="tocs.html" class="index-link">
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img class="d-block w-100"
-                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/korrespondenzen.jpg"
-                                                title="Quelle: ANNO, Die Bühne, datum=19310315"
-                                                alt="Schnitzlers Arbeitstisch"/>
-                                        </div>
-                                        <div class="card-header">
-                                            <h4>Korrespondenzen </h4>
-                                            <p>Auswahl anhand der Korrespondenzpartnerinnen und
-                                                -partner.</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-6 col-lg-6 col-sm-12">
-                                <a href="toc.html" class="index-link">
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img class="d-block w-100"
-                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/brief.jpg"
-                                                alt="Briefumschlag mit Schnitzlers aufgedruckter Absenderadresse"
-                                            />
-                                        </div>
-                                        <div class="card-header">
-                                            <h4>Korrespondenzstücke</h4>
-                                            <p>Verzeichnis aller edierten Briefe, Karten,
-                                                Widmungsexemplare und Telegramme.</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                            
+                            
                             <div class="col-md-6 col-lg-6 col-sm-12">
                                 <a href="calendar.html" class="index-link">
                                     <div class="card index-card">
@@ -123,7 +88,7 @@
                                         </div>
                                         <div class="card-header">
                                             <h4>Kalender</h4>
-                                            <p>Korrespondenzstücke anhand eines Datums finden.</p>
+                                            <p>Ereignisse anhand eines Datums</p>
                                         </div>
                                     </div>
                                 </a>
@@ -140,7 +105,7 @@
                                         </div>
                                         <div class="card-header">
                                             <h4>Personen</h4>
-                                            <p>In den Korrespondenzstücken erwähnte Personen.</p>
+                                            <p>Wer arbeitete an den Veranstaltungen mit? Wer nahm daran teil?</p>
                                         </div>
                                     </div>
                                 </a>
@@ -156,8 +121,7 @@
                                         </div>
                                         <div class="card-header">
                                             <h4>Werkverzeichnis</h4>
-                                            <p>In den Korrespondenzstücken erwähnte literarische wie
-                                                nicht-literarische Werke.</p>
+                                            <p>Welche Kunstwerke wurden aufgeführt?</p>
                                         </div>
                                     </div>
                                 </a>
@@ -174,9 +138,7 @@
                                         </div>
                                         <div class="card-header">
                                             <h4>Orte</h4>
-                                            <p>In den Korrespondenzstücken erwähnte geografische
-                                                Orte. Diese sind auch über ihre Koordinaten
-                                                erschlossen.</p>
+                                            <p>Die Veranstaltungsorte.</p>
                                         </div>
                                     </div>
                                 </a>
@@ -191,25 +153,8 @@
                                         </div>
                                         <div class="card-header">
                                             <h4>Institutionen und Organisationen</h4>
-                                            <p>In den Korrespondenzstücken erwähnte Verlage,
-                                                Redaktionen, Vereine, Gesellschaften, Firmen, Preise
-                                                …</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-6 col-lg-6 col-sm-12">
-                                <a href="https://schnitzler.acdh.oeaw.ac.at/" class="index-link"
-                                    target="_blank">
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img class="d-block w-100"
-                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/schnitzler-acdh.jpg"
-                                                title="Schnitzler am ACDH-CH"
-                                                alt="Schnitzler am ACDH-CH"/>
-                                        </div>
-                                        <div class="card-header">
-                                            <p>Schnitzler am ACDH-CH</p>
+                                            <p>Wer war der veranstaltende Organisation, 
+                                            welche Organisationen waren beteiligt?</p>
                                         </div>
                                     </div>
                                 </a>
