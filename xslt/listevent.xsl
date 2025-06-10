@@ -60,9 +60,16 @@
                                     <xsl:variable name="id">
                                         <xsl:value-of select="data(@xml:id)"/>
                                     </xsl:variable>
+                                    <xsl:variable name="idhtml" select="concat($id, '.html')"/>
                                     <tr>
                                         <td>
-                                            <xsl:value-of select="./tei:eventName[1]/text()"/>
+                                            <span hidden="hidden"><xsl:value-of select="./tei:eventName[1]/text()"/></span>
+                                            <a>
+                                                <xsl:attribute name="href">
+                                                    <xsl:value-of select="$idhtml"/>
+                                                </xsl:attribute>
+                                                <xsl:value-of select="./tei:eventName[1]/text()"/>
+                                            </a>
                                         </td>
                                         <td>
                                             <xsl:for-each select="tei:listPerson/tei:person[@role='hat als Arbeitskraft']">
@@ -154,17 +161,15 @@
                                             <xsl:value-of select="@when-iso"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select="tei:label"/>
+                                            <xsl:value-of select="@ana"/>
                                         </td>
                                         <td>
                                             <a>
                                                 <xsl:attribute name="href">
-                                                    <xsl:value-of select="concat($id, '.html')"/>
+                                                    <xsl:value-of select="$idhtml"/>
                                                 </xsl:attribute>
                                                 <xsl:value-of select="$id"/>
                                             </a>
-
-                                            
                                         </td>
                                     </tr>
                                 </xsl:for-each>
@@ -183,9 +188,9 @@
                 
             </body>
         </html>
-        <xsl:for-each select=".//tei:place[@xml:id]">
+        <xsl:for-each select=".//tei:event[@xml:id]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
-            <xsl:variable name="name" select="normalize-space(string-join(./tei:placeName[1]//text()))"></xsl:variable>
+            <xsl:variable name="name" select="normalize-space(string-join(./tei:eventName[1]//text()))"></xsl:variable>
             <xsl:result-document href="{$filename}">
                 <html class="h-100" lang="{$default_lang}">
                     <head>
@@ -213,21 +218,7 @@
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
-                        <xsl:if test="./tei:location/tei:geo">
-                            <link rel="stylesheet" href="vendor/leaflet/leaflet.css"/>
-                            <script src="vendor/leaflet/leaflet.js"></script>
-                            <script>
-                                var lat = <xsl:value-of select="replace(tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[1], ',', '.')"/>;
-                                var long = <xsl:value-of select="replace(tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[2], ',', '.')"/>;
-                                $("#map_detail").css("height", "500px");
-                                var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
-                                L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                                maxZoom: 19,
-                                attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-                                }).addTo(map);
-                                var marker = L.marker([Number(lat), Number(long)]).addTo(map);
-                            </script>
-                        </xsl:if>
+                        
                     </body>
                 </html>
             </xsl:result-document>

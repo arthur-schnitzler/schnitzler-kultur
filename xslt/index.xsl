@@ -26,8 +26,8 @@
                             <div class="col-md-6 col-lg-6 col-sm-12 wp-intro_left">
                                 <div class="intro_left">
                                     <h3 class="mt-3">Arthur Schnitzler</h3>
-                                    <h1 class="mt-3" style="text-align: left;">Kulturveranstaltungen. Konzert-, Theater-, Kinobesuche, Lesungen, Proben- und weitere Veranstaltungsteilnahmen</h1>
-                                    <h3 class="mt-3">1876–1931</h3>
+                                    <h1 class="mt-3" style="text-align: left;">Kulturveranstaltungen</h1>
+                                    <h3 class="mt-3">Konzert-, Theater-, Kinobesuche, Lesungen, Proben- und weitere Veranstaltungsteilnahmen. 1876–1931</h3>
                                     <h4 style="font-style: italic">Herausgegeben von Martin Anton
                                         Müller und Laura Untner<lb/>unter Mitarbeit von Katharina Sophie Kühnel</h4>
                                     <div style="text-align: right">
