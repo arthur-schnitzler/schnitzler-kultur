@@ -22,15 +22,16 @@
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
             </head>
-            <body class="404-body">
+            <body class="viernullvier-body">
                 <xsl:call-template name="nav_bar" />
                 <main class="flex-shrink-0 flex-grow-1">
                     <div class="container 404-container">
-                        <h1 class="404-h1">404</h1>
-                        <p class="404-p lead">
+                        <h1 class="viernullvier-h1">404</h1>
+                        <p class="viernullvier-p lead">
                             Die gewünschte Seite existiert leider nicht.
                         </p>
-                        <p>Zur <a href="index.html">Startseite</a>.</p>
+                        <p class="viernullvier-p lead">Zur <a href="index.html">Startseite</a>.</p>
+                        
                     </div>
                 </main>
                 <xsl:call-template name="html_footer" />
