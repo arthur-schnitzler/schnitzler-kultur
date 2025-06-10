@@ -3,6 +3,28 @@ div#map {
     height: 50vh;
 }
 
+.schnitzler-chronik-link,
+.schnitzler-chronik-link:visited{
+    color: #C67F53;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.schnitzler-tagebuch-link,
+.schnitzler-tagebuch-link:visited { 
+    color: #037A33;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.schnitzler-briefe-link,
+.schnitzler-briefe-link:visited { 
+    color: #A63437;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
 /** Match bootstrap navlink focus outline color. */
 :focus-visible {
     outline: 0;
@@ -1234,3 +1256,4 @@ div#map {
             overflow-x: auto; /* Horizontal scrollen */
             white-space: nowrap; /* Kein Umbruch für Kinder */
         }
+        
