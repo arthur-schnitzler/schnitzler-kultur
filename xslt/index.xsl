@@ -42,7 +42,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-12">
                                 <div class="intro_right wrapper">
                                     <img
-                                        src="../img/hero.jpg"
+                                        src="./images/hero.jpg"
                                         class="d-block w-100" style="max-width=30%;"
                                         alt="Arthur Schnitzer mit Alfred Kerr beim Essen, unappetitlich bunt"/>
                                 </div>
@@ -55,17 +55,19 @@
                                 position: relative;
                                 top: -250px; visibility: hidden"
                                 id="body"/>
-                            <p class="mt-3">Diese Webseite enthält zur Zeit 45 vollständige
-                                Korrespondenzen mit über 3.600 Briefen von und an Arthur Schnitzler
-                                (1862–1931). Viele davon werden erstmals veröffentlicht. Alle sind
-                                nach den Originalen in Archiven in Europa und Amerika durchgesehen
-                                und korrigiert.</p>
-                            <p class="mt-3" style="padding-bottom: 50px;">Seit 2022 wurden zwei
-                                große Korrespondenzen neu aufgenommen: Die 44. Korrespondenz, jene
-                                mit Paul Goldmann (rund 560 Briefe), und die 45. Korrespondenz,
-                                jene mit Felix Salten (ca. 430 Briefe). (<a
-                                    href="status.html">Projektstand</a>)</p>
-                            <a href="L00001.html">
+                            <p class="mt-3">Arthur Schnitzler war ein eifriger Besucher von Kulturveranstaltungen.
+                                Diese Website versammelt erstmals knapp 5800 öffentliche Ereignisse, die er zwischen 
+                                1876 und 1931 besuchte und macht sie durchsuchbar. Das umfasst auch Veranstaltungen, 
+                                bei denen er selbst tätig wurde, wie alle öffentlichen und privaten Lesungen. 
+                               Dazu kommen
+                                Theater-, Konzert-, Opern-, Kinobesuche, Besuche im Kaiserpanorama, Bälle und 
+                                Soiréen. 
+                                
+                                
+                            
+                            </p>
+                            
+                            <a href="listevent.html">
                                 <button class="btn btn-round">Lesen</button>
                             </a>
                             <span>&#160;&#160;&#160;&#160;</span>
