@@ -21,7 +21,7 @@ def pretty_xml(elem):
 entities = [
     {
         "url": "https://pmb.acdh.oeaw.ac.at/media/listperson.xml",
-        "local_list": "temp/mentioned-persons.xml",
+        "local_list": "./temp/mentioned-persons.xml",
         "list_tag": "listPerson",
         "item_tag": "person",
         "id_prefix": "person__",
@@ -29,7 +29,7 @@ entities = [
     },
     {
         "url": "https://pmb.acdh.oeaw.ac.at/media/listplace.xml",
-        "local_list": "temp/mentioned-places.xml",
+        "local_list": "./temp/mentioned-places.xml",
         "list_tag": "listPlace",
         "item_tag": "place",
         "id_prefix": "place__",
@@ -37,7 +37,7 @@ entities = [
     },
     {
         "url": "https://pmb.acdh.oeaw.ac.at/media/listorg.xml",
-        "local_list": "temp/mentioned-orgs.xml",
+        "local_list": "./temp/mentioned-orgs.xml",
         "list_tag": "listOrg",
         "item_tag": "org",
         "id_prefix": "org__",
@@ -45,7 +45,7 @@ entities = [
     },
     {
         "url": "https://pmb.acdh.oeaw.ac.at/media/listbibl.xml",
-        "local_list": "temp/mentioned-bibl.xml",
+        "local_list": "./temp/mentioned-bibl.xml",
         "list_tag": "listBibl",
         "item_tag": "bibl",
         "id_prefix": "work__",

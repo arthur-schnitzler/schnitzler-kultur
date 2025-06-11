@@ -6,14 +6,14 @@ NS = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
 # Zu verarbeitende Elemente und Zieldateien
 targets = [
-    ("persName", "../temp/mentioned-persons.xml", ".//tei:persName"),
-    ("placeName", "../temp/mentioned-places.xml", ".//tei:placeName"),
-    ("orgName", "../temp/mentioned-orgs.xml", ".//tei:orgName"),
-    ("bibl", "../temp/mentioned-bibl.xml", ".//tei:bibl/tei:title")
+    ("persName", "./temp/mentioned-persons.xml", ".//tei:persName"),
+    ("placeName", "./temp/mentioned-places.xml", ".//tei:placeName"),
+    ("orgName", "./temp/mentioned-orgs.xml", ".//tei:orgName"),
+    ("work", "./temp/mentioned-bibl.xml", ".//tei:bibl/tei:title")
 ]
 
 # XML einlesen
-tree = ET.parse("../data/editions/listevent.xml")
+tree = ET.parse("./data/editions/listevent.xml")
 root = tree.getroot()
 
 # Hilfsfunktion: XML schön formatieren
