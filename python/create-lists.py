@@ -82,7 +82,8 @@ for ent in entities:
     # 4. Speichern
     output_path = os.path.join(output_dir, ent["output"])
     print(f"Ziel: {output_path}")
-    print(f"Anzahl Elemente: {len(container.findall(f'tei:{ent['item_tag']}', namespaces=NS))}")
+    tag = ent['item_tag']
+    print(f"Anzahl Elemente: {len(container.findall(f'tei:{tag}', namespaces=NS))}")
 
     xml_string = pretty_xml(source_root)
     with open(output_path, "w", encoding="utf-8") as f:
