@@ -17,6 +17,16 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Python dependencies (falls benötigt)
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt || true
+
       - name: Download Saxon HE 10.8 (fat JAR)
         run: |
           mkdir saxon
@@ -35,10 +45,24 @@ jobs:
             -xsl:xslt/import-listevent.xsl \
             -o:data/editions/listevent.xml
 
-      - name: Commit and push changes
+      - name: Commit and push transformed XML
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/editions/listevent.xml
           git commit -m "Automatisch transformierte listevent.xml mit Saxon HE 10.8 aktualisiert" || echo "Keine Änderungen zu committen"
+          git push
+
+      - name: Run mentions-in-listevent.py
+        run: python ./python/mentions-in-listevent.py
+
+      - name: Run create-lists.py
+        run: python ./python/create-lists.py
+
+      - name: Commit and push indices
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/indices/*
+          git commit -m "Automatisch generierte Indexdateien aktualisiert" || echo "Keine Änderungen zu committen"
           git push
