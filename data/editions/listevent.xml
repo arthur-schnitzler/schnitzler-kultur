@@ -31540,35 +31540,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb208047" when-iso="1886-09-16">
-                    <eventName>Aufführung von Krisen, 16.9.1886</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208047/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb208046" when-iso="1886-09-10">
                     <eventName>Volkssänger Seidl und Wiesberg, 10.9.1886</eventName>
                     <note type="listorg">
@@ -31639,109 +31611,10 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb208043" when-iso="1886-07-05">
-                    <eventName>Aufführung von Ein Böhm in Amerika, 5.7.1886</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208043/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb43280"
-                                >Jantsch-Theater</placeName>
-                            <location>
-                                <geo>48,217566 16,3957</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb208035" when-iso="1886-05-01">
-                    <eventName>Aufführung von Die Reise in die Schweiz, 1.5.1886</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb211400">Gesellschaft Haulon-Lees</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208035/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb37">Theater an der
-                                Wien</placeName>
-                            <location>
-                                <geo>48,19941 16,3642</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb208034" when-iso="1886-04-25">
-                    <eventName>Aufführung von Die Börs-Wurz’n, 25.4.1886</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208034/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb43280"
-                                >Jantsch-Theater</placeName>
-                            <location>
-                                <geo>48,217566 16,3957</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb208028" when-iso="1886-04-11">
-                    <eventName>Aufführung von Gilette von Narbonne, die Straßensängerin,
-                        11.4.1886</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36996">Theater an der Wien</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208028/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb37">Theater an der
-                                Wien</placeName>
-                            <location>
-                                <geo>48,19941 16,3642</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
+                
+                
                 <event xml:id="pmb208027" when-iso="1886-04-02">
                     <eventName>Konzert im Curhaus-Saal, 2.4.1886</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208027/</idno>
@@ -31792,84 +31665,9 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb208025" when-iso="1886-03-29">
-                    <eventName>Aufführung von Ich werde mir den Major einladen, In der
-                        Sommerfrische, Der Gevatter von der Straße, Il baccio, 29.3.1886</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208025/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Arbeitskraft">
-                            <persName key="pmb12929">Tewele, Franz</persName>
-                        </person>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185866">Kurhaus
-                                Meran</placeName>
-                            <location>
-                                <geo>46,670419 11,16286</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb208024" when-iso="1886-03-27">
-                    <eventName>Aufführung von Ein delicater Auftrag, Ein Engel. Lustspiel in drei
-                        Acten, 27.3.1886</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208024/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Arbeitskraft">
-                            <persName key="pmb12929">Tewele, Franz</persName>
-                        </person>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185866">Kurhaus
-                                Meran</placeName>
-                            <location>
-                                <geo>46,670419 11,16286</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb208023" when-iso="1886-03-26">
-                    <eventName>Aufführung von Im Schlafe, Ein Ritter der Damen, Frauen-Emancipation,
-                        Taub muss er sein, 26.3.1886</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208023/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Arbeitskraft">
-                            <persName key="pmb12929">Tewele, Franz</persName>
-                        </person>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185866">Kurhaus
-                                Meran</placeName>
-                            <location>
-                                <geo>46,670419 11,16286</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
+                
                 <event xml:id="pmb208022" when-iso="1886-03-17">
                     <eventName>Poliklinikkränzchen, 17.3.1886</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208022/</idno>
@@ -31917,36 +31715,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb208019" when-iso="1886-03-09">
-                    <eventName>Aufführung von Der Botschafter. Operette in 3 Akten,
-                        9.3.1886</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36996">Theater an der Wien</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208019/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb37">Theater an der
-                                Wien</placeName>
-                            <location>
-                                <geo>48,19941 16,3642</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb208017" when-iso="1886-03-06">
                     <eventName>Ball Klein, 6.3.1886</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208017/</idno>
@@ -32025,34 +31794,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb208011" when-iso="1886-02-27">
-                    <eventName>Aufführung von Theatralischer Unsinn, 27.2.1886</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208011/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb208010" when-iso="1886-02-24">
                     <eventName>Ball Landau, 24.2.1886</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208010/</idno>
@@ -32664,62 +32406,8 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207958" when-iso="1885-10-31">
-                    <eventName>Aufführung von Des Teufels Anteil, 31.10.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36689">K.K. Hof-Oper</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207958/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
-                            <location>
-                                <geo>48,203 16,3691</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207956" when-iso="1885-10-24">
-                    <eventName>Aufführung von Walzerkönig, 24.10.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207956/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
                 <event xml:id="pmb207954" when-iso="1885-10-10">
                     <eventName>Premiere von Doktor Papinger, 10.10.1885</eventName>
                     <note type="listorg">
@@ -32749,85 +32437,9 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207953" when-iso="1885-10-05">
-                    <eventName>Aufführung von Papageno, Die kleine Schlange, 5.10.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207953/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207952" when-iso="1885-10-01">
-                    <eventName>Aufführung von Blanche und Schmutz, 1.10.1885</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207952/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185983">Gerhold’s
-                                Restauration</placeName>
-                            <location>
-                                <geo>48,215861 16,365842</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207950" when-iso="1885-09-26">
-                    <eventName>Aufführung von König Koloman, 26.9.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207950/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
+                
                 <event xml:id="pmb207949" when-iso="1885-09-25">
                     <eventName>Premiere von Die Leibrente, 25.9.1885</eventName>
                     <note type="listorg">
@@ -32888,35 +32500,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207944" when-iso="1885-09-17">
-                    <eventName>Aufführung Wiener Tanzsängerinnen im Saal zum grünen Thor,
-                        17.9.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb211397">Wiener Tanzsängerinnen</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207944/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185977">Grünes Tor</placeName>
-                            <location>
-                                <geo>48,206573 16,352412</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207942" when-iso="1885-09-13">
                     <eventName>Danzer’s Orpheum, 13.9.1885</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207942/</idno>
@@ -32991,32 +32575,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207938" when-iso="1885-09-09">
-                    <eventName>Aufführung von Der Glücksengel, oder: Eine moderne Mascotte,
-                        9.9.1885</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207938/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Arbeitskraft">
-                            <persName key="pmb195377">Fish, Marguerite</persName>
-                        </person>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb43280"
-                                >Jantsch-Theater</placeName>
-                            <location>
-                                <geo>48,217566 16,3957</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207937" when-iso="1885-09-07">
                     <eventName>Danzer’s Orpheum, 7.9.1885</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207937/</idno>
@@ -33060,33 +32619,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207932" when-iso="1885-08-02">
-                    <eventName>Aufführung von Ein Taugenichts. Schwank mit Gesang in einem Akt,
-                        Resch und Fesch. Gesangsposse, Heimliche Liebe. Schwank mit Gesank in einem
-                        Akt, 2.8.1885</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207932/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Arbeitskraft">
-                            <persName key="pmb195377">Fish, Marguerite</persName>
-                        </person>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb43280"
-                                >Jantsch-Theater</placeName>
-                            <location>
-                                <geo>48,217566 16,3957</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207931" when-iso="1885-08-02">
                     <eventName>Volkssängerin Kutzel, 2.8.1885</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207931/</idno>
@@ -33255,57 +32788,8 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207915" when-iso="1885-05-13">
-                    <eventName>Aufführung von Vollblut. Schwank in zwei Acten, Gavand, Minard &amp;
-                        Compagnie, 13.5.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207915/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207913" when-iso="1885-04-19">
-                    <eventName>Aufführung von Gilette de Narbonne, 19.4.1885</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207913/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb92603"
-                                >Wiednertheater</placeName>
-                            <location>
-                                <geo>48,199478 16,364351</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
                 <event xml:id="pmb207912" when-iso="1885-04-13">
                     <eventName>Vorlesung Alexander Strakosch, 13.4.1885</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207912/</idno>
@@ -33322,34 +32806,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207911" when-iso="1885-04-07">
-                    <eventName>Aufführung von Lucia di Lammermoor, 7.4.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207911/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207910" when-iso="1885-04-03">
                     <eventName>Vorlesung Alexander Strakosch, 3.4.1885</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207910/</idno>
@@ -33366,34 +32823,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207909" when-iso="1885-03-29">
-                    <eventName>Aufführung von Manfred, 29.3.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36689">K.K. Hof-Oper</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207909/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
-                            <location>
-                                <geo>48,203 16,3691</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207908" when-iso="1885-03-23">
                     <eventName>Zirkus, 23.3.1885</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207908/</idno>
@@ -33675,34 +33105,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207888" when-iso="1885-01-24">
-                    <eventName>Aufführung von Goldene Spinne, 24.1.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207888/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207887" when-iso="1885-01-23">
                     <eventName>Gesangskonzert Gustav Walter, 23.1.1885</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207887/</idno>
@@ -33757,63 +33160,8 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207883" when-iso="1885-01-07">
-                    <eventName>Aufführung von Defizit, 7.1.1885</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207883/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207872" when-iso="1884-06-06">
-                    <eventName>Aufführung von Fallissement, 6.6.1884</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207872/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
                 <event xml:id="pmb207869" when-iso="1884-04-06">
                     <eventName>Philharmonisches-Konzert, 6.4.1884</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207869/</idno>
@@ -34135,27 +33483,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207850" when-iso="1884-02-19">
-                    <eventName>Aufführung von Mit Vergnügen, 19.2.1884</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207850/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207849" when-iso="1884-02-12">
                     <eventName>Studentenball, 12.2.1884</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207849/</idno>
@@ -34485,232 +33813,14 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207826" when-iso="1883-09-30">
-                    <eventName>Aufführung von Narziss, 30.9.1883</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207826/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207825" when-iso="1883-09-26">
-                    <eventName>Aufführung von Geheimer Agent, 26.9.1883</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207825/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207823" when-iso="1883-09-22">
-                    <eventName>Aufführung von Prinz Eugen, 22.9.1883</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207823/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207822" when-iso="1883-09-20">
-                    <eventName>Aufführung von Hotel Godelot, 20.9.1883</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207822/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207821" when-iso="1883-09-18">
-                    <eventName>Aufführung von Bibliothekar, 18.9.1883</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207821/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207820" when-iso="1883-07-10">
-                    <eventName>Aufführung von Drei Paar Schuhe, 10.7.1883</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb42649">Saisontheater Ischl</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207820/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb1179">Lehártheater</placeName>
-                            <location>
-                                <geo>47,712959 13,622439</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207819" when-iso="1883-06-30">
-                    <eventName>Aufführung von Eine mit Talent. Posse mit Gesang in 4 Acten,
-                        30.6.1883</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb42649">Saisontheater Ischl</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207819/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Arbeitskraft">
-                            <persName key="pmb195382">Sternenthal, Paula</persName>
-                        </person>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb1179">Lehártheater</placeName>
-                            <location>
-                                <geo>47,712959 13,622439</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207814" when-iso="1883-06-04">
-                    <eventName>Aufführung von Der verarmte Edelmann, 4.6.1883</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207814/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
+                
+                
+                
+                
+                
+                
                 <event xml:id="pmb207813" when-iso="1883-05-19">
                     <eventName>Premiere von Der erste Brief. Original-Lustspiel in einem Acte, Der
                         neue Paganini. Lustspiel in einem Acte, Recept gegen Hausfreunde. Lustspiel
@@ -34799,38 +33909,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207805" when-iso="1883-04-03">
-                    <eventName>Aufführung von La Sonnambula. Melodramma in tre atti,
-                        3.4.1883</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207805/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Arbeitskraft">
-                            <persName key="pmb96144">Gardini, Etelka</persName>
-                        </person>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207804" when-iso="1883-04-02">
                     <eventName>Klavierkonzert Anton Rückauf, 2.4.1883</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207804/</idno>
@@ -34981,27 +34060,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207793" when-iso="1883-02-17">
-                    <eventName>Aufführung von Verirrtes Schäfchen, 17.2.1883</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207793/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207792" when-iso="1883-02-14">
                     <eventName>Ball Pollitzer, 14.2.1883</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207792/</idno>
@@ -35080,27 +34139,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207786" when-iso="1883-01-27">
-                    <eventName>Aufführung von Kniff, 27.1.1883</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207786/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207785" when-iso="1883-01-25">
                     <eventName>Maskenball im Grünes Tor, 25.1.1883</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207785/</idno>
@@ -35215,28 +34254,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207777" when-iso="1882-12-22">
-                    <eventName>Aufführung von Das unbekannte X. Schwank in 2 Acten, Splitter und
-                        Balken. Lustspiel in einem Acte, 22.12.1882</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207777/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207776" when-iso="1882-12-19">
                     <eventName>Philharmonisches-Konzert, 19.12.1882</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207776/</idno>
@@ -35330,98 +34348,10 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207766" when-iso="1882-11-09">
-                    <eventName>Aufführung von Kleiner Konfusionsrat, 9.11.1882</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207766/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207765" when-iso="1882-10-09">
-                    <eventName>Aufführung von Schwabenstreich, 9.10.1882</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207765/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207763" when-iso="1882-09-23">
-                    <eventName>Aufführung von Schwere Zeiten, 23.9.1882</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207763/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207762" when-iso="1882-09-03">
-                    <eventName>Aufführung von Karolinger, 3.9.1882</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207762/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
+                
+                
                 <event xml:id="pmb207761" when-iso="1882-07-15">
                     <eventName>Schlussproduktion Konservatorium, 15.7.1882</eventName>
                     <note type="listorg">
@@ -35443,78 +34373,9 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207757" when-iso="1882-06-21">
-                    <eventName>Aufführung von Rosa Dominos, 21.6.1882</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207757/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207756" when-iso="1882-06-14">
-                    <eventName>Aufführung von Um ein Nichts. Lustspiel in vier Akten,
-                        14.6.1882</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207756/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207752" when-iso="1882-04-26">
-                    <eventName>Aufführung von Reif-Reiflingen, 26.4.1882</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207752/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
+                
                 <event xml:id="pmb207751" when-iso="1882-04-02">
                     <eventName>Ausserordentliches philharmonisches Konzert, 2.4.1882</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207751/</idno>
@@ -35846,28 +34707,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207725" when-iso="1881-12-27">
-                    <eventName>Aufführung von Der lustige Krieg, 27.12.1881</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207725/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb92603"
-                                >Wiednertheater</placeName>
-                            <location>
-                                <geo>48,199478 16,364351</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207724" when-iso="1881-12-26">
                     <eventName>Philharmonisches-Konzert, 26.12.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207724/</idno>
@@ -35881,27 +34721,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207723" when-iso="1881-12-17">
-                    <eventName>Aufführung von Frau von Navarre, 17.12.1881</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207723/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207722" when-iso="1881-12-08">
                     <eventName>Soirée bei Pollak, 8.12.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207722/</idno>
@@ -35989,114 +34809,10 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207717" when-iso="1881-09-30">
-                    <eventName>Aufführung von Wohltätige Frauen, 30.9.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207717/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207715" when-iso="1881-09-26">
-                    <eventName>Aufführung von Krieg im Frieden, 26.9.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207715/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207713" when-iso="1881-09-18">
-                    <eventName>Aufführung von Aria und Messalina, 18.9.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207713/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207712" when-iso="1881-09-14">
-                    <eventName>Aufführung von Die Höhle des Löwen, 14.9.1881</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207712/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
+                
+                
                 <event xml:id="pmb207709" when-iso="1881-08-11">
                     <eventName>Konzert von Harner, Schwarzmeyer, Löwy, 11.8.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207709/</idno>
@@ -36130,35 +34846,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207708" when-iso="1881-06-24">
-                    <eventName>Aufführung von Ein Schritt vom Wege, 24.6.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207708/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207707" when-iso="1881-06-20">
                     <eventName>Akademisches Sommerfest mit bal Champêtre, 20.6.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207707/</idno>
@@ -36222,65 +34910,8 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207703" when-iso="1881-06-12">
-                    <eventName>Aufführung von Die Eine weint, die Andere lacht, Hector. Schwank in
-                        einem Akte, 12.6.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207703/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207700" when-iso="1881-06-01">
-                    <eventName>Aufführung von Marquis von Villemer, 1.6.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207700/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
                 <event xml:id="pmb207699" when-iso="1881-05-31">
                     <eventName>Premiere von Die deutschen Kleinstädter, 31.5.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207699/</idno>
@@ -36346,28 +34977,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207693" when-iso="1881-05-19">
-                    <eventName>Aufführung von Weihnachtsbaum, 19.5.1881</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207693/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb92603"
-                                >Wiednertheater</placeName>
-                            <location>
-                                <geo>48,199478 16,364351</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207692" when-iso="1881-05-17">
                     <eventName>Hochzeit und Tanz bei Adler, 17.5.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207692/</idno>
@@ -36381,57 +34991,8 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207691" when-iso="1881-05-12">
-                    <eventName>Aufführung von Die Brautfahrt, 12.5.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207691/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207690" when-iso="1881-05-08">
-                    <eventName>Premiere von Von der Aar zur Donau. Festspiel in zwei Bildern, Bürger
-                        auf der Brautfahrt, 8.5.1881</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207690/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
                 <event xml:id="pmb207685" when-iso="1881-04-21">
                     <eventName>Auftritt von Quartett Hellmesberger, 21.4.1881</eventName>
                     <note type="listorg">
@@ -36452,27 +35013,7 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207684" when-iso="1881-04-06">
-                    <eventName>Aufführung von Hypochonder, 6.4.1881</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207684/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207683" when-iso="1881-04-04">
                     <eventName>Gesangskonzert im Bösendorfer-Saal, 4.4.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207683/</idno>
@@ -36533,27 +35074,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207680" when-iso="1881-03-28">
-                    <eventName>Aufführung von Löwenritt, 28.3.1881</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207680/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207679" when-iso="1881-03-19">
                     <eventName>Soirée dansante Walter, 19.3.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207679/</idno>
@@ -36696,27 +35217,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207668" when-iso="1881-03-02">
-                    <eventName>Aufführung von Bürger auf der Brautfahrt, 2.3.1881</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207668/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207667" when-iso="1881-02-25">
                     <eventName>Universitätskränzchen, 25.2.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207667/</idno>
@@ -36866,27 +35367,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207659" when-iso="1881-02-14">
-                    <eventName>Aufführung von Ein Lustspiel aus dem Leben, 14.2.1881</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207659/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207658" when-iso="1881-02-12">
                     <eventName>Studentenball, 12.2.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207658/</idno>
@@ -36972,34 +35453,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207654" when-iso="1881-02-01">
-                    <eventName>Aufführung von Kampel, 1.2.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207654/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207653" when-iso="1881-01-28">
                     <eventName>Medizinerball, 28.1.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207653/</idno>
@@ -37140,63 +35594,8 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207646" when-iso="1881-01-08">
-                    <eventName>Aufführung von Apajune, 8.1.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36996">Theater an der Wien</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207646/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb37">Theater an der
-                                Wien</placeName>
-                            <location>
-                                <geo>48,19941 16,3642</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207645" when-iso="1881-01-07">
-                    <eventName>Aufführung von Der Unbedeutende, 7.1.1881</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207645/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
                 <event xml:id="pmb207644" when-iso="1881-01-06">
                     <eventName>Soirée musicale bei Dr. Löw, 6.1.1881</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207644/</idno>
@@ -37403,27 +35802,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207628" when-iso="1880-11-22">
-                    <eventName>Aufführung von Kleine Mama, 22.11.1880</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207628/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207627" when-iso="1880-11-21">
                     <eventName>Philharmonisches-Konzert, 21.11.1880</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207627/</idno>
@@ -37437,56 +35816,8 @@
                         </person>
                     </listPerson>
                 </event>
-                <event xml:id="pmb207626" when-iso="1880-11-20">
-                    <eventName>Aufführung von Grosse Kinder, 20.11.1880</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb63031">Carl-Theater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207626/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
-                            <location>
-                                <geo>48,215 16,384444</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207625" when-iso="1880-11-16">
-                    <eventName>Aufführung von Die Wiener in Paris, Freund Babolin, Habe keine Zeit,
-                        16.11.1880</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207625/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
                 <event xml:id="pmb207622" when-iso="1880-11-04">
                     <eventName>Universitätskommers, 4.11.1880</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207622/</idno>
@@ -37508,27 +35839,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207621" when-iso="1880-11-04">
-                    <eventName>Aufführung von Teufelsfelsen, 4.11.1880</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207621/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207620" when-iso="1880-10-30">
                     <eventName>Kneipe des Akademischen Gesangsvereins, 30.10.1880</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207620/</idno>
@@ -37596,112 +35907,10 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207612" when-iso="1880-09-24">
-                    <eventName>Aufführung von Furcht vor der Freude, Flattersucht,
-                        24.9.1880</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207612/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207611" when-iso="1880-09-20">
-                    <eventName>Aufführung von Ein Schritt vom Wege, 20.9.1880</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207611/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207604" when-iso="1880-09-02">
-                    <eventName>Aufführung von Der verarmte Edelmann, 2.9.1880</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207604/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Arbeitskraft">
-                            <persName key="pmb24530">Schubert</persName>
-                        </person>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb92393"
-                                >Matzleinsdorfertheater</placeName>
-                            <location>
-                                <geo>48,183362 16,360646</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207603" when-iso="1880-08-26">
-                    <eventName>Aufführung von Ultimo, 26.8.1880</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207603/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb92393"
-                                >Matzleinsdorfertheater</placeName>
-                            <location>
-                                <geo>48,183362 16,360646</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
+                
+                
                 <event xml:id="pmb207600" when-iso="1880-07-20">
                     <eventName>Kommers des Deutsch-Österreichischen Lesevereins der Wiener
                         Universität und der Akademischen Lesehalle, 20.7.1880</eventName>
@@ -37825,92 +36034,9 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207594" when-iso="1880-06-22">
-                    <eventName>Aufführung von Gute Freunde, 22.6.1880</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207594/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207592" when-iso="1880-06-16">
-                    <eventName>Aufführung von Glöckchen des Eremiten, 16.6.1880</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36689">K.K. Hof-Oper</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207592/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
-                            <location>
-                                <geo>48,203 16,3691</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
-                <event xml:id="pmb207591" when-iso="1880-06-14">
-                    <eventName>Aufführung von Graf Essex, 14.6.1880</eventName>
-                    <note type="listorg">
-                        <listOrg>
-                            <org role="veranstaltet von">
-                                <orgName key="pmb36247">Burgtheater</orgName>
-                            </org>
-                        </listOrg>
-                    </note>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207591/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes
-                                Burgtheater]</placeName>
-                            <location>
-                                <geo>48,20778 16,36645</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
+                
+                
                 <event xml:id="pmb207588" when-iso="1880-06-05">
                     <eventName>Aufführung von Tochter des Herrn Fabrizius, 5.6.1880</eventName>
                     <note type="listorg">
@@ -37994,6 +36120,41 @@
                             <placeName role="veranstaltet in" key="pmb15">Oper</placeName>
                             <location>
                                 <geo>48,203 16,3691</geo>
+                            </location>
+                        </place>
+                    </listPlace>
+                </event>
+                <event xml:id="pmb208273" when-iso="1888-09-12">
+                    <eventName n="Theateraufführung">
+                        Aufführung von Die Tochter des Herrn Fabricius, 12.9.1888
+                    </eventName>
+                    <note type="listorg">
+                        <listOrg>
+                            <org role="veranstaltet von">
+                                <orgName key="pmb36247">Burgtheater</orgName>
+                            </org>
+                        </listOrg>
+                    </note>
+                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208273/</idno>
+                    <listBibl>
+                        <bibl type="collections" n="31">temp-issue-227</bibl>
+                    </listBibl>
+                    <listBibl>
+                        <bibl>
+                            <title key="pmb77531">Die Tochter des Herrn Fabricius</title>
+                            <note type="relation-type">ist Aufführung von</note>
+                        </bibl>
+                    </listBibl>
+                    <listPerson>
+                        <person role="hat als Teilnehmer:in">
+                            <persName key="pmb2121">Schnitzler, Arthur</persName>
+                        </person>
+                    </listPerson>
+                    <listPlace>
+                        <place>
+                            <placeName role="veranstaltet in" key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
+                            <location>
+                                <geo>48,20778 16,36645</geo>
                             </location>
                         </place>
                     </listPlace>
@@ -40183,28 +38344,7 @@
                         </place>
                     </listPlace>
                 </event>
-                <event xml:id="pmb207417" when-iso="1878-01-01">
-                    <eventName>Aufführung von Splitter und Balken, Cato von Eisen,
-                        1.1.1878</eventName>
-                    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207417/</idno>
-                    <listBibl>
-                        <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-                        <bibl type="collections" n="31">temp-issue-227</bibl>
-                    </listBibl>
-                    <listPerson>
-                        <person role="hat als Teilnehmer:in">
-                            <persName key="pmb2121">Schnitzler, Arthur</persName>
-                        </person>
-                    </listPerson>
-                    <listPlace>
-                        <place>
-                            <placeName role="veranstaltet in" key="pmb19">Ronacher</placeName>
-                            <location>
-                                <geo>48,205139 16,375</geo>
-                            </location>
-                        </place>
-                    </listPlace>
-                </event>
+                
                 <event xml:id="pmb207416" when-iso="1877-12-30">
                     <eventName>Philharmonisches-Konzert, 30.12.1877</eventName>
                     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207416/</idno>
