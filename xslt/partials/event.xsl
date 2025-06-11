@@ -198,54 +198,21 @@
                         </ul>
                     </td>
                 </tr>
-                <xsl:if test="./tei:idno[@type = 'WIKIDATA']">
+                <xsl:if test="descendant::tei:listOrg">
                     <tr>
-                        <th> Wikidata ID </th>
-                        <td>
-                            <a href="{./tei:idno[@type='WIKIDATA']}" target="_blank">
-                                <xsl:value-of
-                                    select="tokenize(./tei:idno[@type = 'WIKIDATA'], '/')[last()]"/>
-                            </a>
-                        </td>
-                    </tr>
-                </xsl:if>
-                <xsl:if test="./tei:idno[@type = 'GND']">
-                    <tr>
-                        <th> GND ID </th>
-                        <td>
-                            <a href="{./tei:idno[@type='GND']}" target="_blank">
-                                <xsl:value-of
-                                    select="tokenize(./tei:idno[@type = 'GND'], '/')[last()]"/>
-                            </a>
-                        </td>
-                    </tr>
-                </xsl:if>
-                <xsl:if test=".//tei:location">
-                    <tr>
-                        <th> Latitude </th>
-                        <td>
-                            <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1], '\s')[1]"/>
-                        </td>
-                    </tr>
-                </xsl:if>
-                <xsl:if test=".//tei:location">
-                    <tr>
-                        <th> Longitude </th>
-                        <td>
-                            <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1], '\s')[2]"/>
-                        </td>
-                    </tr>
-                </xsl:if>
-                <xsl:if test="./tei:noteGrp/tei:note[@type = 'mentions']">
-                    <tr>
-                        <th> Erwähnt in </th>
+                        <th>Beteiligte Institution</th>
                         <td>
                             <ul>
-                                <xsl:for-each select="./tei:noteGrp/tei:note[@type = 'mentions']">
+                                <xsl:for-each
+                                    select="tei:note[@type = 'listorg']/tei:listOrg/tei:org">
                                     <li>
-                                        <a href="{replace(@target, '.xml', '.html')}">
-                                            <xsl:value-of select="./text()"/>
-                                        </a>
+                                        <xsl:element name="a">
+                                            <xsl:attribute name="href">
+                                                <xsl:value-of
+                                                  select="concat(tei:orgName/@key, '.html')"/>
+                                            </xsl:attribute>
+                                            <xsl:value-of select="tei:orgName"/>
+                                        </xsl:element>
                                     </li>
                                 </xsl:for-each>
                             </ul>
