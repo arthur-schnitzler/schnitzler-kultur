@@ -61,7 +61,7 @@
                                 bei denen er selbst tätig wurde, darunter die öffentlichen und privaten Lesungen. 
                                Dazu kommen
                                 Theater-, Konzert-, Opern-, Kinobesuche, Besuche im Kaiserpanorama, Bälle und 
-                                Soiréen. Schließlich sind auch erstmals alle Teilnahmen an Theaterproben erfasst.
+                                Soiréen. Erstmals sind auch alle Teilnahmen an Theaterproben erfasst.
                             </p>
                             
                             <a href="listevent.html">

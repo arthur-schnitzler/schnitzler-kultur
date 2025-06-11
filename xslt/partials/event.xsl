@@ -49,72 +49,155 @@
                         </xsl:if>
                     </td>
                 </tr>
-               
                 <tr>
                     <th>Veranstaltungsort</th>
                     <td>
-                        <xsl:for-each select="tei:listPlace/tei:place/tei:placeName[1]">
+                        <xsl:for-each select="tei:listPlace/tei:place">
                             <xsl:element name="a">
                                 <xsl:attribute name="target">
                                     <xsl:text>_blank</xsl:text>
                                 </xsl:attribute>
                                 <xsl:attribute name="href">
-                                    <xsl:value-of
-                                        select="concat(@key, '.html')"
-                                    />
+                                    <xsl:value-of select="concat(tei:placeName/@key, '.html')"/>
                                 </xsl:attribute>
-                                <xsl:value-of select="normalize-space(.)"/>
+                                <xsl:value-of select="normalize-space(tei:placeName)"/>
                             </xsl:element>
-                          <xsl:if test="not(position()=last())">
-                              <xsl:text>, </xsl:text>
-                          </xsl:if>
+                            <xsl:if test="./tei:location/tei:geo">
+                                <div id="map_detail" style="height: 250px; width: 400px;"/>
+                                <xsl:variable name="mlat"
+                                    select="replace(tokenize(./tei:location[1]/tei:geo[1], '\s')[1], ',', '.')"/>
+                                <xsl:variable name="mlong"
+                                    select="replace(tokenize(./tei:location[1]/tei:geo[1], '\s')[2], ',', '.')"/>
+                                <xsl:variable name="mappin"
+                                    select="concat('mlat=',$mlat, '&amp;mlon=', $mlong)"
+                                    as="xs:string"/>
+                                <xsl:variable name="openstreetmapurl"
+                                    select="concat('https://www.openstreetmap.org/?', $mappin, '#map=12/', $mlat, '/', $mlong)"/>
+                                <a class="osm-link">
+                                    <xsl:attribute name="href">
+                                        <xsl:value-of select="$openstreetmapurl"/>
+                                    </xsl:attribute>
+                                    <xsl:attribute name="target">
+                                        <xsl:text>_blank</xsl:text>
+                                    </xsl:attribute>
+                                    <i class="bi bi-box-arrow-up-right"/> OpenStreetMap </a>
+                            </xsl:if>
                         </xsl:for-each>
                     </td>
                 </tr>
-                <xsl:if test="./tei:location[@type = 'located_in_place']">
+                <xsl:if test="tei:listBibl/tei:title">
                     <tr>
-                        <th> Teil von </th>
+                        <th>Aufgeführte Werke</th>
                         <td>
                             <ul>
-                                <xsl:for-each select="./tei:location[@type = 'located_in_place']">
+                                <xsl:for-each
+                                    select="tei:listBibl/tei:bibl[not(tei:note[contains(., 'rezensi')]) and normalize-space(tei:title)]">
                                     <li>
-                                        <a href="{./tei:placeName/@key}.html">
-                                            <xsl:value-of select="./tei:placeName"/>
-                                        </a>
+                                        <xsl:element name="a">
+                                            <xsl:attribute name="href">
+                                                <xsl:value-of
+                                                  select="concat(tei:title/@key, '.html')"/>
+                                            </xsl:attribute>
+                                            <xsl:value-of select="normalize-space(tei:title)"/>
+                                        </xsl:element>
                                     </li>
                                 </xsl:for-each>
                             </ul>
                         </td>
                     </tr>
                 </xsl:if>
-                <xsl:if test="./tei:country">
+                <xsl:if test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft']">
                     <tr>
-                        <th> Land </th>
+                        <th>Arbeitskräfte</th>
                         <td>
-                            <xsl:value-of select="./tei:country"/>
+                            <ul>
+                                <xsl:for-each
+                                    select="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft']">
+                                    <li>
+                                        <xsl:variable name="name" select="tei:persName"/>
+                                        <xsl:choose>
+                                            <!-- Wenn genau ein Komma enthalten ist -->
+                                            <xsl:when test="matches($name, '^[^,]+,\s*[^,]+$')">
+                                                <xsl:element name="a">
+                                                  <xsl:attribute name="href">
+                                                  <xsl:value-of select="concat($name/@key, '.html')"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <xsl:analyze-string select="$name"
+                                                  regex="^([^,]+),\s*(.+)$">
+                                                  <xsl:matching-substring>
+                                                  <xsl:value-of select="regex-group(2)"/>
+                                                  <xsl:text> </xsl:text>
+                                                  <xsl:value-of select="regex-group(1)"/>
+                                                  </xsl:matching-substring>
+                                                  <xsl:non-matching-substring>
+                                                  <xsl:value-of select="."/>
+                                                  </xsl:non-matching-substring>
+                                                  </xsl:analyze-string>
+                                                </xsl:element>
+                                            </xsl:when>
+                                            <!-- Wenn kein oder mehr als ein Komma enthalten ist -->
+                                            <xsl:otherwise>
+                                                <xsl:element name="a">
+                                                  <xsl:attribute name="href">
+                                                  <xsl:value-of select="concat($name/@key, '.html')"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <xsl:value-of select="$name"/>
+                                                </xsl:element>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </li>
+                                </xsl:for-each>
+                            </ul>
                         </td>
                     </tr>
                 </xsl:if>
-                <xsl:if test="./tei:settlement">
-                    <tr>
-                        <th> Ortstyp </th>
-                        <td>
-                            <xsl:value-of select="./tei:settlement/@type"/>, <xsl:value-of
-                                select="./tei:desc[@type = 'entity_type']"/>
-                        </td>
-                    </tr>
-                </xsl:if>
-                <xsl:if test="./tei:idno[@type = 'GEONAMES']">
-                    <tr>
-                        <th> Geonames ID </th>
-                        <td>
-                            <a href="{./tei:idno[@type='GEONAMES']}" target="_blank">
-                                <xsl:value-of
-                                    select="tokenize(./tei:idno[@type = 'GEONAMES'], '/')[4]"/>
-                            </a>
-                        </td>
-                    </tr>
-                </xsl:if>
+                <tr>
+                    <th>Teilnehmende</th>
+                    <td>
+                        <ul>
+                            <xsl:for-each
+                                select="tei:listPerson/tei:person[@role = 'hat als Teilnehmer:in']">
+                                <li>
+                                    <xsl:variable name="name" select="tei:persName"/>
+                                    <xsl:choose>
+                                        <!-- Wenn genau ein Komma enthalten ist -->
+                                        <xsl:when test="matches($name, '^[^,]+,\s*[^,]+$')">
+                                            <xsl:element name="a">
+                                                <xsl:attribute name="href">
+                                                  <xsl:value-of select="concat($name/@key, '.html')"
+                                                  />
+                                                </xsl:attribute>
+                                                <xsl:analyze-string select="$name"
+                                                  regex="^([^,]+),\s*(.+)$">
+                                                  <xsl:matching-substring>
+                                                  <xsl:value-of select="regex-group(2)"/>
+                                                  <xsl:text> </xsl:text>
+                                                  <xsl:value-of select="regex-group(1)"/>
+                                                  </xsl:matching-substring>
+                                                  <xsl:non-matching-substring>
+                                                  <xsl:value-of select="."/>
+                                                  </xsl:non-matching-substring>
+                                                </xsl:analyze-string>
+                                            </xsl:element>
+                                        </xsl:when>
+                                        <!-- Wenn kein oder mehr als ein Komma enthalten ist -->
+                                        <xsl:otherwise>
+                                            <xsl:element name="a">
+                                                <xsl:attribute name="href">
+                                                  <xsl:value-of select="concat($name/@key, '.html')"
+                                                  />
+                                                </xsl:attribute>
+                                                <xsl:value-of select="$name"/>
+                                            </xsl:element>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </li>
+                            </xsl:for-each>
+                        </ul>
+                    </td>
+                </tr>
                 <xsl:if test="./tei:idno[@type = 'WIKIDATA']">
                     <tr>
                         <th> Wikidata ID </th>

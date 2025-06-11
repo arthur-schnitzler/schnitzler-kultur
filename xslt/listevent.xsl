@@ -248,6 +248,14 @@
                         <xsl:call-template name="html_head">
                             <xsl:with-param name="html_title" select="$name"/>
                         </xsl:call-template>
+                        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+                            integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+                        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""/>
+                        <link rel="stylesheet"
+                            href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"/>
+                        <link rel="stylesheet"
+                            href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"/>
+                        <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"/>
                     </head>
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
@@ -266,6 +274,25 @@
                         </main>
                         <xsl:call-template name="html_footer"/>
                     </body>
+                    
+                        <link rel="stylesheet"
+                            href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+                            integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+                            crossorigin=""/>
+                        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""/>
+                        <script>
+                            var lat = <xsl:value-of select="replace(tokenize(descendant::tei:location[1]/tei:geo[1]/text(), ' ')[1], ',', '.')"/>;
+                            var long = <xsl:value-of select="replace(tokenize(descendant::tei:location[1]/tei:geo[1]/text(), ' ')[2], ',', '.')"/>;
+                            $("#map_detail").css("height", "300px");
+                            var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
+                            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                            maxZoom: 19,
+                            attribution: '&amp;copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &amp;copy; <a href="https://carto.com/attributions">CARTO</a>'
+                            }).addTo(map);
+                            var marker = L.marker([Number(lat), Number(long)]).addTo(map);
+                        </script>
+                        
+                    
                 </html>
             </xsl:result-document>
         </xsl:for-each>
