@@ -20,9 +20,8 @@
                             </div>
                             <div>
                                 <p>
-                                    <strong>ACDH-CH</strong><br/>
+                                    <strong>ACDH</strong><br/>
                                     Austrian Centre for Digital Humanities<br/>
-                                    and Cultural Heritage<br/>
                                     Österreichische Akademie der Wissenschaften<br/>
                                     Bäckerstraße 13<br/>
                                     1010 Wien<br/>
