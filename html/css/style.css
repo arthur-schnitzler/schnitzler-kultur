@@ -24,6 +24,10 @@ div#map {
     text-decoration: none;
 }
 
+.tabulator-footer, .tabulator-footer-contents {
+    background-color: white;
+}
+
 
 /** Match bootstrap navlink focus outline color. */
 :focus-visible {

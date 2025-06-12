@@ -18,9 +18,8 @@
             <xsl:call-template name="html_head">
                 <xsl:with-param name="html_title" select="$doc_title"/>
             </xsl:call-template>
-            <script src="https://code.highcharts.com/highcharts.js"/>
-            <script src="https://code.highcharts.com/modules/networkgraph.js"/>
-            <script src="https://code.highcharts.com/modules/exporting.js"/>
+            <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css"
+                rel="stylesheet"/>
             <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
@@ -32,25 +31,8 @@
                                 </h1>
                             </div>
                             <div class="card-body">
-                                <div id="container"
-                                    style="padding-bottom: 20px; width:100%; margin: auto"/>
-                                <div id="chart-buttons" class="text-center mt-3"
-                                    style="margin: auto; padding-bottom: 20px">
-                                    <button class="btn mx-1 chart-btn"
-                                        style="background-color: #A63437; color: white; border: none; padding: 5px 10px; font-size: 0.875rem;"
-                                        data-csv="https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-charts/main/netzwerke/person_freq_corp_weights_directed/person_freq_corp_weights_directed_top30.csv"
-                                        >Top 30</button>
-                                    <button class="btn mx-1 chart-btn"
-                                        style="background-color: #A63437; color: white; border: none; padding: 5px 10px; font-size: 0.875rem;"
-                                        data-csv="https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-charts/main/netzwerke/person_freq_corp_weights_directed/person_freq_corp_weights_directed_top100.csv"
-                                        >Top 100</button>
-                                    <button class="btn mx-1 chart-btn"
-                                        style="background-color: #A63437; color: white; border: none; padding: 5px 10px; font-size: 0.875rem;"
-                                        data-csv="https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-charts/main/netzwerke/person_freq_corp_weights_directed/person_freq_corp_weights_directed_top500.csv"
-                                        >Top 500</button>
-                                </div>
-                                <script src="js/person_freq_corp_weights_directed.js"/>
-                                <!--<div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Personen</div>-->
+                                <div id="container mb-3"
+                                    style="width:100%; margin: auto"/>
                                 <table class="table table-sm display" id="tabulator-table-person">
                                     <thead>
                                         <tr>
@@ -259,7 +241,7 @@
                                                   <item type="namensvariante">Namensvariante</item>
                                                   <item type="person_rufname">Rufname</item>
                                                   <item type="person_pseudonym">Pseudonym</item>
-                                                  <item type="person_geschieden">geschieden</item>
+                                                  <item type="person_geschieden_nachname">geschieden</item>
                                                   <item type="person_ehename">Ehename</item>
                                                   <item type="person_ehename_nachname"
                                                   >Ehename</item>
@@ -331,9 +313,11 @@
                         </div>
                     </div>
                     <xsl:call-template name="html_footer"/>
-                    <xsl:call-template name="tabulator_person_js"/>
                 </div>
             </body>
+            <link href="https://unpkg.com/tabulator-tables@6.2.1/dist/css/tabulator_bootstrap5.min.css" rel="stylesheet"/>
+            <script type="text/javascript" src="https://unpkg.com/tabulator-tables@6.2.1/dist/js/tabulator.min.js"></script>
+            <script src="tabulator-js/tabulator_person.js"></script>
         </html>
         <xsl:for-each select=".//tei:person[@xml:id]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>

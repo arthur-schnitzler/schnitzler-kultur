@@ -6,3 +6,4 @@ var config = {
     tooltips: true,
     dataLoader: true
 };
+
