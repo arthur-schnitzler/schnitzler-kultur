@@ -3,8 +3,11 @@
         <fileDesc>
            <titleStmt>
               <title type="main">Über das Projekt</title>
-              <title type="sub">Konzert-, Theater-, Kino-besuche und Teilnahme an kulturellen Veranstaltungen von Arthur Schnitzler</title>
+              <title type="sub">Arthur Schnitzler – Kulturveranstaltungen</title>
+               <author>Müller, Martin Anton</author>
+               <author>Untner, Laura</author>
            </titleStmt>
+           
            <publicationStmt>
               <p>Publication Information</p>
            </publicationStmt>
@@ -15,14 +18,79 @@
     </teiHeader>
     <text>
         <body>
-           <p>
-               Scholarly Digital Editions sind eine revolutionäre Art, historische Texte und Dokumente in einem modernen und zugänglichen Format zu präsentieren. 
-               Diese Editionen verwenden digitale Technologien, um eine angereicherte und interaktive Version des Originaltexts darzustellen, die es Lesern ermöglicht, 
-               das Material auf neue Weise zu erkunden und zu nutzen. Sie bieten Wissenschaftlern ein mächtiges Werkzeug für Forschung und Analyse sowie eine Plattform, 
-               um ihre Arbeit einem breiteren Publikum zugänglich zu machen. Darüber hinaus können digitale Editionen eine genauere und zuverlässigere Version eines 
-               Textes bieten, indem sie fortschrittliche Techniken wie Bildverbesserung, Transkription und Textanalyse einsetzen. 
-               Da sich das Feld der digitalen Geisteswissenschaften weiterentwickelt, wird die Entwicklung von Scholarly Digital Editions immer wichtiger und wird 
-               voraussichtlich die Art und Weise revolutionieren, wie wir historische Texte und Dokumente studieren und verstehen.
+            <p>Tiefgründigere psychologische Überlegungen sparte sich Arthur Schnitzler für seine
+                Erzählungen und Dramen auf: da verdichten sich Motive und Beweggründe zu schicksalhaften
+                Ereignissen. Im eigenen Leben war der Anspruch nicht so sehr von einem Erkenntnisdrang
+                getrieben, sondern eher einer Vermessung. Bekanntermaßen führte Arthur Schnitzler schon
+                früh ein <ref type="URL" target="https://schnitzler-tagebuch.acdh.oeaw.ac.at/">Tagebuch</ref> (die Jahre als Jugendlicher sind großteils verloren) und notierte
+                sich jene Ereignisse, Gespräche und Zusammentreffen, die für ihn über die unmittelbare
+                Gegenwart hinaus zu reichen schienen. Ein Leben lässt sich auf unterschiedlichste Weise
+                aufzeichnen und der gelernte Mediziner Schnitzler entschied sich für den wissenschaftlichen
+                Zugang: Er vermaß es, indem er verschiedene Listen anlegte, um Zeugnis abzugeben über
+                bestimmte Aspekte seines Daseins. Diese handgeschriebenen Listen überführte er in der Zeit nach seinem 50. Geburtstag mit Hilfe
+                seiner Sekretärin in maschingeschriebene Fassungen. Sie werden heute in seinem Nachlass
+                in der Cambridge University Library verwahrt und umfassen folgende Einheiten:
+            </p>
+            <list>
+                <item>Mappe 175: Verzeichnis unternommener Reisen</item>
+                <item>Mappe 176,1 und 4: Aufführungen meiner Stücke in meiner Anwesenheit</item>
+                <item>Mappe 176,2 Vorlesungen im privaten Kreis</item>
+                <item>Mappe 176,3 Öffentliche Vorlesungen</item>
+                <item>Mappe 176,5 Öffentliche Gesangsauftritte von Olga Schnitzler</item>
+                <item>Mappe 178 Notizen zu Lektüre und Theaterbesuchen</item>
+                <item>Mappe 179 Verzeichnis von Theater- und Konzertbesuchen</item>
+            </list>
+             <p>Die Lücke zwischen 176 und 178 könnte für das Tagebuch freigehalten worden sein, das in 
+                 gewisser Hinsicht ja auch eine Liste darstellt, nämlich der Tage seines Lebens. Auch weitere
+                 Listen könnten hier berücksichtigt werden, vor allem die aus dem Tagebuch extrahierten
+                 »Charakteristiken«, in denen Schnitzler Psychogramme und Urteile über (männliche) Freunde und 
+                 Weggefährten destillierte.</p>
+            <p>Weil die »Charakteristiken« aus dem Tagebuch entnommen sind, liegt es nahe, auch die anderen
+                Listen als Extrakte desselben zu begreifen. Damit würde man irren, weil
+                die Fakten dagegensprechen. Die 
+                faktische Sache ist leicht erklärt: So enthalten sowohl die Leseliste wie das Verzeichnis der 
+                Theaterbesuche Informationen, die sich in keinen anderen Quellen finden. Das betrifft Bücher, die er
+                las, deren Lektüre er aber nicht in seinen täglichen Aufzeichnungen festhielt. Das zeigt sich an den 
+                Theaterbesuchen, die 1876 einsetzen (Schnitzler war 14 Jahre alt), wohingegen das überlieferte 
+                Tagebuch erst drei Jahre später, 1879, beginnt. Und auch später noch übergeht das Tagebuch Aufführungen,
+                und wir erfahren nur aus der Mappe 178, wann er zuerst Eleonora Duse auf der Bühne erlebt hat (am 17. Mai 1892).</p>
+            <p>Aber nicht nur die fehlenden Fakten relativieren das Tagebuch. Es ist selbst ein Substrat, das zu 
+                unterschiedlichen Zeitpunkten, manchmal Wochen und Monate nach den Ereignissen, verfasst wurde. Das geht
+                aus verschieden selbstreflexiven Bemerkungen im Tagebuch hervor. 
+                
+            
+                
+                
+                So irrt
+                man sich, weil das Tagebuch als nicht vor, sondern neben den anderen Listen steht. 
+                
+                
+                
+                
+                
+                
+                
+               
+                
+                
+                
+                
+                Arthur Schnitzler, bekannt für seine tiefgründigen psychologischen Dramen und Erzählungen, war nicht nur ein scharfer Beobachter der menschlichen Seele, sondern auch ein begeisterter Teilnehmer am kulturellen Leben Wiens. Seine Tagebücher sind eine wahre Fundgrube für alle, die wissen möchten, welche Theaterstücke, Opern und Konzerte den großen Dichter bewegten und inspirierten. Weit entfernt von bloßer Unterhaltung boten diese kulturellen Erlebnisse Schnitzler oft eine Bühne, um die Entwicklungen seiner Zeit zu reflektieren und die menschliche Natur in all ihren Facetten zu ergründen.
+                
+                Ein Fenster in Schnitzlers Welt
+                
+                Stellen Sie sich vor, Sie könnten mit Arthur Schnitzler durch die Straßen Wiens spazieren und ihn zu seinen bevorzugten Kulturveranstaltungen begleiten. Seine Aufzeichnungen ermöglichen genau das: Sie öffnen ein faszinierendes Fenster in eine Epoche, in der Kunst und Wissenschaft untrennbar miteinander verbunden waren. Von den Premieren Ibsenscher Dramen über die Opernabende in der Hofoper bis hin zu den Salons, in denen die geistige Elite der Stadt verkehrte – Schnitzlers Besuche waren nie zufällig. Sie waren Teil seiner Recherche, seiner Inspiration und seiner intellektuellen Auseinandersetzung mit der Welt.
+                
+                Mehr als nur Unterhaltung
+                
+                Es wäre zu kurz gegriffen, Schnitzlers Besuche als bloße Freizeitaktivitäten abzutun. Vielmehr waren sie wissenschaftliche Beobachtung und künstlerische Aneignung. Er analysierte Inszenierungen, studierte die Reaktionen des Publikums und verglich die dargestellten Konflikte mit seinen eigenen Studien der menschlichen Psyche. So wurde der Theaterbesuch zu einem Teil seines Schaffensprozesses, der Opernabend zur Inspiration für neue Charaktere und die Lektüre eines Romans zur Grundlage für tiefgehende Reflexionen. Schnitzlers kulturelle Ausflüge waren somit keine bloßen "Ausflüge", sondern integrierter Bestandteil seines literarischen und psychologischen Schaffens.
+                
+                Schnitzler als Chronist seiner Zeit
+                
+                Indem wir Schnitzlers kulturelle Spuren verfolgen, erhalten wir nicht nur Einblicke in seine persönliche Entwicklung, sondern auch ein lebendiges Bild des kulturellen Klimas im Wien der Jahrhundertwende. Seine Notizen sind ein einzigartiges Zeugnis für die künstlerischen Strömungen, die politischen Debatten und die gesellschaftlichen Veränderungen jener Zeit. Sie zeigen uns einen Schnitzler, der mitten im Leben stand, der sich den Herausforderungen seiner Epoche stellte und der in der Kunst stets eine Möglichkeit sah, die Komplexität des menschlichen Daseins zu ergründen.
+                
+                Tauchen Sie ein in die Welt von Arthur Schnitzler und entdecken Sie, wie die Kultur seine Werke prägte und wie seine Besuche uns heute noch faszinierende Einblicke in eine vergangene Ära ermöglichen.
+              
            </p>
         </body>
     </text>
