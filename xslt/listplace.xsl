@@ -9,6 +9,9 @@
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:import href="./partials/entities.xsl"/>
+    <xsl:param name="events"
+        select="document('../data/editions/listevent.xml')/descendant::tei:listEvent[1]"/>
+    <xsl:key name="event-lookup" match="tei:event" use="tei:listPlace[1]/tei:place/tei:placeName[1]/@key"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title" select="'Erwähnte Orte'"/>
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
@@ -72,7 +75,7 @@
                                                 </td>
                                                 <td>
                                                   <xsl:value-of
-                                                  select="count(.//tei:note[@type = 'mentions'])"/>
+                                                  select="count(key('event-lookup', @xml:id, $events))"/>
                                                 </td>
                                                 <td>
                                                   <xsl:choose>

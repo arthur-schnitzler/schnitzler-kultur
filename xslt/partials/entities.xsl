@@ -442,7 +442,7 @@
             <xsl:variable name="xmlid" select="@xml:id"/>
             <div id="mentions" class="mt-2">
                 <span class="infodesc mr-2">
-                    <legend>Erwähnungen</legend>
+                    <legend>Teilnahme an Veranstaltungen</legend>
                     <xsl:call-template name="render-events-for-key">
                         <xsl:with-param name="elementName" select="'persName'"/>
                         <xsl:with-param name="xmlid" select="$xmlid"/>
@@ -728,7 +728,7 @@
             <xsl:variable name="xmlid" select="@xml:id"/>
             <div id="mentions" class="mt-2">
                 <span class="infodesc mr-2">
-                    <legend>Erwähnungen</legend>
+                    <legend>Aufführungen</legend>
                     <xsl:call-template name="render-events-for-key">
                         <xsl:with-param name="elementName" select="'title'"/>
                         <xsl:with-param name="xmlid" select="$xmlid"/>
@@ -801,9 +801,9 @@
                 <xsl:variable name="xmlid" select="@xml:id"/>
                 <div id="mentions" class="mt-2">
                     <span class="infodesc mr-2">
-                        <legend>Erwähnungen</legend>
+                        <legend>Veranstaltungsort von</legend>
                         <xsl:call-template name="render-events-for-key">
-                            <xsl:with-param name="elementName" select="'title'"/>
+                            <xsl:with-param name="elementName" select="'placeName'"/>
                             <xsl:with-param name="xmlid" select="$xmlid"/>
                         </xsl:call-template>
                         
@@ -894,9 +894,9 @@
             <xsl:variable name="xmlid" select="@xml:id"/>
             <div id="mentions" class="mt-2">
                 <span class="infodesc mr-2">
-                    <legend>Erwähnungen</legend>
+                    <legend>Veranstaltungen</legend>
                     <xsl:call-template name="render-events-for-key">
-                        <xsl:with-param name="elementName" select="'title'"/>
+                        <xsl:with-param name="elementName" select="'orgName'"/>
                         <xsl:with-param name="xmlid" select="$xmlid"/>
                     </xsl:call-template>
                     
