@@ -29,7 +29,7 @@
                 <main class="flex-shrink-0 flex-grow-1">
                     <div class="container">
                         <h1>
-                            <xsl:text>Verzeichnis der Ereignisse</xsl:text>
+                            <xsl:text>Verzeichnis der Veranstaltungen</xsl:text>
                         </h1>
                         <div class="text-center p-1"><span id="counter1"/> von <span id="counter2"/>
                             Ereignissen</div>

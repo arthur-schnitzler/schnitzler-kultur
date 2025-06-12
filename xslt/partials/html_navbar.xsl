@@ -29,7 +29,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="listevent.html">Ereignisse</a>
+                                <a class="nav-link" href="listevent.html">Veranstaltungen</a>
                             </li>
 
                             <li class="nav-item dropdown disabled">
