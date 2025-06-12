@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-06-11">serialized</change>
+      <change when-iso="2025-06-12">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,62 @@
       
            
       <listBibl>
+        <bibl xml:id="pmb294463">
+          
+  
+          <title type="main">König Heinrich der Vierte (Erster Teil). Trauerspiel in fünf Aufzügen</title>
+          
+  
+          <author key="person__2412" role="hat-geschaffen">Shakespeare, William</author>
+          
+  
+          <author key="person__12668" role="hat-ubersetzt">Schlegel, Friedrich von</author>
+          
+  
+          <author key="person__4142" role="hat-herausgegeben">Dingelstedt, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294463/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb294458">
+          
+  
+          <title type="main">König Heinrich der Sechste (Zweiter Teil)</title>
+          
+  
+          <author key="person__2412" role="hat-geschaffen">Shakespeare, William</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294458/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb293663">
           
   
@@ -543,9 +599,6 @@
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
             
 
           </note>
@@ -4137,46 +4190,6 @@
           
 
         </bibl>
-        <bibl xml:id="pmb195919">
-          
-  
-          <title type="main">Die Venus von Montmatre</title>
-          
-  
-          <author key="person__10663" role="hat-geschaffen">Zelnik, Friedrich</author>
-          
-  
-          <author key="person__5952" role="hat-einen-beitrag-geschaffen-zu">Albers, Hans</author>
-          
-  
-          <author key="person__119518" role="hat-einen-beitrag-geschaffen-zu">Mara, Lya</author>
-          
-  
-          <author key="person__10253" role="hat-einen-beitrag-geschaffen-zu">Trevor, Jack</author>
-          
-  
-          <author key="person__26216" role="hat-einen-beitrag-geschaffen-zu">Tschechowa, Olga</author>
-          
-
-          <date>1925</date>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195919/</idno>
-          
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="24">manually created entity</bibl>
-            
-
-          </note>
-          
-  
-          <note type="work_kind">Film</note>
-          
-
-        </bibl>
         <bibl xml:id="pmb195918">
           
   
@@ -5005,6 +5018,19 @@
           
 
         </bibl>
+        <bibl xml:id="pmb195886">
+          
+  
+          <title type="main">Rasputin</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195886/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-2214</idno>
+          
+
+        </bibl>
         <bibl xml:id="pmb195885">
           
   
@@ -5018,15 +5044,6 @@
           
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-2154</idno>
-          
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
           
 
         </bibl>
@@ -5044,17 +5061,24 @@
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-2083</idno>
           
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
-          
   
           <note type="work_kind">Vortrag</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195873">
+          
+  
+          <title type="main">Schm’a Jisroël</title>
+          
+  
+          <author key="person__6902" role="hat-geschaffen">Dymow, Ossip</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195873/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1917</idno>
           
 
         </bibl>
@@ -5078,15 +5102,6 @@
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/1._Sinfonie_(Mahler)</idno>
           
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
-          
   
           <note type="work_kind">Sinfonie</note>
           
@@ -5109,17 +5124,24 @@
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1642</idno>
           
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
-          
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195861">
+          
+  
+          <title type="main">?? [Parodie auf Der jungen Medardus]</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195861/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1621</idno>
+          
+  
+          <note type="work_kind">Parodie</note>
           
 
         </bibl>
@@ -5138,13 +5160,17 @@
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1529</idno>
           
 
-          <note type="collections">
-            
+        </bibl>
+        <bibl xml:id="pmb195857">
+          
   
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
+          <title type="main">Auf ins Metropol!</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195857/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1486</idno>
           
 
         </bibl>
@@ -5171,15 +5197,6 @@
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Madame_Sherry_(Operette)</idno>
           
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
-          
   
           <note type="work_kind">Operette</note>
           
@@ -5202,17 +5219,1905 @@
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1394</idno>
           
+  
+          <note type="work_kind">Dramatisierung</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195849">
+          
+  
+          <title type="main">Montmartre en Ballade</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195849/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1387</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195848">
+          
+  
+          <title type="main">Die wahre Liebe ist das nicht!</title>
+          
+  
+          <author key="person__97178" role="hat-geschaffen">Horst, Julius</author>
+          
+  
+          <author key="person__25372" role="hat-geschaffen">Stein, Leo</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195848/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1380</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195846">
+          
+  
+          <title type="main">Im Hochgebirge Tirols</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195846/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1378</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195845">
+          
+  
+          <title type="main">Der Wagen von Wien</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195845/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1377</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195844">
+          
+  
+          <title type="main">Lebende Photographien</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195844/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1376</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195843">
+          
+  
+          <title type="main">Paris</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195843/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1375</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195842">
+          
+  
+          <title type="main">Moderne Verkehrstechnik und ihre Gefahren</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195842/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1374</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195836">
+          
+  
+          <title type="main">Wiener Blut</title>
+          
+  
+          <author key="person__12867" role="hat-geschaffen">Strauss, Johann</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195836/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1339</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195831">
+          
+  
+          <title type="main">Jagdfreuden. Schwank in drei Acten</title>
+          
+  
+          <author key="person__2931" role="hat-geschaffen">Feydeau, Georges</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195831/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1291</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195830">
+          
+  
+          <title type="main">Hochzeit im Laternenschein</title>
+          
+  
+          <author key="person__9131" role="hat-geschaffen">Offenbach, Jacques</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195830/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1285</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195829">
+          
+  
+          <title type="main">Das Pensionat</title>
+          
+  
+          <author key="person__25744" role="hat-geschaffen">Suppé, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195829/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1284</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195828">
+          
+  
+          <title type="main">Peter Kron</title>
+          
+  
+          <author key="person__6274" role="hat-geschaffen">Bernstein, Elsa</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195828/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1255</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195826">
+          
+  
+          <title type="main">Wie man Männer fesselt</title>
+          
+  
+          <author key="person__21076" role="hat-geschaffen">Mars, Antony</author>
+          
+  
+          <author key="person__18114" role="hat-geschaffen">Hennequin, Maurice</author>
+          
+  
+          <author key="person__4076" role="hat-ubersetzt">Eisenschitz, Otto</author>
+          
+  
+          <author key="person__195274" role="hat-vertont">Roger, Victor</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195826/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1229</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195824">
+          
+  
+          <title type="main">Japhet und seine zwölf Frauen. Vaudeville in 3 Acten</title>
+          
+  
+          <author key="person__21076" role="hat-geschaffen">Mars, Antony</author>
+          
+  
+          <author key="person__15340" role="hat-geschaffen">Desvallières, Maurice</author>
+          
+  
+          <author key="person__4076" role="hat-ubersetzt">Eisenschitz, Otto</author>
+          
+  
+          <author key="person__195274" role="hat-vertont">Roger, Victor</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195824/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1167</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195820">
+          
+  
+          <title type="main">Chansons des aïeuls</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195820/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1137</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195815">
+          
+  
+          <title type="main">Die fesche Pepi</title>
+          
+  
+          <author key="person__20456" role="hat-geschaffen">Lindau, Karl</author>
+          
+  
+          <author key="person__11999" role="hat-geschaffen">Krenn, Leopold</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195815/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1108</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195814">
+          
+  
+          <title type="main">Das Wetterhäuschen</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195814/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1107</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195813">
+          
+  
+          <title type="main">Der Pfiffikus. Singspiel in 1 Akt</title>
+          
+  
+          <author key="person__97178" role="hat-geschaffen">Horst, Julius</author>
+          
+  
+          <author key="person__25372" role="hat-geschaffen">Stein, Leo</author>
+          
+  
+          <author key="person__180171" role="hat-vertont">Müller, Adolf jun.</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195813/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1060</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195812">
+          
+  
+          <title type="main">Eine Reisebekanntschaft. Schwank in 1 Akt</title>
+          
+  
+          <author key="person__14634" role="hat-geschaffen">Brüll, Emil</author>
+          
+  
+          <author key="person__10550" role="hat-geschaffen">Willner, Alfred Maria</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195812/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1059</idno>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195811">
+          
+  
+          <title type="main">Für’s Buck’lkrax’ntragen. Ein ländliches Zeitbild mit Gesang in 1 Aufzug</title>
+          
+  
+          <author key="person__117858" role="hat-geschaffen">Morré, Karl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195811/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1058</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195809">
+          
+  
+          <title type="main">Die versunkene Stadt. Märchen in 2 Acten</title>
+          
+  
+          <author key="person__3994" role="hat-geschaffen">Schmid, Hermann von</author>
+          
+  
+          <author key="person__25744" role="hat-geschaffen">Suppé, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195809/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1047</idno>
+          
 
           <note type="collections">
             
   
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
 
           </note>
           
   
-          <note type="work_kind">Dramatisierung</note>
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195800">
+          
+  
+          <title type="main">Eine leichte Person</title>
+          
+  
+          <author key="person__195936" role="hat-geschaffen">Bittner, Anton</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195800/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-943</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195795">
+          
+  
+          <title type="main">Der Tod im Stock</title>
+          
+  
+          <title type="legacy-name-merge">Der Tod im Stock</title>
+          
+  
+          <author key="person__12605" role="hat-geschaffen">Sachs, Hans</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195795/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-916</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195808/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1023</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195794">
+          
+  
+          <title type="main">Der Teufel mit dem alten Weib</title>
+          
+  
+          <title type="legacy-name-merge">Der Teufel mit dem alten Weib</title>
+          
+  
+          <author key="person__12605" role="hat-geschaffen">Sachs, Hans</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195794/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-915</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195807/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1022</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195793">
+          
+  
+          <title type="main">Der fahrende Schüler im Paradies</title>
+          
+  
+          <title type="legacy-name-merge">Der fahrende Schüler im Paradies</title>
+          
+  
+          <author key="person__12605" role="hat-geschaffen">Sachs, Hans</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195793/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-914</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195805/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1021</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195792">
+          
+  
+          <title type="main">Frau Wahrheit will niemanden herbergen</title>
+          
+  
+          <title type="legacy-name-merge">Frau Wahrheit will niemanden herbergen</title>
+          
+  
+          <author key="person__12605" role="hat-geschaffen">Sachs, Hans</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195792/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-913</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195804/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1020</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195791">
+          
+  
+          <title type="main">Hans Sachsens poetische Sendung</title>
+          
+  
+          <title type="legacy-name-merge">Hans Sachsens poetische Sendung</title>
+          
+  
+          <author key="person__11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
+          
+
+          <date notBefore-iso="1776-01-01" when-iso="1776-01-01">1776</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195791/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-912</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195803/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1019</idno>
+          
+  
+          <note type="work_kind">Gedicht</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195789">
+          
+  
+          <title type="main">Hand und Herz</title>
+          
+  
+          <author key="person__10772" role="hat-geschaffen">Anzengruber, Ludwig</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195789/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-891</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195787">
+          
+  
+          <title type="main">Wildlinge</title>
+          
+  
+          <author key="person__95072" role="hat-geschaffen">Brée, Malwine</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195787/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-877</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195786">
+          
+  
+          <title type="main">Bajazzo in der Heimat. Parodistische Burleske mit Gesang in 3 Akten</title>
+          
+  
+          <author key="person__15112" role="hat-geschaffen">Costa, Karl</author>
+          
+  
+          <author key="person__170583" role="hat-geschaffen">Schier, Benjamin</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195786/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-870</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195782">
+          
+  
+          <title type="main">Das gelobte Land</title>
+          
+  
+          <author key="person__24702" role="hat-geschaffen">Schönthan-Pernwald, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195782/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-848</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195779">
+          
+  
+          <title type="main">Heiratsnest. Schauspiel in drei Aufzügen</title>
+          
+  
+          <author key="person__2207" role="hat-geschaffen">Davis, Gustav</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195779/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-826</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195777">
+          
+  
+          <title type="main">Der letzte Kreutzer</title>
+          
+  
+          <author key="person__2154" role="hat-geschaffen">Chiavacci, Vincenz</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195777/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-823</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195776">
+          
+  
+          <title type="main">Das verlorene Paradies. Oratorium in 3 Theilen</title>
+          
+  
+          <title type="legacy-name-merge">Das verlorene Paradies</title>
+          
+  
+          <author key="person__23705" role="hat-geschaffen">Rubinstein, Anton</author>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1139276069</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_659.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195776/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-820</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202210/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oratorium</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195775">
+          
+  
+          <title type="main">Ein Tag in Wien. Posse mit Gesang in 3 Akten (5 Bildern)</title>
+          
+  
+          <author key="person__23455" role="hat-geschaffen">Rivalier-Meysenbug, Pius von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195775/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-813</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195774">
+          
+  
+          <title type="main">Vier Jahreszeiten. Ballett in 4 Tableaux aus der Oper: Die sicilianische Vesper</title>
+          
+  
+          <author key="person__13007" role="hat-geschaffen">Verdi, Giuseppe</author>
+          
+  
+          <author key="person__96613" role="hat-herausgegeben">Hamme, Eduard Voitus</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195774/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-811</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195773">
+          
+  
+          <title type="main">Die Rantzau. Oper in 4 Akten</title>
+          
+  
+          <author key="person__185683" role="hat-geschaffen">Targioni-Tozzetti, Giovanni</author>
+          
+  
+          <author key="person__185687" role="hat-geschaffen">Menasci, Guido</author>
+          
+  
+          <author key="person__12198" role="hat-vertont">Mascagni, Pietro</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195773/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-810</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195772">
+          
+  
+          <title type="main">Lachende Erben. Operette in drei Acten</title>
+          
+  
+          <author key="person__97178" role="hat-geschaffen">Horst, Julius</author>
+          
+  
+          <author key="person__25372" role="hat-geschaffen">Stein, Leo</author>
+          
+  
+          <author key="person__26806" role="hat-vertont">Weinberger, Charles</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195772/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-804</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Operette</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195770">
+          
+  
+          <title type="main">Sirenenfahrt. Ballet in einem Akt</title>
+          
+  
+          <author key="person__23138" role="hat-geschaffen">Regel, Heinrich Hermann</author>
+          
+  
+          <author key="person__8770" role="hat-vertont">Mader, Raoul</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195770/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-800</idno>
+          
+  
+          <note type="work_kind">Ballett</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195769">
+          
+  
+          <title type="main">Glänzendes Elend</title>
+          
+  
+          <author key="person__40148" role="hat-geschaffen">Csiky, Gergely</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195769/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-798</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195768">
+          
+  
+          <title type="main">L’Amico Fritz</title>
+          
+  
+          <title type="legacy-name-merge">L' amico Fritz</title>
+          
+  
+          <author key="person__12198" role="hat-geschaffen">Mascagni, Pietro</author>
+          
+  
+          <author key="person__185792" role="hat-geschaffen">Daspuro, Nicola</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202047/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300099797</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q578706</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195768/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-797</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/L%E2%80%99amico_Fritz</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_560.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195767">
+          
+  
+          <title type="main">Die Nachbarinnen. Schwank in drei Akten</title>
+          
+  
+          <title type="legacy-name-merge">Die Nachbarinnen</title>
+          
+  
+          <author key="person__195927" role="hat-geschaffen">Raymond, Hippolyte</author>
+          
+  
+          <author key="person__195932" role="hat-geschaffen">Gastyne, Jules de</author>
+          
+  
+          <author key="person__195334" role="hat-ubersetzt">Ritter, Hans</author>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-501</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195767/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-795</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195716/</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195766">
+          
+  
+          <title type="main">König Kandaules. Lustspiel in einem Act</title>
+          
+  
+          <author key="person__4197" role="hat-geschaffen">Halévy, Ludovic</author>
+          
+  
+          <author key="person__12222" role="hat-geschaffen">Meilhac, Henri</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195766/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-794</idno>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195765">
+          
+  
+          <title type="main">Die Donaunixe. Ballett in fünf Bildern</title>
+          
+  
+          <author key="person__6180" role="hat-vertont">Bayer, Josef</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195765/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-790</idno>
+          
+  
+          <note type="work_kind">Ballett</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195763">
+          
+  
+          <title type="main">Die Tragödie des Menschen. Dramatische Dichtung in vier Aufzügen</title>
+          
+  
+          <author key="person__115292" role="hat-geschaffen">Madách, Imre</author>
+          
+  
+          <author key="person__15597" role="hat-ubersetzt">Dóczi, Ludwig von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195763/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-787</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195762">
+          
+  
+          <title type="main">Ma cousine</title>
+          
+  
+          <author key="person__12222" role="hat-geschaffen">Meilhac, Henri</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195762/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-786</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195761">
+          
+  
+          <title type="main">Il faut jurer de rien</title>
+          
+  
+          <author key="person__12311" role="hat-geschaffen">Musset, Alfred de</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195761/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-783</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195760">
+          
+  
+          <title type="main">Le bonheur jadis</title>
+          
+  
+          <author key="person__8987" role="hat-geschaffen">Murger, Henri</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195760/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-782</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195759">
+          
+  
+          <title type="main">Die Kinder der Exzellenz. Lustspiel</title>
+          
+  
+          <author key="person__13169" role="hat-geschaffen">Wolzogen, Ernst von</author>
+          
+  
+          <author key="person__195286" role="hat-geschaffen">Schumann, William</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195759/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-778</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195758">
+          
+  
+          <title type="main">Heißes Blut. Posse mit Gesang in drei Acten (sieben Bildern)</title>
+          
+  
+          <author key="person__11999" role="hat-geschaffen">Krenn, Leopold</author>
+          
+  
+          <author key="person__20456" role="hat-geschaffen">Lindau, Karl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195758/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-777</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195757">
+          
+  
+          <title type="main">Almenrausch und Edelweiß. Oberbayrisches Charaktergemälde mit Gesang und Tanz in fünf Aufzügen</title>
+          
+  
+          <author key="person__3994" role="hat-geschaffen">Schmid, Hermann von</author>
+          
+  
+          <author key="person__195333" role="hat-vertont">Müller</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195757/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-776</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195755">
+          
+  
+          <title type="main">Großstadtluft</title>
+          
+  
+          <author key="person__14328" role="hat-geschaffen">Blumenthal, Oskar</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195755/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-770</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195754">
+          
+  
+          <title type="main">Roderich Heller</title>
+          
+  
+          <author key="person__24702" role="hat-geschaffen">Schönthan-Pernwald, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195754/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-769</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195753">
+          
+  
+          <title type="main">Sie schützt sich selbst. Lustspiel in vier Akten</title>
+          
+  
+          <author key="person__19238" role="hat-geschaffen">Kautsky, Minna</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195753/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-768</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195752">
+          
+  
+          <title type="main">Einer von der Burgmusik! Posse mit Gesang in 4 Akten</title>
+          
+  
+          <author key="person__2154" role="hat-geschaffen">Chiavacci, Vincenz</author>
+          
+  
+          <author key="person__11999" role="hat-geschaffen">Krenn, Leopold</author>
+          
+  
+          <author key="person__8226" role="hat-vertont">Kleiber, Karl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195752/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-762</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195751">
+          
+  
+          <title type="main">Die Kätzchen. Operette in drei Acten</title>
+          
+  
+          <author key="person__195332" role="hat-geschaffen">Klischnegg, Albert</author>
+          
+  
+          <author key="person__3167" role="hat-geschaffen">Felix, Hugo</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195751/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-757</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Operette</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195750">
+          
+  
+          <title type="main">Lilly</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195750/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-754</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195748">
+          
+  
+          <title type="main">Leichtes Tuch</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195748/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-751</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195742">
+          
+  
+          <title type="main">Der selige Toupinel. Schwank in drei Acten</title>
+          
+  
+          <author key="person__6315" role="hat-geschaffen">Bisson, Alexandre</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195742/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-705</idno>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195741">
+          
+  
+          <title type="main">Unerreichbar. Lustspiel in einem Aufzug</title>
+          
+  
+          <author key="person__5208" role="hat-geschaffen">Wilbrandt, Adolf von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195741/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-672</idno>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195740">
+          
+  
+          <title type="main">Miss Colibri. Lustspiel in einem Aufzug</title>
+          
+  
+          <author key="person__195283" role="hat-geschaffen">Budinszky, Alexander</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195740/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-671</idno>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195739">
+          
+  
+          <title type="main">Der Reisende. Plauderei in einem Aufzug</title>
+          
+  
+          <author key="person__11315" role="hat-geschaffen">Feuillet, Octave</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195739/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-670</idno>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195734">
+          
+  
+          <title type="main">Jean Cavalier, oder: Die Camisarden. Große Oper in vier Akten</title>
+          
+  
+          <author key="person__195330" role="hat-geschaffen">Kuhl, Ernst</author>
+          
+  
+          <author key="person__195331" role="hat-vertont">Langert, August</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195734/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-541</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195732">
+          
+  
+          <title type="main">Hexenmeister</title>
+          
+  
+          <author key="person__12974" role="hat-geschaffen">Triesch, Friedrich Gustav</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195732/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-537</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195731">
+          
+  
+          <title type="main">Durand und Durand. Posse in drei Acten</title>
+          
+  
+          <author key="person__26355" role="hat-geschaffen">Valabrègue, Albin</author>
+          
+  
+          <author key="person__195280" role="hat-geschaffen">Ordonneau, Maurice</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195731/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-536</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195730">
+          
+  
+          <title type="main">Die Kindsfrau. Posse mit Gesang in drei Acten</title>
+          
+  
+          <author key="person__26666" role="hat-geschaffen">Walzel, Camillo</author>
+          
+  
+          <author key="person__154305" role="hat-geschaffen">Hennequin, Alfred</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195730/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-534</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195729">
+          
+  
+          <title type="main">Die Glocke von Corneville</title>
+          
+  
+          <author key="person__22630" role="hat-geschaffen">Planquette, Robert</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195729/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-532</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195728">
+          
+  
+          <title type="main">Patience</title>
+          
+  
+          <title type="legacy-name-merge">Patience</title>
+          
+  
+          <author key="person__25733" role="hat-geschaffen">Sullivan, Arthur Seymour</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195728/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-524</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300159110</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3897647</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/206820/</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_3945.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Patience_oder_Bunthornes_Braut</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195727">
+          
+  
+          <title type="main">Josef Haydn. Biographisches Gemälde mit Gesang in drei Abtheilungen</title>
+          
+  
+          <author key="person__9407" role="hat-geschaffen">Radler, Friedrich von</author>
+          
+  
+          <author key="person__25744" role="hat-geschaffen">Suppé, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195727/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-521</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195726">
+          
+  
+          <title type="main">Drei Frauen für einen Mann. Schwank in drei Acten</title>
+          
+  
+          <author key="person__26355" role="hat-geschaffen">Valabrègue, Albin</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195726/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-520</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195725">
+          
+  
+          <title type="main">Die verwandelte Katze. Komisch-phantastisches Ballett in 3 Akten (4 Bildern)</title>
+          
+  
+          <author key="person__195239" role="hat-geschaffen">Telle, Karl</author>
+          
+  
+          <author key="person__26666" role="hat-geschaffen">Walzel, Camillo</author>
+          
+  
+          <author key="person__18093" role="hat-geschaffen">Hellmesberger, Josef</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195725/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-518</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195724">
+          
+  
+          <title type="main">Ein Märchen aus der Champagne. Allegorisch-phantastisches Ballett in drei Akten (5 Bilder)</title>
+          
+  
+          <author key="person__10550" role="hat-geschaffen">Willner, Alfred Maria</author>
+          
+  
+          <author key="person__195239" role="hat-geschaffen">Telle, Karl</author>
+          
+  
+          <author key="person__6484" role="hat-vertont">Brüll, Ignaz</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195724/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-517</idno>
+          
+  
+          <note type="work_kind">Ballett</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195723">
+          
+  
+          <title type="main">Urwiener</title>
+          
+  
+          <author key="person__25879" role="hat-geschaffen">Taube, Theodor</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195723/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-515</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195722">
+          
+  
+          <title type="main">Unter vier Augen</title>
+          
+  
+          <author key="person__195277" role="hat-geschaffen">Dreyfus, Abraham</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195722/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-514</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195721">
+          
+  
+          <title type="main">Bellman</title>
+          
+  
+          <author key="person__25744" role="hat-geschaffen">Suppé, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195721/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-511</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195719">
+          
+  
+          <title type="main">Der betrogene Kadi</title>
+          
+  
+          <author key="person__11450" role="hat-geschaffen">Gluck, Christoph Willibald</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195719/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-506</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195718">
+          
+  
+          <title type="main">Unter Kuratel</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195718/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-504</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195717">
+          
+  
+          <title type="main">Der liebe Augustin. Operette in drei Acten</title>
+          
+  
+          <author key="person__8236" role="hat-geschaffen">Klein, Hugo</author>
+          
+  
+          <author key="person__154233" role="hat-vertont">Brandl, Johann</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195717/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-502</idno>
+          
+  
+          <note type="work_kind">Operette</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195714">
+          
+  
+          <title type="main">Josephine und ihre Schwestern. Burleske Operette in drei Acten</title>
+          
+  
+          <author key="person__14879" role="hat-geschaffen">Carré, Fabrice</author>
+          
+  
+          <author key="person__186025" role="hat-geschaffen">Ferrier, Paul</author>
+          
+  
+          <author key="person__2509" role="hat-ubersetzt">Osten, Heinrich</author>
+          
+  
+          <author key="person__195274" role="hat-vertont">Roger, Victor</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195714/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-499</idno>
+          
+  
+          <note type="work_kind">Operette</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195713">
+          
+  
+          <title type="main">Der Hofnarr</title>
+          
+  
+          <title type="legacy-name-merge">Der Hofnarr</title>
+          
+  
+          <title type="legacy-name-merge">Der Hofnarr</title>
+          
+  
+          <author key="person__180171" role="hat-geschaffen">Müller, Adolf jun.</author>
+          
+  
+          <author key="person__2739" role="hat-geschaffen">Wittmann, Hugo</author>
+          
+  
+          <author key="person__2150" role="hat-geschaffen">Bauer, Julius</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195713/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-498</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195715/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-500</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195736/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-544</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195711">
+          
+  
+          <title type="main">Der Vagabund</title>
+          
+  
+          <author key="person__154232" role="hat-geschaffen">West, Moritz</author>
+          
+  
+          <author key="person__89987" role="hat-geschaffen">Held, Ludwig</author>
+          
+  
+          <author key="person__10659" role="hat-geschaffen">Zeller, Carl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195711/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-495</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195710">
+          
+  
+          <title type="main">Schach dem König</title>
+          
+  
+          <author key="person__43671" role="hat-geschaffen">Schaufert, Hippolyt August</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195710/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-494</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195709">
+          
+  
+          <title type="main">Vizeadmiral</title>
+          
+  
+          <author key="person__4947" role="hat-geschaffen">Millöcker, Carl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195709/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-492</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195708">
+          
+  
+          <title type="main">Maria und Magdalena</title>
+          
+  
+          <author key="person__12078" role="hat-geschaffen">Lindau, Paul</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195708/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-491</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195707">
+          
+  
+          <title type="main">Stabstrompeter</title>
+          
+  
+          <author key="person__20925" role="hat-geschaffen">Mannstaedt, Wilhelm</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195707/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-490</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195706">
+          
+  
+          <title type="main">Flotte Bursche. Komische Operette in einem Acte</title>
+          
+  
+          <author key="person__195271" role="hat-geschaffen">Braun, Josef</author>
+          
+  
+          <author key="person__25744" role="hat-geschaffen">Suppé, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195706/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-489</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Operette</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195705">
+          
+  
+          <title type="main">Clara Soleil. Schwank in drei Acten</title>
+          
+  
+          <author key="person__195248" role="hat-geschaffen">Gondinet, Edmond</author>
+          
+  
+          <author key="person__195327" role="hat-geschaffen">Sivrac, Pierre</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195705/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-488</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195704">
+          
+  
+          <title type="main">Humbug, der Geist des Schwindels</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195704/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-485</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195703">
+          
+  
+          <title type="main">Der Marquis von Willemer</title>
+          
+  
+          <author key="person__9643" role="hat-geschaffen">Sand, George</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195703/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-484</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195701">
+          
+  
+          <title type="main">Krisen</title>
+          
+  
+          <author key="person__10854" role="hat-geschaffen">Bauernfeld, Eduard von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195701/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-479</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195698">
+          
+  
+          <title type="main">Ein Böhm in Amerika. Gesangs-Burleske in drei Acten (fünf Bildern)</title>
+          
+  
+          <author key="person__10652" role="hat-geschaffen">Zappert, Bruno</author>
+          
+  
+          <author key="person__195268" role="hat-geschaffen">Gothov-Grünecke, Ludwig</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195698/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-475</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -5246,10 +7151,651 @@
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-468</idno>
           
 
+        </bibl>
+        <bibl xml:id="pmb195695">
+          
+  
+          <title type="main">Die Börs-Wurz’n. Zeitbild mit Gesang in vier Bildern</title>
+          
+  
+          <author key="person__195326" role="hat-geschaffen">Thyam, Joseph</author>
+          
+  
+          <author key="person__2394" role="hat-geschaffen">Roth, Franz</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195695/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-466</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195689">
+          
+  
+          <title type="main">Gilette von Narbonne, die Straßensängerin. Operette in drei Acten</title>
+          
+  
+          <title type="legacy-name-merge">Gilette de Narbonne</title>
+          
+  
+          <author key="person__14946" role="hat-geschaffen">Chivot, Henri-Charles</author>
+          
+  
+          <author key="person__15552" role="hat-geschaffen">Duru, Alfred</author>
+          
+  
+          <author key="person__13562" role="hat-geschaffen">Audran, Edmond</author>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-379</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195689/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-454</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195654/</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195688">
+          
+  
+          <title type="main">Il baccio</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195688/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-453</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195687">
+          
+  
+          <title type="main">Der Gevatter von der Straße</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195687/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-452</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195686">
+          
+  
+          <title type="main">In der Sommerfrische</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195686/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-451</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195685">
+          
+  
+          <title type="main">Ich werde mir den Major einladen</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195685/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-450</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195684">
+          
+  
+          <title type="main">Ein Engel. Lustspiel in drei Acten</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195684/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-449</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195683">
+          
+  
+          <title type="main">Ein delicater Auftrag</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195683/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-448</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195682">
+          
+  
+          <title type="main">Taub muss er sein</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195682/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-447</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195681">
+          
+  
+          <title type="main">Frauen-Emancipation</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195681/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-446</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195680">
+          
+  
+          <title type="main">Ein Ritter der Damen</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195680/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-445</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195679">
+          
+  
+          <title type="main">Im Schlafe</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195679/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-444</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195678">
+          
+  
+          <title type="main">Der Botschafter. Operette in 3 Akten</title>
+          
+  
+          <author key="person__2739" role="hat-geschaffen">Wittmann, Hugo</author>
+          
+  
+          <author key="person__10580" role="hat-geschaffen">Wohlmuth, Alois</author>
+          
+  
+          <author key="person__8348" role="hat-geschaffen">Kremser, Eduard</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195678/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-442</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195677">
+          
+  
+          <title type="main">Theatralischer Unsinn</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195677/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-440</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195676">
+          
+  
+          <title type="main">Des Teufels Anteil</title>
+          
+  
+          <author key="person__13557" role="hat-geschaffen">Auber, Daniel-François-Ésprit</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195676/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-420</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195675">
+          
+  
+          <title type="main">Walzerkönig</title>
+          
+  
+          <author key="person__20925" role="hat-geschaffen">Mannstaedt, Wilhelm</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195675/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-418</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195673">
+          
+  
+          <title type="main">Doktor Papinger</title>
+          
+  
+          <author key="person__20925" role="hat-geschaffen">Mannstaedt, Wilhelm</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195673/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-415</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195672">
+          
+  
+          <title type="main">Die kleine Schlange</title>
+          
+  
+          <author key="person__195322" role="hat-geschaffen">Jacobson, Eduard</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195672/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-414</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195671">
+          
+  
+          <title type="main">Papageno</title>
+          
+  
+          <author key="person__172733" role="hat-geschaffen">Kreisel, Franz</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195671/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-413</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195670">
+          
+  
+          <title type="main">Blanche und Schmutz</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195670/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-412</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195669">
+          
+  
+          <title type="main">König Koloman. Historisches Trauerspiel in fünf Akten</title>
+          
+  
+          <author key="person__18956" role="hat-geschaffen">Jókai, Maurus</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195669/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-410</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195668">
+          
+  
+          <title type="main">Die Leibrente</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195668/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-409</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195667">
+          
+  
+          <title type="main">Der wunde Fleck. Schwank in vier Aufzügen</title>
+          
+  
+          <author key="person__23541" role="hat-geschaffen">Rosen, Julius</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195667/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-407</idno>
+          
+
           <note type="collections">
             
   
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195666">
+          
+  
+          <title type="main">Schikaneder. Zeitbild mit Gesang in fünf Acten</title>
+          
+  
+          <author key="person__9407" role="hat-geschaffen">Radler, Friedrich von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195666/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-403</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195665">
+          
+  
+          <title type="main">Der Glücksengel, oder: Eine moderne Mascotte</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195665/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-401</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195664">
+          
+  
+          <title type="main">Heimliche Liebe. Schwank mit Gesank in einem Akt</title>
+          
+  
+          <author key="person__26171" role="hat-geschaffen">Treptow, Leon</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195664/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-397</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195663">
+          
+  
+          <title type="main">Resch und Fesch. Gesangsposse</title>
+          
+  
+          <author key="person__10652" role="hat-geschaffen">Zappert, Bruno</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195663/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-396</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195662">
+          
+  
+          <title type="main">Ein Taugenichts. Schwank mit Gesang in einem Akt</title>
+          
+  
+          <author key="person__195265" role="hat-geschaffen">Buckstone, John</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195662/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-395</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195661">
+          
+  
+          <title type="main">Les Invisibles. Komisch-musikalische Pantomime</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195661/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-390</idno>
+          
+  
+          <note type="work_kind">Pantomime</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195660">
+          
+  
+          <title type="main">’s höchste Theater. Posse mit Gesang in einem Acte</title>
+          
+  
+          <author key="person__10652" role="hat-geschaffen">Zappert, Bruno</author>
+          
+  
+          <author key="person__195264" role="hat-vertont">Schiemer, Georg</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195660/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-389</idno>
+          
+  
+          <note type="work_kind">Posse mit Gesang</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195659">
+          
+  
+          <title type="main">DO–MI–SOL–DO</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195659/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-388</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195658">
+          
+  
+          <title type="main">À la Klapphorn. Schwank mit Gesang in einem Acte</title>
+          
+  
+          <author key="person__27090" role="hat-geschaffen">Wiesberg, Wilhelm</author>
+          
+  
+          <author key="person__195264" role="hat-vertont">Schiemer, Georg</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195658/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-387</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195656">
+          
+  
+          <title type="main">Gavand, Minard &amp; Compagnie</title>
+          
+  
+          <author key="person__195248" role="hat-geschaffen">Gondinet, Edmond</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195656/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-382</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195655">
+          
+  
+          <title type="main">Vollblut. Schwank in zwei Acten</title>
+          
+  
+          <author key="person__158029" role="hat-geschaffen">August Fresenius, August</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195655/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-381</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195653">
+          
+  
+          <title type="main">Lucia di Lammermoor</title>
+          
+  
+          <title type="legacy-name-merge">Lucia di Lammermoor</title>
+          
+  
+          <author key="person__6837" role="hat-geschaffen">Donizetti, Gaetano</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201351/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300045735</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q244209</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_95.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195653/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-378</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Lucia_di_Lammermoor</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -5306,14 +7852,173 @@
   
             <bibl type="collections" n="30">Hanslick-Online</bibl>
             
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
 
           </note>
           
   
           <note type="work_kind">Musikstück</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195651">
+          
+  
+          <title type="main">Goldene Spinne</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195651/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-374</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195650">
+          
+  
+          <title type="main">Defizit</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195650/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-372</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195648">
+          
+  
+          <title type="main">Ein Fallissement. Schauspiel in vier Aufzügen</title>
+          
+  
+          <title type="legacy-name-merge">Das Falissement</title>
+          
+  
+          <author key="person__2400" role="hat-geschaffen">Bjørnson, Bjørnstjerne</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195551/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-177</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195648/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-360</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195640">
+          
+  
+          <title type="main">Mit Vergnügen</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195640/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-349</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195639">
+          
+  
+          <title type="main">Unsere Frauen</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <author key="person__24702" role="hat-geschaffen">Schönthan-Pernwald, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195639/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-346</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195637">
+          
+  
+          <title type="main">Geheimer Agent</title>
+          
+  
+          <author key="person__7641" role="hat-geschaffen">Hackländer, Friedrich Wilhelm von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195637/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-343</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195636">
+          
+  
+          <title type="main">Prinz Eugen</title>
+          
+  
+          <author key="person__114270" role="hat-geschaffen">Greif, Martin</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195636/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-341</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195635">
+          
+  
+          <title type="main">Hotel Godelot</title>
+          
+  
+          <author key="person__12624" role="hat-geschaffen">Sardou, Victorien</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195635/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-340</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195634">
+          
+  
+          <title type="main">Bibliothekar</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195634/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-339</idno>
           
 
         </bibl>
@@ -5335,13 +8040,417 @@
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-338</idno>
           
 
+        </bibl>
+        <bibl xml:id="pmb195632">
+          
+  
+          <title type="main">Eine mit Talent. Posse mit Gesang in 4 Acten</title>
+          
+  
+          <author key="person__195317" role="hat-geschaffen">Maierfeld, Ferdinand</author>
+          
+  
+          <author key="person__6260" role="hat-geschaffen">Berla, Alois</author>
+          
+  
+          <author key="person__185788" role="hat-vertont">Roth, Ludwig</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195632/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-337</idno>
+          
+
           <note type="collections">
             
   
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
 
           </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195630">
+          
+  
+          <title type="main">Recept gegen Hausfreunde. Lustspiel in zwei Acten</title>
+          
+  
+          <author key="person__195316" role="hat-geschaffen">Ongara, José Maria dell’</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195630/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-330</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195629">
+          
+  
+          <title type="main">Der neue Paganini. Lustspiel in einem Acte</title>
+          
+  
+          <author key="person__176216" role="hat-geschaffen">Weiß, Otto</author>
+          
+  
+          <author key="person__4986" role="hat-geschaffen">Mamroth, Fedor</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195629/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-329</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195628">
+          
+  
+          <title type="main">Der erste Brief. Original-Lustspiel in einem Acte</title>
+          
+  
+          <author key="person__11524" role="hat-geschaffen">Gross, Ferdinand</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195628/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-328</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195627">
+          
+  
+          <title type="main">Ein Zündhölzchen zwischen zwei Feuern</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195627/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-327</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195626">
+          
+  
+          <title type="main">Sand in die Augen</title>
+          
+  
+          <author key="person__20012" role="hat-geschaffen">Labiche, Eugène</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195626/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-326</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195624">
+          
+  
+          <title type="main">La Sonnambula. Melodramma in tre atti</title>
+          
+  
+          <author key="person__195258" role="hat-geschaffen">Romani, Felice</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195624/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-320</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195623">
+          
+  
+          <title type="main">Ein Pariser Roman</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195623/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-318</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195622">
+          
+  
+          <title type="main">Verirrtes Schäfchen</title>
+          
+  
+          <author key="person__12222" role="hat-geschaffen">Meilhac, Henri</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195622/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-317</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195621">
+          
+  
+          <title type="main">Kniff</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195621/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-316</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195620">
+          
+  
+          <title type="main">Splitter und Balken. Lustspiel in einem Acte</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195620/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-313</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195619">
+          
+  
+          <title type="main">Das unbekannte X. Schwank in 2 Acten</title>
+          
+  
+          <author key="person__195313" role="hat-geschaffen">Jaime, Adolphe</author>
+          
+  
+          <author key="person__195252" role="hat-geschaffen">Delacour, Alfred</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195619/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-312</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195618">
+          
+  
+          <title type="main">Glück bei Frauen</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195618/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-311</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195616">
+          
+  
+          <title type="main">Kleiner Konfusionsrat</title>
+          
+  
+          <author key="person__13763" role="hat-geschaffen">Barrière, Théodore</author>
+          
+  
+          <author key="person__195248" role="hat-geschaffen">Gondinet, Edmond</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195616/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-305</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195615">
+          
+  
+          <title type="main">Schwabenstreich</title>
+          
+  
+          <author key="person__24702" role="hat-geschaffen">Schönthan-Pernwald, Franz von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195615/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-304</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195614">
+          
+  
+          <title type="main">Schwere Zeiten</title>
+          
+  
+          <author key="person__23541" role="hat-geschaffen">Rosen, Julius</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195614/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-302</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195613">
+          
+  
+          <title type="main">Karolinger</title>
+          
+  
+          <author key="person__13118" role="hat-geschaffen">Wildenbruch, Ernst von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195613/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-301</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195612">
+          
+  
+          <title type="main">Rosa Dominos</title>
+          
+  
+          <author key="person__154305" role="hat-geschaffen">Hennequin, Alfred</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195612/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-297</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195611">
+          
+  
+          <title type="main">Um ein Nichts. Lustspiel in vier Akten</title>
+          
+  
+          <author key="person__14328" role="hat-geschaffen">Blumenthal, Oskar</author>
+          
+  
+          <author key="person__195255" role="hat-geschaffen">Girndt, Otto</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195611/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-296</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195608">
+          
+  
+          <title type="main">Der Zugvogel</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195608/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-290</idno>
           
 
         </bibl>
@@ -5384,13 +8493,1841 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195617/</idno>
           
 
+        </bibl>
+        <bibl xml:id="pmb195605">
+          
+  
+          <title type="main">Odette</title>
+          
+  
+          <title type="legacy-name-merge">Odette</title>
+          
+  
+          <author key="person__12624" role="hat-geschaffen">Sardou, Victorien</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195605/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-283</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195735/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-543</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195603">
+          
+  
+          <title type="main">Frau von Navarre</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195603/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-280</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195598">
+          
+  
+          <title type="main">Die Höhle des Löwen</title>
+          
+  
+          <author key="person__20012" role="hat-geschaffen">Labiche, Eugène</author>
+          
+  
+          <author key="person__195252" role="hat-geschaffen">Delacour, Alfred</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195598/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-273</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195596">
+          
+  
+          <title type="main">Eine Heirat unter Ludwig XV</title>
+          
+  
+          <author key="person__11190" role="hat-geschaffen">Dumas, Alexandre père</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195596/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-268</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195595">
+          
+  
+          <title type="main">Verwandtschaft</title>
+          
+  
+          <author key="person__8316" role="hat-geschaffen">Kotzebue, August von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195595/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-267</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195594">
+          
+  
+          <title type="main">Hector. Schwank in einem Akte</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195594/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-266</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195593">
+          
+  
+          <title type="main">Die Eine weint, die Andere lacht. Schauspiel in vier Akten</title>
+          
+  
+          <author key="person__120629" role="hat-geschaffen">Dumanoir, Philippe</author>
+          
+  
+          <author key="person__195312" role="hat-geschaffen">Kéraniou, Ange de</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195593/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-265</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195592">
+          
+  
+          <title type="main">Marquis von Villemer</title>
+          
+  
+          <author key="person__9643" role="hat-geschaffen">Sand, George</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195592/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-262</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195591">
+          
+  
+          <title type="main">Die deutschen Kleinstädter</title>
+          
+  
+          <author key="person__8316" role="hat-geschaffen">Kotzebue, August von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195591/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-261</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195590">
+          
+  
+          <title type="main">Weihnachtsbaum</title>
+          
+  
+          <author key="person__177949" role="hat-geschaffen">Vanloo, Albert</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195590/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-257</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195589">
+          
+  
+          <title type="main">Die Brautfahrt</title>
+          
+  
+          <author key="person__11377" role="hat-geschaffen">Freytag, Gustav</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195589/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-256</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195587">
+          
+  
+          <title type="main">Von der Aar zur Donau. Festspiel in zwei Bildern</title>
+          
+  
+          <author key="person__89923" role="hat-geschaffen">Mautner, Eduard</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195587/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-254</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195586">
+          
+  
+          <title type="main">Hypochonder</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195586/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-249</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195585">
+          
+  
+          <title type="main">Löwenritt</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195585/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-248</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195584">
+          
+  
+          <title type="main">Noble Bekanntschaft</title>
+          
+  
+          <author key="person__154305" role="hat-geschaffen">Hennequin, Alfred</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195584/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-244</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195583">
+          
+  
+          <title type="main">Bürger auf der Brautfahrt</title>
+          
+  
+          <title type="legacy-name-merge">Bürger auf der Brautfahrt</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195583/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-243</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195588/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-255</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195582">
+          
+  
+          <title type="main">Ein Lustspiel aus dem Leben</title>
+          
+  
+          <author key="person__195308" role="hat-geschaffen">August Mejo, Wilhelm</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195582/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-242</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195581">
+          
+  
+          <title type="main">Bitte ums Wort</title>
+          
+  
+          <author key="person__14328" role="hat-geschaffen">Blumenthal, Oskar</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195581/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-241</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195580">
+          
+  
+          <title type="main">Kampel</title>
+          
+  
+          <author key="person__12338" role="hat-geschaffen">Nestroy, Johann Nepomuk</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195580/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-240</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195579">
+          
+  
+          <title type="main">Der Mann in der Flasche</title>
+          
+  
+          <author key="person__23541" role="hat-geschaffen">Rosen, Julius</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195579/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-239</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195577">
+          
+  
+          <title type="main">Apajune</title>
+          
+  
+          <author key="person__4947" role="hat-geschaffen">Millöcker, Carl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195577/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-235</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195576">
+          
+  
+          <title type="main">Der Unbedeutende</title>
+          
+  
+          <author key="person__12338" role="hat-geschaffen">Nestroy, Johann Nepomuk</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195576/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-234</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q15805213</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_Unbedeutende</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195575">
+          
+  
+          <title type="main">Die kleine Mama</title>
+          
+  
+          <title type="legacy-name-merge">Die kleine Mama</title>
+          
+  
+          <author key="person__12222" role="hat-geschaffen">Meilhac, Henri</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195575/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-226</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195743/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-709</idno>
+          
+
           <note type="collections">
             
   
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
 
           </note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195574">
+          
+  
+          <title type="main">Große Kinder</title>
+          
+  
+          <author key="person__195248" role="hat-geschaffen">Gondinet, Edmond</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195574/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-225</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195573">
+          
+  
+          <title type="main">Habe keine Zeit</title>
+          
+  
+          <author key="person__20012" role="hat-geschaffen">Labiche, Eugène</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195573/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-224</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195572">
+          
+  
+          <title type="main">Freund Babolin</title>
+          
+  
+          <author key="person__195245" role="hat-geschaffen">Bahn, Adolf</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195572/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-223</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195571">
+          
+  
+          <title type="main">Die Wiener in Paris. Lebensbild mit Gesang in 2 Acten</title>
+          
+  
+          <author key="person__7905" role="hat-geschaffen">Holtei, Karl von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195571/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-222</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195570">
+          
+  
+          <title type="main">Teufelsfelsen</title>
+          
+  
+          <author key="person__14328" role="hat-geschaffen">Blumenthal, Oskar</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195570/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-220</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195569">
+          
+  
+          <title type="main">Des Hauses Fourchembault Ende</title>
+          
+  
+          <author key="person__12331" role="hat-geschaffen">Müller-Guttenbrunn, Adam</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195569/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-218</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195568">
+          
+  
+          <title type="main">Flattersucht</title>
+          
+  
+          <author key="person__12624" role="hat-geschaffen">Sardou, Victorien</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195568/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-213</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195567">
+          
+  
+          <title type="main">Furcht vor der Freude</title>
+          
+  
+          <author key="person__155217" role="hat-geschaffen">Girardin, Émile de</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195567/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-212</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195566">
+          
+  
+          <title type="main">Ein Schritt vom Wege</title>
+          
+  
+          <title type="legacy-name-merge">Ein Schritt vom Wege</title>
+          
+  
+          <author key="person__64917" role="hat-geschaffen">Wichert, Ernst</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195566/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-211</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195597/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-270</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195565">
+          
+  
+          <title type="main">Der verarmte Edelmann</title>
+          
+  
+          <title type="legacy-name-merge">Der verarmte Edelmann</title>
+          
+  
+          <author key="person__11315" role="hat-geschaffen">Feuillet, Octave</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195565/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-203</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195631/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-331</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195563">
+          
+  
+          <title type="main">Gute Freunde</title>
+          
+  
+          <author key="person__12624" role="hat-geschaffen">Sardou, Victorien</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195563/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-198</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195562">
+          
+  
+          <title type="main">Glöckchen des Eremiten</title>
+          
+  
+          <author key="person__195242" role="hat-geschaffen">Maillart, Aimé</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195562/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-196</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195559">
+          
+  
+          <title type="main">Margot</title>
+          
+  
+          <author key="person__11363" role="hat-geschaffen">Frappart, Louis</author>
+          
+  
+          <author key="person__6843" role="hat-vertont">Doppler, Franz</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195559/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-191</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195558">
+          
+  
+          <title type="main">Der Ritterschlag. Komische Oper in zwei Akten</title>
+          
+  
+          <author key="person__12293" role="hat-geschaffen">Mosenthal, Salomon Hermann von</author>
+          
+  
+          <author key="person__23384" role="hat-vertont">Riedel, Hermann</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195558/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-190</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195557">
+          
+  
+          <title type="main">Linda von Chamounix. Oper in drei Akten</title>
+          
+  
+          <author key="person__155144" role="hat-geschaffen">Rossi, Gaetano</author>
+          
+  
+          <author key="person__195232" role="hat-ubersetzt">Proch, Heinrich</author>
+          
+  
+          <author key="person__6837" role="hat-vertont">Donizetti, Gaetano</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195557/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-189</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195556">
+          
+  
+          <title type="main">Die Kritik der reinen Vernunft. Schwank in einem Acte</title>
+          
+  
+          <author key="person__145820" role="hat-geschaffen">Willomitzer, Josef</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195556/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-188</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195555">
+          
+  
+          <title type="main">Der Herr Gemeinderath. Schwank in zwei Acten</title>
+          
+  
+          <author key="person__195305" role="hat-geschaffen">Bałucki, Michał</author>
+          
+  
+          <author key="person__4127" role="hat-ubersetzt">Meixner, Julius</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195555/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-187</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195552">
+          
+  
+          <title type="main">Advokatenball</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195552/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-179</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195550">
+          
+  
+          <title type="main">Der Sohn Coralis</title>
+          
+  
+          <author key="person__64938" role="hat-geschaffen">Delpit, Albert</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195550/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-176</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195549">
+          
+  
+          <title type="main">Näherin</title>
+          
+  
+          <title type="legacy-name-merge">Näherin</title>
+          
+  
+          <author key="person__89987" role="hat-geschaffen">Held, Ludwig</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195549/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-175</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195554/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-181</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195548">
+          
+  
+          <title type="main">Papas Frau</title>
+          
+  
+          <author key="person__154305" role="hat-geschaffen">Hennequin, Alfred</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195548/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-174</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195547">
+          
+  
+          <title type="main">Ein leichtsinniger Vater</title>
+          
+  
+          <author key="person__15512" role="hat-geschaffen">Dumas, Alexandre fils</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195547/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-173</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195546">
+          
+  
+          <title type="main">Die Frau ohne Geist</title>
+          
+  
+          <author key="person__8722" role="hat-geschaffen">Lubliner, Hugo</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195546/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-172</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195545">
+          
+  
+          <title type="main">Die vier Jahreszeiten. Ballet in 4 Tableaux</title>
+          
+  
+          <author key="person__195239" role="hat-geschaffen">Telle, Karl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195545/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-170</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Ballett</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195544">
+          
+  
+          <title type="main">Das Nachtlager in Granada. Oper in zwei Akten</title>
+          
+  
+          <title type="legacy-name-merge">Das Nachtlager in Granada</title>
+          
+  
+          <author key="person__117558" role="hat-vertont">Kreutzer, Conradin</author>
+          
+  
+          <author key="person__117558" role="hat-geschaffen">Kreutzer, Conradin</author>
+          
+  
+          <author key="person__193363" role="hat-geschaffen">Kind, Johann</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195544/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-169</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/203892/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300384181</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q371048</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_1700.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Das_Nachtlager_in_Granada</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195542">
+          
+  
+          <title type="main">Wiener Caricaturen</title>
+          
+  
+          <author key="person__117623" role="hat-geschaffen">Ebersberg, Ottokar Franz</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195542/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-165</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195540">
+          
+  
+          <title type="main">Grasteufel. Einakter</title>
+          
+  
+          <author key="person__23541" role="hat-geschaffen">Rosen, Julius</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195540/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-155</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195539">
+          
+  
+          <title type="main">Ein zweiter Talleyrand. 2 Akte</title>
+          
+  
+          <author key="person__26666" role="hat-geschaffen">Walzel, Camillo</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195539/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-154</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195538">
+          
+  
+          <title type="main">Im Tanzsaal. Einakter</title>
+          
+  
+          <author key="person__2947" role="hat-geschaffen">Epstein, Moritz</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195538/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-153</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195537">
+          
+  
+          <title type="main">Der kleine Louis</title>
+          
+  
+          <author key="person__195302" role="hat-geschaffen">Crisafulli, Henri</author>
+          
+  
+          <author key="person__35034" role="hat-geschaffen">Bernard, Victor</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195537/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-152</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195536">
+          
+  
+          <title type="main">Hausarzt</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195536/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-151</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195535">
+          
+  
+          <title type="main">Königin von Sava</title>
+          
+  
+          <author key="person__17172" role="hat-geschaffen">Goldmark, Karl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195535/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-149</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195534">
+          
+  
+          <title type="main">Hausherrnfreuden. Les Locataires de Mr. Blondeau. Posse in fünf Stockwerken</title>
+          
+  
+          <author key="person__14946" role="hat-geschaffen">Chivot, Henri-Charles</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195534/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-145</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195533">
+          
+  
+          <title type="main">Wenn man nicht tanzt</title>
+          
+  
+          <author key="person__12674" role="hat-geschaffen">Schlesinger, Sigmund</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195533/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-144</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195532">
+          
+  
+          <title type="main">Hofball</title>
+          
+  
+          <author key="person__89923" role="hat-geschaffen">Mautner, Eduard</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195532/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-143</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195531">
+          
+  
+          <title type="main">Marsolé</title>
+          
+  
+          <author key="person__20212" role="hat-geschaffen">Lecocq, Alexandre Charles</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195531/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-142</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195528">
+          
+  
+          <title type="main">Wohltätige Frauen</title>
+          
+  
+          <title type="legacy-name-merge">Wohltätige Frauen</title>
+          
+  
+          <author key="person__2823" role="hat-geschaffen">L’Arronge, Adolph</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195528/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-136</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-278</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195602/</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195526">
+          
+  
+          <title type="main">Starke Mittel</title>
+          
+  
+          <author key="person__23541" role="hat-geschaffen">Rosen, Julius</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195526/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-131</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195525">
+          
+  
+          <title type="main">Hasemanns Töchter</title>
+          
+  
+          <title type="legacy-name-merge">Hasemanns Töchter</title>
+          
+  
+          <author key="person__2823" role="hat-geschaffen">L’Arronge, Adolph</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195525/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-124</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195625/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-325</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195524">
+          
+  
+          <title type="main">Niniche</title>
+          
+  
+          <author key="person__154305" role="hat-geschaffen">Hennequin, Alfred</author>
+          
+  
+          <author key="person__21463" role="hat-geschaffen">Millaud, Albert</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195524/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-123</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195522">
+          
+  
+          <title type="main">Familie nach der Mode</title>
+          
+  
+          <author key="person__12624" role="hat-geschaffen">Sardou, Victorien</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195522/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-120</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195521">
+          
+  
+          <title type="main">Die silberne Hochzeit. Volksstück mit Gesang in einem Act</title>
+          
+  
+          <author key="person__195294" role="hat-geschaffen">Bayer, Carl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195521/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-115</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195519">
+          
+  
+          <title type="main">Ein verkauftes Fenster. Posse mit Gesang in einem Act</title>
+          
+  
+          <author key="person__193202" role="hat-geschaffen">Doppler, Josef</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195519/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-114</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195518">
+          
+  
+          <title type="main">Die Milimadeln von Sievering</title>
+          
+  
+          <author key="person__94112" role="hat-geschaffen">Gottsleben, Ludwig</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195518/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-113</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195517">
+          
+  
+          <title type="main">Der natürliche Sohn</title>
+          
+  
+          <author key="person__15512" role="hat-geschaffen">Dumas, Alexandre fils</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195517/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-111</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195515">
+          
+  
+          <title type="main">Ein vornehmer Schwiegersohn</title>
+          
+  
+          <author key="person__2815" role="hat-geschaffen">Augier, Émile</author>
+          
+  
+          <author key="person__89380" role="hat-geschaffen">Sandeau, Jules</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195515/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-108</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195514">
+          
+  
+          <title type="main">Graner Festmesse</title>
+          
+  
+          <author key="person__8679" role="hat-geschaffen">Liszt, Franz</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195514/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-106</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195512">
+          
+  
+          <title type="main">Ultimo</title>
+          
+  
+          <title type="legacy-name-merge">Ultimo</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195512/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-103</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195564/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-202</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195511">
+          
+  
+          <title type="main">Das neue System</title>
+          
+  
+          <author key="person__2400" role="hat-geschaffen">Bjørnson, Bjørnstjerne</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195511/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-100</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195509">
+          
+  
+          <title type="main">Die Seiltänzerin. Comödie in drei Acten</title>
+          
+  
+          <author key="person__4197" role="hat-geschaffen">Halévy, Ludovic</author>
+          
+  
+          <author key="person__12222" role="hat-geschaffen">Meilhac, Henri</author>
+          
+  
+          <author key="person__112913" role="hat-ubersetzt">Blumenreich, Paul</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195509/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-98</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195508">
+          
+  
+          <title type="main">Zopf und Schwert</title>
+          
+  
+          <author key="person__11555" role="hat-geschaffen">Gutzkow, Karl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195508/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-96</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195506">
+          
+  
+          <title type="main">Prinz Friedrich</title>
+          
+  
+          <author key="person__2702" role="hat-geschaffen">Laube, Heinrich</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195506/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-91</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195503">
+          
+  
+          <title type="main">Johannistrieb</title>
+          
+  
+          <author key="person__12078" role="hat-geschaffen">Lindau, Paul</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195503/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-83</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195502">
+          
+  
+          <title type="main">Lady Tartuffe</title>
+          
+  
+          <author key="person__155217" role="hat-geschaffen">Girardin, Émile de</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195502/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-78</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195499">
+          
+  
+          <title type="main">Preciosa</title>
+          
+  
+          <title type="legacy-name-merge">Preciosa</title>
+          
+  
+          <author key="person__4182" role="hat-vertont">Weber, Carl Maria von</author>
+          
+  
+          <author key="person__120046" role="hat-geschaffen">Wolff, Pius Alexander</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201956/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4838708-3</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195499/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-75</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_495.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1240094</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+  
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195498">
+          
+  
+          <title type="main">Judas im Frack</title>
+          
+  
+          <author key="person__8472" role="hat-geschaffen">Langer, Anton</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195498/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-66</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195497">
+          
+  
+          <title type="main">Graf Essex</title>
+          
+  
+          <title type="legacy-name-merge">Graf Essex</title>
+          
+  
+          <author key="person__2702" role="hat-geschaffen">Laube, Heinrich</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195497/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-65</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195561/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-195</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195496">
+          
+  
+          <title type="main">Fra Diavolo</title>
+          
+  
+          <title type="legacy-name-merge">Fra Diavolo</title>
+          
+  
+          <author key="person__13557" role="hat-geschaffen">Auber, Daniel-François-Ésprit</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201490/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300003218</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1440309</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_194.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195496/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-63</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Fra_Diavolo_(Oper)</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195494">
+          
+  
+          <title type="main">Die Wiener in Paris. Genrebild in einem Acte</title>
+          
+  
+          <author key="person__7905" role="hat-geschaffen">Holtei, Karl von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195494/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-58</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195493">
+          
+  
+          <title type="main">Sie schreibt an sich selbst. Lustspiel in einem Acte</title>
+          
+  
+          <author key="person__7905" role="hat-geschaffen">Holtei, Karl von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195493/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-57</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195492">
+          
+  
+          <title type="main">Hanns Jürge. Schauspiel in einem Acte</title>
+          
+  
+          <author key="person__7905" role="hat-geschaffen">Holtei, Karl von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195492/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-56</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195491">
+          
+  
+          <title type="main">Cato von Eisen</title>
+          
+  
+          <author key="person__2702" role="hat-geschaffen">Laube, Heinrich</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195491/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-55</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195489">
+          
+  
+          <title type="main">Weiße Frau</title>
+          
+  
+          <author key="person__195221" role="hat-geschaffen">Boieldieu, François</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195489/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-53</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195488">
+          
+  
+          <title type="main">Größenwahn</title>
+          
+  
+          <author key="person__23541" role="hat-geschaffen">Rosen, Julius</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195488/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-51</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195487">
+          
+  
+          <title type="main">Der närrische Schuster</title>
+          
+  
+          <author key="person__117623" role="hat-geschaffen">Ebersberg, Ottokar Franz</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195487/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-50</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195485">
+          
+  
+          <title type="main">Monterose</title>
+          
+  
+          <author key="person__2702" role="hat-geschaffen">Laube, Heinrich</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195485/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-47</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195484">
+          
+  
+          <title type="main">Sebastopol</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195484/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-43</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195483">
+          
+  
+          <title type="main">Unsere Verbündeten. Lustspiel in drei Akten</title>
+          
+  
+          <author key="person__2797" role="hat-geschaffen">Moreau, Émile</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195483/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-42</idno>
           
 
         </bibl>
@@ -5409,13 +10346,140 @@
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-37</idno>
           
 
-          <note type="collections">
-            
+        </bibl>
+        <bibl xml:id="pmb195480">
+          
   
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
+          <title type="main">Robert der Teufel</title>
+          
+  
+          <author key="person__8931" role="hat-geschaffen">Meyerbeer, Giacomo</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195480/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-35</idno>
+          
 
-          </note>
+        </bibl>
+        <bibl xml:id="pmb195479">
+          
+  
+          <title type="main">Beim höchsten Heurigen</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195479/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-33</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195478">
+          
+  
+          <title type="main">Taufgöd und Firmgodl</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195478/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-32</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195477">
+          
+  
+          <title type="main">Wiener Volksfiguren</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195477/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-31</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195476">
+          
+  
+          <title type="main">Feinde</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195476/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-27</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195475">
+          
+  
+          <title type="main">Schwarzer Peter</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195475/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-26</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195474">
+          
+  
+          <title type="main">Ein Opfer</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195474/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-25</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195473">
+          
+  
+          <title type="main">Hofmanns Nebelbilder</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195473/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-17</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195472">
+          
+  
+          <title type="main">Eselshaut</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195472/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-16</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195471">
+          
+  
+          <title type="main">Monaldeschi</title>
+          
+  
+          <author key="person__2702" role="hat-geschaffen">Laube, Heinrich</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195471/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-14</idno>
           
 
         </bibl>
@@ -5434,15 +10498,6 @@
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-4</idno>
           
 
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
-          
-
         </bibl>
         <bibl xml:id="pmb195469">
           
@@ -5457,15 +10512,6 @@
           
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-3</idno>
-          
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
           
 
         </bibl>
@@ -5484,15 +10530,6 @@
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-2</idno>
           
 
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
-          
-
         </bibl>
         <bibl xml:id="pmb195467">
           
@@ -5507,15 +10544,6 @@
           
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1</idno>
-          
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
           
 
         </bibl>
@@ -6964,6 +11992,9 @@
           <title type="main">König Heinrich der Vierte (Zweiter Theil). Historisches Drama in fünf Akten</title>
           
   
+          <title type="legacy-name-merge">König Heinrich der Vierte (Zweiter Theil). In fünf Aufzügen</title>
+          
+  
           <author key="person__2412" role="hat-geschaffen">Shakespeare, William</author>
           
   
@@ -6974,6 +12005,12 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195345/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195541/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-159</idno>
           
 
           <note type="collections">
@@ -6986,6 +12023,9 @@
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references"> </note>
           
 
         </bibl>
@@ -7160,9 +12200,6 @@
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
             
 
           </note>
@@ -7963,6 +13000,43 @@
           
 
         </bibl>
+        <bibl xml:id="pmb165130">
+          
+  
+          <title type="main">Arria und Messalina. Trauerspiel in fünf Aufzügen</title>
+          
+  
+          <title type="legacy-name-merge">Aria und Messalina</title>
+          
+  
+          <author key="person__5208" role="hat-geschaffen">Wilbrandt, Adolf von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/165130/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195600/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165130</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-274</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb165088">
           
   
@@ -8042,7 +13116,7 @@
         <bibl xml:id="pmb164857">
           
   
-          <title type="main">König Heinrich der Sechste (Erster Theil). In fünf Aufzügen</title>
+          <title type="main">König Heinrich der Sechste (Erster Teil). In fünf Aufzügen</title>
           
   
           <author key="person__2412" role="hat-geschaffen">Shakespeare, William</author>
@@ -8437,6 +13511,52 @@
           
 
         </bibl>
+        <bibl xml:id="pmb163472">
+          
+  
+          <title type="main">Ihr Corporal</title>
+          
+  
+          <title type="legacy-name-merge">Der Corporal</title>
+          
+  
+          <title type="legacy-name-merge">Ihr Korporal</title>
+          
+  
+          <author key="person__15112" role="hat-geschaffen">Costa, Karl</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163472/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163470/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195510/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-99</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163472</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163470</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Posse</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb163378">
           
   
@@ -8482,22 +13602,6 @@
           
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163219</idno>
-          
-
-        </bibl>
-        <bibl xml:id="pmb163213">
-          
-  
-          <title type="main">Gringoire</title>
-          
-  
-          <author key="person__4283" role="hat-geschaffen">Banville, Théodore de</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163213/</idno>
-          
-  
-          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163213</idno>
           
 
         </bibl>
@@ -11363,6 +16467,55 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb81531">
+          
+  
+          <title type="main">Die Venus vom Montmartre</title>
+          
+  
+          <title type="legacy-name-merge">Die Venus von Montmatre</title>
+          
+  
+          <author key="person__10663" role="hat-geschaffen">Zelnik, Friedrich</author>
+          
+  
+          <author key="person__5952" role="hat-einen-beitrag-geschaffen-zu">Albers, Hans</author>
+          
+  
+          <author key="person__119518" role="hat-einen-beitrag-geschaffen-zu">Mara, Lya</author>
+          
+  
+          <author key="person__10253" role="hat-einen-beitrag-geschaffen-zu">Trevor, Jack</author>
+          
+  
+          <author key="person__26216" role="hat-einen-beitrag-geschaffen-zu">Tschechowa, Olga</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/81531/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb81531.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195919/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Film</note>
+          
+  
+          <note type="references">None </note>
           
 
         </bibl>
@@ -17363,9 +22516,6 @@
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
             
 
           </note>
@@ -26349,6 +31499,22 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb80848.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb80847">
+          
+  
+          <title type="main">Tutti frutti</title>
+          
+  
+          <author key="person__12463" role="hat-geschaffen">Pückler-Muskau, Hermann von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/80847/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb80847.html</idno>
           
 
         </bibl>
@@ -39486,10 +44652,22 @@
         <bibl xml:id="pmb80247">
           
   
-          <title type="main">Gringoire</title>
+          <title type="main">Gringoire. Oper in einem Akt</title>
           
   
-          <author key="person__6484" role="hat-geschaffen">Brüll, Ignaz</author>
+          <title type="legacy-name-merge">Gringroire. Oper in einem Akt</title>
+          
+  
+          <title type="legacy-name-merge">Gringroire. Oper in einem Akt</title>
+          
+  
+          <author key="person__4283" role="hat-geschaffen">Banville, Théodore de</author>
+          
+  
+          <author key="person__2337" role="hat-ubersetzt">Léon, Victor</author>
+          
+  
+          <author key="person__6484" role="hat-vertont">Brüll, Ignaz</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/80247/</idno>
@@ -39498,7 +44676,22 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb80247.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195771/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163213</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163213/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-801</idno>
+          
+  
           <note type="work_kind">Oper</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
@@ -40001,6 +45194,73 @@
           
   
           <note type="work_kind">Pantomime</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb80221">
+          
+  
+          <title type="main">Narziss</title>
+          
+  
+          <title type="legacy-name-merge">Narziss</title>
+          
+  
+          <title type="legacy-name-merge">Narziss</title>
+          
+  
+          <title type="legacy-name-merge">Narziß</title>
+          
+  
+          <author key="person__6398" role="hat-geschaffen">Brachvogel, Albert Emil</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/80221/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb80221.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195638/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-344</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163350/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163350</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/205641/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4494555-3</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q64711356</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_2993.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Narziss_(Brachvogel)</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
@@ -42019,9 +47279,6 @@
   
           <author key="person__38849" role="hat-einen-beitrag-geschaffen-zu">Lion, Marie</author>
           
-  
-          <author key="person__120046" role="hat-einen-beitrag-geschaffen-zu">Wolff, Pius Alexander</author>
-          
 
           <date>1931</date>
           
@@ -43334,6 +48591,9 @@
           <title type="main">Der Zigeunerbaron</title>
           
   
+          <title type="legacy-name-merge">Zigeunerbaron</title>
+          
+  
           <author key="person__18956" role="hat-geschaffen">Jókai, Maurus</author>
           
   
@@ -43344,6 +48604,12 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb79744.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195712/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-496</idno>
           
 
         </bibl>
@@ -46222,6 +51488,12 @@
           <title type="main">Doktor Klaus</title>
           
   
+          <title type="legacy-name-merge">Doktor Claus</title>
+          
+  
+          <author key="person__2823" role="hat-geschaffen">L’Arronge, Adolph</author>
+          
+  
           <author key="person__2823" role="hat-geschaffen">L’Arronge, Adolph</author>
           
   
@@ -46229,6 +51501,12 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78261.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195523/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-122</idno>
           
 
         </bibl>
@@ -48860,15 +54138,6 @@
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164634</idno>
           
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
-          
   
           <note type="work_kind">Mehraktiges Drama</note>
           
@@ -50883,6 +56152,12 @@
           <title type="main">Die Tochter des Herrn Fabricius</title>
           
   
+          <title type="legacy-name-merge">Die Tochter des Herrn Fabricius</title>
+          
+  
+          <title type="legacy-name-merge">Tochter des Herrn Fabrizius</title>
+          
+  
           <author key="person__5208" role="hat-geschaffen">Wilbrandt, Adolf von</author>
           
   
@@ -50892,7 +56167,22 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77531.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/165133/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195560/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-192</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165133</idno>
+          
+  
           <note type="work_kind">Drama</note>
+          
+  
+          <note type="references">None </note>
           
 
         </bibl>
@@ -51360,6 +56650,9 @@
           <title type="main">Krieg im Frieden</title>
           
   
+          <title type="legacy-name-merge">Krieg im Frieden</title>
+          
+  
           <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
           
   
@@ -51372,7 +56665,22 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77487.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195601/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-276</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -51778,15 +57086,6 @@
           
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1360</idno>
-          
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -57427,6 +62726,9 @@
           <title type="main">Die Kreuzelschreiber</title>
           
   
+          <title type="legacy-name-merge">Kreuzlschreiber</title>
+          
+  
           <author key="person__10772" role="hat-geschaffen">Anzengruber, Ludwig</author>
           
   
@@ -57434,6 +62736,12 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76761.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195641/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-350</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -60580,10 +65888,19 @@
         <bibl xml:id="pmb52902">
           
   
-          <title type="main">Der Zigeunerbaron</title>
+          <title type="main">Der Zigeunerbaron. Operette in drei Akten</title>
           
   
-          <author key="person__12867" role="hat-geschaffen">Strauss, Johann</author>
+          <title type="legacy-name-merge">Der Zigeunerbaron</title>
+          
+  
+          <author key="person__12867" role="hat-vertont">Strauss, Johann</author>
+          
+  
+          <author key="person__18956" role="hat-geschaffen">Jókai, Maurus</author>
+          
+  
+          <author key="person__24403" role="hat-geschaffen">Schnitzer, Ignaz</author>
           
 
           <date notBefore-iso="1885-01-01" when-iso="1885-01-01">1885</date>
@@ -60597,8 +65914,26 @@
   
           <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb52902</idno>
           
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300155719</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q464511</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_Zigeunerbaron</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202919/</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_1047.html</idno>
+          
 
           <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
@@ -61832,7 +67167,7 @@
         <bibl xml:id="pmb41412">
           
   
-          <title type="main">Der Zerrissene</title>
+          <title type="main">Der Zerrissene. Posse mit Gesang in drei Akten</title>
           
   
           <author key="person__12338" role="hat-geschaffen">Nestroy, Johann Nepomuk</author>
@@ -61857,6 +67192,15 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41412.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -67351,6 +72695,40 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb32256">
+          
+  
+          <title type="main">O, Sie Schlimmer!</title>
+          
+  
+          <title type="legacy-name-merge">O Sie Schlimmer!</title>
+          
+  
+          <author key="person__28648" role="hat-geschaffen">Bender, Otto</author>
+          
+  
+          <author key="person__8226" role="hat-vertont">Kleiber, Karl</author>
+          
+
+          <date notBefore-iso="1894-01-01" when-iso="1894-01-01">1894</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32256.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32256/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195783/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-858</idno>
+          
+  
+          <note type="work_kind">Drama</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb32236">
           
   
@@ -67382,6 +72760,40 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb32220">
+          
+  
+          <title type="main">Reif-Reiflingen</title>
+          
+  
+          <title type="legacy-name-merge">Reif-Reiflingen</title>
+          
+  
+          <author key="person__12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+
+          <date notBefore-iso="1882-01-01" when-iso="1882-01-01">1882</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32220.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32220/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32220.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195609/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-291</idno>
+          
+  
+          <note type="work_kind">Text</note>
           
 
         </bibl>
@@ -71049,6 +76461,61 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb31541">
+          
+  
+          <title type="main">’s Lieserl vom Schliersee</title>
+          
+  
+          <title type="legacy-name-merge">’s Lieserl vom Schliersee</title>
+          
+  
+          <title type="legacy-name-merge">’s Liserl von Schliersee</title>
+          
+  
+          <title type="legacy-name-merge">Liserl vom Schliersee</title>
+          
+  
+          <author key="person__3998" role="hat-geschaffen">Neuert, Hans</author>
+          
+  
+          <author key="person__3994" role="hat-geschaffen">Schmid, Hermann von</author>
+          
+
+          <date notBefore-iso="1893-01-01" when-iso="1893-01-01">1893</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31541.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31543.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31541/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31543/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164526/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164526</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195823/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-1154</idno>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references"> </note>
+          
+
+        </bibl>
         <bibl xml:id="pmb31537">
           
   
@@ -74077,55 +79544,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
-        <bibl xml:id="pmb30867">
-          
-  
-          <title type="main">Henry IV, Part 1</title>
-          
-  
-          <title type="namensvariante">Heinrich IV., Teil 1</title>
-          
-  
-          <author key="person__2412" role="hat-geschaffen">Shakespeare, William</author>
-          
-
-          <date notBefore-iso="1597-01-01" when-iso="1597-01-01">1597</date>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30867.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30867/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30867.html</idno>
-          
-  
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/werke/pmb30867</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q631855</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Heinrich_IV.,_Teil_1</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30867.html</idno>
-          
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
-            
-
-          </note>
-          
-  
-          <note type="work_kind">Mehraktiges Drama</note>
-          
-
-        </bibl>
         <bibl xml:id="pmb30863">
           
   
@@ -74276,6 +79694,79 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Romanfragment</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb30847">
+          
+  
+          <title type="main">La Traviata. Oper in drei Akten</title>
+          
+  
+          <title type="werk_namensvariante">Violetta</title>
+          
+  
+          <title type="legacy-name-merge">La Traviata</title>
+          
+  
+          <title type="legacy-name-merge">La traviata</title>
+          
+  
+          <author key="person__13007" role="hat-geschaffen">Verdi, Giuseppe</author>
+          
+
+          <date notBefore-iso="1853-01-01" when-iso="1853-01-01">1853</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30847.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30847/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30847.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/165043/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201393/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300166400</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q186162</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_122.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195507/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-95</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165043</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/La_traviata</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
@@ -76082,6 +81573,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Cavalleria rusticana. Oper in einem Aufzuge</title>
           
   
+          <title type="legacy-name-merge">Cavalleria rusticana</title>
+          
+  
+          <title type="legacy-name-merge">Cavalleria rusticana</title>
+          
+  
           <author key="person__12198" role="hat-vertont">Mascagni, Pietro</author>
           
   
@@ -76105,8 +81602,35 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30603.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202540/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300099819</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q221806</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_848.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Cavalleria_rusticana</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/205839/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4400983-5</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_3136.html</idno>
+          
 
           <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -78766,15 +84290,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-2111</idno>
           
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="29">Schnitzler-Theater</bibl>
-            
-
-          </note>
-          
   
           <note type="work_kind">Mehraktiges Drama</note>
           
@@ -79445,6 +84960,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Das Abenteuer seines Lebens. Ein einaktiges Lustspiel</title>
           
   
+          <title type="legacy-name-merge">Das Abenteuer seines Lebens. Ein einaktiges Lustspiel</title>
+          
+  
           <author key="person__2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
@@ -79467,6 +84985,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb30143.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-715</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195744/</idno>
           
   
           <note type="work_kind">Einakter</note>
@@ -80316,6 +85840,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Prinz Friedrich von Homburg oder die Schlacht bei Fehrbellin</title>
           
   
+          <title type="legacy-name-merge">Prinz Friedrich von Homburg</title>
+          
+  
           <author key="person__11933" role="hat-geschaffen">Kleist, Heinrich von</author>
           
 
@@ -80343,7 +85870,16 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30029.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164195/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164195</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references"> </note>
           
 
         </bibl>
