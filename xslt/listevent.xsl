@@ -212,7 +212,7 @@
                                             <xsl:value-of select="@when-iso"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select="@ana"/>
+                                            <xsl:value-of select="@n"/>
                                         </td>
                                         <td>
                                             <a>

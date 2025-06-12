@@ -439,78 +439,14 @@
                     </ul>
                 </xsl:if>
             </div>
+            <xsl:variable name="xmlid" select="@xml:id"/>
             <div id="mentions" class="mt-2">
                 <span class="infodesc mr-2">
                     <legend>Erwähnungen</legend>
-                    <xsl:choose>
-                        <xsl:when
-                            test="$events/tei:event[descendant::tei:persName/@key = $xmlid][11]">
-                            <div class="accordion" id="eventAccordion">
-                                <!-- Jahresgruppen bestimmen -->
-                                <xsl:for-each-group
-                                    select="$events/tei:event[descendant::tei:persName/@key = $xmlid]"
-                                    group-by="substring(@when-iso, 1, 4)">
-                                    <xsl:sort select="current-grouping-key()" data-type="number"/>
-                                    <!-- Akkordeon-Eintrag -->
-                                    <div class="accordion-item">
-                                        <h2 class="accordion-header" id="heading-{@when-iso}">
-                                            <button class="accordion-button collapsed" type="button"
-                                                data-bs-toggle="collapse"
-                                                data-bs-target="#collapse-{current-grouping-key()}"
-                                                aria-expanded="false"
-                                                aria-controls="collapse-{current-grouping-key()}">
-                                                <xsl:value-of select="current-grouping-key()"/>
-                                                <xsl:choose>
-                                                  <xsl:when test="count(current-group()) = 1">
-                                                  <xsl:text> (ein Eintrag)</xsl:text>
-                                                  </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of
-                                                  select="concat(' (', count(current-group()), ' Einträge)')"
-                                                  />
-                                                  </xsl:otherwise>
-                                                </xsl:choose>
-                                            </button>
-                                        </h2>
-                                        <div id="collapse-{current-grouping-key()}"
-                                            class="accordion-collapse collapse"
-                                            aria-labelledby="heading-{current-grouping-key()}"
-                                            data-bs-parent="#eventAccordion">
-                                            <div class="accordion-body">
-                                                <ul>
-                                                  <xsl:for-each select="current-group()">
-                                                  <xsl:sort select="@when-iso"/>
-                                                  <li>
-                                                  <a href="{concat(@xml:id, '.html')}">
-                                                  <xsl:value-of
-                                                  select="normalize-space(tei:eventName)"/>
-                                                  </a>
-                                                  </li>
-                                                  </xsl:for-each>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </xsl:for-each-group>
-                            </div>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <ul>
-                                <xsl:for-each
-                                    select="$events/tei:event[descendant::tei:persName/@key = $xmlid]">
-                                    <xsl:sort select="@when-iso"/>
-                                    <li>
-                                        <xsl:element name="a">
-                                            <xsl:attribute name="href">
-                                                <xsl:value-of select="concat(@xml:id, '.html')"/>
-                                            </xsl:attribute>
-                                            <xsl:value-of select="normalize-space(tei:eventName)"/>
-                                        </xsl:element>
-                                    </li>
-                                </xsl:for-each>
-                            </ul>
-                        </xsl:otherwise>
-                    </xsl:choose>
+                    <xsl:call-template name="render-events-for-key">
+                        <xsl:with-param name="elementName" select="'persName'"/>
+                        <xsl:with-param name="xmlid" select="$xmlid"/>
+                    </xsl:call-template>
                 </span>
             </div>
         </div>
@@ -789,36 +725,15 @@
                     </span>
                 </div>
             </xsl:if>
+            <xsl:variable name="xmlid" select="@xml:id"/>
             <div id="mentions" class="mt-2">
                 <span class="infodesc mr-2">
                     <legend>Erwähnungen</legend>
-                    <ul>
-                        <xsl:for-each select=".//tei:note[@type = 'mentions']">
-                            <xsl:sort select="replace(@corresp, '-', '')" order="ascending"
-                                data-type="number"/>
-                            <xsl:variable name="linkToDocument">
-                                <xsl:value-of
-                                    select="replace(tokenize(data(.//@target), '/')[last()], '.xml', '.html')"
-                                />
-                            </xsl:variable>
-                            <xsl:choose>
-                                <xsl:when test="position() lt $showNumberOfMentions + 1">
-                                    <li>
-                                        <xsl:value-of select="."/>
-                                        <xsl:text> </xsl:text>
-                                        <a href="{$linkToDocument}">
-                                            <i class="fas fa-external-link-alt"/>
-                                        </a>
-                                    </li>
-                                </xsl:when>
-                            </xsl:choose>
-                        </xsl:for-each>
-                    </ul>
-                    <xsl:if
-                        test="count(.//tei:note[@type = 'mentions']) gt $showNumberOfMentions + 1">
-                        <p>Anzahl der Erwähnungen limitiert, klicke <a href="{$selfLink}">hier</a>
-                            für eine vollständige Auflistung</p>
-                    </xsl:if>
+                    <xsl:call-template name="render-events-for-key">
+                        <xsl:with-param name="elementName" select="'title'"/>
+                        <xsl:with-param name="xmlid" select="$xmlid"/>
+                    </xsl:call-template>
+                    
                 </span>
             </div>
         </div>
@@ -883,36 +798,15 @@
                         </xsl:for-each>
                     </ul>
                 </xsl:if>
+                <xsl:variable name="xmlid" select="@xml:id"/>
                 <div id="mentions" class="mt-2">
                     <span class="infodesc mr-2">
                         <legend>Erwähnungen</legend>
-                        <ul>
-                            <xsl:for-each select=".//tei:note[@type = 'mentions']">
-                                <xsl:sort select="replace(@corresp, '-', '')" order="ascending"
-                                    data-type="number"/>
-                                <xsl:variable name="linkToDocument">
-                                    <xsl:value-of
-                                        select="replace(tokenize(data(.//@target), '/')[last()], '.xml', '.html')"
-                                    />
-                                </xsl:variable>
-                                <xsl:choose>
-                                    <xsl:when test="position() lt $showNumberOfMentions + 1">
-                                        <li>
-                                            <xsl:value-of select="."/>
-                                            <xsl:text> </xsl:text>
-                                            <a href="{$linkToDocument}">
-                                                <i class="fas fa-external-link-alt"/>
-                                            </a>
-                                        </li>
-                                    </xsl:when>
-                                </xsl:choose>
-                            </xsl:for-each>
-                        </ul>
-                        <xsl:if
-                            test="count(.//tei:note[@type = 'mentions']) gt $showNumberOfMentions + 1">
-                            <p>Anzahl der Erwähnungen limitiert, klicke <a href="{$selfLink}"
-                                    >hier</a> für eine vollständige Auflistung</p>
-                        </xsl:if>
+                        <xsl:call-template name="render-events-for-key">
+                            <xsl:with-param name="elementName" select="'title'"/>
+                            <xsl:with-param name="xmlid" select="$xmlid"/>
+                        </xsl:call-template>
+                        
                     </span>
                 </div>
             </div>
@@ -997,36 +891,15 @@
                     </ul>
                 </div>
             </xsl:if>
+            <xsl:variable name="xmlid" select="@xml:id"/>
             <div id="mentions" class="mt-2">
                 <span class="infodesc mr-2">
                     <legend>Erwähnungen</legend>
-                    <ul>
-                        <xsl:for-each select=".//tei:note[@type = 'mentions']">
-                            <xsl:sort select="replace(@corresp, '-', '')" order="ascending"
-                                data-type="number"/>
-                            <xsl:variable name="linkToDocument">
-                                <xsl:value-of
-                                    select="replace(tokenize(data(.//@target), '/')[last()], '.xml', '.html')"
-                                />
-                            </xsl:variable>
-                            <xsl:choose>
-                                <xsl:when test="position() lt $showNumberOfMentions + 1">
-                                    <li>
-                                        <xsl:value-of select="."/>
-                                        <xsl:text> </xsl:text>
-                                        <a href="{$linkToDocument}">
-                                            <i class="fas fa-external-link-alt"/>
-                                        </a>
-                                    </li>
-                                </xsl:when>
-                            </xsl:choose>
-                        </xsl:for-each>
-                    </ul>
-                    <xsl:if
-                        test="count(.//tei:note[@type = 'mentions']) gt $showNumberOfMentions + 1">
-                        <p>Anzahl der Erwähnungen limitiert, klicke <a href="{$selfLink}">hier</a>
-                            für eine vollständige Auflistung</p>
-                    </xsl:if>
+                    <xsl:call-template name="render-events-for-key">
+                        <xsl:with-param name="elementName" select="'title'"/>
+                        <xsl:with-param name="xmlid" select="$xmlid"/>
+                    </xsl:call-template>
+                    
                 </span>
             </div>
         </div>
@@ -1073,6 +946,146 @@
             <xsl:otherwise>
                 <xsl:text> </xsl:text>
                 <xsl:value-of select="$typityp"/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:function>
+    <xsl:template name="render-events-for-key">
+        <xsl:param name="elementName"/>
+        <xsl:param name="xmlid"/>
+        
+        <xsl:variable name="matchingEvents" select="$events/tei:event[descendant::*[name() = $elementName]/@key = $xmlid]"/>
+        
+        <xsl:choose>
+            <xsl:when test="$matchingEvents[11]">
+                <div class="accordion" id="eventAccordion">
+                    <xsl:for-each-group select="$matchingEvents" group-by="substring(@when-iso, 1, 4)">
+                        <xsl:sort select="current-grouping-key()" data-type="number"/>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading-{@when-iso}">
+                                <button class="accordion-button collapsed" type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapse-{current-grouping-key()}"
+                                    aria-expanded="false"
+                                    aria-controls="collapse-{current-grouping-key()}">
+                                    <xsl:value-of select="current-grouping-key()"/>
+                                    <xsl:choose>
+                                        <xsl:when test="count(current-group()) = 1">
+                                            <xsl:text> (ein Eintrag)</xsl:text>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="concat(' (', count(current-group()), ' Einträge)')"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </button>
+                            </h2>
+                            
+                            <div id="collapse-{current-grouping-key()}" class="accordion-collapse collapse"
+                                aria-labelledby="heading-{current-grouping-key()}" data-bs-parent="#eventAccordion">
+                                <div class="accordion-body">
+                                    <xsl:choose>
+                                        
+                                        <!-- Wenn mehr als 10 Einträge, gruppiere nach Monat -->
+                                        <xsl:when test="count(current-group()) > 10">
+                                            <xsl:for-each-group select="current-group()" group-by="substring(@when-iso, 6, 2)">
+                                                <xsl:sort select="current-grouping-key()" data-type="number"/>
+                                                
+                                                <!-- Monatsüberschrift -->
+                                                <h5 class="mt-3">
+                                                    <xsl:value-of select="mam:monat(current-group()[1]/@when-iso)"/>
+                                                </h5>
+                                                
+                                                <ul>
+                                                    <xsl:for-each select="current-group()">
+                                                        <xsl:sort select="@when-iso"/>
+                                                        <li>
+                                                            <a href="{concat(@xml:id, '.html')}">
+                                                                <xsl:value-of select="normalize-space(tei:eventName)"/>
+                                                            </a>
+                                                        </li>
+                                                    </xsl:for-each>
+                                                </ul>
+                                            </xsl:for-each-group>
+                                        </xsl:when>
+                                        
+                                        <!-- Sonst: normale flache Liste -->
+                                        <xsl:otherwise>
+                                            <ul>
+                                                <xsl:for-each select="current-group()">
+                                                    <xsl:sort select="@when-iso"/>
+                                                    <li>
+                                                        <a href="{concat(@xml:id, '.html')}">
+                                                            <xsl:value-of select="normalize-space(tei:eventName)"/>
+                                                        </a>
+                                                    </li>
+                                                </xsl:for-each>
+                                            </ul>
+                                        </xsl:otherwise>
+                                        
+                                    </xsl:choose>
+                                </div>
+                            </div>
+                        </div>
+                    </xsl:for-each-group>
+                    
+                </div>
+            </xsl:when>
+            <xsl:otherwise>
+                <ul>
+                    <xsl:for-each select="$matchingEvents">
+                        <xsl:sort select="@when-iso"/>
+                        <li>
+                            <a href="{concat(@xml:id, '.html')}">
+                                <xsl:value-of select="normalize-space(tei:eventName)"/>
+                            </a>
+                        </li>
+                    </xsl:for-each>
+                </ul>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    <xsl:function name="mam:monat" as="xs:string">
+        <xsl:param name="iso-datum" as="xs:date"/>
+        <xsl:variable name="month-of-the-year" as="xs:string"
+            select="format-date($iso-datum, '[MNn]')"/>
+        <xsl:choose>
+            <xsl:when test="$month-of-the-year = 'January'">
+                <xsl:text>Jänner</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'February'">
+                <xsl:text>Februar</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'March'">
+                <xsl:text>März</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'April'">
+                <xsl:text>April</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'May'">
+                <xsl:text>Mai</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'June'">
+                <xsl:text>Juni</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'July'">
+                <xsl:text>Juli</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'August'">
+                <xsl:text>August</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'September'">
+                <xsl:text>September</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'October'">
+                <xsl:text>Oktober</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'November'">
+                <xsl:text>November</xsl:text>
+            </xsl:when>
+            <xsl:when test="$month-of-the-year = 'December'">
+                <xsl:text>Dezember</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>Unbekannter Monat</xsl:text>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:function>

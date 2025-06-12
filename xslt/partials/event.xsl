@@ -4,7 +4,8 @@
     xmlns:mam="whatever" version="2.0" exclude-result-prefixes="xsl tei xs">
     <xsl:param select="document('../utils/index_days.xml')" name="tb-days"/>
     <xsl:template match="tei:event" name="event_detail">
-        <table class="table entity-table">
+        
+        <table class="table entity-table mx-auto" style="max-width=800px">
             <tbody>
                 <tr>
                     <th> Datum </th>
@@ -52,40 +53,47 @@
                 <tr>
                     <th>Veranstaltungsort</th>
                     <td>
+                        <ul>
                         <xsl:for-each select="tei:listPlace/tei:place">
+                            <li>
+                            <!-- Link zum Ort -->
                             <xsl:element name="a">
-                                <xsl:attribute name="target">
-                                    <xsl:text>_blank</xsl:text>
-                                </xsl:attribute>
+                                <xsl:attribute name="target">_blank</xsl:attribute>
                                 <xsl:attribute name="href">
                                     <xsl:value-of select="concat(tei:placeName/@key, '.html')"/>
                                 </xsl:attribute>
                                 <xsl:value-of select="normalize-space(tei:placeName)"/>
                             </xsl:element>
+                            
+                            <!-- Karte & OSM-Link -->
                             <xsl:if test="./tei:location/tei:geo">
-                                <div id="map_detail" style="height: 250px; width: 400px;"/>
-                                <xsl:variable name="mlat"
-                                    select="replace(tokenize(./tei:location[1]/tei:geo[1], '\s')[1], ',', '.')"/>
-                                <xsl:variable name="mlong"
-                                    select="replace(tokenize(./tei:location[1]/tei:geo[1], '\s')[2], ',', '.')"/>
-                                <xsl:variable name="mappin"
-                                    select="concat('mlat=',$mlat, '&amp;mlon=', $mlong)"
-                                    as="xs:string"/>
+                                <!-- Karte -->
+                                <div id="map_detail" style="height: 250px; width: 475px;"/>
+                                
+                                <!-- Koordinaten vorbereiten -->
+                                <xsl:variable name="mlat" select="replace(tokenize(./tei:location[1]/tei:geo[1], '\s')[1], ',', '.')"/>
+                                <xsl:variable name="mlong" select="replace(tokenize(./tei:location[1]/tei:geo[1], '\s')[2], ',', '.')"/>
+                                <xsl:variable name="mappin" select="concat('mlat=', $mlat, '&amp;mlon=', $mlong)" as="xs:string"/>
                                 <xsl:variable name="openstreetmapurl"
                                     select="concat('https://www.openstreetmap.org/?', $mappin, '#map=12/', $mlat, '/', $mlong)"/>
-                                <a class="osm-link">
-                                    <xsl:attribute name="href">
-                                        <xsl:value-of select="$openstreetmapurl"/>
-                                    </xsl:attribute>
-                                    <xsl:attribute name="target">
-                                        <xsl:text>_blank</xsl:text>
-                                    </xsl:attribute>
-                                    <i class="bi bi-box-arrow-up-right"/> OpenStreetMap </a>
+                                
+                                <!-- OSM-Link klein und rechtsbündig -->
+                                <div class="text-end" style="width: 475px;">
+                                    <a class="small d-block mt-1" target="_blank">
+                                        <xsl:attribute name="href">
+                                            <xsl:value-of select="$openstreetmapurl"/>
+                                        </xsl:attribute>
+                                        <i class="bi bi-box-arrow-up-right"/> OpenStreetMap
+                                    </a>
+                                </div>
                             </xsl:if>
+                            </li>
                         </xsl:for-each>
+                        </ul>
                     </td>
+                    
                 </tr>
-                <xsl:if test="tei:listBibl/tei:title">
+                <xsl:if test="tei:listBibl/tei:bibl/tei:title[not(tei:note[contains(., 'rezensi')])]">
                     <tr>
                         <th>Aufgeführte Werke</th>
                         <td>
@@ -97,6 +105,27 @@
                                             <xsl:attribute name="href">
                                                 <xsl:value-of
                                                   select="concat(tei:title/@key, '.html')"/>
+                                            </xsl:attribute>
+                                            <xsl:value-of select="normalize-space(tei:title)"/>
+                                        </xsl:element>
+                                    </li>
+                                </xsl:for-each>
+                            </ul>
+                        </td>
+                    </tr>
+                </xsl:if>
+                <xsl:if test="tei:listBibl/tei:bibl/tei:title[(tei:note[contains(., 'rezensi')])]">
+                    <tr>
+                        <th>Rezensionen</th>
+                        <td>
+                            <ul>
+                                <xsl:for-each
+                                    select="tei:listBibl/tei:bibl[(tei:note[contains(., 'rezensi')]) and normalize-space(tei:title)]">
+                                    <li>
+                                        <xsl:element name="a">
+                                            <xsl:attribute name="href">
+                                                <xsl:value-of
+                                                    select="concat(tei:title/@key, '.html')"/>
                                             </xsl:attribute>
                                             <xsl:value-of select="normalize-space(tei:title)"/>
                                         </xsl:element>
@@ -221,6 +250,7 @@
                 </xsl:if>
             </tbody>
         </table>
+        
     </xsl:template>
     <xsl:function name="mam:wochentag" as="xs:string">
         <xsl:param name="iso-datum" as="xs:date"/>

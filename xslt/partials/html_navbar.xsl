@@ -28,21 +28,18 @@
                                 </ul>
                             </li>
 
-                            <!--<li class="nav-item">
-                                <a class="nav-link" href="toc.html">Editionseinheiten</a>
-                            </li>-->
+                            <li class="nav-item">
+                                <a class="nav-link" href="listevent.html">Ereignisse</a>
+                            </li>
 
                             <li class="nav-item dropdown disabled">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Register</a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a class="dropdown-item" href="listevent.html">Ereignisse</a>
+                                        <a class="dropdown-item" href="listperson.html">Personen</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="listbibl.html">Werke</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listperson.html">Personen</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="listplace.html">Orte</a>
