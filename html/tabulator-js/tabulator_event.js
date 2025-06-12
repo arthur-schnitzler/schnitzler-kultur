@@ -12,18 +12,19 @@ var table = new Tabulator("#tabulator-table-event", {
             
             columns: [
             {title:"Datum", field:"datum", headerFilter:"input", formatter:"html", responsive:0, minWidth:100, maxWidth:120},
-            {title:"Ereignis", field:"ereignis", minWidth:200, headerFilter:"input", formatter:"html", responsive:0, width:280},
+            {title:"Ereignis", field:"ereignis", minWidth:200, headerFilter:"input", formatter:"html", responsive:0, width:250},
             {title:"Werk", field:"werk", minWidth:200, headerFilter:"input", formatter:"html", responsive:2, width:200},
             {title:"Ort", field:"ort", headerFilter:"input", formatter:"html", responsive:2, width:200, maxWidth:250},
             {title:"Typ", field:"typ", headerFilter:"input", formatter:"html", responsive:1, width:120},
-            {title:"Arbeitskraft", field:"arbeitskraft", headerFilter:"input", formatter:"html", responsive:1},
-            {title:"Teilnehmer_innen", field:"teilnehmer_innen", headerFilter:"input", formatter:"html", responsive:1},
+            {title:"Arbeitskraft", field:"arbeitskraft", headerFilter:"input", formatter:"html", responsive:1, width:200},
+            {title:"Teilnehmer_innen", field:"teilnehmer_innen", headerFilter:"input", formatter:"html", responsive:1, width:200},
             {title:"Organisation", field:"organisation", headerFilter:"input", formatter:"html", responsive:4, width:200, maxWidth:250},
             ],
             
             initialSort:[
+            {column:"ereignis", dir:"asc"},
             {column:"datum", dir:"asc"}, 
-            {column:"ereignis", dir:"asc"}
+
             ],
             
             langs: {
