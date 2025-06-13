@@ -66,3 +66,14 @@ jobs:
           git add data/indices/*
           git commit -m "Automatisch generierte Indexdateien aktualisiert" || echo "Keine Änderungen zu committen"
           git push
+
+      - name: Run make_calendar_data.py
+        run: python ./python/make_calendar_data.py
+
+      - name: Commit and push calendarData.js
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add html/js-data/calendarData.js
+          git commit -m "Automatisch generierte calendarData.js aktualisiert" || echo "Keine Änderungen zu committen"
+          git push
