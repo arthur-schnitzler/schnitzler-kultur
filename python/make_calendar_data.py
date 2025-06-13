@@ -29,7 +29,7 @@ for event in events:
         entry = {
             "name": event_name,
             "startDate": when_iso,
-            "id": f"entry__{when_iso}.html"
+            "id": f"{xml_id}.html"
         }
         entries.append(entry)
 
