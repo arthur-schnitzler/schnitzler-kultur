@@ -13365,7 +13365,7 @@ var calendarData = [
     "name": "Aufführung von Gilette de Narbonne, 19.4.1885", "startDate": "1885-04-19", "id": "entry__1885-04-19.html"
   },
   {
-    "name": "Letzter dramatischer Vortrag von Alexander Strakosch, 13.4.1885", "startDate": "1885-04-13", "id": "entry__1885-04-13.html"
+    "name": "Letzter dramatischer Vortragsabend von Alexander Strakosch, 13.4.1885", "startDate": "1885-04-13", "id": "entry__1885-04-13.html"
   },
   {
     "name": "Aufführung von Lucia di Lammermoor, 7.4.1885", "startDate": "1885-04-07", "id": "entry__1885-04-07.html"
@@ -13614,13 +13614,13 @@ var calendarData = [
     "name": "Aufführung von Eine Nacht in Venedig, 15.12.1883", "startDate": "1883-12-15", "id": "entry__1883-12-15.html"
   },
   {
-    "name": "Konzert Sarasate, 23.11.1883", "startDate": "1883-11-23", "id": "entry__1883-11-23.html"
+    "name": "Konzert von Anton Door und Pablo de Sarasate, 23.11.1883", "startDate": "1883-11-23", "id": "entry__1883-11-23.html"
   },
   {
     "name": "Philharmonisches-Konzert, 18.11.1883", "startDate": "1883-11-18", "id": "entry__1883-11-18.html"
   },
   {
-    "name": "Vorlesung Alexander Strakosch, 23.10.1883", "startDate": "1883-10-23", "id": "entry__1883-10-23.html"
+    "name": "Zweiter dramatischer Vortragsabend von Alexander Strakosch, 23.10.1883", "startDate": "1883-10-23", "id": "entry__1883-10-23.html"
   },
   {
     "name": "Aufführung von Narziss, 30.9.1883", "startDate": "1883-09-30", "id": "entry__1883-09-30.html"
@@ -13650,7 +13650,7 @@ var calendarData = [
     "name": "Aufführung von Heinrich der Vierte (Erster Teil), 24.6.1883", "startDate": "1883-06-24", "id": "entry__1883-06-24.html"
   },
   {
-    "name": "Aufführung von Heinrich VI, 20.6.1883", "startDate": "1883-06-20", "id": "entry__1883-06-20.html"
+    "name": "Aufführung von König Heinrich der Sechste, 20.6.1883", "startDate": "1883-06-20", "id": "entry__1883-06-20.html"
   },
   {
     "name": "Aufführung von Richard II, 16.6.1883", "startDate": "1883-06-16", "id": "entry__1883-06-16.html"
@@ -13689,7 +13689,7 @@ var calendarData = [
     "name": "Aufführung von La Sonnambula, 3.4.1883", "startDate": "1883-04-03", "id": "entry__1883-04-03.html"
   },
   {
-    "name": "Klavierkonzert Anton Rückauf, 2.4.1883", "startDate": "1883-04-02", "id": "entry__1883-04-02.html"
+    "name": "Klavierkonzert von Anton Rückauf, 2.4.1883", "startDate": "1883-04-02", "id": "entry__1883-04-02.html"
   },
   {
     "name": "Hausball Schlesinger, 25.3.1883", "startDate": "1883-03-25", "id": "entry__1883-03-25.html"
@@ -13755,7 +13755,7 @@ var calendarData = [
     "name": "Studentenball, 18.1.1883", "startDate": "1883-01-18", "id": "entry__1883-01-18.html"
   },
   {
-    "name": "Auftritt von Quartett Hellmesberger, 18.1.1883", "startDate": "1883-01-18", "id": "entry__1883-01-18.html"
+    "name": "Drittes Hellmesberger-Quartett, 18.1.1883", "startDate": "1883-01-18", "id": "entry__1883-01-18.html"
   },
   {
     "name": "Unitas-Kränzchen, 16.1.1883", "startDate": "1883-01-16", "id": "entry__1883-01-16.html"
@@ -13791,7 +13791,7 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 26.11.1882", "startDate": "1882-11-26", "id": "entry__1882-11-26.html"
   },
   {
-    "name": "Auftritt von Quartett Hellmesberger, 23.11.1882", "startDate": "1882-11-23", "id": "entry__1882-11-23.html"
+    "name": "Erstes Hellmesberger-Quartett, 23.11.1882", "startDate": "1882-11-23", "id": "entry__1882-11-23.html"
   },
   {
     "name": "Premiere von Der Compagnon, 21.11.1882", "startDate": "1882-11-21", "id": "entry__1882-11-21.html"
@@ -13854,7 +13854,7 @@ var calendarData = [
     "name": "Billardkünstler Boffart, 24.3.1882", "startDate": "1882-03-24", "id": "entry__1882-03-24.html"
   },
   {
-    "name": "Auftritt von Quartett Radnitzky, 22.3.1882", "startDate": "1882-03-22", "id": "entry__1882-03-22.html"
+    "name": "Sechstes (letztes) Radnitzky-Quartett, 22.3.1882", "startDate": "1882-03-22", "id": "entry__1882-03-22.html"
   },
   {
     "name": "Ball Weiß, 18.3.1882", "startDate": "1882-03-18", "id": "entry__1882-03-18.html"
@@ -14046,7 +14046,7 @@ var calendarData = [
     "name": "Aufführung von Aida, 22.4.1881", "startDate": "1881-04-22", "id": "entry__1881-04-22.html"
   },
   {
-    "name": "Auftritt von Quartett Hellmesberger, 21.4.1881", "startDate": "1881-04-21", "id": "entry__1881-04-21.html"
+    "name": "Sechstes (letztes) Hellmesberger-Quartett, 21.4.1881", "startDate": "1881-04-21", "id": "entry__1881-04-21.html"
   },
   {
     "name": "Aufführung von Hypochonder, 6.4.1881", "startDate": "1881-04-06", "id": "entry__1881-04-06.html"
@@ -14187,10 +14187,10 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 26.12.1880", "startDate": "1880-12-26", "id": "entry__1880-12-26.html"
   },
   {
-    "name": "Aufführung von Tristan und Isolde, 22.12.1880", "startDate": "1880-12-22", "id": "entry__1880-12-22.html"
+    "name": "Letzter interner Musik-Abend des Richard-Wagner-Verbands, 22.12.1880", "startDate": "1880-12-22", "id": "entry__1880-12-22.html"
   },
   {
-    "name": "Auftritt von Quartett Grün, 21.12.1880", "startDate": "1880-12-21", "id": "entry__1880-12-21.html"
+    "name": "Dritte Soirée des Grün-Quartetts, 21.12.1880", "startDate": "1880-12-21", "id": "entry__1880-12-21.html"
   },
   {
     "name": "Aufführung von Frou-Frou. Comédie en cinq actes, 15.12.1880", "startDate": "1880-12-15", "id": "entry__1880-12-15.html"
@@ -14358,7 +14358,7 @@ var calendarData = [
     "name": "Aufführung von Hamlet, 29.4.1880", "startDate": "1880-04-29", "id": "entry__1880-04-29.html"
   },
   {
-    "name": "VI. Quartett Helmesberger, 22.4.1880", "startDate": "1880-04-22", "id": "entry__1880-04-22.html"
+    "name": "Sechstes (letztes) Hellmesberger-Quartett, 22.4.1880", "startDate": "1880-04-22", "id": "entry__1880-04-22.html"
   },
   {
     "name": "Aufführung von Hexe, 20.4.1880", "startDate": "1880-04-20", "id": "entry__1880-04-20.html"
@@ -14400,7 +14400,7 @@ var calendarData = [
     "name": "Premiere von Die Frau ohne Geist, 17.3.1880", "startDate": "1880-03-17", "id": "entry__1880-03-17.html"
   },
   {
-    "name": "Vortrag Phillip Markbreiter über die Redefreiheit, 10.3.1880", "startDate": "1880-03-10", "id": "entry__1880-03-10.html"
+    "name": "Vortrag von Phillip Markbreiter über die Redefreiheit, 10.3.1880", "startDate": "1880-03-10", "id": "entry__1880-03-10.html"
   },
   {
     "name": "Ball Walter, 8.3.1880", "startDate": "1880-03-08", "id": "entry__1880-03-08.html"
@@ -14424,7 +14424,7 @@ var calendarData = [
     "name": "Ball Spitzer, 22.2.1880", "startDate": "1880-02-22", "id": "entry__1880-02-22.html"
   },
   {
-    "name": "5. Auftritt des Quartetts Helmesberger, 19.2.1880", "startDate": "1880-02-19", "id": "entry__1880-02-19.html"
+    "name": "Fünftes Hellmesberger-Quartett, 19.2.1880", "startDate": "1880-02-19", "id": "entry__1880-02-19.html"
   },
   {
     "name": "Technikerkränzchen, 17.2.1880", "startDate": "1880-02-17", "id": "entry__1880-02-17.html"
@@ -14499,7 +14499,7 @@ var calendarData = [
     "name": "Aufführung von Im Tanzsaal, Ein zweiter Talleyrand, Grasteufel, 23.12.1879", "startDate": "1879-12-23", "id": "entry__1879-12-23.html"
   },
   {
-    "name": "3. Quartett Helmesberger, 18.12.1879", "startDate": "1879-12-18", "id": "entry__1879-12-18.html"
+    "name": "Drittes Hellmesberger-Quartett, 18.12.1879", "startDate": "1879-12-18", "id": "entry__1879-12-18.html"
   },
   {
     "name": "Philharmonisches-Konzert, 14.12.1879", "startDate": "1879-12-14", "id": "entry__1879-12-14.html"
@@ -14520,7 +14520,7 @@ var calendarData = [
     "name": "Aufführung von Königin von Sava, 22.11.1879", "startDate": "1879-11-22", "id": "entry__1879-11-22.html"
   },
   {
-    "name": "2. Quartett Helmesberger, 20.11.1879", "startDate": "1879-11-20", "id": "entry__1879-11-20.html"
+    "name": "Erstes Hellmesberger-Quartett, 20.11.1879", "startDate": "1879-11-20", "id": "entry__1879-11-20.html"
   },
   {
     "name": "Aufführung von Tannhäuser und der Sängerkrieg, 16.11.1879", "startDate": "1879-11-16", "id": "entry__1879-11-16.html"
@@ -14730,7 +14730,7 @@ var calendarData = [
     "name": "III. Philharmonisches-Konzert, 1.12.1878", "startDate": "1878-12-01", "id": "entry__1878-12-01.html"
   },
   {
-    "name": "I. Quartett Helmesberger, 21.11.1878", "startDate": "1878-11-21", "id": "entry__1878-11-21.html"
+    "name": "Erstes Hellmesberger-Quartett, 21.11.1878", "startDate": "1878-11-21", "id": "entry__1878-11-21.html"
   },
   {
     "name": "I. Philharmonisches Konzert, 3.11.1878", "startDate": "1878-11-03", "id": "entry__1878-11-03.html"
@@ -14781,7 +14781,7 @@ var calendarData = [
     "name": "Aufführung von La princesse de Trébizonde, 15.5.1878", "startDate": "1878-05-15", "id": "entry__1878-05-15.html"
   },
   {
-    "name": "Auftritt von Quartett Hellmesberger, 25.4.1878", "startDate": "1878-04-25", "id": "entry__1878-04-25.html"
+    "name": "Letztes Hellmesberger-Quartett, 25.4.1878", "startDate": "1878-04-25", "id": "entry__1878-04-25.html"
   },
   {
     "name": "Gesellschaftskonzert im Musikverein, 16.4.1878", "startDate": "1878-04-16", "id": "entry__1878-04-16.html"
@@ -16668,7 +16668,7 @@ var calendarData = [
     "name": "Proben für Mein Mausi. Liebhaberaufführung, März 1886", "startDate": "1886-03-01", "id": "entry__1886-03-01.html"
   },
   {
-    "name": "Liebhaberaufführung Nur lügen muss man können. Scherz in einem Akte, 14.11.1882", "startDate": "1882-11-14", "id": "entry__1882-11-14.html"
+    "name": "Privataufführung von Nur lügen muss man können, 14.11.1882", "startDate": "1882-11-14", "id": "entry__1882-11-14.html"
   },
   {
     "name": "Aufführung von Der Herzog von Gothland, 9.2.1892", "startDate": "1892-02-09", "id": "entry__1892-02-09.html"
