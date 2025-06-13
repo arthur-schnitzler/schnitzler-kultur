@@ -5,13 +5,11 @@
     <xsl:template match="/" name="html_footer">
         <div class="wrapper hide-reading" id="wrapper-footer-full">
             <div class="container" id="footer-full-content" tabindex="-1">
-                <div class="footer-separator text-center">KONTAKT</div>
-                
                 <div class="row justify-content-between align-items-start">
                     <!-- Linke Spalte: Logo + Institut -->
                     <div class="footer-widget col-lg-6 col-md-6 mb-4">
                         <div class="textwidget custom-html-widget d-flex">
-                            <div class="mr-3 pr-3">
+                            <div style="margin: 20px">
                                 <a href="https://www.oeaw.ac.at/acdh/">
                                     <img src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg"
                                         alt="ACDH Logo" title="ACDH Logo"
