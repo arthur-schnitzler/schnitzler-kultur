@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-06-12">serialized</change>
+      <change when-iso="2025-06-13">serialized</change>
       
        
     </revisionDesc>
@@ -3112,6 +3112,70 @@
           
 
         </place>
+        <place xml:id="pmb256372">
+          
+  
+          <placeName>Straße von Gibraltar</placeName>
+          
+  
+          <desc type="entity_type">kein passender Code gefunden</desc>
+          
+  
+          <desc type="entity_type_id">3474</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>35,97388888888889 -5,516111111111111</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="place__41016">Mittelmeer</placeName>
+            
+  
+            <geo>35,0 18,0</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/256372/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q36124</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4093478-0</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2363256/</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Stra%C3%9Fe_von_Gibraltar</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb256372.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb255932">
           
   
@@ -4629,7 +4693,7 @@
         <place xml:id="pmb250999">
           
   
-          <placeName>Historisches Museum der Stadt Wien</placeName>
+          <placeName>Wien Museum</placeName>
           
   
           <placeName type="ort_fruherer-name">Historisches Museum der Stadt Wien</placeName>
@@ -17041,10 +17105,10 @@
           <placeName>Palais-Royal</placeName>
           
   
-          <desc type="entity_type">P.PPLX</desc>
+          <desc type="entity_type">kein passender Code gefunden</desc>
           
   
-          <desc type="entity_type_id">1234</desc>
+          <desc type="entity_type_id">3474</desc>
           
 
           <location type="coords">
@@ -20831,10 +20895,10 @@
           <placeName>Concertgebouw</placeName>
           
   
-          <desc type="entity_type">S.THTR</desc>
+          <desc type="entity_type">kein passender Code gefunden</desc>
           
   
-          <desc type="entity_type_id">3473</desc>
+          <desc type="entity_type_id">3474</desc>
           
 
           <location type="coords">
@@ -28853,79 +28917,6 @@
             
 
           </note>
-          
-
-        </place>
-        <place xml:id="pmb12376">
-          
-  
-          <placeName>Atlantischer Ozean</placeName>
-          
-  
-          <placeName type="ort_namensvariante">Atlantik</placeName>
-          
-  
-          <desc type="entity_type">Meer (N.MER)</desc>
-          
-  
-          <desc type="entity_type_id">65</desc>
-          
-
-          <location type="coords">
-            
-  
-            <geo>7,0 -31,0</geo>
-            
-
-          </location>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5140/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10846/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12376/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17450/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19369/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24425/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52737/</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/3373405/</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q97</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Atlantischer_Ozean</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb12376.html</idno>
-          
-  
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb12376.html</idno>
-          
-
-          <listBibl>
-            
-    
-            <bibl type="collections" n="24">manually created entity</bibl>
-            
-    
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-
-          </listBibl>
           
 
         </place>

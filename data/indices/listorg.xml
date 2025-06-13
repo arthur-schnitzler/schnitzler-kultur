@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-06-12">serialized</change>
+      <change when-iso="2025-06-13">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,65 @@
       
            
       <listOrg>
+        <org xml:id="pmb294606">
+          
+  
+          <orgName>Grün-Quartett</orgName>
+          
+  
+          <desc type="entity_type">Musikalische Vereinigung</desc>
+          
+  
+          <desc type="entity_type_id">4368</desc>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294606/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </org>
+        <org xml:id="pmb294595">
+          
+  
+          <orgName>Radnitzky-Quartett</orgName>
+          
+  
+          <desc type="entity_type">Musikalische Vereinigung</desc>
+          
+  
+          <desc type="entity_type_id">4368</desc>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294595/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1878-01-01" when-iso="1878-01-01">1878</date>
+            
+
+          </note>
+          
+
+        </org>
         <org xml:id="pmb294066">
           
   
