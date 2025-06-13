@@ -1,14 +1,5 @@
 import xml.etree.ElementTree as ET
-from datetime import datetime
-import locale
 import os
-
-# Setze deutsche Locale für Wochentagsnamen
-try:
-    locale.setlocale(locale.LC_TIME, "de_DE.UTF-8")
-except locale.Error:
-    # Fallback, falls das System "de_DE.UTF-8" nicht unterstützt
-    locale.setlocale(locale.LC_TIME, "de_DE")
 
 # Eingabe- und Ausgabepfade
 input_file = "./data/editions/listevent.xml"
@@ -35,16 +26,8 @@ for event in events:
     if xml_id and when_iso and event_name_elem is not None:
         event_name = event_name_elem.text.strip()
 
-        # Datumsformat umwandeln zu "Wochentag, D. Monat JJJJ"
-        try:
-            date_obj = datetime.strptime(when_iso, "%Y-%m-%d")
-            formatted_name = date_obj.strftime("%A, %-d. %B %Y")
-        except ValueError:
-            # Fallback falls Datumsformat nicht stimmt
-            formatted_name = event_name
-
         entry = {
-            "name": event_name_elem.text.strip(),
+            "name": event_name,
             "startDate": when_iso,
             "id": f"entry__{when_iso}.html"
         }
