@@ -1,36 +1,39 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-           <titleStmt>
-              <title type="main">Über das Projekt</title>
-              <title type="sub">Arthur Schnitzler – Kulturveranstaltungen</title>
-               <author>Müller, Martin Anton</author>
-               <author>Untner, Laura</author>
-           </titleStmt>
-           
-           <publicationStmt>
-              <p>Publication Information</p>
-           </publicationStmt>
-           <sourceDesc>
-              <p>Information about the source</p>
-           </sourceDesc>
+            <titleStmt>
+                <title level="s">Arthur Schnitzler – Kulturveranstaltungen</title>
+                <title level="a">Arthur Schnitzler, Herr der Listen</title>
+                <author>Müller, Martin Anton</author>
+                <author>Untner, Laura</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <p>Tiefgründigere psychologische Überlegungen sparte sich Arthur Schnitzler für seine
-                Erzählungen und Dramen auf: da verdichten sich Motive und Beweggründe zu schicksalhaften
-                Ereignissen. Im eigenen Leben war der Anspruch nicht so sehr von einem Erkenntnisdrang
-                getrieben, sondern eher einer Vermessung. Bekanntermaßen führte Arthur Schnitzler schon
-                früh ein <ref type="URL" target="https://schnitzler-tagebuch.acdh.oeaw.ac.at/">Tagebuch</ref> (die Jahre als Jugendlicher sind großteils verloren) und notierte
-                sich jene Ereignisse, Gespräche und Zusammentreffen, die für ihn über die unmittelbare
-                Gegenwart hinaus zu reichen schienen. Ein Leben lässt sich auf unterschiedlichste Weise
-                aufzeichnen und der gelernte Mediziner Schnitzler entschied sich für den wissenschaftlichen
-                Zugang: Er vermaß es, indem er verschiedene Listen anlegte, um Zeugnis abzugeben über
-                bestimmte Aspekte seines Daseins. Diese handgeschriebenen Listen überführte er in der Zeit nach seinem 50. Geburtstag mit Hilfe
-                seiner Sekretärin in maschingeschriebene Fassungen. Sie werden heute in seinem Nachlass
-                in der Cambridge University Library verwahrt und umfassen folgende Einheiten:
-            </p>
+            <p>Ein zentrales Element der Erzählungen und Dramen von Arthur Schnitzler sind
+                psychologische Vorgänge, die der Verfasser schildern möchte: Motive und Beweggründe
+                verdichten sich zu schicksalhaften Ereignissen. Wenn es um sein eigenes Leben ging,
+                war der Anspruch nicht so hoch und sein Drang zur Verschriftlichung seines Lebens
+                beschreibt sich weniger durch Erkenntnissuche, als durch das Bedürfnis nach
+                Vermessung aus.</p>
+            <p>Bekanntermaßen führte Schnitzler schon früh ein <ref type="URL"
+                    target="https://schnitzler-tagebuch.acdh.oeaw.ac.at/">Tagebuch</ref> (die Jahre
+                als Jugendlicher sind großteils verloren) und notierte sich jene Ereignisse,
+                Gespräche und Zusammentreffen, die für ihn über die unmittelbare Gegenwart hinaus zu
+                reichen schienen. Ein Leben lässt sich auf unterschiedlichste Weise aufzeichnen und
+                der gelernte Mediziner Schnitzler entschied sich für den wissenschaftlichen Zugang:
+                Er vermaß es, indem er verschiedene Listen anlegte, um Zeugnis abzugeben über
+                bestimmte Aspekte seines Daseins. Diese handgeschriebenen Listen überführte er in
+                der Zeit nach seinem 50. Geburtstag mit Hilfe seiner Sekretärin in
+                maschingeschriebene Fassungen. Sie werden heute in seinem Nachlass in der Cambridge
+                University Library verwahrt und umfassen folgende Einheiten: </p>
             <list>
                 <item>Mappe 175: Verzeichnis unternommener Reisen</item>
                 <item>Mappe 176,1 und 4: Aufführungen meiner Stücke in meiner Anwesenheit</item>
@@ -40,95 +43,115 @@
                 <item>Mappe 178 Notizen zu Lektüre und Theaterbesuchen</item>
                 <item>Mappe 179 Verzeichnis von Theater- und Konzertbesuchen</item>
             </list>
-             <p>Die Lücke zwischen 176 und 178 könnte für das Tagebuch freigehalten worden sein, das in 
-                 gewisser Hinsicht ja auch eine Liste darstellt, nämlich der Tage seines Lebens. (Eventuell befand sich
-                 hier zu einem Zeitpunkt auch das Traumtagebuch.) Zudem könnten weitere
-                 Listen könnten hier berücksichtigt werden, vor allem die aus dem Tagebuch extrahierten
-                 »Charakteristiken«, in denen Schnitzler Psychogramme und Urteile über (männliche) Freunde und 
-                 Weggefährten destillierte.</p>
-            <p>Weil die »Charakteristiken« aus dem Tagebuch entnommen sind, liegt es nahe, auch die anderen
-                Listen als Extrakte desselben zu begreifen. Damit würde man irren, weil
-                die Fakten dagegensprechen. Die 
-                faktische Sache ist leicht erklärt: So enthalten sowohl die Leseliste wie das Verzeichnis der 
-                Theaterbesuche Informationen, die sich in keinen anderen Quellen finden. Das betrifft Bücher, die er
-                las, deren Lektüre er aber nicht in seinen täglichen Aufzeichnungen festhielt. Das zeigt sich an den 
-                Theaterbesuchen, die 1876 einsetzen (Schnitzler war 14 Jahre alt), wohingegen das überlieferte 
-                Tagebuch erst drei Jahre später, 1879, beginnt. Und auch später noch übergeht das Tagebuch Aufführungen,
-                und wir erfahren nur aus der Mappe 178, wann er zuerst Eleonora Duse auf der Bühne erlebt hat (am 17. Mai 1892).</p>
-            <p>Aber nicht nur die fehlenden Fakten relativieren das Tagebuch. Es ist selbst ein Substrat, das zu 
-                unterschiedlichen Zeitpunkten, manchmal Wochen und Monate nach den Ereignissen, verfasst wurde. Das geht
-                aus verschieden selbstreflexiven Bemerkungen im Tagebuch hervor. Für die anderen Listen existieren
-                teilweise und unvollständig hangeschriebene Fassungen, die als Vorlage für die Sekretärin gedient
-                haben dürfte, eine getippte Version herzustellen. Die meisten dieser handschriftlichen Fassungen wurden
-                aber als durch die Abschrift obsolet geworden, entsorgt. Ähnlich dürfte es sich beim Tagebuch um 
-                eine Bearbeitung von Notizen handeln, die nur unvollständig überliefert und derzeit mit marginalen Ausnahmen 
-                vollständig unediert sind.</p>
-            <p>Das Tagebuch und die anderen Listen lassen sich als Antworten begreifen, auf Fragen, die sich Schnitzler
-                stellte: Wo war ich? Wen habe ich gesprochen? Was habe ich erlebt? Was habe ich getan? Was habe ich 
-                gelesen? Welche kulturellen Veranstaltungen habe ich besucht? (Und, wenn man auch die in der Mappe 237 befindlichen,
-                bibliografischen Aufzeichnungen hinzunimmt: Was habe ich geschrieben?) – Es sind dies die Achsen, nach denen
-                die Selbstvermessung Schnitzlers funktioniert. Zuerst einmal mag das logisch klingen und eine pragmatische
-                Evidenz verraten. Doch man kann sich vergegenwärtigen, was Schnitzler eben nicht zu beantworten versucht: So schreibt
-                er wenig über seine Wünsche, über Vorhaben und Ziele. Der Schreibakt der Aufzeichnungen dient der Dokumentation,
-                ist aber keine (in Abwandlung
-                der psychoanalytischen »talking cure«) »writing cure«, kein Versuch, zu mehr Klarheit über eine unklare Gegenwart zu gelangen.</p>
-            <p>Die Beschränkung, die eine Dokumentation gegenüber einer Reflexion hat, muss nicht schöngeredet werden. Die jeweiligen
-                Erkenntnisse, die aus ihnen gewonnen werden können, sind andere. Schnitzler erweist sich jedenfalls mit seinen Listen
-                geradezu prädestiniert für maschinelle Datenbanken und digitale Corpora, die die umfangreichen Informationen zugänglich
-                machen können. Achim Aurnhammer hat 2013 eine gedruckte Fassung der Lektüreliste vorgelegt (Würzburg: Ergon Verlag, Akten des Arthur Schnitzler-Archivs Freiburg), die 
-                seit 2020 auch digital verfügbar ist.
-                
-                mag der Ansicht gewesen sein, sein Leben umfassend für die Nachwelt festzuhalten, indem er Antworten
-                auf die 
-                
-                
-                
-                einer 
-                
-               
-            
-            
-                
-                
-                Vergleichbar wie die anderen Listen, von
-                denen teilweise und unvollständig, handschriftliche Fassungen für einzelne Zeiträume vorliegen, die 
-                nachdem sie abgetippt worden war, 
-                
-            
-                
-                
-                So irrt
-                man sich, weil das Tagebuch als nicht vor, sondern neben den anderen Listen steht. 
-                
-                
-                
-                
+            <p>Die Mappe 177 ist verloren gegangen, aber durch eine Mikroverfilmung und eine Abschrift (Deutsches Literaturarchiv, HS.1985.1.70) gesichert. In der Mappe fanden sich
+                Autobiografisches zu den literarischen Anfängen, Daten zu Novellen und Erzählungen
+                sowie Daten zu Dramen. Schnitzler dokumentierte darin für ausgewählte Werke in chronologischer Folge die 
+                Entstehungs- und Wirkungsgeschichte. (Aufgegriffen und erweitert wird diese Liste durch die bibliografischen Aufstellungen in der Mappe 237,
+                die unter verzicht auf Lebensdaten, ein Verzeichnis der zu Lebzeiten publizierten Texte enthält.) Auch
+                können weitere Listen hier berücksichtigt werden, vor allem die aus dem
+                Tagebuch extrahierten »Charakteristiken«, in denen Schnitzler Psychogramme und
+                Urteile über (männliche) Freunde und Weggefährten destillierte. Weil die »Charakteristiken« aus dem Tagebuch entnommen sind, könnte man schließen, auch die
+                anderen Listen wären Extrakte desselben. Damit bekäme das Tagebuch eine singuläre Position, 
+                das wie ein Universalschlüssel die Tür ins Leben und Werk Schnitzlers öffnen könnte. Das
+                wäre aber mehrfach falsch.</p>
+            <p>Es wäre falsch, weil die Fakten dagegensprechen. Sowohl
+                die Leseliste wie das Verzeichnis der Theaterbesuche enthalten Informationen, die sich in
+                keinen anderen Quellen finden. Das betrifft Bücher, die er las, deren Lektüre er
+                aber nicht in seinen täglichen Aufzeichnungen festhielt. Das zeigt sich an den
+                Theaterbesuchen, die 1876 einsetzen (Schnitzler war 14 Jahre alt), wohingegen das
+                überlieferte Tagebuch erst drei Jahre später, 1879, beginnt. Und auch später noch
+                übergeht das Tagebuch Aufführungen, und wir erfahren nur aus der Mappe 178, wann er
+                zuerst Eleonora Duse auf der Bühne erlebt hat (am 17. Mai 1892).</p>
+            <p>Es wäre aber auch falsch, weil das Tagebuch selbst nicht die genuin früheste Dokumentation 
+                von Lebensereignissen darstellt. Stattdessen ist es selbst keine Verschriftlichung der 
+                Vorgänge selbst, sondern eine manchmal wochen- und monatelang später aus Notizen 
+                zusammengestellte Kompilation. Das geht aus verschieden selbstreflexiven Bemerkungen
+                im Tagebuch hervor. Das hat tiefgreifende Konsequenzen, etwa wenn man das Verhältnis
+                von Briefen und Tagebuch betrachtet. Welcher Niederschrift eines Ereignisses muss das zeitliche Primat zugedacht werden, wenn 
+                sich in beiden ähnliche Formulierungen und Wendungen finden. Hat Schnitzler sein Tagebuch in
+                der brieflichen Aussage überarbeitet, oder im Tagebuch eine Paraphrase des Briefes festgehalten?</p>
+            <p>Vor allem sind es aber Notizbücher, Tageskalender (Agenden) und weitere nicht zwangsläufig ausformulierte
+                Aufzeichnungen, die bislang nicht systematisch wissenschaftlich erfasst sind und die auch weitgehend
+                vollständig nicht ediert sind, auf denen Schnitzlers Tagebuch basiert.
                 
                 
                 
                
+                muss, einem Brief, in dem Schnitzler eine Schilderung gibt, oder dem Tagebuch, in dem er
+                sich mit ähnlichen Wendungen ausdrückt. Als Frage formuliert: Verarbeitet 
                 
                 
                 
                 
-                Arthur Schnitzler, bekannt für seine tiefgründigen psychologischen Dramen und Erzählungen, war nicht nur ein scharfer Beobachter der menschlichen Seele, sondern auch ein begeisterter Teilnehmer am kulturellen Leben Wiens. Seine Tagebücher sind eine wahre Fundgrube für alle, die wissen möchten, welche Theaterstücke, Opern und Konzerte den großen Dichter bewegten und inspirierten. Weit entfernt von bloßer Unterhaltung boten diese kulturellen Erlebnisse Schnitzler oft eine Bühne, um die Entwicklungen seiner Zeit zu reflektieren und die menschliche Natur in all ihren Facetten zu ergründen.
+                Aber nicht nur die fehlenden Fakten relativieren das Tagebuch. Es ist selbst ein
+                Substrat, das zu unterschiedlichen Zeitpunkten, manchmal Wochen und Monate nach den
+                Ereignissen, verfasst wurde. 
                 
-                Ein Fenster in Schnitzlers Welt
                 
-                Stellen Sie sich vor, Sie könnten mit Arthur Schnitzler durch die Straßen Wiens spazieren und ihn zu seinen bevorzugten Kulturveranstaltungen begleiten. Seine Aufzeichnungen ermöglichen genau das: Sie öffnen ein faszinierendes Fenster in eine Epoche, in der Kunst und Wissenschaft untrennbar miteinander verbunden waren. Von den Premieren Ibsenscher Dramen über die Opernabende in der Hofoper bis hin zu den Salons, in denen die geistige Elite der Stadt verkehrte – Schnitzlers Besuche waren nie zufällig. Sie waren Teil seiner Recherche, seiner Inspiration und seiner intellektuellen Auseinandersetzung mit der Welt.
-                
-                Mehr als nur Unterhaltung
-                
-                Es wäre zu kurz gegriffen, Schnitzlers Besuche als bloße Freizeitaktivitäten abzutun. Vielmehr waren sie wissenschaftliche Beobachtung und künstlerische Aneignung. Er analysierte Inszenierungen, studierte die Reaktionen des Publikums und verglich die dargestellten Konflikte mit seinen eigenen Studien der menschlichen Psyche. So wurde der Theaterbesuch zu einem Teil seines Schaffensprozesses, der Opernabend zur Inspiration für neue Charaktere und die Lektüre eines Romans zur Grundlage für tiefgehende Reflexionen. Schnitzlers kulturelle Ausflüge waren somit keine bloßen "Ausflüge", sondern integrierter Bestandteil seines literarischen und psychologischen Schaffens.
-                
-                Schnitzler als Chronist seiner Zeit
-                
-                Indem wir Schnitzlers kulturelle Spuren verfolgen, erhalten wir nicht nur Einblicke in seine persönliche Entwicklung, sondern auch ein lebendiges Bild des kulturellen Klimas im Wien der Jahrhundertwende. Seine Notizen sind ein einzigartiges Zeugnis für die künstlerischen Strömungen, die politischen Debatten und die gesellschaftlichen Veränderungen jener Zeit. Sie zeigen uns einen Schnitzler, der mitten im Leben stand, der sich den Herausforderungen seiner Epoche stellte und der in der Kunst stets eine Möglichkeit sah, die Komplexität des menschlichen Daseins zu ergründen.
-                
-                Tauchen Sie ein in die Welt von Arthur Schnitzler und entdecken Sie, wie die Kultur seine Werke prägte und wie seine Besuche uns heute noch faszinierende Einblicke in eine vergangene Ära ermöglichen.
-              
-           </p>
+                Für die anderen Listen existieren teilweise und unvollständig
+                handgeschriebene Fassungen, die als Vorlage für die Sekretärin gedient haben dürfte,
+                eine getippte Version herzustellen. Die meisten dieser handschriftlichen Fassungen
+                wurden aber als durch die Abschrift obsolet geworden, entsorgt. Ähnlich dürfte es
+                sich beim Tagebuch um eine Bearbeitung von Notizen handeln, die nur unvollständig
+                überliefert und derzeit mit marginalen Ausnahmen vollständig unediert sind.</p>
+            <p>Das Tagebuch und die anderen Listen lassen sich als Antworten begreifen, auf Fragen,
+                die sich Schnitzler stellte: Wo war ich? Wen habe ich gesprochen? Was habe ich
+                erlebt? Was habe ich getan? Was habe ich gelesen? Welche kulturellen Veranstaltungen
+                habe ich besucht? (Und, wenn man auch die in der Mappe 237 befindlichen,
+                bibliografischen Aufzeichnungen hinzunimmt: Was habe ich geschrieben?) – Es sind
+                dies die Achsen, nach denen die Selbstvermessung Schnitzlers funktioniert. Zuerst
+                einmal mag das logisch klingen und eine pragmatische Evidenz verraten. Doch man kann
+                sich vergegenwärtigen, was Schnitzler eben nicht zu beantworten versucht: So
+                schreibt er wenig über seine Wünsche, über Vorhaben und Ziele. Der Schreibakt der
+                Aufzeichnungen dient der Dokumentation, ist aber keine (in Abwandlung der
+                psychoanalytischen »talking cure«) »writing cure«, kein Versuch, zu mehr Klarheit
+                über eine unklare Gegenwart zu gelangen.</p>
+            <p>Die Beschränkung, die eine Dokumentation gegenüber einer Reflexion hat, muss nicht
+                schöngeredet werden. Die jeweiligen Erkenntnisse, die aus ihnen gewonnen werden
+                können, sind andere. Schnitzler erweist sich jedenfalls mit seinen Listen geradezu
+                prädestiniert für maschinelle Datenbanken und digitale Corpora, die die
+                umfangreichen Informationen zugänglich machen können. Achim Aurnhammer hat 2013 eine
+                gedruckte Fassung der Lektüreliste vorgelegt (Würzburg: Ergon Verlag, Akten des
+                Arthur Schnitzler-Archivs Freiburg), die seit 2020 auch digital verfügbar ist. mag
+                der Ansicht gewesen sein, sein Leben umfassend für die Nachwelt festzuhalten, indem
+                er Antworten auf die einer Vergleichbar wie die anderen Listen, von denen teilweise
+                und unvollständig, handschriftliche Fassungen für einzelne Zeiträume vorliegen, die
+                nachdem sie abgetippt worden war, So irrt man sich, weil das Tagebuch als nicht vor,
+                sondern neben den anderen Listen steht. Arthur Schnitzler, bekannt für seine
+                tiefgründigen psychologischen Dramen und Erzählungen, war nicht nur ein scharfer
+                Beobachter der menschlichen Seele, sondern auch ein begeisterter Teilnehmer am
+                kulturellen Leben Wiens. Seine Tagebücher sind eine wahre Fundgrube für alle, die
+                wissen möchten, welche Theaterstücke, Opern und Konzerte den großen Dichter bewegten
+                und inspirierten. Weit entfernt von bloßer Unterhaltung boten diese kulturellen
+                Erlebnisse Schnitzler oft eine Bühne, um die Entwicklungen seiner Zeit zu
+                reflektieren und die menschliche Natur in all ihren Facetten zu ergründen. Ein
+                Fenster in Schnitzlers Welt Stellen Sie sich vor, Sie könnten mit Arthur Schnitzler
+                durch die Straßen Wiens spazieren und ihn zu seinen bevorzugten
+                Kulturveranstaltungen begleiten. Seine Aufzeichnungen ermöglichen genau das: Sie
+                öffnen ein faszinierendes Fenster in eine Epoche, in der Kunst und Wissenschaft
+                untrennbar miteinander verbunden waren. Von den Premieren Ibsenscher Dramen über die
+                Opernabende in der Hofoper bis hin zu den Salons, in denen die geistige Elite der
+                Stadt verkehrte – Schnitzlers Besuche waren nie zufällig. Sie waren Teil seiner
+                Recherche, seiner Inspiration und seiner intellektuellen Auseinandersetzung mit der
+                Welt. Mehr als nur Unterhaltung Es wäre zu kurz gegriffen, Schnitzlers Besuche als
+                bloße Freizeitaktivitäten abzutun. Vielmehr waren sie wissenschaftliche Beobachtung
+                und künstlerische Aneignung. Er analysierte Inszenierungen, studierte die Reaktionen
+                des Publikums und verglich die dargestellten Konflikte mit seinen eigenen Studien
+                der menschlichen Psyche. So wurde der Theaterbesuch zu einem Teil seines
+                Schaffensprozesses, der Opernabend zur Inspiration für neue Charaktere und die
+                Lektüre eines Romans zur Grundlage für tiefgehende Reflexionen. Schnitzlers
+                kulturelle Ausflüge waren somit keine bloßen "Ausflüge", sondern integrierter
+                Bestandteil seines literarischen und psychologischen Schaffens. Schnitzler als
+                Chronist seiner Zeit Indem wir Schnitzlers kulturelle Spuren verfolgen, erhalten wir
+                nicht nur Einblicke in seine persönliche Entwicklung, sondern auch ein lebendiges
+                Bild des kulturellen Klimas im Wien der Jahrhundertwende. Seine Notizen sind ein
+                einzigartiges Zeugnis für die künstlerischen Strömungen, die politischen Debatten
+                und die gesellschaftlichen Veränderungen jener Zeit. Sie zeigen uns einen
+                Schnitzler, der mitten im Leben stand, der sich den Herausforderungen seiner Epoche
+                stellte und der in der Kunst stets eine Möglichkeit sah, die Komplexität des
+                menschlichen Daseins zu ergründen. Tauchen Sie ein in die Welt von Arthur Schnitzler
+                und entdecken Sie, wie die Kultur seine Werke prägte und wie seine Besuche uns heute
+                noch faszinierende Einblicke in eine vergangene Ära ermöglichen. </p>
         </body>
     </text>
-  </TEI>
-  
+</TEI>

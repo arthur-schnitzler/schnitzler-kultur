@@ -34,8 +34,8 @@
                     <div class="footer-widget col-lg-6 col-md-6 mb-4">
                         <div class="textwidget custom-html-widget">
                             <h6 class="font-weight-bold">KONTAKT</h6>
-                            <p>Bei Fragen, Anmerkungen, Kritik oder Lob kontaktieren Sie bitte Martin Anton Müller oder
-                                Laura Untner.</p>
+                            <p>Bei Fragen, Anmerkungen, Kritik oder Lob kontaktieren<br/>
+                                Sie bitte Martin Anton Müller oder Laura Untner:</p>
                             <p>
                                 <a class="helpdesk-button" href="mailto:martin.anton.mueller@encore.at">e-Mail</a>
                             </p>
