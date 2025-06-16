@@ -54,7 +54,7 @@
         
         <!-- Footer Bar -->
         <div class="footer-imprint-bar hide-reading" id="wrapper-footer-secondary"
-            style="text-align:center; padding:0.4rem 0; font-size: 0.9rem;">
+            style="text-align:center; padding:0.4rem 0; font-size: 0.9rem; background-color: white;">
             © Copyright OEAW | <a href="imprint.html">Impressum</a>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>

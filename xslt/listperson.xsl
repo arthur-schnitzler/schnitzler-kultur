@@ -32,7 +32,7 @@
                             </div>
                             <div class="card-body">
                                 <div id="container mb-3"
-                                    style="width:100%; margin: auto"/>
+                                    style="width:100%; margin: auto minWidth: 100%;"/>
                                 <table class="table table-sm display" id="tabulator-table-person">
                                     <thead>
                                         <tr>

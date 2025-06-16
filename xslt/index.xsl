@@ -55,13 +55,13 @@
                                 position: relative;
                                 top: -250px; visibility: hidden"
                                 id="body"/>
-                            <p class="mt-3">Arthur Schnitzler war ein eifriger Besucher von Kulturveranstaltungen.
-                                Diese Website versammelt erstmals knapp 5800 öffentliche Ereignisse, die er zwischen 
-                                1876 und 1931 besuchte und macht sie durchsuchbar. Das umfasst alle Veranstaltungen, 
+                            <p class="mt-3">Theaterproben, Konzerte, Premieren, Kinoabende – durchschnittlich zwei- bis dreimal die
+                                Woche war Arthur Schnitzler unterwegs und nahm am kulturellen Leben teil. Diese Website versammelt 
+                                erstmals knapp 5800 öffentliche Ereignisse, die er zwischen 
+                                1876 und 1931 besuchte und macht sie zugänglich. Das umfasst alle Veranstaltungen, 
                                 bei denen er selbst tätig wurde, darunter die öffentlichen und privaten Lesungen. 
-                               Dazu kommen
-                                Theater-, Konzert-, Opern-, Kinobesuche, Besuche im Kaiserpanorama, Bälle und 
-                                Soiréen. Erstmals sind auch alle Teilnahmen an Theaterproben erfasst.
+                               Dazu kommen alle Theaterproben sowie Theater-, Konzert-, Opern-, Kinobesuche, Besuche im Kaiserpanorama, Bälle und 
+                                Soiréen.
                             </p>
                             
                             <a href="listevent.html">
