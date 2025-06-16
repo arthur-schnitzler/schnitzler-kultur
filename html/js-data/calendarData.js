@@ -9330,7 +9330,7 @@ var calendarData = [
     "name": "Aufführung von Feuersnot, Die Perle von Iberien, 25.8.1902", "startDate": "1902-08-25", "id": "pmb209262.html"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 19.7.1902", "startDate": "1902-07-19", "id": "pmb209261.html"
+    "name": "Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 19.7.1902", "startDate": "1902-07-19", "id": "pmb209261.html"
   },
   {
     "name": "Aufführung von Nora oder ein Puppenheim, 31.5.1902", "startDate": "1902-05-31", "id": "pmb209260.html"
@@ -9366,7 +9366,7 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 16.3.1902", "startDate": "1902-03-16", "id": "pmb209250.html"
   },
   {
-    "name": "Konzert, 12.3.1902", "startDate": "1902-03-12", "id": "pmb209249.html"
+    "name": "Russisches Symphonie-Konzert, 12.3.1902", "startDate": "1902-03-12", "id": "pmb209249.html"
   },
   {
     "name": "Symphoniekonzert, 11.3.1902", "startDate": "1902-03-11", "id": "pmb209248.html"
@@ -9387,10 +9387,10 @@ var calendarData = [
     "name": "Aufführung von Heinrich der Vierte (1. Teil), 27.2.1902", "startDate": "1902-02-27", "id": "pmb209243.html"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 23.2.1902", "startDate": "1902-02-23", "id": "pmb209242.html"
+    "name": "Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 23.2.1902", "startDate": "1902-02-23", "id": "pmb209242.html"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 20.2.1902", "startDate": "1902-02-20", "id": "pmb209241.html"
+    "name": "Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 20.2.1902", "startDate": "1902-02-20", "id": "pmb209241.html"
   },
   {
     "name": "Vortrag Hugo von Hofmannsthal über Goethes dramatischen Stil, 19.2.1902", "startDate": "1902-02-19", "id": "pmb209240.html"
@@ -9453,7 +9453,7 @@ var calendarData = [
     "name": "Zweiter Abend des Rosé-Quartetts, 3.12.1901", "startDate": "1901-12-03", "id": "pmb209221.html"
   },
   {
-    "name": "Violinkonzert, 2.12.1901", "startDate": "1901-12-02", "id": "pmb209220.html"
+    "name": "Violinkonzert von Bronisław Huberman, 2.12.1901", "startDate": "1901-12-02", "id": "pmb209220.html"
   },
   {
     "name": "Philharmonisches-Konzert, 1.12.1901", "startDate": "1901-12-01", "id": "pmb209219.html"
@@ -9525,9 +9525,6 @@ var calendarData = [
     "name": "Überbrettl, 6.5.1901", "startDate": "1901-05-06", "id": "pmb209196.html"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 28.4.1901", "startDate": "1901-04-28", "id": "pmb209195.html"
-  },
-  {
     "name": "Aufführung von Mia molie non ha chic, 22.4.1901", "startDate": "1901-04-22", "id": "pmb209194.html"
   },
   {
@@ -9568,9 +9565,6 @@ var calendarData = [
   },
   {
     "name": "Aufführung von Egmont, 10.1.1901", "startDate": "1901-01-10", "id": "pmb209180.html"
-  },
-  {
-    "name": "Konservatoriums-Vorstellung, 21.12.1900", "startDate": "1900-12-21", "id": "pmb209179.html"
   },
   {
     "name": "Aufführung von Orestie, 12.12.1900", "startDate": "1900-12-12", "id": "pmb209178.html"
@@ -9687,7 +9681,7 @@ var calendarData = [
     "name": "Aufführung von Symphonie Nr. 9 d-Moll op. 125, 22.2.1900", "startDate": "1900-02-22", "id": "pmb209141.html"
   },
   {
-    "name": "1. Konzert der russischen National-Vokal-Kapelle von Nadina Slaviansky, 20.2.1900", "startDate": "1900-02-20", "id": "pmb209140.html"
+    "name": "Erstes Konzert der russischen National-Vokal-Kapelle von Nadina Slaviansky, 20.2.1900", "startDate": "1900-02-20", "id": "pmb209140.html"
   },
   {
     "name": "Aufführung von Unsere Gusti, 16.2.1900", "startDate": "1900-02-16", "id": "pmb209139.html"
@@ -9768,7 +9762,7 @@ var calendarData = [
     "name": "Auftritt von Quartett Rosé, 14.11.1899", "startDate": "1899-11-14", "id": "pmb209114.html"
   },
   {
-    "name": "Konzert, 13.11.1899", "startDate": "1899-11-13", "id": "pmb209113.html"
+    "name": "Russisches Konzert, 13.11.1899", "startDate": "1899-11-13", "id": "pmb209113.html"
   },
   {
     "name": "Aufführung von Der Richter von Zalamea, 6.11.1899", "startDate": "1899-11-06", "id": "pmb209112.html"
@@ -16389,13 +16383,13 @@ var calendarData = [
     "name": "Gesangskonzert von Olga Schnitzler, 23.2.1911", "startDate": "1911-02-23", "id": "pmb167960.html"
   },
   {
-    "name": "Private Lesung von Das Bergwerk zu Falun, 31. 8. 1899", "startDate": "1899-08-31", "id": "pmb167925.html"
+    "name": "Private Lesung von Das Bergwerk zu Falun, 31.8.1899", "startDate": "1899-08-31", "id": "pmb167925.html"
   },
   {
     "name": "Aufführung von Medea, 7.2.1893", "startDate": "1893-02-07", "id": "pmb167867.html"
   },
   {
-    "name": "Uraufführung von Das liebe Ich, 24. 9. 1898", "startDate": "1898-09-24", "id": "pmb167862.html"
+    "name": "Uraufführung von Das liebe Ich, 24.9.1898", "startDate": "1898-09-24", "id": "pmb167862.html"
   },
   {
     "name": "Aufführung von Die verkaufte Braut, 4.6.1892", "startDate": "1892-06-04", "id": "pmb167853.html"
@@ -16404,10 +16398,10 @@ var calendarData = [
     "name": "Aufführung von Stella, Die Mitschuldigen, 7.5.1892", "startDate": "1892-05-07", "id": "pmb167833.html"
   },
   {
-    "name": "Aufführung von Das Mädchen aus der Feenwelt oder Der Bauer als Millionär, 5. 9. 1896", "startDate": "1896-09-05", "id": "pmb167749.html"
+    "name": "Aufführung von Das Mädchen aus der Feenwelt oder Der Bauer als Millionär, 5.9.1896", "startDate": "1896-09-05", "id": "pmb167749.html"
   },
   {
-    "name": "Aufführung von Die alten Junggesellen, 27. 4. 1896", "startDate": "1896-04-27", "id": "pmb167701.html"
+    "name": "Aufführung von Die alten Junggesellen, 27.4.1896", "startDate": "1896-04-27", "id": "pmb167701.html"
   },
   {
     "name": "Aufführung von Faust, 12.4.1888", "startDate": "1888-04-12", "id": "pmb167665.html"
@@ -16440,7 +16434,7 @@ var calendarData = [
     "name": "Probe von Der Schleier der Beatrice, 27.2.1903", "startDate": "1903-02-27", "id": "pmb147984.html"
   },
   {
-    "name": "Schulaufführung des Konservatoriums, 28. 4. 1901", "startDate": "1901-04-28", "id": "pmb147961.html"
+    "name": "Schulaufführung des Konservatoriums, 28.4.1901", "startDate": "1901-04-28", "id": "pmb147961.html"
   },
   {
     "name": "Premiere von Boule de suif, Schöne Seelen, 29.12.1905", "startDate": "1905-12-29", "id": "pmb147534.html"
@@ -16464,7 +16458,7 @@ var calendarData = [
     "name": "Premiere von Das dritte Kind, Boubouroche, Der Herr Gegencandidat, 31.1.1900", "startDate": "1900-01-31", "id": "pmb145758.html"
   },
   {
-    "name": "Premiere von Rausch, 13. 10. 1902", "startDate": "1902-10-13", "id": "pmb145675.html"
+    "name": "Premiere von Rausch, 13.10.1902", "startDate": "1902-10-13", "id": "pmb145675.html"
   },
   {
     "name": "Aufführung von Zwischenspiel, 26.11.1905", "startDate": "1905-11-26", "id": "pmb145637.html"
@@ -16482,7 +16476,7 @@ var calendarData = [
     "name": "Aufführung von Monna Vanna. 14.10.1902", "startDate": "1902-10-14", "id": "pmb145148.html"
   },
   {
-    "name": "Aufführung von Die Jüdin von Toledo, 2. 1. 1902", "startDate": "1902-01-02", "id": "pmb145135.html"
+    "name": "Aufführung von Die Jüdin von Toledo, 2.1.1902", "startDate": "1902-01-02", "id": "pmb145135.html"
   },
   {
     "name": "Lesung Literarische Vereinigung, 17.2.1896", "startDate": "1896-02-17", "id": "pmb144831.html"
@@ -16599,7 +16593,7 @@ var calendarData = [
     "name": "Private Lesung von Der Schleier der Beatrice, 7.10.1899", "startDate": "1899-10-07", "id": "pmb141501.html"
   },
   {
-    "name": "Private Lesung von Der Gemeine, 2. 2. 1900", "startDate": "1900-02-02", "id": "pmb141489.html"
+    "name": "Private Lesung von Der Gemeine, 2.2.1900", "startDate": "1900-02-02", "id": "pmb141489.html"
   },
   {
     "name": "Aufführung Prinz Friedrich von Homburg, 1.12.1899", "startDate": "1899-12-01", "id": "pmb141446.html"
@@ -16608,10 +16602,10 @@ var calendarData = [
     "name": "Aufführung von Der Verschwender, 17.12.1899", "startDate": "1899-12-17", "id": "pmb141417.html"
   },
   {
-    "name": "Private Lesung von Das Bergwerk zu Falun, 29. 10. 1899", "startDate": "1899-10-29", "id": "pmb140940.html"
+    "name": "Private Lesung von Das Bergwerk zu Falun, 29.10.1899", "startDate": "1899-10-29", "id": "pmb140940.html"
   },
   {
-    "name": "Premiere von Agnes Jordan, 21. 10. 1899", "startDate": "1899-10-21", "id": "pmb140844.html"
+    "name": "Premiere von Agnes Jordan, 21.10.1899", "startDate": "1899-10-21", "id": "pmb140844.html"
   },
   {
     "name": "Vendredi classique mit Dora Villé", "startDate": "1897-04-30", "id": "pmb118484.html"
@@ -16689,7 +16683,7 @@ var calendarData = [
     "name": "Premiere von Die Hochzeit des Reservisten, 28.1.1888", "startDate": "1888-01-28", "id": "pmb89234.html"
   },
   {
-    "name": "Zusammenkunft Jung Wien, 5. 5. 1891", "startDate": "1891-05-05", "id": "pmb89199.html"
+    "name": "Zusammenkunft Jung Wien, 5.5.1891", "startDate": "1891-05-05", "id": "pmb89199.html"
   },
   {
     "name": "Zusammenkunft Jung Wien, 28.4.1891", "startDate": "1891-04-28", "id": "pmb89194.html"
@@ -16830,7 +16824,7 @@ var calendarData = [
     "name": "Generalprobe von Tantris, 18.11.1908", "startDate": "1908-11-18", "id": "pmb53022.html"
   },
   {
-    "name": "Privataufführung Vor dem Souper, 14. 1. 1897", "startDate": "1897-01-14", "id": "pmb52040.html"
+    "name": "Privataufführung Vor dem Souper, 14.1.1897", "startDate": "1897-01-14", "id": "pmb52040.html"
   },
   {
     "name": "Sechster (letzter) Kammermusikabend des Rosé-Quartetts, 14.3.1893", "startDate": "1893-03-14", "id": "pmb52037.html"
@@ -16854,7 +16848,7 @@ var calendarData = [
     "name": "Lesung von Die Toten schweigen, Weihnachts-Einkäufe, 25.11.1897", "startDate": "1897-11-25", "id": "pmb50887.html"
   },
   {
-    "name": "Aufführung von König Lear, 28. 9. 1902", "startDate": "1902-09-28", "id": "pmb50882.html"
+    "name": "Aufführung von König Lear, 28.9.1902", "startDate": "1902-09-28", "id": "pmb50882.html"
   },
   {
     "name": "Generalprobe von Peer Gynt, 7.5.1902", "startDate": "1902-05-07", "id": "pmb50860.html"
@@ -16866,7 +16860,7 @@ var calendarData = [
     "name": "Lesung von Richard Dehmel, 6.3.1904", "startDate": "1904-03-06", "id": "pmb50184.html"
   },
   {
-    "name": "Schüleraufführung von Liebelei, 17.6.1902", "startDate": "1902-06-17", "id": "pmb50054.html"
+    "name": "Schulaufführung von Sappho, Faust, Liebelei und Die berühmte Frau, 17.6.1902", "startDate": "1902-06-17", "id": "pmb50054.html"
   },
   {
     "name": "Aufführung von Die Meistersinger von Nürnberg, 17.9.1897", "startDate": "1897-09-17", "id": "pmb49365.html"
@@ -16920,7 +16914,7 @@ var calendarData = [
     "name": "Private Lesung von Das große Welttheater, 3.2.1922", "startDate": "1922-02-03", "id": "pmb48183.html"
   },
   {
-    "name": "Private Lesung Das Schicksal des Freiherrn von Leisenbohg, Ritterlichkeit, 11. 4. 1904", "startDate": "1904-04-11", "id": "pmb47850.html"
+    "name": "Private Lesung Das Schicksal des Freiherrn von Leisenbohg, Ritterlichkeit, 11.4.1904", "startDate": "1904-04-11", "id": "pmb47850.html"
   },
   {
     "name": "Private Lesung von Gestern, Die Blasierten (1. Szene des 2. Akt), Morgenandacht, 7.10.1891", "startDate": "1891-10-07", "id": "pmb47841.html"
@@ -17226,7 +17220,7 @@ var calendarData = [
     "name": "Aufführung von Faust. Der Tragödie 2. Teil am Burgtheater, 27.3.1895", "startDate": "1895-03-27", "id": "pmb39553.html"
   },
   {
-    "name": "Wohltätigkeitsaufführung von Tata-Toto, 28. 9. 1894", "startDate": "1894-09-28", "id": "pmb38885.html"
+    "name": "Wohltätigkeitsaufführung von Tata-Toto, 28.9.1894", "startDate": "1894-09-28", "id": "pmb38885.html"
   },
   {
     "name": "Premiere von Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter, 29.4.1899", "startDate": "1899-04-29", "id": "pmb35482.html"
