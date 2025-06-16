@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-06-13">serialized</change>
+          <change when-iso="2025-06-16">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -89479,7 +89479,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209261" when-iso="1902-07-19">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 19.7.1902</eventName>
+        <eventName n="Schulaufführung">Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 19.7.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -89496,6 +89496,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209260" when-iso="1902-05-31">
         <eventName n="Theateraufführung">Aufführung von Nora oder ein Puppenheim, 31.5.1902</eventName>
         <note type="listorg">
@@ -89818,7 +89826,7 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb209249" when-iso="1902-03-12">
-        <eventName n="Konzert">Konzert, 12.3.1902</eventName>
+        <eventName n="Konzert">Russisches Symphonie-Konzert, 12.3.1902</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209249/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -89828,6 +89836,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209248" when-iso="1902-03-11">
         <eventName n="Sinfoniekonzert">Symphoniekonzert, 11.3.1902</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209248/</idno>
@@ -89967,7 +89983,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209242" when-iso="1902-02-23">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 23.2.1902</eventName>
+        <eventName n="Schulaufführung">Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 23.2.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -89984,8 +90000,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209241" when-iso="1902-02-20">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 20.2.1902</eventName>
+        <eventName n="Schulaufführung">Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 20.2.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -90002,6 +90026,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209240" when-iso="1902-02-19">
         <eventName n="Vorlesung">Vortrag Hugo von Hofmannsthal über Goethes dramatischen Stil, 19.2.1902</eventName>
         <note type="listorg">
@@ -90112,6 +90144,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209236" when-iso="1902-01-29">
         <eventName n="Liederkonzert">Zweiter Liederabend mit Tilly Koenen, 29.1.1902</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209236/</idno>
@@ -90518,7 +90558,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209220" when-iso="1901-12-02">
-        <eventName n="Konzert">Violinkonzert, 2.12.1901</eventName>
+        <eventName n="Violinkonzert">Violinkonzert von Bronisław Huberman, 2.12.1901</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209220/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -90531,6 +90571,14 @@
                 <persName key="pmb28539">Huberman, Bronisław</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209219" when-iso="1901-12-01">
         <eventName n="Konzert">Philharmonisches-Konzert, 1.12.1901</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209219/</idno>
@@ -90678,6 +90726,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209213" when-iso="1901-11-17">
         <eventName n="Konzert">Philharmonisches-Konzert, 17.11.1901</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209213/</idno>
@@ -91156,27 +91212,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb209195" when-iso="1901-04-28">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 28.4.1901</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
-                </org>
-            </listOrg>
-        </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209195/</idno>
-    <listBibl>
-    <bibl type="collections" n="31">temp-issue-227</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat als Arbeitskraft">
-                <persName key="pmb2173">Schnitzler, Olga</persName>
-            </person>
-            <person role="hat als Teilnehmer:in">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
     </event><event xml:id="pmb209194" when-iso="1901-04-22">
         <eventName n="Theateraufführung">Aufführung von Mia molie non ha chic, 22.4.1901</eventName>
         <note type="listorg">
@@ -91535,24 +91570,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb209179" when-iso="1900-12-21">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 21.12.1900</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
-                </org>
-            </listOrg>
-        </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209179/</idno>
-    <listBibl>
-    <bibl type="collections" n="31">temp-issue-227</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat als Teilnehmer:in">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
     </event><event xml:id="pmb209178" when-iso="1900-12-12">
         <eventName n="Theateraufführung">Aufführung von Orestie, 12.12.1900</eventName>
         <note type="listorg">
@@ -91821,6 +91838,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209167" when-iso="1900-11-03">
         <eventName n="Konzert">Philharmonisches-Konzert, 3.11.1900</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209167/</idno>
@@ -92573,7 +92598,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209140" when-iso="1900-02-20">
-        <eventName n="Chorgesang">1. Konzert der russischen National-Vokal-Kapelle von Nadina Slaviansky, 20.2.1900</eventName>
+        <eventName n="Chorgesang">Erstes Konzert der russischen National-Vokal-Kapelle von Nadina Slaviansky, 20.2.1900</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209140/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -92586,6 +92611,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209139" when-iso="1900-02-16">
         <eventName n="Theateraufführung">Aufführung von Unsere Gusti, 16.2.1900</eventName>
         <note type="listorg">
@@ -93300,7 +93333,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209113" when-iso="1899-11-13">
-        <eventName n="Konzert">Konzert, 13.11.1899</eventName>
+        <eventName n="Konzert">Russisches Konzert, 13.11.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209113/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -93310,6 +93343,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209112" when-iso="1899-11-06">
         <eventName n="Theateraufführung">Aufführung von Der Richter von Zalamea, 6.11.1899</eventName>
         <note type="listorg">
@@ -132690,7 +132731,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb164769">Don Carlos, Infant von Spanien</title>
+                <title key="pmb33023">Don Karlos, Infant von Spanien</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -136182,7 +136223,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb164769">Don Carlos, Infant von Spanien</title>
+                <title key="pmb33023">Don Karlos, Infant von Spanien</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -154936,7 +154977,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb167925" when-iso="1899-08-31">
-        <eventName n="Private Lesung">Private Lesung von Das Bergwerk zu Falun, 31. 8. 1899</eventName>
+        <eventName n="Private Lesung">Private Lesung von Das Bergwerk zu Falun, 31.8.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/167925/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -155005,7 +155046,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb167862" when-iso="1898-09-24">
-        <eventName n="Uraufführung">Uraufführung von Das liebe Ich, 24. 9. 1898</eventName>
+        <eventName n="Uraufführung">Uraufführung von Das liebe Ich, 24.9.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -155114,7 +155155,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb167749" when-iso="1896-09-05">
-        <eventName n="Theateraufführung">Aufführung von Das Mädchen aus der Feenwelt oder Der Bauer als Millionär, 5. 9. 1896</eventName>
+        <eventName n="Theateraufführung">Aufführung von Das Mädchen aus der Feenwelt oder Der Bauer als Millionär, 5.9.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -155123,6 +155164,9 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/167749/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb77405">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
@@ -155149,7 +155193,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb167701" when-iso="1896-04-27">
-        <eventName n="Theateraufführung">Aufführung von Die alten Junggesellen, 27. 4. 1896</eventName>
+        <eventName n="Theateraufführung">Aufführung von Die alten Junggesellen, 27.4.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -155158,6 +155202,9 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/167701/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb77516">Die alten Junggesellen. Pariser Sittengemälde in 5 Aufzügen</title>
@@ -155540,7 +155587,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb147961" when-iso="1901-04-28">
-        <eventName n="Theateraufführung">Schulaufführung des Konservatoriums, 28. 4. 1901</eventName>
+        <eventName n="Schulaufführung">Schulaufführung des Konservatoriums, 28.4.1901</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -155576,6 +155623,14 @@
                 <persName key="pmb26613">Waldschütz, Karl</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb147534" when-iso="1905-12-29">
         <eventName n="Premiere">Premiere von Boule de suif, Schöne Seelen, 29.12.1905</eventName>
         <note type="listorg">
@@ -155822,7 +155877,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb145675" when-iso="1902-10-13">
-        <eventName n="Premiere">Premiere von Rausch, 13. 10. 1902</eventName>
+        <eventName n="Premiere">Premiere von Rausch, 13.10.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -155831,6 +155886,9 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145675/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb30597">Rausch</title>
@@ -156046,7 +156104,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb145135" when-iso="1902-01-02">
-        <eventName n="Theateraufführung">Aufführung von Die Jüdin von Toledo, 2. 1. 1902</eventName>
+        <eventName n="Theateraufführung">Aufführung von Die Jüdin von Toledo, 2.1.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -156055,6 +156113,9 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145135/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb34284">Die Jüdin von Toledo</title>
@@ -157710,7 +157771,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb141489" when-iso="1900-02-02">
-        <eventName n="Private Lesung">Private Lesung von Der Gemeine, 2. 2. 1900</eventName>
+        <eventName n="Private Lesung">Private Lesung von Der Gemeine, 2.2.1900</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/141489/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -157856,7 +157917,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb140940" when-iso="1899-10-29">
-        <eventName n="Private Lesung">Private Lesung von Das Bergwerk zu Falun, 29. 10. 1899</eventName>
+        <eventName n="Private Lesung">Private Lesung von Das Bergwerk zu Falun, 29.10.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/140940/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -157887,7 +157948,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb140844" when-iso="1899-10-21">
-        <eventName n="Premiere">Premiere von Agnes Jordan, 21. 10. 1899</eventName>
+        <eventName n="Premiere">Premiere von Agnes Jordan, 21.10.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -157896,6 +157957,9 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/140844/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb30474">Agnes Jordan. Schauspiel in fünf Akten</title>
@@ -158851,7 +158915,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb89199" when-iso="1891-05-05">
-        <eventName n="Vereinstreffen">Zusammenkunft Jung Wien, 5. 5. 1891</eventName>
+        <eventName n="Vereinstreffen">Zusammenkunft Jung Wien, 5.5.1891</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -158860,6 +158924,9 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89199/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listPerson>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -160711,9 +160778,12 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb52040" when-iso="1897-01-14">
-        <eventName n="Privataufführung">Privataufführung Vor dem Souper, 14. 1. 1897</eventName>
+        <eventName n="Privataufführung">Privataufführung Vor dem Souper, 14.1.1897</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52040/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89601/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb89613">Vor dem Souper. Vermischte Handlung in 1 strafbaren Act und vielen unerquicklichen Auftritten</title>
@@ -161022,7 +161092,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb50882" when-iso="1902-09-28">
-        <eventName n="Theateraufführung">Aufführung von König Lear, 28. 9. 1902</eventName>
+        <eventName n="Theateraufführung">Aufführung von König Lear, 28.9.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -161031,6 +161101,9 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50882/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb31623">König Lear. Trauerspiel in fünf Aufzügen</title>
@@ -161189,7 +161262,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb50054" when-iso="1902-06-17">
-        <eventName n="Theateraufführung">Schüleraufführung von Liebelei, 17.6.1902</eventName>
+        <eventName n="Schulaufführung">Schulaufführung von Sappho, Faust, Liebelei und Die berühmte Frau, 17.6.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -161198,9 +161271,24 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50054/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
+                <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb31631">Sappho. Trauerspiel in fünf Aufzügen</title>
+                <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb30247">Faust. Eine Tragödie</title>
+                <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb77422">Die berühmte Frau</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -161221,6 +161309,14 @@
                 <persName key="pmb10860">Beer-Hofmann, Paula</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb49365" when-iso="1897-09-17">
         <eventName n="Theateraufführung">Aufführung von Die Meistersinger von Nürnberg, 17.9.1897</eventName>
         <note type="listorg">
@@ -161849,7 +161945,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb47850" when-iso="1904-04-11">
-        <eventName n="Private Lesung">Private Lesung Das Schicksal des Freiherrn von Leisenbohg, Ritterlichkeit, 11. 4. 1904</eventName>
+        <eventName n="Private Lesung">Private Lesung Das Schicksal des Freiherrn von Leisenbohg, Ritterlichkeit, 11.4.1904</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47850/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -165688,7 +165784,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb38885" when-iso="1894-09-28">
-        <eventName n="Theateraufführung">Wohltätigkeitsaufführung von Tata-Toto, 28. 9. 1894</eventName>
+        <eventName n="Theateraufführung">Wohltätigkeitsaufführung von Tata-Toto, 28.9.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -165697,6 +165793,9 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38885/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb38879">Tata-Toto. Vaudeville in drei Akten</title>
