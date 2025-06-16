@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-06-13">serialized</change>
+      <change when-iso="2025-06-16">serialized</change>
       
        
     </revisionDesc>
@@ -13154,31 +13154,6 @@
           
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164848</idno>
-          
-
-        </bibl>
-        <bibl xml:id="pmb164769">
-          
-  
-          <title type="main">Don Carlos, Infant von Spanien</title>
-          
-  
-          <title type="legacy-name-merge">Don Carlos</title>
-          
-  
-          <author key="person__12654" role="hat-geschaffen">Schiller, Friedrich von</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164769/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164768/</idno>
-          
-  
-          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164769</idno>
-          
-  
-          <note type="references"> </note>
           
 
         </bibl>
@@ -70923,6 +70898,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Don Karlos, Infant von Spanien</title>
           
   
+          <title type="legacy-name-merge">Don Carlos</title>
+          
+  
+          <title type="legacy-name-merge">Don Carlos, Infant von Spanien</title>
+          
+  
           <author key="person__12654" role="hat-geschaffen">Schiller, Friedrich von</author>
           
 
@@ -70944,10 +70925,19 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33023.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164769/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb33023.html</idno>
           
   
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164769</idno>
+          
+  
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_3703.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164768/</idno>
           
 
           <note type="collections">
@@ -70960,6 +70950,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references">  </note>
           
 
         </bibl>
