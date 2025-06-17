@@ -3,6 +3,9 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:mam="whatever" version="2.0" exclude-result-prefixes="xsl tei xs">
     <xsl:param select="document('../utils/index_days.xml')" name="tb-days"/>
+    
+    <!-- Diese Ansicht wird derzeit nicht verwendet. Ich hab’s in entities.xml eingebaut -->
+    
     <xsl:template match="tei:event" name="event_detail">
         
         <table class="table entity-table mx-auto" style="max-width=800px">
