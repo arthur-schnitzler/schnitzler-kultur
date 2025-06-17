@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="s">Arthur Schnitzler – Kulturveranstaltungen</title>
+        <title level="a">Häufig gestellte Fragen</title>
+        <author>Müller, Martin Anton</author>
+        <author>Untner, Laura</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Anstelle von Editionsrichtlinien versuchen wir im Folgenden einige Antworten auf häufige
+          Fragen zum Projekt zu beantworten.</p>
+      </div>
+      <div type="faqs">
+        <div xml:id="ersterBlock" type="faq">
+          <head>XXXX</head>
+          <list>
+            <item>
+              <q>Was ist mit »Kulturveranstaltung« gemeint?</q>
+              <p>Unser Ausgangspunkt waren getippte Listen, die sich in Schnitzlers Nachlass
+                in der University Library in Cambridge befinden (A&#160;176, A&#160;179). Schnitzler
+                hat die umfangreichste dieser Listen mit »Theaterbesuche« überschrieben, darin
+                aber neben Konzerten auch so unterschiedliche Dinge wie »Hochzeit und Tanz«, »Vereinsabend«
+                und »Bälle« erfasst. Es schien uns sinnvoll, in dem, was den ein ›Ereignis‹ ausmacht, die
+                Vorgabe extensiv auszulegen. Also beispielsweise alle Hochzeiten und Tanzveranstaltungen aufzunehmen.
+                Auch bei den anderen Listen wurde das Tagebuch als zusätzliche Quelle 
+                herangezogen um weitere, möglicherweise übersehene Ereignisse zu berücksichtigen.</p>
+            </item>
+            <item>
+              <q>Welche Ergänzungen wurden vorgenommen?</q>
+                <p>Wir haben immer dann Ereignisse aus dem Tagebuch ergänzt, wenn die Liste
+                  unvollständig war. Das betrifft in besonderem Maße die Vorlesungen von Werken im
+                  privaten Kreis, bei denen Schnitzler die Tendenz hatte, Lesungen vor seiner jeweiligen
+                  Lebensabschnittspartnerin nicht zu berücksichtigen. Nun sind alle nachgewiesenen
+                  verzeichnet.</p>
+              <p>Eine weitere Uneinheitlichkeit bei Schnitzler bestand darin, ob er den Besuch einer
+                Generalprobe aufnahm – oder nicht. Es schien uns sinnvoll, hier überhaupt alle Besuche
+                bei Proben festzuhalten, da das (mit wenigen Ausnahmen) seine eigenen Werke betrifft und
+                eine schnelle Auskunft geben kann, wie involviert er an einer Inszenierung war.</p>
+                </item>
+            <item>
+              <q>Wie sind Fehler in den Listen ausgezeichnet?</q>
+          <p>Gar nicht. Wir haben uns entschieden, die von Schnitzler gesammelten Informationen
+            zu verwerten, nicht aber kritisch zu edieren. Das liegt einerseits an unserem Fokus – unser
+            Interesse lag nicht an der Liste, sondern an einem vollständigen Verzeichnis jener Art
+            von Information, um die sich die Liste bemühte. Das liegt andererseits daran, dass gerade
+            bei Datierungen sehr häufig Abweichungen um einen oder zwei Tage vorliegen. Das dürfte
+            vor allem dadurch verursacht sein, dass Schnitzlers Handschrift notorisch schwer lesbar ist
+            und entsprechend schnell ein Abschreibfehler entstand. Für die Jahre, für die keine Notizkalender
+            vorliegen, könnte die Ursache auch sein, dass es Kalender waren und Schnitzlers Eintragungen
+            nicht immer mit Sicherheit einem Tag oder dem Folgetag zugeordnet werden konnten.</p>
+             
+               
+              
+              
+            </item>
+            <item>
+              <q>Mit welcher Logik wurden Fehler stillschweigend behoben?</q>
+              <p>In einem idealen Fall haben wir drei Zeugen zu einer Theatervorstellung: Die Liste der
+                Theaterbesuche, das Tagebuch und die Theaterzettel (oder ihr Abdruck in Tageszeitungen). Im
+                Zweifel – wenn es zu einer Abweichung zwischen Theaterliste und Tagebuch kam, wurde in
+                digitalisierten Zeitungsbeständen nach der Veranstaltung gesucht. Es zeigte sich bald, dass die Tagebuchangaben häufiger zutrafen, als jene der 
+                Theaterliste. Das hat auch eine gewisse Logik, da im Tagebuch eine genaue Chronik der
+                Tage vorliegt und eine falsche Zuordnung eines Theaterbesuchs sehr schnell die Chronologie
+                durcheinanderbringen würde. Hingegen besaßen Schnitzler und die Typistin Frieda Pollak
+                bei der Theaterliste keine inhärenten Kontrollmöglichkeiten.</p>
+              
+              
+              
+              
+            </item>
+            <item>
+              <q>Wurden alle Ereignisse mit Tageszeitungen abgeglichen?</q>
+              <p>Nein, nur jene, bei denen sich im Abgleich mit dem Tagebuch ein Widerspruch ergab oder
+              jene, bei denen die Ortsangabe nicht genau getroffen war. Veranstaltungen, die nicht im Tagebuch
+              erwähnt sind, wurden nicht nachgeschlagen und hier sind sicherlich noch Fehler vorhanden. </p>
+            </item>
+            <item>
+              <q>Sind die aufgeführten Arbeitskräfte und Teilnehmenden vollständig?</q>
+              <p>Nein! Wir haben nicht versucht, das Tagebuch in dieser Hinsicht vollständig auszuwerten, da
+                dies doch einen noch größeren Aufwand bedeutet hätte. Wir haben uns bei jenen Veranstaltungen
+                um Vollständigkeit bemüht, bei denen Schnitzler als Arbeitskraft in Erscheinung trat: Also festzuhalten, wenn
+                er ein Stück vorlas, wer die nachweisbaren Zuhörerinnen und Zuhörer waren. Die Daten
+                der Kinobesuche wurden uns von Stephan Kurz und Daniel Schopper freundlicherweise zur
+                Verfügung gestellt, so dass wir auch hier alle Teilnahmen von Clara Katharina Pollaczek 
+                verzeichnen konnten.</p>
+            </item>
+            <item>
+              <q>Woher kommt die Kinoliste?</q>
+              <p></p>
+            </item>
+           
+          </list>
+        </div>
+        
+       
+       </div>
+    </body>
+  </text>
+</TEI>

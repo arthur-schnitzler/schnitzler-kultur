@@ -28,6 +28,9 @@
                                             Projekt</a>
                                     </li>
                                     <li>
+                                        <a class="dropdown-item" href="faqs.html">Häufig gestellte Fragen</a>
+                                    </li>
+                                    <li>
                                         <a class="dropdown-item"
                                             href="https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428689.html"
                                             target="_blank">A179 Theaterbesuche</a>
