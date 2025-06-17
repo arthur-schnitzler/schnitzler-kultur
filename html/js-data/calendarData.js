@@ -11316,7 +11316,7 @@ var calendarData = [
     "name": "Zweiter außerordentlicher Kammermusikabend des Rosé-Quartetts, 17.1.1893", "startDate": "1893-01-17", "id": "pmb208596.html"
   },
   {
-    "name": "Konservatoriumskonzert, 16.1.1893", "startDate": "1893-01-16", "id": "pmb208595.html"
+    "name": "Erstes Konzert des Konservatoriums der Gesellschaft der Musikfreunde, 16.1.1893", "startDate": "1893-01-16", "id": "pmb208595.html"
   },
   {
     "name": "Philharmonisches-Konzert, 15.1.1893", "startDate": "1893-01-15", "id": "pmb208594.html"
@@ -11373,7 +11373,7 @@ var calendarData = [
     "name": "Aufführung von Sirenenfahrt, Gringoire, 9.10.1892", "startDate": "1892-10-09", "id": "pmb208577.html"
   },
   {
-    "name": "Auftritt von Singspielhalle Böhm, 6.10.1892", "startDate": "1892-10-06", "id": "pmb208576.html"
+    "name": "Konzert der Singspielhalle Böhm, 6.10.1892", "startDate": "1892-10-06", "id": "pmb208576.html"
   },
   {
     "name": "Generalprobe von Gringoire, 3.10.1892", "startDate": "1892-10-03", "id": "pmb208575.html"
@@ -11514,7 +11514,7 @@ var calendarData = [
     "name": "Aufführung von Der Compagnon, 13.2.1892", "startDate": "1892-02-13", "id": "pmb208530.html"
   },
   {
-    "name": "Vereinstreffen Concordia, 9.2.1892", "startDate": "1892-02-09", "id": "pmb208529.html"
+    "name": "Vereinstreffen der Concordia, 9.2.1892", "startDate": "1892-02-09", "id": "pmb208529.html"
   },
   {
     "name": "Vorlesung Emanuel Reicher, 7.2.1892", "startDate": "1892-02-07", "id": "pmb208528.html"
@@ -11688,10 +11688,10 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 15.3.1891", "startDate": "1891-03-15", "id": "pmb208471.html"
   },
   {
-    "name": "Ball Johann Klein, 14.3.1891", "startDate": "1891-03-14", "id": "pmb208470.html"
+    "name": "Ball von Johann und Bertha Klein, 14.3.1891", "startDate": "1891-03-14", "id": "pmb208470.html"
   },
   {
-    "name": "Soirée Wellenstein sen., 13.3.1891", "startDate": "1891-03-13", "id": "pmb208469.html"
+    "name": "Soirée von Maximilian von Weiss-Wellenstein, 13.3.1891", "startDate": "1891-03-13", "id": "pmb208469.html"
   },
   {
     "name": "Premiere von Der Ring des Ofterdingen, 12.3.1891", "startDate": "1891-03-12", "id": "pmb208468.html"
@@ -15618,7 +15618,7 @@ var calendarData = [
     "name": "Ausschusssitzung Freie Bühne, 16.10.1891", "startDate": "1891-10-16", "id": "pmb190830.html"
   },
   {
-    "name": "Theaterausschuss Freie Bühne, Verein für moderne Literatur, 13.7.1891", "startDate": "1891-07-13", "id": "pmb190800.html"
+    "name": "Theaterausschuss der Freien Bühne, 13.7.1891", "startDate": "1891-07-13", "id": "pmb190800.html"
   },
   {
     "name": "Aufführung von Eine Partie Klabrias, 29.6.1891", "startDate": "1891-06-29", "id": "pmb190793.html"
@@ -16674,22 +16674,22 @@ var calendarData = [
     "name": "Symbolistische Vorstellung, 2.5.1892", "startDate": "1892-05-02", "id": "pmb89335.html"
   },
   {
-    "name": "Vereinsabend Verein für modernes Leben, 3.3.1892", "startDate": "1892-03-03", "id": "pmb89324.html"
+    "name": "Vereinsabend des Vereins für modernes Leben, 3.3.1892", "startDate": "1892-03-03", "id": "pmb89324.html"
   },
   {
-    "name": "Letzte Generalversammlung Freie Bühne, 18.1.1892", "startDate": "1892-01-18", "id": "pmb89316.html"
+    "name": "Letzte Generalversammlung der Freien Bühne, 18.1.1892", "startDate": "1892-01-18", "id": "pmb89316.html"
   },
   {
     "name": "Premiere von Die Hochzeit des Reservisten, 28.1.1888", "startDate": "1888-01-28", "id": "pmb89234.html"
   },
   {
-    "name": "Zusammenkunft Jung Wien, 5.5.1891", "startDate": "1891-05-05", "id": "pmb89199.html"
+    "name": "Zusammenkunft von Jung Wien, 5.5.1891", "startDate": "1891-05-05", "id": "pmb89199.html"
   },
   {
     "name": "Zusammenkunft Jung Wien, 28.4.1891", "startDate": "1891-04-28", "id": "pmb89194.html"
   },
   {
-    "name": "Zusammenkunft Jung Wien, 21.4.1891", "startDate": "1891-04-21", "id": "pmb89188.html"
+    "name": "Zusammenkunft von Jung Wien, 21.4.1891", "startDate": "1891-04-21", "id": "pmb89188.html"
   },
   {
     "name": "Zusammenkunft Jung Wien, 14.4.1891", "startDate": "1891-04-14", "id": "pmb89182.html"
