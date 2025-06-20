@@ -11,6 +11,8 @@
     <xsl:key name="author-lookup" match="tei:person" use="tei:idno[@subtype = 'pmb']"/>
     <xsl:variable name="listbiblPath" select="'../../data/indices/listbibl.xml'"/>
     <xsl:variable name="listworkPath" select="'../../data/indices/listwork.xml'"/>
+    <xsl:param name="events"
+        select="document('../../data/editions/listevent.xml')/descendant::tei:listEvent[1]"/>
     <xsl:variable name="actualFilePath" select="
             if (unparsed-text-available($listbiblPath))
             then
@@ -460,12 +462,55 @@
                     </ul>
                 </xsl:if>
             </div>
-            <xsl:if test=".//tei:note[@type = 'mentions'][1]">
-                <xsl:call-template name="mentions">
-                    <xsl:with-param name="mentions" select=".//tei:note[@type = 'mentions']"/>
-                </xsl:call-template>
-            </xsl:if>
+            <xsl:choose>
+                <xsl:when test="$current-edition = 'schnitzler-kultur'">
+                    <xsl:variable name="notes" as="node()">
+                        <xsl:call-template name="fill-event-variable">
+                            <xsl:with-param name="xmlid" select="@xml:id"/>
+                            <xsl:with-param name="entitityType" select="'persName'"/>
+                        </xsl:call-template>
+                    </xsl:variable>
+                    <xsl:call-template name="list-all-mentions">
+                        <xsl:with-param name="mentions" select="$notes"/>
+                    </xsl:call-template>
+                </xsl:when>
+                <xsl:when test=".//tei:note[@type = 'mentions'][1]">
+                    <xsl:variable name="mentionsGrp">
+                        <xsl:element name="noteGrp" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:copy-of select="descendant::tei:note[@type = 'mentions']"/>
+                        </xsl:element>
+                    </xsl:variable>
+                    <xsl:call-template name="list-all-mentions">
+                        <xsl:with-param name="mentions" select="$mentionsGrp"/>
+                    </xsl:call-template>
+                </xsl:when>
+                <xsl:otherwise>
+                    <!-- hier ließe sich eine Fehlermeldung ausgeben -->
+                </xsl:otherwise>
+            </xsl:choose>
         </div>
+    </xsl:template>
+    <xsl:template name="fill-event-variable" as="node()">
+        <xsl:param name="xmlid" as="xs:string"/>
+        <xsl:param name="entitityType" as="xs:string"/>
+        <xsl:variable name="matchingEvents"
+            select="$events/tei:event[descendant::*[name() = $entitityType]/@key = $xmlid]"/>
+        <xsl:element name="noteGrp" namespace="http://www.tei-c.org/ns/1.0">
+            <xsl:for-each select="$matchingEvents">
+                <xsl:element name="note" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:attribute name="type">
+                        <xsl:text>mentions</xsl:text>
+                    </xsl:attribute>
+                    <xsl:attribute name="target">
+                        <xsl:value-of select="@xml:id"/>
+                    </xsl:attribute>
+                    <xsl:attribute name="corresp">
+                        <xsl:value-of select="@when-iso"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="tei:eventName"/>
+                </xsl:element>
+            </xsl:for-each>
+        </xsl:element>
     </xsl:template>
     <!-- WORK -->
     <xsl:template match="tei:listBibl/tei:bibl" name="work_detail">
@@ -823,11 +868,32 @@
                     </span>
                 </div>
             </xsl:if>
-            <xsl:if test=".//tei:note[@type = 'mentions'][1]">
-                <xsl:call-template name="mentions">
-                    <xsl:with-param name="mentions" select=".//tei:note[@type = 'mentions']"/>
-                </xsl:call-template>
-            </xsl:if>
+            <xsl:choose>
+                <xsl:when test="$current-edition = 'schnitzler-kultur'">
+                    <xsl:variable name="notes" as="node()">
+                        <xsl:call-template name="fill-event-variable">
+                            <xsl:with-param name="xmlid" select="@xml:id"/>
+                            <xsl:with-param name="entitityType" select="'title'"/>
+                        </xsl:call-template>
+                    </xsl:variable>
+                    <xsl:call-template name="list-all-mentions">
+                        <xsl:with-param name="mentions" select="$notes"/>
+                    </xsl:call-template>
+                </xsl:when>
+                <xsl:when test=".//tei:note[@type = 'mentions'][1]">
+                    <xsl:variable name="mentionsGrp">
+                        <xsl:element name="noteGrp" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:copy-of select="descendant::tei:note[@type = 'mentions']"/>
+                        </xsl:element>
+                    </xsl:variable>
+                    <xsl:call-template name="list-all-mentions">
+                        <xsl:with-param name="mentions" select="$mentionsGrp"/>
+                    </xsl:call-template>
+                </xsl:when>
+                <xsl:otherwise>
+                    <!-- hier ließe sich eine Fehlermeldung ausgeben -->
+                </xsl:otherwise>
+            </xsl:choose>
         </div>
     </xsl:template>
     <!-- PLACE -->
@@ -879,11 +945,32 @@
                         </xsl:for-each>
                     </ul>
                 </xsl:if>
-                <xsl:if test=".//tei:note[@type = 'mentions'][1]">
-                    <xsl:call-template name="mentions">
-                        <xsl:with-param name="mentions" select=".//tei:note[@type = 'mentions']"/>
-                    </xsl:call-template>
-                </xsl:if>
+                <xsl:choose>
+                    <xsl:when test="$current-edition = 'schnitzler-kultur'">
+                        <xsl:variable name="notes" as="node()">
+                            <xsl:call-template name="fill-event-variable">
+                                <xsl:with-param name="xmlid" select="@xml:id"/>
+                                <xsl:with-param name="entitityType" select="'placeName'"/>
+                            </xsl:call-template>
+                        </xsl:variable>
+                        <xsl:call-template name="list-all-mentions">
+                            <xsl:with-param name="mentions" select="$notes"/>
+                        </xsl:call-template>
+                    </xsl:when>
+                    <xsl:when test=".//tei:note[@type = 'mentions'][1]">
+                        <xsl:variable name="mentionsGrp">
+                            <xsl:element name="noteGrp" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:copy-of select="descendant::tei:note[@type = 'mentions']"/>
+                            </xsl:element>
+                        </xsl:variable>
+                        <xsl:call-template name="list-all-mentions">
+                            <xsl:with-param name="mentions" select="$mentionsGrp"/>
+                        </xsl:call-template>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <!-- hier ließe sich eine Fehlermeldung ausgeben -->
+                    </xsl:otherwise>
+                </xsl:choose>
             </div>
         </div>
     </xsl:template>
@@ -958,11 +1045,32 @@
                     </ul>
                 </div>
             </xsl:if>
-            <xsl:if test=".//tei:note[@type = 'mentions'][1]">
-                <xsl:call-template name="mentions">
-                    <xsl:with-param name="mentions" select=".//tei:note[@type = 'mentions']"/>
-                </xsl:call-template>
-            </xsl:if>
+            <xsl:choose>
+                <xsl:when test="$current-edition = 'schnitzler-kultur'">
+                    <xsl:variable name="notes" as="node()">
+                        <xsl:call-template name="fill-event-variable">
+                            <xsl:with-param name="xmlid" select="@xml:id"/>
+                            <xsl:with-param name="entitityType" select="'orgName'"/>
+                        </xsl:call-template>
+                    </xsl:variable>
+                    <xsl:call-template name="list-all-mentions">
+                        <xsl:with-param name="mentions" select="$notes"/>
+                    </xsl:call-template>
+                </xsl:when>
+                <xsl:when test=".//tei:note[@type = 'mentions'][1]">
+                    <xsl:variable name="mentionsGrp">
+                        <xsl:element name="noteGrp" namespace="http://www.tei-c.org/ns/1.0">
+                            <xsl:copy-of select="descendant::tei:note[@type = 'mentions']"/>
+                        </xsl:element>
+                    </xsl:variable>
+                    <xsl:call-template name="list-all-mentions">
+                        <xsl:with-param name="mentions" select="$mentionsGrp"/>
+                    </xsl:call-template>
+                </xsl:when>
+                <xsl:otherwise>
+                    <!-- hier ließe sich eine Fehlermeldung ausgeben -->
+                </xsl:otherwise>
+            </xsl:choose>
         </div>
     </xsl:template>
     <!-- EVENT -->
@@ -1314,11 +1422,32 @@
                         </tr>
                     </tbody>
                 </table>
-                <xsl:if test=".//tei:note[@type = 'mentions'][1]">
-                    <xsl:call-template name="mentions">
-                        <xsl:with-param name="mentions" select=".//tei:note[@type = 'mentions']"/>
-                    </xsl:call-template>
-                </xsl:if>
+                <xsl:choose>
+                    <!--<xsl:when test="$current-edition = 'schnitzler-kultur'">
+                        <xsl:variable name="notes" as="node()">
+                            <xsl:call-template name="fill-event-variable">
+                                <xsl:with-param name="xmlid" select="@xml:id"/>
+                                <xsl:with-param name="entitityType" select="'persName'"/>
+                            </xsl:call-template>
+                        </xsl:variable>
+                        <xsl:call-template name="list-all-mentions">
+                            <xsl:with-param name="mentions" select="$notes"/>
+                        </xsl:call-template>
+                    </xsl:when>--> <!-- events in events gerade nicht vorgesehen -->
+                    <xsl:when test=".//tei:note[@type = 'mentions'][1]">
+                        <xsl:variable name="mentionsGrp">
+                            <xsl:element name="noteGrp" namespace="http://www.tei-c.org/ns/1.0">
+                                <xsl:copy-of select="descendant::tei:note[@type = 'mentions']"/>
+                            </xsl:element>
+                        </xsl:variable>
+                        <xsl:call-template name="list-all-mentions">
+                            <xsl:with-param name="mentions" select="$mentionsGrp"/>
+                        </xsl:call-template>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <!-- hier ließe sich eine Fehlermeldung ausgeben -->
+                    </xsl:otherwise>
+                </xsl:choose>
             </div>
         </div>
     </xsl:template>
@@ -1367,17 +1496,23 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:function>
-    <xsl:template name="mentions">
-        <xsl:param name="mentions" select=".//tei:note[@type = 'mentions']"/>
-        <xsl:variable name="mentionCount" select="count($mentions)"/>
+    <xsl:template name="list-all-mentions">
+        <xsl:param name="mentions" as="node()"/>
+        <xsl:variable name="mentionCount" select="count($mentions//tei:note)"/>
         <!-- Balkendiagramm oben -->
         <div id="mentions">
             <span class="infodesc mr-2">
                 <legend>Erwähnungen</legend>
                 <div id="mentions-chart" class="mt-3 mb-3">
+                    <xsl:variable name="start-year" as="xs:integer">
+                        <xsl:choose>
+                            <xsl:when test="$current-edition = 'schnitzler-kultur'"> 1876 </xsl:when>
+                            <xsl:otherwise> 1879 </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:variable>
                     <xsl:variable name="years" as="element()*">
                         <xsl:element name="years">
-                            <xsl:for-each select="1879 to 1931">
+                            <xsl:for-each select="$start-year to 1931">
                                 <xsl:element name="year">
                                     <xsl:attribute name="val">
                                         <xsl:value-of select="."/>
@@ -1399,7 +1534,7 @@
                         <text x="30" y="65" font-size="10" text-anchor="end">20</text>
                         <text x="30" y="15" font-size="10" text-anchor="end">30</text>
                         <!-- X-Achse Beschriftung -->
-                        <xsl:variable name="totalYears" select="1931 - 1879 + 1"/>
+                        <xsl:variable name="totalYears" select="1931 - $start-year + 1"/>
                         <xsl:variable name="stepWidth" select="(580 - 50) div $totalYears"/>
                         <xsl:for-each select="188 to 193">
                             <xsl:variable name="year" select="(.) * 10"/>
@@ -1412,7 +1547,7 @@
                         <xsl:for-each select="$years/*[local-name() = 'year']">
                             <xsl:variable name="year" select="number(@val)"/>
                             <xsl:variable name="count"
-                                select="count($mentions[substring(@corresp, 1, 4) = string($year)])"/>
+                                select="count($mentions//tei:note[substring(@corresp, 1, 4) = string($year)])"/>
                             <xsl:variable name="barHeight" select="($count * 140) div 30"/>
                             <xsl:variable name="xPos" select="50 + ($year - 1879) * $stepWidth - 2"/>
                             <rect x="{$xPos}" y="{160 - $barHeight}" width="4" height="{$barHeight}"
@@ -1432,7 +1567,7 @@
                             <xsl:when test="$mentionCount > 10">
                                 <div class="accordion" id="mentionsAccordion">
                                     <!-- Gruppieren nach Jahr -->
-                                    <xsl:for-each-group select="$mentions"
+                                    <xsl:for-each-group select="$mentions//tei:note"
                                         group-by="substring(@corresp, 1, 4)">
                                         <xsl:sort select="current-grouping-key()" data-type="number"
                                             order="ascending"/>
@@ -1503,9 +1638,9 @@
                                                   <xsl:variable name="linkToDocument"
                                                   select="replace(tokenize(data(.//@target), '/')[last()], '.xml', '.html')"/>
                                                   <li>
+                                                  <a href="{$linkToDocument}">
                                                   <xsl:value-of select="."/>
                                                   <xsl:text> </xsl:text>
-                                                  <a href="{$linkToDocument}">
                                                   <i class="fas fa-external-link-alt"/>
                                                   </a>
                                                   </li>
@@ -1524,9 +1659,9 @@
                                                   />
                                                   </xsl:variable>
                                                   <li>
+                                                  <a href="{$linkToDocument}">
                                                   <xsl:value-of select="."/>
                                                   <xsl:text> </xsl:text>
-                                                  <a href="{$linkToDocument}">
                                                   <i class="fas fa-external-link-alt"/>
                                                   </a>
                                                   </li>
@@ -1543,7 +1678,7 @@
                             <!-- Weniger als oder gleich 10: Standardliste -->
                             <xsl:otherwise>
                                 <ul class="dashed">
-                                    <xsl:for-each select="$mentions">
+                                    <xsl:for-each select="$mentions//tei:note">
                                         <xsl:sort select="replace(@corresp, '-', '')"
                                             order="ascending" data-type="number"/>
                                         <xsl:variable name="linkToDocument">
@@ -1552,9 +1687,9 @@
                                             />
                                         </xsl:variable>
                                         <li>
-                                            <xsl:value-of select="."/>
-                                            <xsl:text> </xsl:text>
                                             <a href="{$linkToDocument}">
+                                                <xsl:value-of select="."/>
+                                                <xsl:text> </xsl:text>
                                                 <i class="fas fa-external-link-alt"/>
                                             </a>
                                         </li>
