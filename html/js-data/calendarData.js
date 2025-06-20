@@ -1,5 +1,8 @@
 var calendarData = [
   {
+    "name": "Diner von Edmund Markbreiter, 26.12.1887", "startDate": "1887-12-26", "id": "pmb294892.html"
+  },
+  {
     "name": "Besuch des Budapester Possen- und Operettentheaters, 27.4.1899", "startDate": "1899-04-27", "id": "pmb293237.html"
   },
   {
@@ -48,7 +51,7 @@ var calendarData = [
     "name": "Sitzung der Genossenschaft dramatischer Autoren und Komponisten in Österreich, 30.3.1921", "startDate": "1921-03-30", "id": "pmb292700.html"
   },
   {
-    "name": "Ausstellungsbesuch Ausstellung von Edmund Pick-Morino und anderen, 24.3.1921", "startDate": "1921-03-24", "id": "pmb292687.html"
+    "name": "Ausstellungsbesuch Atelierausstellung von Edmund Pick-Morino, Johanna Kampmann und anderen, 24.3.1921", "startDate": "1921-03-24", "id": "pmb292687.html"
   },
   {
     "name": "Private Lesung von Theodor Däubler, 12.3.1921", "startDate": "1921-03-12", "id": "pmb292503.html"
@@ -11697,7 +11700,7 @@ var calendarData = [
     "name": "Premiere von Der Ring des Ofterdingen, 12.3.1891", "startDate": "1891-03-12", "id": "pmb208468.html"
   },
   {
-    "name": "Ball Zierer, 8.3.1891", "startDate": "1891-03-08", "id": "pmb208467.html"
+    "name": "Ball von Wilhelm Zierer, 8.3.1891", "startDate": "1891-03-08", "id": "pmb208467.html"
   },
   {
     "name": "Aufführung von Manon, 7.3.1891", "startDate": "1891-03-07", "id": "pmb208466.html"
@@ -11706,7 +11709,7 @@ var calendarData = [
     "name": "Aufführung von Die beiden Leonoren. Lustspiel in 4 Aufzügen, 6.3.1891", "startDate": "1891-03-06", "id": "pmb208465.html"
   },
   {
-    "name": "Poliklinik-Ball, 25.2.1891", "startDate": "1891-02-25", "id": "pmb208464.html"
+    "name": "Kränzchen zu Gunsten der Allgemeinen Poliklinik, 25.2.1891", "startDate": "1891-02-25", "id": "pmb208464.html"
   },
   {
     "name": "Klavierkonzert von Alfred Grünfeld, 24.2.1891", "startDate": "1891-02-24", "id": "pmb208463.html"
@@ -11715,13 +11718,13 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 22.2.1891", "startDate": "1891-02-22", "id": "pmb208462.html"
   },
   {
-    "name": "Diner und Soirée Weiss-Wellenstein, 21.2.1891", "startDate": "1891-02-21", "id": "pmb208461.html"
+    "name": "Diner und Soirée von Gustav von Weiss-Wellenstein, 21.2.1891", "startDate": "1891-02-21", "id": "pmb208461.html"
   },
   {
     "name": "Viertes (letztes) Klavierkonzert von Emil Sauer, 19.2.1891", "startDate": "1891-02-19", "id": "pmb208460.html"
   },
   {
-    "name": "Ball Springer, 18.2.1891", "startDate": "1891-02-18", "id": "pmb208459.html"
+    "name": "Ball von Adolf Springer, 18.2.1891", "startDate": "1891-02-18", "id": "pmb208459.html"
   },
   {
     "name": "Ball Pollak, 16.2.1891", "startDate": "1891-02-16", "id": "pmb208458.html"
@@ -11766,7 +11769,7 @@ var calendarData = [
     "name": "Aufführung von König Ottokars Glück und Ende, 11.1.1891", "startDate": "1891-01-11", "id": "pmb208445.html"
   },
   {
-    "name": "Ball Pserhofer, 10.1.1891", "startDate": "1891-01-10", "id": "pmb208444.html"
+    "name": "Ball von Ignaz Pserhofer, 10.1.1891", "startDate": "1891-01-10", "id": "pmb208444.html"
   },
   {
     "name": "Aufführung von Der Gimpel, 10.1.1891", "startDate": "1891-01-10", "id": "pmb208443.html"
@@ -11781,7 +11784,7 @@ var calendarData = [
     "name": "Aufführung von Eine vornehme Ehe, 30.12.1890", "startDate": "1890-12-30", "id": "pmb208440.html"
   },
   {
-    "name": "Ball Klein, 28.12.1890", "startDate": "1890-12-28", "id": "pmb208439.html"
+    "name": "Ball von Leopold Klein, 28.12.1890", "startDate": "1890-12-28", "id": "pmb208439.html"
   },
   {
     "name": "Philharmonisches-Konzert, 21.12.1890", "startDate": "1890-12-21", "id": "pmb208438.html"
@@ -11832,7 +11835,7 @@ var calendarData = [
     "name": "Aufführung von Tristan und Isolde, 16.11.1890", "startDate": "1890-11-16", "id": "pmb208423.html"
   },
   {
-    "name": "Soirée Rosenberg, 15.11.1890", "startDate": "1890-11-15", "id": "pmb208422.html"
+    "name": "Soirée von Leopold Rosenberg, 15.11.1890", "startDate": "1890-11-15", "id": "pmb208422.html"
   },
   {
     "name": "Varieté im Ronacher, 14.11.1890", "startDate": "1890-11-14", "id": "pmb208421.html"
@@ -11892,22 +11895,22 @@ var calendarData = [
     "name": "Ronacher, 24.6.1890", "startDate": "1890-06-24", "id": "pmb208403.html"
   },
   {
-    "name": "Concours Konservatorium, 23.6.1890", "startDate": "1890-06-23", "id": "pmb208402.html"
+    "name": "Concours des Konservatoriums der Gesellschaft der Musikfreunde, 23.6.1890", "startDate": "1890-06-23", "id": "pmb208402.html"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 19.5.1890", "startDate": "1890-05-19", "id": "pmb208401.html"
+    "name": "Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 19.5.1890", "startDate": "1890-05-19", "id": "pmb208401.html"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 12.5.1890", "startDate": "1890-05-12", "id": "pmb208400.html"
+    "name": "Erste Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 12.5.1890", "startDate": "1890-05-12", "id": "pmb208400.html"
   },
   {
     "name": "Aufführung von Mam’zelle Nitouche, 6.5.1890", "startDate": "1890-05-06", "id": "pmb208399.html"
   },
   {
-    "name": "Polterabend Mandl, 3.5.1890", "startDate": "1890-05-03", "id": "pmb208398.html"
+    "name": "Polterabend von Ferdinand Mandl, 3.5.1890", "startDate": "1890-05-03", "id": "pmb208398.html"
   },
   {
-    "name": "Aristokraten-Vorstellung (Metternich-Theater), 26.4.1890", "startDate": "1890-04-26", "id": "pmb208397.html"
+    "name": "Generalprobe der Aristokraten-Vorstellung, 26.4.1890", "startDate": "1890-04-26", "id": "pmb208397.html"
   },
   {
     "name": "Premiere von Frau Venus, 6.4.1890", "startDate": "1890-04-06", "id": "pmb208396.html"
@@ -11919,34 +11922,34 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 30.3.1890", "startDate": "1890-03-30", "id": "pmb208394.html"
   },
   {
-    "name": "Konservatoriumskonzert, 29.3.1890", "startDate": "1890-03-29", "id": "pmb208393.html"
+    "name": "Vorstellung der Opernschule des Konservatoriums der Gesellschaft der Musikfreunde, 29.3.1890", "startDate": "1890-03-29", "id": "pmb208393.html"
   },
   {
-    "name": "Ball Klein, 28.3.1890", "startDate": "1890-03-28", "id": "pmb208392.html"
+    "name": "Ball von Leopold Klein, 28.3.1890", "startDate": "1890-03-28", "id": "pmb208392.html"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 26.3.1890", "startDate": "1890-03-26", "id": "pmb208391.html"
+    "name": "Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 26.3.1890", "startDate": "1890-03-26", "id": "pmb208391.html"
   },
   {
     "name": "Philharmonisches-Konzert, 25.3.1890", "startDate": "1890-03-25", "id": "pmb208390.html"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 20.3.1890", "startDate": "1890-03-20", "id": "pmb208389.html"
+    "name": "Erste Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 20.3.1890", "startDate": "1890-03-20", "id": "pmb208389.html"
   },
   {
     "name": "Klavierkonzert von Moriz Rosenthal, 13.3.1890", "startDate": "1890-03-13", "id": "pmb208388.html"
   },
   {
-    "name": "Ball Heller, 9.3.1890", "startDate": "1890-03-09", "id": "pmb208387.html"
+    "name": "Ball von Bernhard Hellmann, 9.3.1890", "startDate": "1890-03-09", "id": "pmb208387.html"
   },
   {
-    "name": "Poliklinik-Kränzchen, 4.3.1890", "startDate": "1890-03-04", "id": "pmb208386.html"
+    "name": "Kränzchen zu Gunsten der Allgemeinen Poliklinik, 4.3.1890", "startDate": "1890-03-04", "id": "pmb208386.html"
   },
   {
-    "name": "Galakonzert, 1.3.1890", "startDate": "1890-03-01", "id": "pmb208385.html"
+    "name": "Gala-Konzert zum Besten des Wiener Konservatoriums, 1.3.1890", "startDate": "1890-03-01", "id": "pmb208385.html"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 27.2.1890", "startDate": "1890-02-27", "id": "pmb208384.html"
+    "name": "Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 27.2.1890", "startDate": "1890-02-27", "id": "pmb208384.html"
   },
   {
     "name": "Ball Pollak, 22.2.1890", "startDate": "1890-02-22", "id": "pmb208383.html"
@@ -11955,7 +11958,7 @@ var calendarData = [
     "name": "Rathaus-Redoute, 18.2.1890", "startDate": "1890-02-18", "id": "pmb208382.html"
   },
   {
-    "name": "Soirée Bergheim, 17.2.1890", "startDate": "1890-02-17", "id": "pmb208381.html"
+    "name": "Soirée von John Simeon Bergheim, 17.2.1890", "startDate": "1890-02-17", "id": "pmb208381.html"
   },
   {
     "name": "Konzert im Ronacher, 11.2.1890", "startDate": "1890-02-11", "id": "pmb208380.html"
@@ -11964,13 +11967,13 @@ var calendarData = [
     "name": "Zweiter Liederabend von Gustav Walter, 10.2.1890", "startDate": "1890-02-10", "id": "pmb208379.html"
   },
   {
-    "name": "Ball Neumann, 7.2.1890", "startDate": "1890-02-07", "id": "pmb208378.html"
+    "name": "Ball von Ferdinand Neumann, 7.2.1890", "startDate": "1890-02-07", "id": "pmb208378.html"
   },
   {
-    "name": "Ball Rosenberg, 5.2.1890", "startDate": "1890-02-05", "id": "pmb208377.html"
+    "name": "Ball von Leopold Rosenberg, 5.2.1890", "startDate": "1890-02-05", "id": "pmb208377.html"
   },
   {
-    "name": "Ball Springer, 5.2.1890", "startDate": "1890-02-05", "id": "pmb208376.html"
+    "name": "Ball von Adolf Springer, 5.2.1890", "startDate": "1890-02-05", "id": "pmb208376.html"
   },
   {
     "name": "Ball Pollak, 25.1.1890", "startDate": "1890-01-25", "id": "pmb208375.html"
@@ -11988,7 +11991,7 @@ var calendarData = [
     "name": "2. Gesellschaftskonzert mit Robert Schumann: Scenen aus Göthe’s Faust, 19.1.1890", "startDate": "1890-01-19", "id": "pmb208371.html"
   },
   {
-    "name": "Ball Strauss, 18.1.1890", "startDate": "1890-01-18", "id": "pmb208370.html"
+    "name": "Ball von Strauss, 18.1.1890", "startDate": "1890-01-18", "id": "pmb208370.html"
   },
   {
     "name": "Ronacher, 15.1.1890", "startDate": "1890-01-15", "id": "pmb208369.html"
@@ -12006,22 +12009,22 @@ var calendarData = [
     "name": "Premiere von Der arme Jonathan, 4.1.1890", "startDate": "1890-01-04", "id": "pmb208365.html"
   },
   {
-    "name": "Silberne Hochzeitsfeier Mandl, 25.12.1889", "startDate": "1889-12-25", "id": "pmb208364.html"
+    "name": "Silberne Hochzeit von Ludwig und Irene Mandl, 25.12.1889", "startDate": "1889-12-25", "id": "pmb208364.html"
   },
   {
     "name": "Philharmonisches-Konzert, 22.12.1889", "startDate": "1889-12-22", "id": "pmb208363.html"
   },
   {
-    "name": "Volkssänger Hirsch, 21.12.1889", "startDate": "1889-12-21", "id": "pmb208362.html"
+    "name": "Konzert von Albert Hirsch, 21.12.1889", "startDate": "1889-12-21", "id": "pmb208362.html"
   },
   {
-    "name": "Konservatorium. Vortragsabend, 11.12.1889", "startDate": "1889-12-11", "id": "pmb208361.html"
+    "name": "Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889", "startDate": "1889-12-11", "id": "pmb208361.html"
   },
   {
     "name": "Aufführung von Der dumme August, Die Fälle der Clémenceau, 10.12.1889", "startDate": "1889-12-10", "id": "pmb208360.html"
   },
   {
-    "name": "Konservatorium. Vortragsabend, 4.12.1889", "startDate": "1889-12-04", "id": "pmb208359.html"
+    "name": "Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 4.12.1889", "startDate": "1889-12-04", "id": "pmb208359.html"
   },
   {
     "name": "Danzer’s Orpheum, 3.12.1889", "startDate": "1889-12-03", "id": "pmb208358.html"
@@ -12048,13 +12051,13 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 3.11.1889", "startDate": "1889-11-03", "id": "pmb208351.html"
   },
   {
-    "name": "Konservatorium. Vortragsabend, 2.11.1889", "startDate": "1889-11-02", "id": "pmb208350.html"
+    "name": "Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889", "startDate": "1889-11-02", "id": "pmb208350.html"
   },
   {
     "name": "Aufführung von Der dumme August, 26.10.1889", "startDate": "1889-10-26", "id": "pmb208349.html"
   },
   {
-    "name": "Vereinstreffen Concordia, 13.10.1889", "startDate": "1889-10-13", "id": "pmb208348.html"
+    "name": "Vereinstreffen der Concordia, 13.10.1889", "startDate": "1889-10-13", "id": "pmb208348.html"
   },
   {
     "name": "Premiere von Der Fall Clemenceau, 5.10.1889", "startDate": "1889-10-05", "id": "pmb208347.html"
@@ -12108,10 +12111,10 @@ var calendarData = [
     "name": "Aufführung von Fiaker 117, 1.5.1889", "startDate": "1889-05-01", "id": "pmb208331.html"
   },
   {
-    "name": "Konzert Gustav Kühle, 26.4.1889", "startDate": "1889-04-26", "id": "pmb208330.html"
+    "name": "Konzert mit Gustav Kühle und Malvine Drucker, 26.4.1889", "startDate": "1889-04-26", "id": "pmb208330.html"
   },
   {
-    "name": "Soirée Kohnberger, 21.4.1889", "startDate": "1889-04-21", "id": "pmb208329.html"
+    "name": "Soirée von Innozenz Kohnberger, 21.4.1889", "startDate": "1889-04-21", "id": "pmb208329.html"
   },
   {
     "name": "Aufführung von Figaros Hochzeit, 9.4.1889", "startDate": "1889-04-09", "id": "pmb208328.html"
@@ -12120,19 +12123,19 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 7.4.1889", "startDate": "1889-04-07", "id": "pmb208327.html"
   },
   {
-    "name": "Ball Wetzler, 3.4.1889", "startDate": "1889-04-03", "id": "pmb208326.html"
+    "name": "Ball von Bernhard Wetzler, 3.4.1889", "startDate": "1889-04-03", "id": "pmb208326.html"
   },
   {
-    "name": "Ärztliches Vereinstreffen erster Bezirk, 30.3.1889", "startDate": "1889-03-30", "id": "pmb208325.html"
+    "name": "Ärztlicher Vereinsabend, 30.3.1889", "startDate": "1889-03-30", "id": "pmb208325.html"
   },
   {
-    "name": "Ärztliches Vereinstreffen zweiter Bezirk, 23.3.1889", "startDate": "1889-03-23", "id": "pmb208324.html"
+    "name": "Ärztlicher Vereinsabend, 23.3.1889", "startDate": "1889-03-23", "id": "pmb208324.html"
   },
   {
     "name": "Varieté im Ronacher, 21.3.1889", "startDate": "1889-03-21", "id": "pmb208323.html"
   },
   {
-    "name": "Soirée Rosenberg, 17.3.1889", "startDate": "1889-03-17", "id": "pmb208322.html"
+    "name": "Ball von Leopold Rosenberg, 17.3.1889", "startDate": "1889-03-17", "id": "pmb208322.html"
   },
   {
     "name": "Aufführung von Die Meistersinger von Nürnberg, 16.3.1889", "startDate": "1889-03-16", "id": "pmb208321.html"
@@ -12141,16 +12144,16 @@ var calendarData = [
     "name": "Aufführung von Mephistopheles, 15.3.1889", "startDate": "1889-03-15", "id": "pmb208320.html"
   },
   {
-    "name": "Poliklinik-Ball, 12.3.1889", "startDate": "1889-03-12", "id": "pmb208319.html"
+    "name": "Kränzchen zu Gunsten der Allgemeinen Poliklinik, 12.3.1889", "startDate": "1889-03-12", "id": "pmb208319.html"
   },
   {
-    "name": "Ball Theimer, 10.3.1889", "startDate": "1889-03-10", "id": "pmb208318.html"
+    "name": "Ball von Eduard Theimer, 10.3.1889", "startDate": "1889-03-10", "id": "pmb208318.html"
   },
   {
-    "name": "Kränzchen, 9.3.1889", "startDate": "1889-03-09", "id": "pmb208317.html"
+    "name": "Kränzchen im Musikverein, 9.3.1889", "startDate": "1889-03-09", "id": "pmb208317.html"
   },
   {
-    "name": "Kegelklub Pollak, 7.3.1889", "startDate": "1889-03-07", "id": "pmb208316.html"
+    "name": "Besuch einer Kegelbahn, 7.3.1889", "startDate": "1889-03-07", "id": "pmb208316.html"
   },
   {
     "name": "Aufführung von Faust. Opéra en cinq actes, 26.2.1889", "startDate": "1889-02-26", "id": "pmb208315.html"
@@ -12177,13 +12180,13 @@ var calendarData = [
     "name": "Konzert des Rosé-Quartetts, 29.1.1889", "startDate": "1889-01-29", "id": "pmb208308.html"
   },
   {
-    "name": "Ball Gustav Spitzer, 28.1.1889", "startDate": "1889-01-28", "id": "pmb208307.html"
+    "name": "Ball von Gustav Spitzer, 28.1.1889", "startDate": "1889-01-28", "id": "pmb208307.html"
   },
   {
     "name": "Philharmonisches-Konzert, 27.1.1889", "startDate": "1889-01-27", "id": "pmb208306.html"
   },
   {
-    "name": "Soirée Fürst, 26.1.1889", "startDate": "1889-01-26", "id": "pmb208305.html"
+    "name": "Soirée von Jakob? Fürst, 26.1.1889", "startDate": "1889-01-26", "id": "pmb208305.html"
   },
   {
     "name": "Aufführung von Ein Tropfen Gift, 25.1.1889", "startDate": "1889-01-25", "id": "pmb208304.html"
@@ -12192,13 +12195,13 @@ var calendarData = [
     "name": "Aufführung von Unverhofft, Tulipatan, 24.1.1889", "startDate": "1889-01-24", "id": "pmb208303.html"
   },
   {
-    "name": "Ball Klein, 19.1.1889", "startDate": "1889-01-19", "id": "pmb208302.html"
+    "name": "Ball von Leopold Klein, 19.1.1889", "startDate": "1889-01-19", "id": "pmb208302.html"
   },
   {
     "name": "Premiere von Die drei Pintos, 18.1.1889", "startDate": "1889-01-18", "id": "pmb208301.html"
   },
   {
-    "name": "Ball Bermann, 17.1.1889", "startDate": "1889-01-17", "id": "pmb208300.html"
+    "name": "Ball von Bermann, 17.1.1889", "startDate": "1889-01-17", "id": "pmb208300.html"
   },
   {
     "name": "Viertes Rosé-Quartett, 15.1.1889", "startDate": "1889-01-15", "id": "pmb208299.html"
@@ -12210,22 +12213,22 @@ var calendarData = [
     "name": "Gesellschaftskonzert im Musikverein, 13.1.1889", "startDate": "1889-01-13", "id": "pmb208297.html"
   },
   {
-    "name": "Tanz Bermann, 10.1.1889", "startDate": "1889-01-10", "id": "pmb208296.html"
+    "name": "Tanz von Bermann, 10.1.1889", "startDate": "1889-01-10", "id": "pmb208296.html"
   },
   {
     "name": "Zirkus Renz, 6.1.1889", "startDate": "1889-01-06", "id": "pmb208295.html"
   },
   {
-    "name": "Polterabend Zinner, 1.1.1889", "startDate": "1889-01-01", "id": "pmb208294.html"
+    "name": "Polterabend von Zinner, 1.1.1889", "startDate": "1889-01-01", "id": "pmb208294.html"
   },
   {
-    "name": "Ball Johann und Louise Schnitzler, 1.1.1889", "startDate": "1889-01-01", "id": "pmb208293.html"
+    "name": "Ball von Johann und Louise Schnitzler, 1.1.1889", "startDate": "1889-01-01", "id": "pmb208293.html"
   },
   {
     "name": "Aufführung von Der Tribut von Zamora, 28.12.1888", "startDate": "1888-12-28", "id": "pmb208292.html"
   },
   {
-    "name": "Soirée Wolf Spitzer, 23.12.1888", "startDate": "1888-12-23", "id": "pmb208291.html"
+    "name": "Soirée von Wilhelm und Adele Spitzer, 23.12.1888", "startDate": "1888-12-23", "id": "pmb208291.html"
   },
   {
     "name": "Kommers im Musikverein, 15.12.1888", "startDate": "1888-12-15", "id": "pmb208290.html"
@@ -12237,7 +12240,7 @@ var calendarData = [
     "name": "Aufführung von Die Meistersinger von Nürnberg, 7.12.1888", "startDate": "1888-12-07", "id": "pmb208288.html"
   },
   {
-    "name": "Ball Elias, 6.12.1888", "startDate": "1888-12-06", "id": "pmb208287.html"
+    "name": "Polterabend von David Elias, 6.12.1888", "startDate": "1888-12-06", "id": "pmb208287.html"
   },
   {
     "name": "Premiere von Die Zaubergeige, O, diese Schwiegermutter!, 1.12.1888", "startDate": "1888-12-01", "id": "pmb208286.html"
@@ -12444,7 +12447,7 @@ var calendarData = [
     "name": "Zweites (letztes) Konzert von Moriz Rosenthal, 26.3.1888", "startDate": "1888-03-26", "id": "pmb208219.html"
   },
   {
-    "name": "Ball Bermann, 19.3.1888", "startDate": "1888-03-19", "id": "pmb208218.html"
+    "name": "Ball von Bermann, 19.3.1888", "startDate": "1888-03-19", "id": "pmb208218.html"
   },
   {
     "name": "Aufführung von Denise, 19.3.1888", "startDate": "1888-03-19", "id": "pmb208217.html"
@@ -12468,10 +12471,10 @@ var calendarData = [
     "name": "Aufführung von Die beiden Klingsberg. Lustspiel in vier Akten, Im Vorzimmer Seiner Excellenz. Lebensbild in 1 Akt, 3.3.1888", "startDate": "1888-03-03", "id": "pmb208211.html"
   },
   {
-    "name": "Kompositionskonzert, 29.2.1888", "startDate": "1888-02-29", "id": "pmb208210.html"
+    "name": "Kompositionskonzert von Richard Mandl, 29.2.1888", "startDate": "1888-02-29", "id": "pmb208210.html"
   },
   {
-    "name": "Poliklinikball, 28.2.1888", "startDate": "1888-02-28", "id": "pmb208209.html"
+    "name": "Tanzkränzchen zu Gunsten der Allgemeinen Poliklinik, 28.2.1888", "startDate": "1888-02-28", "id": "pmb208209.html"
   },
   {
     "name": "Philharmonisches-Konzert, 26.2.1888", "startDate": "1888-02-26", "id": "pmb208208.html"
@@ -12489,13 +12492,13 @@ var calendarData = [
     "name": "Aufführung von Der Sänger von Palermo, 15.2.1888", "startDate": "1888-02-15", "id": "pmb208204.html"
   },
   {
-    "name": "Ball Guttmann, 13.2.1888", "startDate": "1888-02-13", "id": "pmb208203.html"
+    "name": "Ball von Edmund von Gutmann-Gelse, 13.2.1888", "startDate": "1888-02-13", "id": "pmb208203.html"
   },
   {
-    "name": "Ball Theimer, 11.2.1888", "startDate": "1888-02-11", "id": "pmb208202.html"
+    "name": "Ball von Eduard Theimer, 11.2.1888", "startDate": "1888-02-11", "id": "pmb208202.html"
   },
   {
-    "name": "Ball Neumann, 3.2.1888", "startDate": "1888-02-03", "id": "pmb208201.html"
+    "name": "Ball von Ferdinand Neumann, 3.2.1888", "startDate": "1888-02-03", "id": "pmb208201.html"
   },
   {
     "name": "Aufführung von Götterdämmerung, 3.2.1888", "startDate": "1888-02-03", "id": "pmb208200.html"
@@ -12507,7 +12510,7 @@ var calendarData = [
     "name": "Aufführung von König Koko, 30.1.1888", "startDate": "1888-01-30", "id": "pmb208198.html"
   },
   {
-    "name": "Soirée Weiß-Wellenstein, 27.1.1888", "startDate": "1888-01-27", "id": "pmb208197.html"
+    "name": "Soirée von Maximilian von Weiss-Wellenstein, 27.1.1888", "startDate": "1888-01-27", "id": "pmb208197.html"
   },
   {
     "name": "Aufführung von Graf Waldemar, 24.1.1888", "startDate": "1888-01-24", "id": "pmb208196.html"
@@ -12519,7 +12522,7 @@ var calendarData = [
     "name": "Aufführung von Der verwunschene Prinz, Leichte Cavallerie, 18.1.1888", "startDate": "1888-01-18", "id": "pmb208194.html"
   },
   {
-    "name": "Ball Baecher, 16.1.1888", "startDate": "1888-01-16", "id": "pmb208193.html"
+    "name": "Ball von Bernhard Bächer, 16.1.1888", "startDate": "1888-01-16", "id": "pmb208193.html"
   },
   {
     "name": "Aufführung von Peter Zapfl, 14.1.1888", "startDate": "1888-01-14", "id": "pmb208192.html"
@@ -12528,19 +12531,19 @@ var calendarData = [
     "name": "Klavierkonzert von Moriz Rosenthal, 7.1.1888", "startDate": "1888-01-07", "id": "pmb208191.html"
   },
   {
-    "name": "Soirée Porges, 6.1.1888", "startDate": "1888-01-06", "id": "pmb208190.html"
+    "name": "Soirée von Porges, 6.1.1888", "startDate": "1888-01-06", "id": "pmb208190.html"
   },
   {
     "name": "Aufführung von Die Tantaliden, 5.1.1888", "startDate": "1888-01-05", "id": "pmb208189.html"
   },
   {
-    "name": "Soirée Johann und Louise Schnitzler, 1.1.1888", "startDate": "1888-01-01", "id": "pmb208188.html"
+    "name": "Soirée von Johann und Louise Schnitzler, 1.1.1888", "startDate": "1888-01-01", "id": "pmb208188.html"
   },
   {
     "name": "Violinkonzert von Pablo de Sarasate, 27.12.1887", "startDate": "1887-12-27", "id": "pmb208187.html"
   },
   {
-    "name": "Soirée Brüll, 26.12.1887", "startDate": "1887-12-26", "id": "pmb208186.html"
+    "name": "Soirée von Eduard Brüll, 26.12.1887", "startDate": "1887-12-26", "id": "pmb208186.html"
   },
   {
     "name": "Aufführung von Der Glücksritter, 21.12.1887", "startDate": "1887-12-21", "id": "pmb208185.html"
@@ -12549,13 +12552,13 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 18.12.1887", "startDate": "1887-12-18", "id": "pmb208184.html"
   },
   {
-    "name": "Ball Heidt, 16.12.1887", "startDate": "1887-12-16", "id": "pmb208183.html"
+    "name": "Ball von Heidt, 16.12.1887", "startDate": "1887-12-16", "id": "pmb208183.html"
   },
   {
     "name": "Aufführung von Die blaue Grotte, 7.12.1887", "startDate": "1887-12-07", "id": "pmb208182.html"
   },
   {
-    "name": "Hochzeit Olga Mandl – Julius von Gans-Ludassy, 4.12.1887", "startDate": "1887-12-04", "id": "pmb208181.html"
+    "name": "Hochzeit von Olga Mandl und Julius von Gans-Ludassy, 4.12.1887", "startDate": "1887-12-04", "id": "pmb208181.html"
   },
   {
     "name": "Aufführung von Die Höll’ auf Erden, 28.11.1887", "startDate": "1887-11-28", "id": "pmb208180.html"
@@ -12702,19 +12705,16 @@ var calendarData = [
     "name": "Ball im Hotel Metropole, 26.3.1887", "startDate": "1887-03-26", "id": "pmb208133.html"
   },
   {
-    "name": "Ball und Theater Strisower, 23.3.1887", "startDate": "1887-03-23", "id": "pmb208132.html"
-  },
-  {
-    "name": "Ball Professor Benedikt, 19.3.1887", "startDate": "1887-03-19", "id": "pmb208131.html"
+    "name": "Ball von Moriz Benedikt, 19.3.1887", "startDate": "1887-03-19", "id": "pmb208131.html"
   },
   {
     "name": "Aufführung von Ein Märchen aus der Champagne, Die verwandelte Katze, 15.3.1887", "startDate": "1887-03-15", "id": "pmb208130.html"
   },
   {
-    "name": "Soirée Schwarz, 14.3.1887", "startDate": "1887-03-14", "id": "pmb208129.html"
+    "name": "Soirée von Schwarz, 14.3.1887", "startDate": "1887-03-14", "id": "pmb208129.html"
   },
   {
-    "name": "Soirée Horn, 13.3.1887", "startDate": "1887-03-13", "id": "pmb208128.html"
+    "name": "Soirée von Wilhelm Horn, 13.3.1887", "startDate": "1887-03-13", "id": "pmb208128.html"
   },
   {
     "name": "Aufführung von Die Großherzogin von Gerolstein, 12.3.1887", "startDate": "1887-03-12", "id": "pmb208127.html"
@@ -14403,7 +14403,7 @@ var calendarData = [
     "name": "Philharmonisches-Konzert, 7.3.1880", "startDate": "1880-03-07", "id": "pmb207564.html"
   },
   {
-    "name": "Vortrag Prof. Benedikt über Mesmerismus, 5.3.1880", "startDate": "1880-03-05", "id": "pmb207563.html"
+    "name": "Vortrag Moriz Benedikt über Mesmerismus, 5.3.1880", "startDate": "1880-03-05", "id": "pmb207563.html"
   },
   {
     "name": "Ball Ziehrer, 4.3.1880", "startDate": "1880-03-04", "id": "pmb207562.html"
@@ -14946,7 +14946,7 @@ var calendarData = [
     "name": "Vortrag Prof. Arnberg über Elektrizität, 22.3.1877", "startDate": "1877-03-22", "id": "pmb207381.html"
   },
   {
-    "name": "Vortrag Johann Schnitzler über den Hals, 21.2.1877", "startDate": "1877-02-21", "id": "pmb207380.html"
+    "name": "Vortrag von Johann Schnitzler über den Hals, 21.2.1877", "startDate": "1877-02-21", "id": "pmb207380.html"
   },
   {
     "name": "Philharmonisches Konzert, 8.2.1877", "startDate": "1877-02-08", "id": "pmb207379.html"
@@ -15465,7 +15465,7 @@ var calendarData = [
     "name": "Redoute, Februar 1886", "startDate": "1886-02-01", "id": "pmb195037.html"
   },
   {
-    "name": "Ball bei Strisower, Februar 1886", "startDate": "1886-02-01", "id": "pmb195029.html"
+    "name": "Ball bei Bernhard Strisower, Februar 1886", "startDate": "1886-02-01", "id": "pmb195029.html"
   },
   {
     "name": "Private Lesung von Blumen, 28.3.1894", "startDate": "1894-03-28", "id": "pmb193039.html"
@@ -16656,7 +16656,7 @@ var calendarData = [
     "name": "Premiere von Liebelei, Die Versucherin, 11.1.1896", "startDate": "1896-01-11", "id": "pmb89661.html"
   },
   {
-    "name": "Privataufführung Der grollende Löwe, 21.6.1887", "startDate": "1887-06-21", "id": "pmb89633.html"
+    "name": "Ball von Bernhard Strisower und Privataufführung von Der grollende Löwe, 23.3.1887", "startDate": "1887-03-23", "id": "pmb89633.html"
   },
   {
     "name": "Proben für Mein Mausi. Liebhaberaufführung, März 1886", "startDate": "1886-03-01", "id": "pmb89627.html"
