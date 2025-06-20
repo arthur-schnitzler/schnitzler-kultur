@@ -1500,7 +1500,9 @@
     <xsl:template name="list-all-mentions">
         <xsl:param name="mentions" as="node()"/>
         <xsl:variable name="mentionCount" select="count($mentions//tei:note)"/>
+        <xsl:if test="count($mentions//tei:note) > 0">
         <!-- Balkendiagramm oben -->
+       
         <div id="mentions">
             <span class="infodesc mr-2">
                 <legend>Erwähnungen</legend>
@@ -1702,6 +1704,7 @@
                 </div>
             </span>
         </div>
+        </xsl:if>
     </xsl:template>
     <xsl:template name="lod-reihe">
         <xsl:param name="idno" as="node()"/>
