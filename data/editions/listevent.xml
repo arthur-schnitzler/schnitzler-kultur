@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
            <titleStmt>
@@ -13,13 +12,35 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-06-17">serialized</change>
+          <change when-iso="2025-06-20">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
         <body>
            <p>Some text here.</p>
-           <listEvent><event xml:id="pmb293237" when-iso="1899-04-27">
+           <listEvent><event xml:id="pmb294892" when-iso="1887-12-26">
+        <eventName n="Diner">Diner von Edmund Markbreiter, 26.12.1887</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294892/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb3814">Markbreiter, Edmund</persName>
+            </person>
+            <person role="hat als Teilnehmer:in">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294895">Helferstorferstraße 6</placeName>
+                <location>
+                    <geo>48,21383 16,36542</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb293237" when-iso="1899-04-27">
         <eventName n="Theateraufführung">Besuch des Budapester Possen- und Operettentheaters, 27.4.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/293237/</idno>
     <listBibl>
@@ -424,7 +445,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb292687" when-iso="1921-03-24">
-        <eventName n="Ausstellungsbesuch">Ausstellungsbesuch Ausstellung von Edmund Pick-Morino und anderen, 24.3.1921</eventName>
+        <eventName n="Ausstellungsbesuch">Ausstellungsbesuch Atelierausstellung von Edmund Pick-Morino, Johanna Kampmann und anderen, 24.3.1921</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/292687/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -112463,7 +112484,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208467" when-iso="1891-03-08">
-        <eventName n="Ball">Ball Zierer, 8.3.1891</eventName>
+        <eventName n="Ball">Ball von Wilhelm Zierer, 8.3.1891</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208467/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -112472,7 +112493,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb27483">Zierer, Wilhelm</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294678">Plößlgasse 33</placeName>
+                <location>
+                    <geo>48,19357 16,37432</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208466" when-iso="1891-03-07">
         <eventName n="Opernaufführung">Aufführung von Manon, 7.3.1891</eventName>
         <note type="listorg">
@@ -112538,7 +112570,14 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208464" when-iso="1891-02-25">
-        <eventName n="Ball">Poliklinik-Ball, 25.2.1891</eventName>
+        <eventName n="Kränzchen">Kränzchen zu Gunsten der Allgemeinen Poliklinik, 25.2.1891</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb41367">Allgemeine Poliklinik</orgName>
+                </org>
+            </listOrg>
+        </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208464/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -112548,6 +112587,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb107">Sofiensäle</placeName>
+                <location>
+                    <geo>48,206662 16,391263</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208463" when-iso="1891-02-24">
         <eventName n="Klavierkonzert">Klavierkonzert von Alfred Grünfeld, 24.2.1891</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208463/</idno>
@@ -112582,7 +112629,7 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb208461" when-iso="1891-02-21">
-        <eventName n="Soirée">Diner und Soirée Weiss-Wellenstein, 21.2.1891</eventName>
+        <eventName n="Soirée">Diner und Soirée von Gustav von Weiss-Wellenstein, 21.2.1891</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208461/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -112591,7 +112638,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb26875">Weiss-Wellenstein, Gustav von</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb234454">Lichtenfelsgasse 7</placeName>
+                <location>
+                    <geo>48,209934 16,356392</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208460" when-iso="1891-02-19">
         <eventName n="Klavierkonzert">Viertes (letztes) Klavierkonzert von Emil Sauer, 19.2.1891</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208460/</idno>
@@ -112615,7 +112673,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208459" when-iso="1891-02-18">
-        <eventName n="Hausball">Ball Springer, 18.2.1891</eventName>
+        <eventName n="Hausball">Ball von Adolf Springer, 18.2.1891</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208459/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -112624,7 +112682,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb25270">Springer, Adolf</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208458" when-iso="1891-02-16">
         <eventName n="Hausball">Ball Pollak, 16.2.1891</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208458/</idno>
@@ -113029,7 +113098,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208444" when-iso="1891-01-10">
-        <eventName n="Ball">Ball Pserhofer, 10.1.1891</eventName>
+        <eventName n="Ball">Ball von Ignaz Pserhofer, 10.1.1891</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208444/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -113038,7 +113107,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb22918">Pserhofer, Ignaz</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294694">Singerstraße 15/Grünangergasse 12</placeName>
+                <location>
+                    <geo>48,20701 16,37457</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208443" when-iso="1891-01-10">
         <eventName n="Theateraufführung">Aufführung von Der Gimpel, 10.1.1891</eventName>
         <note type="listorg">
@@ -113147,7 +113227,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208439" when-iso="1890-12-28">
-        <eventName n="Ball">Ball Klein, 28.12.1890</eventName>
+        <eventName n="Ball">Ball von Leopold Klein, 28.12.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208439/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -113156,7 +113236,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb19409">Klein, Leopold</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208438" when-iso="1890-12-21">
         <eventName n="Konzert">Philharmonisches-Konzert, 21.12.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208438/</idno>
@@ -113622,7 +113713,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208422" when-iso="1890-11-15">
-        <eventName n="Soirée">Soirée Rosenberg, 15.11.1890</eventName>
+        <eventName n="Soirée">Soirée von Leopold Rosenberg, 15.11.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208422/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -113631,7 +113722,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb23573">Rosenberg, Leopold</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb167805">Kärntnerring 12/Bösendorferstraße 11</placeName>
+                <location>
+                    <geo>48,20143 16,37196</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208421" when-iso="1890-11-14">
         <eventName n="Varieté">Varieté im Ronacher, 14.11.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208421/</idno>
@@ -114189,7 +114291,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208402" when-iso="1890-06-23">
-        <eventName n="Schulaufführung">Concours Konservatorium, 23.6.1890</eventName>
+        <eventName n="Schulaufführung">Concours des Konservatoriums der Gesellschaft der Musikfreunde, 23.6.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -114206,8 +114308,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208401" when-iso="1890-05-19">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 19.5.1890</eventName>
+        <eventName n="Schulaufführung">Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 19.5.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -114224,8 +114334,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208400" when-iso="1890-05-12">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 12.5.1890</eventName>
+        <eventName n="Schulaufführung">Erste Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 12.5.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -114242,6 +114360,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208399" when-iso="1890-05-06">
         <eventName n="Theateraufführung">Aufführung von Mam’zelle Nitouche, 6.5.1890</eventName>
         <note type="listorg">
@@ -114275,7 +114401,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208398" when-iso="1890-05-03">
-        <eventName n="Polterabend">Polterabend Mandl, 3.5.1890</eventName>
+        <eventName n="Polterabend">Polterabend von Ferdinand Mandl, 3.5.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208398/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114284,9 +114410,20 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb20893">Mandl, Ferdinand</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208397" when-iso="1890-04-26">
-        <eventName n="Theateraufführung">Aristokraten-Vorstellung (Metternich-Theater), 26.4.1890</eventName>
+        <eventName n="Generalprobe">Generalprobe der Aristokraten-Vorstellung, 26.4.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208397/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114299,6 +114436,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208396" when-iso="1890-04-06">
         <eventName n="Premiere">Premiere von Frau Venus, 6.4.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208396/</idno>
@@ -114358,7 +114503,7 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb208393" when-iso="1890-03-29">
-        <eventName n="Schulkonzert">Konservatoriumskonzert, 29.3.1890</eventName>
+        <eventName n="Schulkonzert">Vorstellung der Opernschule des Konservatoriums der Gesellschaft der Musikfreunde, 29.3.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -114375,8 +114520,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208392" when-iso="1890-03-28">
-        <eventName n="Ball">Ball Klein, 28.3.1890</eventName>
+        <eventName n="Ball">Ball von Leopold Klein, 28.3.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208392/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114385,9 +114538,20 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb19409">Klein, Leopold</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208391" when-iso="1890-03-26">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 26.3.1890</eventName>
+        <eventName n="Schulaufführung">Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 26.3.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -114404,6 +114568,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208390" when-iso="1890-03-25">
         <eventName n="Konzert">Philharmonisches-Konzert, 25.3.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208390/</idno>
@@ -114416,7 +114588,7 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb208389" when-iso="1890-03-20">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 20.3.1890</eventName>
+        <eventName n="Schulaufführung">Erste Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 20.3.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -114433,6 +114605,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208388" when-iso="1890-03-13">
         <eventName n="Klavierkonzert">Klavierkonzert von Moriz Rosenthal, 13.3.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208388/</idno>
@@ -114456,7 +114636,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208387" when-iso="1890-03-09">
-        <eventName n="Ball">Ball Heller, 9.3.1890</eventName>
+        <eventName n="Ball">Ball von Bernhard Hellmann, 9.3.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208387/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114465,9 +114645,27 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb18081">Hellmann, Bernhard</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208386" when-iso="1890-03-04">
-        <eventName n="Kränzchen">Poliklinik-Kränzchen, 4.3.1890</eventName>
+        <eventName n="Kränzchen">Kränzchen zu Gunsten der Allgemeinen Poliklinik, 4.3.1890</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb41367">Allgemeine Poliklinik</orgName>
+                </org>
+            </listOrg>
+        </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208386/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114477,8 +114675,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb107">Sofiensäle</placeName>
+                <location>
+                    <geo>48,206662 16,391263</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208385" when-iso="1890-03-01">
-        <eventName n="Konzert">Galakonzert, 1.3.1890</eventName>
+        <eventName n="Konzert">Gala-Konzert zum Besten des Wiener Konservatoriums, 1.3.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208385/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114487,9 +114693,20 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb12231">Metternich-Sándor, Pauline von</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208384" when-iso="1890-02-27">
-        <eventName n="Schulaufführung">Konservatoriums-Vorstellung, 27.2.1890</eventName>
+        <eventName n="Schulaufführung">Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 27.2.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -114506,6 +114723,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208383" when-iso="1890-02-22">
         <eventName n="Ball">Ball Pollak, 22.2.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208383/</idno>
@@ -114545,7 +114770,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208381" when-iso="1890-02-17">
-        <eventName n="Soirée">Soirée Bergheim, 17.2.1890</eventName>
+        <eventName n="Soirée">Soirée von John Simeon Bergheim, 17.2.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208381/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114554,7 +114779,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb14077">Bergheim, John Simeon</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb256146">Rathausstraße 7</placeName>
+                <location>
+                    <geo>48,20993 16,355896</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208380" when-iso="1890-02-11">
         <eventName n="Konzert">Konzert im Ronacher, 11.2.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208380/</idno>
@@ -114597,7 +114833,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208378" when-iso="1890-02-07">
-        <eventName n="Ball">Ball Neumann, 7.2.1890</eventName>
+        <eventName n="Ball">Ball von Ferdinand Neumann, 7.2.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208378/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114606,9 +114842,20 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb21889">Neumann, Ferdinand</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208377" when-iso="1890-02-05">
-        <eventName n="Ball">Ball Rosenberg, 5.2.1890</eventName>
+        <eventName n="Ball">Ball von Leopold Rosenberg, 5.2.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208377/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114617,9 +114864,20 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb23573">Rosenberg, Leopold</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb167805">Kärntnerring 12/Bösendorferstraße 11</placeName>
+                <location>
+                    <geo>48,20143 16,37196</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208376" when-iso="1890-02-05">
-        <eventName n="Ball">Ball Springer, 5.2.1890</eventName>
+        <eventName n="Ball">Ball von Adolf Springer, 5.2.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208376/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114628,7 +114886,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb25270">Springer, Adolf</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208375" when-iso="1890-01-25">
         <eventName n="Ball">Ball Pollak, 25.1.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208375/</idno>
@@ -114774,7 +115043,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208370" when-iso="1890-01-18">
-        <eventName n="Ball">Ball Strauss, 18.1.1890</eventName>
+        <eventName n="Ball">Ball von Strauss, 18.1.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208370/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114783,7 +115052,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb25598">Strauss</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208369" when-iso="1890-01-15">
         <eventName n="Vergnügungsabend">Ronacher, 15.1.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208369/</idno>
@@ -114916,7 +115196,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208364" when-iso="1889-12-25">
-        <eventName n="Feier">Silberne Hochzeitsfeier Mandl, 25.12.1889</eventName>
+        <eventName n="Silberne Hochzeit">Silberne Hochzeit von Ludwig und Irene Mandl, 25.12.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208364/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114925,7 +115205,21 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb20911">Mandl, Ludwig</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb20902">Mandl, Irene</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb199587">Praterstraße 21</placeName>
+                <location>
+                    <geo>48,21387 16,382549</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208363" when-iso="1889-12-22">
         <eventName n="Konzert">Philharmonisches-Konzert, 22.12.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208363/</idno>
@@ -114938,7 +115232,7 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb208362" when-iso="1889-12-21">
-        <eventName n="Liederkonzert">Volkssänger Hirsch, 21.12.1889</eventName>
+        <eventName n="Liederkonzert">Konzert von Albert Hirsch, 21.12.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208362/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -114951,8 +115245,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208361" when-iso="1889-12-11">
-        <eventName n="Schulvortragsabend">Konservatorium. Vortragsabend, 11.12.1889</eventName>
+        <eventName n="Schulvortragsabend">Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -114968,7 +115270,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb14953">Glümer, Marie</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208360" when-iso="1889-12-10">
         <eventName n="Theateraufführung">Aufführung von Der dumme August, Die Fälle der Clémenceau, 10.12.1889</eventName>
         <note type="listorg">
@@ -115006,7 +115319,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208359" when-iso="1889-12-04">
-        <eventName n="Schulvortragsabend">Konservatorium. Vortragsabend, 4.12.1889</eventName>
+        <eventName n="Schulvortragsabend">Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 4.12.1889</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -115023,6 +115336,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208358" when-iso="1889-12-03">
         <eventName n="Vergnügungsabend">Danzer’s Orpheum, 3.12.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208358/</idno>
@@ -115175,7 +115496,7 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb208350" when-iso="1889-11-02">
-        <eventName n="Schulvortragsabend">Konservatorium. Vortragsabend, 2.11.1889</eventName>
+        <eventName n="Schulvortragsabend">Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -115192,6 +115513,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+                <location>
+                    <geo>48,210333 16,37084</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208349" when-iso="1889-10-26">
         <eventName n="Theateraufführung">Aufführung von Der dumme August, 26.10.1889</eventName>
         <note type="listorg">
@@ -115225,7 +115554,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208348" when-iso="1889-10-13">
-        <eventName n="Vereinstreffen">Vereinstreffen Concordia, 13.10.1889</eventName>
+        <eventName n="Vereinstreffen">Vereinstreffen der Concordia, 13.10.1889</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -115242,6 +115571,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb186703">Concordia-Club [vor 1905]</placeName>
+                <location>
+                    <geo>48,209272 16,367561</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208347" when-iso="1889-10-05">
         <eventName n="Premiere">Premiere von Der Fall Clemenceau, 5.10.1889</eventName>
         <note type="listorg">
@@ -115781,21 +116118,32 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208330" when-iso="1889-04-26">
-        <eventName n="Konzert">Konzert Gustav Kühle, 26.4.1889</eventName>
+        <eventName n="Konzert">Konzert mit Gustav Kühle und Malvine Drucker, 26.4.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208330/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
 </listBibl>
         <listPerson>
             <person role="hat als Arbeitskraft">
-                <persName key="pmb19973">Kühle, Gustav</persName>
+                <persName key="pmb15492">Drucker, Malvine</persName>
             </person>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb19973">Kühle, Gustav</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208329" when-iso="1889-04-21">
-        <eventName n="Soirée">Soirée Kohnberger, 21.4.1889</eventName>
+        <eventName n="Soirée">Soirée von Innozenz Kohnberger, 21.4.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208329/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -115804,7 +116152,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb19512">Kohnberger, Innozenz</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb194841">Löwelstraße 16</placeName>
+                <location>
+                    <geo>48,210795 16,362269</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208328" when-iso="1889-04-09">
         <eventName n="Opernaufführung">Aufführung von Figaros Hochzeit, 9.4.1889</eventName>
         <note type="listorg">
@@ -115849,7 +116208,7 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb208326" when-iso="1889-04-03">
-        <eventName n="Ball">Ball Wetzler, 3.4.1889</eventName>
+        <eventName n="Ball">Ball von Bernhard Wetzler, 3.4.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208326/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -115858,9 +116217,20 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb27042">Wetzler, Bernhard</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294789">Trautsongasse 6</placeName>
+                <location>
+                    <geo>48,207741 16,353742</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208325" when-iso="1889-03-30">
-        <eventName n="Vereinstreffen">Ärztliches Vereinstreffen erster Bezirk, 30.3.1889</eventName>
+        <eventName n="Vereinstreffen">Ärztlicher Vereinsabend, 30.3.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208325/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -115870,8 +116240,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb51">I., Innere Stadt</placeName>
+                <location>
+                    <geo>48,20769 16,37049</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208324" when-iso="1889-03-23">
-        <eventName n="Vereinstreffen">Ärztliches Vereinstreffen zweiter Bezirk, 23.3.1889</eventName>
+        <eventName n="Vereinstreffen">Ärztlicher Vereinsabend, 23.3.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208324/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -115881,6 +116259,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb52">II., Leopoldstadt</placeName>
+                <location>
+                    <geo>48,21667 16,4</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208323" when-iso="1889-03-21">
         <eventName n="Varieté">Varieté im Ronacher, 21.3.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208323/</idno>
@@ -115901,7 +116287,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208322" when-iso="1889-03-17">
-        <eventName n="Soirée">Soirée Rosenberg, 17.3.1889</eventName>
+        <eventName n="Ball">Ball von Leopold Rosenberg, 17.3.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208322/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -115910,7 +116296,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb23573">Rosenberg, Leopold</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294803">Czerningasse 17</placeName>
+                <location>
+                    <geo>48,215395 16,388818</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208321" when-iso="1889-03-16">
         <eventName n="Opernaufführung">Aufführung von Die Meistersinger von Nürnberg, 16.3.1889</eventName>
         <note type="listorg">
@@ -115976,7 +116373,14 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208319" when-iso="1889-03-12">
-        <eventName n="Ball">Poliklinik-Ball, 12.3.1889</eventName>
+        <eventName n="Kränzchen">Kränzchen zu Gunsten der Allgemeinen Poliklinik, 12.3.1889</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb41367">Allgemeine Poliklinik</orgName>
+                </org>
+            </listOrg>
+        </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208319/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -115986,8 +116390,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb107">Sofiensäle</placeName>
+                <location>
+                    <geo>48,206662 16,391263</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208318" when-iso="1889-03-10">
-        <eventName n="Ball">Ball Theimer, 10.3.1889</eventName>
+        <eventName n="Ball">Ball von Eduard Theimer, 10.3.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208318/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -115996,9 +116408,20 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb25979">Theimer, Eduard</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294813">Am Heumarkt 17</placeName>
+                <location>
+                    <geo>48,201225 16,379919</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208317" when-iso="1889-03-09">
-        <eventName n="Kränzchen">Kränzchen, 9.3.1889</eventName>
+        <eventName n="Kränzchen">Kränzchen im Musikverein, 9.3.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208317/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116008,8 +116431,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208316" when-iso="1889-03-07">
-        <eventName n="Vereinstreffen">Kegelklub Pollak, 7.3.1889</eventName>
+        <eventName n="Vereinstreffen">Besuch einer Kegelbahn, 7.3.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208316/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116018,7 +116449,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Teilnehmer:in">
+                <persName key="pmb22746">Pollak, Ludwig</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208315" when-iso="1889-02-26">
         <eventName n="Opernaufführung">Aufführung von Faust. Opéra en cinq actes, 26.2.1889</eventName>
         <note type="listorg">
@@ -116094,6 +116536,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208312" when-iso="1889-02-20">
         <eventName n="Maskenball">Maskenball, 20.2.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208312/</idno>
@@ -116105,6 +116555,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208311" when-iso="1889-02-18">
         <eventName n="Opernaufführung">Aufführung von Die lustigen Weiber von Windsor, Die Puppenfee, 18.2.1889</eventName>
         <note type="listorg">
@@ -116222,7 +116680,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208307" when-iso="1889-01-28">
-        <eventName n="Ball">Ball Gustav Spitzer, 28.1.1889</eventName>
+        <eventName n="Ball">Ball von Gustav Spitzer, 28.1.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208307/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116235,6 +116693,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294827">Kärntnerring 12</placeName>
+                <location>
+                    <geo>48,201489 16,37202</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208306" when-iso="1889-01-27">
         <eventName n="Konzert">Philharmonisches-Konzert, 27.1.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208306/</idno>
@@ -116247,7 +116713,7 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb208305" when-iso="1889-01-26">
-        <eventName n="Soirée">Soirée Fürst, 26.1.1889</eventName>
+        <eventName n="Soirée">Soirée von Jakob? Fürst, 26.1.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208305/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116256,7 +116722,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb16835">Fürst, Jakob?</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208304" when-iso="1889-01-25">
         <eventName n="Theateraufführung">Aufführung von Ein Tropfen Gift, 25.1.1889</eventName>
         <note type="listorg">
@@ -116326,7 +116803,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208302" when-iso="1889-01-19">
-        <eventName n="Ball">Ball Klein, 19.1.1889</eventName>
+        <eventName n="Ball">Ball von Leopold Klein, 19.1.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208302/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116335,7 +116812,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb19409">Klein, Leopold</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208301" when-iso="1889-01-18">
         <eventName n="Premiere">Premiere von Die drei Pintos, 18.1.1889</eventName>
         <note type="listorg">
@@ -116369,7 +116857,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208300" when-iso="1889-01-17">
-        <eventName n="Ball">Ball Bermann, 17.1.1889</eventName>
+        <eventName n="Ball">Ball von Bermann, 17.1.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208300/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116378,7 +116866,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb14097">Bermann</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208299" when-iso="1889-01-15">
         <eventName n="Quartett">Viertes Rosé-Quartett, 15.1.1889</eventName>
         <note type="listorg">
@@ -116464,7 +116963,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208296" when-iso="1889-01-10">
-        <eventName n="Tanz">Tanz Bermann, 10.1.1889</eventName>
+        <eventName n="Tanz">Tanz von Bermann, 10.1.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208296/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116473,7 +116972,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb14097">Bermann</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208295" when-iso="1889-01-06">
         <eventName n="Zirkusvorstellung">Zirkus Renz, 6.1.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208295/</idno>
@@ -116494,7 +117004,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208294" when-iso="1889-01-01">
-        <eventName n="Polterabend">Polterabend Zinner, 1.1.1889</eventName>
+        <eventName n="Polterabend">Polterabend von Zinner, 1.1.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208294/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116504,8 +117014,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208293" when-iso="1889-01-01">
-        <eventName n="Ball">Ball Johann und Louise Schnitzler, 1.1.1889</eventName>
+        <eventName n="Ball">Ball von Johann und Louise Schnitzler, 1.1.1889</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208293/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116514,7 +117032,21 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb12695">Schnitzler, Johann</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb12701">Schnitzler, Louise</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb168765">Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                <location>
+                    <geo>48,20334 16,363819</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208292" when-iso="1888-12-28">
         <eventName n="Opernaufführung">Aufführung von Der Tribut von Zamora, 28.12.1888</eventName>
         <note type="listorg">
@@ -116548,7 +117080,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208291" when-iso="1888-12-23">
-        <eventName n="Soirée">Soirée Wolf Spitzer, 23.12.1888</eventName>
+        <eventName n="Soirée">Soirée von Wilhelm und Adele Spitzer, 23.12.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208291/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116557,7 +117089,21 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb25230">Spitzer, Adele</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb25258">Spitzer, Wilhelm</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294848">Hegelgasse 19</placeName>
+                <location>
+                    <geo>48,20249 16,37445</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208290" when-iso="1888-12-15">
         <eventName n="Kommers">Kommers im Musikverein, 15.12.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208290/</idno>
@@ -116621,7 +117167,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208287" when-iso="1888-12-06">
-        <eventName n="Ball">Ball Elias, 6.12.1888</eventName>
+        <eventName n="Polterabend">Polterabend von David Elias, 6.12.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208287/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -116630,7 +117176,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb15841">Elias, David</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294855">Praterstraße 13</placeName>
+                <location>
+                    <geo>48,21355 16,38131</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208286" when-iso="1888-12-01">
         <eventName n="Premiere">Premiere von Die Zaubergeige, O, diese Schwiegermutter!, 1.12.1888</eventName>
         <note type="listorg">
@@ -118324,7 +118881,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208218" when-iso="1888-03-19">
-        <eventName n="Ball">Ball Bermann, 19.3.1888</eventName>
+        <eventName n="Ball">Ball von Bermann, 19.3.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208218/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118333,7 +118890,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb14097">Bermann</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208217" when-iso="1888-03-19">
         <eventName n="Theateraufführung">Aufführung von Denise, 19.3.1888</eventName>
         <note type="listorg">
@@ -118526,7 +119094,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208210" when-iso="1888-02-29">
-        <eventName n="Kompositionskonzert">Kompositionskonzert, 29.2.1888</eventName>
+        <eventName n="Kompositionskonzert">Kompositionskonzert von Richard Mandl, 29.2.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208210/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118539,8 +119107,23 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
+                <location>
+                    <geo>48,201265597319 16,372564182283</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208209" when-iso="1888-02-28">
-        <eventName n="Ball">Poliklinikball, 28.2.1888</eventName>
+        <eventName n="Ball">Tanzkränzchen zu Gunsten der Allgemeinen Poliklinik, 28.2.1888</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb41367">Allgemeine Poliklinik</orgName>
+                </org>
+            </listOrg>
+        </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208209/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118550,6 +119133,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb107">Sofiensäle</placeName>
+                <location>
+                    <geo>48,206662 16,391263</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208208" when-iso="1888-02-26">
         <eventName n="Konzert">Philharmonisches-Konzert, 26.2.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208208/</idno>
@@ -118651,7 +119242,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208203" when-iso="1888-02-13">
-        <eventName n="Ball">Ball Guttmann, 13.2.1888</eventName>
+        <eventName n="Ball">Ball von Edmund von Gutmann-Gelse, 13.2.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208203/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118660,9 +119251,20 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb17588">Gutmann-Gelse, Edmund von</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294870">Rennweg 28</placeName>
+                <location>
+                    <geo>48,19434 16,38729</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208202" when-iso="1888-02-11">
-        <eventName n="Ball">Ball Theimer, 11.2.1888</eventName>
+        <eventName n="Ball">Ball von Eduard Theimer, 11.2.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208202/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118671,9 +119273,20 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb25979">Theimer, Eduard</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294813">Am Heumarkt 17</placeName>
+                <location>
+                    <geo>48,201225 16,379919</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208201" when-iso="1888-02-03">
-        <eventName n="Ball">Ball Neumann, 3.2.1888</eventName>
+        <eventName n="Ball">Ball von Ferdinand Neumann, 3.2.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208201/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118682,7 +119295,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb21889">Neumann, Ferdinand</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208200" when-iso="1888-02-03">
         <eventName n="Opernaufführung">Aufführung von Götterdämmerung, 3.2.1888</eventName>
         <note type="listorg">
@@ -118770,7 +119394,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208197" when-iso="1888-01-27">
-        <eventName n="Soirée">Soirée Weiß-Wellenstein, 27.1.1888</eventName>
+        <eventName n="Soirée">Soirée von Maximilian von Weiss-Wellenstein, 27.1.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208197/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118779,7 +119403,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb26878">Weiss-Wellenstein, Maximilian von</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294670">Wasagasse 2</placeName>
+                <location>
+                    <geo>48,215358 16,363048</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208196" when-iso="1888-01-24">
         <eventName n="Theateraufführung">Aufführung von Graf Waldemar, 24.1.1888</eventName>
         <note type="listorg">
@@ -118877,7 +119512,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208193" when-iso="1888-01-16">
-        <eventName n="Ball">Ball Baecher, 16.1.1888</eventName>
+        <eventName n="Ball">Ball von Bernhard Bächer, 16.1.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208193/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118886,7 +119521,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb14743">Bächer, Bernhard</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208192" when-iso="1888-01-14">
         <eventName n="Theateraufführung">Aufführung von Peter Zapfl, 14.1.1888</eventName>
         <note type="listorg">
@@ -118942,7 +119588,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208190" when-iso="1888-01-06">
-        <eventName n="Soirée">Soirée Porges, 6.1.1888</eventName>
+        <eventName n="Soirée">Soirée von Porges, 6.1.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208190/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118951,7 +119597,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb22815">Porges</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208189" when-iso="1888-01-05">
         <eventName n="Theateraufführung">Aufführung von Die Tantaliden, 5.1.1888</eventName>
         <note type="listorg">
@@ -118985,7 +119642,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208188" when-iso="1888-01-01">
-        <eventName n="Soirée">Soirée Johann und Louise Schnitzler, 1.1.1888</eventName>
+        <eventName n="Soirée">Soirée von Johann und Louise Schnitzler, 1.1.1888</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208188/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -118994,7 +119651,21 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb12701">Schnitzler, Louise</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb12695">Schnitzler, Johann</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb168765">Wohnung und Ordination Johann Schnitzler Burgring 1</placeName>
+                <location>
+                    <geo>48,20334 16,363819</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208187" when-iso="1887-12-27">
         <eventName n="Konzert">Violinkonzert von Pablo de Sarasate, 27.12.1887</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208187/</idno>
@@ -119018,7 +119689,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208186" when-iso="1887-12-26">
-        <eventName n="Soirée">Soirée Brüll, 26.12.1887</eventName>
+        <eventName n="Soirée">Soirée von Eduard Brüll, 26.12.1887</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208186/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -119027,7 +119698,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb14631">Brüll, Eduard</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb199413">Schottenring 28</placeName>
+                <location>
+                    <geo>48,216774 16,369401</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208185" when-iso="1887-12-21">
         <eventName n="Theateraufführung">Aufführung von Der Glücksritter, 21.12.1887</eventName>
         <note type="listorg">
@@ -119072,7 +119754,7 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb208183" when-iso="1887-12-16">
-        <eventName n="Ball">Ball Heidt, 16.12.1887</eventName>
+        <eventName n="Ball">Ball von Heidt, 16.12.1887</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208183/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -119082,6 +119764,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208182" when-iso="1887-12-07">
         <eventName n="Theateraufführung">Aufführung von Die blaue Grotte, 7.12.1887</eventName>
         <note type="listorg">
@@ -119115,7 +119805,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208181" when-iso="1887-12-04">
-        <eventName n="Hochzeit">Hochzeit Olga Mandl – Julius von Gans-Ludassy, 4.12.1887</eventName>
+        <eventName n="Hochzeit">Hochzeit von Olga Mandl und Julius von Gans-Ludassy, 4.12.1887</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208181/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -119131,6 +119821,14 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294905">Leopoldstädter Tempel</placeName>
+                <location>
+                    <geo>48,2139 16,385</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208180" when-iso="1887-11-28">
         <eventName n="Theateraufführung">Aufführung von Die Höll’ auf Erden, 28.11.1887</eventName>
         <note type="listorg">
@@ -120533,27 +121231,8 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb208132" when-iso="1887-03-23">
-        <eventName n="Ball">Ball und Theater Strisower, 23.3.1887</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208132/</idno>
-    <listBibl>
-    <bibl type="collections" n="31">temp-issue-227</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat als Teilnehmer:in">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
-                <location>
-                    <geo>48,216542 16,363548</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb208131" when-iso="1887-03-19">
-        <eventName n="Ball">Ball Professor Benedikt, 19.3.1887</eventName>
+        <eventName n="Ball">Ball von Moriz Benedikt, 19.3.1887</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208131/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -120562,7 +121241,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb13996">Benedikt, Moriz</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294915">Franziskanerplatz 5</placeName>
+                <location>
+                    <geo>48,20623 16,37398</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208130" when-iso="1887-03-15">
         <eventName n="Opernaufführung">Aufführung von Ein Märchen aus der Champagne, Die verwandelte Katze, 15.3.1887</eventName>
         <note type="listorg">
@@ -120600,7 +121290,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208129" when-iso="1887-03-14">
-        <eventName n="Soirée">Soirée Schwarz, 14.3.1887</eventName>
+        <eventName n="Soirée">Soirée von Schwarz, 14.3.1887</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208129/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -120610,8 +121300,16 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208128" when-iso="1887-03-13">
-        <eventName n="Soirée">Soirée Horn, 13.3.1887</eventName>
+        <eventName n="Soirée">Soirée von Wilhelm Horn, 13.3.1887</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208128/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -120620,7 +121318,18 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb18533">Horn, Wilhelm</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb294923">Kohlmarkt 10</placeName>
+                <location>
+                    <geo>48,20975 16,36861</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208127" when-iso="1887-03-12">
         <eventName n="Theateraufführung">Aufführung von Die Großherzogin von Gerolstein, 12.3.1887</eventName>
         <note type="listorg">
@@ -134007,14 +134716,14 @@
             </person>
         </listPerson>
     </event><event xml:id="pmb207563" when-iso="1880-03-05">
-        <eventName n="Vortrag">Vortrag Prof. Benedikt über Mesmerismus, 5.3.1880</eventName>
+        <eventName n="Vortrag">Vortrag Moriz Benedikt über Mesmerismus, 5.3.1880</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207563/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
 </listBibl>
         <listPerson>
             <person role="hat als Arbeitskraft">
-                <persName key="pmb13996">Benedikt, Moritz</persName>
+                <persName key="pmb13996">Benedikt, Moriz</persName>
             </person>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -138870,7 +139579,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207380" when-iso="1877-02-21">
-        <eventName n="Vortrag">Vortrag Johann Schnitzler über den Hals, 21.2.1877</eventName>
+        <eventName n="Vortrag">Vortrag von Johann Schnitzler über den Hals, 21.2.1877</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207380/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -144242,7 +144951,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb195029" when-iso="1886-02-01">
-        <eventName n="Ball">Ball bei Strisower, Februar 1886</eventName>
+        <eventName n="Ball">Ball bei Bernhard Strisower, Februar 1886</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195029/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -144251,17 +144960,11 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
-            <person role="hat als Teilnehmer:in">
+            <person role="hat als Arbeitskraft">
                 <persName key="pmb25673">Strisower, Bernhard</persName>
             </person>
         </listPerson>
         <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                <location>
-                    <geo>48,208333 16,373056</geo>
-                </location>
-            </place>
             <place>
                 <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
                 <location>
@@ -146684,6 +147387,14 @@
                 <persName key="pmb23573">Rosenberg, Leopold</persName>
             </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb665">Sankt Veit</placeName>
+                <location>
+                    <geo>48,18805 16,26638</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb186446" when-iso="1921-12-20">
         <eventName n="Theateraufführung">Aufführung von Lebendige Stunden, 20.12.1921</eventName>
         <note type="listorg">
@@ -158697,9 +159408,12 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb89633" when-iso="1887-06-21">
-        <eventName n="Privataufführung">Privataufführung Der grollende Löwe, 21.6.1887</eventName>
+    </event><event xml:id="pmb89633" when-iso="1887-03-23">
+        <eventName n="Privataufführung">Ball von Bernhard Strisower und Privataufführung von Der grollende Löwe, 23.3.1887</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89633/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
         <listBibl>
             <bibl>
                 <title key="pmb89631">Der grollende Löwe</title>
@@ -158719,7 +159433,18 @@
             <person role="hat als Arbeitskraft">
                 <persName key="pmb18523">Horn, Paul</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb25673">Strisower, Bernhard</persName>
+            </person>
         </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
+                <location>
+                    <geo>48,216542 16,363548</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb89627" when-iso="1886-03-01">
         <eventName n="Probe">Proben für Mein Mausi. Liebhaberaufführung, März 1886</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89627/</idno>
