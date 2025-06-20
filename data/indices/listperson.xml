@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-06-17">serialized</change>
+      <change when-iso="2025-06-20">serialized</change>
       
        
     </revisionDesc>
@@ -19427,6 +19427,125 @@
           
 
         </person>
+        <person xml:id="pmb27483">
+          
+  
+          <persName>
+            
+      
+            <forename>Wilhelm</forename>
+            
+      
+            <surname>Zierer</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1841-03-21">21.03.1841</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1929-11-11">11.11.1929</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="1444">Bankier/Bankierin</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27483/</idno>
+          
+  
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp55871</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q125283751</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/162926/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21556.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb27483</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208467" when-iso="1891-03-08">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Wilhelm Zierer, 8.3.1891</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208467/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
+          
+  
+          <note type="references"> </note>
+          
+
+        </person>
         <person xml:id="pmb27473">
           
   
@@ -21843,6 +21962,152 @@
           
 
         </person>
+        <person xml:id="pmb27042">
+          
+  
+          <persName>
+            
+      
+            <forename>Bernhard</forename>
+            
+      
+            <surname>Wetzler</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1839-06-24">24.06.1839</date>
+            
+      
+            <settlement key="27043">
+              
+        
+              <placeName type="pref">Metzling</placeName>
+              
+      
+            </settlement>
+            
+      
+            <settlement key="116530">
+              
+        
+              <placeName type="pref">Meclov</placeName>
+              
+        
+              <location>
+                <geo>49,50556 12,880819</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1922-05-10">10.05.1922</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="152">Industrieller/Industrielle</occupation>
+          
+  
+          <occupation key="913">Unternehmer/Unternehmerin</occupation>
+          
+  
+          <occupation key="1444">Bankier/Bankierin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21285.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27042/</idno>
+          
+  
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp55425</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/116529/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1231811218</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q64241530</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb27042.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/162795/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb162795</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208326" when-iso="1889-04-03">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Bernhard Wetzler, 3.4.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208326/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="12">Die Fackel</bibl>
+            
+
+          </listBibl>
+          
+  
+          <note type="references"> </note>
+          
+
+        </person>
         <person xml:id="pmb27007">
           
   
@@ -22599,6 +22864,21 @@
           <listEvent>
             
     
+            <event n="Soirée" key="208197" when-iso="1888-01-27">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Maximilian von Weiss-Wellenstein, 27.1.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208197/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Soirée" key="208469" when-iso="1891-03-13">
               
         
@@ -22615,6 +22895,125 @@
             
 
           </listEvent>
+          
+
+        </person>
+        <person xml:id="pmb26875">
+          
+  
+          <persName>
+            
+      
+            <forename>Gustav von</forename>
+            
+      
+            <surname>Weiss-Wellenstein</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1858-07-29">29.07.1858</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1939-02-08">08.02.1939</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="152">Industrieller/Industrielle</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21208.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26875/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/127410341</idno>
+          
+  
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41120</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q73593158</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/146738/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Soirée" key="208461" when-iso="1891-02-21">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Diner und Soirée von Gustav von Weiss-Wellenstein, 21.2.1891</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208461/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="12">Die Fackel</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -26661,6 +27060,116 @@
           
 
         </person>
+        <person xml:id="pmb25979">
+          
+  
+          <persName>
+            
+      
+            <forename>Eduard</forename>
+            
+      
+            <surname>Theimer</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1829-08-18">18.08.1829</date>
+            
+      
+            <settlement key="48098">
+              
+        
+              <placeName type="pref">Bielsko-Biała</placeName>
+              
+        
+              <location>
+                <geo>49,82245 19,04686</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1910-11-25">25.11.1910</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="103">Theaterleiter/Theaterleiterin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20694.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25979/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208202" when-iso="1888-02-11">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Eduard Theimer, 11.2.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208202/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ball" key="208318" when-iso="1889-03-10">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Eduard Theimer, 10.3.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208318/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb25968">
           
   
@@ -28064,9 +28573,6 @@
           </persName>
           
   
-          <persName type="legacy-name-merge">Strisower, Bernhard</persName>
-          
-  
           <birth>
             
     
@@ -28146,13 +28652,28 @@
             <event n="Ball" key="195029" when-iso="1886-02-01">
               
         
-              <desc n="1370">teilgenommen an</desc>
+              <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Ball bei Strisower, Februar 1886</label>
+              <label>Ball bei Bernhard Strisower, Februar 1886</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195029/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Privataufführung" key="89633" when-iso="1887-03-23">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Bernhard Strisower und Privataufführung von Der grollende Löwe, 23.3.1887</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89633/</idno>
               
     
             </event>
@@ -28269,6 +28790,49 @@
             
 
           </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb25598">
+          
+  
+          <persName>
+            
+      
+            <surname>Strauss</surname>
+            
+  
+          </persName>
+          
+  
+          <sex value="not-set"/>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20493.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25598/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208370" when-iso="1890-01-18">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Strauss, 18.1.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208370/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
           
 
         </person>
@@ -29713,6 +30277,143 @@
           
 
         </person>
+        <person xml:id="pmb25270">
+          
+  
+          <persName>
+            
+      
+            <forename>Adolf</forename>
+            
+      
+            <surname>Springer</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1840-08-01">01.08.1840</date>
+            
+      
+            <settlement key="146">
+              
+        
+              <placeName type="pref">Frankfurt am Main</placeName>
+              
+        
+              <location>
+                <geo>50,11552 8,68417</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1896-10-09">09.10.1896</date>
+            
+      
+            <settlement key="44102">
+              
+        
+              <placeName type="pref">Kaltenleutgeben</placeName>
+              
+        
+              <location>
+                <geo>48,11646 16,19956</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="1444">Bankier/Bankierin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20292.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25270/</idno>
+          
+  
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp60216</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/117173/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1035571293</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q61268684</idno>
+          
+  
+          <idno type="URL" subtype="oebl">https://doi.org/10.1553/0x00284cff</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208376" when-iso="1890-02-05">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Adolf Springer, 5.2.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208376/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Hausball" key="208459" when-iso="1891-02-18">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Adolf Springer, 18.2.1891</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208459/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="12">Die Fackel</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
         <person xml:id="pmb25265">
           
   
@@ -29811,6 +30512,99 @@
           
 
         </person>
+        <person xml:id="pmb25258">
+          
+  
+          <persName>
+            
+      
+            <forename>Wilhelm</forename>
+            
+      
+            <surname>Spitzer</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1848-05-28">28.05.1848</date>
+            
+      
+            <settlement key="48142">
+              
+        
+              <placeName type="pref">Malacky</placeName>
+              
+        
+              <location>
+                <geo>48,43604 17,02188</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1919-05-20">20.5.1919?</date>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="300">Fabrikant/Fabrikantin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20285.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25258/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q55891202</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Soirée" key="208291" when-iso="1888-12-23">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Wilhelm und Adele Spitzer, 23.12.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208291/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
         <person xml:id="pmb25240">
           
   
@@ -29895,10 +30689,105 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Ball Gustav Spitzer, 28.1.1889</label>
+              <label>Ball von Gustav Spitzer, 28.1.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208307/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
+        <person xml:id="pmb25230">
+          
+  
+          <persName>
+            
+      
+            <forename>Adele</forename>
+            
+      
+            <surname>Spitzer</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Wolf</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1862-07-22">22.07.1862</date>
+            
+      
+            <settlement key="64475">
+              
+        
+              <placeName type="pref">Hranice</placeName>
+              
+        
+              <location>
+                <geo>49,56018 17,70413</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1899-05-31">31.05.1899</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="female"/>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20274.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25230/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Soirée" key="208291" when-iso="1888-12-23">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Wilhelm und Adele Spitzer, 23.12.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208291/</idno>
               
     
             </event>
@@ -39550,6 +40439,21 @@
           <listEvent>
             
     
+            <event n="Ball" key="208322" when-iso="1889-03-17">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Leopold Rosenberg, 17.3.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208322/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Private Lesung" key="186708" when-iso="1889-09-29">
               
         
@@ -39560,6 +40464,36 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186708/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ball" key="208377" when-iso="1890-02-05">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Leopold Rosenberg, 5.2.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208377/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Soirée" key="208422" when-iso="1890-11-15">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Leopold Rosenberg, 15.11.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208422/</idno>
               
     
             </event>
@@ -41181,6 +42115,122 @@
           
 
         </person>
+        <person xml:id="pmb22918">
+          
+  
+          <persName>
+            
+      
+            <forename>Ignaz</forename>
+            
+      
+            <surname>Pserhofer</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1835-04-22">22.04.1835</date>
+            
+      
+            <settlement key="88294">
+              
+        
+              <placeName type="pref">Pápa</placeName>
+              
+        
+              <location>
+                <geo>47,33004 17,4674</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1910-11-23">23.11.1910</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="503">Apotheker/Apothekerin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18986.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22918/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb22918.html</idno>
+          
+
+          <affiliation when-iso="1869-02-09">
+            
+    
+            <term key="1409">besitzt</term>
+            
+    
+            <orgName key="88296">Zum goldenen Reichsapfel</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88296/</idno>
+            
+    
+            <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Zum_goldenen_Reichsapfel_(Apotheke)?uselayout=mobile/ereignisse/attribute/glossar</idno>
+            
+
+          </affiliation>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208444" when-iso="1891-01-10">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Ignaz Pserhofer, 10.1.1891</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208444/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb22858">
           
   
@@ -41303,6 +42353,52 @@
             
 
           </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb22815">
+          
+  
+          <persName>
+            
+      
+            <surname>Porges</surname>
+            
+  
+          </persName>
+          
+  
+          <sex value="male"/>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18921.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22815/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb22815.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Soirée" key="208190" when-iso="1888-01-06">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Porges, 6.1.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208190/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
           
 
         </person>
@@ -41597,6 +42693,113 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208511/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb22746">
+          
+  
+          <persName>
+            
+      
+            <forename>Ludwig</forename>
+            
+      
+            <surname>Pollak</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1830-05-06">06.05.1830</date>
+            
+      
+            <settlement key="185993">
+              
+        
+              <placeName type="pref">Všeradice</placeName>
+              
+        
+              <location>
+                <geo>49,873735320284 14,104820018162</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1905-06-25">25.06.1905</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="1444">Bankier/Bankierin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18889.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22746/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q125283700</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Vereinstreffen" key="208316" when-iso="1889-03-07">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Besuch einer Kegelbahn, 7.3.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208316/</idno>
               
     
             </event>
@@ -45204,6 +46407,114 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238135/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb21889">
+          
+  
+          <persName>
+            
+      
+            <forename>Ferdinand</forename>
+            
+      
+            <surname>Neumann</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1853-08-19">19.08.1853</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1928-01-01" notAfter-iso="1928-12-31">1928</date>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18415.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb21889.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21889/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q125268425</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208201" when-iso="1888-02-03">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Ferdinand Neumann, 3.2.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208201/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ball" key="208378" when-iso="1890-02-07">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Ferdinand Neumann, 7.2.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208378/</idno>
               
     
             </event>
@@ -49551,7 +50862,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Kompositionskonzert, 29.2.1888</label>
+              <label>Kompositionskonzert von Richard Mandl, 29.2.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208210/</idno>
@@ -49627,6 +50938,116 @@
             
     
             <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb20911">
+          
+  
+          <persName>
+            
+      
+            <forename>Ludwig</forename>
+            
+      
+            <surname>Mandl</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1828-11-24">24.11.1828</date>
+            
+      
+            <settlement key="53812">
+              
+        
+              <placeName type="pref">Veszprém</placeName>
+              
+        
+              <location>
+                <geo>47,09327 17,91149</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1893-12-04">04.12.1893</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="175">Kaufmann/Kauffrau</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17826.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb20911.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20911/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94826203</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Silberne Hochzeit" key="208364" when-iso="1889-12-25">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Silberne Hochzeit von Ludwig und Irene Mandl, 25.12.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208364/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
 
           </listBibl>
@@ -49715,6 +51136,21 @@
           <listEvent>
             
     
+            <event n="Silberne Hochzeit" key="208364" when-iso="1889-12-25">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Silberne Hochzeit von Ludwig und Irene Mandl, 25.12.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208364/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Premiere" key="186231" when-iso="1908-11-10">
               
         
@@ -49725,6 +51161,101 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186231/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
+        <person xml:id="pmb20893">
+          
+  
+          <persName>
+            
+      
+            <forename>Ferdinand</forename>
+            
+      
+            <surname>Mandl</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1830-01-15">15.01.1830</date>
+            
+      
+            <settlement key="53812">
+              
+        
+              <placeName type="pref">Veszprém</placeName>
+              
+        
+              <location>
+                <geo>47,09327 17,91149</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1912-12-16">16.12.1912</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="97">Mediziner/Medizinerin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17819.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20893/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Polterabend" key="208398" when-iso="1890-05-03">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Polterabend von Ferdinand Mandl, 3.5.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208398/</idno>
               
     
             </event>
@@ -54023,7 +55554,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Konzert Gustav Kühle, 26.4.1889</label>
+              <label>Konzert mit Gustav Kühle und Malvine Drucker, 26.4.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208330/</idno>
@@ -55880,6 +57411,101 @@
           
 
         </person>
+        <person xml:id="pmb19512">
+          
+  
+          <persName>
+            
+      
+            <forename>Innozenz</forename>
+            
+      
+            <surname>Kohnberger</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1849-11-23">23.11.1849</date>
+            
+      
+            <settlement key="51354">
+              
+        
+              <placeName type="pref">Třebíč</placeName>
+              
+        
+              <location>
+                <geo>49,21492 15,88166</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1911-10-25">25.10.1911</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="175">Kaufmann/Kauffrau</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16996.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19512/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Soirée" key="208329" when-iso="1889-04-21">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Innozenz Kohnberger, 21.4.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208329/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb19489">
           
   
@@ -56480,6 +58106,131 @@
             
 
           </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb19409">
+          
+  
+          <persName>
+            
+      
+            <forename>Leopold</forename>
+            
+      
+            <surname>Klein</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1831-01-01">1831?</date>
+            
+      
+            <settlement key="64561">
+              
+        
+              <placeName type="pref">Nitra</placeName>
+              
+        
+              <location>
+                <geo>48,30763 18,08453</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1898-03-23">23.03.1898</date>
+            
+      
+            <settlement key="43520">
+              
+        
+              <placeName type="pref">Meran</placeName>
+              
+        
+              <location>
+                <geo>46,66817 11,15953</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="695">Grundbesitzer/Grundbesitzerin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16892.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19409/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208302" when-iso="1889-01-19">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Leopold Klein, 19.1.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208302/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ball" key="208392" when-iso="1890-03-28">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Leopold Klein, 28.3.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208392/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ball" key="208439" when-iso="1890-12-28">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Leopold Klein, 28.12.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208439/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
           
 
         </person>
@@ -62151,6 +63902,101 @@
           
 
         </person>
+        <person xml:id="pmb18533">
+          
+  
+          <persName>
+            
+      
+            <forename>Wilhelm</forename>
+            
+      
+            <surname>Horn</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1834-06-16">16.06.1834</date>
+            
+      
+            <settlement key="51049">
+              
+        
+              <placeName type="pref">Prostějov</placeName>
+              
+        
+              <location>
+                <geo>49,47188 17,11184</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1905-03-15">15.03.1905</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="175">Kaufmann/Kauffrau</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16368.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18533/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Soirée" key="208128" when-iso="1887-03-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Wilhelm Horn, 13.3.1887</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208128/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb18530">
           
   
@@ -62373,13 +64219,13 @@
             </event>
             
     
-            <event n="Privataufführung" key="89633" when-iso="1887-06-21">
+            <event n="Privataufführung" key="89633" when-iso="1887-03-23">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Privataufführung Der grollende Löwe, 21.6.1887</label>
+              <label>Ball von Bernhard Strisower und Privataufführung von Der grollende Löwe, 23.3.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89633/</idno>
@@ -63708,13 +65554,13 @@
             </event>
             
     
-            <event n="Privataufführung" key="89633" when-iso="1887-06-21">
+            <event n="Privataufführung" key="89633" when-iso="1887-03-23">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Privataufführung Der grollende Löwe, 21.6.1887</label>
+              <label>Ball von Bernhard Strisower und Privataufführung von Der grollende Löwe, 23.3.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89633/</idno>
@@ -64988,6 +66834,116 @@
             
     
             <bibl type="collections" n="28">Brahms Online</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb18081">
+          
+  
+          <persName>
+            
+      
+            <forename>Bernhard</forename>
+            
+      
+            <surname>Hellmann</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1838-05-08">08.05.1838</date>
+            
+      
+            <settlement key="652">
+              
+        
+              <placeName type="pref">Prag</placeName>
+              
+        
+              <location>
+                <geo>50,08333 14,46667</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1901-08-23">23.08.1901</date>
+            
+      
+            <settlement key="46000">
+              
+        
+              <placeName type="pref">Grundlsee [Gemeinde]</placeName>
+              
+        
+              <location>
+                <geo>47,61667 13,81667</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="152">Industrieller/Industrielle</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16072.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18081/</idno>
+          
+  
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp45812</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q125283653</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208387" when-iso="1890-03-09">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Bernhard Hellmann, 9.3.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208387/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
 
           </listBibl>
@@ -66556,6 +68512,104 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46005/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
+        <person xml:id="pmb17588">
+          
+  
+          <persName>
+            
+      
+            <forename>Edmund von</forename>
+            
+      
+            <surname>Gutmann-Gelse</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1841-03-03">03.03.1841</date>
+            
+      
+            <settlement key="45549">
+              
+        
+              <placeName type="pref">Nagykanizsa</placeName>
+              
+        
+              <location>
+                <geo>46,45347 16,99104</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1918-01-17">17.01.1918</date>
+            
+      
+            <settlement key="90320">
+              
+        
+              <placeName type="pref">Belišće</placeName>
+              
+        
+              <location>
+                <geo>45,6799 18,40073</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="152">Industrieller/Industrielle</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15776.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17588/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb17588.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208203" when-iso="1888-02-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Edmund von Gutmann-Gelse, 13.2.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208203/</idno>
               
     
             </event>
@@ -68988,7 +71042,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Hochzeit Olga Mandl – Julius von Gans-Ludassy, 4.12.1887</label>
+              <label>Hochzeit von Olga Mandl und Julius von Gans-Ludassy, 4.12.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208181/</idno>
@@ -69152,6 +71206,101 @@
           
 
         </person>
+        <person xml:id="pmb16835">
+          
+  
+          <persName>
+            
+      
+            <forename>Jakob?</forename>
+            
+      
+            <surname>Fürst</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1822-01-01">1822?</date>
+            
+      
+            <settlement key="39615">
+              
+        
+              <placeName type="pref">Bratislava</placeName>
+              
+        
+              <location>
+                <geo>48,14816 17,10674</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1898-07-26">26.07.1898</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="175">Kaufmann/Kauffrau</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15289.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16835/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Soirée" key="208305" when-iso="1889-01-26">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Jakob? Fürst, 26.1.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208305/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb16829">
           
   
@@ -69205,13 +71354,13 @@
           <listEvent>
             
     
-            <event n="Privataufführung" key="89633" when-iso="1887-06-21">
+            <event n="Privataufführung" key="89633" when-iso="1887-03-23">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Privataufführung Der grollende Löwe, 21.6.1887</label>
+              <label>Ball von Bernhard Strisower und Privataufführung von Der grollende Löwe, 23.3.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89633/</idno>
@@ -73663,6 +75812,101 @@
           
 
         </person>
+        <person xml:id="pmb15841">
+          
+  
+          <persName>
+            
+      
+            <forename>David</forename>
+            
+      
+            <surname>Elias</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1836-10-20">20.10.1836</date>
+            
+      
+            <settlement key="64561">
+              
+        
+              <placeName type="pref">Nitra</placeName>
+              
+        
+              <location>
+                <geo>48,30763 18,08453</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1896-11-19">19.11.1896</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="97">Mediziner/Medizinerin</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15841/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14716.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Polterabend" key="208287" when-iso="1888-12-06">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Polterabend von David Elias, 6.12.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208287/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb15786">
           
   
@@ -74584,6 +76828,64 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/289104/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
+        <person xml:id="pmb15492">
+          
+  
+          <persName>
+            
+      
+            <forename>Malvine</forename>
+            
+      
+            <surname>Drucker</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1871-01-01">1871</date>
+            
+  
+          </birth>
+            
+  
+          <sex value="female"/>
+          
+  
+          <occupation key="107">Sänger/Sängerin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14523.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15492/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Konzert" key="208330" when-iso="1889-04-26">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Konzert mit Gustav Kühle und Malvine Drucker, 26.4.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208330/</idno>
               
     
             </event>
@@ -77141,6 +79443,21 @@
             </event>
             
     
+            <event n="Schulvortragsabend" key="208361" when-iso="1889-12-11">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Private Lesung" key="186943" when-iso="1890-03-24">
               
         
@@ -78946,6 +81263,87 @@
           
 
         </person>
+        <person xml:id="pmb14743">
+          
+  
+          <persName>
+            
+      
+            <forename>Bernhard</forename>
+            
+      
+            <surname>Bächer</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1840-09-01">01.09.1840</date>
+            
+      
+            <settlement key="652">
+              
+        
+              <placeName type="pref">Prag</placeName>
+              
+        
+              <location>
+                <geo>50,08333 14,46667</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1909-12-01">1909-12-01</date>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="175">Kaufmann/Kauffrau</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13367.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14743/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208193" when-iso="1888-01-16">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Bernhard Bächer, 16.1.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208193/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb14734">
           
   
@@ -79322,6 +81720,87 @@
           
   
           <note type="references"> </note>
+          
+
+        </person>
+        <person xml:id="pmb14631">
+          
+  
+          <persName>
+            
+      
+            <forename>Eduard</forename>
+            
+      
+            <surname>Brüll</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1829-12-29">29.12.1829</date>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1898-05-31">31.05.1898</date>
+            
+      
+            <settlement key="877">
+              
+        
+              <placeName type="pref">Unterach am Attersee</placeName>
+              
+        
+              <location>
+                <geo>47,80494 13,48728</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="175">Kaufmann/Kauffrau</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14010.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14631/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Soirée" key="208186" when-iso="1887-12-26">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Eduard Brüll, 26.12.1887</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208186/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
           
 
         </person>
@@ -81901,6 +84380,128 @@
           
 
         </person>
+        <person xml:id="pmb14097">
+          
+  
+          <persName>
+            
+      
+            <surname>Bermann</surname>
+            
+  
+          </persName>
+          
+  
+          <sex value="male"/>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13652.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14097/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Ball" key="208218" when-iso="1888-03-19">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Bermann, 19.3.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208218/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Tanz" key="208296" when-iso="1889-01-10">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Tanz von Bermann, 10.1.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208296/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ball" key="208300" when-iso="1889-01-17">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Bermann, 17.1.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208300/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
+        <person xml:id="pmb14077">
+          
+  
+          <persName>
+            
+      
+            <forename>John Simeon</forename>
+            
+      
+            <surname>Bergheim</surname>
+            
+  
+          </persName>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="554">Grubenbesitzer/Grubenbesitzerin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13636.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14077/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Soirée" key="208381" when-iso="1890-02-17">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von John Simeon Bergheim, 17.2.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208381/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb14029">
           
   
@@ -82006,16 +84607,13 @@
           <persName>
             
       
-            <forename>Moritz</forename>
+            <forename>Moriz</forename>
             
       
             <surname>Benedikt</surname>
             
   
           </persName>
-          
-  
-          <persName type="legacy-name-merge">Benedikt, Moriz</persName>
           
   
           <birth>
@@ -82165,10 +84763,25 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Vortrag Prof. Benedikt über Mesmerismus, 5.3.1880</label>
+              <label>Vortrag Moriz Benedikt über Mesmerismus, 5.3.1880</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207563/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ball" key="208131" when-iso="1887-03-19">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Moriz Benedikt, 19.3.1887</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208131/</idno>
               
     
             </event>
@@ -99992,6 +102605,36 @@
           <listEvent>
             
     
+            <event n="Soirée" key="208188" when-iso="1888-01-01">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Johann und Louise Schnitzler, 1.1.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208188/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ball" key="208293" when-iso="1889-01-01">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Johann und Louise Schnitzler, 1.1.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208293/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Schulaufführung" key="89901" when-iso="1891-05-13">
               
         
@@ -100902,7 +103545,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Vortrag Johann Schnitzler über den Hals, 21.2.1877</label>
+              <label>Vortrag von Johann Schnitzler über den Hals, 21.2.1877</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207380/</idno>
@@ -100921,6 +103564,36 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207497/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Soirée" key="208188" when-iso="1888-01-01">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée von Johann und Louise Schnitzler, 1.1.1888</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208188/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ball" key="208293" when-iso="1889-01-01">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball von Johann und Louise Schnitzler, 1.1.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208293/</idno>
               
     
             </event>
@@ -121951,13 +124624,28 @@
             </event>
             
     
-            <event n="Theateraufführung" key="208397" when-iso="1890-04-26">
+            <event n="Konzert" key="208385" when-iso="1890-03-01">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Aristokraten-Vorstellung (Metternich-Theater), 26.4.1890</label>
+              <label>Gala-Konzert zum Besten des Wiener Konservatoriums, 1.3.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208385/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Generalprobe" key="208397" when-iso="1890-04-26">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Generalprobe der Aristokraten-Vorstellung, 26.4.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208397/</idno>
@@ -140449,7 +143137,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Hochzeit Olga Mandl – Julius von Gans-Ludassy, 4.12.1887</label>
+              <label>Hochzeit von Olga Mandl und Julius von Gans-Ludassy, 4.12.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208181/</idno>
@@ -174948,7 +177636,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Volkssänger Hirsch, 21.12.1889</label>
+              <label>Konzert von Albert Hirsch, 21.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208362/</idno>
@@ -189889,6 +192577,119 @@
             
 
           </figure>
+          
+
+        </person>
+        <person xml:id="pmb3814">
+          
+  
+          <persName>
+            
+      
+            <forename>Edmund</forename>
+            
+      
+            <surname>Markbreiter</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1842-05-02">02.05.1842</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1909-03-31">1909-03-31</date>
+            
+      
+            <settlement key="880">
+              
+        
+              <placeName type="pref">Chicago</placeName>
+              
+        
+              <location>
+                <geo>41,85003 -87,65005</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/139710450</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17899.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3814.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3814/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q55844800</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Diner" key="294892" when-iso="1887-12-26">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Diner von Edmund Markbreiter, 26.12.1887</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294892/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -222190,7 +224991,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Vortrag Johann Schnitzler über den Hals, 21.2.1877</label>
+              <label>Vortrag von Johann Schnitzler über den Hals, 21.2.1877</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207380/</idno>
@@ -224905,7 +227706,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Vortrag Prof. Benedikt über Mesmerismus, 5.3.1880</label>
+              <label>Vortrag Moriz Benedikt über Mesmerismus, 5.3.1880</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207563/</idno>
@@ -231598,7 +234399,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball bei Strisower, Februar 1886</label>
+              <label>Ball bei Bernhard Strisower, Februar 1886</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195029/</idno>
@@ -233488,7 +236289,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Horn, 13.3.1887</label>
+              <label>Soirée von Wilhelm Horn, 13.3.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208128/</idno>
@@ -233503,7 +236304,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Schwarz, 14.3.1887</label>
+              <label>Soirée von Schwarz, 14.3.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208129/</idno>
@@ -233533,7 +236334,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Professor Benedikt, 19.3.1887</label>
+              <label>Ball von Moriz Benedikt, 19.3.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208131/</idno>
@@ -233542,16 +236343,16 @@
             </event>
             
     
-            <event n="Ball" key="208132" when-iso="1887-03-23">
+            <event n="Privataufführung" key="89633" when-iso="1887-03-23">
               
         
-              <desc n="1370">teilgenommen an</desc>
+              <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Ball und Theater Strisower, 23.3.1887</label>
+              <label>Ball von Bernhard Strisower und Privataufführung von Der grollende Löwe, 23.3.1887</label>
               
         
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208132/</idno>
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89633/</idno>
               
     
             </event>
@@ -233777,21 +236578,6 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208147/</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Privataufführung" key="89633" when-iso="1887-06-21">
-              
-        
-              <desc n="1256">ist Arbeitskraft bei</desc>
-              
-        
-              <label>Privataufführung Der grollende Löwe, 21.6.1887</label>
-              
-        
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89633/</idno>
               
     
             </event>
@@ -234298,7 +237084,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Hochzeit Olga Mandl – Julius von Gans-Ludassy, 4.12.1887</label>
+              <label>Hochzeit von Olga Mandl und Julius von Gans-Ludassy, 4.12.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208181/</idno>
@@ -234328,7 +237114,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Heidt, 16.12.1887</label>
+              <label>Ball von Heidt, 16.12.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208183/</idno>
@@ -234388,10 +237174,25 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Brüll, 26.12.1887</label>
+              <label>Soirée von Eduard Brüll, 26.12.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208186/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Diner" key="294892" when-iso="1887-12-26">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Diner von Edmund Markbreiter, 26.12.1887</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294892/</idno>
               
     
             </event>
@@ -234418,7 +237219,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Johann und Louise Schnitzler, 1.1.1888</label>
+              <label>Soirée von Johann und Louise Schnitzler, 1.1.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208188/</idno>
@@ -234448,7 +237249,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Porges, 6.1.1888</label>
+              <label>Soirée von Porges, 6.1.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208190/</idno>
@@ -234493,7 +237294,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Baecher, 16.1.1888</label>
+              <label>Ball von Bernhard Bächer, 16.1.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208193/</idno>
@@ -234553,7 +237354,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Weiß-Wellenstein, 27.1.1888</label>
+              <label>Soirée von Maximilian von Weiss-Wellenstein, 27.1.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208197/</idno>
@@ -234628,7 +237429,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Neumann, 3.2.1888</label>
+              <label>Ball von Ferdinand Neumann, 3.2.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208201/</idno>
@@ -234643,7 +237444,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Theimer, 11.2.1888</label>
+              <label>Ball von Eduard Theimer, 11.2.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208202/</idno>
@@ -234658,7 +237459,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Guttmann, 13.2.1888</label>
+              <label>Ball von Edmund von Gutmann-Gelse, 13.2.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208203/</idno>
@@ -234748,7 +237549,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Poliklinikball, 28.2.1888</label>
+              <label>Tanzkränzchen zu Gunsten der Allgemeinen Poliklinik, 28.2.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208209/</idno>
@@ -234763,7 +237564,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Kompositionskonzert, 29.2.1888</label>
+              <label>Kompositionskonzert von Richard Mandl, 29.2.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208210/</idno>
@@ -234883,7 +237684,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Bermann, 19.3.1888</label>
+              <label>Ball von Bermann, 19.3.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208218/</idno>
@@ -235927,13 +238728,13 @@
             </event>
             
     
-            <event n="Ball" key="208287" when-iso="1888-12-06">
+            <event n="Polterabend" key="208287" when-iso="1888-12-06">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Elias, 6.12.1888</label>
+              <label>Polterabend von David Elias, 6.12.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208287/</idno>
@@ -235993,7 +238794,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Wolf Spitzer, 23.12.1888</label>
+              <label>Soirée von Wilhelm und Adele Spitzer, 23.12.1888</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208291/</idno>
@@ -236023,7 +238824,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Johann und Louise Schnitzler, 1.1.1889</label>
+              <label>Ball von Johann und Louise Schnitzler, 1.1.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208293/</idno>
@@ -236038,7 +238839,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Polterabend Zinner, 1.1.1889</label>
+              <label>Polterabend von Zinner, 1.1.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208294/</idno>
@@ -236068,7 +238869,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Tanz Bermann, 10.1.1889</label>
+              <label>Tanz von Bermann, 10.1.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208296/</idno>
@@ -236128,7 +238929,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Bermann, 17.1.1889</label>
+              <label>Ball von Bermann, 17.1.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208300/</idno>
@@ -236158,7 +238959,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Klein, 19.1.1889</label>
+              <label>Ball von Leopold Klein, 19.1.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208302/</idno>
@@ -236203,7 +239004,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Fürst, 26.1.1889</label>
+              <label>Soirée von Jakob? Fürst, 26.1.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208305/</idno>
@@ -236233,7 +239034,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Gustav Spitzer, 28.1.1889</label>
+              <label>Ball von Gustav Spitzer, 28.1.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208307/</idno>
@@ -236383,7 +239184,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Kegelklub Pollak, 7.3.1889</label>
+              <label>Besuch einer Kegelbahn, 7.3.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208316/</idno>
@@ -236398,7 +239199,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Kränzchen, 9.3.1889</label>
+              <label>Kränzchen im Musikverein, 9.3.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208317/</idno>
@@ -236413,7 +239214,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Theimer, 10.3.1889</label>
+              <label>Ball von Eduard Theimer, 10.3.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208318/</idno>
@@ -236422,13 +239223,13 @@
             </event>
             
     
-            <event n="Ball" key="208319" when-iso="1889-03-12">
+            <event n="Kränzchen" key="208319" when-iso="1889-03-12">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Poliklinik-Ball, 12.3.1889</label>
+              <label>Kränzchen zu Gunsten der Allgemeinen Poliklinik, 12.3.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208319/</idno>
@@ -236467,13 +239268,13 @@
             </event>
             
     
-            <event n="Soirée" key="208322" when-iso="1889-03-17">
+            <event n="Ball" key="208322" when-iso="1889-03-17">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Rosenberg, 17.3.1889</label>
+              <label>Ball von Leopold Rosenberg, 17.3.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208322/</idno>
@@ -236503,7 +239304,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ärztliches Vereinstreffen zweiter Bezirk, 23.3.1889</label>
+              <label>Ärztlicher Vereinsabend, 23.3.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208324/</idno>
@@ -236518,7 +239319,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ärztliches Vereinstreffen erster Bezirk, 30.3.1889</label>
+              <label>Ärztlicher Vereinsabend, 30.3.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208325/</idno>
@@ -236533,7 +239334,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Wetzler, 3.4.1889</label>
+              <label>Ball von Bernhard Wetzler, 3.4.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208326/</idno>
@@ -236578,7 +239379,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Kohnberger, 21.4.1889</label>
+              <label>Soirée von Innozenz Kohnberger, 21.4.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208329/</idno>
@@ -236593,7 +239394,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konzert Gustav Kühle, 26.4.1889</label>
+              <label>Konzert mit Gustav Kühle und Malvine Drucker, 26.4.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208330/</idno>
@@ -236893,7 +239694,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Vereinstreffen Concordia, 13.10.1889</label>
+              <label>Vereinstreffen der Concordia, 13.10.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208348/</idno>
@@ -236938,7 +239739,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatorium. Vortragsabend, 2.11.1889</label>
+              <label>Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208350/</idno>
@@ -237088,7 +239889,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatorium. Vortragsabend, 4.12.1889</label>
+              <label>Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 4.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208359/</idno>
@@ -237148,7 +239949,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatorium. Vortragsabend, 11.12.1889</label>
+              <label>Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
@@ -237178,7 +239979,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Volkssänger Hirsch, 21.12.1889</label>
+              <label>Konzert von Albert Hirsch, 21.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208362/</idno>
@@ -237202,13 +240003,13 @@
             </event>
             
     
-            <event n="Feier" key="208364" when-iso="1889-12-25">
+            <event n="Silberne Hochzeit" key="208364" when-iso="1889-12-25">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Silberne Hochzeitsfeier Mandl, 25.12.1889</label>
+              <label>Silberne Hochzeit von Ludwig und Irene Mandl, 25.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208364/</idno>
@@ -237298,7 +240099,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Strauss, 18.1.1890</label>
+              <label>Ball von Strauss, 18.1.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208370/</idno>
@@ -237388,7 +240189,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Springer, 5.2.1890</label>
+              <label>Ball von Adolf Springer, 5.2.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208376/</idno>
@@ -237403,7 +240204,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Rosenberg, 5.2.1890</label>
+              <label>Ball von Leopold Rosenberg, 5.2.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208377/</idno>
@@ -237418,7 +240219,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Neumann, 7.2.1890</label>
+              <label>Ball von Ferdinand Neumann, 7.2.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208378/</idno>
@@ -237478,7 +240279,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Bergheim, 17.2.1890</label>
+              <label>Soirée von John Simeon Bergheim, 17.2.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208381/</idno>
@@ -237523,7 +240324,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriums-Vorstellung, 27.2.1890</label>
+              <label>Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 27.2.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208384/</idno>
@@ -237538,7 +240339,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Galakonzert, 1.3.1890</label>
+              <label>Gala-Konzert zum Besten des Wiener Konservatoriums, 1.3.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208385/</idno>
@@ -237553,7 +240354,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Poliklinik-Kränzchen, 4.3.1890</label>
+              <label>Kränzchen zu Gunsten der Allgemeinen Poliklinik, 4.3.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208386/</idno>
@@ -237568,7 +240369,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Heller, 9.3.1890</label>
+              <label>Ball von Bernhard Hellmann, 9.3.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208387/</idno>
@@ -237613,7 +240414,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriums-Vorstellung, 20.3.1890</label>
+              <label>Erste Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 20.3.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208389/</idno>
@@ -237673,7 +240474,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriums-Vorstellung, 26.3.1890</label>
+              <label>Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 26.3.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208391/</idno>
@@ -237688,7 +240489,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Klein, 28.3.1890</label>
+              <label>Ball von Leopold Klein, 28.3.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208392/</idno>
@@ -237703,7 +240504,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriumskonzert, 29.3.1890</label>
+              <label>Vorstellung der Opernschule des Konservatoriums der Gesellschaft der Musikfreunde, 29.3.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208393/</idno>
@@ -237772,13 +240573,13 @@
             </event>
             
     
-            <event n="Theateraufführung" key="208397" when-iso="1890-04-26">
+            <event n="Generalprobe" key="208397" when-iso="1890-04-26">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Aristokraten-Vorstellung (Metternich-Theater), 26.4.1890</label>
+              <label>Generalprobe der Aristokraten-Vorstellung, 26.4.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208397/</idno>
@@ -237793,7 +240594,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Polterabend Mandl, 3.5.1890</label>
+              <label>Polterabend von Ferdinand Mandl, 3.5.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208398/</idno>
@@ -237823,7 +240624,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriums-Vorstellung, 12.5.1890</label>
+              <label>Erste Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 12.5.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208400/</idno>
@@ -237838,7 +240639,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriums-Vorstellung, 19.5.1890</label>
+              <label>Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 19.5.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208401/</idno>
@@ -237853,7 +240654,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Concours Konservatorium, 23.6.1890</label>
+              <label>Concours des Konservatoriums der Gesellschaft der Musikfreunde, 23.6.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208402/</idno>
@@ -238153,7 +240954,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Soirée Rosenberg, 15.11.1890</label>
+              <label>Soirée von Leopold Rosenberg, 15.11.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208422/</idno>
@@ -238423,7 +241224,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Klein, 28.12.1890</label>
+              <label>Ball von Leopold Klein, 28.12.1890</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208439/</idno>
@@ -238528,7 +241329,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Pserhofer, 10.1.1891</label>
+              <label>Ball von Ignaz Pserhofer, 10.1.1891</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208444/</idno>
@@ -238768,7 +241569,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Springer, 18.2.1891</label>
+              <label>Ball von Adolf Springer, 18.2.1891</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208459/</idno>
@@ -238798,7 +241599,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Diner und Soirée Weiss-Wellenstein, 21.2.1891</label>
+              <label>Diner und Soirée von Gustav von Weiss-Wellenstein, 21.2.1891</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208461/</idno>
@@ -238837,13 +241638,13 @@
             </event>
             
     
-            <event n="Ball" key="208464" when-iso="1891-02-25">
+            <event n="Kränzchen" key="208464" when-iso="1891-02-25">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Poliklinik-Ball, 25.2.1891</label>
+              <label>Kränzchen zu Gunsten der Allgemeinen Poliklinik, 25.2.1891</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208464/</idno>
@@ -238903,7 +241704,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Zierer, 8.3.1891</label>
+              <label>Ball von Wilhelm Zierer, 8.3.1891</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208467/</idno>
@@ -284593,7 +287394,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ausstellungsbesuch Ausstellung von Edmund Pick-Morino und anderen, 24.3.1921</label>
+              <label>Ausstellungsbesuch Atelierausstellung von Edmund Pick-Morino, Johanna Kampmann und anderen, 24.3.1921</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/292687/</idno>
