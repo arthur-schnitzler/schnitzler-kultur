@@ -49,17 +49,18 @@
               war.</p>
           </item>
           <item>
-            <q>Wie sind Fehler in den Listen ausgezeichnet?</q>
+            <q>Wie sind Fehler in Schnitzlers Theaterliste und anderen seiner Listen
+              ausgezeichnet?</q>
             <p>Gar nicht. Wir haben uns entschieden, die von Schnitzler gesammelten Informationen zu
-              verwerten, nicht aber kritisch zu edieren. Das liegt einerseits an unserem Fokus –
-              unser Interesse lag nicht an der Liste, sondern an einem vollständigen Verzeichnis
-              jener Art von Information, um die sich die Liste bemühte. Das liegt andererseits
-              daran, dass gerade bei Datierungen sehr häufig Abweichungen um einen oder zwei Tage
-              vorliegen. Das dürfte vor allem dadurch verursacht sein, dass Schnitzlers Handschrift
-              notorisch schwer lesbar ist und entsprechend schnell ein Abschreibfehler entstand. Für
-              die Jahre, für die keine Notizkalender vorliegen, könnte die Ursache auch sein, dass
-              es Kalender waren und Schnitzlers Eintragungen nicht immer mit Sicherheit einem Tag
-              oder dem Folgetag zugeordnet werden konnten.</p>
+              verwerten, nicht aber zu edieren. Das liegt einerseits an unserem Fokus – unser
+              Interesse lag nicht an der Liste, sondern an einem vollständigen Verzeichnis jener Art
+              von Information, um die sich die Liste bemühte. Das liegt andererseits daran, dass
+              gerade bei Datierungen sehr häufig Abweichungen um einen oder zwei Tage vorliegen. Das
+              dürfte vor allem dadurch verursacht sein, dass Schnitzlers Handschrift notorisch
+              schwer lesbar ist und entsprechend schnell ein Abschreibfehler entstand. Für die
+              Jahre, für die keine Notizkalender vorliegen, könnte die Ursache auch sein, dass es
+              Kalender waren und Schnitzlers Eintragungen nicht immer mit Sicherheit einem Tag oder
+              dem Folgetag zugeordnet werden konnten.</p>
           </item>
           <item>
             <q>Mit welcher Logik wurden Fehler stillschweigend behoben?</q>
@@ -105,17 +106,16 @@
           </item>
           <item>
             <q>Wie hältst Du’s mit den Organisationen?</q>
-            <p>Diese sind die unschärfste Kategorisierung, die wir in den Daten haben. Entsprechend 
-            sind auch die Angaben nicht auf Vollständigkeit aus. Aber wenn wir wussten, dass eine 
-            Musikgruppe (Wiener Philharmoniker, Quartett Rosé…) an einer Veranstaltung beteiligt
-            war, haben wir das vermerkt. Wenn ein bestimmtes Kartenbüro (hauptsächlich die Concert-Direktion Albert Gutmann und
-            die Buchhandlung
-            Hugo Heller) die Veranstaltung beworben haben, haben wir sie in Bezug zur 
-            Veranstaltung gesetzt. Bei Theatern wurde üblicherweise der Spielort als Orientierung
-            für die veranstaltende Organisation benutzt. Die Ausnahmen sind hier von besonderem
-          Interesse. Wer etwa Gastspiele des Deutschen Theaters in Wien sucht, kann über die
-          Organisation und den Ort fündig werden. </p>
-            
+            <p>Diese sind die unschärfste Kategorisierung, die wir in den Daten haben. Entsprechend
+              sind auch die Angaben nicht auf Vollständigkeit aus. Aber wenn wir wussten, dass eine
+              Musikgruppe (Wiener Philharmoniker, Quartett Rosé…) an einer Veranstaltung beteiligt
+              war, haben wir das vermerkt. Wenn ein bestimmtes Kartenbüro (hauptsächlich die
+              Concert-Direktion Albert Gutmann und die Buchhandlung Hugo Heller) die Veranstaltung
+              beworben haben, haben wir sie in Bezug zur Veranstaltung gesetzt. Bei Theatern wurde
+              üblicherweise der Spielort als Orientierung für die veranstaltende Organisation
+              benutzt. Die Ausnahmen sind hier von besonderem Interesse. Wer etwa Gastspiele des
+              Deutschen Theaters in Wien sucht, kann über die Organisation und den Ort fündig
+              werden. </p>
           </item>
           <item>
             <q>Schnitzler ging ins Kino?</q>
@@ -133,26 +133,25 @@
           </item>
           <item>
             <q>Gibt es auch Karten der Veranstaltungsorte?</q>
-            <p>Hier nicht. Aber über den Link zu <ref type="URL" target="https://wienerschnitzler.org/">Wiener Schnitzler</ref>, 
-              der bei jeder Detailansicht eines Ortes zu sehen ist, kann eine solche für den Ort gezeigt werden. Und über diesen 
-              Link zu den <ref type="URL"
-                target="https://wienerschnitzler.org/gesamt_typen.html">Typen</ref> können bestimmte Aufenthaltsortstypen 
-              angezeigt werden.</p>
+            <p>Hier nicht. Aber über den Link zu <ref type="URL"
+                target="https://wienerschnitzler.org/">Wiener Schnitzler</ref>, der bei jeder
+              Detailansicht eines Ortes zu sehen ist, kann eine solche für den Ort gezeigt werden.
+              Und über diesen Link zu den <ref type="URL"
+                target="https://wienerschnitzler.org/gesamt_typen.html">Typen</ref> können bestimmte
+              Aufenthaltsortstypen angezeigt werden, beispielsweise alle <ref target="https://wienerschnitzler.org/gesamt_typen.html?types=Kino" type="URL">Kinos</ref>.</p>
           </item>
           <item>
             <q>Wieso steht hier immer wieder ›PMB‹ und was bedeutet das?</q>
             <p>Das <ref target="https://www.oeaw.ac.at/de/acdh/acdh-ch-home">Austrian Centre for
                 Digital Humanities and Cultural Heritage (ACDH-CH)</ref> an der Österreichischen
               Akademie der Wissenschaften betreibt einen Webservice namens <ref
-                target="https://pmb.acdh.oeaw.ac.at/">PMB – Personen der Moderne Basis</ref>
-              (siehe auch den <ref
-                target="https://de.wikipedia.org/wiki/Personen_der_Moderne_Basis"
+                target="https://pmb.acdh.oeaw.ac.at/">PMB – Personen der Moderne Basis</ref> (siehe
+              auch den <ref target="https://de.wikipedia.org/wiki/Personen_der_Moderne_Basis"
                 >Wikipedia-Eintrag</ref>). Dabei handelt es sich um eine relationale Datenbank, in
-              der die Personen, Orte, Werke, Organisationen und Ereignisse verzeichnet sind, die
-              in den digitalen Schnitzler-Projekten (Tagebuch, Briefe, Lektüreliste …)
-              referenziert werden. Durch den Anschluss unseres Projekts an diese Datenbank war die schnelle
+              der die Personen, Orte, Werke, Organisationen und Ereignisse verzeichnet sind, die in
+              den digitalen Schnitzler-Projekten (Tagebuch, Briefe, Lektüreliste …) referenziert
+              werden. Durch den Anschluss unseres Projekts an diese Datenbank war die schnelle
               Erfassung der Ereignisse – auch mit Normdaten – möglich.</p>
-            
           </item>
           <item>
             <q>Was wärt Ihr ohne Peter Andorfer?</q>

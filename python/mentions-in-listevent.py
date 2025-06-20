@@ -31,43 +31,66 @@ work_ids = set()
 for tag_name, output_filename, xpath in targets:
     keys = set()
 
-    for elem in root.findall(xpath, namespaces=NS):
-        key = elem.get("key")
-        if key and key.startswith("pmb"):
-            clean_id = key.replace("pmb", "", 1)
-            keys.add(clean_id)
-            if tag_name == "persName":
-                mentioned_person_keys.add(clean_id)
-            elif tag_name == "work":
-                work_ids.add(clean_id)
+    if tag_name == "work":
+        # Sonderbehandlung für Werke
+        for bibl in root.findall(".//tei:bibl", namespaces=NS):
+            # Wenn ein <note>wird rezensiert in</note> vorkommt, überspringen
+            is_review = any(
+                note.text == "wird rezensiert in"
+                for note in bibl.findall("tei:note", namespaces=NS)
+            )
+            if is_review:
+                continue  # überspringe Rezensionen
 
-    # XML-Struktur erzeugen
+            # Dann <title> extrahieren
+            title = bibl.find("tei:title", namespaces=NS)
+            if title is not None:
+                key = title.get("key")
+                if key and key.startswith("pmb"):
+                    clean_key = key.replace("pmb", "", 1)
+                    keys.add(clean_key)
+                    work_ids.add(clean_key)  # wichtig für spätere Autorensuche
+
+    else:
+        # Standardverhalten für Personen, Orte, Organisationen
+        for elem in root.findall(xpath, namespaces=NS):
+            key = elem.get("key")
+            if key and key.startswith("pmb"):
+                clean_key = key.replace("pmb", "", 1)
+                keys.add(clean_key)
+
+        # Nur bei Personen sofort merken für später
+        if tag_name == "persName":
+            mentioned_person_keys.update(keys)
+
+    # XML-Struktur erzeugen und schreiben
     list_elem = ET.Element("list")
     for key in sorted(keys):
         item = ET.SubElement(list_elem, "item")
         item.text = key
 
-    # Ausgabe als formatiertes XML
     with open(output_filename, "w", encoding="utf-8") as f:
         f.write(pretty_xml(list_elem))
 
 # ===== Autoren der Werke aus listbibl.xml nachschlagen =====
-# Autoren der Werke aus listbibl.xml nachschlagen
-response = urllib.request.urlopen("https://pmb.acdh.oeaw.ac.at/media/listbibl.xml")
-listbibl_tree = ET.parse(response)
-listbibl_root = listbibl_tree.getroot()
+try:
+    response = urllib.request.urlopen("https://pmb.acdh.oeaw.ac.at/media/listbibl.xml")
+    listbibl_tree = ET.parse(response)
+    listbibl_root = listbibl_tree.getroot()
 
-# Vergleichs-Set für listbibl Keys im Format: "work__195468"
-work_keys_in_listbibl = {f"work__{wid}" for wid in work_ids}
+    work_keys_in_listbibl = {f"work__{wid}" for wid in work_ids}
 
-for bibl in listbibl_root.findall(".//tei:bibl", namespaces=NS):
-    bibl_key = bibl.get("{http://www.w3.org/XML/1998/namespace}id")  # xml:id beachten!
-    if bibl_key in work_keys_in_listbibl:
-        for author in bibl.findall(".//tei:author", namespaces=NS):
-            author_key = author.get("key")
-            if author_key and author_key.startswith("person__"):
-                author_id = author_key.replace("person__", "")
-                mentioned_person_keys.add(author_id)
+    for bibl in listbibl_root.findall(".//tei:bibl", namespaces=NS):
+        bibl_key = bibl.get("{http://www.w3.org/XML/1998/namespace}id")  # xml:id beachten!
+        if bibl_key and bibl_key in work_keys_in_listbibl:
+            for author in bibl.findall(".//tei:author", namespaces=NS):
+                author_key = author.get("key")
+                if author_key and author_key.startswith("person__"):
+                    author_id = author_key.replace("person__", "")
+                    mentioned_person_keys.add(author_id)
+
+except Exception as e:
+    print(f"Fehler beim Laden oder Verarbeiten von listbibl.xml: {e}")
 
 # Neue mentioned-persons.xml mit Autoren schreiben
 person_list_elem = ET.Element("list")

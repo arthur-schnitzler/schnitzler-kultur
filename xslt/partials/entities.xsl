@@ -331,7 +331,8 @@
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:value-of
-                                select="replace(replace(@xml:id, 'person__', ''), 'pmb', '')"/>
+                                select="concat('pmb', replace(replace(@xml:id, 'person__', ''), 'pmb', ''))"/> 
+                            <!-- etwas redundant, aber sicher ist sicherer -->
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:variable>

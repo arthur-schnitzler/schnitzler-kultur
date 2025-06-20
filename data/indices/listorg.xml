@@ -171,7 +171,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -268,7 +268,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__290563">Kleines Schauspielhaus</placeName>
+            <placeName key="pmb290563">Kleines Schauspielhaus</placeName>
             
   
             <geo>48,204979 16,371852</geo>
@@ -332,7 +332,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -414,7 +414,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -505,7 +505,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__652">Prag</placeName>
+            <placeName key="pmb652">Prag</placeName>
             
   
             <geo>50,08333 14,46667</geo>
@@ -571,7 +571,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__118612">Deutsches Haus [Prag]</placeName>
+            <placeName key="pmb118612">Deutsches Haus [Prag]</placeName>
             
   
             <geo>50,08687 14,42729</geo>
@@ -601,7 +601,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__200472">Concordia Prag</placeName>
+            <placeName key="pmb200472">Concordia Prag</placeName>
             
   
             <geo>50,08585 14,431532</geo>
@@ -653,7 +653,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__288461">Scheveningseweg 10</placeName>
+            <placeName key="pmb288461">Scheveningseweg 10</placeName>
             
   
             <geo>52,08708 4,29948</geo>
@@ -711,7 +711,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -814,7 +814,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__240">Wiener Konzerthaus</placeName>
+            <placeName key="pmb240">Wiener Konzerthaus</placeName>
             
   
             <geo>48,200771836002 16,377197811369</geo>
@@ -875,7 +875,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -975,7 +975,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -1051,7 +1051,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__90857">Hellerau</placeName>
+            <placeName key="pmb90857">Hellerau</placeName>
             
   
             <geo>51,11667 13,75</geo>
@@ -1097,7 +1097,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1002">Vatikan</placeName>
+            <placeName key="pmb1002">Vatikan</placeName>
             
   
             <geo>41,90225 12,4533</geo>
@@ -1182,7 +1182,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -1264,7 +1264,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__777">Stadttheater [Zürich]</placeName>
+            <placeName key="pmb777">Stadttheater [Zürich]</placeName>
             
   
             <geo>47,365 8,546944</geo>
@@ -1322,7 +1322,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__265076">Kriegsausstellung im Wiener Prater</placeName>
+            <placeName key="pmb265076">Kriegsausstellung im Wiener Prater</placeName>
             
   
             <geo>48,217024 16,394278</geo>
@@ -1340,7 +1340,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -1403,7 +1403,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__52">II., Leopoldstadt</placeName>
+            <placeName key="pmb52">II., Leopoldstadt</placeName>
             
   
             <geo>48,21667 16,4</geo>
@@ -1454,7 +1454,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__8">Prater</placeName>
+            <placeName key="pmb8">Prater</placeName>
             
   
             <geo>48,194558 16,430054</geo>
@@ -1561,7 +1561,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__869">Moskau</placeName>
+            <placeName key="pmb869">Moskau</placeName>
             
   
             <geo>55,76167 37,60667</geo>
@@ -1631,7 +1631,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__687">Österreich-Ungarn</placeName>
+            <placeName key="pmb687">Österreich-Ungarn</placeName>
             
   
             <geo>48,4054 16,4887</geo>
@@ -1707,7 +1707,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -1795,7 +1795,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -1883,7 +1883,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -1971,7 +1971,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -2108,7 +2108,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__251763">Buchhandlung Paul Neff</placeName>
+            <placeName key="pmb251763">Buchhandlung Paul Neff</placeName>
             
   
             <geo>48,7756 9,17445</geo>
@@ -2126,7 +2126,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__872">Stuttgart</placeName>
+            <placeName key="pmb872">Stuttgart</placeName>
             
   
             <geo>48,78232 9,17702</geo>
@@ -2202,7 +2202,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -2290,7 +2290,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45970">Tel Aviv</placeName>
+            <placeName key="pmb45970">Tel Aviv</placeName>
             
   
             <geo>32,08088 34,78057</geo>
@@ -2363,7 +2363,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -2426,7 +2426,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__250518">Annagasse 5</placeName>
+            <placeName key="pmb250518">Annagasse 5</placeName>
             
   
             <geo>48,204532 16,372557</geo>
@@ -2487,7 +2487,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__224">London</placeName>
+            <placeName key="pmb224">London</placeName>
             
   
             <geo>51,50853 -0,12574</geo>
@@ -2581,7 +2581,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -2706,7 +2706,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -2846,7 +2846,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -2934,7 +2934,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__63798">Peru</placeName>
+            <placeName key="pmb63798">Peru</placeName>
             
   
             <geo>-10,0 -75,25</geo>
@@ -3004,7 +3004,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__21799">Schloss Schönbrunn</placeName>
+            <placeName key="pmb21799">Schloss Schönbrunn</placeName>
             
   
             <geo>48,18479 16,31227</geo>
@@ -3077,7 +3077,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__237072">Ausstellungshalle des Hagenbundes</placeName>
+            <placeName key="pmb237072">Ausstellungshalle des Hagenbundes</placeName>
             
   
             <geo>48,206738 16,378383</geo>
@@ -3129,7 +3129,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__677">Breslau</placeName>
+            <placeName key="pmb677">Breslau</placeName>
             
   
             <geo>51,10773 17,03533</geo>
@@ -3214,7 +3214,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__7">Secession</placeName>
+            <placeName key="pmb7">Secession</placeName>
             
   
             <geo>48,200364 16,365508</geo>
@@ -3281,7 +3281,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -3369,7 +3369,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -3457,7 +3457,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__7">Secession</placeName>
+            <placeName key="pmb7">Secession</placeName>
             
   
             <geo>48,200364 16,365508</geo>
@@ -3524,7 +3524,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__237072">Ausstellungshalle des Hagenbundes</placeName>
+            <placeName key="pmb237072">Ausstellungshalle des Hagenbundes</placeName>
             
   
             <geo>48,206738 16,378383</geo>
@@ -3576,7 +3576,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__21">Künstlerhaus</placeName>
+            <placeName key="pmb21">Künstlerhaus</placeName>
             
   
             <geo>48,200556 16,371667</geo>
@@ -3699,7 +3699,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -3802,7 +3802,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -3908,7 +3908,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__7">Secession</placeName>
+            <placeName key="pmb7">Secession</placeName>
             
   
             <geo>48,200364 16,365508</geo>
@@ -3975,7 +3975,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -4038,7 +4038,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__233980">Zirkus Schumann</placeName>
+            <placeName key="pmb233980">Zirkus Schumann</placeName>
             
   
             <geo>48,200628 16,33615</geo>
@@ -4084,7 +4084,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__231864">Eschenbachgasse 9</placeName>
+            <placeName key="pmb231864">Eschenbachgasse 9</placeName>
             
   
             <geo>48,202076 16,363358</geo>
@@ -4161,7 +4161,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__433">Sankt Petersburg</placeName>
+            <placeName key="pmb433">Sankt Petersburg</placeName>
             
   
             <geo>59,93863 30,31413</geo>
@@ -4296,7 +4296,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -4433,7 +4433,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__182">Paris</placeName>
+            <placeName key="pmb182">Paris</placeName>
             
   
             <geo>48,85341 2,3488</geo>
@@ -4521,7 +4521,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -4609,7 +4609,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__506">Hamburg</placeName>
+            <placeName key="pmb506">Hamburg</placeName>
             
   
             <geo>53,55055 9,993333</geo>
@@ -4691,7 +4691,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -4782,7 +4782,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -4845,7 +4845,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__21">Künstlerhaus</placeName>
+            <placeName key="pmb21">Künstlerhaus</placeName>
             
   
             <geo>48,200556 16,371667</geo>
@@ -4918,7 +4918,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__224">London</placeName>
+            <placeName key="pmb224">London</placeName>
             
   
             <geo>51,50853 -0,12574</geo>
@@ -5003,7 +5003,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__182558">Stubenbastei</placeName>
+            <placeName key="pmb182558">Stubenbastei</placeName>
             
   
             <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/182558/</note>
@@ -5018,7 +5018,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__254568">Gymnasium Stubenbastei</placeName>
+            <placeName key="pmb254568">Gymnasium Stubenbastei</placeName>
             
   
             <geo>48,20677777777 16,37808333333</geo>
@@ -5076,7 +5076,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -5170,7 +5170,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__211373">Wiener Stadttheater [8. Wiener Gemeindebezirk]</placeName>
+            <placeName key="pmb211373">Wiener Stadttheater [8. Wiener Gemeindebezirk]</placeName>
             
   
             <geo>48,21327 16,34629</geo>
@@ -5376,7 +5376,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -5532,7 +5532,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -5620,7 +5620,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -5708,7 +5708,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__253629">Bundesgymnasium Döbling</placeName>
+            <placeName key="pmb253629">Bundesgymnasium Döbling</placeName>
             
   
             <geo>48,23555 16,348401</geo>
@@ -5726,7 +5726,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__69">XIX., Döbling</placeName>
+            <placeName key="pmb69">XIX., Döbling</placeName>
             
   
             <geo>48,25 16,33306</geo>
@@ -5823,7 +5823,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -5972,7 +5972,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__201034">Berliner Philharmonie</placeName>
+            <placeName key="pmb201034">Berliner Philharmonie</placeName>
             
   
             <geo>52,51 13,37</geo>
@@ -6042,7 +6042,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -6148,7 +6148,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__200590">Wipplingerstraße 21</placeName>
+            <placeName key="pmb200590">Wipplingerstraße 21</placeName>
             
   
             <geo>48,212574 16,368663</geo>
@@ -6216,7 +6216,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__199854">Tiergarten am Schüttel</placeName>
+            <placeName key="pmb199854">Tiergarten am Schüttel</placeName>
             
   
             <geo>48,21277 16,395968</geo>
@@ -6271,7 +6271,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -6439,7 +6439,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -6502,7 +6502,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__516">Musikverein</placeName>
+            <placeName key="pmb516">Musikverein</placeName>
             
   
             <geo>48,201265597319 16,372564182283</geo>
@@ -6575,7 +6575,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -6663,7 +6663,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -6751,7 +6751,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -6854,7 +6854,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -6951,7 +6951,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__92488">Rolandbühne</placeName>
+            <placeName key="pmb92488">Rolandbühne</placeName>
             
   
             <geo>48,214368 16,383547</geo>
@@ -6975,7 +6975,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__52">II., Leopoldstadt</placeName>
+            <placeName key="pmb52">II., Leopoldstadt</placeName>
             
   
             <geo>48,21667 16,4</geo>
@@ -7060,7 +7060,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__143138">Kaufmännischer Verein</placeName>
+            <placeName key="pmb143138">Kaufmännischer Verein</placeName>
             
   
             <geo>48,20483 16,37234</geo>
@@ -7115,7 +7115,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -7163,7 +7163,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__247522">Marionettentheater Münchner Künstler</placeName>
+            <placeName key="pmb247522">Marionettentheater Münchner Künstler</placeName>
             
   
             <geo>48,12987 11,5445</geo>
@@ -7224,7 +7224,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -7315,7 +7315,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__869">Moskau</placeName>
+            <placeName key="pmb869">Moskau</placeName>
             
   
             <geo>55,76167 37,60667</geo>
@@ -7400,7 +7400,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__290563">Kleines Schauspielhaus</placeName>
+            <placeName key="pmb290563">Kleines Schauspielhaus</placeName>
             
   
             <geo>48,204979 16,371852</geo>
@@ -7452,7 +7452,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -7549,7 +7549,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__185937">Unter Augartenstraße 8</placeName>
+            <placeName key="pmb185937">Unter Augartenstraße 8</placeName>
             
   
             <geo>48,219851 16,371936</geo>
@@ -7607,7 +7607,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -7713,7 +7713,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -7776,7 +7776,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__790">Tuchlauben</placeName>
+            <placeName key="pmb790">Tuchlauben</placeName>
             
   
             <geo>48,210369328822 16,370282346864</geo>
@@ -7840,7 +7840,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__40655">St. Gallen</placeName>
+            <placeName key="pmb40655">St. Gallen</placeName>
             
   
             <geo>47,42391 9,37477</geo>
@@ -7904,7 +7904,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1223">Bern</placeName>
+            <placeName key="pmb1223">Bern</placeName>
             
   
             <geo>46,9489 7,4638</geo>
@@ -7983,7 +7983,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__854">Basel</placeName>
+            <placeName key="pmb854">Basel</placeName>
             
   
             <geo>47,55839 7,57327</geo>
@@ -8074,7 +8074,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__183389">Militärkasino</placeName>
+            <placeName key="pmb183389">Militärkasino</placeName>
             
   
             <geo>48,201387 16,375009</geo>
@@ -8135,7 +8135,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -8266,7 +8266,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -8366,7 +8366,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -8460,7 +8460,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -8523,7 +8523,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__92552">Stöbergasse</placeName>
+            <placeName key="pmb92552">Stöbergasse</placeName>
             
   
             <geo>48,1851 16,355622</geo>
@@ -8547,7 +8547,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1023">Volkshochschule Stöbergasse</placeName>
+            <placeName key="pmb1023">Volkshochschule Stöbergasse</placeName>
             
   
             <geo>48,18551 16,35493</geo>
@@ -8636,7 +8636,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__169515">Eos-Kino</placeName>
+            <placeName key="pmb169515">Eos-Kino</placeName>
             
   
             <geo>48,196938 16,387056</geo>
@@ -8657,7 +8657,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__53">III., Landstraße</placeName>
+            <placeName key="pmb53">III., Landstraße</placeName>
             
   
             <geo>48,19811 16,39482</geo>
@@ -8754,7 +8754,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__30">Salzburg</placeName>
+            <placeName key="pmb30">Salzburg</placeName>
             
   
             <geo>47,80067 13,04532</geo>
@@ -8808,7 +8808,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__195432">Salzburger Landestheater</placeName>
+            <placeName key="pmb195432">Salzburger Landestheater</placeName>
             
   
             <geo>47,802778 13,042778</geo>
@@ -8857,7 +8857,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__662">Baden bei Wien</placeName>
+            <placeName key="pmb662">Baden bei Wien</placeName>
             
   
             <geo>48,00543 16,23264</geo>
@@ -8908,7 +8908,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__190808">Arena in Baden</placeName>
+            <placeName key="pmb190808">Arena in Baden</placeName>
             
   
             <geo>48,0108832 16,23241375</geo>
@@ -8929,7 +8929,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__190818">Stadttheater Baden</placeName>
+            <placeName key="pmb190818">Stadttheater Baden</placeName>
             
   
             <geo>48,0096 16,2353</geo>
@@ -8981,7 +8981,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__652">Prag</placeName>
+            <placeName key="pmb652">Prag</placeName>
             
   
             <geo>50,08333 14,46667</geo>
@@ -9047,7 +9047,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__92">Národní divadlo</placeName>
+            <placeName key="pmb92">Národní divadlo</placeName>
             
   
             <geo>50,0809 14,4138</geo>
@@ -9093,7 +9093,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__39">Volkstheater in Rudolfsheim</placeName>
+            <placeName key="pmb39">Volkstheater in Rudolfsheim</placeName>
             
   
             <geo>48,19031 16,32475</geo>
@@ -9154,7 +9154,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -9239,7 +9239,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__822">Alexanderstraße</placeName>
+            <placeName key="pmb822">Alexanderstraße</placeName>
             
   
             <geo>52,52383 13,41293</geo>
@@ -9266,7 +9266,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__830">Überbrettl</placeName>
+            <placeName key="pmb830">Überbrettl</placeName>
             
   
             <geo>52,5208 13,4164</geo>
@@ -9293,7 +9293,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__144263">Köpenicker Straße</placeName>
+            <placeName key="pmb144263">Köpenicker Straße</placeName>
             
   
             <geo>52,5073 13,4283</geo>
@@ -9372,7 +9372,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__37">Theater an der Wien</placeName>
+            <placeName key="pmb37">Theater an der Wien</placeName>
             
   
             <geo>48,19941 16,3642</geo>
@@ -9399,7 +9399,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -9496,7 +9496,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1">Jung-Wiener Theater zum Lieben Augustin</placeName>
+            <placeName key="pmb1">Jung-Wiener Theater zum Lieben Augustin</placeName>
             
   
             <geo>48,19941 16,3642</geo>
@@ -9548,7 +9548,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -9596,7 +9596,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__231222">Secessionsbühne [1. Spielort]</placeName>
+            <placeName key="pmb231222">Secessionsbühne [1. Spielort]</placeName>
             
   
             <geo>52,523972 13,361915</geo>
@@ -9611,7 +9611,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__142557">Berliner Ensemble</placeName>
+            <placeName key="pmb142557">Berliner Ensemble</placeName>
             
   
             <geo>52,521667 13,386111</geo>
@@ -9669,7 +9669,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__40694">Gentzgasse</placeName>
+            <placeName key="pmb40694">Gentzgasse</placeName>
             
   
             <geo>48,228096 16,337917</geo>
@@ -9745,7 +9745,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -9793,7 +9793,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__128">Schall und Rauch</placeName>
+            <placeName key="pmb128">Schall und Rauch</placeName>
             
   
             <geo>52,51742 13,38911</geo>
@@ -9872,7 +9872,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__182">Paris</placeName>
+            <placeName key="pmb182">Paris</placeName>
             
   
             <geo>48,85341 2,3488</geo>
@@ -9957,7 +9957,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__182">Paris</placeName>
+            <placeName key="pmb182">Paris</placeName>
             
   
             <geo>48,85341 2,3488</geo>
@@ -10042,7 +10042,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__182">Paris</placeName>
+            <placeName key="pmb182">Paris</placeName>
             
   
             <geo>48,85341 2,3488</geo>
@@ -10090,7 +10090,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__195438">Théâtre du Vaudeville</placeName>
+            <placeName key="pmb195438">Théâtre du Vaudeville</placeName>
             
   
             <geo>48,8712 2,3336</geo>
@@ -10145,7 +10145,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__936">Schliersee</placeName>
+            <placeName key="pmb936">Schliersee</placeName>
             
   
             <geo>47,73621 11,85936</geo>
@@ -10181,7 +10181,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__750">Schlierseer Bauerntheater</placeName>
+            <placeName key="pmb750">Schlierseer Bauerntheater</placeName>
             
   
             <geo>47,733395 11,865806</geo>
@@ -10233,7 +10233,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -10324,7 +10324,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__43528">Joseph G. Wieninger, Weinhandlung</placeName>
+            <placeName key="pmb43528">Joseph G. Wieninger, Weinhandlung</placeName>
             
   
             <geo>48,21099 16,36668</geo>
@@ -10348,7 +10348,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -10439,7 +10439,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__146">Frankfurt am Main</placeName>
+            <placeName key="pmb146">Frankfurt am Main</placeName>
             
   
             <geo>50,11552 8,68417</geo>
@@ -10499,7 +10499,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__56867">Hochstraße [Frankfurt am Main]</placeName>
+            <placeName key="pmb56867">Hochstraße [Frankfurt am Main]</placeName>
             
   
             <geo>50,11634235574901 8,676255282930587</geo>
@@ -10520,7 +10520,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__199463">Frankfurter Stadttheater</placeName>
+            <placeName key="pmb199463">Frankfurter Stadttheater</placeName>
             
   
             <geo>50,1081 8,67417</geo>
@@ -10632,7 +10632,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__182">Paris</placeName>
+            <placeName key="pmb182">Paris</placeName>
             
   
             <geo>48,85341 2,3488</geo>
@@ -10732,7 +10732,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__28">Volksoper Wien</placeName>
+            <placeName key="pmb28">Volksoper Wien</placeName>
             
   
             <geo>48,224472 16,350361</geo>
@@ -10774,7 +10774,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -10837,7 +10837,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__59">IX., Alsergrund</placeName>
+            <placeName key="pmb59">IX., Alsergrund</placeName>
             
   
             <geo>48,22387 16,35641</geo>
@@ -10925,7 +10925,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__118">Carl-Theater</placeName>
+            <placeName key="pmb118">Carl-Theater</placeName>
             
   
             <geo>48,215 16,384444</geo>
@@ -10958,7 +10958,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__52">II., Leopoldstadt</placeName>
+            <placeName key="pmb52">II., Leopoldstadt</placeName>
             
   
             <geo>48,21667 16,4</geo>
@@ -11046,7 +11046,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__525">Lobe-Theater</placeName>
+            <placeName key="pmb525">Lobe-Theater</placeName>
             
   
             <geo>51,10862 17,0454</geo>
@@ -11073,7 +11073,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__677">Breslau</placeName>
+            <placeName key="pmb677">Breslau</placeName>
             
   
             <geo>51,10773 17,03533</geo>
@@ -11179,7 +11179,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1119">Stockholm</placeName>
+            <placeName key="pmb1119">Stockholm</placeName>
             
   
             <geo>59,325 18,05</geo>
@@ -11230,7 +11230,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__147893">Kungliga Dramatiska Teatern</placeName>
+            <placeName key="pmb147893">Kungliga Dramatiska Teatern</placeName>
             
   
             <geo>59,33325 18,076992</geo>
@@ -11294,7 +11294,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1119">Stockholm</placeName>
+            <placeName key="pmb1119">Stockholm</placeName>
             
   
             <geo>59,325 18,05</geo>
@@ -11379,7 +11379,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -11427,7 +11427,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__482">Friedrichstraße [Berlin]</placeName>
+            <placeName key="pmb482">Friedrichstraße [Berlin]</placeName>
             
   
             <geo>52,50319 13,39108</geo>
@@ -11460,7 +11460,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__237359">Komische Oper Berlin</placeName>
+            <placeName key="pmb237359">Komische Oper Berlin</placeName>
             
   
             <geo>52,5216 13,388375</geo>
@@ -11521,7 +11521,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__869">Moskau</placeName>
+            <placeName key="pmb869">Moskau</placeName>
             
   
             <geo>55,76167 37,60667</geo>
@@ -11603,7 +11603,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__652">Prag</placeName>
+            <placeName key="pmb652">Prag</placeName>
             
   
             <geo>50,08333 14,46667</geo>
@@ -11669,7 +11669,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__183469">Urania Prag</placeName>
+            <placeName key="pmb183469">Urania Prag</placeName>
             
   
             <geo>50,091467 14,428587</geo>
@@ -11715,7 +11715,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -11763,7 +11763,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__195435">Staatstheater am Gärtnerplatz</placeName>
+            <placeName key="pmb195435">Staatstheater am Gärtnerplatz</placeName>
             
   
             <geo>48,131003 11,575608</geo>
@@ -11824,7 +11824,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -11872,7 +11872,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__185090">Central-Theater</placeName>
+            <placeName key="pmb185090">Central-Theater</placeName>
             
   
             <geo>52,5056929 13,4009142</geo>
@@ -11933,7 +11933,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -11981,7 +11981,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__334">Schiller-Theater</placeName>
+            <placeName key="pmb334">Schiller-Theater</placeName>
             
   
             <geo>52,511709 13,318058</geo>
@@ -12045,7 +12045,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__291903">Zahnärztliches Institut der Wiener Universität</placeName>
+            <placeName key="pmb291903">Zahnärztliches Institut der Wiener Universität</placeName>
             
   
             <geo>48,212475 16,345907</geo>
@@ -12097,7 +12097,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__43471">Budapest</placeName>
+            <placeName key="pmb43471">Budapest</placeName>
             
   
             <geo>47,49835 19,04045</geo>
@@ -12160,7 +12160,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__186247">Népszinház</placeName>
+            <placeName key="pmb186247">Népszinház</placeName>
             
   
             <geo>47,470833 19,070833</geo>
@@ -12221,7 +12221,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -12312,7 +12312,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -12375,7 +12375,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__520">Akademietheater</placeName>
+            <placeName key="pmb520">Akademietheater</placeName>
             
   
             <geo>48,200254933632 16,377117625773</geo>
@@ -12411,7 +12411,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -12493,7 +12493,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -12541,7 +12541,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__784">Schauspielhaus Berlin</placeName>
+            <placeName key="pmb784">Schauspielhaus Berlin</placeName>
             
   
             <geo>52,513611 13,392222</geo>
@@ -12611,7 +12611,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -12656,7 +12656,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1013">Urania</placeName>
+            <placeName key="pmb1013">Urania</placeName>
             
   
             <geo>48,211453732859 16,383906681096</geo>
@@ -12711,7 +12711,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__7">Secession</placeName>
+            <placeName key="pmb7">Secession</placeName>
             
   
             <geo>48,200364 16,365508</geo>
@@ -12744,7 +12744,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -12807,7 +12807,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -12907,7 +12907,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -13010,7 +13010,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__183253">Volksheim</placeName>
+            <placeName key="pmb183253">Volksheim</placeName>
             
   
             <geo>48,201152 16,338652</geo>
@@ -13028,7 +13028,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__599">Volkshochschule Ottakring</placeName>
+            <placeName key="pmb599">Volkshochschule Ottakring</placeName>
             
   
             <geo>48,206694 16,333972</geo>
@@ -13055,7 +13055,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__66">XVI., Ottakring</placeName>
+            <placeName key="pmb66">XVI., Ottakring</placeName>
             
   
             <geo>48,21667 16,3</geo>
@@ -13170,7 +13170,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__52">II., Leopoldstadt</placeName>
+            <placeName key="pmb52">II., Leopoldstadt</placeName>
             
   
             <geo>48,21667 16,4</geo>
@@ -13237,7 +13237,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__635">Residenztheater München</placeName>
+            <placeName key="pmb635">Residenztheater München</placeName>
             
   
             <geo>48,139944 11,578786</geo>
@@ -13261,7 +13261,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -13337,7 +13337,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -13385,7 +13385,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__247577">Münchner Künstlertheater</placeName>
+            <placeName key="pmb247577">Münchner Künstlertheater</placeName>
             
   
             <geo>48,13190865 11,54448808</geo>
@@ -13437,7 +13437,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -13528,7 +13528,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -13576,7 +13576,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__11">Münchner Schauspielhaus</placeName>
+            <placeName key="pmb11">Münchner Schauspielhaus</placeName>
             
   
             <geo>48,138122 11,582478</geo>
@@ -13661,7 +13661,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__146">Frankfurt am Main</placeName>
+            <placeName key="pmb146">Frankfurt am Main</placeName>
             
   
             <geo>50,11552 8,68417</geo>
@@ -13721,7 +13721,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__250841">Frankfurter Oper</placeName>
+            <placeName key="pmb250841">Frankfurter Oper</placeName>
             
   
             <geo>50,115833333333 8,6719444444444</geo>
@@ -13782,7 +13782,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -13870,7 +13870,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__833">Brünn</placeName>
+            <placeName key="pmb833">Brünn</placeName>
             
   
             <geo>49,19522 16,60796</geo>
@@ -13921,7 +13921,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__437">Deutsches Haus [Brünn]</placeName>
+            <placeName key="pmb437">Deutsches Haus [Brünn]</placeName>
             
   
             <geo>49,199167 16,606667</geo>
@@ -13994,7 +13994,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__506">Hamburg</placeName>
+            <placeName key="pmb506">Hamburg</placeName>
             
   
             <geo>53,55055 9,993333</geo>
@@ -14045,7 +14045,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__645">Deutsches Schauspielhaus in Hamburg</placeName>
+            <placeName key="pmb645">Deutsches Schauspielhaus in Hamburg</placeName>
             
   
             <geo>53,554306 10,008861</geo>
@@ -14106,7 +14106,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -14154,7 +14154,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__720">Neues Theater</placeName>
+            <placeName key="pmb720">Neues Theater</placeName>
             
   
             <geo>52,521667 13,386111</geo>
@@ -14212,7 +14212,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -14260,7 +14260,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__208">Kleines Theater</placeName>
+            <placeName key="pmb208">Kleines Theater</placeName>
             
   
             <geo>52,517222 13,389167</geo>
@@ -14321,7 +14321,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__208">Kleines Theater</placeName>
+            <placeName key="pmb208">Kleines Theater</placeName>
             
   
             <geo>52,517222 13,389167</geo>
@@ -14348,7 +14348,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__128">Schall und Rauch</placeName>
+            <placeName key="pmb128">Schall und Rauch</placeName>
             
   
             <geo>52,51742 13,38911</geo>
@@ -14378,7 +14378,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__720">Neues Theater</placeName>
+            <placeName key="pmb720">Neues Theater</placeName>
             
   
             <geo>52,521667 13,386111</geo>
@@ -14405,7 +14405,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__3">Deutsches Theater Berlin</placeName>
+            <placeName key="pmb3">Deutsches Theater Berlin</placeName>
             
   
             <geo>52,524444 13,382222</geo>
@@ -14432,7 +14432,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__40">Theater in der Josefstadt</placeName>
+            <placeName key="pmb40">Theater in der Josefstadt</placeName>
             
   
             <geo>48,209583 16,351111</geo>
@@ -14471,7 +14471,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__44649">Schlosstheater Schönbrunn</placeName>
+            <placeName key="pmb44649">Schlosstheater Schönbrunn</placeName>
             
   
             <geo>48,186667 16,3125</geo>
@@ -14501,7 +14501,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__12">Kammerspiele Berlin</placeName>
+            <placeName key="pmb12">Kammerspiele Berlin</placeName>
             
   
             <geo>52,524444 13,382222</geo>
@@ -14562,7 +14562,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__44464">Schopenhauerstraße</placeName>
+            <placeName key="pmb44464">Schopenhauerstraße</placeName>
             
   
             <geo>48,22426 16,34098</geo>
@@ -14589,7 +14589,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__68">XVIII., Währing</placeName>
+            <placeName key="pmb68">XVIII., Währing</placeName>
             
   
             <geo>48,23333 16,31667</geo>
@@ -14637,7 +14637,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__232701">Währinger Tempel</placeName>
+            <placeName key="pmb232701">Währinger Tempel</placeName>
             
   
             <geo>48,2242 16,3406</geo>
@@ -14692,7 +14692,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__234823">Galerie Miethke</placeName>
+            <placeName key="pmb234823">Galerie Miethke</placeName>
             
   
             <geo>48,207163 16,369299</geo>
@@ -14710,7 +14710,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__39599">Graben</placeName>
+            <placeName key="pmb39599">Graben</placeName>
             
   
             <geo>48,208613 16,369913</geo>
@@ -14749,7 +14749,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__234832">Graben 17</placeName>
+            <placeName key="pmb234832">Graben 17</placeName>
             
   
             <geo>48,209156 16,368658</geo>
@@ -14767,7 +14767,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -14849,7 +14849,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -14916,7 +14916,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1179">Lehártheater</placeName>
+            <placeName key="pmb1179">Lehártheater</placeName>
             
   
             <geo>47,712959 13,622439</geo>
@@ -14943,7 +14943,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__213">Bad Ischl</placeName>
+            <placeName key="pmb213">Bad Ischl</placeName>
             
   
             <geo>47,71109 13,61893</geo>
@@ -15016,7 +15016,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__501">Kärntnerring</placeName>
+            <placeName key="pmb501">Kärntnerring</placeName>
             
   
             <geo>48,201874800905 16,371985203093</geo>
@@ -15043,7 +15043,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -15107,7 +15107,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__41">Allgemeine Poliklinik</placeName>
+            <placeName key="pmb41">Allgemeine Poliklinik</placeName>
             
   
             <geo>48,216547 16,357685</geo>
@@ -15137,7 +15137,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__182710">Allgemeine Poliklinik [neues Gebäude]</placeName>
+            <placeName key="pmb182710">Allgemeine Poliklinik [neues Gebäude]</placeName>
             
   
             <geo>48,216139 16,349167</geo>
@@ -15155,7 +15155,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__59">IX., Alsergrund</placeName>
+            <placeName key="pmb59">IX., Alsergrund</placeName>
             
   
             <geo>48,22387 16,35641</geo>
@@ -15240,7 +15240,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__58">VIII., Josefstadt</placeName>
+            <placeName key="pmb58">VIII., Josefstadt</placeName>
             
   
             <geo>48,21126 16,34706</geo>
@@ -15288,7 +15288,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__40">Theater in der Josefstadt</placeName>
+            <placeName key="pmb40">Theater in der Josefstadt</placeName>
             
   
             <geo>48,209583 16,351111</geo>
@@ -15327,7 +15327,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51915">Josefstädter Straße</placeName>
+            <placeName key="pmb51915">Josefstädter Straße</placeName>
             
   
             <geo>48,20995865037859 16,347448769410484</geo>
@@ -15406,7 +15406,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__56">VI., Mariahilf</placeName>
+            <placeName key="pmb56">VI., Mariahilf</placeName>
             
   
             <geo>48,19522 16,35032</geo>
@@ -15448,7 +15448,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__77">Raimund-Theater</placeName>
+            <placeName key="pmb77">Raimund-Theater</placeName>
             
   
             <geo>48,192222 16,339722</geo>
@@ -15515,7 +15515,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__92514">Schauspiel- und Opernschule Otto</placeName>
+            <placeName key="pmb92514">Schauspiel- und Opernschule Otto</placeName>
             
   
             <geo>48,20199 16,36985</geo>
@@ -15539,7 +15539,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -15602,7 +15602,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__190952">Kärntnerring 2</placeName>
+            <placeName key="pmb190952">Kärntnerring 2</placeName>
             
   
             <geo>48,201965 16,369881</geo>
@@ -15648,7 +15648,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__53">III., Landstraße</placeName>
+            <placeName key="pmb53">III., Landstraße</placeName>
             
   
             <geo>48,19811 16,39482</geo>
@@ -15699,7 +15699,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__240">Wiener Konzerthaus</placeName>
+            <placeName key="pmb240">Wiener Konzerthaus</placeName>
             
   
             <geo>48,200771836002 16,377197811369</geo>
@@ -15763,7 +15763,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__60854">Wiener Bürgertheater</placeName>
+            <placeName key="pmb60854">Wiener Bürgertheater</placeName>
             
   
             <geo>48,20709 16,38382</geo>
@@ -15784,7 +15784,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__53">III., Landstraße</placeName>
+            <placeName key="pmb53">III., Landstraße</placeName>
             
   
             <geo>48,19811 16,39482</geo>
@@ -15881,7 +15881,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1058">Tribüne</placeName>
+            <placeName key="pmb1058">Tribüne</placeName>
             
   
             <geo>52,51421 13,318595</geo>
@@ -15908,7 +15908,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -15993,7 +15993,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__54">IV., Wieden</placeName>
+            <placeName key="pmb54">IV., Wieden</placeName>
             
   
             <geo>48,19198 16,36714</geo>
@@ -16088,7 +16088,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -16133,7 +16133,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__1209">Lustspieltheater [Wien]</placeName>
+            <placeName key="pmb1209">Lustspieltheater [Wien]</placeName>
             
   
             <geo>48,21766 16,3957</geo>
@@ -16191,7 +16191,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__57">VII., Neubau</placeName>
+            <placeName key="pmb57">VII., Neubau</placeName>
             
   
             <geo>48,2 16,35</geo>
@@ -16236,7 +16236,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -16330,7 +16330,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__34399">Neue Wiener Bühne</placeName>
+            <placeName key="pmb34399">Neue Wiener Bühne</placeName>
             
   
             <geo>48,2195962 16,3589845</geo>
@@ -16351,7 +16351,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50681">Wasagasse</placeName>
+            <placeName key="pmb50681">Wasagasse</placeName>
             
   
             <geo>48,219653 16,358922</geo>
@@ -16372,7 +16372,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__59">IX., Alsergrund</placeName>
+            <placeName key="pmb59">IX., Alsergrund</placeName>
             
   
             <geo>48,22387 16,35641</geo>
@@ -16466,7 +16466,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__36914">Tiergarten</placeName>
+            <placeName key="pmb36914">Tiergarten</placeName>
             
   
             <geo>52,516666 13,366666</geo>
@@ -16511,7 +16511,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__56705">Platz der Republik</placeName>
+            <placeName key="pmb56705">Platz der Republik</placeName>
             
   
             <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56705/</note>
@@ -16526,7 +16526,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -16574,7 +16574,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__185111">Krolloper</placeName>
+            <placeName key="pmb185111">Krolloper</placeName>
             
   
             <geo>52,51855 13,3687</geo>
@@ -16626,7 +16626,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__53">III., Landstraße</placeName>
+            <placeName key="pmb53">III., Landstraße</placeName>
             
   
             <geo>48,19811 16,39482</geo>
@@ -16708,7 +16708,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__57">VII., Neubau</placeName>
+            <placeName key="pmb57">VII., Neubau</placeName>
             
   
             <geo>48,2 16,35</geo>
@@ -16753,7 +16753,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__53947">Neubaugasse</placeName>
+            <placeName key="pmb53947">Neubaugasse</placeName>
             
   
             <geo>48,20256617469894 16,34909768475513</geo>
@@ -16823,7 +16823,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__91">Neues Deutsches Theater</placeName>
+            <placeName key="pmb91">Neues Deutsches Theater</placeName>
             
   
             <geo>50,080556 14,432778</geo>
@@ -16853,7 +16853,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__652">Prag</placeName>
+            <placeName key="pmb652">Prag</placeName>
             
   
             <geo>50,08333 14,46667</geo>
@@ -16959,7 +16959,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__36914">Tiergarten</placeName>
+            <placeName key="pmb36914">Tiergarten</placeName>
             
   
             <geo>52,516666 13,366666</geo>
@@ -17004,7 +17004,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -17080,7 +17080,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__36737">Mitte</placeName>
+            <placeName key="pmb36737">Mitte</placeName>
             
   
             <geo>52,516669 13,366669</geo>
@@ -17110,7 +17110,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -17158,7 +17158,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__145351">Staatsoper Berlin</placeName>
+            <placeName key="pmb145351">Staatsoper Berlin</placeName>
             
   
             <geo>52,5171 13,3947</geo>
@@ -17228,7 +17228,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__9925">Charlottenburg</placeName>
+            <placeName key="pmb9925">Charlottenburg</placeName>
             
   
             <geo>52,516667 13,3</geo>
@@ -17273,7 +17273,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -17321,7 +17321,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__695">Städtische Oper Berlin</placeName>
+            <placeName key="pmb695">Städtische Oper Berlin</placeName>
             
   
             <geo>52,512778 13,308333</geo>
@@ -17379,7 +17379,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__36737">Mitte</placeName>
+            <placeName key="pmb36737">Mitte</placeName>
             
   
             <geo>52,516669 13,366669</geo>
@@ -17409,7 +17409,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__52608">Schiffbauerdamm</placeName>
+            <placeName key="pmb52608">Schiffbauerdamm</placeName>
             
   
             <geo>52,520248489244736 13,383000098363002</geo>
@@ -17464,7 +17464,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__56">VI., Mariahilf</placeName>
+            <placeName key="pmb56">VI., Mariahilf</placeName>
             
   
             <geo>48,19522 16,35032</geo>
@@ -17506,7 +17506,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__37">Theater an der Wien</placeName>
+            <placeName key="pmb37">Theater an der Wien</placeName>
             
   
             <geo>48,19941 16,3642</geo>
@@ -17567,7 +17567,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__36737">Mitte</placeName>
+            <placeName key="pmb36737">Mitte</placeName>
             
   
             <geo>52,516669 13,366669</geo>
@@ -17597,7 +17597,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__771">Rankestraße</placeName>
+            <placeName key="pmb771">Rankestraße</placeName>
             
   
             <geo>52,50336 13,33467</geo>
@@ -17674,7 +17674,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__36737">Mitte</placeName>
+            <placeName key="pmb36737">Mitte</placeName>
             
   
             <geo>52,516669 13,366669</geo>
@@ -17704,7 +17704,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -17752,7 +17752,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__201039">Berliner Metropol Theater</placeName>
+            <placeName key="pmb201039">Berliner Metropol Theater</placeName>
             
   
             <geo>52,515833 13,386944</geo>
@@ -17807,7 +17807,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -17904,7 +17904,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -18007,7 +18007,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -18070,7 +18070,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__15">Oper</placeName>
+            <placeName key="pmb15">Oper</placeName>
             
   
             <geo>48,203 16,3691</geo>
@@ -18149,7 +18149,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -18194,7 +18194,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__15">Oper</placeName>
+            <placeName key="pmb15">Oper</placeName>
             
   
             <geo>48,203 16,3691</geo>
@@ -18279,7 +18279,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -18342,7 +18342,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__20">Volkstheater</placeName>
+            <placeName key="pmb20">Volkstheater</placeName>
             
   
             <geo>48,205142 16,3566</geo>
@@ -18387,7 +18387,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__57">VII., Neubau</placeName>
+            <placeName key="pmb57">VII., Neubau</placeName>
             
   
             <geo>48,2 16,35</geo>
@@ -18487,7 +18487,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__43280">Jantsch-Theater</placeName>
+            <placeName key="pmb43280">Jantsch-Theater</placeName>
             
   
             <geo>48,217566 16,3957</geo>
@@ -18508,7 +18508,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -18593,7 +18593,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__44649">Schlosstheater Schönbrunn</placeName>
+            <placeName key="pmb44649">Schlosstheater Schönbrunn</placeName>
             
   
             <geo>48,186667 16,3125</geo>
@@ -18623,7 +18623,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__48198">Redoutensaal</placeName>
+            <placeName key="pmb48198">Redoutensaal</placeName>
             
   
             <geo>48,206783 16,366551</geo>
@@ -18644,7 +18644,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -18689,7 +18689,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__14">Burgtheater</placeName>
+            <placeName key="pmb14">Burgtheater</placeName>
             
   
             <geo>48,210333 16,361139</geo>
@@ -18722,7 +18722,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__185621">Burgtheater [Altes Burgtheater]</placeName>
+            <placeName key="pmb185621">Burgtheater [Altes Burgtheater]</placeName>
             
   
             <geo>48,20778 16,36645</geo>
@@ -18804,7 +18804,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -18852,7 +18852,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__3">Deutsches Theater Berlin</placeName>
+            <placeName key="pmb3">Deutsches Theater Berlin</placeName>
             
   
             <geo>52,524444 13,382222</geo>
@@ -18937,7 +18937,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__35543">Deutsches Theater München</placeName>
+            <placeName key="pmb35543">Deutsches Theater München</placeName>
             
   
             <geo>48,136944444444 11,5625</geo>
@@ -18955,7 +18955,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -19031,7 +19031,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__18">Lessing-Theater</placeName>
+            <placeName key="pmb18">Lessing-Theater</placeName>
             
   
             <geo>52,5225 13,376389</geo>
@@ -19058,7 +19058,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__34999">Kapelle-Ufer</placeName>
+            <placeName key="pmb34999">Kapelle-Ufer</placeName>
             
   
             <geo>52,52315 13,374789</geo>
@@ -19082,7 +19082,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -19179,7 +19179,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -19264,7 +19264,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -19309,7 +19309,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
+            <placeName key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
             
   
             <geo>48,210333 16,37084</geo>
@@ -19364,7 +19364,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__199430">Canovagasse 3</placeName>
+            <placeName key="pmb199430">Canovagasse 3</placeName>
             
   
             <geo>48,200517 16,373424</geo>
@@ -19382,7 +19382,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -19445,7 +19445,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__53970">Jasomirgottstraße</placeName>
+            <placeName key="pmb53970">Jasomirgottstraße</placeName>
             
   
             <geo>48,209267149611215 16,37195956941045</geo>
@@ -19485,7 +19485,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__205">Hotel Bristol Wien</placeName>
+            <placeName key="pmb205">Hotel Bristol Wien</placeName>
             
   
             <geo>48,202791 16,370064</geo>
@@ -19524,7 +19524,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -19630,7 +19630,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -19727,7 +19727,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -19775,7 +19775,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50087">Türkenstraße [München]</placeName>
+            <placeName key="pmb50087">Türkenstraße [München]</placeName>
             
   
             <geo>48,150271 11,57595</geo>
@@ -19827,7 +19827,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__43471">Budapest</placeName>
+            <placeName key="pmb43471">Budapest</placeName>
             
   
             <geo>47,49835 19,04045</geo>
@@ -19933,7 +19933,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__311">Mariannengasse</placeName>
+            <placeName key="pmb311">Mariannengasse</placeName>
             
   
             <geo>48,216168226614 16,347786493633</geo>
@@ -19957,7 +19957,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -20051,7 +20051,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -20096,7 +20096,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__237072">Ausstellungshalle des Hagenbundes</placeName>
+            <placeName key="pmb237072">Ausstellungshalle des Hagenbundes</placeName>
             
   
             <geo>48,206738 16,378383</geo>
@@ -20139,7 +20139,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__237232">Rudolfsplatz 12</placeName>
+            <placeName key="pmb237232">Rudolfsplatz 12</placeName>
             
   
             <geo>48,21393 16,371158</geo>
@@ -20157,7 +20157,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__267980">Concordia-Club [ab 1907]</placeName>
+            <placeName key="pmb267980">Concordia-Club [ab 1907]</placeName>
             
   
             <geo>48,21545 16,36633</geo>
@@ -20175,7 +20175,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -20220,7 +20220,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__186703">Concordia-Club [vor 1905]</placeName>
+            <placeName key="pmb186703">Concordia-Club [vor 1905]</placeName>
             
   
             <geo>48,209272 16,367561</geo>
@@ -20284,7 +20284,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -20378,7 +20378,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__542">Bösendorferstraße</placeName>
+            <placeName key="pmb542">Bösendorferstraße</placeName>
             
   
             <geo>48,201213 16,371141</geo>
@@ -20414,7 +20414,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -20499,7 +20499,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__36300">Kopenhagen</placeName>
+            <placeName key="pmb36300">Kopenhagen</placeName>
             
   
             <geo>55,67594 12,56553</geo>
@@ -20572,7 +20572,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -20663,7 +20663,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__233937">Florianigasse 58</placeName>
+            <placeName key="pmb233937">Florianigasse 58</placeName>
             
   
             <geo>48,212072 16,343738</geo>
@@ -20681,7 +20681,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -20781,7 +20781,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__46358">Schönbrunnerstraße</placeName>
+            <placeName key="pmb46358">Schönbrunnerstraße</placeName>
             
   
             <geo>48,18789 16,34508</geo>
@@ -20802,7 +20802,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__280">Renaissancetheater</placeName>
+            <placeName key="pmb280">Renaissancetheater</placeName>
             
   
             <geo>48,201139 16,349222</geo>
@@ -20823,7 +20823,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -20914,7 +20914,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -20999,7 +20999,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__207076">Strauchgasse 1</placeName>
+            <placeName key="pmb207076">Strauchgasse 1</placeName>
             
   
             <geo>48,210922 16,366201</geo>
@@ -21017,7 +21017,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -21111,7 +21111,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__240">Wiener Konzerthaus</placeName>
+            <placeName key="pmb240">Wiener Konzerthaus</placeName>
             
   
             <geo>48,200771836002 16,377197811369</geo>
@@ -21175,7 +21175,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__36300">Kopenhagen</placeName>
+            <placeName key="pmb36300">Kopenhagen</placeName>
             
   
             <geo>55,67594 12,56553</geo>
@@ -21269,7 +21269,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -21357,7 +21357,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__36300">Kopenhagen</placeName>
+            <placeName key="pmb36300">Kopenhagen</placeName>
             
   
             <geo>55,67594 12,56553</geo>
@@ -21408,7 +21408,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__265456">Mosedalvej 14</placeName>
+            <placeName key="pmb265456">Mosedalvej 14</placeName>
             
   
             <geo>55,66763 12,51461</geo>
@@ -21426,7 +21426,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__253946">Friedrichstraße 13</placeName>
+            <placeName key="pmb253946">Friedrichstraße 13</placeName>
             
   
             <geo>52,501718 13,391562</geo>
@@ -21497,7 +21497,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -21573,7 +21573,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__738">Berliner Theater</placeName>
+            <placeName key="pmb738">Berliner Theater</placeName>
             
   
             <geo>52,5048 13,3924</geo>
@@ -21597,7 +21597,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__168">Berlin</placeName>
+            <placeName key="pmb168">Berlin</placeName>
             
   
             <geo>52,52437 13,41053</geo>
@@ -21679,7 +21679,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -21761,7 +21761,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__47660">Kunsthistorisches Museum</placeName>
+            <placeName key="pmb47660">Kunsthistorisches Museum</placeName>
             
   
             <geo>48,203661 16,361378</geo>
@@ -21782,7 +21782,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__51">I., Innere Stadt</placeName>
+            <placeName key="pmb51">I., Innere Stadt</placeName>
             
   
             <geo>48,20769 16,37049</geo>
@@ -21873,7 +21873,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -21936,7 +21936,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__63189">Schubertring</placeName>
+            <placeName key="pmb63189">Schubertring</placeName>
             
   
             <geo>48,20281 16,37602</geo>
@@ -21960,7 +21960,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__237534">Fichtegasse 11</placeName>
+            <placeName key="pmb237534">Fichtegasse 11</placeName>
             
   
             <geo>48,202628 16,37689</geo>
@@ -22030,7 +22030,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__484">Zürich</placeName>
+            <placeName key="pmb484">Zürich</placeName>
             
   
             <geo>47,37174 8,54226</geo>
@@ -22100,7 +22100,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__30">Salzburg</placeName>
+            <placeName key="pmb30">Salzburg</placeName>
             
   
             <geo>47,80067 13,04532</geo>
@@ -22194,7 +22194,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__45258">München</placeName>
+            <placeName key="pmb45258">München</placeName>
             
   
             <geo>48,13743 11,57549</geo>
@@ -22291,7 +22291,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -22354,7 +22354,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__57113">Schubertgasse</placeName>
+            <placeName key="pmb57113">Schubertgasse</placeName>
             
   
             <geo>48,227579161212056 16,353365884715828</geo>
@@ -22439,7 +22439,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__50">Wien</placeName>
+            <placeName key="pmb50">Wien</placeName>
             
   
             <geo>48,208333 16,373056</geo>
@@ -22521,7 +22521,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__35576">Meiningen</placeName>
+            <placeName key="pmb35576">Meiningen</placeName>
             
   
             <geo>50,56787 10,41521</geo>
@@ -22582,7 +22582,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__860">Graz</placeName>
+            <placeName key="pmb860">Graz</placeName>
             
   
             <geo>47,06667 15,43333</geo>
@@ -22670,7 +22670,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="place__288992">Deutsch-Österreichischer Bühnenverein</placeName>
+            <placeName key="pmb288992">Deutsch-Österreichischer Bühnenverein</placeName>
             
   
             <geo>48,207832 16,369506</geo>

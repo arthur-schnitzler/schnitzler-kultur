@@ -54,6 +54,7 @@ entities = [
 ]
 
 # Hauptschleife
+# Hauptschleife
 for ent in entities:
     print(f"\n🔄 Verarbeite: {ent['output']}")
     
@@ -79,6 +80,18 @@ for ent in entities:
         if new_id not in mentioned_ids:
             container.remove(item)
 
+    # 3b. Alle @key- und @ref-Attribute rekursiv durchgehen und ersetzen
+    def update_references(element):
+        for attr in ['key', 'ref']:
+            if attr in element.attrib:
+                for prefix in ["person__", "place__", "work__", "org__", "event__"]:
+                    if element.attrib[attr].startswith(prefix):
+                        element.attrib[attr] = element.attrib[attr].replace(prefix, "pmb")
+        for child in element:
+            update_references(child)
+
+    update_references(source_root)
+
     # 4. Speichern
     output_path = os.path.join(output_dir, ent["output"])
     print(f"Ziel: {output_path}")
@@ -89,3 +102,4 @@ for ent in entities:
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(xml_string)
     print(f"✔️ Gespeichert: {ent['output']}")
+
