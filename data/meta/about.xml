@@ -185,10 +185,45 @@
             beschäftigt hatte, war die Liste seiner Kinobesuche. Diese wurde von Michael Rohrwasser, Stephan Kurz
             und Daniel Schopper als Monografie publiziert: <hi
                 rend="italics">A. ist manchmal wie ein kleines Kind. Clara Katharina Pollaczek und
-                Arthur Schnitzler gehen ins Kino</hi> (Wien: Böhlau 2012). Sie verwendeten dabei nicht nur
-                das Tagebuch, sondern auch die bis dahin nicht edierten Memoiren von Clara Katharina Pollaczek, Schnitzlers Partnerin
-                im letzten Lebensjahrzehnt. Die Liste war
-            </p>
+                Arthur Schnitzler gehen ins Kino</hi> (Wien: Böhlau 2012). Sie verwendeten dabei nicht ausschließlich
+                das Tagebuch, sondern auch die bis dahin nicht edierten Memoiren von Clara Katharina Pollaczek, <hi rend="italics">Arthur Schnitzler und ich</hi>. Diese war Schnitzlers Partnerin
+                in seinem letzten Lebensjahrzehnt und teilte mit ihm die Leidenschaft für die Kinobesuche – 512 besuchten sie
+                gemeinsam, 300 weitere er alleine. Diese Liste bekamen wir von den Herausgebern strukturiert zur Verfügung gestellt und 
+                konnten sie einfach übernehmen. Anfänglich planten wir eine eigene Website mit den Kinobesuchen daraus zu machen. Wir fragten
+                auch bei der Wienbibliothek um ein Digitalisat von <hi rend="italics">Arthur Schnitzler und ich</hi> an, das diese
+                innerhalb von wenigen Tagen erstellte. Die Texterkennung des 1000-seitigen Typoskripts führte zu einem so guten
+                Ergebnis, dass wir mit Peter Andorfer und Michael Mangel innerhalb weniger Tage eine digitale Fassung davon veröffentlichen
+                konnten.</p>
+            <p>Nun bestehen die Memoiren Pollaczeks nicht aus Listen, sie sind durch an eine durchlaufende Chronologie strukturiert und
+                unterteilt sich vor allem in die Textsorten Tagebucheintrag und Korrespondenzstück, so dass es sinnvoll schien, hier eine
+                Verzahnung mit dem digitalen Tagebuch Schnitzlers vorzunehmen. Die Idee war, dass man einen Tagebucheintrag Schnitzlers 
+                lesen kann und dann sieht, dass auch seine Partnerin die selbe Situation aus ihrer Perspektive schilderte. Für die technische
+                Implementation war es naheliegend, das offen zu gestalten, so dass die selbe Verknüpfung auch mit anderen Quellen –
+                Werkmanuskripten, Briefen, gedruckten Briefen, Archivquellen – möglich wurde. So entstand eine Meta-Ressource, die
+                <ref type="URL" target="https://schnitzler-chronik.acdh.oeaw.ac.at/">Schnitzler-Chronik</ref>. Sie fügt mehrere Listen
+                in einem Ordner zusammen und ordnet die Ereignisse Tagen zu. (Die einzelnen Listen finden sich, ebenso wie das Ganze, als Open-source-Veröffentlichung,
+                hier auf <ref type="URL" target="https://github.com/arthur-schnitzler/schnitzler-chronik-data">Github</ref>.</p>
+            <p>Die Chronik ist technisch derzeit simpel aufgebaut und es fehlen ihr Überblicksansichten, wie sie beispielsweise die
+                <ref type="URL" target="https://www.fontanearchiv.de/digitale-dienste/chronik/kalender/1898">Fontane-Chronik digital</ref> hat. So
+                ist weder im Kalender zu sehen, welche Arten von Einträgen für einen bestimmten Tag vorliegen, noch eine Volltextsuche
+                über alle verknüpften Projekte eingebaut. Derzeit vermuten wir, liegt der Nutzen der Chronik nicht so sehr auf ihrer 
+                separaten Website, sondern in ihrer Einbettung in die verschiedenen digitalen Schnitzler-Editionen. So wird bei den 
+                Briefen schnell ersichtlich, ob es für den gleichen Tag einen Tagebucheintrag gibt, welche Entitäten darin vorkommen. Mit
+                einem zweiten Klick ist man schon im Tagebuch. Umgekehrt werden beim Tagebuch die Briefe des Tages angezeigt, oder die
+                Interviews oder Datierungen auf Werkmanuskripten.</p>
+            <p>Spätestens bei der Chronik als Meta-Projekt muss es klar sein, dass solche Verknüpfungen nur über
+                Standards funktionieren. Das betrifft für Datumsangaben die durchgehende Verwendung von 
+                vollständigen, zehnstelligen ISO-Daten (»1862-05-15«). Das betrifft für Entitätsangaben Personen,
+                Werke, Orte und Organisationen der Einsatz eines Linked-Open-Data-Zugangs mit, nach Möglichkeit,
+                Normdaten. Weniger sperrig ausgedrückt und an einem Beispiel ausgedrückt: Für jede Person, die
+                in einem der Projekte vorkommt, wird eine Liste mit Links (eindeutigen »Identifiern«) angelegt.
+                Diese besagt: Die Person A hat im Projekt 1 die Identifikationsnummer 1234, im Projekt B die Identifikationsnummer
+                567890 usw. Dadurch kann eine automatische Verknüpfung zwischen den Projekten erfolgen. Die Software,
+                mit der das gelang, war <hi rend="italics">APIS</hi> (<hi rend="italics">Austrian Prosographical Information System</hi>), das
+                am Austrian Centre for Digital Humanities ursprünglich für das <hi rend="italics">Österreichische Biographische Lexikon</hi> 
+                entwickelt wurde. Aufgesetzt wurde die Instanz <ref type="URL" target="https://pmb.acdh.oeaw.ac.at/">PMB – Personen der Moderne Basis</ref> von Peter Andorfer, Ingo
+                Börner und Martin Anton Müller. Seither sind knapp unter 100.000 Entitäten mit beinahe 170.000 Beziehungen und 300.000 Identifiern
+                verzeichnet.</p>
             
             
             
