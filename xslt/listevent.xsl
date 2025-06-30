@@ -90,7 +90,7 @@
                                                   />
                                                 </xsl:element>
                                                 <xsl:if test="not(position() = last())">
-                                                  <lb/>
+                                                  <br/>
                                                 </xsl:if>
                                             </xsl:for-each>
                                         </td>
