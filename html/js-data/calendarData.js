@@ -1,6 +1,6 @@
 var calendarData = [
   {
-    "name": "Diner von Edmund Markbreiter, 26.12.1887", "startDate": "1887-12-26", "id": "pmb294892.html"
+    "name": "Diner bei Edmund Markbreiter, 26.12.1887", "startDate": "1887-12-26", "id": "pmb294892.html"
   },
   {
     "name": "Besuch des Budapester Possen- und Operettentheaters, 27.4.1899", "startDate": "1899-04-27", "id": "pmb293237.html"
@@ -712,9 +712,6 @@ var calendarData = [
   },
   {
     "name": "Kinobesuch von Die Revolutionshochzeit, 24.1.1916", "startDate": "1916-01-24", "id": "pmb263938.html"
-  },
-  {
-    "name": "Probe von Wilhelm Tell, 6.1.1916", "startDate": "1916-01-06", "id": "pmb263910.html"
   },
   {
     "name": "Ausstellungsbesuch von Frauenbildnisse von Madame d’Ora, 21.12.1915", "startDate": "1915-12-21", "id": "pmb263903.html"
@@ -6624,7 +6621,7 @@ var calendarData = [
     "name": "Aufführung von Eifersucht, 10.11.1922", "startDate": "1922-11-10", "id": "pmb210186.html"
   },
   {
-    "name": "II. Philharmonisches Konzert, 29.10.1922", "startDate": "1922-10-29", "id": "pmb210185.html"
+    "name": "Zweites philharmonisches Konzert, 29.10.1922", "startDate": "1922-10-29", "id": "pmb210185.html"
   },
   {
     "name": "Aufführung von Literatur, Die letzten Masken, 26.10.1922", "startDate": "1922-10-26", "id": "pmb210184.html"
@@ -7194,19 +7191,19 @@ var calendarData = [
     "name": "Aufführung von Der lebende Leichnam, 31.5.1919", "startDate": "1919-05-31", "id": "pmb209991.html"
   },
   {
-    "name": "Drei Sinfoniekonzerte mit Bruno Walter: 3. Mozart, 27.5.1919", "startDate": "1919-05-27", "id": "pmb209990.html"
+    "name": "Drittes Symphoniekonzert von Bruno Walter: Mozart, 27.5.1919", "startDate": "1919-05-27", "id": "pmb209990.html"
   },
   {
     "name": "Aufführung von Und das Licht leuchtet in der Finsternis, 26.5.1919", "startDate": "1919-05-26", "id": "pmb209989.html"
   },
   {
-    "name": "Drei Sinfoniekonzerte mit Bruno Walter: 2. Mahler, 23.5.1919", "startDate": "1919-05-23", "id": "pmb209988.html"
+    "name": "Zweites Symphoniekonzert von Bruno Walter: Mahler, 23.5.1919", "startDate": "1919-05-23", "id": "pmb209988.html"
   },
   {
-    "name": "Drei Sinfoniekonzerte mit Bruno Walter: 1. Beethoven, 19.5.1919", "startDate": "1919-05-19", "id": "pmb209987.html"
+    "name": "Erstes Symphoniekonzert von Bruno Walter: Beethoven, 19.5.1919", "startDate": "1919-05-19", "id": "pmb209987.html"
   },
   {
-    "name": "Sinfoniekonzert (1. Orchesterkonzert des »Anbruch«): Berlioz – Busoni mit Oscar Fried, 16.5.1919", "startDate": "1919-05-16", "id": "pmb209986.html"
+    "name": "Erstes Orchesterkonzert des »Anbruch«: Berlioz – Busoni mit Oscar Fried, 16.5.1919", "startDate": "1919-05-16", "id": "pmb209986.html"
   },
   {
     "name": "Aufführung von 9. Sinfonie, 9.5.1919", "startDate": "1919-05-09", "id": "pmb209985.html"
@@ -7224,7 +7221,7 @@ var calendarData = [
     "name": "Generalprobe von Die Sorina, 24.4.1919", "startDate": "1919-04-24", "id": "pmb209981.html"
   },
   {
-    "name": "4. Sinfoniekonzert, 20.4.1919", "startDate": "1919-04-20", "id": "pmb209980.html"
+    "name": "Viertes Symphoniekonzert, 20.4.1919", "startDate": "1919-04-20", "id": "pmb209980.html"
   },
   {
     "name": "Löwe-Abend von Franz Steiner, 19.4.1919", "startDate": "1919-04-19", "id": "pmb209979.html"
@@ -7248,7 +7245,7 @@ var calendarData = [
     "name": "3. Liederabend (Schumann – Brahms – Strauss) von Franz Steiner, 12.3.1919", "startDate": "1919-03-12", "id": "pmb209973.html"
   },
   {
-    "name": "5. Sinfoniekonzert, 3.3.1919", "startDate": "1919-03-03", "id": "pmb209972.html"
+    "name": "Fünftes Symphoniekonzert, 3.3.1919", "startDate": "1919-03-03", "id": "pmb209972.html"
   },
   {
     "name": "Generalprobe von Die Fahrt ins Blaue, 19.2.1919", "startDate": "1919-02-19", "id": "pmb209971.html"
@@ -7437,7 +7434,7 @@ var calendarData = [
     "name": "2. Abonnementskonzert Beethoven-Zyklus von Quartett Rosé, 20.11.1917", "startDate": "1917-11-20", "id": "pmb209909.html"
   },
   {
-    "name": "Sinfoniekonzert, 17.11.1917", "startDate": "1917-11-17", "id": "pmb209907.html"
+    "name": "Symphoniekonzert, 17.11.1917", "startDate": "1917-11-17", "id": "pmb209907.html"
   },
   {
     "name": "Aufführung von Leidenschaft, 16.11.1917", "startDate": "1917-11-16", "id": "pmb209906.html"
@@ -7461,7 +7458,7 @@ var calendarData = [
     "name": "Beethoven. Sämtliche Streichquartette. 1. Abend von Quartett Rosé, 23.10.1917", "startDate": "1917-10-23", "id": "pmb209899.html"
   },
   {
-    "name": "Schweizer Musikwoche. 1. Abend: Sinfoniekonzert, 22.10.1917", "startDate": "1917-10-22", "id": "pmb209898.html"
+    "name": "Schweizer Musikwoche, erster Abend: Symphoniekonzert, 22.10.1917", "startDate": "1917-10-22", "id": "pmb209898.html"
   },
   {
     "name": "Konzert des Tonkünstlerorchesters, 18.10.1917", "startDate": "1917-10-18", "id": "pmb209897.html"
@@ -7764,7 +7761,7 @@ var calendarData = [
     "name": "Premiere von Der Kandidat, 6.12.1915", "startDate": "1915-12-06", "id": "pmb209795.html"
   },
   {
-    "name": "2. Philharmonisches Konzert, 5.12.1915", "startDate": "1915-12-05", "id": "pmb209794.html"
+    "name": "Zweites philharmonisches Konzert, 5.12.1915", "startDate": "1915-12-05", "id": "pmb209794.html"
   },
   {
     "name": "Aufführung von Der Widerspenstigen Zähmung, 1.12.1915", "startDate": "1915-12-01", "id": "pmb209793.html"
@@ -9297,7 +9294,7 @@ var calendarData = [
     "name": "2. Gesangskonzert Camilla Landi, 5.1.1903", "startDate": "1903-01-05", "id": "pmb209274.html"
   },
   {
-    "name": "Symphoniekonzert, 17.12.1902", "startDate": "1902-12-17", "id": "pmb209273.html"
+    "name": "Drittes Symphoniekonzert im Mittwochzyklus des Wiener Konzertvereins, 17.12.1902", "startDate": "1902-12-17", "id": "pmb209273.html"
   },
   {
     "name": "Zweite Soirée des Böhmischen Streich-Quartetts, 5.12.1902", "startDate": "1902-12-05", "id": "pmb209272.html"
@@ -9366,7 +9363,7 @@ var calendarData = [
     "name": "Aufführung von Alt-Heidelberg. Schauspiel in 5 Aufzügen, 8.4.1902", "startDate": "1902-04-08", "id": "pmb209251.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 16.3.1902", "startDate": "1902-03-16", "id": "pmb209250.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 16.3.1902", "startDate": "1902-03-16", "id": "pmb209250.html"
   },
   {
     "name": "Russisches Symphonie-Konzert, 12.3.1902", "startDate": "1902-03-12", "id": "pmb209249.html"
@@ -9384,7 +9381,7 @@ var calendarData = [
     "name": "Aufführung von König Heinrich der Vierte (Zweiter Teil), 3.3.1902", "startDate": "1902-03-03", "id": "pmb209245.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 2.3.1902", "startDate": "1902-03-02", "id": "pmb209244.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 2.3.1902", "startDate": "1902-03-02", "id": "pmb209244.html"
   },
   {
     "name": "Aufführung von Heinrich der Vierte (1. Teil), 27.2.1902", "startDate": "1902-02-27", "id": "pmb209243.html"
@@ -9423,7 +9420,7 @@ var calendarData = [
     "name": "Gesellschaftskonzert im Musikverein, 19.1.1902", "startDate": "1902-01-19", "id": "pmb209232.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 12.1.1902", "startDate": "1902-01-12", "id": "pmb209231.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 12.1.1902", "startDate": "1902-01-12", "id": "pmb209231.html"
   },
   {
     "name": "Auftritt von Quartett Rosé, 7.1.1902", "startDate": "1902-01-07", "id": "pmb209230.html"
@@ -9444,7 +9441,7 @@ var calendarData = [
     "name": "Populäres Konzert des Rosé-Quartetts, 16.12.1901", "startDate": "1901-12-16", "id": "pmb209225.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 15.12.1901", "startDate": "1901-12-15", "id": "pmb209224.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 15.12.1901", "startDate": "1901-12-15", "id": "pmb209224.html"
   },
   {
     "name": "Symphoniekonzert, 10.12.1901", "startDate": "1901-12-10", "id": "pmb209223.html"
@@ -9459,7 +9456,7 @@ var calendarData = [
     "name": "Violinkonzert von Bronisław Huberman, 2.12.1901", "startDate": "1901-12-02", "id": "pmb209220.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 1.12.1901", "startDate": "1901-12-01", "id": "pmb209219.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 1.12.1901", "startDate": "1901-12-01", "id": "pmb209219.html"
   },
   {
     "name": "Aufführung von Hoffmanns Erzählungen, 29.11.1901", "startDate": "1901-11-29", "id": "pmb209218.html"
@@ -9477,7 +9474,7 @@ var calendarData = [
     "name": "Konzert, 19.11.1901", "startDate": "1901-11-19", "id": "pmb209214.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 17.11.1901", "startDate": "1901-11-17", "id": "pmb209213.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 17.11.1901", "startDate": "1901-11-17", "id": "pmb209213.html"
   },
   {
     "name": "Erstes Konzert von Ignacy Paderewski, 14.11.1901", "startDate": "1901-11-14", "id": "pmb209212.html"
@@ -9495,7 +9492,7 @@ var calendarData = [
     "name": "Aufführung von Der Traum ein Leben, 30.10.1901", "startDate": "1901-10-30", "id": "pmb209208.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 29.10.1901", "startDate": "1901-10-29", "id": "pmb209207.html"
+    "name": "Dienstag-Zyklus, erstes Symphoniekonzert, 29.10.1901", "startDate": "1901-10-29", "id": "pmb209207.html"
   },
   {
     "name": "Aufführung von The Geisha, a story of a tea house, 23.10.1901", "startDate": "1901-10-23", "id": "pmb209206.html"
@@ -9546,7 +9543,7 @@ var calendarData = [
     "name": "Konservatoriums-Vorstellung, 26.2.1901", "startDate": "1901-02-26", "id": "pmb209189.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 24.2.1901", "startDate": "1901-02-24", "id": "pmb209188.html"
+    "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 24.2.1901", "startDate": "1901-02-24", "id": "pmb209188.html"
   },
   {
     "name": "Aufführung von Episode, Zuhause. Drama in einem Akt, Das Streichholzmädchen, Der Herr Kommissär, 22.2.1901", "startDate": "1901-02-22", "id": "pmb209187.html"
@@ -9564,7 +9561,7 @@ var calendarData = [
     "name": "Symphoniekonzert, 22.1.1901", "startDate": "1901-01-22", "id": "pmb209183.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 13.1.1901", "startDate": "1901-01-13", "id": "pmb209181.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 13.1.1901", "startDate": "1901-01-13", "id": "pmb209181.html"
   },
   {
     "name": "Aufführung von Egmont, 10.1.1901", "startDate": "1901-01-10", "id": "pmb209180.html"
@@ -9603,7 +9600,7 @@ var calendarData = [
     "name": "Vorlesung, 8.11.1900", "startDate": "1900-11-08", "id": "pmb209168.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 3.11.1900", "startDate": "1900-11-03", "id": "pmb209167.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 4.11.1900", "startDate": "1900-11-04", "id": "pmb209167.html"
   },
   {
     "name": "Aufführung von Cosi fan tutte, 3.11.1900", "startDate": "1900-11-03", "id": "pmb209166.html"
@@ -9669,7 +9666,7 @@ var calendarData = [
     "name": "Vierte (letzte) Soirée des Prill-Quartetts, 21.3.1900", "startDate": "1900-03-21", "id": "pmb209146.html"
   },
   {
-    "name": "Symphoniekonzert, 17.3.1900", "startDate": "1900-03-17", "id": "pmb209145.html"
+    "name": "Fünftes Symphoniekonzert des Neuen philharmonischen Orchesters, 17.3.1900", "startDate": "1900-03-17", "id": "pmb209145.html"
   },
   {
     "name": "Aufführung von Jugend von heute, 12.3.1900", "startDate": "1900-03-12", "id": "pmb209144.html"
@@ -9693,7 +9690,7 @@ var calendarData = [
     "name": "Aufführung von Letzte Liebe, 15.2.1900", "startDate": "1900-02-15", "id": "pmb209138.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 14.2.1900", "startDate": "1900-02-14", "id": "pmb209137.html"
+    "name": "Drittes Symphoniekonzert des Neuen philharmonischen Orchesters, 14.2.1900", "startDate": "1900-02-14", "id": "pmb209137.html"
   },
   {
     "name": "Aufführung von Tristan und Isolde, 13.2.1900", "startDate": "1900-02-13", "id": "pmb209136.html"
@@ -9705,7 +9702,7 @@ var calendarData = [
     "name": "Premiere von Rhodope, 1.2.1900", "startDate": "1900-02-01", "id": "pmb209134.html"
   },
   {
-    "name": "Philharmonisches Konzert, 30.1.1900", "startDate": "1900-01-30", "id": "pmb209133.html"
+    "name": "Zweites Symphoniekonzert des Neuen philharmonischen Orchesters, 30.1.1900", "startDate": "1900-01-30", "id": "pmb209133.html"
   },
   {
     "name": "Premiere von Die Damen Lebardieu, 26.1.1900", "startDate": "1900-01-26", "id": "pmb209132.html"
@@ -9747,13 +9744,13 @@ var calendarData = [
     "name": "Aufführung von Der kleine Corporal, 20.12.1899", "startDate": "1899-12-20", "id": "pmb209120.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 17.12.1899", "startDate": "1899-12-17", "id": "pmb209119.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 17.12.1899", "startDate": "1899-12-17", "id": "pmb209119.html"
   },
   {
     "name": "Drittes Konzert des Rosé-Quartetts, 12.12.1899", "startDate": "1899-12-12", "id": "pmb209118.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 3.12.1899", "startDate": "1899-12-03", "id": "pmb209117.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 3.12.1899", "startDate": "1899-12-03", "id": "pmb209117.html"
   },
   {
     "name": "Klavierkonzert, 24.11.1899", "startDate": "1899-11-24", "id": "pmb209116.html"
@@ -9906,7 +9903,7 @@ var calendarData = [
     "name": "Aufführung von Der Unterstaatssekretär, 6.3.1899", "startDate": "1899-03-06", "id": "pmb209067.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 26.2.1899", "startDate": "1899-02-26", "id": "pmb209066.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 26.2.1899", "startDate": "1899-02-26", "id": "pmb209066.html"
   },
   {
     "name": "Aufführung von Liebesträume. Comödie in 1 Act, Fiaker 117. Schwank in 3 Acten, 25.2.1889", "startDate": "1889-02-25", "id": "pmb209065.html"
@@ -9924,7 +9921,7 @@ var calendarData = [
     "name": "Premiere von Coulissenzauber, 1.2.1899", "startDate": "1899-02-01", "id": "pmb209061.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 29.1.1899", "startDate": "1899-01-29", "id": "pmb209060.html"
+    "name": "Sechtes Abonnementkonzert der Wiener Philharmoniker, 29.1.1899", "startDate": "1899-01-29", "id": "pmb209060.html"
   },
   {
     "name": "Vierter Abend des Böhmischen Streich-Quartetts, 20.1.1899", "startDate": "1899-01-20", "id": "pmb209059.html"
@@ -9933,7 +9930,7 @@ var calendarData = [
     "name": "Premiere von Fuhrmann Henschel, 19.1.1899", "startDate": "1899-01-19", "id": "pmb209058.html"
   },
   {
-    "name": "1. Philharmonisches Konzert, 15.1.1899", "startDate": "1899-01-15", "id": "pmb209057.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 15.1.1899", "startDate": "1899-01-15", "id": "pmb209057.html"
   },
   {
     "name": "Aufführung von A Midsommer nights dreame, 14.1.1899", "startDate": "1899-01-14", "id": "pmb209056.html"
@@ -9948,7 +9945,7 @@ var calendarData = [
     "name": "Verwandlungskünstler Fregoli, 28.12.1898", "startDate": "1898-12-28", "id": "pmb209053.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 18.12.1898", "startDate": "1898-12-18", "id": "pmb209052.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 18.12.1898", "startDate": "1898-12-18", "id": "pmb209052.html"
   },
   {
     "name": "Dritte Soirée des Böhmischen Streich-Quartetts, 16.12.1898", "startDate": "1898-12-16", "id": "pmb209051.html"
@@ -9960,7 +9957,7 @@ var calendarData = [
     "name": "Zweite Soirée des Böhmischen Streich-Quartetts, 9.12.1898", "startDate": "1898-12-09", "id": "pmb209049.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 4.12.1898", "startDate": "1898-12-04", "id": "pmb209048.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 4.12.1898", "startDate": "1898-12-04", "id": "pmb209048.html"
   },
   {
     "name": "Aufführung von Romeo und Julia, 26.11.1898", "startDate": "1898-11-26", "id": "pmb209047.html"
@@ -9972,7 +9969,7 @@ var calendarData = [
     "name": "Aufführung von Die Räuber, 22.11.1898", "startDate": "1898-11-22", "id": "pmb209045.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 20.11.1898", "startDate": "1898-11-20", "id": "pmb209044.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 20.11.1898", "startDate": "1898-11-20", "id": "pmb209044.html"
   },
   {
     "name": "Aufführung von Die blonde Kathrein. Ein Märchenspiel, 19.11.1898", "startDate": "1898-11-19", "id": "pmb209043.html"
@@ -9984,7 +9981,7 @@ var calendarData = [
     "name": "Aufführung von Die Jungfrau von Orleans, 10.11.1898", "startDate": "1898-11-10", "id": "pmb209041.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 6.11.1898", "startDate": "1898-11-06", "id": "pmb209040.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 6.11.1898", "startDate": "1898-11-06", "id": "pmb209040.html"
   },
   {
     "name": "Aufführung von Die gute Partie, 5.11.1898", "startDate": "1898-11-05", "id": "pmb209039.html"
@@ -10041,7 +10038,7 @@ var calendarData = [
     "name": "Aufführung von Die Neuvermählten, Hannele, 17.6.1898", "startDate": "1898-06-17", "id": "pmb209022.html"
   },
   {
-    "name": "Aufführung von Bibliothekar, 14.6.1898", "startDate": "1898-06-14", "id": "pmb209021.html"
+    "name": "Aufführung von Der Bibliothekar, 14.6.1898", "startDate": "1898-06-14", "id": "pmb209021.html"
   },
   {
     "name": "Aufführung von Die Verliebten, 30.5.1898", "startDate": "1898-05-30", "id": "pmb209020.html"
@@ -10077,7 +10074,7 @@ var calendarData = [
     "name": "Quartett im Musikverein, 5.4.1898", "startDate": "1898-04-05", "id": "pmb209010.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 27.3.1898", "startDate": "1898-03-27", "id": "pmb209009.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 27.3.1898", "startDate": "1898-03-27", "id": "pmb209009.html"
   },
   {
     "name": "Premiere von Baumeister Solness, 26.3.1898", "startDate": "1898-03-26", "id": "pmb209008.html"
@@ -10128,7 +10125,7 @@ var calendarData = [
     "name": "2. Aufführung von Bartel Turaser. Drama in drei Akten, 12.1.1898", "startDate": "1898-01-12", "id": "pmb208993.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 9.1.1898", "startDate": "1898-01-09", "id": "pmb208992.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 9.1.1898", "startDate": "1898-01-09", "id": "pmb208992.html"
   },
   {
     "name": "Premiere von Das neue Ghetto, 5.1.1898", "startDate": "1898-01-05", "id": "pmb208991.html"
@@ -10143,7 +10140,7 @@ var calendarData = [
     "name": "Ballett im Oper, 20.12.1897", "startDate": "1897-12-20", "id": "pmb208988.html"
   },
   {
-    "name": "Auftritt von Quartett Rosé, 17.12.1897", "startDate": "1897-12-17", "id": "pmb208987.html"
+    "name": "Konzert des Rosé-Quartetts, 17.12.1897", "startDate": "1897-12-17", "id": "pmb208987.html"
   },
   {
     "name": "Zweite Soirée des Böhmischen Streich-Quartetts, 10.12.1897", "startDate": "1897-12-10", "id": "pmb208986.html"
@@ -10380,7 +10377,7 @@ var calendarData = [
     "name": "Premiere von Die versunkene Glocke, 9.3.1897", "startDate": "1897-03-09", "id": "pmb208909.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 7.3.1897", "startDate": "1897-03-07", "id": "pmb208908.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 7.3.1897", "startDate": "1897-03-07", "id": "pmb208908.html"
   },
   {
     "name": "Premiere von Das Tschaperl, 27.2.1897", "startDate": "1897-02-27", "id": "pmb208907.html"
@@ -10452,7 +10449,7 @@ var calendarData = [
     "name": "Premiere von Das letzte Ideal, Die Romantischen, 7.12.1896", "startDate": "1896-12-07", "id": "pmb208885.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 6.12.1896", "startDate": "1896-12-06", "id": "pmb208884.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 6.12.1896", "startDate": "1896-12-06", "id": "pmb208884.html"
   },
   {
     "name": "Aufführung von König Chilperich, 5.12.1896", "startDate": "1896-12-05", "id": "pmb208883.html"
@@ -10519,9 +10516,6 @@ var calendarData = [
   },
   {
     "name": "Aufführung von Die Räuber, 21.10.1896", "startDate": "1896-10-21", "id": "pmb208862.html"
-  },
-  {
-    "name": "Premiere von Sein Sohn, 16.10.1896", "startDate": "1896-10-16", "id": "pmb208861.html"
   },
   {
     "name": "Aufführung von Hamlet, 15.10.1896", "startDate": "1896-10-15", "id": "pmb208860.html"
@@ -10707,7 +10701,7 @@ var calendarData = [
     "name": "Aufführung von Der Obersteiger, 2.12.1895", "startDate": "1895-12-02", "id": "pmb208800.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 1.12.1895", "startDate": "1895-12-01", "id": "pmb208799.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 1.12.1895", "startDate": "1895-12-01", "id": "pmb208799.html"
   },
   {
     "name": "Aufführung von Die Venus von Milo, Infedele. Commedia in tre atti, 29.11.1895", "startDate": "1895-11-29", "id": "pmb208798.html"
@@ -10983,13 +10977,13 @@ var calendarData = [
     "name": "Zweite Soirée des Böhmischen Streich-Quartetts, 20.12.1894", "startDate": "1894-12-20", "id": "pmb208708.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 16.12.1894", "startDate": "1894-12-16", "id": "pmb208707.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 16.12.1894", "startDate": "1894-12-16", "id": "pmb208707.html"
   },
   {
     "name": "Aufführung von A Midsommer nights dreame, 14.12.1894", "startDate": "1894-12-14", "id": "pmb208706.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 9.12.1894", "startDate": "1894-12-09", "id": "pmb208705.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 9.12.1894", "startDate": "1894-12-09", "id": "pmb208705.html"
   },
   {
     "name": "Premiere von Zwei Wappen, 6.12.1894", "startDate": "1894-12-06", "id": "pmb208704.html"
@@ -11145,7 +11139,7 @@ var calendarData = [
     "name": "Aufführung von Charley's Tante, Columbia, 13.2.1894", "startDate": "1894-02-13", "id": "pmb208654.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 11.2.1894", "startDate": "1894-02-11", "id": "pmb208653.html"
+    "name": "Philharmonisches Konzert zu Gunsten des Vereins »Nicolai«, 11.2.1894", "startDate": "1894-02-11", "id": "pmb208653.html"
   },
   {
     "name": "Trio Ondriczek, Popper, Door, 10.2.1894", "startDate": "1894-02-10", "id": "pmb208652.html"
@@ -11262,7 +11256,7 @@ var calendarData = [
     "name": "Premiere von Heiratsnest, 13.4.1893", "startDate": "1893-04-13", "id": "pmb208615.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 9.4.1893", "startDate": "1893-04-09", "id": "pmb208614.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 9.4.1893", "startDate": "1893-04-09", "id": "pmb208614.html"
   },
   {
     "name": "Aufführung von Gläubiger, Die Statue des Gouverneurs, 29.3.1893", "startDate": "1893-03-29", "id": "pmb208613.html"
@@ -11274,7 +11268,7 @@ var calendarData = [
     "name": "Premiere von Bernhard Lenz, 20.3.1893", "startDate": "1893-03-20", "id": "pmb208611.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 19.3.1893", "startDate": "1893-03-19", "id": "pmb208610.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 19.3.1893", "startDate": "1893-03-19", "id": "pmb208610.html"
   },
   {
     "name": "Premiere von Lolos Vater, 18.3.1893", "startDate": "1893-03-18", "id": "pmb208609.html"
@@ -11301,7 +11295,7 @@ var calendarData = [
     "name": "Premiere von Madame Mongodin, 1.2.1893", "startDate": "1893-02-01", "id": "pmb208602.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 29.1.1893", "startDate": "1893-01-29", "id": "pmb208601.html"
+    "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 29.1.1893", "startDate": "1893-01-29", "id": "pmb208601.html"
   },
   {
     "name": "Aufführung von Viel Lärm um nichts. Lustspiel in fünf Akten, 26.1.1893", "startDate": "1893-01-26", "id": "pmb208600.html"
@@ -11322,7 +11316,7 @@ var calendarData = [
     "name": "Erstes Konzert des Konservatoriums der Gesellschaft der Musikfreunde, 16.1.1893", "startDate": "1893-01-16", "id": "pmb208595.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 15.1.1893", "startDate": "1893-01-15", "id": "pmb208594.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 15.1.1893", "startDate": "1893-01-15", "id": "pmb208594.html"
   },
   {
     "name": "Konzert im Musikverein, 13.1.1893", "startDate": "1893-01-13", "id": "pmb208593.html"
@@ -11457,7 +11451,7 @@ var calendarData = [
     "name": "Zehnter Renaissance-Abend, 9.4.1892", "startDate": "1892-04-09", "id": "pmb208550.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 3.4.1892", "startDate": "1892-04-03", "id": "pmb208549.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 3.4.1892", "startDate": "1892-04-03", "id": "pmb208549.html"
   },
   {
     "name": "Premiere von Die Ehre, 2.4.1892", "startDate": "1892-04-02", "id": "pmb208548.html"
@@ -11478,7 +11472,7 @@ var calendarData = [
     "name": "Premiere von Roderich Heller, 26.3.1892", "startDate": "1892-03-26", "id": "pmb208543.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 20.3.1892", "startDate": "1892-03-20", "id": "pmb208542.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 20.3.1892", "startDate": "1892-03-20", "id": "pmb208542.html"
   },
   {
     "name": "Premiere von Sie schützt sich selbst, 16.3.1892", "startDate": "1892-03-16", "id": "pmb208541.html"
@@ -11556,7 +11550,7 @@ var calendarData = [
     "name": "Generalprobe von Ritter Patzmann, 30.12.1891", "startDate": "1891-12-30", "id": "pmb208517.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 27.12.1891", "startDate": "1891-12-27", "id": "pmb208516.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 27.12.1891", "startDate": "1891-12-27", "id": "pmb208516.html"
   },
   {
     "name": "Gesellschaftskonzert, 20.12.1891", "startDate": "1891-12-20", "id": "pmb208515.html"
@@ -11568,7 +11562,7 @@ var calendarData = [
     "name": "Aufführung von Die Nibelungen, III. Teil: Kriemhilds Rache, 13.12.1891", "startDate": "1891-12-13", "id": "pmb208513.html"
   },
   {
-    "name": "Philharmonisches Konzert, 13.12.1891", "startDate": "1891-12-13", "id": "pmb208512.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 13.12.1891", "startDate": "1891-12-13", "id": "pmb208512.html"
   },
   {
     "name": "Konzert im Bösendorfer-Saal, 10.12.1891", "startDate": "1891-12-10", "id": "pmb208511.html"
@@ -11577,7 +11571,7 @@ var calendarData = [
     "name": "Konzert von Eugen d’Albert, 30.11.1891", "startDate": "1891-11-30", "id": "pmb208510.html"
   },
   {
-    "name": "Philharmonisches Konzert, 29.11.1891", "startDate": "1891-11-29", "id": "pmb208509.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 29.11.1891", "startDate": "1891-11-29", "id": "pmb208509.html"
   },
   {
     "name": "Premiere von Der kritische Tag, 28.11.1891", "startDate": "1891-11-28", "id": "pmb208508.html"
@@ -11586,7 +11580,7 @@ var calendarData = [
     "name": "Violinkonzert im Musikverein, 17.11.1891", "startDate": "1891-11-17", "id": "pmb208507.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 15.11.1891", "startDate": "1891-11-15", "id": "pmb208506.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 15.11.1891", "startDate": "1891-11-15", "id": "pmb208506.html"
   },
   {
     "name": "Aufführung von Der Geigenmacher von Cremona, Jugendliebe. Lustspiel in einem Aufzuge, 12.11.1891", "startDate": "1891-11-12", "id": "pmb208505.html"
@@ -11673,7 +11667,7 @@ var calendarData = [
     "name": "Aufführung von Die Ehre, 19.4.1891", "startDate": "1891-04-19", "id": "pmb208478.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 12.4.1891", "startDate": "1891-04-12", "id": "pmb208477.html"
+    "name": "Philharmonisches Konzert zu Gunsten des Vereins »Nicolai«, 12.4.1891", "startDate": "1891-04-12", "id": "pmb208477.html"
   },
   {
     "name": "Premiere von Das goldene Kreuz, Rouge et Noir, 4.4.1891", "startDate": "1891-04-04", "id": "pmb208475.html"
@@ -11688,19 +11682,19 @@ var calendarData = [
     "name": "Aufführung von Die kleine Mama, 15.3.1891", "startDate": "1891-03-15", "id": "pmb208472.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 15.3.1891", "startDate": "1891-03-15", "id": "pmb208471.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 15.3.1891", "startDate": "1891-03-15", "id": "pmb208471.html"
   },
   {
-    "name": "Ball von Johann und Bertha Klein, 14.3.1891", "startDate": "1891-03-14", "id": "pmb208470.html"
+    "name": "Hausball bei Johann und Bertha Klein, 14.3.1891", "startDate": "1891-03-14", "id": "pmb208470.html"
   },
   {
-    "name": "Soirée von Maximilian von Weiss-Wellenstein, 13.3.1891", "startDate": "1891-03-13", "id": "pmb208469.html"
+    "name": "Soirée bei Maximilian von Weiss-Wellenstein, 13.3.1891", "startDate": "1891-03-13", "id": "pmb208469.html"
   },
   {
     "name": "Premiere von Der Ring des Ofterdingen, 12.3.1891", "startDate": "1891-03-12", "id": "pmb208468.html"
   },
   {
-    "name": "Ball von Wilhelm Zierer, 8.3.1891", "startDate": "1891-03-08", "id": "pmb208467.html"
+    "name": "Hausball bei Wilhelm Zierer, 8.3.1891", "startDate": "1891-03-08", "id": "pmb208467.html"
   },
   {
     "name": "Aufführung von Manon, 7.3.1891", "startDate": "1891-03-07", "id": "pmb208466.html"
@@ -11715,16 +11709,16 @@ var calendarData = [
     "name": "Klavierkonzert von Alfred Grünfeld, 24.2.1891", "startDate": "1891-02-24", "id": "pmb208463.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 22.2.1891", "startDate": "1891-02-22", "id": "pmb208462.html"
+    "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 22.2.1891", "startDate": "1891-02-22", "id": "pmb208462.html"
   },
   {
-    "name": "Diner und Soirée von Gustav von Weiss-Wellenstein, 21.2.1891", "startDate": "1891-02-21", "id": "pmb208461.html"
+    "name": "Diner und Soirée bei Gustav von Weiss-Wellenstein, 21.2.1891", "startDate": "1891-02-21", "id": "pmb208461.html"
   },
   {
     "name": "Viertes (letztes) Klavierkonzert von Emil Sauer, 19.2.1891", "startDate": "1891-02-19", "id": "pmb208460.html"
   },
   {
-    "name": "Ball von Adolf Springer, 18.2.1891", "startDate": "1891-02-18", "id": "pmb208459.html"
+    "name": "Hausball bei Adolf Springer, 18.2.1891", "startDate": "1891-02-18", "id": "pmb208459.html"
   },
   {
     "name": "Ball Pollak, 16.2.1891", "startDate": "1891-02-16", "id": "pmb208458.html"
@@ -11769,7 +11763,7 @@ var calendarData = [
     "name": "Aufführung von König Ottokars Glück und Ende, 11.1.1891", "startDate": "1891-01-11", "id": "pmb208445.html"
   },
   {
-    "name": "Ball von Ignaz Pserhofer, 10.1.1891", "startDate": "1891-01-10", "id": "pmb208444.html"
+    "name": "Hausball bei Ignaz Pserhofer, 10.1.1891", "startDate": "1891-01-10", "id": "pmb208444.html"
   },
   {
     "name": "Aufführung von Der Gimpel, 10.1.1891", "startDate": "1891-01-10", "id": "pmb208443.html"
@@ -11778,16 +11772,16 @@ var calendarData = [
     "name": "Aufführung von Die Fledermaus, 9.1.1891", "startDate": "1891-01-09", "id": "pmb208442.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 4.1.1891", "startDate": "1891-01-04", "id": "pmb208441.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 4.1.1891", "startDate": "1891-01-04", "id": "pmb208441.html"
   },
   {
     "name": "Aufführung von Eine vornehme Ehe, 30.12.1890", "startDate": "1890-12-30", "id": "pmb208440.html"
   },
   {
-    "name": "Ball von Leopold Klein, 28.12.1890", "startDate": "1890-12-28", "id": "pmb208439.html"
+    "name": "Hausball bei Leopold Klein, 28.12.1890", "startDate": "1890-12-28", "id": "pmb208439.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 21.12.1890", "startDate": "1890-12-21", "id": "pmb208438.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 21.12.1890", "startDate": "1890-12-21", "id": "pmb208438.html"
   },
   {
     "name": "Aufführung von Merlin, 17.12.1890", "startDate": "1890-12-17", "id": "pmb208437.html"
@@ -11820,7 +11814,7 @@ var calendarData = [
     "name": "Aufführung von Mamsell Gigerl, , 25.11.1890", "startDate": "1890-11-25", "id": "pmb208428.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 23.11.1890", "startDate": "1890-11-23", "id": "pmb208427.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 23.11.1890", "startDate": "1890-11-23", "id": "pmb208427.html"
   },
   {
     "name": "Aufführung von Manon, 22.11.1890", "startDate": "1890-11-22", "id": "pmb208426.html"
@@ -11835,7 +11829,7 @@ var calendarData = [
     "name": "Aufführung von Tristan und Isolde, 16.11.1890", "startDate": "1890-11-16", "id": "pmb208423.html"
   },
   {
-    "name": "Soirée von Leopold Rosenberg, 15.11.1890", "startDate": "1890-11-15", "id": "pmb208422.html"
+    "name": "Soirée bei Leopold Rosenberg, 15.11.1890", "startDate": "1890-11-15", "id": "pmb208422.html"
   },
   {
     "name": "Varieté im Ronacher, 14.11.1890", "startDate": "1890-11-14", "id": "pmb208421.html"
@@ -11847,7 +11841,7 @@ var calendarData = [
     "name": "Aufführung von Umkehr. Sittenbild in vier Akten, 9.11.1890", "startDate": "1890-11-09", "id": "pmb208419.html"
   },
   {
-    "name": "Philharmonisches Konzert, 9.11.1890", "startDate": "1890-11-09", "id": "pmb208418.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 9.11.1890", "startDate": "1890-11-09", "id": "pmb208418.html"
   },
   {
     "name": "Premiere von Erminy, 7.11.1890", "startDate": "1890-11-07", "id": "pmb208417.html"
@@ -11919,19 +11913,19 @@ var calendarData = [
     "name": "Klavierkonzert Moriz von Rosenthal, 31.3.1890", "startDate": "1890-03-31", "id": "pmb208395.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 30.3.1890", "startDate": "1890-03-30", "id": "pmb208394.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 30.3.1890", "startDate": "1890-03-30", "id": "pmb208394.html"
   },
   {
     "name": "Vorstellung der Opernschule des Konservatoriums der Gesellschaft der Musikfreunde, 29.3.1890", "startDate": "1890-03-29", "id": "pmb208393.html"
   },
   {
-    "name": "Ball von Leopold Klein, 28.3.1890", "startDate": "1890-03-28", "id": "pmb208392.html"
+    "name": "Hausball bei Leopold Klein, 28.3.1890", "startDate": "1890-03-28", "id": "pmb208392.html"
   },
   {
     "name": "Zweite Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 26.3.1890", "startDate": "1890-03-26", "id": "pmb208391.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 25.3.1890", "startDate": "1890-03-25", "id": "pmb208390.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 23.3.1890", "startDate": "1890-03-23", "id": "pmb208390.html"
   },
   {
     "name": "Erste Vorstellung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 20.3.1890", "startDate": "1890-03-20", "id": "pmb208389.html"
@@ -11940,7 +11934,7 @@ var calendarData = [
     "name": "Klavierkonzert von Moriz Rosenthal, 13.3.1890", "startDate": "1890-03-13", "id": "pmb208388.html"
   },
   {
-    "name": "Ball von Bernhard Hellmann, 9.3.1890", "startDate": "1890-03-09", "id": "pmb208387.html"
+    "name": "Hausball bei Bernhard Hellmann, 9.3.1890", "startDate": "1890-03-09", "id": "pmb208387.html"
   },
   {
     "name": "Kränzchen zu Gunsten der Allgemeinen Poliklinik, 4.3.1890", "startDate": "1890-03-04", "id": "pmb208386.html"
@@ -11958,7 +11952,7 @@ var calendarData = [
     "name": "Rathaus-Redoute, 18.2.1890", "startDate": "1890-02-18", "id": "pmb208382.html"
   },
   {
-    "name": "Soirée von John Simeon Bergheim, 17.2.1890", "startDate": "1890-02-17", "id": "pmb208381.html"
+    "name": "Soirée bei John Simeon Bergheim, 17.2.1890", "startDate": "1890-02-17", "id": "pmb208381.html"
   },
   {
     "name": "Konzert im Ronacher, 11.2.1890", "startDate": "1890-02-11", "id": "pmb208380.html"
@@ -11967,13 +11961,13 @@ var calendarData = [
     "name": "Zweiter Liederabend von Gustav Walter, 10.2.1890", "startDate": "1890-02-10", "id": "pmb208379.html"
   },
   {
-    "name": "Ball von Ferdinand Neumann, 7.2.1890", "startDate": "1890-02-07", "id": "pmb208378.html"
+    "name": "Hausball bei Ferdinand Neumann, 7.2.1890", "startDate": "1890-02-07", "id": "pmb208378.html"
   },
   {
-    "name": "Ball von Leopold Rosenberg, 5.2.1890", "startDate": "1890-02-05", "id": "pmb208377.html"
+    "name": "Hausball bei Leopold Rosenberg, 5.2.1890", "startDate": "1890-02-05", "id": "pmb208377.html"
   },
   {
-    "name": "Ball von Adolf Springer, 5.2.1890", "startDate": "1890-02-05", "id": "pmb208376.html"
+    "name": "Hausball bei Adolf Springer, 5.2.1890", "startDate": "1890-02-05", "id": "pmb208376.html"
   },
   {
     "name": "Ball Pollak, 25.1.1890", "startDate": "1890-01-25", "id": "pmb208375.html"
@@ -11991,7 +11985,7 @@ var calendarData = [
     "name": "2. Gesellschaftskonzert mit Robert Schumann: Scenen aus Göthe’s Faust, 19.1.1890", "startDate": "1890-01-19", "id": "pmb208371.html"
   },
   {
-    "name": "Ball von Strauss, 18.1.1890", "startDate": "1890-01-18", "id": "pmb208370.html"
+    "name": "Hausball bei Strauss, 18.1.1890", "startDate": "1890-01-18", "id": "pmb208370.html"
   },
   {
     "name": "Ronacher, 15.1.1890", "startDate": "1890-01-15", "id": "pmb208369.html"
@@ -12012,7 +12006,7 @@ var calendarData = [
     "name": "Silberne Hochzeit von Ludwig und Irene Mandl, 25.12.1889", "startDate": "1889-12-25", "id": "pmb208364.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 22.12.1889", "startDate": "1889-12-22", "id": "pmb208363.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 22.12.1889", "startDate": "1889-12-22", "id": "pmb208363.html"
   },
   {
     "name": "Konzert von Albert Hirsch, 21.12.1889", "startDate": "1889-12-21", "id": "pmb208362.html"
@@ -12030,7 +12024,7 @@ var calendarData = [
     "name": "Danzer’s Orpheum, 3.12.1889", "startDate": "1889-12-03", "id": "pmb208358.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 1.12.1889", "startDate": "1889-12-01", "id": "pmb208357.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 1.12.1889", "startDate": "1889-12-01", "id": "pmb208357.html"
   },
   {
     "name": "Varieté im Ronacher, 26.11.1889", "startDate": "1889-11-26", "id": "pmb208356.html"
@@ -12042,13 +12036,13 @@ var calendarData = [
     "name": "Aufführung von König Lear, 23.11.1889", "startDate": "1889-11-23", "id": "pmb208354.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 17.11.1889", "startDate": "1889-11-17", "id": "pmb208353.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 17.11.1889", "startDate": "1889-11-17", "id": "pmb208353.html"
   },
   {
     "name": "Gesangskonzert von Felice Mancio, 16.11.1889", "startDate": "1889-11-16", "id": "pmb208352.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 3.11.1889", "startDate": "1889-11-03", "id": "pmb208351.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 3.11.1889", "startDate": "1889-11-03", "id": "pmb208351.html"
   },
   {
     "name": "Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889", "startDate": "1889-11-02", "id": "pmb208350.html"
@@ -12114,16 +12108,16 @@ var calendarData = [
     "name": "Konzert mit Gustav Kühle und Malvine Drucker, 26.4.1889", "startDate": "1889-04-26", "id": "pmb208330.html"
   },
   {
-    "name": "Soirée von Innozenz Kohnberger, 21.4.1889", "startDate": "1889-04-21", "id": "pmb208329.html"
+    "name": "Soirée bei Innozenz Kohnberger, 21.4.1889", "startDate": "1889-04-21", "id": "pmb208329.html"
   },
   {
     "name": "Aufführung von Figaros Hochzeit, 9.4.1889", "startDate": "1889-04-09", "id": "pmb208328.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 7.4.1889", "startDate": "1889-04-07", "id": "pmb208327.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 7.4.1889", "startDate": "1889-04-07", "id": "pmb208327.html"
   },
   {
-    "name": "Ball von Bernhard Wetzler, 3.4.1889", "startDate": "1889-04-03", "id": "pmb208326.html"
+    "name": "Hausball bei Bernhard Wetzler, 3.4.1889", "startDate": "1889-04-03", "id": "pmb208326.html"
   },
   {
     "name": "Ärztlicher Vereinsabend, 30.3.1889", "startDate": "1889-03-30", "id": "pmb208325.html"
@@ -12135,7 +12129,7 @@ var calendarData = [
     "name": "Varieté im Ronacher, 21.3.1889", "startDate": "1889-03-21", "id": "pmb208323.html"
   },
   {
-    "name": "Ball von Leopold Rosenberg, 17.3.1889", "startDate": "1889-03-17", "id": "pmb208322.html"
+    "name": "Hausball bei Leopold Rosenberg, 17.3.1889", "startDate": "1889-03-17", "id": "pmb208322.html"
   },
   {
     "name": "Aufführung von Die Meistersinger von Nürnberg, 16.3.1889", "startDate": "1889-03-16", "id": "pmb208321.html"
@@ -12147,7 +12141,7 @@ var calendarData = [
     "name": "Kränzchen zu Gunsten der Allgemeinen Poliklinik, 12.3.1889", "startDate": "1889-03-12", "id": "pmb208319.html"
   },
   {
-    "name": "Ball von Eduard Theimer, 10.3.1889", "startDate": "1889-03-10", "id": "pmb208318.html"
+    "name": "Hausball bei Eduard Theimer, 10.3.1889", "startDate": "1889-03-10", "id": "pmb208318.html"
   },
   {
     "name": "Kränzchen im Musikverein, 9.3.1889", "startDate": "1889-03-09", "id": "pmb208317.html"
@@ -12180,13 +12174,13 @@ var calendarData = [
     "name": "Konzert des Rosé-Quartetts, 29.1.1889", "startDate": "1889-01-29", "id": "pmb208308.html"
   },
   {
-    "name": "Ball von Gustav Spitzer, 28.1.1889", "startDate": "1889-01-28", "id": "pmb208307.html"
+    "name": "Hausball bei Gustav Spitzer, 28.1.1889", "startDate": "1889-01-28", "id": "pmb208307.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 27.1.1889", "startDate": "1889-01-27", "id": "pmb208306.html"
+    "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 27.1.1889", "startDate": "1889-01-27", "id": "pmb208306.html"
   },
   {
-    "name": "Soirée von Jakob? Fürst, 26.1.1889", "startDate": "1889-01-26", "id": "pmb208305.html"
+    "name": "Soirée bei Jakob? Fürst, 26.1.1889", "startDate": "1889-01-26", "id": "pmb208305.html"
   },
   {
     "name": "Aufführung von Ein Tropfen Gift, 25.1.1889", "startDate": "1889-01-25", "id": "pmb208304.html"
@@ -12195,13 +12189,13 @@ var calendarData = [
     "name": "Aufführung von Unverhofft, Tulipatan, 24.1.1889", "startDate": "1889-01-24", "id": "pmb208303.html"
   },
   {
-    "name": "Ball von Leopold Klein, 19.1.1889", "startDate": "1889-01-19", "id": "pmb208302.html"
+    "name": "Hausball bei Leopold Klein, 19.1.1889", "startDate": "1889-01-19", "id": "pmb208302.html"
   },
   {
     "name": "Premiere von Die drei Pintos, 18.1.1889", "startDate": "1889-01-18", "id": "pmb208301.html"
   },
   {
-    "name": "Ball von Bermann, 17.1.1889", "startDate": "1889-01-17", "id": "pmb208300.html"
+    "name": "Hausball bei Bermann, 17.1.1889", "startDate": "1889-01-17", "id": "pmb208300.html"
   },
   {
     "name": "Viertes Rosé-Quartett, 15.1.1889", "startDate": "1889-01-15", "id": "pmb208299.html"
@@ -12213,7 +12207,7 @@ var calendarData = [
     "name": "Gesellschaftskonzert im Musikverein, 13.1.1889", "startDate": "1889-01-13", "id": "pmb208297.html"
   },
   {
-    "name": "Tanz von Bermann, 10.1.1889", "startDate": "1889-01-10", "id": "pmb208296.html"
+    "name": "Tanz bei Bermann, 10.1.1889", "startDate": "1889-01-10", "id": "pmb208296.html"
   },
   {
     "name": "Zirkus Renz, 6.1.1889", "startDate": "1889-01-06", "id": "pmb208295.html"
@@ -12222,19 +12216,19 @@ var calendarData = [
     "name": "Polterabend von Zinner, 1.1.1889", "startDate": "1889-01-01", "id": "pmb208294.html"
   },
   {
-    "name": "Ball von Johann und Louise Schnitzler, 1.1.1889", "startDate": "1889-01-01", "id": "pmb208293.html"
+    "name": "Hausball bei Johann und Louise Schnitzler, 1.1.1889", "startDate": "1889-01-01", "id": "pmb208293.html"
   },
   {
     "name": "Aufführung von Der Tribut von Zamora, 28.12.1888", "startDate": "1888-12-28", "id": "pmb208292.html"
   },
   {
-    "name": "Soirée von Wilhelm und Adele Spitzer, 23.12.1888", "startDate": "1888-12-23", "id": "pmb208291.html"
+    "name": "Soirée bei Wilhelm und Adele Spitzer, 23.12.1888", "startDate": "1888-12-23", "id": "pmb208291.html"
   },
   {
     "name": "Kommers im Musikverein, 15.12.1888", "startDate": "1888-12-15", "id": "pmb208290.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 9.12.1888", "startDate": "1888-12-09", "id": "pmb208289.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 9.12.1888", "startDate": "1888-12-09", "id": "pmb208289.html"
   },
   {
     "name": "Aufführung von Die Meistersinger von Nürnberg, 7.12.1888", "startDate": "1888-12-07", "id": "pmb208288.html"
@@ -12246,7 +12240,7 @@ var calendarData = [
     "name": "Premiere von Die Zaubergeige, O, diese Schwiegermutter!, 1.12.1888", "startDate": "1888-12-01", "id": "pmb208286.html"
   },
   {
-    "name": "Philharmonisches Konzert, 25.11.1888", "startDate": "1888-11-25", "id": "pmb208285.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 25.11.1888", "startDate": "1888-11-25", "id": "pmb208285.html"
   },
   {
     "name": "Aufführung von Rienzi, 24.11.1888", "startDate": "1888-11-24", "id": "pmb208284.html"
@@ -12258,7 +12252,7 @@ var calendarData = [
     "name": "Premiere von Der Liebeshof, 14.11.1888", "startDate": "1888-11-14", "id": "pmb208282.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 12.11.1888", "startDate": "1888-11-12", "id": "pmb208281.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 11.11.1888", "startDate": "1888-11-11", "id": "pmb208281.html"
   },
   {
     "name": "Aufführung von Die Gigerln von Wien, 11.11.1888", "startDate": "1888-11-11", "id": "pmb208280.html"
@@ -12447,7 +12441,7 @@ var calendarData = [
     "name": "Zweites (letztes) Konzert von Moriz Rosenthal, 26.3.1888", "startDate": "1888-03-26", "id": "pmb208219.html"
   },
   {
-    "name": "Ball von Bermann, 19.3.1888", "startDate": "1888-03-19", "id": "pmb208218.html"
+    "name": "Hausball bei Bermann, 19.3.1888", "startDate": "1888-03-19", "id": "pmb208218.html"
   },
   {
     "name": "Aufführung von Denise, 19.3.1888", "startDate": "1888-03-19", "id": "pmb208217.html"
@@ -12456,7 +12450,7 @@ var calendarData = [
     "name": "Aufführung von Galeotto, 12.3.1888", "startDate": "1888-03-12", "id": "pmb208216.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 11.3.1888", "startDate": "1888-03-11", "id": "pmb208215.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 11.3.1888", "startDate": "1888-03-11", "id": "pmb208215.html"
   },
   {
     "name": "Ball Moskovicz, 8.3.1888", "startDate": "1888-03-08", "id": "pmb208214.html"
@@ -12477,7 +12471,7 @@ var calendarData = [
     "name": "Tanzkränzchen zu Gunsten der Allgemeinen Poliklinik, 28.2.1888", "startDate": "1888-02-28", "id": "pmb208209.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 26.2.1888", "startDate": "1888-02-26", "id": "pmb208208.html"
+    "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 26.2.1888", "startDate": "1888-02-26", "id": "pmb208208.html"
   },
   {
     "name": "Soirée Pollak, 25.2.1888", "startDate": "1888-02-25", "id": "pmb208207.html"
@@ -12492,13 +12486,13 @@ var calendarData = [
     "name": "Aufführung von Der Sänger von Palermo, 15.2.1888", "startDate": "1888-02-15", "id": "pmb208204.html"
   },
   {
-    "name": "Ball von Edmund von Gutmann-Gelse, 13.2.1888", "startDate": "1888-02-13", "id": "pmb208203.html"
+    "name": "Hausball bei Edmund von Gutmann-Gelse, 13.2.1888", "startDate": "1888-02-13", "id": "pmb208203.html"
   },
   {
-    "name": "Ball von Eduard Theimer, 11.2.1888", "startDate": "1888-02-11", "id": "pmb208202.html"
+    "name": "Hausball bei Eduard Theimer, 11.2.1888", "startDate": "1888-02-11", "id": "pmb208202.html"
   },
   {
-    "name": "Ball von Ferdinand Neumann, 3.2.1888", "startDate": "1888-02-03", "id": "pmb208201.html"
+    "name": "Hausball bei Ferdinand Neumann, 3.2.1888", "startDate": "1888-02-03", "id": "pmb208201.html"
   },
   {
     "name": "Aufführung von Götterdämmerung, 3.2.1888", "startDate": "1888-02-03", "id": "pmb208200.html"
@@ -12510,7 +12504,7 @@ var calendarData = [
     "name": "Aufführung von König Koko, 30.1.1888", "startDate": "1888-01-30", "id": "pmb208198.html"
   },
   {
-    "name": "Soirée von Maximilian von Weiss-Wellenstein, 27.1.1888", "startDate": "1888-01-27", "id": "pmb208197.html"
+    "name": "Soirée bei Maximilian von Weiss-Wellenstein, 27.1.1888", "startDate": "1888-01-27", "id": "pmb208197.html"
   },
   {
     "name": "Aufführung von Graf Waldemar, 24.1.1888", "startDate": "1888-01-24", "id": "pmb208196.html"
@@ -12522,7 +12516,7 @@ var calendarData = [
     "name": "Aufführung von Der verwunschene Prinz, Leichte Cavallerie, 18.1.1888", "startDate": "1888-01-18", "id": "pmb208194.html"
   },
   {
-    "name": "Ball von Bernhard Bächer, 16.1.1888", "startDate": "1888-01-16", "id": "pmb208193.html"
+    "name": "Hausball bei Bernhard Bächer, 16.1.1888", "startDate": "1888-01-16", "id": "pmb208193.html"
   },
   {
     "name": "Aufführung von Peter Zapfl, 14.1.1888", "startDate": "1888-01-14", "id": "pmb208192.html"
@@ -12531,28 +12525,28 @@ var calendarData = [
     "name": "Klavierkonzert von Moriz Rosenthal, 7.1.1888", "startDate": "1888-01-07", "id": "pmb208191.html"
   },
   {
-    "name": "Soirée von Porges, 6.1.1888", "startDate": "1888-01-06", "id": "pmb208190.html"
+    "name": "Soirée bei Porges, 6.1.1888", "startDate": "1888-01-06", "id": "pmb208190.html"
   },
   {
     "name": "Aufführung von Die Tantaliden, 5.1.1888", "startDate": "1888-01-05", "id": "pmb208189.html"
   },
   {
-    "name": "Soirée von Johann und Louise Schnitzler, 1.1.1888", "startDate": "1888-01-01", "id": "pmb208188.html"
+    "name": "Soirée bei Johann und Louise Schnitzler, 1.1.1888", "startDate": "1888-01-01", "id": "pmb208188.html"
   },
   {
     "name": "Violinkonzert von Pablo de Sarasate, 27.12.1887", "startDate": "1887-12-27", "id": "pmb208187.html"
   },
   {
-    "name": "Soirée von Eduard Brüll, 26.12.1887", "startDate": "1887-12-26", "id": "pmb208186.html"
+    "name": "Soirée bei Eduard Brüll, 26.12.1887", "startDate": "1887-12-26", "id": "pmb208186.html"
   },
   {
     "name": "Aufführung von Der Glücksritter, 21.12.1887", "startDate": "1887-12-21", "id": "pmb208185.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 18.12.1887", "startDate": "1887-12-18", "id": "pmb208184.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 18.12.1887", "startDate": "1887-12-18", "id": "pmb208184.html"
   },
   {
-    "name": "Ball von Heidt, 16.12.1887", "startDate": "1887-12-16", "id": "pmb208183.html"
+    "name": "Hausball bei Heidt, 16.12.1887", "startDate": "1887-12-16", "id": "pmb208183.html"
   },
   {
     "name": "Aufführung von Die blaue Grotte, 7.12.1887", "startDate": "1887-12-07", "id": "pmb208182.html"
@@ -12564,7 +12558,7 @@ var calendarData = [
     "name": "Aufführung von Die Höll’ auf Erden, 28.11.1887", "startDate": "1887-11-28", "id": "pmb208180.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 24.11.1887", "startDate": "1887-11-24", "id": "pmb208179.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 27.11.1887", "startDate": "1887-11-27", "id": "pmb208179.html"
   },
   {
     "name": "Violinkonzert von Franz Ondříček, 23.11.1887", "startDate": "1887-11-23", "id": "pmb208178.html"
@@ -12576,7 +12570,7 @@ var calendarData = [
     "name": "Premiere von Die Dreizehn, 14.11.1887", "startDate": "1887-11-14", "id": "pmb208176.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 13.11.1887", "startDate": "1887-11-13", "id": "pmb208175.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 13.11.1887", "startDate": "1887-11-13", "id": "pmb208175.html"
   },
   {
     "name": "Danzer’s Orpheum, 9.11.1887", "startDate": "1887-11-09", "id": "pmb208174.html"
@@ -12705,16 +12699,16 @@ var calendarData = [
     "name": "Ball im Hotel Metropole, 26.3.1887", "startDate": "1887-03-26", "id": "pmb208133.html"
   },
   {
-    "name": "Ball von Moriz Benedikt, 19.3.1887", "startDate": "1887-03-19", "id": "pmb208131.html"
+    "name": "Hausball bei Moriz Benedikt, 19.3.1887", "startDate": "1887-03-19", "id": "pmb208131.html"
   },
   {
     "name": "Aufführung von Ein Märchen aus der Champagne, Die verwandelte Katze, 15.3.1887", "startDate": "1887-03-15", "id": "pmb208130.html"
   },
   {
-    "name": "Soirée von Schwarz, 14.3.1887", "startDate": "1887-03-14", "id": "pmb208129.html"
+    "name": "Soirée bei Schwarz, 14.3.1887", "startDate": "1887-03-14", "id": "pmb208129.html"
   },
   {
-    "name": "Soirée von Wilhelm Horn, 13.3.1887", "startDate": "1887-03-13", "id": "pmb208128.html"
+    "name": "Soirée bei Wilhelm Horn, 13.3.1887", "startDate": "1887-03-13", "id": "pmb208128.html"
   },
   {
     "name": "Aufführung von Die Großherzogin von Gerolstein, 12.3.1887", "startDate": "1887-03-12", "id": "pmb208127.html"
@@ -12723,13 +12717,13 @@ var calendarData = [
     "name": "Violinkonzert von August Wilhelmj, 11.3.1887", "startDate": "1887-03-11", "id": "pmb208126.html"
   },
   {
-    "name": "Poliklinik-Kränzchen, 8.3.1887", "startDate": "1887-03-08", "id": "pmb208125.html"
+    "name": "Kränzchen zu Gunsten der Poliklinik, 8.3.1887", "startDate": "1887-03-08", "id": "pmb208125.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 6.3.1887", "startDate": "1887-03-06", "id": "pmb208124.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 6.3.1887", "startDate": "1887-03-06", "id": "pmb208124.html"
   },
   {
-    "name": "Ball bei Alexander Scharf, 3.3.1887", "startDate": "1887-03-03", "id": "pmb208123.html"
+    "name": "Hausball bei Alexander Scharf, 3.3.1887", "startDate": "1887-03-03", "id": "pmb208123.html"
   },
   {
     "name": "Bauernball-Café, 3.3.1887", "startDate": "1887-03-03", "id": "pmb208122.html"
@@ -12741,7 +12735,7 @@ var calendarData = [
     "name": "Aufführung von Merlin, 2.3.1887", "startDate": "1887-03-02", "id": "pmb208120.html"
   },
   {
-    "name": "Ball Mauthner, 27.2.1887", "startDate": "1887-02-27", "id": "pmb208119.html"
+    "name": "Hausball bei Gustav von Mauthner, 27.2.1887", "startDate": "1887-02-27", "id": "pmb208119.html"
   },
   {
     "name": "Konzert mit Robert Schumann: Scenen aus Göthe’s Faust, 27.2.1887", "startDate": "1887-02-27", "id": "pmb208118.html"
@@ -12756,7 +12750,7 @@ var calendarData = [
     "name": "Ball in den Sofiensälen, 24.2.1887", "startDate": "1887-02-24", "id": "pmb208115.html"
   },
   {
-    "name": "Ball Kniep, 23.2.1887", "startDate": "1887-02-23", "id": "pmb208114.html"
+    "name": "Hausball bei Julius von Kniep, 23.2.1887", "startDate": "1887-02-23", "id": "pmb208114.html"
   },
   {
     "name": "Aufführung von Lohengrin, 23.2.1887", "startDate": "1887-02-23", "id": "pmb208113.html"
@@ -12765,19 +12759,19 @@ var calendarData = [
     "name": "Premiere von Georgette, 17.2.1887", "startDate": "1887-02-17", "id": "pmb208112.html"
   },
   {
-    "name": "Weisser Kreuz-Ball, 15.2.1887", "startDate": "1887-02-15", "id": "pmb208111.html"
+    "name": "Weißer Kreuz-Ball, 15.2.1887", "startDate": "1887-02-15", "id": "pmb208111.html"
   },
   {
     "name": "Aufführung von Der betrogene Kadi, Die verwandelte Katze, 15.2.1887", "startDate": "1887-02-15", "id": "pmb208110.html"
   },
   {
-    "name": "Concordiaball, 14.2.1887", "startDate": "1887-02-14", "id": "pmb208109.html"
+    "name": "Concordia-Ball, 14.2.1887", "startDate": "1887-02-14", "id": "pmb208109.html"
   },
   {
-    "name": "Ball Markbreiter, 13.2.1887", "startDate": "1887-02-13", "id": "pmb208108.html"
+    "name": "Hausball bei Edmund Markbreiter, 13.2.1887", "startDate": "1887-02-13", "id": "pmb208108.html"
   },
   {
-    "name": "Door-Kränzchen, 11.2.1887", "startDate": "1887-02-11", "id": "pmb208107.html"
+    "name": "Kränzchen bei Anton Door, 11.2.1887", "startDate": "1887-02-11", "id": "pmb208107.html"
   },
   {
     "name": "Zweiter Liederabend (Brahms-Abend) von Gustav Walter, 11.2.1887", "startDate": "1887-02-11", "id": "pmb208106.html"
@@ -12792,40 +12786,40 @@ var calendarData = [
     "name": "Premiere von Unter Kuratel, 9.2.1887", "startDate": "1887-02-09", "id": "pmb208103.html"
   },
   {
-    "name": "Soirée Feinberg, 7.2.1887", "startDate": "1887-02-07", "id": "pmb208102.html"
+    "name": "Soirée bei Feinberg, 7.2.1887", "startDate": "1887-02-07", "id": "pmb208102.html"
   },
   {
-    "name": "Soirée Gottlieb, 5.2.1887", "startDate": "1887-02-05", "id": "pmb208101.html"
+    "name": "Soirée bei Julius Gottlieb, 5.2.1887", "startDate": "1887-02-05", "id": "pmb208101.html"
   },
   {
     "name": "Aufführung von Blaubart, 4.2.1887", "startDate": "1887-02-04", "id": "pmb208100.html"
   },
   {
-    "name": "Ball Hesky, 2.2.1887", "startDate": "1887-02-02", "id": "pmb208099.html"
+    "name": "Hausball bei Hesky, 2.2.1887", "startDate": "1887-02-02", "id": "pmb208099.html"
   },
   {
-    "name": "Ball Hellmann, 1.2.1887", "startDate": "1887-02-01", "id": "pmb208098.html"
+    "name": "Hausball bei Bernhard Hellmann, 1.2.1887", "startDate": "1887-02-01", "id": "pmb208098.html"
   },
   {
-    "name": "Klavierkonzert Bülow, 1.2.1887", "startDate": "1887-02-01", "id": "pmb208097.html"
+    "name": "Drittes Klavierkonzert von Hans von Bülow, 1.2.1887", "startDate": "1887-02-01", "id": "pmb208097.html"
   },
   {
-    "name": "Kneipe Steiner von Pfungen, 31.1.1887", "startDate": "1887-01-31", "id": "pmb208096.html"
+    "name": "Kneipe von Robert Wilhelm Joseph Steiner von Pfungen, 31.1.1887", "startDate": "1887-01-31", "id": "pmb208096.html"
   },
   {
-    "name": "Ball bei Johann und Louise Schnitzler, 30.1.1887", "startDate": "1887-01-30", "id": "pmb208095.html"
+    "name": "Hausball bei Johann und Louise Schnitzler, 30.1.1887", "startDate": "1887-01-30", "id": "pmb208095.html"
   },
   {
-    "name": "Kostümfest, 29.1.1887", "startDate": "1887-01-29", "id": "pmb208094.html"
+    "name": "Kostümfest der Wiener Gesellschafts-Abende, 29.1.1887", "startDate": "1887-01-29", "id": "pmb208094.html"
   },
   {
-    "name": "Spielabend Löti, 27.1.1887", "startDate": "1887-01-27", "id": "pmb208093.html"
+    "name": "Spielabend von J. Löti, 27.1.1887", "startDate": "1887-01-27", "id": "pmb208093.html"
   },
   {
     "name": "Damenabend, 22.1.1887", "startDate": "1887-01-22", "id": "pmb208092.html"
   },
   {
-    "name": "Soirée Morawitz, 16.1.1887", "startDate": "1887-01-16", "id": "pmb208091.html"
+    "name": "Soirée bei Morawitz, 16.1.1887", "startDate": "1887-01-16", "id": "pmb208091.html"
   },
   {
     "name": "Premiere von Der liebe Augustin, 15.1.1887", "startDate": "1887-01-15", "id": "pmb208090.html"
@@ -12837,13 +12831,13 @@ var calendarData = [
     "name": "Premiere von Die Nachbarinnen, 11.1.1887", "startDate": "1887-01-11", "id": "pmb208088.html"
   },
   {
-    "name": "Ball Mauthner, 5.1.1887", "startDate": "1887-01-05", "id": "pmb208087.html"
+    "name": "Hausball bei Gustav von Mauthner, 5.1.1887", "startDate": "1887-01-05", "id": "pmb208087.html"
   },
   {
     "name": "Aufführung von Der Hofnarr, 3.1.1887", "startDate": "1887-01-03", "id": "pmb208086.html"
   },
   {
-    "name": "Philharmonisches Konzert, 2.1.1887", "startDate": "1887-01-02", "id": "pmb208085.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 2.1.1887", "startDate": "1887-01-02", "id": "pmb208085.html"
   },
   {
     "name": "Aufführung von Josephine und ihre Schwestern, 25.12.1886", "startDate": "1886-12-25", "id": "pmb208084.html"
@@ -12852,10 +12846,10 @@ var calendarData = [
     "name": "Aufführung von Der Hofnarr, 22.12.1886", "startDate": "1886-12-22", "id": "pmb208083.html"
   },
   {
-    "name": "Hochzeit und Tanz, 19.12.1886", "startDate": "1886-12-19", "id": "pmb208082.html"
+    "name": "Hochzeit von Anton Wassing und Paula Jallowetz, 19.12.1886", "startDate": "1886-12-19", "id": "pmb208082.html"
   },
   {
-    "name": "Polterabend Dr. Wassing, 17.12.1886", "startDate": "1886-12-17", "id": "pmb208081.html"
+    "name": "Polterabend von Anton Wassing, 17.12.1886", "startDate": "1886-12-17", "id": "pmb208081.html"
   },
   {
     "name": "Hochzeit und Tanz, 12.12.1886", "startDate": "1886-12-12", "id": "pmb208080.html"
@@ -12864,19 +12858,19 @@ var calendarData = [
     "name": "Klavierkonzert von Moriz Rosenthal, 6.12.1886", "startDate": "1886-12-06", "id": "pmb208079.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 5.12.1886", "startDate": "1886-12-05", "id": "pmb208078.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 5.12.1886", "startDate": "1886-12-05", "id": "pmb208078.html"
   },
   {
     "name": "Hochzeit und Tanz, 4.12.1886", "startDate": "1886-12-04", "id": "pmb208077.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 28.11.1886", "startDate": "1886-11-28", "id": "pmb208076.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 28.11.1886", "startDate": "1886-11-28", "id": "pmb208076.html"
   },
   {
-    "name": "Soirée Benedikt, 25.11.1886", "startDate": "1886-11-25", "id": "pmb208075.html"
+    "name": "Soirée bei Moriz Benedikt, 25.11.1886", "startDate": "1886-11-25", "id": "pmb208075.html"
   },
   {
-    "name": "Soirée Kohnberger, 23.11.1886", "startDate": "1886-11-23", "id": "pmb208074.html"
+    "name": "Soirée bei Innozenz Kohnberger, 23.11.1886", "startDate": "1886-11-23", "id": "pmb208074.html"
   },
   {
     "name": "Danzer’s Orpheum, 20.11.1886", "startDate": "1886-11-20", "id": "pmb208073.html"
@@ -12885,13 +12879,13 @@ var calendarData = [
     "name": "Premiere von Merlin, 19.11.1886", "startDate": "1886-11-19", "id": "pmb208072.html"
   },
   {
-    "name": "Klavierkonzert d’Albert, 15.11.1886", "startDate": "1886-11-15", "id": "pmb208071.html"
+    "name": "Klavierkonzert von Eugen d’Albert, 15.11.1886", "startDate": "1886-11-15", "id": "pmb208071.html"
   },
   {
     "name": "Aufführung von Der Zigeunerbaron, 14.11.1886", "startDate": "1886-11-14", "id": "pmb208070.html"
   },
   {
-    "name": "Philharmonisches Konzert , 14.11.1886", "startDate": "1886-11-14", "id": "pmb208069.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 14.11.1886", "startDate": "1886-11-14", "id": "pmb208069.html"
   },
   {
     "name": "Violinkonzert von Zsigmond Bürger, 12.11.1886", "startDate": "1886-11-12", "id": "pmb208068.html"
@@ -12954,7 +12948,7 @@ var calendarData = [
     "name": "Aufführung von Der Hüttenbesitzer, 20.9.1886", "startDate": "1886-09-20", "id": "pmb208049.html"
   },
   {
-    "name": "Volkssängerin Kuzl, 17.9.1886", "startDate": "1886-09-17", "id": "pmb208048.html"
+    "name": "Gesangskonzert von Leopoldine Kutzel, 17.9.1886", "startDate": "1886-09-17", "id": "pmb208048.html"
   },
   {
     "name": "Aufführung von Krisen, 16.9.1886", "startDate": "1886-09-16", "id": "pmb208047.html"
@@ -13002,7 +12996,7 @@ var calendarData = [
     "name": "Aufführung von Die schöne Helena, 20.4.1886", "startDate": "1886-04-20", "id": "pmb208033.html"
   },
   {
-    "name": "Aufführung von Missa solemnis D-Dur op. 123, 19.4.1886", "startDate": "1886-04-19", "id": "pmb208032.html"
+    "name": "Zweites außerordentliches Gesellschaftskonzert, 20.4.1886", "startDate": "1886-04-20", "id": "pmb208032.html"
   },
   {
     "name": "Aufführung von Carmen. Oper in vier Akten, 18.4.1886", "startDate": "1886-04-18", "id": "pmb208031.html"
@@ -13035,7 +13029,7 @@ var calendarData = [
     "name": "Poliklinikkränzchen, 17.3.1886", "startDate": "1886-03-17", "id": "pmb208022.html"
   },
   {
-    "name": "Aufführung von Fausts Verdammnis op. 24, 17.3.1886", "startDate": "1886-03-17", "id": "pmb208021.html"
+    "name": "Erstes außerordentliches Gesellschaftskonzert, 17.3.1886", "startDate": "1886-03-17", "id": "pmb208021.html"
   },
   {
     "name": "Dritter (letzter) Liederabend von Gustav Walter, 12.3.1886", "startDate": "1886-03-12", "id": "pmb208020.html"
@@ -13047,43 +13041,43 @@ var calendarData = [
     "name": "Aufführung von Der Trompeter von Säkkingen, 8.3.1886", "startDate": "1886-03-08", "id": "pmb208018.html"
   },
   {
-    "name": "Ball Klein, 6.3.1886", "startDate": "1886-03-06", "id": "pmb208017.html"
+    "name": "Hausball bei Leopold Klein, 6.3.1886", "startDate": "1886-03-06", "id": "pmb208017.html"
   },
   {
-    "name": "Ball Becher, 4.3.1886", "startDate": "1886-03-04", "id": "pmb208016.html"
+    "name": "Hausball bei Becher, 4.3.1886", "startDate": "1886-03-04", "id": "pmb208016.html"
   },
   {
-    "name": "Ball Benedikt, 2.3.1886", "startDate": "1886-03-02", "id": "pmb208015.html"
+    "name": "Hausball bei Moriz Benedikt, 2.3.1886", "startDate": "1886-03-02", "id": "pmb208015.html"
   },
   {
-    "name": "Ball Feinberg, 28.2.1886", "startDate": "1886-02-28", "id": "pmb208014.html"
+    "name": "Hausball bei Feinberg, 28.2.1886", "startDate": "1886-02-28", "id": "pmb208014.html"
   },
   {
     "name": "Maskenball, 27.2.1886", "startDate": "1886-02-27", "id": "pmb208013.html"
   },
   {
-    "name": "Redoute, 27.2.1886", "startDate": "1886-02-27", "id": "pmb208012.html"
+    "name": "Masken-Redoute der Wiener Gesellschafts-Abende, 27.2.1886", "startDate": "1886-02-27", "id": "pmb208012.html"
   },
   {
     "name": "Aufführung von Theatralischer Unsinn, 27.2.1886", "startDate": "1886-02-27", "id": "pmb208011.html"
   },
   {
-    "name": "Ball Landau, 24.2.1886", "startDate": "1886-02-24", "id": "pmb208010.html"
+    "name": "Hausball bei Saul Rafael Landau, 24.2.1886", "startDate": "1886-02-24", "id": "pmb208010.html"
   },
   {
     "name": "Ball im Goldenes Kreuz, 22.2.1886", "startDate": "1886-02-22", "id": "pmb208009.html"
   },
   {
-    "name": "Österreichisch-schlesisches Kränzchen, 21.2.1886", "startDate": "1886-02-21", "id": "pmb208008.html"
+    "name": "Kostümfest des Vereins der Österreichisch-Schlesier, 21.2.1886", "startDate": "1886-02-21", "id": "pmb208008.html"
   },
   {
     "name": "Aufführung von Die Gipsfigur, 13.2.1886", "startDate": "1886-02-13", "id": "pmb208007.html"
   },
   {
-    "name": "Kostümfest, 30.1.1886", "startDate": "1886-01-30", "id": "pmb208006.html"
+    "name": "Kostümfest der Wiener Gesellschafts-Abende »Wiener Walzer«, 30.1.1886", "startDate": "1886-01-30", "id": "pmb208006.html"
   },
   {
-    "name": "Soirée Kohnberger (Spielpartie), 23.1.1886", "startDate": "1886-01-23", "id": "pmb208005.html"
+    "name": "Soirée bei Innozenz Kohnberger (Spielpartie), 23.1.1886", "startDate": "1886-01-23", "id": "pmb208005.html"
   },
   {
     "name": "Aufführung von Hans Heiling, 22.1.1886", "startDate": "1886-01-22", "id": "pmb208004.html"
@@ -13101,19 +13095,19 @@ var calendarData = [
     "name": "Aufführung von Der Vampyr, 14.1.1886", "startDate": "1886-01-14", "id": "pmb208000.html"
   },
   {
-    "name": "Maskenball, 9.1.1886", "startDate": "1886-01-09", "id": "pmb207999.html"
+    "name": "Erster Elite-Maskenball, 9.1.1886", "startDate": "1886-01-09", "id": "pmb207999.html"
   },
   {
-    "name": "Gesellschaftsabend Markbreiter, 9.1.1886", "startDate": "1886-01-09", "id": "pmb207998.html"
+    "name": "Gesellschaftsabend von Edmund Markbreiter, 9.1.1886", "startDate": "1886-01-09", "id": "pmb207998.html"
   },
   {
     "name": "Aufführung von Der Zigeunerbaron, 9.1.1886", "startDate": "1886-01-09", "id": "pmb207997.html"
   },
   {
-    "name": "Sarasate Fest, 8.1.1886", "startDate": "1886-01-08", "id": "pmb207996.html"
+    "name": "Zweites Orchesterkonzert von Pablo de Sarasate, 8.1.1886", "startDate": "1886-01-08", "id": "pmb207996.html"
   },
   {
-    "name": "Ball Leopold Klein, 3.1.1886", "startDate": "1886-01-03", "id": "pmb207994.html"
+    "name": "Hausball bei Leopold Klein, 3.1.1886", "startDate": "1886-01-03", "id": "pmb207994.html"
   },
   {
     "name": "Erstes Violinkonzert von Pablo de Sarasate, 2.1.1886", "startDate": "1886-01-02", "id": "pmb207993.html"
@@ -13128,7 +13122,7 @@ var calendarData = [
     "name": "Premiere von Das lachende Wien, 23.12.1885", "startDate": "1885-12-23", "id": "pmb207990.html"
   },
   {
-    "name": "II. Gesellschaftsabend, 19.12.1885", "startDate": "1885-12-19", "id": "pmb207989.html"
+    "name": "Zweite Soirée der Wiener Gesellschafts-Abende, 19.12.1885", "startDate": "1885-12-19", "id": "pmb207989.html"
   },
   {
     "name": "Aufführung von Carmen. Oper in vier Akten, 18.12.1885", "startDate": "1885-12-18", "id": "pmb207988.html"
@@ -13143,7 +13137,7 @@ var calendarData = [
     "name": "Siebtes (letztes) Klavierkonzert von Anton Rubinstein, 14.12.1885", "startDate": "1885-12-14", "id": "pmb207985.html"
   },
   {
-    "name": "Ball Theimer, 12.12.1885", "startDate": "1885-12-12", "id": "pmb207984.html"
+    "name": "Hausball bei Eduard Theimer, 12.12.1885", "startDate": "1885-12-12", "id": "pmb207984.html"
   },
   {
     "name": "Aufführung von Siegfried, 10.12.1885", "startDate": "1885-12-10", "id": "pmb207983.html"
@@ -13158,7 +13152,7 @@ var calendarData = [
     "name": "Aufführung von Kampl, 7.12.1885", "startDate": "1885-12-07", "id": "pmb207980.html"
   },
   {
-    "name": "Philharmonisches-Konzert im Danzer’s Orpheum, 6.12.1885", "startDate": "1885-12-06", "id": "pmb207979.html"
+    "name": "Philharmonisches Konzert, 6.12.1885", "startDate": "1885-12-06", "id": "pmb207979.html"
   },
   {
     "name": "Fünftes Klavierkonzert von Anton Rubinstein, 4.12.1885", "startDate": "1885-12-04", "id": "pmb207978.html"
@@ -13173,10 +13167,10 @@ var calendarData = [
     "name": "Viertes Klavierkonzert von Anton Rubinstein, 30.11.1885", "startDate": "1885-11-30", "id": "pmb207975.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 29.11.1885", "startDate": "1885-11-29", "id": "pmb207974.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 29.11.1885", "startDate": "1885-11-29", "id": "pmb207974.html"
   },
   {
-    "name": "1. Gesellschaftsabend, 28.11.1885", "startDate": "1885-11-28", "id": "pmb207973.html"
+    "name": "Erster Gesellschaftsabend, 28.11.1885", "startDate": "1885-11-28", "id": "pmb207973.html"
   },
   {
     "name": "Drittes Klavierkonzert von Anton Rubinstein, 27.11.1885", "startDate": "1885-11-27", "id": "pmb207972.html"
@@ -13191,7 +13185,7 @@ var calendarData = [
     "name": "Premiere von Don Cesar, 20.11.1885", "startDate": "1885-11-20", "id": "pmb207969.html"
   },
   {
-    "name": "Konservatoriumskonzert, 19.11.1885", "startDate": "1885-11-19", "id": "pmb207968.html"
+    "name": "Konservatoriums-Konzert zu Ehren der Mitglieder der internationalen Stimmton-Konferenz, 19.11.1885", "startDate": "1885-11-19", "id": "pmb207968.html"
   },
   {
     "name": "Erstes Klavierkonzert von Anton Rubinstein, 18.11.1885", "startDate": "1885-11-18", "id": "pmb207967.html"
@@ -13200,10 +13194,10 @@ var calendarData = [
     "name": "Aufführung von Der Zigeunerbaron, 17.11.1885", "startDate": "1885-11-17", "id": "pmb207966.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 15.11.1885", "startDate": "1885-11-15", "id": "pmb207965.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 15.11.1885", "startDate": "1885-11-15", "id": "pmb207965.html"
   },
   {
-    "name": "Aufführung von Requiem d-Moll KV 626, 12.11.1885", "startDate": "1885-11-12", "id": "pmb207964.html"
+    "name": "Mozart-Requiem, 12.11.1885", "startDate": "1885-11-12", "id": "pmb207964.html"
   },
   {
     "name": "Aufführung von Ein alter Junggeselle, 6.11.1885", "startDate": "1885-11-06", "id": "pmb207963.html"
@@ -13302,7 +13296,7 @@ var calendarData = [
     "name": "Aufführung von Ein Taugenichts, Resch und Fesch, Heimliche Liebe, 2.8.1885", "startDate": "1885-08-02", "id": "pmb207932.html"
   },
   {
-    "name": "Volkssängerin Kutzel, 2.8.1885", "startDate": "1885-08-02", "id": "pmb207931.html"
+    "name": "Konzert von Leopoldine Kutzel, 2.8.1885", "startDate": "1885-08-02", "id": "pmb207931.html"
   },
   {
     "name": "Zirkus Wulff, 1.8.1885", "startDate": "1885-08-01", "id": "pmb207930.html"
@@ -13320,7 +13314,7 @@ var calendarData = [
     "name": "Aufführung von Der Verschwender, 25.6.1885", "startDate": "1885-06-25", "id": "pmb207926.html"
   },
   {
-    "name": "Volkssänger Kribaum und Nowak, 22.6.1885", "startDate": "1885-06-22", "id": "pmb207925.html"
+    "name": "Konzert von Franz Xaver Kriebaum und Anton Nowak, 22.6.1885", "startDate": "1885-06-22", "id": "pmb207925.html"
   },
   {
     "name": "Gesangskonzert von Wenzel Seidl und Wilhelm Wiesberg, 18.6.1885", "startDate": "1885-06-18", "id": "pmb207924.html"
@@ -13329,7 +13323,7 @@ var calendarData = [
     "name": "Aufführung von Der Erbförster, 16.6.1885", "startDate": "1885-06-16", "id": "pmb207923.html"
   },
   {
-    "name": "Zirkus Wulff, 13.6.1885", "startDate": "1885-06-13", "id": "pmb207922.html"
+    "name": "Besuch des Zirkus Wulff, 13.6.1885", "startDate": "1885-06-13", "id": "pmb207922.html"
   },
   {
     "name": "Aufführung von A la Klapphorn, DO–MI–SOL–DO, ’s höchste Theater, Les Invisibles, 11.6.1885", "startDate": "1885-06-11", "id": "pmb207921.html"
@@ -13338,7 +13332,7 @@ var calendarData = [
     "name": "Ballett im Oper, 10.6.1885", "startDate": "1885-06-10", "id": "pmb207920.html"
   },
   {
-    "name": "Volkssängerin Kutzel, 8.6.1885", "startDate": "1885-06-08", "id": "pmb207919.html"
+    "name": "Konzert von Leopoldine Kutzel, 8.6.1885", "startDate": "1885-06-08", "id": "pmb207919.html"
   },
   {
     "name": "Gesangskonzert von Mirzl Hager, 1.6.1885", "startDate": "1885-06-01", "id": "pmb207918.html"
@@ -13365,28 +13359,28 @@ var calendarData = [
     "name": "Aufführung von Lucia di Lammermoor, 7.4.1885", "startDate": "1885-04-07", "id": "pmb207911.html"
   },
   {
-    "name": "Vorlesung Alexander Strakosch, 3.4.1885", "startDate": "1885-04-03", "id": "pmb207910.html"
+    "name": "Zweite Vorlesung von Alexander Strakosch, 1.4.1885", "startDate": "1885-04-01", "id": "pmb207910.html"
   },
   {
     "name": "Aufführung von Manfred, 29.3.1885", "startDate": "1885-03-29", "id": "pmb207909.html"
   },
   {
-    "name": "Zirkus, 23.3.1885", "startDate": "1885-03-23", "id": "pmb207908.html"
+    "name": "Gala-Vorstellung des Zirkus Renz, 23.3.1885", "startDate": "1885-03-23", "id": "pmb207908.html"
   },
   {
-    "name": "Ball bei Alexander Scharf, 19.3.1885", "startDate": "1885-03-19", "id": "pmb207907.html"
+    "name": "Hausball bei Alexander Scharf, 19.3.1885", "startDate": "1885-03-19", "id": "pmb207907.html"
   },
   {
-    "name": "Ball Baecher, 18.3.1885", "startDate": "1885-03-18", "id": "pmb207906.html"
+    "name": "Hausball bei Bernhard Bächer, 18.3.1885", "startDate": "1885-03-18", "id": "pmb207906.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 15.3.1885", "startDate": "1885-03-15", "id": "pmb207905.html"
+    "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 15.3.1885", "startDate": "1885-03-15", "id": "pmb207905.html"
   },
   {
     "name": "Fünftes (vorletztes) Hellmesberger-Quartett, 12.3.1885", "startDate": "1885-03-12", "id": "pmb207904.html"
   },
   {
-    "name": "Ball Schweinburg ?, 10.3.1885", "startDate": "1885-03-10", "id": "pmb207903.html"
+    "name": "Hausball bei Leo Schweinburg, 10.3.1885?", "startDate": "1885-03-10", "id": "pmb207903.html"
   },
   {
     "name": "Heller-Kränzchen, 7.3.1885", "startDate": "1885-03-07", "id": "pmb207902.html"
@@ -13398,13 +13392,13 @@ var calendarData = [
     "name": "Aufführung von Der Raub der Sabinerinnen. Schwank in vier Akten, 5.3.1885", "startDate": "1885-03-05", "id": "pmb207900.html"
   },
   {
-    "name": "Zirkus, 28.2.1885", "startDate": "1885-02-28", "id": "pmb207899.html"
+    "name": "Eröffnungsvorstellung des Zirkus Renz, 28.2.1885", "startDate": "1885-02-28", "id": "pmb207899.html"
   },
   {
     "name": "Violinkonzert von Pablo de Sarasate, 23.2.1885", "startDate": "1885-02-23", "id": "pmb207898.html"
   },
   {
-    "name": "Narrenabend, 20.2.1885", "startDate": "1885-02-20", "id": "pmb207897.html"
+    "name": "Narrenabend des Männergesangvereins, 20.2.1885", "startDate": "1885-02-20", "id": "pmb207897.html"
   },
   {
     "name": "Viertes Hellmesberger-Quartett, 19.2.1885", "startDate": "1885-02-19", "id": "pmb207896.html"
@@ -13416,7 +13410,7 @@ var calendarData = [
     "name": "Studentenball, 13.2.1885", "startDate": "1885-02-13", "id": "pmb207894.html"
   },
   {
-    "name": "Kaufmännischer Ball, 11.2.1885", "startDate": "1885-02-11", "id": "pmb207893.html"
+    "name": "Kaufmännischer Vereinsball, 10.2.1885", "startDate": "1885-02-10", "id": "pmb207893.html"
   },
   {
     "name": "Ball Moskovicz, 7.2.1885", "startDate": "1885-02-07", "id": "pmb207892.html"
@@ -13425,10 +13419,10 @@ var calendarData = [
     "name": "Klavierkonzert von Moriz Rosenthal, 3.2.1885", "startDate": "1885-02-03", "id": "pmb207891.html"
   },
   {
-    "name": "Ball Schlesinger, 1.2.1885", "startDate": "1885-02-01", "id": "pmb207890.html"
+    "name": "Hausball bei Julius Schlesinger, 1.2.1885", "startDate": "1885-02-01", "id": "pmb207890.html"
   },
   {
-    "name": "Ball Neumann, 28.1.1885", "startDate": "1885-01-28", "id": "pmb207889.html"
+    "name": "Hausball bei Ferdinand Neumann, 28.1.1885", "startDate": "1885-01-28", "id": "pmb207889.html"
   },
   {
     "name": "Aufführung von Goldene Spinne, 24.1.1885", "startDate": "1885-01-24", "id": "pmb207888.html"
@@ -13437,7 +13431,7 @@ var calendarData = [
     "name": "Zweiter Liederabend von Gustav Walter, 23.1.1885", "startDate": "1885-01-23", "id": "pmb207887.html"
   },
   {
-    "name": "Ball bei Alexander Scharf, 11.1.1885", "startDate": "1885-01-11", "id": "pmb207886.html"
+    "name": "Hausball bei Alexander Scharf, 11.1.1885", "startDate": "1885-01-11", "id": "pmb207886.html"
   },
   {
     "name": "Aufführung von Der Probepfeil, 9.1.1885", "startDate": "1885-01-09", "id": "pmb207885.html"
@@ -13488,31 +13482,31 @@ var calendarData = [
     "name": "Aufführung von Die Maler, 30.4.1884", "startDate": "1884-04-30", "id": "pmb207870.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 6.4.1884", "startDate": "1884-04-06", "id": "pmb207869.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 6.4.1884", "startDate": "1884-04-06", "id": "pmb207869.html"
   },
   {
     "name": "Liszt-Abend von Arthur Friedheim, 3.4.1884", "startDate": "1884-04-03", "id": "pmb207868.html"
   },
   {
-    "name": "Ball Rosenberg, 27.3.1884", "startDate": "1884-03-27", "id": "pmb207867.html"
+    "name": "Hausball bei Leopold Rosenberg, 27.3.1884", "startDate": "1884-03-27", "id": "pmb207867.html"
   },
   {
-    "name": "Hochzeit und Tanz Fröhlich-Adler, 25.3.1884", "startDate": "1884-03-25", "id": "pmb207866.html"
+    "name": "Hochzeit von Berta Adler und Jacques Fröhlich, 25.3.1884", "startDate": "1884-03-25", "id": "pmb207866.html"
   },
   {
-    "name": "Ball L. Klein, 24.3.1884", "startDate": "1884-03-24", "id": "pmb207865.html"
+    "name": "Hausball bei Leopold Klein, 24.3.1884", "startDate": "1884-03-24", "id": "pmb207865.html"
   },
   {
     "name": "Aufführung von Don Giovanni, 19.3.1884", "startDate": "1884-03-19", "id": "pmb207864.html"
   },
   {
-    "name": "Ball Theimer, 17.3.1884", "startDate": "1884-03-17", "id": "pmb207863.html"
+    "name": "Hausball bei Eduard Theimer, 17.3.1884", "startDate": "1884-03-17", "id": "pmb207863.html"
   },
   {
-    "name": "Ball Schwarzenberg, 16.3.1884", "startDate": "1884-03-16", "id": "pmb207862.html"
+    "name": "Hausball bei Eugen Schwarzenberg, 16.3.1884", "startDate": "1884-03-16", "id": "pmb207862.html"
   },
   {
-    "name": "Ball bei Heit, 16.3.1884", "startDate": "1884-03-16", "id": "pmb207861.html"
+    "name": "Hausball bei Heit, 16.3.1884", "startDate": "1884-03-16", "id": "pmb207861.html"
   },
   {
     "name": "Kostümkränzchen der Österreichisch-Schlesier, 8.3.1884", "startDate": "1884-03-08", "id": "pmb207860.html"
@@ -13524,7 +13518,7 @@ var calendarData = [
     "name": "Wohltätigkeitsvorstellung (Musikalisch-declamatorische Akademie) für die Concordia und für das Töchterheim, 4.3.1884", "startDate": "1884-03-04", "id": "pmb207858.html"
   },
   {
-    "name": "Ball J. Klein, 3.3.1884", "startDate": "1884-03-03", "id": "pmb207857.html"
+    "name": "Hausball bei Johann Klein, 3.3.1884", "startDate": "1884-03-03", "id": "pmb207857.html"
   },
   {
     "name": "Premiere von Der Zerrissene, 29.2.1884", "startDate": "1884-02-29", "id": "pmb207856.html"
@@ -13551,19 +13545,19 @@ var calendarData = [
     "name": "Studentenball, 12.2.1884", "startDate": "1884-02-12", "id": "pmb207849.html"
   },
   {
-    "name": "Soirée Kohnberger, 12.2.1884", "startDate": "1884-02-12", "id": "pmb207848.html"
+    "name": "Soirée bei Innozenz Kohnberger, 12.2.1884", "startDate": "1884-02-12", "id": "pmb207848.html"
   },
   {
-    "name": "Ball Baecher, 8.2.1884", "startDate": "1884-02-08", "id": "pmb207847.html"
+    "name": "Hausball bei Bernhard Bächer, 8.2.1884", "startDate": "1884-02-08", "id": "pmb207847.html"
   },
   {
     "name": "Juristenball, 7.2.1884", "startDate": "1884-02-07", "id": "pmb207846.html"
   },
   {
-    "name": "Ball Herz, 4.2.1884", "startDate": "1884-02-04", "id": "pmb207845.html"
+    "name": "Hausball bei Wilhelm Herz, 4.2.1884", "startDate": "1884-02-04", "id": "pmb207845.html"
   },
   {
-    "name": "Ball Monti, 2.2.1884", "startDate": "1884-02-02", "id": "pmb207844.html"
+    "name": "Hausball bei Alois Monti, 2.2.1884", "startDate": "1884-02-02", "id": "pmb207844.html"
   },
   {
     "name": "Donau-Dampfschiffahrtskränzchen, 29.1.1884", "startDate": "1884-01-29", "id": "pmb207843.html"
@@ -13572,7 +13566,7 @@ var calendarData = [
     "name": "Premiere von Mein Kamerad. Posse in fünf Acten, 29.1.1884", "startDate": "1884-01-29", "id": "pmb207842.html"
   },
   {
-    "name": "Ball bei Alexander Scharf, 28.1.1884", "startDate": "1884-01-28", "id": "pmb207841.html"
+    "name": "Hausball bei Alexander Scharf, 28.1.1884", "startDate": "1884-01-28", "id": "pmb207841.html"
   },
   {
     "name": "Technikerball, 26.1.1884", "startDate": "1884-01-26", "id": "pmb207840.html"
@@ -13584,13 +13578,13 @@ var calendarData = [
     "name": "Hausball bei Julius Schlesinger, 24.1.1884", "startDate": "1884-01-24", "id": "pmb207838.html"
   },
   {
-    "name": "Lia-Kränzchen, 24.1.1884", "startDate": "1884-01-24", "id": "pmb207837.html"
+    "name": "Tanzkränzchen des Ruderclubs »Lia« zu Gunsten der Wiener Freiwilligen Rettungs-Gesellschaft, 26.1.1884", "startDate": "1884-01-26", "id": "pmb207837.html"
   },
   {
     "name": "Violinkonzert von Teresina Tua, 23.1.1884", "startDate": "1884-01-23", "id": "pmb207836.html"
   },
   {
-    "name": "Kränzchen und Liedertafel des Kaufmännischen Gesangsverein, 17.1.1884", "startDate": "1884-01-17", "id": "pmb207835.html"
+    "name": "Heitere Liedertafel des Kaufmännischen Gesangsvereins und geschlossenes Kränzchen zu Gunsten des Unterstützungsfonds der Wiener Handels-Akademie, 17.1.1884", "startDate": "1884-01-17", "id": "pmb207835.html"
   },
   {
     "name": "Konzert im Musikverein, 14.1.1884", "startDate": "1884-01-14", "id": "pmb207834.html"
@@ -13599,7 +13593,7 @@ var calendarData = [
     "name": "Klavierkonzert von Moriz Rosenthal, 7.1.1884", "startDate": "1884-01-07", "id": "pmb207833.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 6.1.1884", "startDate": "1884-01-06", "id": "pmb207832.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 6.1.1884", "startDate": "1884-01-06", "id": "pmb207832.html"
   },
   {
     "name": "Premiere von Unsere Frauen, 29.12.1883", "startDate": "1883-12-29", "id": "pmb207831.html"
@@ -13611,7 +13605,7 @@ var calendarData = [
     "name": "Konzert von Anton Door und Pablo de Sarasate, 23.11.1883", "startDate": "1883-11-23", "id": "pmb207829.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 18.11.1883", "startDate": "1883-11-18", "id": "pmb207828.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 18.11.1883", "startDate": "1883-11-18", "id": "pmb207828.html"
   },
   {
     "name": "Zweiter dramatischer Vortragsabend von Alexander Strakosch, 23.10.1883", "startDate": "1883-10-23", "id": "pmb207827.html"
@@ -13632,7 +13626,7 @@ var calendarData = [
     "name": "Aufführung von Hotel Godelot, 20.9.1883", "startDate": "1883-09-20", "id": "pmb207822.html"
   },
   {
-    "name": "Aufführung von Bibliothekar, 18.9.1883", "startDate": "1883-09-18", "id": "pmb207821.html"
+    "name": "Aufführung von Der Bibliothekar, 18.9.1883", "startDate": "1883-09-18", "id": "pmb207821.html"
   },
   {
     "name": "Aufführung von Drei Paar Schuhe, 10.7.1883", "startDate": "1883-07-10", "id": "pmb207820.html"
@@ -13686,19 +13680,19 @@ var calendarData = [
     "name": "Klavierkonzert von Anton Rückauf, 2.4.1883", "startDate": "1883-04-02", "id": "pmb207804.html"
   },
   {
-    "name": "Hausball Schlesinger, 25.3.1883", "startDate": "1883-03-25", "id": "pmb207803.html"
+    "name": "Hausball bei Julius Schlesinger, 25.3.1883", "startDate": "1883-03-25", "id": "pmb207803.html"
   },
   {
-    "name": "Hausball Hesky, 17.3.1883", "startDate": "1883-03-17", "id": "pmb207802.html"
+    "name": "Hausball bei Hesky, 17.3.1883", "startDate": "1883-03-17", "id": "pmb207802.html"
   },
   {
     "name": "Quartett, 15.3.1883", "startDate": "1883-03-15", "id": "pmb207801.html"
   },
   {
-    "name": "Neumann-Kränzchen, 14.3.1883", "startDate": "1883-03-14", "id": "pmb207800.html"
+    "name": "Kränzchen bei Ferdinand Neumann, 14.3.1883", "startDate": "1883-03-14", "id": "pmb207800.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 11.3.1883", "startDate": "1883-03-11", "id": "pmb207799.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 11.3.1883", "startDate": "1883-03-11", "id": "pmb207799.html"
   },
   {
     "name": "Aufführung von Der Bettelstudent, 6.3.1883", "startDate": "1883-03-06", "id": "pmb207798.html"
@@ -13710,22 +13704,22 @@ var calendarData = [
     "name": "Ball im Dürersäle, 27.2.1883", "startDate": "1883-02-27", "id": "pmb207796.html"
   },
   {
-    "name": "Ball Haid, 24.2.1883", "startDate": "1883-02-24", "id": "pmb207795.html"
+    "name": "Hausball bei Haid, 24.2.1883", "startDate": "1883-02-24", "id": "pmb207795.html"
   },
   {
-    "name": "Technikerkränzchen, 22.2.1883", "startDate": "1883-02-22", "id": "pmb207794.html"
+    "name": "Techniker-Kränzchen, 22.2.1883", "startDate": "1883-02-22", "id": "pmb207794.html"
   },
   {
     "name": "Aufführung von Verirrtes Schäfchen, 17.2.1883", "startDate": "1883-02-17", "id": "pmb207793.html"
   },
   {
-    "name": "Ball Pollitzer, 14.2.1883", "startDate": "1883-02-14", "id": "pmb207792.html"
+    "name": "Hausball bei Ignaz Pollitzer, 14.2.1883", "startDate": "1883-02-14", "id": "pmb207792.html"
   },
   {
-    "name": "Ball Eissler, 13.2.1883", "startDate": "1883-02-13", "id": "pmb207791.html"
+    "name": "Hausball bei Jakob Eissler, 13.2.1883", "startDate": "1883-02-13", "id": "pmb207791.html"
   },
   {
-    "name": "Kostümkränzchen der Künstlerabende, 5.2.1883", "startDate": "1883-02-05", "id": "pmb207790.html"
+    "name": "Kostümkränzchen der Künstlerabende der Gesellschaft der Musikfreunde, 10.2.1883", "startDate": "1883-02-10", "id": "pmb207790.html"
   },
   {
     "name": "Hausball bei Johann und Louise Schnitzler, 4.2.1883", "startDate": "1883-02-04", "id": "pmb207789.html"
@@ -13734,7 +13728,7 @@ var calendarData = [
     "name": "Hausball bei Baecherts, 3.2.1883", "startDate": "1883-02-03", "id": "pmb207788.html"
   },
   {
-    "name": "Universitätskränzchen, 30.1.1883", "startDate": "1883-01-30", "id": "pmb207787.html"
+    "name": "Universitätskränzchen zum Besten des Deutschen Schulvereins, 30.1.1883", "startDate": "1883-01-30", "id": "pmb207787.html"
   },
   {
     "name": "Aufführung von Kniff, 27.1.1883", "startDate": "1883-01-27", "id": "pmb207786.html"
@@ -13752,7 +13746,7 @@ var calendarData = [
     "name": "Drittes Hellmesberger-Quartett, 18.1.1883", "startDate": "1883-01-18", "id": "pmb207782.html"
   },
   {
-    "name": "Unitas-Kränzchen, 16.1.1883", "startDate": "1883-01-16", "id": "pmb207781.html"
+    "name": "Wohltätigkeits-Akademie mit Tanzkränzchen des technisch-akademischen Vereins »Unitas«, 16.1.1883", "startDate": "1883-01-16", "id": "pmb207781.html"
   },
   {
     "name": "Aufführung von Ein Blitzmädel, 3.1.1883", "startDate": "1883-01-03", "id": "pmb207780.html"
@@ -13767,7 +13761,7 @@ var calendarData = [
     "name": "Aufführung von Das unbekannte X, Splitter und Balken, 22.12.1882", "startDate": "1882-12-22", "id": "pmb207777.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 19.12.1882", "startDate": "1882-12-19", "id": "pmb207776.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 17.12.1882", "startDate": "1882-12-17", "id": "pmb207776.html"
   },
   {
     "name": "Premiere von Glück bei Frauen, 18.12.1882", "startDate": "1882-12-18", "id": "pmb207775.html"
@@ -13776,13 +13770,13 @@ var calendarData = [
     "name": "Aufführung von Zwei Taube, Une perle, 14.12.1882", "startDate": "1882-12-14", "id": "pmb207774.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 3.12.1882", "startDate": "1882-12-03", "id": "pmb207773.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 3.12.1882", "startDate": "1882-12-03", "id": "pmb207773.html"
   },
   {
     "name": "Aufführung von Dora, 28.11.1882", "startDate": "1882-11-28", "id": "pmb207772.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 26.11.1882", "startDate": "1882-11-26", "id": "pmb207771.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 26.11.1882", "startDate": "1882-11-26", "id": "pmb207771.html"
   },
   {
     "name": "Erstes Hellmesberger-Quartett, 23.11.1882", "startDate": "1882-11-23", "id": "pmb207770.html"
@@ -13794,7 +13788,7 @@ var calendarData = [
     "name": "Aufführung von Der Jourfix, 18.11.1882", "startDate": "1882-11-18", "id": "pmb207768.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 12.11.1882", "startDate": "1882-11-12", "id": "pmb207767.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 12.11.1882", "startDate": "1882-11-12", "id": "pmb207767.html"
   },
   {
     "name": "Aufführung von Kleiner Konfusionsrat, 9.11.1882", "startDate": "1882-11-09", "id": "pmb207766.html"
@@ -13812,7 +13806,7 @@ var calendarData = [
     "name": "Aufführung von Karolinger, 3.9.1882", "startDate": "1882-09-03", "id": "pmb207762.html"
   },
   {
-    "name": "Schlussproduktion Konservatorium, 15.7.1882", "startDate": "1882-07-15", "id": "pmb207761.html"
+    "name": "Schlussproduktion des Konservatoriums der Gesellschaft der Musikfreunde, 15.7.1882", "startDate": "1882-07-15", "id": "pmb207761.html"
   },
   {
     "name": "Aufführung von König Heinrich der Fünfte, 30.6.1882", "startDate": "1882-06-30", "id": "pmb207760.html"
@@ -13842,22 +13836,22 @@ var calendarData = [
     "name": "Aufführung von Reif-Reiflingen, 26.4.1882", "startDate": "1882-04-26", "id": "pmb207752.html"
   },
   {
-    "name": "Ausserordentliches philharmonisches Konzert, 2.4.1882", "startDate": "1882-04-02", "id": "pmb207751.html"
+    "name": "Außerordentliches philharmonisches Konzert, 2.4.1882", "startDate": "1882-04-02", "id": "pmb207751.html"
   },
   {
-    "name": "Billardkünstler Boffart, 24.3.1882", "startDate": "1882-03-24", "id": "pmb207750.html"
+    "name": "Billard-Vorstellung von Léon Goffart, 24.3.1882", "startDate": "1882-03-24", "id": "pmb207750.html"
   },
   {
     "name": "Sechstes (letztes) Radnitzky-Quartett, 22.3.1882", "startDate": "1882-03-22", "id": "pmb207749.html"
   },
   {
-    "name": "Ball Weiß, 18.3.1882", "startDate": "1882-03-18", "id": "pmb207748.html"
+    "name": "Hausball bei Maximilian von Weiss-Wellenstein, 18.3.1882", "startDate": "1882-03-18", "id": "pmb207748.html"
   },
   {
-    "name": "Ball bei Alexander Scharf, 15.3.1882", "startDate": "1882-03-15", "id": "pmb207747.html"
+    "name": "Hausball bei Alexander Scharf, 15.3.1882", "startDate": "1882-03-15", "id": "pmb207747.html"
   },
   {
-    "name": "Liedertafel des Kaufmännischen Gesangsvereins, 11.3.1882", "startDate": "1882-03-11", "id": "pmb207746.html"
+    "name": "Heitere Liedertafel des Kaufmännischen Gesangsvereins, 11.3.1882", "startDate": "1882-03-11", "id": "pmb207746.html"
   },
   {
     "name": "Premiere von Der Zugvogel, 11.3.1882", "startDate": "1882-03-11", "id": "pmb207745.html"
@@ -13878,16 +13872,16 @@ var calendarData = [
     "name": "Aufführung von L’assommoir, 4.3.1882", "startDate": "1882-03-04", "id": "pmb207740.html"
   },
   {
-    "name": "Ball Palaster , 1.3.1882", "startDate": "1882-03-01", "id": "pmb207739.html"
+    "name": "Hausball bei Paul Pallester, 1.3.1882", "startDate": "1882-03-01", "id": "pmb207739.html"
   },
   {
-    "name": "Konzert Gustav Walter, 1.3.1882", "startDate": "1882-03-01", "id": "pmb207738.html"
+    "name": "Dritter und letzter Liederabend von Gustav Walter, 1.3.1882", "startDate": "1882-03-01", "id": "pmb207738.html"
   },
   {
-    "name": "Ball Hellmann, 25.2.1882", "startDate": "1882-02-25", "id": "pmb207737.html"
+    "name": "Hausball bei Bernhard Hellmann, 25.2.1882", "startDate": "1882-02-25", "id": "pmb207737.html"
   },
   {
-    "name": "Ball Elias, 25.2.1882", "startDate": "1882-02-25", "id": "pmb207736.html"
+    "name": "Hausball bei David Elias, 25.2.1882", "startDate": "1882-02-25", "id": "pmb207736.html"
   },
   {
     "name": "Quartett im Musikverein, 22.2.1882", "startDate": "1882-02-22", "id": "pmb207735.html"
@@ -13908,7 +13902,7 @@ var calendarData = [
     "name": "Soirée Goterbom bei Lippmans, 23.1.1882", "startDate": "1882-01-23", "id": "pmb207730.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 15.1.1882", "startDate": "1882-01-15", "id": "pmb207729.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 15.1.1882", "startDate": "1882-01-15", "id": "pmb207729.html"
   },
   {
     "name": "Premiere von Odette, 14.1.1882", "startDate": "1882-01-14", "id": "pmb207728.html"
@@ -13923,7 +13917,7 @@ var calendarData = [
     "name": "Aufführung von Der lustige Krieg, 27.12.1881", "startDate": "1881-12-27", "id": "pmb207725.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 26.12.1881", "startDate": "1881-12-26", "id": "pmb207724.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 26.12.1881", "startDate": "1881-12-26", "id": "pmb207724.html"
   },
   {
     "name": "Aufführung von Frau von Navarre, 17.12.1881", "startDate": "1881-12-17", "id": "pmb207723.html"
@@ -13941,7 +13935,7 @@ var calendarData = [
     "name": "Gesangskonzert im Bösendorfer-Saal, 26.11.1881", "startDate": "1881-11-26", "id": "pmb207719.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 20.11.1881", "startDate": "1881-11-20", "id": "pmb207718.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 20.11.1881", "startDate": "1881-11-20", "id": "pmb207718.html"
   },
   {
     "name": "Aufführung von Wohltätige Frauen, 30.9.1881", "startDate": "1881-09-30", "id": "pmb207717.html"
@@ -14049,7 +14043,7 @@ var calendarData = [
     "name": "Gesangskonzert im Bösendorfer-Saal, 4.4.1881", "startDate": "1881-04-04", "id": "pmb207683.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 3.4.1881", "startDate": "1881-04-03", "id": "pmb207682.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 3.4.1881", "startDate": "1881-04-03", "id": "pmb207682.html"
   },
   {
     "name": "Danzer’s Orpheum, 1.4.1881", "startDate": "1881-04-01", "id": "pmb207681.html"
@@ -14058,10 +14052,10 @@ var calendarData = [
     "name": "Aufführung von Löwenritt, 28.3.1881", "startDate": "1881-03-28", "id": "pmb207680.html"
   },
   {
-    "name": "Soirée dansante Walter, 19.3.1881", "startDate": "1881-03-19", "id": "pmb207679.html"
+    "name": "Soirée dansante bei Gustav Walter, 19.3.1881", "startDate": "1881-03-19", "id": "pmb207679.html"
   },
   {
-    "name": "Ball Bermann, 17.3.1881", "startDate": "1881-03-17", "id": "pmb207678.html"
+    "name": "Hausball bei Bermann, 17.3.1881", "startDate": "1881-03-17", "id": "pmb207678.html"
   },
   {
     "name": "Gesellschaftskonzert mit Robert Schumann: Scenen aus Göthe’s Faust, 13.3.1881", "startDate": "1881-03-13", "id": "pmb207677.html"
@@ -14082,10 +14076,10 @@ var calendarData = [
     "name": "Gesangskonzert im Bösendorfer-Saal, 7.3.1881", "startDate": "1881-03-07", "id": "pmb207672.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 6.3.1881", "startDate": "1881-03-06", "id": "pmb207671.html"
+    "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 6.3.1881", "startDate": "1881-03-06", "id": "pmb207671.html"
   },
   {
-    "name": "Ball Julius Schlesinger, 5.3.1881", "startDate": "1881-03-05", "id": "pmb207670.html"
+    "name": "Hausball bei Julius Schlesinger, 5.3.1881", "startDate": "1881-03-05", "id": "pmb207670.html"
   },
   {
     "name": "Premiere von Noble Bekanntschaft, 5.3.1881", "startDate": "1881-03-05", "id": "pmb207669.html"
@@ -14100,13 +14094,10 @@ var calendarData = [
     "name": "Schubertabend, 25.2.1881", "startDate": "1881-02-25", "id": "pmb207666.html"
   },
   {
-    "name": "Soirée dansante Klein, 23.2.1881", "startDate": "1881-02-23", "id": "pmb207665.html"
+    "name": "Soirée dansante bei Klein, 23.2.1881", "startDate": "1881-02-23", "id": "pmb207665.html"
   },
   {
-    "name": "Soirée dansante Brüll, 20.2.1881", "startDate": "1881-02-20", "id": "pmb207664.html"
-  },
-  {
-    "name": "Tanzabend bei Brülls, 20.2.1881", "startDate": "1881-02-20", "id": "pmb207663.html"
+    "name": "Soirée dansante bei Eduard Brüll, 20.2.1881", "startDate": "1881-02-20", "id": "pmb207664.html"
   },
   {
     "name": "Orchesterkonzert im Musikverein, 20.2.1881", "startDate": "1881-02-20", "id": "pmb207662.html"
@@ -14178,7 +14169,7 @@ var calendarData = [
     "name": "Sylvesterfeier, 29.12.1880", "startDate": "1880-12-29", "id": "pmb207640.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 26.12.1880", "startDate": "1880-12-26", "id": "pmb207639.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 26.12.1880", "startDate": "1880-12-26", "id": "pmb207639.html"
   },
   {
     "name": "Letzter interner Musik-Abend des Richard-Wagner-Verbands, 22.12.1880", "startDate": "1880-12-22", "id": "pmb207638.html"
@@ -14202,7 +14193,7 @@ var calendarData = [
     "name": "Premiere von Duelle. Schauspiel in drei Aufzügen, 6.12.1880", "startDate": "1880-12-06", "id": "pmb207632.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 5.12.1880", "startDate": "1880-12-05", "id": "pmb207631.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 5.12.1880", "startDate": "1880-12-05", "id": "pmb207631.html"
   },
   {
     "name": "Gesangskonzert im Bösendorfer-Saal, 4.12.1880", "startDate": "1880-12-04", "id": "pmb207630.html"
@@ -14214,7 +14205,7 @@ var calendarData = [
     "name": "Aufführung von Die kleine Mama, 22.11.1880", "startDate": "1880-11-22", "id": "pmb207628.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 21.11.1880", "startDate": "1880-11-21", "id": "pmb207627.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 21.11.1880", "startDate": "1880-11-21", "id": "pmb207627.html"
   },
   {
     "name": "Aufführung von Große Kinder, 20.11.1880", "startDate": "1880-11-20", "id": "pmb207626.html"
@@ -14298,7 +14289,7 @@ var calendarData = [
     "name": "Kränzchen bei Spitzers, 21.7.1880", "startDate": "1880-07-21", "id": "pmb207599.html"
   },
   {
-    "name": "Schlussproduktion Konservatorium, 15.7.1880", "startDate": "1880-07-15", "id": "pmb207598.html"
+    "name": "Zweite Schlussproduktion des Konservatoriums der Gesellschaft der Musikfreunde, 15.7.1880", "startDate": "1880-07-15", "id": "pmb207598.html"
   },
   {
     "name": "Konzert im Bösendorfer-Saal, 6.7.1880", "startDate": "1880-07-06", "id": "pmb207597.html"
@@ -14361,7 +14352,7 @@ var calendarData = [
     "name": "Aufführung von Näherin, 16.4.1880", "startDate": "1880-04-16", "id": "pmb207578.html"
   },
   {
-    "name": "Generalprobe von Karusell, 15.4.1880", "startDate": "1880-04-15", "id": "pmb207577.html"
+    "name": "Generalprobe von Karussell, 15.4.1880", "startDate": "1880-04-15", "id": "pmb207577.html"
   },
   {
     "name": "Premiere von Advokatenball, 13.4.1880", "startDate": "1880-04-13", "id": "pmb207576.html"
@@ -14376,7 +14367,7 @@ var calendarData = [
     "name": "Aufführung von Der Sohn Coralis, 5.4.1880", "startDate": "1880-04-05", "id": "pmb207573.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 4.4.1880", "startDate": "1880-04-04", "id": "pmb207572.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 4.4.1880", "startDate": "1880-04-04", "id": "pmb207572.html"
   },
   {
     "name": "Aufführung von Näherin, 31.3.1880", "startDate": "1880-03-31", "id": "pmb207571.html"
@@ -14397,16 +14388,16 @@ var calendarData = [
     "name": "Vortrag von Phillip Markbreiter über die Redefreiheit, 10.3.1880", "startDate": "1880-03-10", "id": "pmb207566.html"
   },
   {
-    "name": "Ball Walter, 8.3.1880", "startDate": "1880-03-08", "id": "pmb207565.html"
+    "name": "Hausball bei Gustav Walter, 8.3.1880", "startDate": "1880-03-08", "id": "pmb207565.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 7.3.1880", "startDate": "1880-03-07", "id": "pmb207564.html"
+    "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 7.3.1880", "startDate": "1880-03-07", "id": "pmb207564.html"
   },
   {
-    "name": "Vortrag Moriz Benedikt über Mesmerismus, 5.3.1880", "startDate": "1880-03-05", "id": "pmb207563.html"
+    "name": "Vortrag von Moriz Benedikt über Mesmerismus, 5.3.1880", "startDate": "1880-03-05", "id": "pmb207563.html"
   },
   {
-    "name": "Ball Ziehrer, 4.3.1880", "startDate": "1880-03-04", "id": "pmb207562.html"
+    "name": "Hausball bei Ziehrer, 4.3.1880", "startDate": "1880-03-04", "id": "pmb207562.html"
   },
   {
     "name": "Aufführung von Kabale und Liebe, 27.2.1880", "startDate": "1880-02-27", "id": "pmb207561.html"
@@ -14415,7 +14406,7 @@ var calendarData = [
     "name": "Aufführung von Das Nachtlager in Granada, Die vier Jahreszeiten, 25.2.1880", "startDate": "1880-02-25", "id": "pmb207560.html"
   },
   {
-    "name": "Ball Spitzer, 22.2.1880", "startDate": "1880-02-22", "id": "pmb207559.html"
+    "name": "Hausball bei Gustav Spitzer, 22.2.1880", "startDate": "1880-02-22", "id": "pmb207559.html"
   },
   {
     "name": "Fünftes Hellmesberger-Quartett, 19.2.1880", "startDate": "1880-02-19", "id": "pmb207558.html"
@@ -14424,7 +14415,7 @@ var calendarData = [
     "name": "Technikerkränzchen, 17.2.1880", "startDate": "1880-02-17", "id": "pmb207557.html"
   },
   {
-    "name": "Ball Haberles, 14.2.1880", "startDate": "1880-02-14", "id": "pmb207556.html"
+    "name": "Hausball bei Haberle, 14.2.1880", "startDate": "1880-02-14", "id": "pmb207556.html"
   },
   {
     "name": "Kränzchen im Englischer Hof, 8.2.1880", "startDate": "1880-02-08", "id": "pmb207555.html"
@@ -14439,7 +14430,7 @@ var calendarData = [
     "name": "Aufführung von Der Messias, 2.2.1880", "startDate": "1880-02-02", "id": "pmb207552.html"
   },
   {
-    "name": "Ball bei Wiener von Welten, 31.1.1880", "startDate": "1880-01-31", "id": "pmb207551.html"
+    "name": "Hausball bei Eduard Wiener von Welten, 31.1.1880", "startDate": "1880-01-31", "id": "pmb207551.html"
   },
   {
     "name": "Generalprobe von Titus KV 621, Salzburgs größter Sohn. Dramatischer Epilog, 26.1.1880", "startDate": "1880-01-26", "id": "pmb207550.html"
@@ -14457,7 +14448,7 @@ var calendarData = [
     "name": "Aufführung von Deborah, 15.1.1880", "startDate": "1880-01-15", "id": "pmb207546.html"
   },
   {
-    "name": "Auftritt von Quartett Hellmesberger, 8.1.1880", "startDate": "1880-01-08", "id": "pmb207545.html"
+    "name": "Konzert des Hellmesberger-Quartetts, 8.1.1880", "startDate": "1880-01-08", "id": "pmb207545.html"
   },
   {
     "name": "Aufführung von König Richard der Dritte, 7.1.1880", "startDate": "1880-01-07", "id": "pmb207544.html"
@@ -14481,13 +14472,13 @@ var calendarData = [
     "name": "Aufführung von König Richard der Zweite. In fünf Aufzügen, 1.1.1880", "startDate": "1880-01-01", "id": "pmb207538.html"
   },
   {
-    "name": "Außerordentliches philharmonisches Konzert, 5.1.1880", "startDate": "1880-01-05", "id": "pmb207537.html"
+    "name": "Generalprobe des außerordentlichen philharmonischen Konzerts, 5.1.1880", "startDate": "1880-01-05", "id": "pmb207537.html"
   },
   {
     "name": "Aufführung von Carneval in Rom, 30.12.1879", "startDate": "1879-12-30", "id": "pmb207536.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 28.12.1879", "startDate": "1879-12-28", "id": "pmb207535.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 28.12.1879", "startDate": "1879-12-28", "id": "pmb207535.html"
   },
   {
     "name": "Aufführung von Im Tanzsaal, Ein zweiter Talleyrand, Grasteufel, 23.12.1879", "startDate": "1879-12-23", "id": "pmb207534.html"
@@ -14496,7 +14487,7 @@ var calendarData = [
     "name": "Drittes Hellmesberger-Quartett, 18.12.1879", "startDate": "1879-12-18", "id": "pmb207533.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 14.12.1879", "startDate": "1879-12-14", "id": "pmb207532.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 14.12.1879", "startDate": "1879-12-14", "id": "pmb207532.html"
   },
   {
     "name": "Premiere von Hausarzt, Der kleine Louis, 13.12.1879", "startDate": "1879-12-13", "id": "pmb207531.html"
@@ -14505,7 +14496,7 @@ var calendarData = [
     "name": "4. interner Abend des Wagner-Vereins, 11.12.1879", "startDate": "1879-12-11", "id": "pmb207530.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 30.11.1879", "startDate": "1879-11-30", "id": "pmb207529.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 30.11.1879", "startDate": "1879-11-30", "id": "pmb207529.html"
   },
   {
     "name": "Aufführung von Carmen. Oper in vier Akten, 29.11.1879", "startDate": "1879-11-29", "id": "pmb207528.html"
@@ -14682,7 +14673,7 @@ var calendarData = [
     "name": "Aufführung von Die Journalisten. Lustspiel in vier Akten, 1.2.1879", "startDate": "1879-02-01", "id": "pmb207470.html"
   },
   {
-    "name": "Philharmonisches Konzert, neue Folge, 26.1.1879", "startDate": "1879-01-26", "id": "pmb207469.html"
+    "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 26.1.1879", "startDate": "1879-01-26", "id": "pmb207469.html"
   },
   {
     "name": "Aufführung von Der Verschwender, 19.1.1879", "startDate": "1879-01-19", "id": "pmb207468.html"
@@ -14697,13 +14688,13 @@ var calendarData = [
     "name": "Aufführung von Prinz Friedrich, 10.1.1879", "startDate": "1879-01-10", "id": "pmb207465.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 6.1.1879", "startDate": "1879-01-06", "id": "pmb207464.html"
+    "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 6.1.1879", "startDate": "1879-01-06", "id": "pmb207464.html"
   },
   {
     "name": "Aufführung von Donna Diana, 1.1.1879", "startDate": "1879-01-01", "id": "pmb207463.html"
   },
   {
-    "name": "II. Philharmonisches Konzert, 29.12.1878", "startDate": "1878-12-29", "id": "pmb207462.html"
+    "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 29.12.1878", "startDate": "1878-12-29", "id": "pmb207462.html"
   },
   {
     "name": "Aufführung von Antonius und Cleopatra, 27.12.1878", "startDate": "1878-12-27", "id": "pmb207461.html"
@@ -14721,13 +14712,13 @@ var calendarData = [
     "name": "II. Gesellschaftskonzert, 8.12.1878", "startDate": "1878-12-08", "id": "pmb207457.html"
   },
   {
-    "name": "III. Philharmonisches-Konzert, 1.12.1878", "startDate": "1878-12-01", "id": "pmb207456.html"
+    "name": "Drittes philharmonisches Konzert, 1.12.1878", "startDate": "1878-12-01", "id": "pmb207456.html"
   },
   {
     "name": "Erstes Hellmesberger-Quartett, 21.11.1878", "startDate": "1878-11-21", "id": "pmb207455.html"
   },
   {
-    "name": "I. Philharmonisches Konzert, 3.11.1878", "startDate": "1878-11-03", "id": "pmb207454.html"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 3.11.1878", "startDate": "1878-11-03", "id": "pmb207454.html"
   },
   {
     "name": "Aufführung von Die Fledermaus, 26.10.1878", "startDate": "1878-10-26", "id": "pmb207453.html"
@@ -14781,7 +14772,7 @@ var calendarData = [
     "name": "Gesellschaftskonzert im Musikverein, 16.4.1878", "startDate": "1878-04-16", "id": "pmb207437.html"
   },
   {
-    "name": "Außerordentliches Philharmonisches Konzert, 7.4.1878", "startDate": "1878-04-07", "id": "pmb207436.html"
+    "name": "Außerordentliches philharmonisches Konzert zum Besten des Beethoven-Denkmals, 7.4.1878", "startDate": "1878-04-07", "id": "pmb207436.html"
   },
   {
     "name": "Aufführung von Julius Caesar, 6.4.1878", "startDate": "1878-04-06", "id": "pmb207435.html"
@@ -14796,7 +14787,7 @@ var calendarData = [
     "name": "Aufführung von Graf Essex, 25.3.1878", "startDate": "1878-03-25", "id": "pmb207432.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 24.3.1878", "startDate": "1878-03-24", "id": "pmb207431.html"
+    "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 24.3.1878", "startDate": "1878-03-24", "id": "pmb207431.html"
   },
   {
     "name": "Siebtes philharmonisches Konzert, 10.3.1878", "startDate": "1878-03-10", "id": "pmb207430.html"
@@ -14841,7 +14832,7 @@ var calendarData = [
     "name": "Aufführung von Splitter und Balken, Cato von Eisen, 1.1.1878", "startDate": "1878-01-01", "id": "pmb207417.html"
   },
   {
-    "name": "Philharmonisches-Konzert, 30.12.1877", "startDate": "1877-12-30", "id": "pmb207416.html"
+    "name": "Viertes Abonnementkonzert der Wiener Philharmoniker, 30.12.1877", "startDate": "1877-12-30", "id": "pmb207416.html"
   },
   {
     "name": "Aufführung von Weiße Frau, 28.12.1877", "startDate": "1877-12-28", "id": "pmb207415.html"
@@ -14949,7 +14940,7 @@ var calendarData = [
     "name": "Vortrag von Johann Schnitzler über den Hals, 21.2.1877", "startDate": "1877-02-21", "id": "pmb207380.html"
   },
   {
-    "name": "Philharmonisches Konzert, 8.2.1877", "startDate": "1877-02-08", "id": "pmb207379.html"
+    "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 18.2.1877", "startDate": "1877-02-18", "id": "pmb207379.html"
   },
   {
     "name": "Konzert im Carl-Theater, 24.1.1877", "startDate": "1877-01-24", "id": "pmb207378.html"
@@ -15465,7 +15456,7 @@ var calendarData = [
     "name": "Redoute, Februar 1886", "startDate": "1886-02-01", "id": "pmb195037.html"
   },
   {
-    "name": "Ball bei Bernhard Strisower, Februar 1886", "startDate": "1886-02-01", "id": "pmb195029.html"
+    "name": "Hausball bei Bernhard Strisower, Februar 1886", "startDate": "1886-02-01", "id": "pmb195029.html"
   },
   {
     "name": "Private Lesung von Blumen, 28.3.1894", "startDate": "1894-03-28", "id": "pmb193039.html"
@@ -16641,7 +16632,7 @@ var calendarData = [
     "name": "Private Lesung von Agonie, Gedichten, Anatols Hochzeitsmorgen und Abschiedssouper, Kompositionen, 26.9.1893", "startDate": "1893-09-26", "id": "pmb93057.html"
   },
   {
-    "name": "Liebhaberaufführung für Verkannte Genies, 1.3.1891", "startDate": "1891-03-01", "id": "pmb92883.html"
+    "name": "Privataufführung von Verkannte Genies, 1.3.1891", "startDate": "1891-03-01", "id": "pmb92883.html"
   },
   {
     "name": "Vortrag von Das junge Österreich", "startDate": "1895-03-13", "id": "pmb92775.html"
@@ -16656,10 +16647,10 @@ var calendarData = [
     "name": "Premiere von Liebelei, Die Versucherin, 11.1.1896", "startDate": "1896-01-11", "id": "pmb89661.html"
   },
   {
-    "name": "Ball von Bernhard Strisower und Privataufführung von Der grollende Löwe, 23.3.1887", "startDate": "1887-03-23", "id": "pmb89633.html"
+    "name": "Hausball bei Bernhard Strisower und Privataufführung von Der grollende Löwe, 23.3.1887", "startDate": "1887-03-23", "id": "pmb89633.html"
   },
   {
-    "name": "Proben für Mein Mausi. Liebhaberaufführung, März 1886", "startDate": "1886-03-01", "id": "pmb89627.html"
+    "name": "Probe von Mein Mausi, März 1886", "startDate": "1886-03-01", "id": "pmb89627.html"
   },
   {
     "name": "Privataufführung von Nur lügen muss man können, 14.11.1882", "startDate": "1882-11-14", "id": "pmb89615.html"
@@ -17176,6 +17167,9 @@ var calendarData = [
   },
   {
     "name": "Uraufführung von Die Athenerin, 19.9.1896", "startDate": "1896-09-19", "id": "pmb42019.html"
+  },
+  {
+    "name": "Uraufführung Sein Sohn, 16.10.1896", "startDate": "1896-10-16", "id": "pmb42011.html"
   },
   {
     "name": "Uraufführung Das Bild des Signorelli, 5.1.1894", "startDate": "1894-01-05", "id": "pmb41938.html"
