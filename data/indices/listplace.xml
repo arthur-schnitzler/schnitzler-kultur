@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-06-20">serialized</change>
+      <change when-iso="2025-07-13">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,1047 @@
       
            
       <listPlace>
+        <place xml:id="pmb295613">
+          
+  
+          <placeName>Schwarzenbergplatz 2</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,20113 16,37527</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb53143">Schwarzenbergplatz</placeName>
+            
+  
+            <geo>48,198498814707754 16,37601664270439</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295613/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295596">
+          
+  
+          <placeName>Karlsgasse 9</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,1974 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb92329">Karlsgasse</placeName>
+            
+  
+            <geo>48,197502 16,370129</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb54">IV., Wieden</placeName>
+            
+  
+            <geo>48,19198 16,36714</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295596/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295576">
+          
+  
+          <placeName>Getreidemarkt 2</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,20101 16,36651</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb61869">Getreidemarkt</placeName>
+            
+  
+            <geo>48,202110290527344 16,362089157104492</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295576/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295503">
+          
+  
+          <placeName>Schmerlingplatz 1</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,20795 16,35556</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb55103">Schmerlingplatz</placeName>
+            
+  
+            <geo>48,207342070255024 16,35718484523783</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295503/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295470">
+          
+  
+          <placeName>Zum weißen Rössel</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Weißes Ross</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Zum Ross</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Hotel weißes Ross</placeName>
+          
+  
+          <desc type="entity_type">Gastgewerbegebäude (K.GGW)</desc>
+          
+  
+          <desc type="entity_type_id">17</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,2136 16,37992</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb52">II., Leopoldstadt</placeName>
+            
+  
+            <geo>48,21667 16,4</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb541">Taborstraße</placeName>
+            
+  
+            <geo>48,221200197414 16,387081034031</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295470/</idno>
+          
+  
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Zum_wei%C3%9Fen_R%C3%B6ssel_(2)</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295463">
+          
+  
+          <placeName>Rosengasse 8</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,21154 16,3617</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb54801">Rosengasse</placeName>
+            
+  
+            <geo>48,21122 16,36311</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295463/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295455">
+          
+  
+          <placeName>Schellinggasse 1</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,20507 16,37605</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb341">Schellinggasse</placeName>
+            
+  
+            <geo>48,204051950858 16,374822957472</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295455/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295411">
+          
+  
+          <placeName>Mahlerstraße 4</placeName>
+          
+  
+          <placeName type="ort_fruherer-name">Maximilianstraße 4</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,20293 16,37065</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb1178">Mahlerstraße</placeName>
+            
+  
+            <geo>48,20282 16,371172</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295411/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295394">
+          
+  
+          <placeName>Praterstraße 50</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,21582 16,38671</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb52">II., Leopoldstadt</placeName>
+            
+  
+            <geo>48,21667 16,4</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb50933">Praterstraße</placeName>
+            
+  
+            <geo>48,21348 16,38214</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295394/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295385">
+          
+  
+          <placeName>Opernring 11</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,20269 16,3669</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb717">Opernring</placeName>
+            
+  
+            <geo>48,202859933076 16,366977055984</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295385/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295369">
+          
+  
+          <placeName>Liechtensteinstraße 11</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,21718 16,36233</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb59">IX., Alsergrund</placeName>
+            
+  
+            <geo>48,22387 16,35641</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb289499">Liechtensteinstraße [Wien]</placeName>
+            
+  
+            <geo>48,2231 16,358</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295369/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295105">
+          
+  
+          <placeName>Waller’s Bierhalle »zum Rathaus«</placeName>
+          
+  
+          <desc type="entity_type">Bierhaus (K.BIR)</desc>
+          
+  
+          <desc type="entity_type_id">7</desc>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295105/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295053">
+          
+  
+          <placeName>Schottengasse 3</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,21255 16,36368</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb55450">Schottengasse</placeName>
+            
+  
+            <geo>48,2135544893099 16,36299165406553</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295053/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295043">
+          
+  
+          <placeName>Stadiongasse 2</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,209145 16,357468</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb295044">Stadiongasse</placeName>
+            
+  
+            <geo>48,2091 16,3568</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295043/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295029">
+          
+  
+          <placeName>Rooseveltplatz 6</placeName>
+          
+  
+          <placeName type="ort_fruherer-name">Maximilianplatz 6</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,215273 16,357535</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb721">Rooseveltplatz</placeName>
+            
+  
+            <geo>48,21492 16,35854</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb59">IX., Alsergrund</placeName>
+            
+  
+            <geo>48,22387 16,35641</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295029/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb295020">
+          
+  
+          <placeName>Sonnenfelsgasse 1</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,209991 16,375543</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb295017">Sonnenfelsgasse</placeName>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295020/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb294997">
+          
+  
+          <placeName>Universitätsring 14</placeName>
+          
+  
+          <placeName type="ort_fruherer-name">Franzensring 24</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,213468 16,362331</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb235695">Universitätsring</placeName>
+            
+  
+            <geo>48,2136 16,3614</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294997/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb294991">
+          
+  
+          <placeName>Kärntner Straße 51</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,203245 16,370476</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb40387">Kärntner Straße</placeName>
+            
+  
+            <geo>48,204832 16,370809</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294991/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb294923">
           
   
@@ -26113,6 +27154,9 @@
           <listBibl>
             
     
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
@@ -26257,6 +27301,12 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb90434.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q676591</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Champf%C3%A8r</idno>
           
 
           <listBibl>
@@ -30250,6 +31300,12 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb5862.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q45240</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Monte-Carlo</idno>
           
 
           <listBibl>
@@ -35963,6 +37019,9 @@
           <listBibl>
             
     
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
@@ -37854,7 +38913,7 @@
         <place xml:id="pmb295">
           
   
-          <placeName>Hotel zum Schwarzer Adler [Wien]</placeName>
+          <placeName>Hotel zum Schwarzen Adler [Wien]</placeName>
           
   
           <desc type="entity_type">Hotel (K.HTL)</desc>
@@ -42331,8 +43390,14 @@
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb14.html</idno>
           
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q109377820</idno>
+          
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>

@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-06-20">serialized</change>
+      <change when-iso="2025-07-13">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,191 @@
       
            
       <listOrg>
+        <org xml:id="pmb295475">
+          
+  
+          <orgName>Erster Wiener Ruderclub LIA</orgName>
+          
+  
+          <desc type="entity_type">Verein</desc>
+          
+  
+          <desc type="entity_type_id">974</desc>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb50">Wien</placeName>
+            
+  
+            <geo>48,208333 16,373056</geo>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4066009-6</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2316/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+            
+  
+            <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1741</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Wien</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761333/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33999/</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb50.html</note>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295475/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q124959175</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Erster_Wiener_Ruderclub_LIA</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </org>
+        <org xml:id="pmb295005">
+          
+  
+          <orgName>Österreichische Gesellschaft vom Weißen Kreuze</orgName>
+          
+  
+          <desc type="entity_type">Vereinigung</desc>
+          
+  
+          <desc type="entity_type_id">1027</desc>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb41240">Österreich</placeName>
+            
+  
+            <geo>47,33333 13,33333</geo>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/2782113/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41240/</note>
+            
+  
+            <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb41240</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92143/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92203/</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb41240.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41240.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41240.html</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/%C3%96sterreich</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q40</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/135092/</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4043271-3</note>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295005/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q303295</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/400302-0</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/%C3%96sterreichische_Gesellschaft_vom_Wei%C3%9Fen_Kreuze</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1882-01-01" when-iso="1882-01-01">1882</date>
+            
+
+          </note>
+          
+
+        </org>
         <org xml:id="pmb294606">
           
   
@@ -1065,6 +1250,12 @@
   
             <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb90857.html</note>
             
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q8920</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Hellerau</note>
+            
 
           </location>
           
@@ -1567,9 +1758,6 @@
             <geo>55,76167 37,60667</geo>
             
   
-            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q649</note>
-            
-  
             <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4074987-3</note>
             
   
@@ -1589,9 +1777,6 @@
             
   
             <note type="IDNO" subtype="geonames">https://sws.geonames.org/524894/</note>
-            
-  
-            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Moskau</note>
             
   
             <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb869.html</note>
@@ -4199,6 +4384,12 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb433.html</note>
             
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261949/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261448/</note>
+            
 
           </location>
           
@@ -5226,6 +5417,54 @@
           
   
           <desc type="entity_type_id">974</desc>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb41240">Österreich</placeName>
+            
+  
+            <geo>47,33333 13,33333</geo>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/2782113/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41240/</note>
+            
+  
+            <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb41240</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92143/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92203/</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb41240.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41240.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41240.html</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/%C3%96sterreich</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q40</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/135092/</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4043271-3</note>
+            
+
+          </location>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211370/</idno>
@@ -7321,9 +7560,6 @@
             <geo>55,76167 37,60667</geo>
             
   
-            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q649</note>
-            
-  
             <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4074987-3</note>
             
   
@@ -7343,9 +7579,6 @@
             
   
             <note type="IDNO" subtype="geonames">https://sws.geonames.org/524894/</note>
-            
-  
-            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Moskau</note>
             
   
             <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb869.html</note>
@@ -11527,9 +11760,6 @@
             <geo>55,76167 37,60667</geo>
             
   
-            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q649</note>
-            
-  
             <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4074987-3</note>
             
   
@@ -11549,9 +11779,6 @@
             
   
             <note type="IDNO" subtype="geonames">https://sws.geonames.org/524894/</note>
-            
-  
-            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Moskau</note>
             
   
             <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb869.html</note>
@@ -18714,6 +18941,9 @@
             
   
             <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb14.html</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q109377820</note>
             
 
           </location>

@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-06-20">serialized</change>
+      <change when-iso="2025-07-13">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,28 @@
       
            
       <listBibl>
+        <bibl xml:id="pmb295592">
+          
+  
+          <title type="main">Karussell</title>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295592/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Drama</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb294463">
           
   
@@ -3399,7 +3421,7 @@
           <title type="werk_namensvariante">Don Quichote von La Mancha</title>
           
   
-          <author key="pmb121876" role="hat-geschaffen">Lauritzen, Lau Sr.</author>
+          <author key="pmb20163" role="hat-geschaffen">Lauritzen, Lau [senior]</author>
           
   
           <author key="pmb120536" role="hat-einen-beitrag-geschaffen-zu">Villa, Valentino</author>
@@ -7941,7 +7963,7 @@
         <bibl xml:id="pmb195634">
           
   
-          <title type="main">Bibliothekar</title>
+          <title type="main">Der Bibliothekar. Schwank in vier Akten</title>
           
   
           <author key="pmb12296" role="hat-geschaffen">Moser, Gustav von</author>
@@ -7951,6 +7973,18 @@
           
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-339</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -9967,10 +10001,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
   
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -11865,10 +11899,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -11905,10 +11939,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -12432,10 +12466,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -13411,7 +13445,7 @@
         <bibl xml:id="pmb163378">
           
   
-          <title type="main">4. Sinfonie Es-Dur („Romantische")</title>
+          <title type="main">4. Sinfonie Es-Dur („Romantische&quot;)</title>
           
   
           <author key="pmb11024" role="hat-geschaffen">Bruckner, Anton</author>
@@ -29406,7 +29440,7 @@
           <title type="main">Die beiden Musikanten</title>
           
   
-          <author key="pmb20163" role="hat-geschaffen">Lauritzen, Lau</author>
+          <author key="pmb20163" role="hat-geschaffen">Lauritzen, Lau [senior]</author>
           
   
           <author key="pmb8773" role="hat-einen-beitrag-geschaffen-zu">Madsen, Harald</author>
@@ -42653,6 +42687,28 @@
           
 
         </bibl>
+        <bibl xml:id="pmb80245">
+          
+  
+          <title type="main">Mein Mausi. Lebensbild in 1 Act</title>
+          
+  
+          <author key="pmb14634" role="hat-geschaffen">Brüll, Emil</author>
+          
+
+          <date when-iso="1886-03-28">1886-03-28</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/80245/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb80245.html</idno>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb80244">
           
   
@@ -51709,13 +51765,10 @@
           <title type="main">Die Warschauer Zitadelle</title>
           
   
-          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
-          
-  
           <author key="pmb28356" role="hat-geschaffen">Fleck, Jacob Julius</author>
           
   
-          <author key="pmb119697" role="hat-geschaffen">Fleck, Louise</author>
+          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
           
   
           <author key="pmb27428" role="hat-einen-beitrag-geschaffen-zu">Zapolska, Gabryela</author>
@@ -51755,13 +51808,10 @@
           <title type="main">Die Csikosbaroness</title>
           
   
-          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
-          
-  
           <author key="pmb28356" role="hat-geschaffen">Fleck, Jacob Julius</author>
           
   
-          <author key="pmb119697" role="hat-geschaffen">Fleck, Louise</author>
+          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
           
   
           <author key="pmb120560" role="hat-einen-beitrag-geschaffen-zu">Georg, Götz</author>
@@ -51825,13 +51875,10 @@
           <title type="main">Der Orlow</title>
           
   
-          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
-          
-  
           <author key="pmb28356" role="hat-geschaffen">Fleck, Jacob Julius</author>
           
   
-          <author key="pmb119697" role="hat-geschaffen">Fleck, Louise</author>
+          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
           
   
           <author key="pmb8817" role="hat-einen-beitrag-geschaffen-zu">Marischka, Ernst</author>
@@ -51962,7 +52009,7 @@
           <author key="pmb9058" role="hat-einen-beitrag-geschaffen-zu">Neufeld, Max</author>
           
   
-          <author key="pmb119697" role="hat-geschaffen">Fleck, Louise</author>
+          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
           
 
           <date>1920</date>
@@ -52002,13 +52049,10 @@
           <title type="main">Der Bettelstudent</title>
           
   
-          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
-          
-  
           <author key="pmb28356" role="hat-geschaffen">Fleck, Jacob Julius</author>
           
   
-          <author key="pmb119697" role="hat-geschaffen">Fleck, Louise</author>
+          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
           
   
           <author key="pmb9472" role="hat-einen-beitrag-geschaffen-zu">Reisch, Walter</author>
@@ -52292,9 +52336,6 @@
           <author key="pmb119231" role="hat-einen-beitrag-geschaffen-zu">Heilborn-Körbitz, Luise</author>
           
   
-          <author key="pmb12028" role="hat-einen-beitrag-geschaffen-zu">Lamprecht, Gerhard</author>
-          
-  
           <author key="pmb119746" role="hat-einen-beitrag-geschaffen-zu">Egede Nissen, Aud</author>
           
   
@@ -52436,9 +52477,6 @@
           
   
           <author key="pmb12899" role="hat-einen-beitrag-geschaffen-zu">Sudermann, Hermann</author>
-          
-  
-          <author key="pmb12028" role="hat-einen-beitrag-geschaffen-zu">Lamprecht, Gerhard</author>
           
   
           <author key="pmb119231" role="hat-einen-beitrag-geschaffen-zu">Heilborn-Körbitz, Luise</author>
@@ -53240,10 +53278,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -55474,10 +55512,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -58918,10 +58956,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
   
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -59800,10 +59838,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -60074,10 +60112,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -60483,10 +60521,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -63875,10 +63913,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
   
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -64869,10 +64907,10 @@
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -67534,9 +67572,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb119231" role="hat-einen-beitrag-geschaffen-zu">Heilborn-Körbitz, Luise</author>
           
   
-          <author key="pmb12028" role="hat-einen-beitrag-geschaffen-zu">Lamprecht, Gerhard</author>
-          
-  
           <author key="pmb121645" role="hat-einen-beitrag-geschaffen-zu">Esser, Peter</author>
           
   
@@ -68523,10 +68558,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
   
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -68636,10 +68671,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
   
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -68783,7 +68818,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb32806">
           
   
-          <title type="main">Liebelei (Film, 1927)</title>
+          <title type="main">Liebelei [Film, 1927]</title>
           
   
           <title type="legacy-name-merge">Liebelei</title>
@@ -68822,7 +68857,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb120884" role="hat-einen-beitrag-geschaffen-zu">Stuart, Henry</author>
           
   
-          <author key="pmb119697" role="hat-geschaffen">Fleck, Louise</author>
+          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
           
 
           <date notBefore-iso="1927-01-01" when-iso="1927-01-01">1927</date>
@@ -68850,6 +68885,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="imdb">https://www.imdb.com/title/tt0296053</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Film</note>
@@ -71065,10 +71109,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
   
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -72704,10 +72748,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
   
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -73955,7 +73999,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb28356" role="hat-geschaffen">Fleck, Jacob Julius</author>
           
   
-          <author key="pmb119697" role="hat-geschaffen">Fleck, Louise</author>
+          <author key="pmb11334" role="hat-geschaffen">Fleck, Luise</author>
           
   
           <author key="pmb13457" role="hat-einen-beitrag-geschaffen-zu">Anton, Anton</author>
@@ -78812,10 +78856,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -79434,10 +79478,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
   
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
@@ -83180,10 +83224,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="collections">
             
   
-            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
   
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
             
 
           </note>
