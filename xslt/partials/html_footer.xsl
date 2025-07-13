@@ -24,7 +24,7 @@
                                     Bäckerstraße 13<br/>
                                     1010 Wien<br/>
                                     T: +43 1 51581-2200<br/>
-                                    E: <a href="mailto:acdh-ch-helpdesk@oeaw.ac.at">acdh-ch-helpdesk(at)oeaw.ac.at</a>
+                                    E: <a href="mailto:acdh-helpdesk@oeaw.ac.at">acdh-helpdesk(at)oeaw.ac.at</a>
                                 </p>
                             </div>
                         </div>
