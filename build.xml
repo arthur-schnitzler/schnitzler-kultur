@@ -6,7 +6,12 @@
     <delete>
         <fileset dir="${target}" includes="*.html"/>
     </delete>
-    <xslt in="./data/editions/listevent.xml" out="${target}/listevent.html"
+    <xslt in="./data/editions/listevent.xml" out="${target}/listevent-charts.html"
+        style="./xslt/listevent-charts.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+   <!-- <xslt in="./data/editions/listevent.xml" out="${target}/listevent.html"
         style="./xslt/listevent.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
@@ -53,7 +58,7 @@
     <xslt style="./xslt/meta.xsl" basedir="./data/meta" destdir="${target}" includes="*.xml">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
-    </xslt>
+    </xslt>-->
     <!--
     <xslt in="${index}" out="${target}/search.html" style="./xslt/search.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>

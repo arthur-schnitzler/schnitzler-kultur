@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <item type="Privatveranstaltung">
+        <description>Diner</description>
+    </item>
+    <item type="Theater">
+        <description>Theateraufführung</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Empfang</description>
+    </item>
+    <item type="Verein">
+        <description>Vereinstreffen</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Festbesuch</description>
+    </item>
+    <item type="Ausstellung">
+        <description>Ausstellungsbesuch</description>
+    </item>
+    <item type="Theater">
+        <description>Generalprobe</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Private Lesung</description>
+    </item>
+    <item type="Konzert">
+        <description>Quartett</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Bankett</description>
+    </item>
+    <item type="Konzert">
+        <description>Orchesterkonzert</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Hochzeit</description>
+    </item>
+    <item type="Konzert">
+        <description>Konzert</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Redoute</description>
+    </item>
+    <item type="Theater">
+        <description>Probe</description>
+    </item>
+    <item type="Film">
+        <description>Filmvorführung</description>
+    </item>
+    <item type="Musik">
+        <description>Operettenaufführung</description>
+    </item>
+    <item type="Musik">
+        <description>Opernaufführung</description>
+    </item>
+    <item type="Theater">
+        <description>Marionettentheater</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Messebesuch</description>
+    </item>
+    <item type="Theater">
+        <description>Kostümprobe</description>
+    </item>
+    <item type="Musik">
+        <description>Kompositionskonzert</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Vorlesung</description>
+    </item>
+    <item type="Musik">
+        <description>Violinkonzert</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Private Filmvorführung</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Schiedsgericht</description>
+    </item>
+    <item type="Theater">
+        <description>Premiere</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Privater Vortrag</description>
+    </item>
+    <item type="Musik">
+        <description>Liederkonzert</description>
+    </item>
+    <item type="Musik">
+        <description>Ballett</description>
+    </item>
+    <item type="Musik">
+        <description>Tanzaufführung</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Beerdigung</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Heilige Messe</description>
+    </item>
+    <item type="Musik Privatveranstaltung">
+        <description>Privates Konzert</description>
+    </item>
+    <item type="Musik">
+        <description>Philharmonisches Konzert</description>
+    </item>
+    <item type="Musik">
+        <description>Trio</description>
+    </item>
+    <item type="Musik">
+        <description>Klavierkonzert</description>
+    </item>
+    <item type="Musik">
+        <description>Wohltätigkeitskonzert</description>
+    </item>
+    <item type="Verein">
+        <description>Sitzung</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Veranstaltung</description>
+    </item>
+    <item type="Verein">
+        <description>Wohltätigkeitsveranstaltung</description>
+    </item>
+    <item type="Konzert">
+        <description>Violin-Klavier-Konzert</description>
+    </item>
+    <item type="Theater">
+        <description>Uraufführung</description>
+    </item>
+    <item type="Lesung">
+        <description>Lesung</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Vortrag</description>
+    </item>
+    <item type="Musik">
+        <description>Chorgesang</description>
+    </item>
+    <item type="Theater">
+        <description>Schulaufführung</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Ball</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Fest</description>
+    </item>
+    <item type="Musik">
+        <description>Sinfoniekonzert</description>
+    </item>
+    <item type="Theater">
+        <description>Arrangierprobe</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Zaubervorstellung</description>
+    </item>
+    <item type="Musik">
+        <description>Revue</description>
+    </item>
+    <item type="Musik">
+        <description>Varieté</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Kongress</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Feier</description>
+    </item>
+    <item type="Musik">
+        <description>Kammermusikkonzert</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Zirkusvorstellung</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Umzug</description>
+    </item>
+    <item type="Theater">
+        <description>Puppenspiel</description>
+    </item>
+    <item type="Musik">
+        <description>Gesellschaftskonzert</description>
+    </item>
+    <item type="Film">
+        <description>Varieté und Filmvorführung</description>
+    </item>
+    <item type="Musik">
+        <description>Cellokonzert</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Vergnügungsabend</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Ballettsoirée</description>
+    </item>
+    <item type="Musik">
+        <description>Schulkonzert</description>
+    </item>
+    <item type="Musik">
+        <description>Tanz</description>
+    </item>
+    <item type="Musik">
+        <description>Orgelkonzert</description>
+    </item>
+    <item type="Theater">
+        <description>Matinée</description>
+    </item>
+    <item type="Ausstellung">
+        <description>Ausstellung</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Hausball</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Soirée</description>
+    </item>
+    <item type="Kränzchen">
+        <description>Kränzchen</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Polterabend</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Silberne Hochzeit</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Schulvortragsabend</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Maskenball</description>
+    </item>
+    <item type="Verein">
+        <description>Kommers</description>
+    </item>
+    <item type="Musik">
+        <description>Volksgesang</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Souper</description>
+    </item>
+    <item type="Verein">
+        <description>Kneipe</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Kostümfest</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Spielabend</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Damenabend</description>
+    </item>
+    <item type="Privatveranstaltung">
+        <description>Gesellschaftsabend</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Narrenabend</description>
+    </item>
+    <item type="Kränzchen">
+        <description>Tanzkränzchen</description>
+    </item>
+    <item type="Kränzchen">
+        <description>Universitätskränzchen</description>
+    </item>
+    <item type="Kulturveranstaltung">
+        <description>Billardvorstellung</description>
+    </item>
+    <item type="Privatveranstltung">
+        <description>Soirée-dansante</description>
+    </item>
+    <item type="Kränzchen">
+        <description>Technikerkränzchen</description>
+    </item>
+    <item type="Kränzchen">
+        <description>Wärmestuben-Kränzchen</description>
+    </item>
+    <item type="Theater">
+        <description>Studierendenaufführung</description>
+    </item>
+    <item type="Kränzchen">
+        <description>Unitaskränzchen</description>
+    </item>
+    <item type="Kränzchen">
+        <description>Medizinerkränzchen</description>
+    </item>
+    <item type="Theater">
+        <description>Leseprobe</description>
+    </item>
+    <item type="Lehrveranstaltung">
+        <description>Praktische Übung</description>
+    </item>
+    <item type="Theater Privatveranstaltung">
+        <description>Privataufführung</description>
+    </item>
+    <item type="Film">
+        <description>Filmpremiere</description>
+    </item>
+</list>
