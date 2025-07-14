@@ -33,50 +33,30 @@
                         <h1>
                             <xsl:text>Statistiken</xsl:text>
                         </h1>
-        
-                
-                <!-- Event-Arten -->
-                <div class="mb-5">
-                    <h2>Häufigste Veranstaltungsarten</h2>
-                    <canvas id="chartTypes" height="100"></canvas>
-                </div>
-                
-                <!-- Personen -->
-                <div class="mb-5">
-                    <h2>Häufigste Teilnehmer:innen</h2>
-                    <canvas id="chartPeople" height="100"></canvas>
-                </div>
-                
-                <!-- Orte -->
-                <div class="mb-5">
-                    <h2>Häufigste Orte</h2>
-                    <canvas id="chartPlaces" height="100"></canvas>
-                </div>
-                
+                        <div class="mb-4">
+                            <label for="yearSelect" class="form-label">Jahr auswählen:</label>
+                            <select id="yearSelect" class="form-select w-auto">
+                                <xsl:for-each select="1876 to 1931">
+                                    <option>
+                                        <xsl:value-of select="."/>
+                                    </option>
+                                </xsl:for-each>
+                            </select>
+                        </div>
                         
+                        <h2>Veranstaltungstypen</h2>
+                        <canvas id="anaChart" width="400" height="400" class="mb-5 d-block mx-auto"></canvas>
                         
-                    </div></main>
+                        <div id="anaNChartsContainer">
+                            <!-- Hier werden dynamisch die @n-Charts pro @ana eingefügt -->
+                        </div>
+                
+                    </div>
+                </main>
             </body>
             <script src="./js/eventtype-charts.js"></script>
         </html>
     </xsl:template>
-    
-    <!-- Label-Generator -->
-    <xsl:template name="labels">
-        <xsl:param name="xpath"/>
-        <xsl:for-each-group select="$xpath" group-by=".">
-            <xsl:sort select="count(current-group())" order="descending"/>
-            "<xsl:value-of select="."/>"<xsl:if test="position() ne last()">,</xsl:if>
-        </xsl:for-each-group>
-    </xsl:template>
-    
-    <!-- Count-Generator -->
-    <xsl:template name="counts">
-        <xsl:param name="xpath"/>
-        <xsl:for-each-group select="$xpath" group-by=".">
-            <xsl:sort select="count(current-group())" order="descending"/>
-            <xsl:value-of select="count(current-group())"/><xsl:if test="position() ne last()">,</xsl:if>
-        </xsl:for-each-group>
-    </xsl:template>
+
     
 </xsl:stylesheet>

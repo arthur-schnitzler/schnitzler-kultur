@@ -6,13 +6,13 @@
     <item type="Theater">
         <description>Theateraufführung</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Empfang</description>
     </item>
-    <item type="Verein">
+    <item type="anderes">
         <description>Vereinstreffen</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Festbesuch</description>
     </item>
     <item type="Ausstellung">
@@ -27,7 +27,7 @@
     <item type="Konzert">
         <description>Quartett</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Bankett</description>
     </item>
     <item type="Konzert">
@@ -57,7 +57,7 @@
     <item type="Theater">
         <description>Marionettentheater</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Messebesuch</description>
     </item>
     <item type="Theater">
@@ -66,7 +66,7 @@
     <item type="Musik">
         <description>Kompositionskonzert</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Vorlesung</description>
     </item>
     <item type="Musik">
@@ -75,7 +75,7 @@
     <item type="Privatveranstaltung">
         <description>Private Filmvorführung</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Schiedsgericht</description>
     </item>
     <item type="Theater">
@@ -99,10 +99,10 @@
     <item type="Privatveranstaltung">
         <description>Beerdigung</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Heilige Messe</description>
     </item>
-    <item type="Musik Privatveranstaltung">
+    <item type="Privatveranstaltung">
         <description>Privates Konzert</description>
     </item>
     <item type="Musik">
@@ -117,13 +117,13 @@
     <item type="Musik">
         <description>Wohltätigkeitskonzert</description>
     </item>
-    <item type="Verein">
+    <item type="anderes">
         <description>Sitzung</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Veranstaltung</description>
     </item>
-    <item type="Verein">
+    <item type="anderes">
         <description>Wohltätigkeitsveranstaltung</description>
     </item>
     <item type="Konzert">
@@ -138,7 +138,7 @@
     <item type="Lesung">
         <description>Lesung</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Vortrag</description>
     </item>
     <item type="Musik">
@@ -159,7 +159,7 @@
     <item type="Theater">
         <description>Arrangierprobe</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Zaubervorstellung</description>
     </item>
     <item type="Musik">
@@ -168,19 +168,19 @@
     <item type="Musik">
         <description>Varieté</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Kongress</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Feier</description>
     </item>
     <item type="Musik">
         <description>Kammermusikkonzert</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Zirkusvorstellung</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Umzug</description>
     </item>
     <item type="Theater">
@@ -195,10 +195,10 @@
     <item type="Musik">
         <description>Cellokonzert</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Vergnügungsabend</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Ballettsoirée</description>
     </item>
     <item type="Musik">
@@ -222,7 +222,7 @@
     <item type="Privatveranstaltung">
         <description>Soirée</description>
     </item>
-    <item type="Kränzchen">
+    <item type="anderes">
         <description>Kränzchen</description>
     </item>
     <item type="Privatveranstaltung">
@@ -231,13 +231,13 @@
     <item type="Privatveranstaltung">
         <description>Silberne Hochzeit</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Schulvortragsabend</description>
     </item>
     <item type="Privatveranstaltung">
         <description>Maskenball</description>
     </item>
-    <item type="Verein">
+    <item type="anderes">
         <description>Kommers</description>
     </item>
     <item type="Musik">
@@ -246,7 +246,7 @@
     <item type="Privatveranstaltung">
         <description>Souper</description>
     </item>
-    <item type="Verein">
+    <item type="anderes">
         <description>Kneipe</description>
     </item>
     <item type="Privatveranstaltung">
@@ -261,43 +261,43 @@
     <item type="Privatveranstaltung">
         <description>Gesellschaftsabend</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Narrenabend</description>
     </item>
-    <item type="Kränzchen">
+    <item type="anderes">
         <description>Tanzkränzchen</description>
     </item>
-    <item type="Kränzchen">
+    <item type="anderes">
         <description>Universitätskränzchen</description>
     </item>
-    <item type="Kulturveranstaltung">
+    <item type="anderes">
         <description>Billardvorstellung</description>
     </item>
-    <item type="Privatveranstltung">
+    <item type="Privatveranstaltung">
         <description>Soirée-dansante</description>
     </item>
-    <item type="Kränzchen">
+    <item type="anderes">
         <description>Technikerkränzchen</description>
     </item>
-    <item type="Kränzchen">
+    <item type="anderes">
         <description>Wärmestuben-Kränzchen</description>
     </item>
     <item type="Theater">
         <description>Studierendenaufführung</description>
     </item>
-    <item type="Kränzchen">
+    <item type="anderes">
         <description>Unitaskränzchen</description>
     </item>
-    <item type="Kränzchen">
+    <item type="anderes">
         <description>Medizinerkränzchen</description>
     </item>
     <item type="Theater">
         <description>Leseprobe</description>
     </item>
-    <item type="Lehrveranstaltung">
+    <item type="anderes">
         <description>Praktische Übung</description>
     </item>
-    <item type="Theater Privatveranstaltung">
+    <item type="Privatveranstaltung">
         <description>Privataufführung</description>
     </item>
     <item type="Film">
