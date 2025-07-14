@@ -79,7 +79,10 @@
         <description>Schiedsgericht</description>
     </item>
     <item type="Theater">
-        <description>Premiere</description>
+        <description>Theaterpremiere</description>
+    </item>
+    <item type="Musik">
+        <description>Musikpremiere</description>
     </item>
     <item type="Privatveranstaltung">
         <description>Privater Vortrag</description>
@@ -127,7 +130,10 @@
         <description>Violin-Klavier-Konzert</description>
     </item>
     <item type="Theater">
-        <description>Uraufführung</description>
+        <description>Theateruraufführung</description>
+    </item>
+    <item type="Musik">
+        <description>Musikuraufführung</description>
     </item>
     <item type="Lesung">
         <description>Lesung</description>

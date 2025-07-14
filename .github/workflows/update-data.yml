@@ -55,6 +55,9 @@ jobs:
 
       - name: Run mentions-in-listevent.py
         run: python ./python/mentions-in-listevent.py
+        
+      - name: Run add-eventypes-ana-to-listevent.py
+        run: python ./python/add-eventypes-ana-to-listevent.py
 
       - name: Run create-lists.py
         run: python ./python/create-lists.py
