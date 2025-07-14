@@ -58,6 +58,9 @@ jobs:
         
       - name: Run add-eventypes-ana-to-listevent.py
         run: python ./python/add-eventypes-ana-to-listevent.py
+        
+      - name: Run create-jsons-for-charts.py
+        run: python ./python/create-jsons-for-charts.py
 
       - name: Run create-lists.py
         run: python ./python/create-lists.py
