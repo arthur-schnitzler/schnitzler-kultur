@@ -11,12 +11,12 @@ const anaLabels = [
   "Theater",
   "Veranstaltung",
   "Ausstellung",
-  "Konzert",
   "Film",
   "Musik",
   "Lesung",
-  "anderes",
 "Privatveranstaltung",
+  "anderes",
+
 
 ];
 
@@ -25,10 +25,10 @@ const anaBaseColors = [
   "hsl(30, 70%, 50%)",   // Orange
   "hsl(60, 70%, 50%)",   // Gelb
   "hsl(120, 70%, 40%)",  // Grün
+  "hsl(300, 70%, 50%)",  // Magenta
   "hsl(180, 70%, 50%)",  // Türkis
   "hsl(210, 70%, 50%)",  // Blau
   "hsl(270, 70%, 50%)",  // Violett
-  "hsl(300, 70%, 50%)",  // Magenta
   "hsl(330, 70%, 50%)",  // Pink
   "hsl(45, 70%, 40%)"    // dunkles Orange/Braun
 ];
@@ -246,3 +246,9 @@ fetch('./js-data/charts_by_year.json')
     });
   })
   .catch(err => console.error("Fehler beim Laden der Chart-Daten:", err));
+
+  if (window.location.hash === "#") {
+  const url = new URL(window.location);
+  url.hash = ""; // entfernt das #
+  window.history.replaceState({}, "", url);
+}

@@ -15,28 +15,28 @@
     <item type="anderes">
         <description>Festbesuch</description>
     </item>
-    <item type="Ausstellung">
+    <item type="anderes">
         <description>Ausstellungsbesuch</description>
     </item>
     <item type="Theater">
         <description>Generalprobe</description>
     </item>
-    <item type="Privatveranstaltung">
+    <item type="Vortrag">
         <description>Private Lesung</description>
     </item>
-    <item type="Konzert">
+    <item type="Musik">
         <description>Quartett</description>
     </item>
     <item type="anderes">
         <description>Bankett</description>
     </item>
-    <item type="Konzert">
+    <item type="Musik">
         <description>Orchesterkonzert</description>
     </item>
     <item type="Privatveranstaltung">
         <description>Hochzeit</description>
     </item>
-    <item type="Konzert">
+    <item type="Musik">
         <description>Konzert</description>
     </item>
     <item type="Privatveranstaltung">
@@ -66,7 +66,7 @@
     <item type="Musik">
         <description>Kompositionskonzert</description>
     </item>
-    <item type="anderes">
+    <item type="Vortrag">
         <description>Vorlesung</description>
     </item>
     <item type="Musik">
@@ -135,10 +135,10 @@
     <item type="Musik">
         <description>Musikuraufführung</description>
     </item>
-    <item type="Lesung">
+    <item type="Vortrag">
         <description>Lesung</description>
     </item>
-    <item type="anderes">
+    <item type="Vortrag">
         <description>Vortrag</description>
     </item>
     <item type="Musik">
@@ -213,7 +213,7 @@
     <item type="Theater">
         <description>Matinée</description>
     </item>
-    <item type="Ausstellung">
+    <item type="anderes">
         <description>Ausstellung</description>
     </item>
     <item type="Privatveranstaltung">
