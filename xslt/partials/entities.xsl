@@ -2,8 +2,8 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:mam="whatever" version="2.0" exclude-result-prefixes="xsl tei xs">
-    <xsl:param name="current-edition" select="'schnitzler-tagebuch'"/>
-    <xsl:param name="current-colour" select="'#037A33'"/>
+    <xsl:param name="current-edition" select="'schnitzler-kultur'"/>
+    <xsl:param name="current-colour" select="'#AC7790'"/>
     <xsl:import href="./LOD-idnos.xsl"/>
     <xsl:param name="places" select="document('../../data/indices/listplace.xml')"/>
     <!-- nur fürs Schnitzler-Tagebuch die folgenden beiden Einbindungen -->
@@ -463,7 +463,7 @@
                 </xsl:if>
             </div>
             <xsl:choose>
-                <xsl:when test="$current-edition = 'schnitzler-kultur'">
+                <xsl:when test="$current-edition = 'schnitzler-kultur'">+
                     <xsl:variable name="notes" as="node()">
                         <xsl:call-template name="fill-event-variable">
                             <xsl:with-param name="xmlid" select="@xml:id"/>
