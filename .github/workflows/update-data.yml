@@ -81,5 +81,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add html/js-data/calendarData.js
-          git commit -m "Automatisch generierte calendarData.js aktualisiert" || echo "Keine Änderungen zu committen"
+          git add html/js-data/charts_by_year.json
+          git commit -m "Automatisch generierte Kalenderdaten und Chartdaten aktualisiert" || echo "Keine Änderungen zu committen"
           git push
