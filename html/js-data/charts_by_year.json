@@ -1,0 +1,7264 @@
+{
+  "1887": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Konzert",
+        "Theater",
+        "Musik",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1887",
+          "data": [
+            29,
+            4,
+            39,
+            19,
+            5
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Diner",
+          "Soirée",
+          "Hausball",
+          "Hochzeit",
+          "Ball",
+          "Kostümfest",
+          "Spielabend",
+          "Damenabend",
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1887",
+            "data": [
+              1,
+              7,
+              11,
+              1,
+              5,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1887",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1887",
+            "data": [
+              39
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Volksgesang",
+          "Klavierkonzert",
+          "Liederkonzert",
+          "Operettenaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1887",
+            "data": [
+              5,
+              7,
+              3,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vergnügungsabend",
+          "Kränzchen",
+          "Feier",
+          "Kneipe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1887",
+            "data": [
+              1,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1899": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Musik",
+        "Konzert",
+        "Privatveranstaltung",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1899",
+          "data": [
+            76,
+            14,
+            8,
+            14,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe",
+          "Generalprobe",
+          "Leseprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1899",
+            "data": [
+              61,
+              12,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Philharmonisches Konzert",
+          "Klavierkonzert",
+          "Orgelkonzert",
+          "Operettenaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1899",
+            "data": [
+              5,
+              5,
+              1,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1899",
+            "data": [
+              3,
+              5
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1899",
+            "data": [
+              14
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1899",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1921": {
+    "ana_chart": {
+      "labels": [
+        "anderes",
+        "Ausstellung",
+        "Theater",
+        "Privatveranstaltung",
+        "Film",
+        "Konzert",
+        "Musik"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1921",
+          "data": [
+            15,
+            3,
+            89,
+            4,
+            29,
+            7,
+            12
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "anderes": {
+        "labels": [
+          "Empfang",
+          "Vereinstreffen",
+          "Festbesuch",
+          "Bankett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1921",
+            "data": [
+              2,
+              11,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1921",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Theateraufführung",
+          "Probe",
+          "Kostümprobe",
+          "Arrangierprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1921",
+            "data": [
+              12,
+              46,
+              29,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Redoute"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1921",
+            "data": [
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1921",
+            "data": [
+              29
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1921",
+            "data": [
+              4,
+              3
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Klavierkonzert",
+          "Cellokonzert",
+          "Opernaufführung",
+          "Violinkonzert",
+          "Tanzaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1921",
+            "data": [
+              2,
+              1,
+              7,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1920": {
+    "ana_chart": {
+      "labels": [
+        "anderes",
+        "Konzert",
+        "Privatveranstaltung",
+        "Theater",
+        "Ausstellung",
+        "Musik",
+        "Film"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1920",
+          "data": [
+            12,
+            23,
+            2,
+            42,
+            4,
+            15,
+            22
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "anderes": {
+        "labels": [
+          "Vereinstreffen",
+          "Bankett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1920",
+            "data": [
+              11,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Orchesterkonzert",
+          "Konzert",
+          "Violin-Klavier-Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1920",
+            "data": [
+              6,
+              10,
+              6,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hochzeit"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1920",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Theateraufführung",
+          "Kostümprobe",
+          "Probe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1920",
+            "data": [
+              12,
+              14,
+              2,
+              14
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1920",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Operettenaufführung",
+          "Opernaufführung",
+          "Kammermusikkonzert",
+          "Klavierkonzert",
+          "Trio",
+          "Liederkonzert",
+          "Tanzaufführung",
+          "Kompositionskonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1920",
+            "data": [
+              1,
+              2,
+              1,
+              3,
+              1,
+              3,
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1920",
+            "data": [
+              22
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1922": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Privatveranstaltung",
+        "anderes",
+        "Ausstellung",
+        "Film",
+        "Musik",
+        "Lesung",
+        "Konzert"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1922",
+          "data": [
+            56,
+            5,
+            10,
+            4,
+            33,
+            6,
+            10,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Probe",
+          "Marionettentheater",
+          "Theateraufführung",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1922",
+            "data": [
+              4,
+              1,
+              41,
+              10
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Private Filmvorführung",
+          "Privater Vortrag"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1922",
+            "data": [
+              3,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vereinstreffen",
+          "Messebesuch",
+          "Bankett",
+          "Empfang",
+          "Feier",
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1922",
+            "data": [
+              3,
+              2,
+              2,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1922",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1922",
+            "data": [
+              33
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Philharmonisches Konzert",
+          "Sinfoniekonzert",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1922",
+            "data": [
+              3,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1922",
+            "data": [
+              10
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1922",
+            "data": [
+              3
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1919": {
+    "ana_chart": {
+      "labels": [
+        "anderes",
+        "Theater",
+        "Musik",
+        "Ausstellung",
+        "Konzert",
+        "Privatveranstaltung",
+        "Film"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1919",
+          "data": [
+            14,
+            40,
+            22,
+            3,
+            19,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "anderes": {
+        "labels": [
+          "Vereinstreffen",
+          "Vorlesung",
+          "Schiedsgericht"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1919",
+            "data": [
+              12,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1919",
+            "data": [
+              16,
+              4,
+              20
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Kompositionskonzert",
+          "Violinkonzert",
+          "Liederkonzert",
+          "Opernaufführung",
+          "Schulkonzert",
+          "Sinfoniekonzert",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1919",
+            "data": [
+              2,
+              1,
+              8,
+              3,
+              1,
+              4,
+              3
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1919",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Orchesterkonzert",
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1919",
+            "data": [
+              7,
+              11,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1919",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1919",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1883": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Konzert",
+        "Musik",
+        "anderes",
+        "Privatveranstaltung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1883",
+          "data": [
+            22,
+            3,
+            5,
+            7,
+            11
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1883",
+            "data": [
+              22
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1883",
+            "data": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1883",
+            "data": [
+              2,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vorlesung",
+          "Vergnügungsabend",
+          "Kränzchen",
+          "Universitätskränzchen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1883",
+            "data": [
+              1,
+              1,
+              4,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hausball",
+          "Ball",
+          "Maskenball"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1883",
+            "data": [
+              7,
+              3,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1923": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "anderes",
+        "Theater",
+        "Musik",
+        "Ausstellung",
+        "Film",
+        "Konzert",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1923",
+          "data": [
+            9,
+            10,
+            36,
+            6,
+            1,
+            43,
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Beerdigung",
+          "Private Filmvorführung",
+          "Privates Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1923",
+            "data": [
+              4,
+              1,
+              2,
+              2
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Empfang",
+          "Bankett",
+          "Vereinstreffen",
+          "Sitzung",
+          "Vergnügungsabend",
+          "Ballettsoirée"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1923",
+            "data": [
+              2,
+              2,
+              3,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1923",
+            "data": [
+              26,
+              10
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Ballett",
+          "Tanzaufführung",
+          "Opernaufführung",
+          "Chorgesang"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1923",
+            "data": [
+              2,
+              1,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1923",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung",
+          "Filmpremiere"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1923",
+            "data": [
+              42,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1923",
+            "data": [
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1923",
+            "data": [
+              3
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1924": {
+    "ana_chart": {
+      "labels": [
+        "anderes",
+        "Privatveranstaltung",
+        "Musik",
+        "Theater",
+        "Konzert",
+        "Ausstellung",
+        "Film",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1924",
+          "data": [
+            8,
+            14,
+            15,
+            64,
+            7,
+            7,
+            81,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "anderes": {
+        "labels": [
+          "Vereinstreffen",
+          "Sitzung",
+          "Empfang",
+          "Vortrag",
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1924",
+            "data": [
+              1,
+              1,
+              4,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1924",
+            "data": [
+              14
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Ballett",
+          "Liederkonzert",
+          "Operettenaufführung",
+          "Cellokonzert",
+          "Revue",
+          "Klavierkonzert",
+          "Chorgesang",
+          "Opernaufführung",
+          "Tanzaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1924",
+            "data": [
+              1,
+              3,
+              1,
+              3,
+              1,
+              2,
+              1,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe",
+          "Kostümprobe",
+          "Generalprobe",
+          "Puppenspiel"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1924",
+            "data": [
+              33,
+              19,
+              1,
+              10,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Orchesterkonzert",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1924",
+            "data": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1924",
+            "data": [
+              7
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1924",
+            "data": [
+              81
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1924",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1918": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "anderes",
+        "Privatveranstaltung",
+        "Ausstellung",
+        "Konzert",
+        "Musik",
+        "Film"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1918",
+          "data": [
+            48,
+            3,
+            5,
+            1,
+            10,
+            24,
+            2
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Probe",
+          "Kostümprobe",
+          "Theateraufführung",
+          "Schulaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1918",
+            "data": [
+              12,
+              16,
+              2,
+              17,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Bankett",
+          "Heilige Messe",
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1918",
+            "data": [
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hochzeit",
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1918",
+            "data": [
+              1,
+              4
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1918",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Orchesterkonzert",
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1918",
+            "data": [
+              4,
+              3,
+              3
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Liederkonzert",
+          "Tanz",
+          "Tanzaufführung",
+          "Trio",
+          "Sinfoniekonzert",
+          "Klavierkonzert",
+          "Wohltätigkeitskonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1918",
+            "data": [
+              5,
+              10,
+              1,
+              1,
+              2,
+              3,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1918",
+            "data": [
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1917": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Theater",
+        "Privatveranstaltung",
+        "Film",
+        "Konzert",
+        "anderes",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1917",
+          "data": [
+            31,
+            34,
+            9,
+            2,
+            18,
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Trio",
+          "Klavierkonzert",
+          "Tanzaufführung",
+          "Liederkonzert",
+          "Sinfoniekonzert",
+          "Violinkonzert",
+          "Ballett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1917",
+            "data": [
+              1,
+              4,
+              4,
+              11,
+              2,
+              5,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1917",
+            "data": [
+              16,
+              11,
+              7
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1917",
+            "data": [
+              9
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1917",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1917",
+            "data": [
+              5,
+              7,
+              6
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Feier",
+          "Vorlesung",
+          "Bankett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1917",
+            "data": [
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1917",
+            "data": [
+              3
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1916": {
+    "ana_chart": {
+      "labels": [
+        "Konzert",
+        "Ausstellung",
+        "Theater",
+        "Musik",
+        "Privatveranstaltung",
+        "anderes",
+        "Film"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1916",
+          "data": [
+            25,
+            4,
+            19,
+            27,
+            4,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1916",
+            "data": [
+              12,
+              7,
+              6
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1916",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Theateraufführung",
+          "Probe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1916",
+            "data": [
+              7,
+              11,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Wohltätigkeitskonzert",
+          "Klavierkonzert",
+          "Gesellschaftskonzert",
+          "Liederkonzert",
+          "Violinkonzert",
+          "Opernaufführung",
+          "Orgelkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1916",
+            "data": [
+              2,
+              6,
+              1,
+              10,
+              1,
+              6,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1916",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Veranstaltung",
+          "Wohltätigkeitsveranstaltung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1916",
+            "data": [
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1916",
+            "data": [
+              3
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1915": {
+    "ana_chart": {
+      "labels": [
+        "Ausstellung",
+        "Konzert",
+        "Theater",
+        "Lesung",
+        "Musik",
+        "anderes",
+        "Film",
+        "Privatveranstaltung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1915",
+          "data": [
+            2,
+            23,
+            38,
+            5,
+            27,
+            1,
+            17,
+            4
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1915",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Violin-Klavier-Konzert",
+          "Konzert",
+          "Quartett",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1915",
+            "data": [
+              1,
+              16,
+              4,
+              2
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Probe",
+          "Theateraufführung",
+          "Kostümprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1915",
+            "data": [
+              7,
+              14,
+              15,
+              2
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1915",
+            "data": [
+              5
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Liederkonzert",
+          "Wohltätigkeitskonzert",
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Klavierkonzert",
+          "Trio"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1915",
+            "data": [
+              12,
+              4,
+              1,
+              7,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vortrag"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1915",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1915",
+            "data": [
+              17
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1915",
+            "data": [
+              4
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1914": {
+    "ana_chart": {
+      "labels": [
+        "Konzert",
+        "Privatveranstaltung",
+        "Theater",
+        "Musik",
+        "Ausstellung",
+        "Film",
+        "anderes",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1914",
+          "data": [
+            8,
+            8,
+            33,
+            17,
+            2,
+            8,
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Konzert": {
+        "labels": [
+          "Orchesterkonzert",
+          "Konzert",
+          "Violin-Klavier-Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1914",
+            "data": [
+              5,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Ball",
+          "Fest"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1914",
+            "data": [
+              6,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe",
+          "Generalprobe",
+          "Schulaufführung",
+          "Marionettentheater",
+          "Kostümprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1914",
+            "data": [
+              15,
+              10,
+              4,
+              1,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Chorgesang",
+          "Liederkonzert",
+          "Wohltätigkeitskonzert",
+          "Klavierkonzert",
+          "Kammermusikkonzert",
+          "Sinfoniekonzert",
+          "Varieté"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1914",
+            "data": [
+              5,
+              1,
+              6,
+              1,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1914",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1914",
+            "data": [
+              8
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vortrag"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1914",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1914",
+            "data": [
+              3
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1913": {
+    "ana_chart": {
+      "labels": [
+        "Ausstellung",
+        "Theater",
+        "Musik",
+        "Konzert",
+        "Privatveranstaltung",
+        "Film",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1913",
+          "data": [
+            4,
+            38,
+            19,
+            16,
+            3,
+            18,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1913",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Probe",
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1913",
+            "data": [
+              11,
+              9,
+              18
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Sinfoniekonzert",
+          "Opernaufführung",
+          "Liederkonzert",
+          "Schulkonzert",
+          "Varieté"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1913",
+            "data": [
+              1,
+              7,
+              9,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1913",
+            "data": [
+              14,
+              2
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1913",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1913",
+            "data": [
+              18
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1913",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1925": {
+    "ana_chart": {
+      "labels": [
+        "Konzert",
+        "Privatveranstaltung",
+        "anderes",
+        "Musik",
+        "Ausstellung",
+        "Theater",
+        "Film",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1925",
+          "data": [
+            6,
+            13,
+            2,
+            11,
+            3,
+            30,
+            65,
+            7
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Konzert": {
+        "labels": [
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1925",
+            "data": [
+              6
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Privates Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1925",
+            "data": [
+              12,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vortrag"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1925",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Ballett",
+          "Philharmonisches Konzert",
+          "Gesellschaftskonzert",
+          "Klavierkonzert",
+          "Revue",
+          "Opernaufführung",
+          "Liederkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1925",
+            "data": [
+              1,
+              1,
+              1,
+              1,
+              2,
+              4,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1925",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Kostümprobe",
+          "Probe",
+          "Theateraufführung",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1925",
+            "data": [
+              1,
+              2,
+              20,
+              7
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1925",
+            "data": [
+              65
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1925",
+            "data": [
+              7
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1912": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Ausstellung",
+        "Theater",
+        "anderes",
+        "Film",
+        "Konzert",
+        "Musik"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1912",
+          "data": [
+            11,
+            3,
+            41,
+            2,
+            4,
+            7,
+            15
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Beerdigung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1912",
+            "data": [
+              10,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1912",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Probe",
+          "Generalprobe",
+          "Arrangierprobe",
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1912",
+            "data": [
+              16,
+              11,
+              2,
+              12
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vortrag",
+          "Bankett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1912",
+            "data": [
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1912",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1912",
+            "data": [
+              4,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Liederkonzert",
+          "Ballett",
+          "Operettenaufführung",
+          "Varieté",
+          "Trio",
+          "Tanzaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1912",
+            "data": [
+              6,
+              4,
+              1,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1911": {
+    "ana_chart": {
+      "labels": [
+        "Ausstellung",
+        "Theater",
+        "anderes",
+        "Privatveranstaltung",
+        "Film",
+        "Musik",
+        "Konzert",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1911",
+          "data": [
+            2,
+            46,
+            1,
+            3,
+            1,
+            15,
+            7,
+            4
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1911",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Theateraufführung",
+          "Probe",
+          "Kostümprobe",
+          "Marionettentheater"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1911",
+            "data": [
+              10,
+              23,
+              10,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Zaubervorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1911",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1911",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1911",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Cellokonzert",
+          "Opernaufführung",
+          "Ballett",
+          "Liederkonzert",
+          "Wohltätigkeitskonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1911",
+            "data": [
+              1,
+              3,
+              1,
+              9,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1911",
+            "data": [
+              5,
+              2
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1911",
+            "data": [
+              4
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1926": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Theater",
+        "Musik",
+        "anderes",
+        "Ausstellung",
+        "Konzert",
+        "Film",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1926",
+          "data": [
+            12,
+            29,
+            8,
+            8,
+            4,
+            7,
+            76,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Hochzeit"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1926",
+            "data": [
+              11,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe",
+          "Marionettentheater",
+          "Probe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1926",
+            "data": [
+              23,
+              4,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Revue",
+          "Varieté",
+          "Liederkonzert",
+          "Opernaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1926",
+            "data": [
+              3,
+              1,
+              1,
+              3
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Empfang",
+          "Kongress",
+          "Bankett",
+          "Feier"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1926",
+            "data": [
+              5,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1926",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1926",
+            "data": [
+              6,
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1926",
+            "data": [
+              76
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1926",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1910": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Theater",
+        "Musik",
+        "Ausstellung",
+        "Konzert",
+        "Film",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1910",
+          "data": [
+            4,
+            55,
+            8,
+            8,
+            2,
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Redoute"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1910",
+            "data": [
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe",
+          "Kostümprobe",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1910",
+            "data": [
+              10,
+              32,
+              2,
+              11
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Klavierkonzert",
+          "Opernaufführung",
+          "Kammermusikkonzert",
+          "Liederkonzert",
+          "Operettenaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1910",
+            "data": [
+              2,
+              3,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1910",
+            "data": [
+              8
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1910",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1910",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1910",
+            "data": [
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1909": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Ausstellung",
+        "Privatveranstaltung",
+        "Konzert",
+        "Film",
+        "Musik",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1909",
+          "data": [
+            50,
+            5,
+            6,
+            14,
+            1,
+            7,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Probe",
+          "Theateraufführung",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1909",
+            "data": [
+              12,
+              26,
+              12
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1909",
+            "data": [
+              5
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1909",
+            "data": [
+              6
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Orchesterkonzert",
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1909",
+            "data": [
+              4,
+              7,
+              3
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1909",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Klavierkonzert",
+          "Opernaufführung",
+          "Sinfoniekonzert",
+          "Liederkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1909",
+            "data": [
+              2,
+              2,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vereinstreffen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1909",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1928": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Ausstellung",
+        "Konzert",
+        "Theater",
+        "Musik",
+        "Film"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1928",
+          "data": [
+            6,
+            3,
+            3,
+            30,
+            9,
+            89
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Beerdigung",
+          "Privates Konzert",
+          "Private Lesung",
+          "Hochzeit"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1928",
+            "data": [
+              1,
+              1,
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1928",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1928",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Theateraufführung",
+          "Probe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1928",
+            "data": [
+              2,
+              27,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Klavierkonzert",
+          "Operettenaufführung",
+          "Opernaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1928",
+            "data": [
+              1,
+              1,
+              7
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1928",
+            "data": [
+              89
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1927": {
+    "ana_chart": {
+      "labels": [
+        "Ausstellung",
+        "Privatveranstaltung",
+        "Musik",
+        "Theater",
+        "Film"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1927",
+          "data": [
+            7,
+            21,
+            13,
+            33,
+            79
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1927",
+            "data": [
+              7
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Hochzeit",
+          "Privates Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1927",
+            "data": [
+              18,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Revue",
+          "Varieté",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1927",
+            "data": [
+              7,
+              4,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Theateraufführung",
+          "Marionettentheater",
+          "Probe",
+          "Schulaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1927",
+            "data": [
+              9,
+              21,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung",
+          "Varieté und Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1927",
+            "data": [
+              78,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1908": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "anderes",
+        "Ausstellung",
+        "Konzert",
+        "Privatveranstaltung",
+        "Film",
+        "Musik",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1908",
+          "data": [
+            33,
+            12,
+            3,
+            8,
+            3,
+            4,
+            13,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Probe",
+          "Arrangierprobe",
+          "Marionettentheater",
+          "Theateraufführung",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1908",
+            "data": [
+              3,
+              1,
+              5,
+              17,
+              7
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vereinstreffen",
+          "Zirkusvorstellung",
+          "Umzug",
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1908",
+            "data": [
+              8,
+              1,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1908",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1908",
+            "data": [
+              3,
+              3,
+              2
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1908",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1908",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Klavierkonzert",
+          "Liederkonzert",
+          "Sinfoniekonzert",
+          "Varieté",
+          "Opernaufführung",
+          "Orgelkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1908",
+            "data": [
+              3,
+              1,
+              2,
+              2,
+              4,
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1908",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1907": {
+    "ana_chart": {
+      "labels": [
+        "Konzert",
+        "Privatveranstaltung",
+        "Theater",
+        "anderes",
+        "Ausstellung",
+        "Lesung",
+        "Musik"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1907",
+          "data": [
+            4,
+            17,
+            27,
+            10,
+            4,
+            2,
+            16
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Orchesterkonzert",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1907",
+            "data": [
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1907",
+            "data": [
+              17
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe",
+          "Probe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1907",
+            "data": [
+              16,
+              4,
+              7
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vereinstreffen",
+          "Zaubervorstellung",
+          "Zirkusvorstellung",
+          "Vorlesung",
+          "Vortrag"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1907",
+            "data": [
+              5,
+              1,
+              1,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1907",
+            "data": [
+              4
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1907",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Sinfoniekonzert",
+          "Klavierkonzert",
+          "Kammermusikkonzert",
+          "Liederkonzert",
+          "Varieté"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1907",
+            "data": [
+              8,
+              4,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1931": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Privatveranstaltung",
+        "Musik",
+        "Ausstellung",
+        "anderes",
+        "Konzert",
+        "Film"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1931",
+          "data": [
+            39,
+            16,
+            14,
+            1,
+            1,
+            1,
+            69
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe",
+          "Generalprobe",
+          "Kostümprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1931",
+            "data": [
+              21,
+              14,
+              2,
+              2
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Privates Konzert",
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1931",
+            "data": [
+              4,
+              12
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Operettenaufführung",
+          "Ballett",
+          "Varieté",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1931",
+            "data": [
+              5,
+              5,
+              1,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1931",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1931",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1931",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1931",
+            "data": [
+              69
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1930": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Theater",
+        "Musik",
+        "Film",
+        "Ausstellung",
+        "Konzert"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1930",
+          "data": [
+            23,
+            39,
+            8,
+            84,
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Privates Konzert",
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1930",
+            "data": [
+              3,
+              20
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Puppenspiel",
+          "Probe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1930",
+            "data": [
+              36,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Varieté",
+          "Revue",
+          "Violinkonzert",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1930",
+            "data": [
+              4,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1930",
+            "data": [
+              84
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1930",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1930",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1906": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Theater",
+        "Konzert",
+        "Privatveranstaltung",
+        "Film",
+        "anderes",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1906",
+          "data": [
+            29,
+            46,
+            5,
+            2,
+            1,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Gesellschaftskonzert",
+          "Opernaufführung",
+          "Sinfoniekonzert",
+          "Violinkonzert",
+          "Klavierkonzert",
+          "Varieté",
+          "Liederkonzert",
+          "Kammermusikkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1906",
+            "data": [
+              2,
+              10,
+              6,
+              1,
+              4,
+              3,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe",
+          "Probe",
+          "Arrangierprobe",
+          "Puppenspiel",
+          "Schulaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1906",
+            "data": [
+              31,
+              6,
+              5,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1906",
+            "data": [
+              3,
+              2
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1906",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1906",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1906",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1906",
+            "data": [
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1929": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Privatveranstaltung",
+        "Ausstellung",
+        "Konzert",
+        "Musik",
+        "Film"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1929",
+          "data": [
+            51,
+            9,
+            6,
+            3,
+            1,
+            81
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Probe",
+          "Theateraufführung",
+          "Puppenspiel"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1929",
+            "data": [
+              6,
+              18,
+              26,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hochzeit",
+          "Privates Konzert",
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1929",
+            "data": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1929",
+            "data": [
+              6
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1929",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1929",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1929",
+            "data": [
+              81
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1905": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Theater",
+        "Musik",
+        "Konzert",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1905",
+          "data": [
+            15,
+            43,
+            23,
+            11,
+            2
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Beerdigung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1905",
+            "data": [
+              14,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Probe",
+          "Theateraufführung",
+          "Kostümprobe",
+          "Arrangierprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1905",
+            "data": [
+              4,
+              11,
+              26,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Varieté",
+          "Sinfoniekonzert",
+          "Schulkonzert",
+          "Klavierkonzert",
+          "Opernaufführung",
+          "Liederkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1905",
+            "data": [
+              4,
+              5,
+              1,
+              4,
+              6,
+              3
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Orchesterkonzert",
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1905",
+            "data": [
+              2,
+              3,
+              6
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1905",
+            "data": [
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1904": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Privatveranstaltung",
+        "anderes",
+        "Musik",
+        "Film",
+        "Konzert",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1904",
+          "data": [
+            40,
+            5,
+            3,
+            20,
+            1,
+            7,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Probe",
+          "Generalprobe",
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1904",
+            "data": [
+              13,
+              3,
+              24
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1904",
+            "data": [
+              5
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Zirkusvorstellung",
+          "Vortrag",
+          "Vergnügungsabend"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1904",
+            "data": [
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Sinfoniekonzert",
+          "Kammermusikkonzert",
+          "Gesellschaftskonzert",
+          "Klavierkonzert",
+          "Varieté",
+          "Opernaufführung",
+          "Liederkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1904",
+            "data": [
+              5,
+              1,
+              1,
+              1,
+              1,
+              8,
+              3
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1904",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1904",
+            "data": [
+              5,
+              2
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1904",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1903": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Musik",
+        "Ausstellung",
+        "Theater",
+        "Konzert",
+        "Film",
+        "anderes",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1903",
+          "data": [
+            14,
+            18,
+            1,
+            37,
+            7,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Hochzeit"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1903",
+            "data": [
+              13,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Sinfoniekonzert",
+          "Operettenaufführung",
+          "Opernaufführung",
+          "Liederkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1903",
+            "data": [
+              11,
+              1,
+              5,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1903",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Schulaufführung",
+          "Probe",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1903",
+            "data": [
+              21,
+              1,
+              12,
+              3
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1903",
+            "data": [
+              5,
+              2
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1903",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1903",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1903",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1902": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Musik",
+        "Privatveranstaltung",
+        "Konzert",
+        "anderes",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1902",
+          "data": [
+            38,
+            18,
+            2,
+            7,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Schulaufführung",
+          "Probe",
+          "Generalprobe",
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1902",
+            "data": [
+              7,
+              5,
+              2,
+              24
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Violinkonzert",
+          "Sinfoniekonzert",
+          "Opernaufführung",
+          "Liederkonzert",
+          "Philharmonisches Konzert",
+          "Tanzaufführung",
+          "Klavierkonzert",
+          "Gesellschaftskonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1902",
+            "data": [
+              1,
+              6,
+              3,
+              2,
+              3,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Hochzeit"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1902",
+            "data": [
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1902",
+            "data": [
+              5,
+              2
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1902",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1902",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1901": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Film",
+        "Privatveranstaltung",
+        "Musik",
+        "Konzert",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1901",
+          "data": [
+            42,
+            2,
+            10,
+            21,
+            5,
+            2
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Probe",
+          "Schulaufführung",
+          "Theateraufführung",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1901",
+            "data": [
+              7,
+              3,
+              27,
+              5
+            ]
+          }
+        ]
+      },
+      "Film": {
+        "labels": [
+          "Filmvorführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Film' im Jahr 1901",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1901",
+            "data": [
+              10
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Sinfoniekonzert",
+          "Opernaufführung",
+          "Violinkonzert",
+          "Klavierkonzert",
+          "Revue"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1901",
+            "data": [
+              7,
+              4,
+              6,
+              1,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1901",
+            "data": [
+              3,
+              2
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Zaubervorstellung",
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1901",
+            "data": [
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1900": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Privatveranstaltung",
+        "anderes",
+        "Musik",
+        "Konzert",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1900",
+          "data": [
+            36,
+            7,
+            5,
+            15,
+            5,
+            2
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Marionettentheater",
+          "Probe",
+          "Generalprobe",
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1900",
+            "data": [
+              1,
+              4,
+              2,
+              29
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1900",
+            "data": [
+              7
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vorlesung",
+          "Zirkusvorstellung",
+          "Vortrag",
+          "Bankett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1900",
+            "data": [
+              2,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Sinfoniekonzert",
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Chorgesang",
+          "Gesellschaftskonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1900",
+            "data": [
+              7,
+              1,
+              5,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1900",
+            "data": [
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1900",
+            "data": [
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1889": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Privatveranstaltung",
+        "Musik",
+        "anderes",
+        "Konzert"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1889",
+          "data": [
+            14,
+            17,
+            26,
+            14,
+            5
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1889",
+            "data": [
+              13,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Silberne Hochzeit",
+          "Soirée",
+          "Hausball",
+          "Maskenball",
+          "Polterabend",
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1889",
+            "data": [
+              1,
+              2,
+              7,
+              3,
+              1,
+              3
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Liederkonzert",
+          "Varieté",
+          "Opernaufführung",
+          "Operettenaufführung",
+          "Gesellschaftskonzert",
+          "Tanz"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1889",
+            "data": [
+              6,
+              2,
+              4,
+              11,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Schulvortragsabend",
+          "Vergnügungsabend",
+          "Vereinstreffen",
+          "Kränzchen",
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1889",
+            "data": [
+              6,
+              1,
+              4,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1889",
+            "data": [
+              3,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1898": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Musik",
+        "Konzert",
+        "Privatveranstaltung",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1898",
+          "data": [
+            79,
+            10,
+            7,
+            12,
+            2
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe",
+          "Probe",
+          "Arrangierprobe",
+          "Leseprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1898",
+            "data": [
+              48,
+              4,
+              25,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1898",
+            "data": [
+              6,
+              4
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1898",
+            "data": [
+              6,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Hochzeit",
+          "Ball"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1898",
+            "data": [
+              10,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vortrag",
+          "Bankett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1898",
+            "data": [
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1897": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Konzert",
+        "Theater",
+        "anderes",
+        "Privatveranstaltung",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1897",
+          "data": [
+            12,
+            14,
+            63,
+            8,
+            12,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Ballett",
+          "Gesellschaftskonzert",
+          "Sinfoniekonzert",
+          "Varieté",
+          "Philharmonisches Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1897",
+            "data": [
+              5,
+              1,
+              1,
+              1,
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1897",
+            "data": [
+              4,
+              10
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Puppenspiel",
+          "Probe",
+          "Generalprobe",
+          "Schulaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1897",
+            "data": [
+              56,
+              1,
+              4,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vergnügungsabend",
+          "Zirkusvorstellung",
+          "Vereinstreffen",
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1897",
+            "data": [
+              4,
+              1,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Privataufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1897",
+            "data": [
+              11,
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1897",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1896": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Konzert",
+        "Musik",
+        "Privatveranstaltung",
+        "anderes",
+        "Ausstellung",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1896",
+          "data": [
+            68,
+            12,
+            5,
+            8,
+            2,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe",
+          "Generalprobe",
+          "Puppenspiel",
+          "Schulaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1896",
+            "data": [
+              57,
+              5,
+              4,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1896",
+            "data": [
+              10,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Liederkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1896",
+            "data": [
+              1,
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Redoute"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1896",
+            "data": [
+              7,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Schulvortragsabend",
+          "Veranstaltung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1896",
+            "data": [
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellungsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1896",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1896",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1895": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Musik",
+        "Konzert",
+        "anderes",
+        "Privatveranstaltung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1895",
+          "data": [
+            77,
+            15,
+            13,
+            4,
+            8
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Matinée",
+          "Probe",
+          "Generalprobe",
+          "Leseprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1895",
+            "data": [
+              69,
+              1,
+              5,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Philharmonisches Konzert",
+          "Gesellschaftskonzert",
+          "Klavierkonzert",
+          "Ballett",
+          "Liederkonzert",
+          "Varieté"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1895",
+            "data": [
+              7,
+              1,
+              1,
+              2,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1895",
+            "data": [
+              7,
+              6
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vortrag",
+          "Vereinstreffen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1895",
+            "data": [
+              2,
+              2
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung",
+          "Soirée",
+          "Ball",
+          "Redoute"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1895",
+            "data": [
+              4,
+              1,
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1894": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Konzert",
+        "Musik",
+        "anderes",
+        "Privatveranstaltung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1894",
+          "data": [
+            44,
+            3,
+            15,
+            18,
+            13
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1894",
+            "data": [
+              44
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1894",
+            "data": [
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Gesellschaftskonzert",
+          "Opernaufführung",
+          "Operettenaufführung",
+          "Trio"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1894",
+            "data": [
+              3,
+              2,
+              6,
+              1,
+              3
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vortrag",
+          "Vereinstreffen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1894",
+            "data": [
+              1,
+              17
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1894",
+            "data": [
+              13
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1893": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Theater",
+        "Konzert",
+        "anderes",
+        "Privatveranstaltung",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1893",
+          "data": [
+            8,
+            32,
+            9,
+            18,
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Varieté",
+          "Gesellschaftskonzert",
+          "Philharmonisches Konzert",
+          "Schulkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1893",
+            "data": [
+              1,
+              1,
+              1,
+              4,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1893",
+            "data": [
+              22,
+              9,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1893",
+            "data": [
+              5,
+              4
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vergnügungsabend",
+          "Vereinstreffen",
+          "Feier",
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1893",
+            "data": [
+              1,
+              15,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1893",
+            "data": [
+              8
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1893",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1892": {
+    "ana_chart": {
+      "labels": [
+        "anderes",
+        "Musik",
+        "Theater",
+        "Konzert",
+        "Ausstellung",
+        "Privatveranstaltung",
+        "Lesung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1892",
+          "data": [
+            8,
+            12,
+            45,
+            7,
+            1,
+            12,
+            1
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "anderes": {
+        "labels": [
+          "Vergnügungsabend",
+          "Vortrag",
+          "Vereinstreffen",
+          "Vorlesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1892",
+            "data": [
+              2,
+              2,
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Liederkonzert",
+          "Sinfoniekonzert",
+          "Philharmonisches Konzert",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1892",
+            "data": [
+              6,
+              2,
+              1,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe",
+          "Probe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1892",
+            "data": [
+              40,
+              3,
+              2
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1892",
+            "data": [
+              5,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Ausstellung": {
+        "labels": [
+          "Ausstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Ausstellung' im Jahr 1892",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1892",
+            "data": [
+              12
+            ]
+          }
+        ]
+      },
+      "Lesung": {
+        "labels": [
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Lesung' im Jahr 1892",
+            "data": [
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1891": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Musik",
+        "Konzert",
+        "Privatveranstaltung",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1891",
+          "data": [
+            45,
+            19,
+            5,
+            20,
+            18
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Generalprobe",
+          "Theateraufführung",
+          "Schulaufführung",
+          "Probe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1891",
+            "data": [
+              2,
+              40,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Gesellschaftskonzert",
+          "Klavierkonzert",
+          "Opernaufführung",
+          "Liederkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1891",
+            "data": [
+              8,
+              1,
+              4,
+              5,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Orchesterkonzert",
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1891",
+            "data": [
+              2,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hausball",
+          "Soirée",
+          "Private Lesung",
+          "Privataufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1891",
+            "data": [
+              5,
+              2,
+              12,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Kränzchen",
+          "Feier",
+          "Vereinstreffen",
+          "Praktische Übung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1891",
+            "data": [
+              1,
+              1,
+              15,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1890": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Privatveranstaltung",
+        "Musik",
+        "Konzert",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1890",
+          "data": [
+            31,
+            15,
+            19,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe",
+          "Schulaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1890",
+            "data": [
+              23,
+              2,
+              6
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hausball",
+          "Soirée",
+          "Polterabend",
+          "Ball",
+          "Redoute",
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1890",
+            "data": [
+              7,
+              2,
+              1,
+              2,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Liederkonzert",
+          "Varieté",
+          "Klavierkonzert",
+          "Schulkonzert",
+          "Gesellschaftskonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1890",
+            "data": [
+              5,
+              7,
+              2,
+              1,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1890",
+            "data": [
+              3,
+              3
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vergnügungsabend",
+          "Kränzchen",
+          "Vereinstreffen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1890",
+            "data": [
+              3,
+              1,
+              3
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1888": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Privatveranstaltung",
+        "anderes",
+        "Theater",
+        "Konzert"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1888",
+          "data": [
+            19,
+            20,
+            18,
+            41,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Philharmonisches Konzert",
+          "Ballett",
+          "Volksgesang",
+          "Varieté",
+          "Klavierkonzert",
+          "Gesellschaftskonzert",
+          "Kompositionskonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1888",
+            "data": [
+              6,
+              5,
+              1,
+              1,
+              1,
+              3,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Soirée",
+          "Polterabend",
+          "Souper",
+          "Hausball",
+          "Ball"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1888",
+            "data": [
+              11,
+              1,
+              1,
+              6,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Kommers",
+          "Vergnügungsabend",
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1888",
+            "data": [
+              1,
+              16,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1888",
+            "data": [
+              40,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1888",
+            "data": [
+              2,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1886": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Theater",
+        "Privatveranstaltung",
+        "anderes",
+        "Konzert"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1886",
+          "data": [
+            20,
+            31,
+            24,
+            5,
+            9
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Operettenaufführung",
+          "Klavierkonzert",
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Volksgesang",
+          "Liederkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1886",
+            "data": [
+              3,
+              2,
+              3,
+              7,
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Probe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1886",
+            "data": [
+              30,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hochzeit",
+          "Polterabend",
+          "Soirée",
+          "Hausball",
+          "Maskenball",
+          "Redoute",
+          "Ball",
+          "Kostümfest",
+          "Gesellschaftsabend"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1886",
+            "data": [
+              3,
+              1,
+              3,
+              9,
+              3,
+              1,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vergnügungsabend",
+          "Vorlesung",
+          "Kränzchen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1886",
+            "data": [
+              1,
+              2,
+              2
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1886",
+            "data": [
+              7,
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1885": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Musik",
+        "Theater",
+        "Konzert",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1885",
+          "data": [
+            13,
+            37,
+            29,
+            6,
+            15
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Soirée",
+          "Hausball",
+          "Ball"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1885",
+            "data": [
+              3,
+              8,
+              2
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Liederkonzert",
+          "Klavierkonzert",
+          "Philharmonisches Konzert",
+          "Schulkonzert",
+          "Volksgesang",
+          "Ballett",
+          "Operettenaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1885",
+            "data": [
+              11,
+              4,
+              8,
+              4,
+              1,
+              7,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1885",
+            "data": [
+              29
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1885",
+            "data": [
+              3,
+              3
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vereinstreffen",
+          "Vergnügungsabend",
+          "Zirkusvorstellung",
+          "Vorlesung",
+          "Kränzchen",
+          "Narrenabend"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1885",
+            "data": [
+              1,
+              5,
+              5,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1884": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Musik",
+        "Privatveranstaltung",
+        "anderes",
+        "Konzert"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1884",
+          "data": [
+            13,
+            12,
+            17,
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1884",
+            "data": [
+              13
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Philharmonisches Konzert",
+          "Klavierkonzert",
+          "Tanz",
+          "Liederkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1884",
+            "data": [
+              4,
+              2,
+              4,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hausball",
+          "Hochzeit",
+          "Ball",
+          "Soirée",
+          "Privataufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1884",
+            "data": [
+              11,
+              1,
+              3,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Kränzchen",
+          "Tanzkränzchen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1884",
+            "data": [
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1884",
+            "data": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1882": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Theater",
+        "Konzert",
+        "anderes",
+        "Privatveranstaltung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1882",
+          "data": [
+            17,
+            20,
+            3,
+            3,
+            7
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Klavierkonzert",
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Liederkonzert",
+          "Gesellschaftskonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1882",
+            "data": [
+              1,
+              6,
+              5,
+              3,
+              2
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Schulaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1882",
+            "data": [
+              19,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1882",
+            "data": [
+              3
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Billardvorstellung",
+          "Kommers",
+          "Kränzchen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1882",
+            "data": [
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hausball",
+          "Soirée",
+          "Privataufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1882",
+            "data": [
+              5,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1881": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Musik",
+        "Privatveranstaltung",
+        "Konzert",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1881",
+          "data": [
+            30,
+            15,
+            13,
+            7,
+            9
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1881",
+            "data": [
+              30
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Gesellschaftskonzert",
+          "Liederkonzert",
+          "Opernaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1881",
+            "data": [
+              4,
+              2,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Soirée",
+          "Hochzeit",
+          "Soirée-dansante",
+          "Hausball",
+          "Ball",
+          "Kostümfest",
+          "Maskenball"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1881",
+            "data": [
+              2,
+              1,
+              3,
+              2,
+              3,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert",
+          "Quartett",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1881",
+            "data": [
+              4,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Universitätskränzchen",
+          "Zirkusvorstellung",
+          "Vergnügungsabend",
+          "Kränzchen",
+          "Technikerkränzchen",
+          "Kommers",
+          "Wärmestuben-Kränzchen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1881",
+            "data": [
+              1,
+              1,
+              1,
+              3,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1880": {
+    "ana_chart": {
+      "labels": [
+        "anderes",
+        "Musik",
+        "Konzert",
+        "Theater",
+        "Privatveranstaltung"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1880",
+          "data": [
+            14,
+            18,
+            7,
+            54,
+            5
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "anderes": {
+        "labels": [
+          "Tanzkränzchen",
+          "Kommers",
+          "Kneipe",
+          "Kränzchen",
+          "Vortrag",
+          "Technikerkränzchen",
+          "Vergnügungsabend",
+          "Unitaskränzchen",
+          "Medizinerkränzchen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1880",
+            "data": [
+              1,
+              3,
+              1,
+              3,
+              2,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Klavierkonzert",
+          "Liederkonzert",
+          "Schulkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1880",
+            "data": [
+              5,
+              7,
+              1,
+              4,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1880",
+            "data": [
+              4,
+              3
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Studierendenaufführung",
+          "Generalprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1880",
+            "data": [
+              50,
+              1,
+              3
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hausball"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1880",
+            "data": [
+              5
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1879": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Musik",
+        "Konzert",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1879",
+          "data": [
+            44,
+            18,
+            8,
+            2
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Schulaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1879",
+            "data": [
+              43,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Cellokonzert",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1879",
+            "data": [
+              6,
+              10,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1879",
+            "data": [
+              2,
+              6
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Feier",
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1879",
+            "data": [
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1878": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Theater",
+        "Konzert",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1878",
+          "data": [
+            22,
+            16,
+            5,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Gesellschaftskonzert",
+          "Ballett",
+          "Operettenaufführung",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1878",
+            "data": [
+              7,
+              9,
+              3,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1878",
+            "data": [
+              16
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Quartett",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1878",
+            "data": [
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vortrag"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1878",
+            "data": [
+              3
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1877": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Theater",
+        "Konzert",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1877",
+          "data": [
+            19,
+            16,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Gesellschaftskonzert",
+          "Klavierkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1877",
+            "data": [
+              4,
+              12,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Schulaufführung",
+          "Theateraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1877",
+            "data": [
+              1,
+              15
+            ]
+          }
+        ]
+      },
+      "Konzert": {
+        "labels": [
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Konzert' im Jahr 1877",
+            "data": [
+              2
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Zirkusvorstellung",
+          "Vortrag"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1877",
+            "data": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1876": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "Musik"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1876",
+          "data": [
+            14,
+            4
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Studierendenaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1876",
+            "data": [
+              13,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Gesellschaftskonzert",
+          "Opernaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1876",
+            "data": [
+              1,
+              2,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
