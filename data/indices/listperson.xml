@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-07-13">serialized</change>
+      <change when-iso="2025-07-14">serialized</change>
       
        
     </revisionDesc>
@@ -175107,7 +175107,7 @@
           <listEvent>
             
     
-            <event n="Veranstaltung" key="47800" when-iso="1917-05-03">
+            <event n="Bankett" key="47800" when-iso="1917-05-03">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -235889,6 +235889,9 @@
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116042281</idno>
           
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q15990894</idno>
+          
 
           <listEvent>
             
@@ -239327,7 +239330,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="89342" when-iso="1892-04-13">
+            <event n="Theateraufführung" key="89342" when-iso="1892-04-13">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -239683,7 +239686,7 @@
           <listEvent>
             
     
-            <event n="Veranstaltung" key="89342" when-iso="1892-04-13">
+            <event n="Theateraufführung" key="89342" when-iso="1892-04-13">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -241085,6 +241088,9 @@
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116456604</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q274075</idno>
           
 
           <listEvent>
@@ -282955,7 +282961,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="51297" when-iso="1891-10-28">
+            <event n="Vereinstreffen" key="51297" when-iso="1891-10-28">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -310327,7 +310333,7 @@
           <listEvent>
             
     
-            <event n="Veranstaltung" key="47800" when-iso="1917-05-03">
+            <event n="Bankett" key="47800" when-iso="1917-05-03">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -312355,7 +312361,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="47800" when-iso="1917-05-03">
+            <event n="Bankett" key="47800" when-iso="1917-05-03">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -341977,7 +341983,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="89342" when-iso="1892-04-13">
+            <event n="Theateraufführung" key="89342" when-iso="1892-04-13">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -341995,7 +342001,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="89335" when-iso="1892-05-02">
+            <event n="Theateraufführung" key="89335" when-iso="1892-05-02">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -343325,7 +343331,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="47800" when-iso="1917-05-03">
+            <event n="Bankett" key="47800" when-iso="1917-05-03">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -377329,7 +377335,7 @@
           <listEvent>
             
     
-            <event n="Veranstaltung" key="47800" when-iso="1917-05-03">
+            <event n="Bankett" key="47800" when-iso="1917-05-03">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -378648,7 +378654,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="51297" when-iso="1891-10-28">
+            <event n="Vereinstreffen" key="51297" when-iso="1891-10-28">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -381872,7 +381878,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="47800" when-iso="1917-05-03">
+            <event n="Bankett" key="47800" when-iso="1917-05-03">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -418147,7 +418153,7 @@
           <listEvent>
             
     
-            <event n="Veranstaltung" key="47800" when-iso="1917-05-03">
+            <event n="Bankett" key="47800" when-iso="1917-05-03">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -423648,6 +423654,9 @@
             
     
             <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29654.html</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Langen_M%C3%BCller_Verlag</idno>
             
 
           </affiliation>
@@ -441484,7 +441493,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="51297" when-iso="1891-10-28">
+            <event n="Vereinstreffen" key="51297" when-iso="1891-10-28">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -441732,7 +441741,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="51297" when-iso="1891-10-28">
+            <event n="Vereinstreffen" key="51297" when-iso="1891-10-28">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -442229,7 +442238,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="51297" when-iso="1891-10-28">
+            <event n="Vereinstreffen" key="51297" when-iso="1891-10-28">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -455256,7 +455265,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="89342" when-iso="1892-04-13">
+            <event n="Theateraufführung" key="89342" when-iso="1892-04-13">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -456573,7 +456582,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="47800" when-iso="1917-05-03">
+            <event n="Bankett" key="47800" when-iso="1917-05-03">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -477348,7 +477357,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="51297" when-iso="1891-10-28">
+            <event n="Vereinstreffen" key="51297" when-iso="1891-10-28">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -478413,7 +478422,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="89342" when-iso="1892-04-13">
+            <event n="Theateraufführung" key="89342" when-iso="1892-04-13">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -478446,7 +478455,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="89335" when-iso="1892-05-02">
+            <event n="Theateraufführung" key="89335" when-iso="1892-05-02">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -515433,7 +515442,7 @@
             </event>
             
     
-            <event n="Veranstaltung" key="47800" when-iso="1917-05-03">
+            <event n="Bankett" key="47800" when-iso="1917-05-03">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -535812,7 +535821,7 @@
             </event>
             
     
-            <event n="Varité und Filmvorführung" key="210895" when-iso="1927-04-23">
+            <event n="Varieté und Filmvorführung" key="210895" when-iso="1927-04-23">
               
         
               <desc n="1370">teilgenommen an</desc>
