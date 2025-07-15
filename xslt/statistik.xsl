@@ -33,6 +33,15 @@
                         <h1>
                             <xsl:text>Statistiken</xsl:text>
                         </h1>
+                        <div class="mb-4">
+                            <p>Auf dieser Seite finden sich die Arten von Veranstaltungen, die Arthur Schnitzler 
+                                besuchte, in sechs Kategorien (»Theater«, »Musik«, »Film«, »Vortrag«, »anderes« und »Privatveranstaltung«) eingeteilt und zueinander in Verhältnis gesetzt. In Folge
+                                werden dann die Kategorien einzeln aufgeschlüsselt.
+                            </p>
+                            <p>Die Einordnung, ob eine Veranstaltung öffentlich oder privat war, wird stärker gewichtet als die anderen. Das heißt, dass
+                                die ersten fünf Kategorien alle öffentlichen Veranstaltungen umfassen, die letzte aber auch
+                            Privataufführungen, private Konzerte etc.</p>
+                        </div>
                         
                         <div class="mb-4">
                             <div class="d-flex align-items-center gap-2 mb-3 d-block mx-auto">
