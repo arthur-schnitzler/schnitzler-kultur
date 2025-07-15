@@ -33,7 +33,17 @@
                         <h1>
                             <xsl:text>Statistiken</xsl:text>
                         </h1>
+                        
                         <div class="mb-4">
+                            <div class="d-flex align-items-center gap-2 mb-3 d-block mx-auto">
+                                <label for="chartTypeToggle" class="mb-0">Kreisdiagramm</label>
+                                
+                                <div class="form-check form-switch m-0">
+                                    <input class="form-check-input" type="checkbox" role="switch" id="chartTypeToggle"/>
+                                </div>
+                                
+                                <label for="chartTypeToggle" class="mb-0">Balkendiagramm</label>
+                            </div>
                             <label for="yearSelect" class="form-label">Jahr auswählen:</label>
                             <select id="yearSelect" class="form-select w-auto">
                                 <xsl:for-each select="1876 to 1931">
@@ -42,6 +52,7 @@
                                     </option>
                                 </xsl:for-each>
                             </select>
+                            
                         </div>
                         
                         <h2>Veranstaltungstypen</h2>

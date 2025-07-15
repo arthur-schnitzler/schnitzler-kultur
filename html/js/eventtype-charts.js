@@ -3,8 +3,12 @@ const anaChartCanvasElement = document.getElementById("anaChart");
 const anaChartCanvas = anaChartCanvasElement.getContext("2d");
 const anaNChartsContainer = document.getElementById("anaNChartsContainer");
 
+let chartType = "pie"; // Default
+let chartDataByYear;   // globale Daten
+
 let anaChart;
 const anaNCharts = [];
+
 
 // Deine 10 Labels für @ana mit festen Farben (HSL)
 const anaLabels = [
@@ -155,21 +159,46 @@ function updateChartsForYear(year, data) {
   if (anaChart) anaChart.destroy();
 
   anaChart = new Chart(anaChartCanvas, {
-    type: 'pie',
-    data: {
-      labels: updatedLabels,
-      datasets: [dataset]
-    },
-    options: {
-      responsive: false,
-      plugins: {
-        title: {
-          display: true,
-          text: `${totalEvents} Ereignisse`
-        }
+  type: chartType,
+  data: {
+    labels: updatedLabels,
+    datasets: [{
+      ...dataset,
+      borderWidth: 1
+    }]
+  },
+  options: {
+    responsive: false,
+    plugins: {
+      title: {
+        display: true,
+        text: `${totalEvents} Ereignisse`
+      },
+      legend: {
+        display: chartType === 'pie'
       }
+    },
+    indexAxis: chartType === 'bar' ? 'y' : undefined,
+scales: chartType === 'bar' ? {
+  x: {
+    beginAtZero: true,
+    title: { display: true, text: 'Anzahl' },
+    ticks: {
+      autoSkip: false,
+      maxRotation: 45,
+      minRotation: 45
     }
-  });
+  },
+  y: {
+    ticks: {
+      autoSkip: false,
+      maxRotation: 45,
+      minRotation: 45
+    }
+  }
+} : {}
+  }
+});
 
   // === Untercharts zeichnen ===
   anaNChartsContainer.innerHTML = '';
@@ -197,21 +226,43 @@ function updateChartsForYear(year, data) {
     const updatedLabels = chartData.labels.map((label, i) => `${label} (${dataset.data[i]})`);
 
     const chart = new Chart(ctx, {
-      type: 'pie',
-      data: {
-        labels: updatedLabels,
-        datasets: [dataset]
+  type: chartType,
+  data: {
+    labels: updatedLabels,
+    datasets: [{
+      ...dataset,
+      borderWidth: 1
+    }]
+  },
+  options: {
+    responsive: false,
+    indexAxis: chartType === 'bar' ? 'y' : 'x',  // 👈 Das ist neu!
+    plugins: {
+      title: {
+        display: true,
+        text: `${subTotal} Ereignisse`
       },
-      options: {
-        responsive: false,
-        plugins: {
-          title: {
-            display: true,
-            text: `${subTotal} Ereignisse`
-          }
+      legend: {
+        display: chartType === 'pie'
+      }
+    },
+    scales: chartType === 'bar' ? {
+      x: {
+        beginAtZero: true,
+        title: {
+          display: true,
+          text: 'Anzahl'
+        }
+      },
+      y: {
+        ticks: {
+          autoSkip: false
         }
       }
-    });
+    } : {}
+  }
+});
+
 
     anaNCharts.push(chart);
   });
@@ -222,25 +273,64 @@ fetch('./js-data/charts_by_year.json')
   .then(response => response.json())
   .then(data => {
     // Prüfen, ob "alles"-Option schon existiert, wenn nicht hinzufügen
-    if (!Array.from(yearSelect.options).some(opt => opt.value === "alle")) {
-      const allOption = document.createElement("option");
-      allOption.value = "alle";
-      allOption.textContent = "Alle";
-      yearSelect.prepend(allOption);
-    }
+if (!Array.from(yearSelect.options).some(opt => opt.value === "alle")) {
+  const allOption = document.createElement("option");
+  allOption.value = "alle";
+  allOption.textContent = "Alle";
+  yearSelect.prepend(allOption);
+}
+    chartDataByYear = data;
 
-    // URL-Parameter lesen, oder Standardwert aus Select
-    const urlParams = new URLSearchParams(window.location.search);
-    const paramYear = urlParams.get("jahr") || yearSelect.value;
+    // URL-Parameter lesen
+  const urlParams = new URLSearchParams(window.location.search);
+const paramYear = urlParams.get("jahr") || "alle";  // Fallback lieber explizit
+chartType = urlParams.get("typ") || "pie";
 
-    yearSelect.value = paramYear;
-    updateChartsForYear(paramYear, data);
+// Prüfen, ob "paramYear" in der Selectbox enthalten ist
+if (![...yearSelect.options].some(opt => opt.value === paramYear)) {
+  const opt = document.createElement("option");
+  opt.value = paramYear;
+  opt.textContent = paramYear === "alle" ? "Alle" : paramYear;
+  yearSelect.appendChild(opt);
+}
 
+yearSelect.value = paramYear;
+updateChartsForYear(paramYear, chartDataByYear);
+
+    // Jahr-Auswahl Listener
     yearSelect.addEventListener("change", () => {
-      updateChartsForYear(yearSelect.value, data);
+  console.log("Jahr geändert auf:", yearSelect.value);
 
-      // URL-Parameter anpassen
+  updateChartsForYear(yearSelect.value, chartDataByYear);
+
+  const url = new URL(window.location);
+  url.searchParams.set("jahr", yearSelect.value);
+  url.searchParams.set("typ", chartType);
+  window.history.replaceState({}, "", url);
+});
+
+    const chartTypeToggle = document.getElementById("chartTypeToggle");
+
+// Initial aus URL setzen
+chartTypeToggle.checked = (chartType === "bar");
+
+chartTypeToggle.addEventListener("change", () => {
+  chartType = chartTypeToggle.checked ? "bar" : "pie";
+  updateChartsForYear(yearSelect.value, chartDataByYear);
+
+  const url = new URL(window.location);
+  url.searchParams.set("typ", chartType);
+  url.searchParams.set("jahr", yearSelect.value);
+  window.history.replaceState({}, "", url);
+});
+
+    // Charttyp-Toggle Listener
+    chartTypeSelect.addEventListener("change", () => {
+      chartType = chartTypeSelect.value;
+      updateChartsForYear(yearSelect.value, chartDataByYear);
+
       const url = new URL(window.location);
+      url.searchParams.set("typ", chartType);
       url.searchParams.set("jahr", yearSelect.value);
       window.history.replaceState({}, "", url);
     });
@@ -252,3 +342,4 @@ fetch('./js-data/charts_by_year.json')
   url.hash = ""; // entfernt das #
   window.history.replaceState({}, "", url);
 }
+
