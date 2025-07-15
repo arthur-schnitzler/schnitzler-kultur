@@ -23,8 +23,7 @@
                 <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css"
                     rel="stylesheet"/>
                 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
-                <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-                
+                <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
             </head>
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
