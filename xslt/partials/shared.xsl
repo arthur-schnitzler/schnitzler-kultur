@@ -113,7 +113,16 @@
         <xsl:apply-templates/><br/>
     </xsl:template>
     <xsl:template match="tei:p">
-       <p><xsl:apply-templates/></p>
+        <xsl:element name="p">
+        <xsl:choose>
+            <xsl:when test="@rend='inline'">
+                <xsl:attribute name="class">
+                    <xsl:text>ps-3</xsl:text>
+                </xsl:attribute>
+            </xsl:when>
+        </xsl:choose>
+        <xsl:apply-templates/>
+        </xsl:element>
     </xsl:template>
     
     <xsl:template match="tei:table">

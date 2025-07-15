@@ -24,7 +24,7 @@
                                     data-bs-toggle="dropdown" aria-expanded="false">Projekt</a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a class="dropdown-item" href="about.html">Über das
+                                        <a class="dropdown-item" href="ueber-das-projekt.html">Über das
                                             Projekt</a>
                                     </li>
                                     <li>

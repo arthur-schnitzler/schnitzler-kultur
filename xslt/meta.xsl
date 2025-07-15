@@ -75,24 +75,6 @@
             <xsl:apply-templates select="tei:list/tei:item" mode="faq"/>
         </div>
     </xsl:template>
-    <xsl:template match="tei:item" mode="faq">
-        <xsl:variable name="itemId" select="generate-id()"/>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="{concat('heading', $itemId)}">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                    data-bs-target="{concat('#collapse', $itemId)}" aria-expanded="false"
-                    aria-controls="{concat('collapse', $itemId)}">
-                    <xsl:value-of select="tei:label"/>
-                </button>
-            </h2>
-            <div id="{concat('collapse', $itemId)}" class="accordion-collapse collapse"
-                aria-labelledby="{concat('heading', $itemId)}" data-bs-parent="#faqAccordion">
-                <div class="accordion-body">
-                    <xsl:apply-templates select="tei:note"/>
-                </div>
-            </div>
-        </div>
-    </xsl:template>
     
     <xsl:template match="tei:list[parent::tei:div/@type = 'faq']" mode="faq">
         <xsl:apply-templates select="tei:item" mode="faq"/>
@@ -119,14 +101,22 @@
     </xsl:template>
     <xsl:template match="tei:p">
         <p id="{generate-id()}">
-            <xsl:if test="@rend = 'right'">
-                <xsl:attribute name="style">
-                    <xsl:text>text-align: right</xsl:text>
-                </xsl:attribute>
-            </xsl:if>
+            <xsl:choose>
+                <xsl:when test="@rend = 'right'">
+                    <xsl:attribute name="style">
+                        <xsl:text>text-align: right</xsl:text>
+                    </xsl:attribute>
+                </xsl:when>
+                <xsl:when test="@rend='inline'">
+                    <xsl:attribute name="class">
+                        <xsl:text>ps-3</xsl:text>
+                    </xsl:attribute>
+                </xsl:when>
+            </xsl:choose>
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    
     <xsl:template match="tei:div">
         <div id="{generate-id()}">
             <xsl:apply-templates/>
