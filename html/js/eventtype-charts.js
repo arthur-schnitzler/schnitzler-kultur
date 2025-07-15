@@ -11,10 +11,10 @@ const anaLabels = [
   "Theater",
   "Veranstaltung",
   "Ausstellung",
-  "Film",
   "Musik",
-  "Lesung",
-"Privatveranstaltung",
+  "Film",
+  "Vortrag",
+  "Privatveranstaltung",
   "anderes",
 
 
