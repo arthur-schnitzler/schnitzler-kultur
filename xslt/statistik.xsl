@@ -8,12 +8,10 @@
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
     
-    <xsl:output method="html" indent="yes" encoding="UTF-8"/>
-    
     <!-- Haupttemplate -->
     <xsl:template match="/">
         <xsl:variable name="doc_title">
-            <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
+            <xsl:value-of select="//tei:TEI[1]/tei:fileDesc[1]/tei:titleStmt[1]/tei:title[1]/text()"/>
         </xsl:variable>
         <html class="h-100" lang="{$default_lang}">
             <head>
@@ -41,7 +39,6 @@
                                 die ersten fünf Kategorien alle öffentlichen Veranstaltungen umfassen, die letzte aber auch
                             Privataufführungen, private Konzerte etc.</p>
                         </div>
-                        
                         <div class="mb-4 mx-auto" style="max-width: 800px;">
                             <div class="d-flex align-items-center gap-2 mb-3 d-block mx-auto">
                                 <label for="chartTypeToggle" class="mb-0">Kreisdiagramm</label>
@@ -74,6 +71,7 @@
                 </main>
             </body>
             <script src="./js/eventtype-charts.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer='true'></script>
         </html>
     </xsl:template>
 
