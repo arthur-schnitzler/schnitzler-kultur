@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-07-14">serialized</change>
+      <change when-iso="2025-07-15">serialized</change>
       
        
     </revisionDesc>
@@ -25557,6 +25557,9 @@
             
 
           </location>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q312576</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145351/</idno>
