@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-07-14">serialized</change>
+          <change when-iso="2025-07-15">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -3575,7 +3575,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb281607" when-iso="1922-03-18">
-        <eventName n="Premiere">Premiere von Josephslegende, 18.3.1922</eventName>
+        <eventName n="Theaterpremiere">Premiere von Josephslegende, 18.3.1922</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/281607/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -6672,7 +6672,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb263798" when-iso="1915-11-21">
-        <eventName n="Uraufführung">Uraufführung von Klavierquintett [op. 54], 21.11.1915</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Klavierquintett [op. 54], 21.11.1915</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263798/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -9627,7 +9627,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb254292" when-iso="1913-03-26">
-        <eventName n="Premiere">Premiere von Korallenkettlin, 26.3.1913</eventName>
+        <eventName n="Theaterpremiere">Premiere von Korallenkettlin, 26.3.1913</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -18119,7 +18119,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb245108" when-iso="1931-06-20">
-        <eventName n="Premiere">Premiere von Komparserie, 20.6.1931</eventName>
+        <eventName n="Theaterpremiere">Premiere von Komparserie, 20.6.1931</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/245108/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -20058,7 +20058,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb239687" when-iso="1930-06-07">
-        <eventName n="Premiere">Premiere von Professor Bernhardi, 7.6.1930</eventName>
+        <eventName n="Theaterpremiere">Premiere von Professor Bernhardi, 7.6.1930</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/239687/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -20377,7 +20377,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb239561" when-iso="1931-06-06">
-        <eventName n="Premiere">Premiere von König Lear, 6.6.1931</eventName>
+        <eventName n="Theaterpremiere">Premiere von König Lear, 6.6.1931</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -23382,7 +23382,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb238872" when-iso="1925-01-03">
-        <eventName n="Premiere">Premiere von Stimmen aus dem Dunkel, 3.1.1925</eventName>
+        <eventName n="Theaterpremiere">Premiere von Stimmen aus dem Dunkel, 3.1.1925</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -24055,7 +24055,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb238739" when-iso="1918-03-01">
-        <eventName n="Premiere">Neueinstudierung von Liebelei, Literatur, 1.3.1918</eventName>
+        <eventName n="Theaterpremiere">Neueinstudierung von Liebelei, Literatur, 1.3.1918</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -26135,7 +26135,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb237477" when-iso="1906-03-16">
-        <eventName n="Premiere">Premiere von Zum großen Wurstel, Die Fahrt über den Stix, Mamzell Courasche, 16.3.1906</eventName>
+        <eventName n="Theaterpremiere">Premiere von Zum großen Wurstel, Die Fahrt über den Stix, Mamzell Courasche, 16.3.1906</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -27476,7 +27476,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb236640" when-iso="1905-11-04">
-        <eventName n="Premiere">Premiere von Herbst; Er, sie und er; Der dankbare Julius; Die Medaille, 4.11.1905</eventName>
+        <eventName n="Theaterpremiere">Premiere von Herbst; Er, sie und er; Der dankbare Julius; Die Medaille, 4.11.1905</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -43869,7 +43869,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210895" when-iso="1927-04-23">
-        <eventName n="Varieté und Filmvorführung">Varieté und Filmvorführung von La Bohème, 23.4.1927</eventName>
+        <eventName n="Varieté">Varieté und Filmvorführung von La Bohème, 23.4.1927</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210895/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -57636,7 +57636,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210357" when-iso="1925-11-10">
-        <eventName n="Premiere">Premiere von Demetrius, Heinrich von Andernach, 10.11.1925</eventName>
+        <eventName n="Theaterpremiere">Premiere von Demetrius, Heinrich von Andernach, 10.11.1925</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -57704,7 +57704,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210354" when-iso="1925-10-17">
-        <eventName n="Premiere">Premiere von Hannibal, 17.10.1925</eventName>
+        <eventName n="Theaterpremiere">Premiere von Hannibal, 17.10.1925</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210354/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -58505,7 +58505,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210326" when-iso="1925-02-04">
-        <eventName n="Premiere">Premiere von A Midsommer nights dreame, 4.2.1925</eventName>
+        <eventName n="Theaterpremiere">Premiere von A Midsommer nights dreame, 4.2.1925</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -58828,7 +58828,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210314" when-iso="1924-11-14">
-        <eventName n="Premiere">Premiere von Überfahrt, 14.11.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Überfahrt, 14.11.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -58952,7 +58952,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210310" when-iso="1924-10-24">
-        <eventName n="Premiere">Premiere von Die heilige Johanna, 24.10.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die heilige Johanna, 24.10.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -59056,7 +59056,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210306" when-iso="1924-10-10">
-        <eventName n="Premiere">Premiere von Komödie der Worte, 10.10.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Komödie der Worte, 10.10.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -59368,7 +59368,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210295" when-iso="1924-06-18">
-        <eventName n="Premiere">Premiere von Mr. Pim will nicht stören, 18.6.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Mr. Pim will nicht stören, 18.6.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -59400,7 +59400,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210294" when-iso="1924-06-14">
-        <eventName n="Premiere">Premiere von Der Widerspenstigen Zähmung, 14.6.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Widerspenstigen Zähmung, 14.6.1924</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210294/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -59741,7 +59741,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210283" when-iso="1924-04-16">
-        <eventName n="Premiere">Premiere von Der Schwierige, 16.4.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Schwierige, 16.4.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -59773,7 +59773,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210282" when-iso="1924-04-09">
-        <eventName n="Premiere">Premiere von Kabale und Liebe, 9.4.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Kabale und Liebe, 9.4.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -60268,7 +60268,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210266" when-iso="1924-02-10">
-        <eventName n="Premiere">Premiere von Hinkemann, 10.2.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Hinkemann, 10.2.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -60300,7 +60300,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210265" when-iso="1924-02-05">
-        <eventName n="Premiere">Premiere von Nebeneinander, 5.2.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Nebeneinander, 5.2.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -60405,7 +60405,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210262" when-iso="1924-01-26">
-        <eventName n="Premiere">Premiere von Die Denkmalsweihe, 26.1.1924</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Denkmalsweihe, 26.1.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -60631,7 +60631,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210255" when-iso="1923-12-18">
-        <eventName n="Premiere">Premiere von Dampfmaschine, 18.12.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Dampfmaschine, 18.12.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -60792,7 +60792,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210250" when-iso="1923-12-01">
-        <eventName n="Premiere">Premiere von Vom andern Ufer, 1.12.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Vom andern Ufer, 1.12.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -61054,7 +61054,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210241" when-iso="1923-10-11">
-        <eventName n="Premiere">Premiere von Die Sache Makropulos, 11.10.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Sache Makropulos, 11.10.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -61086,7 +61086,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210240" when-iso="1923-10-10">
-        <eventName n="Premiere">Premiere von W. U. R., 10.10.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von W. U. R., 10.10.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -61403,7 +61403,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210229" when-iso="1923-04-19">
-        <eventName n="Premiere">Premiere von Der Sohn, 19.4.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Sohn, 19.4.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -61438,7 +61438,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210228" when-iso="1923-04-18">
-        <eventName n="Premiere">Premiere von Schweiger, 18.4.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Schweiger, 18.4.1923</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210228/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -61463,7 +61463,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210227" when-iso="1923-04-13">
-        <eventName n="Premiere">Premiere von Mimensiege, Dardamelle, der Betrogene, 13.4.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Mimensiege, Dardamelle, der Betrogene, 13.4.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -61502,7 +61502,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210226" when-iso="1923-04-12">
-        <eventName n="Premiere">Premiere von Der Gedanke und andere Novellen, 12.4.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Gedanke und andere Novellen, 12.4.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -61537,7 +61537,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210225" when-iso="1923-04-05">
-        <eventName n="Premiere">Premiere von Der gute König, 5.4.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der gute König, 5.4.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -61623,7 +61623,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210222" when-iso="1923-03-16">
-        <eventName n="Premiere">Premiere von Der Unbestechliche, 16.3.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Unbestechliche, 16.3.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -61690,7 +61690,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210220" when-iso="1923-03-09">
-        <eventName n="Premiere">Premiere von Rugby, 9.3.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Rugby, 9.3.1923</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210220/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -61753,7 +61753,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210218" when-iso="1923-03-03">
-        <eventName n="Premiere">Premiere von Der Herr Minister, 3.3.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Herr Minister, 3.3.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -61990,7 +61990,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210210" when-iso="1923-02-06">
-        <eventName n="Premiere">Premiere von Das Bergwerk, 6.2.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Bergwerk, 6.2.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -62025,7 +62025,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210209" when-iso="1923-02-03">
-        <eventName n="Premiere">Premiere von Der Vampyr oder Die Gejagten, 3.2.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Vampyr oder Die Gejagten, 3.2.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -62121,7 +62121,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210206" when-iso="1923-01-27">
-        <eventName n="Premiere">Premiere von Der Geliebte, 27.1.1923</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Geliebte, 27.1.1923</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -62322,7 +62322,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210200" when-iso="1922-12-23">
-        <eventName n="Premiere">Premiere von Es, 23.12.1922</eventName>
+        <eventName n="Theaterpremiere">Premiere von Es, 23.12.1922</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -62540,7 +62540,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210193" when-iso="1922-11-28">
-        <eventName n="Premiere">Premiere von Christa die Tante, 28.11.1922</eventName>
+        <eventName n="Theaterpremiere">Premiere von Christa die Tante, 28.11.1922</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -62677,7 +62677,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210189" when-iso="1922-11-14">
-        <eventName n="Premiere">Premiere von Die Weber, 14.11.1922</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Weber, 14.11.1922</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -62848,7 +62848,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210183" when-iso="1922-10-16">
-        <eventName n="Premiere">Premiere von Schöne Frauen, 16.10.1922</eventName>
+        <eventName n="Theaterpremiere">Premiere von Schöne Frauen, 16.10.1922</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210183/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -63028,7 +63028,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210176" when-iso="1922-09-22">
-        <eventName n="Premiere">Premiere von Hidalla, 22.9.1922</eventName>
+        <eventName n="Theaterpremiere">Premiere von Hidalla, 22.9.1922</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -63580,7 +63580,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210154" when-iso="1922-03-10">
-        <eventName n="Premiere">Premiere von Bocksgesang, 10.3.1922</eventName>
+        <eventName n="Theaterpremiere">Premiere von Bocksgesang, 10.3.1922</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -64122,7 +64122,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210137" when-iso="1921-12-01">
-        <eventName n="Premiere">Premiere von Madame Legros, 1.12.1921</eventName>
+        <eventName n="Theaterpremiere">Premiere von Madame Legros, 1.12.1921</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -66345,7 +66345,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210066" when-iso="1920-11-05">
-        <eventName n="Premiere">Premiere von Der Teufel, 5.11.1920</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Teufel, 5.11.1920</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210066/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -67781,7 +67781,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb210016" when-iso="1919-11-07">
-        <eventName n="Premiere">Premiere von Der dritte Gatte, 7.11.1919</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der dritte Gatte, 7.11.1919</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210016/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -69934,7 +69934,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209947" when-iso="1918-05-14">
-        <eventName n="Premiere">Premiere von Die Mutter, 14.5.1918</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Mutter, 14.5.1918</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -72283,7 +72283,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209860" when-iso="1916-12-15">
-        <eventName n="Premiere">Premiere von Kollega Eisenhart, 15.12.1916</eventName>
+        <eventName n="Theaterpremiere">Premiere von Kollega Eisenhart, 15.12.1916</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209860/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -72410,7 +72410,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209855" when-iso="1916-11-25">
-        <eventName n="Premiere">Premiere von Kater Lampe, 25.11.1916</eventName>
+        <eventName n="Theaterpremiere">Premiere von Kater Lampe, 25.11.1916</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209855/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -72785,7 +72785,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209840" when-iso="1916-10-12">
-        <eventName n="Premiere">Premiere von Der Kirschgarten, 12.10.1916</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Kirschgarten, 12.10.1916</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -73658,7 +73658,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209810" when-iso="1916-02-12">
-        <eventName n="Premiere">Premiere von Der Schrei, den niemand hört, 12.2.1916</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Schrei, den niemand hört, 12.2.1916</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209810/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -73768,7 +73768,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209806" when-iso="1916-01-31">
-        <eventName n="Premiere">Premiere von Jahrmarkt in Pulsnitz, 31.1.1916</eventName>
+        <eventName n="Theaterpremiere">Premiere von Jahrmarkt in Pulsnitz, 31.1.1916</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209806/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -73927,7 +73927,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209800" when-iso="1915-12-22">
-        <eventName n="Premiere">Premiere von Und Pippa tanzt!, 22.12.1915</eventName>
+        <eventName n="Theaterpremiere">Premiere von Und Pippa tanzt!, 22.12.1915</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209800/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -74080,7 +74080,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209795" when-iso="1915-12-06">
-        <eventName n="Premiere">Premiere von Der Kandidat, 6.12.1915</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Kandidat, 6.12.1915</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209795/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -74392,7 +74392,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209782" when-iso="1915-11-03">
-        <eventName n="Premiere">Premiere von Hallo, 3.11.1915</eventName>
+        <eventName n="Theaterpremiere">Premiere von Hallo, 3.11.1915</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -74620,7 +74620,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209774" when-iso="1915-10-05">
-        <eventName n="Premiere">Premiere von Eine Heiratsgeschichte, 5.10.1915</eventName>
+        <eventName n="Theaterpremiere">Premiere von Eine Heiratsgeschichte, 5.10.1915</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209774/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -74677,7 +74677,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209772" when-iso="1915-09-25">
-        <eventName n="Premiere">Premiere von Katte, 25.9.1915</eventName>
+        <eventName n="Theaterpremiere">Premiere von Katte, 25.9.1915</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209772/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -74772,7 +74772,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209769" when-iso="1915-09-15">
-        <eventName n="Premiere">Premiere von Der Graf von Gleichen, 15.9.1915</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Graf von Gleichen, 15.9.1915</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -75586,7 +75586,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209739" when-iso="1915-01-13">
-        <eventName n="Premiere">Premiere von Schirin und Gertraude, 13.1.1915</eventName>
+        <eventName n="Theaterpremiere">Premiere von Schirin und Gertraude, 13.1.1915</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -77022,7 +77022,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209689" when-iso="1913-10-14">
-        <eventName n="Premiere">Premiere von Liebelei. Oper, 14.10.1913</eventName>
+        <eventName n="Theaterpremiere">Premiere von Liebelei. Oper, 14.10.1913</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -77054,7 +77054,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209688" when-iso="1913-10-13">
-        <eventName n="Premiere">Premiere von Medusa. Tragödie in fünf Akten, 13.10.1913</eventName>
+        <eventName n="Theaterpremiere">Premiere von Medusa. Tragödie in fünf Akten, 13.10.1913</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -77159,7 +77159,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209685" when-iso="1913-09-07">
-        <eventName n="Premiere">Premiere von Liebelei, Literatur, 7.9.1913</eventName>
+        <eventName n="Theaterpremiere">Premiere von Liebelei, Literatur, 7.9.1913</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -77195,7 +77195,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209684" when-iso="1913-09-06">
-        <eventName n="Premiere">Premiere von Ruf des Lebens, 6.9.1913</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ruf des Lebens, 6.9.1913</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209684/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -77687,7 +77687,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209669" when-iso="1913-02-08">
-        <eventName n="Premiere">Premiere von Professor Bernhardi, 8.2.1913</eventName>
+        <eventName n="Theaterpremiere">Premiere von Professor Bernhardi, 8.2.1913</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209669/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -78197,7 +78197,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209652" when-iso="1912-09-28">
-        <eventName n="Premiere">Premiere von Narrentanz, 28.9.1912</eventName>
+        <eventName n="Theaterpremiere">Premiere von Narrentanz, 28.9.1912</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -78229,7 +78229,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209651" when-iso="1912-09-25">
-        <eventName n="Premiere">Premiere von Joachim von Brandt. Komödie, 25.9.1912</eventName>
+        <eventName n="Theaterpremiere">Premiere von Joachim von Brandt. Komödie, 25.9.1912</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -78296,7 +78296,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209649" when-iso="1912-09-16">
-        <eventName n="Premiere">Premiere von Studentenliebe, 16.9.1912</eventName>
+        <eventName n="Theaterpremiere">Premiere von Studentenliebe, 16.9.1912</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -78331,7 +78331,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209648" when-iso="1912-09-18">
-        <eventName n="Premiere">Premiere von Fannys erstes Stück, 18.9.1912</eventName>
+        <eventName n="Theaterpremiere">Premiere von Fannys erstes Stück, 18.9.1912</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -78720,7 +78720,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209635" when-iso="1912-03-16">
-        <eventName n="Premiere">Premiere von Der Schleier der Pierrette, 16.3.1912</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Schleier der Pierrette, 16.3.1912</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209635/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -79880,7 +79880,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209595" when-iso="1911-02-25">
-        <eventName n="Premiere">Premiere von Die Kinder. Komödie, 25.2.1911</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Kinder. Komödie, 25.2.1911</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -80869,7 +80869,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209562" when-iso="1909-05-15">
-        <eventName n="Premiere">Premiere von Die gelbe Nachtigall, 15.5.1909</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die gelbe Nachtigall, 15.5.1909</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -82644,7 +82644,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209500" when-iso="1908-03-24">
-        <eventName n="Premiere">Premiere von Der gute König. Lustspiel, 24.3.1908</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der gute König. Lustspiel, 24.3.1908</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -83013,7 +83013,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209486" when-iso="1907-05-22">
-        <eventName n="Premiere">Premiere von Mieze und Maria, 22.5.1907</eventName>
+        <eventName n="Theaterpremiere">Premiere von Mieze und Maria, 22.5.1907</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -85190,7 +85190,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209413" when-iso="1906-02-10">
-        <eventName n="Premiere">Premiere von Spätfrühling, 10.2.1906</eventName>
+        <eventName n="Theaterpremiere">Premiere von Spätfrühling, 10.2.1906</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -85292,7 +85292,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209410" when-iso="1906-01-26">
-        <eventName n="Premiere">Premiere von Nebeneinander, 26.1.1906</eventName>
+        <eventName n="Theaterpremiere">Premiere von Nebeneinander, 26.1.1906</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209410/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -88317,7 +88317,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209302" when-iso="1903-11-21">
-        <eventName n="Premiere">Premiere von Novella d'Andrea, 21.11.1903</eventName>
+        <eventName n="Theaterpremiere">Premiere von Novella d'Andrea, 21.11.1903</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -92431,7 +92431,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209156" when-iso="1900-06-02">
-        <eventName n="Premiere">Premiere von Die Frau im Fenster, Winterschlaf, 2.6.1900</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Frau im Fenster, Winterschlaf, 2.6.1900</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -92467,7 +92467,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209155" when-iso="1900-05-22">
-        <eventName n="Premiere">Premiere von Pauline, 22.5.1900</eventName>
+        <eventName n="Theaterpremiere">Premiere von Pauline, 22.5.1900</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -92563,7 +92563,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209152" when-iso="1900-05-10">
-        <eventName n="Premiere">Premiere von Der Probecandidat, 10.5.1900</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Probecandidat, 10.5.1900</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -93060,7 +93060,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209134" when-iso="1900-02-01">
-        <eventName n="Premiere">Premiere von Rhodope, 1.2.1900</eventName>
+        <eventName n="Theaterpremiere">Premiere von Rhodope, 1.2.1900</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -93111,7 +93111,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209132" when-iso="1900-01-26">
-        <eventName n="Premiere">Premiere von Die Damen Lebardieu, 26.1.1900</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Damen Lebardieu, 26.1.1900</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -93172,7 +93172,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209130" when-iso="1900-01-19">
-        <eventName n="Premiere">Premiere von Frage an das Schicksal, 19.1.1900</eventName>
+        <eventName n="Theaterpremiere">Premiere von Frage an das Schicksal, 19.1.1900</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -93834,7 +93834,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209108" when-iso="1899-10-20">
-        <eventName n="Premiere">Premiere von Agnes Jordan. Schauspiel in fünf Akten, 20.10.1899</eventName>
+        <eventName n="Theaterpremiere">Premiere von Agnes Jordan. Schauspiel in fünf Akten, 20.10.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -94091,7 +94091,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209099" when-iso="1899-09-15">
-        <eventName n="Premiere">Premiere von Das Vermächtnis, 15.9.1899</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Vermächtnis, 15.9.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209099/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -94493,7 +94493,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209086" when-iso="1899-07-02">
-        <eventName n="Premiere">Premiere von Das Lumpengesindel, Abschiedssouper, 2.7.1899</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Lumpengesindel, Abschiedssouper, 2.7.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -95293,7 +95293,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209061" when-iso="1899-02-01">
-        <eventName n="Premiere">Premiere von Coulissenzauber, 1.2.1899</eventName>
+        <eventName n="Theaterpremiere">Premiere von Coulissenzauber, 1.2.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -95377,7 +95377,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209058" when-iso="1899-01-19">
-        <eventName n="Premiere">Premiere von Fuhrmann Henschel, 19.1.1899</eventName>
+        <eventName n="Theaterpremiere">Premiere von Fuhrmann Henschel, 19.1.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -95612,7 +95612,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209050" when-iso="1898-12-14">
-        <eventName n="Premiere">Premiere von Das Erbe, 14.12.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Erbe, 14.12.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -96004,7 +96004,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209037" when-iso="1898-10-25">
-        <eventName n="Premiere">Premiere von Der Vielgeprüfte, 25.10.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Vielgeprüfte, 25.10.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -96610,7 +96610,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209018" when-iso="1898-05-21">
-        <eventName n="Theateraufführung">Aufführung von Die Mütter. Schauspiel in vier Acten, 21.5.1898</eventName>
+        <eventName n="Theateraufführung">Aufführung von Die Mütter, 21.5.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -96706,7 +96706,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209015" when-iso="1898-04-29">
-        <eventName n="Premiere">Premiere von Mara Michalati, 29.4.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Mara Michalati, 29.4.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -96925,7 +96925,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209008" when-iso="1898-03-26">
-        <eventName n="Premiere">Premiere von Baumeister Solness, 26.3.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Baumeister Solness, 26.3.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -96957,7 +96957,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209007" when-iso="1898-03-24">
-        <eventName n="Premiere">Premiere von Neigung, 24.3.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Neigung, 24.3.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -97143,7 +97143,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209001" when-iso="1898-02-19">
-        <eventName n="Premiere">Premiere von Das Ende der Liebe, 19.2.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Ende der Liebe, 19.2.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -97456,7 +97456,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208991" when-iso="1898-01-05">
-        <eventName n="Premiere">Premiere von Das neue Ghetto, 5.1.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das neue Ghetto, 5.1.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -97672,7 +97672,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208984" when-iso="1897-12-04">
-        <eventName n="Premiere">Premiere von Deux gosses (Zwei kleine Vagabunden), 4.12.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Deux gosses (Zwei kleine Vagabunden), 4.12.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -97768,7 +97768,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208981" when-iso="1897-11-27">
-        <eventName n="Premiere">Premiere von Freiwild, 27.11.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Freiwild, 27.11.1897</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208981/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -98023,7 +98023,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208972" when-iso="1897-11-03">
-        <eventName n="Premiere">Premiere von Ledige Leute, 3.11.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ledige Leute, 3.11.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -98055,7 +98055,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208971" when-iso="1897-10-30">
-        <eventName n="Premiere">Premiere von Die Abrechnung, 30.10.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Abrechnung, 30.10.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -98090,7 +98090,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208970" when-iso="1897-10-29">
-        <eventName n="Premiere">Premiere von Der Liquidator, 29.10.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Liquidator, 29.10.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -98154,7 +98154,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208968" when-iso="1897-10-23">
-        <eventName n="Premiere">Premiere von Der Herr Pomeisl, 23.10.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Herr Pomeisl, 23.10.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -98186,7 +98186,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208967" when-iso="1897-10-16">
-        <eventName n="Premiere">Premiere von Der Fall Clémenceau. Schauspiel in 5 Aufzügen, 16.10.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Fall Clémenceau. Schauspiel in 5 Aufzügen, 16.10.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -98355,7 +98355,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208962" when-iso="1897-10-05">
-        <eventName n="Premiere">Premiere von La Bohème, 5.10.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von La Bohème, 5.10.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -98579,7 +98579,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208955" when-iso="1897-07-09">
-        <eventName n="Premiere">Premiere von Aschermittwoch. Schwank, 9.7.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Aschermittwoch. Schwank, 9.7.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -99536,7 +99536,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208916" when-iso="1897-04-03">
-        <eventName n="Premiere">Premiere von Der Biberpelz. Eine Diebskomödie, 3.4.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Biberpelz. Eine Diebskomödie, 3.4.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -99603,7 +99603,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208914" when-iso="1897-03-30">
-        <eventName n="Premiere">Premiere von Die sittliche Forderung, Ein angenehmer Gast, 30.3.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die sittliche Forderung, Ein angenehmer Gast, 30.3.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -99639,7 +99639,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208913" when-iso="1897-03-27">
-        <eventName n="Premiere">Premiere von Das liebe Geld, 27.3.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das liebe Geld, 27.3.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -99767,7 +99767,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208909" when-iso="1897-03-09">
-        <eventName n="Premiere">Premiere von Die versunkene Glocke, 9.3.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die versunkene Glocke, 9.3.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -99825,7 +99825,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208907" when-iso="1897-02-27">
-        <eventName n="Premiere">Premiere von Das Tschaperl, 27.2.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Tschaperl, 27.2.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -99857,7 +99857,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208906" when-iso="1897-02-26">
-        <eventName n="Premiere">Premiere von Das rothe Paraplui, 26.2.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das rothe Paraplui, 26.2.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -99889,7 +99889,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208905" when-iso="1897-02-20">
-        <eventName n="Premiere">Premiere von Der Cognac-König, 20.2.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Cognac-König, 20.2.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -99921,7 +99921,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208904" when-iso="1897-02-13">
-        <eventName n="Premiere">Premiere von Die rothe Brieftasche, 13.2.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die rothe Brieftasche, 13.2.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100043,7 +100043,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208900" when-iso="1897-02-03">
-        <eventName n="Premiere">Premiere von Othello, 3.2.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Othello, 3.2.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100204,7 +100204,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208895" when-iso="1897-01-16">
-        <eventName n="Premiere">Premiere von Die Wildente, 16.1.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Wildente, 16.1.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100236,7 +100236,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208894" when-iso="1897-01-09">
-        <eventName n="Premiere">Premiere von Meerleuchten, 9.1.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Meerleuchten, 9.1.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100300,7 +100300,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208892" when-iso="1897-01-02">
-        <eventName n="Premiere">Premiere von Die Unmoralischen, 2.1.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Unmoralischen, 2.1.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100332,7 +100332,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208891" when-iso="1896-12-23">
-        <eventName n="Premiere">Premiere von Die Verliebten, 23.12.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Verliebten, 23.12.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100396,7 +100396,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208889" when-iso="1896-12-19">
-        <eventName n="Premiere">Premiere von Seine offizielle Frau, 19.12.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Seine offizielle Frau, 19.12.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100509,7 +100509,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208885" when-iso="1896-12-07">
-        <eventName n="Premiere">Premiere von Das letzte Ideal, Die Romantischen, 7.12.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das letzte Ideal, Die Romantischen, 7.12.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100655,7 +100655,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208880" when-iso="1896-11-29">
-        <eventName n="Premiere">Premiere von Eulenspiegel, 29.11.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Eulenspiegel, 29.11.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100713,7 +100713,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208878" when-iso="1896-11-21">
-        <eventName n="Premiere">Premiere von Der Sohn des Khalifen, 21.11.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Sohn des Khalifen, 21.11.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100777,7 +100777,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208876" when-iso="1896-11-17">
-        <eventName n="Premiere">Premiere von Fernand’s Ehecontract, 17.11.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Fernand’s Ehecontract, 17.11.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100867,7 +100867,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208873" when-iso="1896-11-07">
-        <eventName n="Premiere">Premiere von Der dritte Mann, 7.11.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der dritte Mann, 7.11.1896</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208873/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -101032,7 +101032,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208867" when-iso="1896-10-31">
-        <eventName n="Premiere">Premiere von Die Vielgeliebte, 31.10.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Vielgeliebte, 31.10.1896</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208867/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -101121,7 +101121,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208864" when-iso="1896-10-27">
-        <eventName n="Theateraufführung">Aufführung von Die Mütter. Schauspiel in vier Acten, 27.10.1896</eventName>
+        <eventName n="Theateraufführung">Aufführung von Die Mütter, 27.10.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -101313,7 +101313,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208857" when-iso="1896-10-03">
-        <eventName n="Premiere">Premiere von Morituri, 3.10.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Morituri, 3.10.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -101345,7 +101345,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208856" when-iso="1896-10-02">
-        <eventName n="Premiere">Premiere von Suum cuique, 2.10.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Suum cuique, 2.10.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -101409,7 +101409,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208854" when-iso="1896-09-26">
-        <eventName n="Premiere">Premiere von Ein unbeschriebenes Blatt, 26.9.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ein unbeschriebenes Blatt, 26.9.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -101476,7 +101476,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208852" when-iso="1896-09-12">
-        <eventName n="Premiere">Premiere von Noth kennt kein Gebot, 12.9.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Noth kennt kein Gebot, 12.9.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -101707,7 +101707,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208845" when-iso="1896-05-09">
-        <eventName n="Premiere">Premiere von Das wahre Glück, 9.5.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das wahre Glück, 9.5.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -102114,7 +102114,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208832" when-iso="1896-03-14">
-        <eventName n="Premiere">Premiere von Die versunkene Stadt, 14.3.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die versunkene Stadt, 14.3.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -102146,7 +102146,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208831" when-iso="1896-03-07">
-        <eventName n="Premiere">Premiere von Der G’wissenswurm, 7.3.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der G’wissenswurm, 7.3.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -102274,7 +102274,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208827" when-iso="1896-02-20">
-        <eventName n="Premiere">Premiere von Eine Schachpartie, Freudlose Liebe, 20.2.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Eine Schachpartie, Freudlose Liebe, 20.2.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -102400,7 +102400,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208823" when-iso="1896-02-05">
-        <eventName n="Premiere">Premiere von Das Hotel zum Freihafen, 5.2.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Hotel zum Freihafen, 5.2.1896</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208823/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -102425,7 +102425,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208822" when-iso="1896-02-02">
-        <eventName n="Theateraufführung">Aufführung von Die Mütter. Schauspiel in vier Acten, 2.2.1896</eventName>
+        <eventName n="Theateraufführung">Aufführung von Die Mütter, 2.2.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -102598,7 +102598,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208816" when-iso="1896-01-25">
-        <eventName n="Premiere">Premiere von Flotte Geister, 25.1.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Flotte Geister, 25.1.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -103205,7 +103205,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208797" when-iso="1895-11-28">
-        <eventName n="Premiere">Premiere von Der Herr Ministerialdirector, 28.11.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Herr Ministerialdirector, 28.11.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -103435,7 +103435,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208790" when-iso="1895-11-14">
-        <eventName n="Premiere">Premiere von Die beiden Champignol, 14.11.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die beiden Champignol, 14.11.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -103534,7 +103534,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208787" when-iso="1895-11-02">
-        <eventName n="Premiere">Premiere von Der goldene Kamerad, 2.11.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der goldene Kamerad, 2.11.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -103566,7 +103566,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208786" when-iso="1895-10-31">
-        <eventName n="Premiere">Premiere von Waldleute, 31.10.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Waldleute, 31.10.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -103598,7 +103598,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208785" when-iso="1895-10-29">
-        <eventName n="Premiere">Premiere von Gräfin Fritzi, 29.10.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Gräfin Fritzi, 29.10.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -103758,7 +103758,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208780" when-iso="1895-09-29">
-        <eventName n="Premiere">Premiere von Medea. Trauerspiel in fünf Aufzügen, 29.9.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Medea. Trauerspiel in fünf Aufzügen, 29.9.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -103882,7 +103882,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208776" when-iso="1895-09-14">
-        <eventName n="Premiere">Premiere von Böse Zungen, 14.9.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Böse Zungen, 14.9.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -103917,7 +103917,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208775" when-iso="1895-09-07">
-        <eventName n="Premiere">Premiere von Alte Wiener, 7.9.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Alte Wiener, 7.9.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -104852,7 +104852,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208744" when-iso="1895-06-08">
-        <eventName n="Premiere">Premiere von Eine Posse als Medizin, 8.6.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Eine Posse als Medizin, 8.6.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105170,7 +105170,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208733" when-iso="1895-02-27">
-        <eventName n="Premiere">Premiere von Klein Eyolf, 27.2.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Klein Eyolf, 27.2.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105202,7 +105202,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208732" when-iso="1895-02-23">
-        <eventName n="Premiere">Premiere von Eine leichte Person, 23.2.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Eine leichte Person, 23.2.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105266,7 +105266,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208730" when-iso="1895-02-16">
-        <eventName n="Premiere">Premiere von Das Schoßkind. Lustspiel in 3 Acten, 16.2.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Schoßkind. Lustspiel in 3 Acten, 16.2.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105298,7 +105298,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208729" when-iso="1895-02-15">
-        <eventName n="Premiere">Premiere von Der Maskenball, 15.2.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Maskenball, 15.2.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105423,7 +105423,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208725" when-iso="1895-02-01">
-        <eventName n="Premiere">Premiere von Schattenspiel, 1.2.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Schattenspiel, 1.2.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105522,7 +105522,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208722" when-iso="1895-01-28">
-        <eventName n="Premiere">Premiere von Die erste Lüge, 28.1.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die erste Lüge, 28.1.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105612,7 +105612,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208719" when-iso="1895-01-16">
-        <eventName n="Premiere">Premiere von Die Überzähligen, 16.1.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Überzähligen, 16.1.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105670,7 +105670,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208717" when-iso="1895-01-12">
-        <eventName n="Premiere">Premiere von Der Jourfix, 12.1.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Jourfix, 12.1.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105734,7 +105734,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208715" when-iso="1895-01-08">
-        <eventName n="Premiere">Premiere von Der Mustergatte, Militärfromm, 8.1.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Mustergatte, Militärfromm, 8.1.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105788,7 +105788,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208713" when-iso="1895-01-05">
-        <eventName n="Premiere">Premiere von Ein Kind des Glücks, 5.1.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ein Kind des Glücks, 5.1.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105823,7 +105823,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208712" when-iso="1895-01-03">
-        <eventName n="Premiere">Premiere von Zwischen zwei Herzen, 3.1.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Zwischen zwei Herzen, 3.1.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105855,7 +105855,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208711" when-iso="1894-12-23">
-        <eventName n="Premiere">Premiere von Der Probekuß, 23.12.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Probekuß, 23.12.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -105919,7 +105919,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208709" when-iso="1894-12-21">
-        <eventName n="Premiere">Premiere von Hänsel und Grethel, 21.12.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Hänsel und Grethel, 21.12.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -106061,7 +106061,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208704" when-iso="1894-12-06">
-        <eventName n="Premiere">Premiere von Zwei Wappen, 6.12.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Zwei Wappen, 6.12.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -106151,7 +106151,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208701" when-iso="1894-11-24">
-        <eventName n="Premiere">Premiere von Entsagung, 24.11.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Entsagung, 24.11.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -106292,7 +106292,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208697" when-iso="1894-10-29">
-        <eventName n="Premiere">Premiere von Die Stützen der Gesellschaft, 29.10.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Stützen der Gesellschaft, 29.10.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -106324,7 +106324,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208696" when-iso="1894-10-27">
-        <eventName n="Premiere">Premiere von Es war einmal, 27.10.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Es war einmal, 27.10.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -106356,7 +106356,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208695" when-iso="1894-10-08">
-        <eventName n="Premiere">Premiere von Halali, 8.10.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Halali, 8.10.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -106388,7 +106388,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208694" when-iso="1894-10-02">
-        <eventName n="Premiere">Premiere von Der Mann ohne Vorurtheil, 2.10.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Mann ohne Vorurtheil, 2.10.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -106420,7 +106420,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208693" when-iso="1894-09-29">
-        <eventName n="Premiere">Premiere von Man sagt, 29.9.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Man sagt, 29.9.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -106516,7 +106516,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208690" when-iso="1894-09-22">
-        <eventName n="Premiere">Premiere von Fürst Malachoff, 22.9.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Fürst Malachoff, 22.9.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -106676,7 +106676,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208685" when-iso="1894-09-07">
-        <eventName n="Premiere">Premiere von Der Diamant des Geisterkönigs, 7.9.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Diamant des Geisterkönigs, 7.9.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107134,7 +107134,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208670" when-iso="1894-05-10">
-        <eventName n="Premiere">Premiere von Hagars Sohn. Schauspiel in vier Acten, 10.5.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Hagars Sohn. Schauspiel in vier Acten, 10.5.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107198,7 +107198,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208668" when-iso="1894-04-26">
-        <eventName n="Premiere">Premiere von Lisi, Hexenprozess, 26.4.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Lisi, Hexenprozess, 26.4.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107230,7 +107230,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208667" when-iso="1894-04-25">
-        <eventName n="Premiere">Premiere von Das Examen, 25.4.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Examen, 25.4.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107262,7 +107262,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208666" when-iso="1894-04-17">
-        <eventName n="Premiere">Premiere von Wildlinge, 17.4.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Wildlinge, 17.4.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107294,7 +107294,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208665" when-iso="1894-04-07">
-        <eventName n="Premiere">Premiere von Die Katakomben, 7.4.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Katakomben, 7.4.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107415,7 +107415,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208661" when-iso="1894-03-15">
-        <eventName n="Premiere">Premiere von Der kleine Mann, 15.3.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der kleine Mann, 15.3.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107447,7 +107447,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208660" when-iso="1894-03-10">
-        <eventName n="Premiere">Premiere von Husarenblut, 10.3.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Husarenblut, 10.3.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107511,7 +107511,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208658" when-iso="1894-03-01">
-        <eventName n="Premiere">Premiere von Vasantasena, 1.3.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Vasantasena, 1.3.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107781,7 +107781,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208649" when-iso="1894-02-05">
-        <eventName n="Premiere">Premiere von Der Eber, Niobe, 5.2.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Eber, Niobe, 5.2.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107813,7 +107813,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208648" when-iso="1894-02-01">
-        <eventName n="Premiere">Premiere von Wiener Leut', 1.2.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Wiener Leut', 1.2.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -107845,7 +107845,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208647" when-iso="1894-01-30">
-        <eventName n="Premiere">Premiere von Heimat, 30.1.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Heimat, 30.1.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108137,7 +108137,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208638" when-iso="1894-01-03">
-        <eventName n="Premiere">Premiere von Das Bild des Signorelli. Schauspiel in 4 Acten, 3.1.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Bild des Signorelli. Schauspiel in 4 Acten, 3.1.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108387,7 +108387,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208630" when-iso="1893-11-18">
-        <eventName n="Premiere">Premiere von Mauerblümchen. Lustspiel in 4 Akten, 18.11.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Mauerblümchen. Lustspiel in 4 Akten, 18.11.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108451,7 +108451,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208628" when-iso="1893-11-11">
-        <eventName n="Premiere">Premiere von Das goldene Buch, 11.11.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das goldene Buch, 11.11.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108541,7 +108541,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208625" when-iso="1893-11-04">
-        <eventName n="Premiere">Premiere von Der Talisman. Dramatisches Märchen, 4.11.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Talisman. Dramatisches Märchen, 4.11.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108637,7 +108637,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208622" when-iso="1893-10-21">
-        <eventName n="Premiere">Premiere von Malaria, 21.10.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Malaria, 21.10.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108669,7 +108669,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208621" when-iso="1893-10-16">
-        <eventName n="Premiere">Premiere von Eine Palastrevolution, 16.10.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Eine Palastrevolution, 16.10.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108733,7 +108733,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208619" when-iso="1893-10-07">
-        <eventName n="Premiere">Premiere von Die Sündfluth, 7.10.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Sündfluth, 7.10.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108865,7 +108865,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208615" when-iso="1893-04-13">
-        <eventName n="Premiere">Premiere von Heiratsnest, 13.4.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Heiratsnest, 13.4.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108987,7 +108987,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208611" when-iso="1893-03-20">
-        <eventName n="Premiere">Premiere von Bernhard Lenz, 20.3.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Bernhard Lenz, 20.3.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -109045,7 +109045,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208609" when-iso="1893-03-18">
-        <eventName n="Premiere">Premiere von Lolos Vater, 18.3.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Lolos Vater, 18.3.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -109112,7 +109112,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208607" when-iso="1893-02-27">
-        <eventName n="Premiere">Premiere von Kriemhilde, 27.2.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Kriemhilde, 27.2.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -109257,7 +109257,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208602" when-iso="1893-02-01">
-        <eventName n="Premiere">Premiere von Madame Mongodin, 1.2.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Madame Mongodin, 1.2.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -109372,7 +109372,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208598" when-iso="1893-01-21">
-        <eventName n="Premiere">Premiere von Ein Tag in Wien, 21.1.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ein Tag in Wien, 21.1.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -109523,7 +109523,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208592" when-iso="1893-01-10">
-        <eventName n="Premiere">Premiere von Fürstin Ninetta, 10.1.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Fürstin Ninetta, 10.1.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -109555,7 +109555,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208591" when-iso="1893-01-07">
-        <eventName n="Premiere">Premiere von Die Rantzau, Vier Jahreszeiten, 7.1.1893</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Rantzau, Vier Jahreszeiten, 7.1.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -109812,7 +109812,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208582" when-iso="1892-10-31">
-        <eventName n="Premiere">Premiere von Die Orientreise. Schwank in drei Akten, 31.10.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Orientreise. Schwank in drei Akten, 31.10.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -109844,7 +109844,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208581" when-iso="1892-10-24">
-        <eventName n="Premiere">Premiere von Lachende Erben. Operette in drei Acten, 24.10.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Lachende Erben. Operette in drei Acten, 24.10.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -110059,7 +110059,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208574" when-iso="1892-10-01">
-        <eventName n="Premiere">Premiere von Glänzendes Elend, 1.10.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Glänzendes Elend, 1.10.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -110569,7 +110569,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208557" when-iso="1892-05-12">
-        <eventName n="Premiere">Premiere von Satisfaction. Schauspiel in vier Aufzügen, 12.5.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Satisfaction. Schauspiel in vier Aufzügen, 12.5.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -110604,7 +110604,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208556" when-iso="1892-05-09">
-        <eventName n="Premiere">Premiere von Die Kinder der Exzellenz, 9.5.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Kinder der Exzellenz, 9.5.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -110833,7 +110833,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208548" when-iso="1892-04-02">
-        <eventName n="Premiere">Premiere von Die Ehre, 2.4.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Ehre, 2.4.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -110974,7 +110974,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208543" when-iso="1892-03-26">
-        <eventName n="Premiere">Premiere von Roderich Heller, 26.3.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Roderich Heller, 26.3.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -111032,7 +111032,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208541" when-iso="1892-03-16">
-        <eventName n="Premiere">Premiere von Sie schützt sich selbst, 16.3.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Sie schützt sich selbst, 16.3.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -111141,7 +111141,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208537" when-iso="1892-03-05">
-        <eventName n="Premiere">Premiere von Falsche Heilige, 5.3.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Falsche Heilige, 5.3.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -111199,7 +111199,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208535" when-iso="1892-02-28">
-        <eventName n="Ausstellung">Gross-Peking in Wien, 28.2.1892</eventName>
+        <eventName n="Ausstellungsbesuch">Gross-Peking in Wien, 28.2.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -111225,7 +111225,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208534" when-iso="1892-02-20">
-        <eventName n="Premiere">Premiere von Antonio Vater und Sohn, 20.2.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Antonio Vater und Sohn, 20.2.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -111289,7 +111289,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208532" when-iso="1892-02-16">
-        <eventName n="Premiere">Premiere von Werther, 16.2.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Werther, 16.2.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -111552,7 +111552,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208523" when-iso="1892-01-19">
-        <eventName n="Premiere">Premiere von Die Kätzchen, 19.1.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Kätzchen, 19.1.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -111705,7 +111705,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208518" when-iso="1892-01-01">
-        <eventName n="Premiere">Premiere von Ritter Pasman, 1.1.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ritter Pasman, 1.1.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -111975,7 +111975,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208508" when-iso="1891-11-28">
-        <eventName n="Premiere">Premiere von Der kritische Tag, 28.11.1891</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der kritische Tag, 28.11.1891</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -112834,7 +112834,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208480" when-iso="1891-05-03">
-        <eventName n="Premiere">Premiere von Meister Manole, 3.5.1891</eventName>
+        <eventName n="Theaterpremiere">Premiere von Meister Manole, 3.5.1891</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -112956,7 +112956,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208475" when-iso="1891-04-04">
-        <eventName n="Premiere">Premiere von Das goldene Kreuz, Rouge et Noir, 4.4.1891</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das goldene Kreuz, Rouge et Noir, 4.4.1891</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -113165,7 +113165,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208468" when-iso="1891-03-12">
-        <eventName n="Premiere">Premiere von Der Ring des Ofterdingen, 12.3.1891</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Ring des Ofterdingen, 12.3.1891</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -114611,7 +114611,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208417" when-iso="1890-11-07">
-        <eventName n="Premiere">Premiere von Erminy, 7.11.1890</eventName>
+        <eventName n="Theaterpremiere">Premiere von Erminy, 7.11.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -115009,7 +115009,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208405" when-iso="1890-08-14">
-        <eventName n="Premiere">Premiere von Das deutsche Sängerfest in Wien, 14.8.1890</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das deutsche Sängerfest in Wien, 14.8.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -115233,7 +115233,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208396" when-iso="1890-04-06">
-        <eventName n="Premiere">Premiere von Frau Venus, 6.4.1890</eventName>
+        <eventName n="Theaterpremiere">Premiere von Frau Venus, 6.4.1890</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208396/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -115982,7 +115982,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208365" when-iso="1890-01-04">
-        <eventName n="Premiere">Premiere von Der arme Jonathan, 4.1.1890</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der arme Jonathan, 4.1.1890</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -116458,7 +116458,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208347" when-iso="1889-10-05">
-        <eventName n="Premiere">Premiere von Der Fall Clemenceau, 5.10.1889</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Fall Clemenceau, 5.10.1889</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -116493,7 +116493,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208346" when-iso="1889-10-04">
-        <eventName n="Premiere">Premiere von Der Vasall von Szigeth, 4.10.1889</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Vasall von Szigeth, 4.10.1889</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -117693,7 +117693,7 @@
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb77026">Tulipatan</title>
+                <title key="pmb296020">Tulipatan. Burleske Operette in einem Act</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -117733,7 +117733,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208301" when-iso="1889-01-18">
-        <eventName n="Premiere">Premiere von Die drei Pintos, 18.1.1889</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die drei Pintos, 18.1.1889</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -118112,7 +118112,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208286" when-iso="1888-12-01">
-        <eventName n="Premiere">Premiere von Die Zaubergeige, O, diese Schwiegermutter!, 1.12.1888</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Zaubergeige, O, diese Schwiegermutter!, 1.12.1888</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -118238,7 +118238,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208282" when-iso="1888-11-14">
-        <eventName n="Premiere">Premiere von Der Liebeshof, 14.11.1888</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Liebeshof, 14.11.1888</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -118328,7 +118328,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208279" when-iso="1888-11-09">
-        <eventName n="Premiere">Premiere von Cornelius Voß. Lustspiel in vier Akten, 9.11.1888</eventName>
+        <eventName n="Theaterpremiere">Premiere von Cornelius Voß. Lustspiel in vier Akten, 9.11.1888</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -118411,7 +118411,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208276" when-iso="1888-09-29">
-        <eventName n="Premiere">Premiere von Der Schelm von Bergen, 29.9.1888</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Schelm von Bergen, 29.9.1888</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -119553,7 +119553,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208228" when-iso="1888-04-17">
-        <eventName n="Premiere">Premiere von Zwischen Lipp' und Bechersrand, Der Schierling. Lustspiel in 2 Akten, Coeur-Dame, 17.4.1888</eventName>
+        <eventName n="Theaterpremiere">Premiere von Zwischen Lipp' und Bechersrand, Der Schierling. Lustspiel in 2 Akten, Coeur-Dame, 17.4.1888</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -120940,7 +120940,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208176" when-iso="1887-11-14">
-        <eventName n="Premiere">Premiere von Die Dreizehn, 14.11.1887</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Dreizehn, 14.11.1887</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -121049,7 +121049,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208172" when-iso="1887-11-04">
-        <eventName n="Premiere">Premiere von Gräfin Sarah, 4.11.1887</eventName>
+        <eventName n="Theaterpremiere">Premiere von Gräfin Sarah, 4.11.1887</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -121562,7 +121562,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208155" when-iso="1887-09-03">
-        <eventName n="Premiere">Premiere von Durand und Durand. Posse in drei Acten, 3.9.1887</eventName>
+        <eventName n="Theaterpremiere">Premiere von Durand und Durand. Posse in drei Acten, 3.9.1887</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -122121,7 +122121,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208138" when-iso="1887-04-10">
-        <eventName n="Premiere">Premiere von Wien in Wort und Bild, 10.4.1887</eventName>
+        <eventName n="Theaterpremiere">Premiere von Wien in Wort und Bild, 10.4.1887</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -122496,7 +122496,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208121" when-iso="1887-03-03">
-        <eventName n="Premiere">Premiere von Unter vier Augen, Urwiener, 3.3.1887</eventName>
+        <eventName n="Theaterpremiere">Premiere von Unter vier Augen, Urwiener, 3.3.1887</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -122611,7 +122611,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208117" when-iso="1887-02-26">
-        <eventName n="Premiere">Premiere von Bellman, 26.2.1887</eventName>
+        <eventName n="Theaterpremiere">Premiere von Bellman, 26.2.1887</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -122748,7 +122748,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208112" when-iso="1887-02-17">
-        <eventName n="Premiere">Premiere von Georgette, 17.2.1887</eventName>
+        <eventName n="Theaterpremiere">Premiere von Georgette, 17.2.1887</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -122992,7 +122992,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208103" when-iso="1887-02-09">
-        <eventName n="Premiere">Premiere von Unter Kuratel, 9.2.1887</eventName>
+        <eventName n="Theaterpremiere">Premiere von Unter Kuratel, 9.2.1887</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -123346,7 +123346,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208088" when-iso="1887-01-11">
-        <eventName n="Premiere">Premiere von Die Nachbarinnen, 11.1.1887</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Nachbarinnen, 11.1.1887</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -123744,7 +123744,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208072" when-iso="1886-11-19">
-        <eventName n="Premiere">Premiere von Merlin, 19.11.1886</eventName>
+        <eventName n="Theaterpremiere">Premiere von Merlin, 19.11.1886</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -123915,7 +123915,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208065" when-iso="1886-10-31">
-        <eventName n="Premiere">Premiere von Der Vagabund, 31.10.1886</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Vagabund, 31.10.1886</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -123991,7 +123991,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208062" when-iso="1886-10-20">
-        <eventName n="Premiere">Premiere von Schach dem König, 20.10.1886</eventName>
+        <eventName n="Theaterpremiere">Premiere von Schach dem König, 20.10.1886</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -124055,7 +124055,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208060" when-iso="1886-10-09">
-        <eventName n="Premiere">Premiere von Vizeadmiral, 9.10.1886</eventName>
+        <eventName n="Theaterpremiere">Premiere von Vizeadmiral, 9.10.1886</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -124087,7 +124087,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208059" when-iso="1886-10-05">
-        <eventName n="Premiere">Premiere von Maria und Magdalena, 5.10.1886</eventName>
+        <eventName n="Theaterpremiere">Premiere von Maria und Magdalena, 5.10.1886</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -124144,7 +124144,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208057" when-iso="1886-10-02">
-        <eventName n="Premiere">Premiere von Stabstrompeter, 2.10.1886</eventName>
+        <eventName n="Theaterpremiere">Premiere von Stabstrompeter, 2.10.1886</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -124176,7 +124176,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208056" when-iso="1886-10-01">
-        <eventName n="Premiere">Premiere von Clara Soleil, Flotte Bursche, 1.10.1886</eventName>
+        <eventName n="Theaterpremiere">Premiere von Clara Soleil, Flotte Bursche, 1.10.1886</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -125699,7 +125699,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208003" when-iso="1886-01-21">
-        <eventName n="Premiere">Premiere von Die Novize, 21.1.1886</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Novize, 21.1.1886</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -126004,7 +126004,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207990" when-iso="1885-12-23">
-        <eventName n="Premiere">Premiere von Das lachende Wien, 23.12.1885</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das lachende Wien, 23.12.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -126522,7 +126522,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207969" when-iso="1885-11-20">
-        <eventName n="Premiere">Premiere von Don Cesar, 20.11.1885</eventName>
+        <eventName n="Theaterpremiere">Premiere von Don Cesar, 20.11.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -126771,7 +126771,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207960" when-iso="1885-11-03">
-        <eventName n="Premiere">Premiere von Ein alter Junggeselle, 3.11.1885</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ein alter Junggeselle, 3.11.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -126950,7 +126950,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207954" when-iso="1885-10-10">
-        <eventName n="Premiere">Premiere von Doktor Papinger, 10.10.1885</eventName>
+        <eventName n="Theaterpremiere">Premiere von Doktor Papinger, 10.10.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -127107,7 +127107,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207949" when-iso="1885-09-25">
-        <eventName n="Premiere">Premiere von Die Leibrente, 25.9.1885</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Leibrente, 25.9.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -127171,7 +127171,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207947" when-iso="1885-09-20">
-        <eventName n="Premiere">Premiere von Der wunde Fleck, 20.9.1885</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der wunde Fleck, 20.9.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -127206,7 +127206,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207946" when-iso="1885-09-19">
-        <eventName n="Premiere">Premiere von Nanon, 19.9.1885</eventName>
+        <eventName n="Theaterpremiere">Premiere von Nanon, 19.9.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -127270,7 +127270,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207944" when-iso="1885-09-17">
-        <eventName n="Premiere">Aufführung Wiener Tanzsängerinnen im Saal zum grünen Thor, 17.9.1885</eventName>
+        <eventName n="Theaterpremiere">Aufführung Wiener Tanzsängerinnen im Saal zum grünen Thor, 17.9.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -127347,7 +127347,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207941" when-iso="1885-09-12">
-        <eventName n="Premiere">Premiere von Schikaneder, 12.9.1885</eventName>
+        <eventName n="Theaterpremiere">Premiere von Schikaneder, 12.9.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -129619,7 +129619,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207856" when-iso="1884-02-29">
-        <eventName n="Premiere">Premiere von Der Zerrissene, 29.2.1884</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Zerrissene, 29.2.1884</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207856/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -129714,7 +129714,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207852" when-iso="1884-02-23">
-        <eventName n="Premiere">Premiere von Die Kreuzelschreiber, 23.2.1884</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Kreuzelschreiber, 23.2.1884</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207852/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -129928,7 +129928,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207842" when-iso="1884-01-29">
-        <eventName n="Premiere">Premiere von Mein Kamerad. Posse in fünf Acten, 29.1.1884</eventName>
+        <eventName n="Theaterpremiere">Premiere von Mein Kamerad. Posse in fünf Acten, 29.1.1884</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207842/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -130186,7 +130186,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207831" when-iso="1883-12-29">
-        <eventName n="Premiere">Premiere von Unsere Frauen, 29.12.1883</eventName>
+        <eventName n="Theaterpremiere">Premiere von Unsere Frauen, 29.12.1883</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207831/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -130736,7 +130736,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207813" when-iso="1883-05-19">
-        <eventName n="Premiere">Premiere von Der erste Brief, Der neue Paganini, Recept gegen Hausfreunde, 19.5.1883</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der erste Brief, Der neue Paganini, Recept gegen Hausfreunde, 19.5.1883</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207813/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -130769,7 +130769,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207812" when-iso="1883-05-12">
-        <eventName n="Premiere">Premiere von Sand in die Augen, Ein Zündhölzchen zwischen zwei Feuern, 12.5.1883</eventName>
+        <eventName n="Theaterpremiere">Premiere von Sand in die Augen, Ein Zündhölzchen zwischen zwei Feuern, 12.5.1883</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207812/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -130817,7 +130817,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207810" when-iso="1883-04-28">
-        <eventName n="Premiere">Premiere von Hasemanns Töchter, 28.4.1883</eventName>
+        <eventName n="Theaterpremiere">Premiere von Hasemanns Töchter, 28.4.1883</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207810/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -131165,7 +131165,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207797" when-iso="1883-03-03">
-        <eventName n="Premiere">Premiere von Ein Pariser Roman, 3.3.1883</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ein Pariser Roman, 3.3.1883</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207797/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -131679,7 +131679,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207775" when-iso="1882-12-18">
-        <eventName n="Premiere">Premiere von Glück bei Frauen, 18.12.1882</eventName>
+        <eventName n="Theaterpremiere">Premiere von Glück bei Frauen, 18.12.1882</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207775/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -131836,7 +131836,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207769" when-iso="1882-11-21">
-        <eventName n="Premiere">Premiere von Der Compagnon, 21.11.1882</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Compagnon, 21.11.1882</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207769/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -132478,7 +132478,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207745" when-iso="1882-03-11">
-        <eventName n="Premiere">Premiere von Der Zugvogel, 11.3.1882</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Zugvogel, 11.3.1882</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207745/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -132830,7 +132830,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207731" when-iso="1882-02-01">
-        <eventName n="Premiere">Premiere von Der Jourfix, 1.2.1882</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Jourfix, 1.2.1882</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207731/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -132906,7 +132906,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207728" when-iso="1882-01-14">
-        <eventName n="Premiere">Premiere von Odette, 14.1.1882</eventName>
+        <eventName n="Theaterpremiere">Premiere von Odette, 14.1.1882</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207728/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -133534,7 +133534,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207705" when-iso="1881-06-17">
-        <eventName n="Premiere">Premiere von Eine Heirat unter Ludwig XV, 17.6.1881</eventName>
+        <eventName n="Theaterpremiere">Premiere von Eine Heirat unter Ludwig XV, 17.6.1881</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207705/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -133559,7 +133559,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207704" when-iso="1881-06-13">
-        <eventName n="Premiere">Premiere von Verwandtschaft, 13.6.1881</eventName>
+        <eventName n="Theaterpremiere">Premiere von Verwandtschaft, 13.6.1881</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207704/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -133652,7 +133652,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207701" when-iso="1881-06-07">
-        <eventName n="Premiere">Premiere von Die beiden Klingsberg, 7.6.1881</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die beiden Klingsberg, 7.6.1881</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207701/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -133709,7 +133709,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207699" when-iso="1881-05-31">
-        <eventName n="Premiere">Premiere von Die deutschen Kleinstädter, 31.5.1881</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die deutschen Kleinstädter, 31.5.1881</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207699/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -133944,7 +133944,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207690" when-iso="1881-05-08">
-        <eventName n="Premiere">Premiere von Von der Aar zur Donau, Bürger auf der Brautfahrt, 8.5.1881</eventName>
+        <eventName n="Theaterpremiere">Premiere von Von der Aar zur Donau, Bürger auf der Brautfahrt, 8.5.1881</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207690/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -134030,7 +134030,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207687" when-iso="1881-04-23">
-        <eventName n="Premiere">Premiere von Lauriane, comédie en trois actes, 23.4.1881</eventName>
+        <eventName n="Theaterpremiere">Premiere von Lauriane, comédie en trois actes, 23.4.1881</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207687/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -134477,7 +134477,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207669" when-iso="1881-03-05">
-        <eventName n="Premiere">Premiere von Noble Bekanntschaft, 5.3.1881</eventName>
+        <eventName n="Theaterpremiere">Premiere von Noble Bekanntschaft, 5.3.1881</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207669/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -134748,7 +134748,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207655" when-iso="1881-02-04">
-        <eventName n="Premiere">Premiere von Bitte ums Wort, 4.2.1881</eventName>
+        <eventName n="Theaterpremiere">Premiere von Bitte ums Wort, 4.2.1881</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207655/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -134888,7 +134888,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207649" when-iso="1881-01-14">
-        <eventName n="Premiere">Premiere von Der Mann in der Flasche, 14.1.1881</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Mann in der Flasche, 14.1.1881</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207649/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -135118,7 +135118,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207641" when-iso="1880-12-30">
-        <eventName n="Premiere">Premiere von Ein Selbstmord. Schauspiel in fünf Acten, 30.12.1880</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ein Selbstmord. Schauspiel in fünf Acten, 30.12.1880</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207641/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -135355,7 +135355,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207632" when-iso="1880-12-06">
-        <eventName n="Premiere">Premiere von Duelle. Schauspiel in drei Aufzügen, 6.12.1880</eventName>
+        <eventName n="Theaterpremiere">Premiere von Duelle. Schauspiel in drei Aufzügen, 6.12.1880</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207632/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -135705,7 +135705,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207617" when-iso="1880-10-16">
-        <eventName n="Premiere">Premiere von Des Hauses Fourchembault Ende, 16.10.1880</eventName>
+        <eventName n="Theaterpremiere">Premiere von Des Hauses Fourchembault Ende, 16.10.1880</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207617/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -136582,7 +136582,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207587" when-iso="1880-05-26">
-        <eventName n="Premiere">Premiere von Der Ritterschlag Margot, 26.5.1880</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Ritterschlag Margot, 26.5.1880</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -136904,7 +136904,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207576" when-iso="1880-04-13">
-        <eventName n="Premiere">Premiere von Advokatenball, 13.4.1880</eventName>
+        <eventName n="Theaterpremiere">Premiere von Advokatenball, 13.4.1880</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207576/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -137141,7 +137141,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207567" when-iso="1880-03-17">
-        <eventName n="Premiere">Premiere von Die Frau ohne Geist, 17.3.1880</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Frau ohne Geist, 17.3.1880</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -138090,7 +138090,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207531" when-iso="1879-12-13">
-        <eventName n="Premiere">Premiere von Hausarzt, Der kleine Louis, 13.12.1879</eventName>
+        <eventName n="Theaterpremiere">Premiere von Hausarzt, Der kleine Louis, 13.12.1879</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207531/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -141731,7 +141731,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207401" when-iso="1877-09-27">
-        <eventName n="Premiere">Premiere von Unsere Verbündeten, 27.9.1877</eventName>
+        <eventName n="Theaterpremiere">Premiere von Unsere Verbündeten, 27.9.1877</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207401/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -144464,7 +144464,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb201012" when-iso="1898-09-21">
-        <eventName n="Uraufführung">Uraufführung von Ewige Liebe, 21.9.1898</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Ewige Liebe, 21.9.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -145665,7 +145665,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb200418" when-iso="1897-11-18">
-        <eventName n="Premiere">Premiere von Jugendfreunde, 18.11.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Jugendfreunde, 18.11.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -147005,7 +147005,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb199288" when-iso="1895-10-03">
-        <eventName n="Uraufführung">Uraufführung von Der Nazi, 3.10.1895</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der Nazi, 3.10.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -150833,7 +150833,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb186278" when-iso="1911-05-27">
-        <eventName n="Premiere">Premiere von Der junge Medardus, 27.5.1911</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der junge Medardus, 27.5.1911</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186278/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88576/</idno>
     <listBibl>
@@ -151002,7 +151002,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb186231" when-iso="1908-11-10">
-        <eventName n="Premiere">Premiere von Das Vermächtnis, 10.11.1908</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Vermächtnis, 10.11.1908</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -151049,7 +151049,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb186215" when-iso="1908-03-17">
-        <eventName n="Premiere">Premiere von Der tapfere Cassian, 17.3.1908</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der tapfere Cassian, 17.3.1908</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -151090,7 +151090,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb186202" when-iso="1907-09-27">
-        <eventName n="Premiere">Premiere Das Märchen, 27.9.1907</eventName>
+        <eventName n="Theaterpremiere">Premiere Das Märchen, 27.9.1907</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -158101,7 +158101,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb169019" when-iso="1904-03-26">
-        <eventName n="Uraufführung">Uraufführung von Der goldene Boden, 26.3.1904</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der goldene Boden, 26.3.1904</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -158378,7 +158378,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb168382" when-iso="1896-02-11">
-        <eventName n="Premiere">Premiere von Der Dornenweg, 11.2.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Dornenweg, 11.2.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -158568,7 +158568,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb167862" when-iso="1898-09-24">
-        <eventName n="Uraufführung">Uraufführung von Das liebe Ich, 24.9.1898</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Das liebe Ich, 24.9.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -158792,7 +158792,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb163044" when-iso="1915-10-23">
-        <eventName n="Premiere">Premiere von Komödie der Worte, 23.10.1915</eventName>
+        <eventName n="Theaterpremiere">Premiere von Komödie der Worte, 23.10.1915</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -158900,7 +158900,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb148379" when-iso="1912-03-16">
-        <eventName n="Uraufführung">Uraufführung Das stärkere Band, 16.3.1912</eventName>
+        <eventName n="Theateruraufführung">Uraufführung Das stärkere Band, 16.3.1912</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -159154,7 +159154,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb147534" when-iso="1905-12-29">
-        <eventName n="Premiere">Premiere von Boule de suif, Schöne Seelen, 29.12.1905</eventName>
+        <eventName n="Theaterpremiere">Premiere von Boule de suif, Schöne Seelen, 29.12.1905</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -159271,7 +159271,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb146985" when-iso="1894-03-31">
-        <eventName n="Uraufführung">Uraufführung von Rausch, 31.3.1894</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Rausch, 31.3.1894</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/146985/</idno>
         <listBibl>
             <bibl>
@@ -159362,7 +159362,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb145758" when-iso="1900-01-31">
-        <eventName n="Premiere">Premiere von Das dritte Kind, Boubouroche, Der Herr Gegencandidat, 31.1.1900</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das dritte Kind, Boubouroche, Der Herr Gegencandidat, 31.1.1900</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -159399,7 +159399,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb145675" when-iso="1902-10-13">
-        <eventName n="Premiere">Premiere von Rausch, 13.10.1902</eventName>
+        <eventName n="Theaterpremiere">Premiere von Rausch, 13.10.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -159501,7 +159501,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb145196" when-iso="1907-11-09">
-        <eventName n="Premiere">Premiere Vom andern Ufer, 9.11.1907</eventName>
+        <eventName n="Theaterpremiere">Premiere Vom andern Ufer, 9.11.1907</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -159722,7 +159722,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb144628" when-iso="1894-06-16">
-        <eventName n="Premiere">Premiere von Therese Krones, 16.6.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Therese Krones, 16.6.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -159974,7 +159974,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb143957" when-iso="1925-05-23">
-        <eventName n="Premiere">Premiere von Der Schleier der Beatrice, 23.5.1925</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Schleier der Beatrice, 23.5.1925</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -161470,7 +161470,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb140844" when-iso="1899-10-21">
-        <eventName n="Premiere">Premiere von Agnes Jordan, 21.10.1899</eventName>
+        <eventName n="Theaterpremiere">Premiere von Agnes Jordan, 21.10.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -161557,7 +161557,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb118269" when-iso="1894-01-15">
-        <eventName n="Premiere">Premiere von Der ungläubige Thomas, 15.1.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der ungläubige Thomas, 15.1.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -161987,7 +161987,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb90033" when-iso="1893-10-14">
-        <eventName n="Premiere">Wiener Premiere von Eine Palastrevolution</eventName>
+        <eventName n="Theaterpremiere">Wiener Premiere von Eine Palastrevolution</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -162093,7 +162093,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb89661" when-iso="1896-01-11">
-        <eventName n="Premiere">Premiere von Liebelei, Die Versucherin, 11.1.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Liebelei, Die Versucherin, 11.1.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -162471,7 +162471,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb89234" when-iso="1888-01-28">
-        <eventName n="Premiere">Premiere von Die Hochzeit des Reservisten, 28.1.1888</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Hochzeit des Reservisten, 28.1.1888</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -162798,7 +162798,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb88534" when-iso="1911-10-14">
-        <eventName n="Premiere">Premiere von Das weite Land, 14.10.1911 [I.]</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das weite Land, 14.10.1911 [I.]</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -162970,7 +162970,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb88068" when-iso="1894-11-17">
-        <eventName n="Uraufführung">Uraufführung von Das neue Stück, 17.11.1894</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Das neue Stück, 17.11.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -163008,7 +163008,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb88033" when-iso="1894-11-14">
-        <eventName n="Uraufführung">Uraufführung von Die Eder-Mitzi, 14.11.1894</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Die Eder-Mitzi, 14.11.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -163047,7 +163047,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb87825" when-iso="1894-10-16">
-        <eventName n="Premiere">Premiere von Ottilie, 16.10.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Ottilie, 16.10.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -163245,7 +163245,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb63449" when-iso="1920-03-12">
-        <eventName n="Premiere">Premiere von Der Puppenspieler, Der grüne Kakadu, Komtesse Mizzi, 12.3.1920</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Puppenspieler, Der grüne Kakadu, Komtesse Mizzi, 12.3.1920</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -163332,7 +163332,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb63356" when-iso="1895-11-12">
-        <eventName n="Uraufführung">Uraufführung von Gebildete Menschen, 12.11.1895</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Gebildete Menschen, 12.11.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -163361,7 +163361,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb63347" when-iso="1898-12-03">
-        <eventName n="Uraufführung">Uraufführung von Die Lumpen, 3.12.1898</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Die Lumpen, 3.12.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -163393,7 +163393,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb63085" when-iso="1889-05-04">
-        <eventName n="Uraufführung">Premiere von Der Schierling, Uraufführung von Im Bunde der Dritte, Der Flüchtling, 4.5.1889</eventName>
+        <eventName n="Theateruraufführung">Premiere von Der Schierling, Uraufführung von Im Bunde der Dritte, Der Flüchtling, 4.5.1889</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -163433,7 +163433,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb63078" when-iso="1891-11-20">
-        <eventName n="Uraufführung">Uraufführung von Prinzen in Genieland, 20.11.1891</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Prinzen in Genieland, 20.11.1891</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -163902,7 +163902,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb59607" when-iso="1914-02-19">
-        <eventName n="Premiere">Premiere von Der einsame Weg, 19.2.1914</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der einsame Weg, 19.2.1914</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -164138,7 +164138,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb56931" when-iso="1910-12-23">
-        <eventName n="Uraufführung">Uraufführung von Mein junger Herr, 23.12.1910</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Mein junger Herr, 23.12.1910</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -165231,7 +165231,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb48776" when-iso="1892-02-08">
-        <eventName n="Premiere">Premiere von College Crampton, 8.2.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von College Crampton, 8.2.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -165263,7 +165263,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb48470" when-iso="1905-04-13">
-        <eventName n="Uraufführung">Uraufführung von Rat Schrimpf, 13.4.1905</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Rat Schrimpf, 13.4.1905</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -166079,7 +166079,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb47451" when-iso="1912-06-14">
-        <eventName n="Premiere">Premiere von Der einsame Weg, 14.6.1912</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der einsame Weg, 14.6.1912</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -166114,7 +166114,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb47397" when-iso="1912-02-10">
-        <eventName n="Premiere">Premiere von Marionetten, 10.2.1912</eventName>
+        <eventName n="Theaterpremiere">Premiere von Marionetten, 10.2.1912</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -166231,7 +166231,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb47078" when-iso="1910-12-10">
-        <eventName n="Premiere">Aufführung von Die letzten Masken, Komtesse Mizzi, Premiere von Literatur, 10.12.1910</eventName>
+        <eventName n="Theaterpremiere">Aufführung von Die letzten Masken, Komtesse Mizzi, Premiere von Literatur, 10.12.1910</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -166347,7 +166347,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb46947" when-iso="1910-09-18">
-        <eventName n="Uraufführung">Uraufführung von Liebelei. Oper, 18.9.1910</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Liebelei. Oper, 18.9.1910</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -166426,7 +166426,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb46600" when-iso="1897-11-20">
-        <eventName n="Uraufführung">Uraufführung von Die Bürgermeisterwahl, 20.11.1897</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Die Bürgermeisterwahl, 20.11.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -166637,7 +166637,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb46480" when-iso="1909-03-24">
-        <eventName n="Premiere">Premiere von Elektra, 24.3.1909</eventName>
+        <eventName n="Theaterpremiere">Premiere von Elektra, 24.3.1909</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -166935,7 +166935,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb46098" when-iso="1910-04-03">
-        <eventName n="Premiere">Premiere von Frage an das Schicksal, Die letzten Masken, Literatur, 3.4.1910</eventName>
+        <eventName n="Theaterpremiere">Premiere von Frage an das Schicksal, Die letzten Masken, Literatur, 3.4.1910</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -167098,7 +167098,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb46005" when-iso="1908-12-18">
-        <eventName n="Premiere">Premiere von Szerelmeskedés [Liebelei], 18.12.1908</eventName>
+        <eventName n="Theaterpremiere">Premiere von Szerelmeskedés [Liebelei], 18.12.1908</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -167142,7 +167142,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb45952" when-iso="1898-01-16">
-        <eventName n="Premiere">Premiere von Abschiedssouper, Uraufführung Weihnachtseinkäufe, 16.1.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Abschiedssouper, Uraufführung Weihnachtseinkäufe, 16.1.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -167756,7 +167756,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb43387" when-iso="1896-10-17">
-        <eventName n="Premiere">Premiere von Die Mütter, 17.10.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Mütter, 17.10.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168100,7 +168100,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb43136" when-iso="1895-10-12">
-        <eventName n="Uraufführung">Uraufführung von Ein Regentag, 12.10.1895</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Ein Regentag, 12.10.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168137,7 +168137,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb43100" when-iso="1895-01-19">
-        <eventName n="Premiere">Premiere von Die Kameraden, 19.1.1895</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Kameraden, 19.1.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168172,7 +168172,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb42893" when-iso="1898-05-16">
-        <eventName n="Uraufführung">Uraufführung von Mädchentraum, 16.5.1898</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Mädchentraum, 16.5.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168271,7 +168271,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb42753" when-iso="1897-03-18">
-        <eventName n="Premiere">Premiere von Die Sklavin, 18.3.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Sklavin, 18.3.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168430,7 +168430,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb42446" when-iso="1895-11-09">
-        <eventName n="Uraufführung">Uraufführung von Goldene Herzen, 9.11.1895</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Goldene Herzen, 9.11.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168462,7 +168462,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb42439" when-iso="1895-11-11">
-        <eventName n="Uraufführung">Uraufführung von Das Glück im Winkel, 11.11.1895</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Das Glück im Winkel, 11.11.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168689,7 +168689,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb42195" when-iso="1894-11-11">
-        <eventName n="Premiere">Premiere von Der Buckelhans, 11.11.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Buckelhans, 11.11.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168724,7 +168724,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb42188" when-iso="1894-11-10">
-        <eventName n="Premiere">Premiere von Doppelselbstmord, 10.11.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Doppelselbstmord, 10.11.1894</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168781,7 +168781,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb42170" when-iso="1894-10-20">
-        <eventName n="Premiere">Premiere von Die Komödianten, 20.10.1894</eventName>
+        <eventName n="Theaterpremiere">Premiere von Die Komödianten, 20.10.1894</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42170/</idno>
         <listBibl>
             <bibl>
@@ -168883,7 +168883,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb42019" when-iso="1896-09-19">
-        <eventName n="Uraufführung">Uraufführung von Die Athenerin, 19.9.1896</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Die Athenerin, 19.9.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168915,7 +168915,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb42011" when-iso="1896-10-16">
-        <eventName n="Uraufführung">Uraufführung Sein Sohn, 16.10.1896</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Sein Sohn, 16.10.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -168930,7 +168930,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb42009">Sein Sohn</title>
+                <title key="pmb42009">Sein Sohn. Schauspiel in vier Acten</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -168944,6 +168944,12 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb18308">Feld, Leo</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb296035">Freiburg, Max</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb154198">Furlani</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -168954,7 +168960,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb41938" when-iso="1894-01-05">
-        <eventName n="Uraufführung">Uraufführung Das Bild des Signorelli, 5.1.1894</eventName>
+        <eventName n="Theateruraufführung">Uraufführung Das Bild des Signorelli, 5.1.1894</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41938/</idno>
         <listBibl>
             <bibl>
@@ -168998,7 +169004,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb41620" when-iso="1918-12-21">
-        <eventName n="Premiere">Premiere von Professor Bernhardi, 21.12.1918</eventName>
+        <eventName n="Theaterpremiere">Premiere von Professor Bernhardi, 21.12.1918</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169156,7 +169162,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb41434" when-iso="1902-11-29">
-        <eventName n="Uraufführung">Uraufführung Der arme Heinrich, 29.11.1902</eventName>
+        <eventName n="Theateruraufführung">Uraufführung Der arme Heinrich, 29.11.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169185,7 +169191,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb41414" when-iso="1896-05-23">
-        <eventName n="Premiere">Premiere von Der Zerrissene, 23.5.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Zerrissene, 23.5.1896</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41414/</idno>
         <listBibl>
             <bibl>
@@ -169216,7 +169222,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb41148" when-iso="1895-09-21">
-        <eventName n="Uraufführung">Uraufführung von Die Doppelhochzeit, 21.9.1895</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Die Doppelhochzeit, 21.9.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169245,7 +169251,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb41110" when-iso="1892-11-12">
-        <eventName n="Premiere">Premiere von Musotte, 12.11.1892</eventName>
+        <eventName n="Theaterpremiere">Premiere von Musotte, 12.11.1892</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169479,7 +169485,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35482" when-iso="1899-04-29">
-        <eventName n="Premiere">Premiere von Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter, 29.4.1899</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter, 29.4.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169571,7 +169577,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35479" when-iso="1899-03-01">
-        <eventName n="Uraufführung">Uraufführung von Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter, 1.3.1899</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter, 1.3.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169692,7 +169698,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35439" when-iso="1929-12-21">
-        <eventName n="Uraufführung">Uraufführung von Im Spiel der Sommerlüfte, 21.12.1929</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Im Spiel der Sommerlüfte, 21.12.1929</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169754,7 +169760,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35427" when-iso="1917-11-14">
-        <eventName n="Uraufführung">Uraufführung von Fink und Fliederbusch, 14.11.1917</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Fink und Fliederbusch, 14.11.1917</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169804,7 +169810,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35424" when-iso="1920-03-26">
-        <eventName n="Uraufführung">Uraufführung von Die Schwestern oder Casanova in Spa, 26.3.1920</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Die Schwestern oder Casanova in Spa, 26.3.1920</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169866,7 +169872,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35421" when-iso="1886-01-06">
-        <eventName n="Uraufführung">Uraufführung von Jubiläums-Festspiel, 6.1.1886</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Jubiläums-Festspiel, 6.1.1886</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35421/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207995/</idno>
     <listBibl>
@@ -169892,7 +169898,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35418" when-iso="1931-02-14">
-        <eventName n="Uraufführung">Uraufführung von Der Gang zum Weiher, 14.2.1931</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der Gang zum Weiher, 14.2.1931</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -169960,7 +169966,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35412" when-iso="1915-10-12">
-        <eventName n="Uraufführung">Uraufführung von Komödie der Worte, 12.10.1915</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Komödie der Worte, 12.10.1915</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170031,7 +170037,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35406" when-iso="1898-11-18">
-        <eventName n="Premiere">Premiere von Juana, Abschiedssouper, 18.11.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Juana, Abschiedssouper, 18.11.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170094,7 +170100,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35385" when-iso="1898-11-30">
-        <eventName n="Premiere">Premiere von Das Vermächtnis, 30.11.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Vermächtnis, 30.11.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170156,7 +170162,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35382" when-iso="1898-10-08">
-        <eventName n="Uraufführung">Uraufführung von Das Vermächtnis, 8.10.1898</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Das Vermächtnis, 8.10.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170218,7 +170224,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35379" when-iso="1904-11-22">
-        <eventName n="Uraufführung">Uraufführung von Der tapfere Cassian, Premiere von Der grüne Kakadu, 22.11.1904</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der tapfere Cassian, Premiere von Der grüne Kakadu, 22.11.1904</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170254,7 +170260,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35373" when-iso="1910-01-22">
-        <eventName n="Uraufführung">Uraufführung von Der Schleier der Pierrette, Premiere von Versiegelt, 22.1.1910</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der Schleier der Pierrette, Premiere von Versiegelt, 22.1.1910</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35373/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -170292,7 +170298,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35361" when-iso="1924-10-11">
-        <eventName n="Uraufführung">Uraufführung von Komödie der Verführung, 11.10.1924</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Komödie der Verführung, 11.10.1924</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170354,7 +170360,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35355" when-iso="1912-11-28">
-        <eventName n="Uraufführung">Uraufführung von Professor Bernhardi, 28.11.1912</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Professor Bernhardi, 28.11.1912</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170414,7 +170420,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35331" when-iso="1897-12-23">
-        <eventName n="Uraufführung">Uraufführung von Josephine, 23.12.1897</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Josephine, 23.12.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170449,7 +170455,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35312" when-iso="1898-12-10">
-        <eventName n="Uraufführung">Uraufführung von Der Star, 10.12.1898</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der Star, 10.12.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170478,7 +170484,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35284" when-iso="1893-07-14">
-        <eventName n="Uraufführung">Uraufführung von Abschiedssouper, Aufführung von Fräulein Frau, 14.7.1893</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Abschiedssouper, Aufführung von Fräulein Frau, 14.7.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170547,7 +170553,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35272" when-iso="1904-02-13">
-        <eventName n="Uraufführung">Uraufführung von Der einsame Weg, 13.2.1904</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der einsame Weg, 13.2.1904</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170610,7 +170616,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35257" when-iso="1901-03-08">
-        <eventName n="Uraufführung">Uraufführung von Marionetten [Zum großen Wurstel], 8.3.1901</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Marionetten [Zum großen Wurstel], 8.3.1901</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170639,7 +170645,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35254" when-iso="1914-10-24">
-        <eventName n="Premiere">Premiere von Der junge Medardus, 24.10.1914</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der junge Medardus, 24.10.1914</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170677,7 +170683,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35251" when-iso="1910-11-24">
-        <eventName n="Uraufführung">Uraufführung von Der junge Medardus, 24.11.1910</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der junge Medardus, 24.11.1910</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170789,7 +170795,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35247" when-iso="1910-12-03">
-        <eventName n="Uraufführung">Uraufführung von Anatol, 3.12.1910</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Anatol, 3.12.1910</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170824,7 +170830,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35215" when-iso="1909-01-05">
-        <eventName n="Uraufführung">Premiere von Liebelei, deutschsprachige Uraufführung von Komtesse Mizzi, 5.1.1909</eventName>
+        <eventName n="Theateruraufführung">Premiere von Liebelei, deutschsprachige Uraufführung von Komtesse Mizzi, 5.1.1909</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170899,7 +170905,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35206" when-iso="1896-02-04">
-        <eventName n="Premiere">Premiere von Liebelei, Der zerbrochene Krug, 4.2.1896</eventName>
+        <eventName n="Theaterpremiere">Premiere von Liebelei, Der zerbrochene Krug, 4.2.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -170990,7 +170996,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35203" when-iso="1895-10-09">
-        <eventName n="Uraufführung">Uraufführung von Liebelei, Premiere von Rechte der Seele, 9.10.1895</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Liebelei, Premiere von Rechte der Seele, 9.10.1895</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171154,7 +171160,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35185" when-iso="1909-12-11">
-        <eventName n="Premiere">Premiere von Der Ruf des Lebens, 11.12.1909</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Ruf des Lebens, 11.12.1909</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171232,7 +171238,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35182" when-iso="1909-04-23">
-        <eventName n="Premiere">Premiere von Der Ruf des Lebens, 23.4.1909</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Ruf des Lebens, 23.4.1909</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35182/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209559/</idno>
     <listBibl>
@@ -171258,7 +171264,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35179" when-iso="1906-02-24">
-        <eventName n="Premiere">Premiere von Der Ruf des Lebens, 24.2.1906</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Ruf des Lebens, 24.2.1906</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171363,7 +171369,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35176" when-iso="1905-11-25">
-        <eventName n="Premiere">Premiere von Zwischenspiel, 25.11.1905</eventName>
+        <eventName n="Theaterpremiere">Premiere von Zwischenspiel, 25.11.1905</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171431,7 +171437,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35173" when-iso="1905-10-12">
-        <eventName n="Uraufführung">Uraufführung von Zwischenspiel, 12.10.1905</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Zwischenspiel, 12.10.1905</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171507,7 +171513,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35170" when-iso="1905-06-05">
-        <eventName n="Premiere">Premiere von Sanna, 5.6.1906</eventName>
+        <eventName n="Theaterpremiere">Premiere von Sanna, 5.6.1906</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171551,7 +171557,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35164" when-iso="1905-01-28">
-        <eventName n="Premiere">Premiere von Freiwild, 28.1.1905</eventName>
+        <eventName n="Theaterpremiere">Premiere von Freiwild, 28.1.1905</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171587,7 +171593,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35161" when-iso="1898-02-04">
-        <eventName n="Premiere">Premiere von Freiwild, 4.2.1898</eventName>
+        <eventName n="Theaterpremiere">Premiere von Freiwild, 4.2.1898</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171644,7 +171650,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35155" when-iso="1897-07-22">
-        <eventName n="Premiere">Premiere von Freiwild. Schauspiel in 3 Akten, 22.7.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Freiwild. Schauspiel in 3 Akten, 22.7.1897</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35155/</idno>
         <listBibl>
             <bibl>
@@ -171699,7 +171705,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35152" when-iso="1896-11-03">
-        <eventName n="Uraufführung">Uraufführung von Freiwild, 3.11.1896</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Freiwild, 3.11.1896</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171768,7 +171774,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35113" when-iso="1904-12-12">
-        <eventName n="Premiere">Premiere von Literatur, Die letzten Masken, Der Puppenspieler, 12.12.1904</eventName>
+        <eventName n="Theaterpremiere">Premiere von Literatur, Die letzten Masken, Der Puppenspieler, 12.12.1904</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35113/</idno>
         <listBibl>
             <bibl>
@@ -171842,7 +171848,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35110" when-iso="1903-03-14">
-        <eventName n="Premiere">Premiere von Lebendige Stunden, 14.3.1903</eventName>
+        <eventName n="Theaterpremiere">Premiere von Lebendige Stunden, 14.3.1903</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171877,7 +171883,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35107" when-iso="1902-05-06">
-        <eventName n="Premiere">Premiere von Lebendige Stunden, 6.5.1902</eventName>
+        <eventName n="Theaterpremiere">Premiere von Lebendige Stunden, 6.5.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -171932,7 +171938,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35104" when-iso="1902-01-04">
-        <eventName n="Uraufführung">Uraufführung von Lebendige Stunden, 4.1.1902</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Lebendige Stunden, 4.1.1902</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -172000,7 +172006,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35098" when-iso="1903-03-07">
-        <eventName n="Premiere">Premiere von Der Schleier der Beatrice, 7.3.1903</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der Schleier der Beatrice, 7.3.1903</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -172102,7 +172108,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35095" when-iso="1900-12-01">
-        <eventName n="Uraufführung">Uraufführung von Der Schleier der Beatrice, 1.12.1900</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Der Schleier der Beatrice, 1.12.1900</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -172166,7 +172172,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35092" when-iso="1921-02-01">
-        <eventName n="Premiere">Premiere von Reigen, 1.2.1921</eventName>
+        <eventName n="Theaterpremiere">Premiere von Reigen, 1.2.1921</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -172225,7 +172231,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35077" when-iso="1905-10-14">
-        <eventName n="Premiere">Premiere von Der zerbrochene Krug, Der grüne Kakadu, 14.10.1905</eventName>
+        <eventName n="Theaterpremiere">Premiere von Der zerbrochene Krug, Der grüne Kakadu, 14.10.1905</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -172278,7 +172284,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb35068" when-iso="1893-12-01">
-        <eventName n="Uraufführung">Uraufführung von Das Märchen, 1.12.1893</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Das Märchen, 1.12.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
