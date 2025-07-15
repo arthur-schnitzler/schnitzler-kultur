@@ -240,7 +240,6 @@ canvas.height = 400;    canvas.className = "mb-5 d-block mx-auto";
       },
       legend: {
         display: chartType === 'pie',
-        position: 'right'
       }
     },
     scales: chartType === 'bar' ? {
@@ -265,65 +264,60 @@ canvas.height = 400;    canvas.className = "mb-5 d-block mx-auto";
   });
 }
 
-// Daten laden und Listener setzen
+// Entferne das "#" aus der URL, falls es alleine steht
+if (window.location.hash === "#") {
+  const url = new URL(window.location);
+  url.hash = "";
+  window.history.replaceState({}, "", url);
+}
+
+// Daten laden
 fetch('./js-data/charts_by_year.json')
   .then(response => response.json())
   .then(data => {
-    // Prüfen, ob "alles"-Option schon existiert, wenn nicht hinzufügen
-if (!Array.from(yearSelect.options).some(opt => opt.value === "alle")) {
-  const allOption = document.createElement("option");
-  allOption.value = "alle";
-  allOption.textContent = "Alle";
-  yearSelect.prepend(allOption);
-}
     chartDataByYear = data;
 
     // URL-Parameter lesen
-  const urlParams = new URLSearchParams(window.location.search);
-const paramYear = urlParams.get("jahr") || "alle";  // Fallback lieber explizit
-chartType = urlParams.get("typ") || "pie";
+    const urlParams = new URLSearchParams(window.location.search);
+    const paramYear = urlParams.get("jahr") || "alle";
+    chartType = urlParams.get("typ") || "pie";
 
-// Prüfen, ob "paramYear" in der Selectbox enthalten ist
-if (![...yearSelect.options].some(opt => opt.value === paramYear)) {
-  const opt = document.createElement("option");
-  opt.value = paramYear;
-  opt.textContent = paramYear === "alle" ? "Alle" : paramYear;
-  yearSelect.appendChild(opt);
-}
+    // "Alle"-Option hinzufügen, wenn nicht vorhanden
+    if (![...yearSelect.options].some(opt => opt.value === "alle")) {
+      const allOption = document.createElement("option");
+      allOption.value = "alle";
+      allOption.textContent = "Alle";
+      yearSelect.prepend(allOption);
+    }
 
-yearSelect.value = paramYear;
-updateChartsForYear(paramYear, chartDataByYear);
+    // Falls das Jahr aus der URL nicht in der Selectbox ist, hinzufügen
+    if (![...yearSelect.options].some(opt => opt.value === paramYear)) {
+      const customOption = document.createElement("option");
+      customOption.value = paramYear;
+      customOption.textContent = paramYear === "alle" ? "Alle" : paramYear;
+      yearSelect.appendChild(customOption);
+    }
 
-    // Jahr-Auswahl Listener
+    // Initiale Auswahl setzen
+    yearSelect.value = paramYear;
+    chartTypeToggle.checked = (chartType === "bar");
+
+    // Diagramm initial anzeigen
+    updateChartsForYear(paramYear, chartDataByYear);
+
+    // Jahr-Änderung Listener
     yearSelect.addEventListener("change", () => {
-  console.log("Jahr geändert auf:", yearSelect.value);
+      updateChartsForYear(yearSelect.value, chartDataByYear);
 
-  updateChartsForYear(yearSelect.value, chartDataByYear);
-
-  const url = new URL(window.location);
-  url.searchParams.set("jahr", yearSelect.value);
-  url.searchParams.set("typ", chartType);
-  window.history.replaceState({}, "", url);
-});
-
-    const chartTypeToggle = document.getElementById("chartTypeToggle");
-
-// Initial aus URL setzen
-chartTypeToggle.checked = (chartType === "bar");
-
-chartTypeToggle.addEventListener("change", () => {
-  chartType = chartTypeToggle.checked ? "bar" : "pie";
-  updateChartsForYear(yearSelect.value, chartDataByYear);
-
-  const url = new URL(window.location);
-  url.searchParams.set("typ", chartType);
-  url.searchParams.set("jahr", yearSelect.value);
-  window.history.replaceState({}, "", url);
-});
+      const url = new URL(window.location);
+      url.searchParams.set("jahr", yearSelect.value);
+      url.searchParams.set("typ", chartType);
+      window.history.replaceState({}, "", url);
+    });
 
     // Charttyp-Toggle Listener
-    chartTypeSelect.addEventListener("change", () => {
-      chartType = chartTypeSelect.value;
+    chartTypeToggle.addEventListener("change", () => {
+      chartType = chartTypeToggle.checked ? "bar" : "pie";
       updateChartsForYear(yearSelect.value, chartDataByYear);
 
       const url = new URL(window.location);
@@ -333,10 +327,3 @@ chartTypeToggle.addEventListener("change", () => {
     });
   })
   .catch(err => console.error("Fehler beim Laden der Chart-Daten:", err));
-
-  if (window.location.hash === "#") {
-  const url = new URL(window.location);
-  url.hash = ""; // entfernt das #
-  window.history.replaceState({}, "", url);
-}
-
