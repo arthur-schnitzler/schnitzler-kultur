@@ -10047,7 +10047,7 @@ var calendarData = [
     "name": "Aufführung von Norma, 29.5.1898", "startDate": "1898-05-29", "id": "pmb209019.html"
   },
   {
-    "name": "Aufführung von Die Mütter. Schauspiel in vier Acten, 21.5.1898", "startDate": "1898-05-21", "id": "pmb209018.html"
+    "name": "Aufführung von Die Mütter, 21.5.1898", "startDate": "1898-05-21", "id": "pmb209018.html"
   },
   {
     "name": "Aufführung von Ohne Liebe, Liebelei. Schauspiel in drei Akten, 20.5.1898", "startDate": "1898-05-20", "id": "pmb209017.html"
@@ -10509,7 +10509,7 @@ var calendarData = [
     "name": "Aufführung von Morituri, 29.10.1896", "startDate": "1896-10-29", "id": "pmb208865.html"
   },
   {
-    "name": "Aufführung von Die Mütter. Schauspiel in vier Acten, 27.10.1896", "startDate": "1896-10-27", "id": "pmb208864.html"
+    "name": "Aufführung von Die Mütter, 27.10.1896", "startDate": "1896-10-27", "id": "pmb208864.html"
   },
   {
     "name": "Aufführung von Nathan der Weise, 22.10.1896", "startDate": "1896-10-22", "id": "pmb208863.html"
@@ -10632,7 +10632,7 @@ var calendarData = [
     "name": "Premiere von Das Hotel zum Freihafen, 5.2.1896", "startDate": "1896-02-05", "id": "pmb208823.html"
   },
   {
-    "name": "Aufführung von Die Mütter. Schauspiel in vier Acten, 2.2.1896", "startDate": "1896-02-02", "id": "pmb208822.html"
+    "name": "Aufführung von Die Mütter, 2.2.1896", "startDate": "1896-02-02", "id": "pmb208822.html"
   },
   {
     "name": "Aufführung von Infedele. Commedia in tre atti, 1.2.1896", "startDate": "1896-02-01", "id": "pmb208821.html"
@@ -17169,7 +17169,7 @@ var calendarData = [
     "name": "Uraufführung von Die Athenerin, 19.9.1896", "startDate": "1896-09-19", "id": "pmb42019.html"
   },
   {
-    "name": "Uraufführung Sein Sohn, 16.10.1896", "startDate": "1896-10-16", "id": "pmb42011.html"
+    "name": "Uraufführung von Sein Sohn, 16.10.1896", "startDate": "1896-10-16", "id": "pmb42011.html"
   },
   {
     "name": "Uraufführung Das Bild des Signorelli, 5.1.1894", "startDate": "1894-01-05", "id": "pmb41938.html"
