@@ -43,7 +43,7 @@
                             Privataufführungen, private Konzerte etc.</p>
                         </div>
                         
-                        <div class="mb-4">
+                        <div class="mb-4 mx-auto" style="max-width: 800px;">
                             <div class="d-flex align-items-center gap-2 mb-3 d-block mx-auto">
                                 <label for="chartTypeToggle" class="mb-0">Kreisdiagramm</label>
                                 
