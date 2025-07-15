@@ -33,7 +33,7 @@
                         <h1>
                             <xsl:text>Statistiken</xsl:text>
                         </h1>
-                        <div class="mb-4">
+                        <div class="mb-4 mx-auto" style="max-width: 800px;">
                             <p>Auf dieser Seite finden sich die Arten von Veranstaltungen, die Arthur Schnitzler 
                                 besuchte, in sechs Kategorien (»Theater«, »Musik«, »Film«, »Vortrag«, »anderes« und »Privatveranstaltung«) eingeteilt und zueinander in Verhältnis gesetzt. In Folge
                                 werden dann die Kategorien einzeln aufgeschlüsselt.
