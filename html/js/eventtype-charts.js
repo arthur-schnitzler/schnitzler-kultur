@@ -150,11 +150,8 @@ function updateChartsForYear(year, data) {
 
   const updatedLabels = chartData.labels.map((label, i) => `${label} (${dataset.data[i]})`);
 
-  const baseSize = 200;
-  const scaleFactor = 100;
-  const dynamicSize = Math.round(baseSize + Math.log10(totalEvents + 1) * scaleFactor);
-  anaChartCanvasElement.width = dynamicSize;
-  anaChartCanvasElement.height = dynamicSize;
+anaChartCanvasElement.width = 500;
+anaChartCanvasElement.height = 500;
 
   if (anaChart) anaChart.destroy();
 
@@ -208,12 +205,11 @@ scales: chartType === 'bar' ? {
     const dataset = chartData.datasets[0];
     const subTotal = dataset.data.reduce((sum, val) => sum + val, 0);
 
-    const subSize = Math.round(baseSize + Math.log10(subTotal + 1) * scaleFactor);
+const labelCount = chartData.labels.length;
 
     const canvas = document.createElement("canvas");
-    canvas.width = subSize;
-    canvas.height = subSize;
-    canvas.className = "mb-5 d-block mx-auto";
+canvas.width = 400;
+canvas.height = 400;    canvas.className = "mb-5 d-block mx-auto";
 
     const title = document.createElement("h3");
     title.textContent = `»${anaKey}«: Verteilung`;
@@ -243,7 +239,8 @@ scales: chartType === 'bar' ? {
         text: `${subTotal} Ereignisse`
       },
       legend: {
-        display: chartType === 'pie'
+        display: chartType === 'pie',
+        position: 'right'
       }
     },
     scales: chartType === 'bar' ? {
