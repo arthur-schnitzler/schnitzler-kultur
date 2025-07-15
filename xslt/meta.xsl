@@ -71,25 +71,29 @@
         </ul>
     </xsl:template>
     <xsl:template match="tei:div[@type = 'faq']">
+        <div class="accordion" id="faqAccordion">
+            <xsl:apply-templates select="tei:list/tei:item" mode="faq"/>
+        </div>
+    </xsl:template>
+    <xsl:template match="tei:item" mode="faq">
+        <xsl:variable name="itemId" select="generate-id()"/>
         <div class="accordion-item">
-            <xsl:variable name="faqId" select="@xml:id"/>
-            <h2 class="accordion-header" id="{concat('heading', $faqId)}">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                    data-bs-target="{concat('#collapseCategory', $faqId)}" aria-expanded="false"
-                    aria-controls="{concat('collapseCategory', $faqId)}">
-                    <xsl:value-of select="tei:head[1]"/>
+            <h2 class="accordion-header" id="{concat('heading', $itemId)}">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="{concat('#collapse', $itemId)}" aria-expanded="false"
+                    aria-controls="{concat('collapse', $itemId)}">
+                    <xsl:value-of select="tei:label"/>
                 </button>
             </h2>
-            <div id="{concat('collapseCategory', $faqId)}" class="accordion-collapse collapse"
-                aria-labelledby="{concat('heading', $faqId)}" data-bs-parent="#faqAccordion">
+            <div id="{concat('collapse', $itemId)}" class="accordion-collapse collapse"
+                aria-labelledby="{concat('heading', $itemId)}" data-bs-parent="#faqAccordion">
                 <div class="accordion-body">
-                    <div class="accordion" id="{concat('category', $faqId, 'Accordion')}">
-                        <xsl:apply-templates select="tei:list" mode="faq"/>
-                    </div>
+                    <xsl:apply-templates select="tei:note"/>
                 </div>
             </div>
         </div>
     </xsl:template>
+    
     <xsl:template match="tei:list[parent::tei:div/@type = 'faq']" mode="faq">
         <xsl:apply-templates select="tei:item" mode="faq"/>
     </xsl:template>

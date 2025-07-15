@@ -21,7 +21,8 @@
         <p>Anstelle von Editionsrichtlinien versuchen wir im Folgenden einige Antworten auf häufige
           Fragen zum Projekt zu beantworten.</p>
       </div>
-      <div type="faqs">
+      
+        <div type="faq">
         <list>
           <item>
             <q>Was ist mit »Kulturveranstaltung« gemeint?</q>
@@ -124,9 +125,13 @@
                 rend="italics">A. ist manchmal wie ein kleines Kind. Clara Katharina Pollaczek und
                 Arthur Schnitzler gehen ins Kino</hi> (Wien: Böhlau 2012) erfasst und im Zuge der
               Arbeit an ihrer Edition auch strukturiert (als TEI-XML-Datei) aufbereitet. Wir bekamen
-              die Daten zur Nachnutzung zur Verfügung gestellt. Bei ein paar seltenen Fällen, die
+              freundlicherweise die Daten zur Nachnutzung zur Verfügung gestellt. Danke!</p>
+            <p>Das bedeutet auch,
+              dass die Liste der Kinobesuche (nicht aber Theaterbesuche) von Clara Katharina Pollaczek
+              vollständig ist. In wenigen Fällen, die
               Kinobesuche Schnitzlers abseits der gemeinsamen mit Clara Pollaczek betreffen, konnten
-              wir Filmtitel und/oder Veranstaltungsort nachtragen. Eine Karte der von Schnitzler
+              wir Filmtitel und/oder Veranstaltungsort nachtragen.</p>
+            <p>Eine Karte der von Schnitzler
               besuchten Kinos kann auf der Website <ref type="URL"
                 target="https://wienerschnitzler.org/gesamt_typen.html?types=Kino">Wiener
                 Schnitzler</ref> studiert werden.</p>
@@ -138,12 +143,12 @@
               Detailansicht eines Ortes zu sehen ist, kann eine solche für den Ort gezeigt werden.
               Und über diesen Link zu den <ref type="URL"
                 target="https://wienerschnitzler.org/gesamt_typen.html">Typen</ref> können bestimmte
-              Aufenthaltsortstypen angezeigt werden, beispielsweise alle <ref target="https://wienerschnitzler.org/gesamt_typen.html?types=Kino" type="URL">Kinos</ref>.</p>
+              Aufenthaltsortstypen angezeigt werden, beispielsweise alle <ref target="https://wienerschnitzler.org/gesamt_typen.html?types=Theater" type="URL">Theater</ref>.</p>
           </item>
           <item>
             <q>Wieso steht hier immer wieder ›PMB‹ und was bedeutet das?</q>
             <p>Das <ref target="https://www.oeaw.ac.at/de/acdh/acdh-ch-home">Austrian Centre for
-                Digital Humanities and Cultural Heritage (ACDH-CH)</ref> an der Österreichischen
+                Digital Humanities (ACDH)</ref> an der Österreichischen
               Akademie der Wissenschaften betreibt einen Webservice namens <ref
                 target="https://pmb.acdh.oeaw.ac.at/">PMB – Personen der Moderne Basis</ref> (siehe
               auch den <ref target="https://de.wikipedia.org/wiki/Personen_der_Moderne_Basis"
@@ -155,11 +160,14 @@
           </item>
           <item>
             <q>Was wärt Ihr ohne Peter Andorfer?</q>
-            <p>… nichts. Peter sorgt dafür, dass wir technisches Rückgrat haben. Wir sind zutiefst
+            <p>… nichts! Peter sorgt dafür, dass wir technisches Rückgrat haben. Wir sind uns dieser
+              Stütze nur zu bewusst und 
+              zutiefst
               dankbar.</p>
           </item>
         </list>
-      </div>
+        </div>
+      
     </body>
   </text>
 </TEI>
