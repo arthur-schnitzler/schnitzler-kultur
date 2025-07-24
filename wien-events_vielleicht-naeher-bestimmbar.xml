@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Events, an denen Schnitzler teilgenommen hat, die aber nur Wien als Veranstaltungsort haben.
+Manuell wurden hier bereits einige Veranstaltungen rausgefiltert, die mit sehr großer Sicherheit nicht 
+näher bestimmbar sind (z. B. Filmvorführungen ohne Nennung des Films). -->
+<XML>
+    <event>
+        <eventName n="Empfang">Empfang [?] zu Ehren des Tschechow-Kunsttheaters Moskau,
+            22.4.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/292767/</idno>
+    </event>
+    <event>
+        <eventName n="Ausstellungsbesuch">Ausstellungsbesuch Atelierausstellung von Edmund
+            Pick-Morino, Johanna Kampmann und anderen, 24.3.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/292687/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Herzog von Reichstadt,
+            7.1.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/291287/</idno>
+    </event>
+    <event>
+        <eventName n="Empfang">Empfang zu Ehren Heinrich Manns, 28.10.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/251208/</idno>
+    </event>
+    <event>
+        <eventName n="Probe">Probe von Der Feldherrnhügel, 26.4.1910</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/250008/</idno>
+    </event>
+    <event>
+        <eventName n="Umzug">Jubiläumsfestzug 60 Jahre Regierung Franz Joseph I.,
+            12.6.1908</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/247291/</idno>
+    </event>
+    <event>
+        <eventName n="Konzert">Konzert von Friedrich Bayer, 4.3.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244849/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Tabu, 22.9.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211267/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Salto mortale, 14.9.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211263/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der lächelnde Leutnant,
+            2.9.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211256/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Nie wieder Liebe!, 31.8.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211255/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ich geh’ aus und Du bleibst da,
+            29.7.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211254/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Einbrecher, 1.5.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211239/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Monte Carlo, 27.3.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211227/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von With Byrd at the South Pole,
+            25.3.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211226/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Afrika spricht!, 23.3.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211225/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Liebesexpreß, 17.3.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211222/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Grock, 13.3.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211221/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Drei Tage Liebe, 2.3.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211218/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Herr auf Bestellung,
+            20.2.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211217/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Drei von der Tankstelle,
+            19.2.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211216/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Trial of Mary Dugan,
+            15.2.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211215/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Danton, 8.2.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211213/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Alraune, 27.1.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211211/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Komm’ zu mir zum Rendezvous,
+            25.1.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211210/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Kap der Verlorenen,
+            15.1.1931</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211209/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Olympia, 26.12.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211206/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Kiebitz, 18.12.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211204/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Westfront 1918, 17.12.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211203/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Walzer im Schlafcoupé,
+            11.12.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211202/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Geschlecht in Aufruhr,
+            10.12.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211201/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Csikosbaroness, 28.11.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211200/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Land des Lächelns,
+            25.11.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211199/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Geld auf der Straße, 23.11.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211197/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Liebe und Champagner,
+            29.10.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211191/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Dolly macht Karriere,
+            26.10.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211190/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Dreyfus, 23.10.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211189/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Wie werde ich reich und glücklich?,
+            9.10.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211186/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Greifer, 28.9.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211185/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der große Gabbo, 26.9.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211184/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Seine Freundin Annette,
+            19.9.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211183/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Lindenwirtin, 14.9.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211182/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Single Standard, 12.9.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211181/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eine schwache Stunde, 24.8.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211175/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Stud. chem. Helene Willfüer,
+            29.6.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211169/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Hab’ Sonne im Herzen, 27.6.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211168/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Sehnsucht jeder Frau,
+            17.6.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211167/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Phantome des Glücks, 15.6.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211166/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Delikatessen, 11.6.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211165/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das nackte Mädchen, 29.5.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211163/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Kuß, 24.5.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211160/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Diane, 16.5.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211158/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Tiger, 5.5.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211155/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Warschauer Zitadelle,
+            3.5.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211154/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Nacht gehört uns, 30.4.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211153/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Scapa Flow, 20.4.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211151/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Teufel von Alaska und Weib und
+            Hampelmann, 17.4.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211150/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Turksib, 14.4.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211149/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die letzte Kompagnie, 9.4.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211147/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Hochstapler, 7.4.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211146/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Aus dem Tagebuch eines Verführers,
+            3.4.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211145/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Manhattan Cocktail, 27.3.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211144/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Lied von Paris, 25.3.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211143/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Gefangene von St. Helena,
+            21.3.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211141/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Student, 14.3.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211139/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die neuen Herren, 12.3.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211138/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der unsterbliche Lump, 7.3.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211137/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Hochzeit in Hollywood,
+            23.2.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211135/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das brennende Herz, 14.2.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211133/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Dame aus Moskau, 5.2.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211132/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der weiße Teufel, 4.2.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211131/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der weiße Tiger, 27.1.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211130/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Prividenie, kotoroje ne
+            woswraschtschajetsja, 16.1.1930</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211127/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Frau im Mond, 25.12.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211122/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die unvollkommene Ehe,
+            5.12.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211120/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Outcast, 3.12.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211119/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eine schamlose Frau, 23.11.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211118/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die fliegende Flotte,
+            22.11.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211117/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Bruder Bernhard, 19.11.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211116/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Sünden der Väter, 13.11.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211114/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Dragnet, 8.11.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211113/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Quartier Latin, 2.11.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211111/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Es flüstert die Nacht,
+            26.10.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211109/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Kameramann, 25.10.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211108/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die wunderbare Lüge der Nina Petrowna,
+            19.10.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211106/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Hochverrat, 16.10.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211105/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die weiße Hölle vom Piz Palü,
+            14.10.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211104/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Manolescu, 10.10.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211103/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Alkohol, 8.10.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211102/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Harakiri, 5.10.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211101/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der singende Narr, 25.9.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211098/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Weiße Schatten, 24.9.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211097/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Barker, 6.8.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211089/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Hurra! Ich lebe!, 31.7.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211087/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Actress, 27.7.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211086/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der exotische Klub, 24.7.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211085/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Big Parade, 15.6.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211083/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Angst, 14.6.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211082/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Dr. Bessel’s Verwandlung,
+            11.6.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211081/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Flesh and the Devil, 10.6.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211080/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Insel der Liebe, 3.6.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211079/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Tänzerin Orchidee,
+            31.5.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211078/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die letzte Warnung, 30.5.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211077/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Spelunke, 21.5.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211076/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Cagliostro, 18.5.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211075/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Robert und Bertram, 17.5.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211074/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Spreewaldmädel, 8.5.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211073/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die kleine Sklavin, 7.5.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211072/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das göttliche Weib, 5.5.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211071/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von La Passion de Jeanne d’Arc,
+            4.5.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211070/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der lebende Leichnam, 24.4.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211068/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von L’Argent, 20.4.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211067/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Serenade, 13.4.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211066/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Heut’ spielt der Strauß,
+            12.4.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211065/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Spion der Pompadour,
+            10.4.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211064/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Sturm über Asien, 8.4.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211063/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Champagner, 30.3.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211062/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Jazzsänger, 9.3.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211057/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Adjutant des Zaren,
+            7.3.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211056/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Büchse der Pandora,
+            6.3.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211055/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von A Night of Mystery, 25.2.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211054/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Sturm, 23.2.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211053/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Lilac Time, 22.2.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211052/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die gelbe Lilie, 14.2.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211050/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der geheime Kurier, 9.2.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211049/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Untersee, 6.2.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211048/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Patriot, 1.2.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211047/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der gelbe Paß, 26.1.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211046/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Kampf ums Matterhorn,
+            11.1.1929</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211045/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Red Dance, 15.12.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211042/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Lautensänger Hans in der Gand,
+            12.12.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211041/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Rekord- und Herzensbrecherin,
+            5.12.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211040/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Präsident, 1.12.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211039/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Wera Mirzewa, 28.11.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211038/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Moulin Rouge, 23.11.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211037/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Bettelstudent, 12.11.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211036/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Madonna im Schlafwagen,
+            9.11.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211035/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die große Abenteuerin,
+            6.11.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211033/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Alraune, 3.11.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211032/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Underworld, 31.10.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211031/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Private Life of Helen of Troy,
+            27.10.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211030/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Zwillingsbrüder, 24.10.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211029/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von La storia di una piccola Parigina,
+            18.10.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211027/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Wings, 1.10.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211021/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die letzte Galavorstellung des Zirkus
+            Wolfson, 28.9.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211020/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Haus zur roten Laterne,
+            25.9.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211019/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Zwischen drei Frauen, 18.9.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211018/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Artisten, 6.9.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211015/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Spione, 5.9.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211014/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Flirten verboten!, 12.8.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211012/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die letzten Nächte einer schönen Frau,
+            10.7.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211009/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Frauen im Abgrund, 8.6.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211003/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Bekenntnisse einer Sechzehnjährigen,
+            7.6.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211002/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Berlin. Die Sinfonie der Großstadt,
+            2.6.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/211000/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Luther – Ein Film der deutschen
+            Reformation, 31.5.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210999/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Gay Deceiver, 27.5.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210998/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die elf Teufel, 26.5.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210997/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Höhere Töchter, 19.5.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210995/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ein Kind der Straße, 17.5.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210994/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Samy Weinstein’s Erbe,
+            11.5.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210992/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von André Cornélis, 8.5.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210990/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Ausgestoßenen, 4.5.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210989/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Spionin, 11.4.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210987/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von La Vestale du Gange, 7.4.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210986/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Liebe und Diebe, 3.4.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210984/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das grobe Hemd, 2.4.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210983/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Mädchen aus den Tropen,
+            31.3.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210982/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Erwachen des Weibes,
+            27.3.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210981/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die berühmte Frau, 17.3.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210980/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von La Revue des Revues, 16.3.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210979/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Orchids and Hermine und Wie heirate ich
+            meinen Chef?, 14.3.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210978/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Hochzeitsreise, 11.3.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210976/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Resurrection, 10.3.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210975/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Cat and the Canary,
+            3.3.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210974/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Fürst der Gasse, 2.3.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210973/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die große Pause, 29.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210972/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ergib Dich, Weib!, 27.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210971/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Vierundzwanzig Stunden aus dem Leben einer
+            Frau, 25.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210970/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Landarzt, 24.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210969/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Leidenschaft, 23.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210968/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Korsaren, 22.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210967/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Primanerliebe, 19.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210965/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Bett und Sofa, 15.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210964/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Glanz und Elend der Kurtisanen,
+            14.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210963/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Orlow, 10.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210962/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Circus, 3.2.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210960/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Weber, 25.1.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210958/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Hans engelska fru, 21.1.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210956/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Stacheldraht, 17.1.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210955/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Doña Juana, 14.1.1928</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210954/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Frauenhaus von Rio,
+            21.12.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210951/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Chang, der König der Dschungel,
+            19.12.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210950/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Katzensteg, 17.12.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210949/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die tolle Lola, 11.12.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210947/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ein rheinisches Mädchen beim rheinischem
+            Wein, 22.11.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210944/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Mutter, 21.11.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210943/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Spanische Liebesnächte und Die Spielerin,
+            17.11.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210942/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Don Quixote, 15.11.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210941/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Napoleon, 14.11.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210940/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der tanzende Tor, 12.11.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210939/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Amor in der Stadtbahn,
+            9.11.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210938/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Casanova, 4.11.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210937/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Meister der Welt, 2.11.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210936/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Don Juan, 29.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210935/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Tingel Tangel, 27.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210934/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Sein größter Bluff, 25.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210933/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Frauengasse von Algier,
+            20.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210932/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Gefährliche Fahrt, 18.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210931/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Unter Ausschluß der Öffentlichkeit,
+            15.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210930/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Frau ohne Namen, 11.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210929/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Hotel Stadt Lemberg, 8.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210928/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Strecke, 5.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210927/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Liebschaften der Leopoldine Habsburger,
+            1.10.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210926/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Brennende Grenze, 22.9.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210924/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Vera, der fliegende Schmetterling,
+            20.9.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210923/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Spork’schen Jäger,
+            19.9.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210922/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Arme kleine Colombine, 9.8.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210919/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Tagebuch einer Verlorenen,
+            7.8.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210918/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die leichte Isabell, 4.8.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210917/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Zirkus Renz, 2.8.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210916/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Postmeister, 29.7.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210915/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Sklaven der Roulette, 23.7.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210914/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Weib des Pharao, 11.7.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210913/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Mord in der Villa,
+            27.6.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210911/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der gute Ruf, 24.6.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210910/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Крылья холопа, 22.6.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210909/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Tragödie einer Ehe, 17.6.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210908/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Schwester Veronika, 13.6.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210907/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Syd, das Mädchen für alles,
+            11.6.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210906/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Wenn das Herz der Jugend spricht,
+            6.6.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210905/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Mark of Zorro, 1.6.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210904/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Hochzeitsnacht, 25.5.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210903/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Harem von Buchara,
+            16.5.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210902/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von So This Is Paris, 14.5.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210901/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ledige Töchter, 12.5.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210900/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Riese der Dolomiten,
+            9.5.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210899/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von What Happened to Jones,
+            7.5.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210898/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Sadismus, 2.5.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210897/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Liebschaften der Gräfin Sonja,
+            14.4.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210894/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Liebe, 12.4.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210893/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Lady Windermere’s Fan, 9.4.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210892/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Gefährliche Seitensprünge,
+            2.4.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210891/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Nur eine Tänzerin, 30.3.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210890/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Soldat der Marie, 26.3.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210888/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Auf der Alm da gibts ka Sünd’,
+            18.3.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210887/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die lebende Maske, 17.3.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210886/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Nixchen, 1.3.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210884/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Dämon Weib, 25.2.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210883/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Mit dem Motorrad über die Wolken,
+            24.2.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210882/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Metropolis, 23.2.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210881/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Man spielt nicht mit der Liebe,
+            19.2.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210880/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Familie ohne Moral,
+            18.2.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210879/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Sohn des Scheich, 11.2.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210878/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Meineidbauer, 10.2.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210877/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Im Banne der ewigen Stadt,
+            4.2.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210876/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die große Zirkusattraktion,
+            3.2.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210875/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Königin der Riviera,
+            25.1.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210874/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Student von Prag, 15.1.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210873/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Großfürstin und der Kellner,
+            12.1.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210872/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Pratermizzi, 7.1.1927</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210871/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Prinz und die Kokotte,
+            13.12.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210870/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ich habe deine Frau verführt!,
+            7.12.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210869/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Volga Boatman, 4.12.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210868/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ben-Hur: A Tale of the Christ,
+            24.11.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210867/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Geheimnis einer Stunde,
+            23.11.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210866/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Geiger von Florenz,
+            22.11.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210865/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Wien, wie es weint und lacht,
+            19.11.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210864/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Nanette macht alles, 14.11.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210863/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Heiliger Berg, 13.11.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210862/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Fünf-Uhr-Tee in der Annagasse,
+            9.11.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210861/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Michel Strogoff, 8.11.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210860/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die letzten Tage von Pompeji [Teil 2],
+            27.10.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210857/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ein Walzertraum, 23.10.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210856/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Wir sind vom k.u.k. Infanterieregiment,
+            22.10.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210855/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die letzten Tage von Pompeji [Teil 1],
+            15.10.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210853/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Adler, 13.10.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210852/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Brüder Schellenberg,
+            12.10.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210850/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Lieblingsfrau des Maharadscha,
+            5.10.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210849/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Schloßherrin des Libanon,
+            29.9.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210848/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Kleine vom Bummel,
+            27.9.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210847/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eine anständige Frau, 22.9.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210846/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Wenn Männer wüßten...,
+            20.9.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210845/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Cobra, 16.9.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210844/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der goldene Schmetterling,
+            14.9.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210843/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Empty Hearts, 1.8.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210837/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Gösta Berling, 16.7.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210836/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Volk in Not, 10.7.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210835/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Irrgarten der Leidenschaft,
+            9.7.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210834/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Mißratene Eltern, 7.7.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210833/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Puppenkönigin, 5.7.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210832/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Wachsfigurenkabinett,
+            1.7.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210831/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das indische Grabmal [Teil 2],
+            24.6.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210830/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das indische Grabmal [Teil 1],
+            23.6.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210829/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Rosenkavalier, 21.6.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210828/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Mordfall Straaten,
+            19.6.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210827/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die eiserne Braut, 8.6.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210825/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von L’Abbé Constantin, 6.6.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210824/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Bonjour Paris, 4.6.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210823/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Seitensprung ins Glück,
+            31.5.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210822/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eine von den Vielen, 29.5.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210821/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Verrufenen, 27.5.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210820/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Rat, 26.5.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210819/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Mann ohne Schlaf, 12.4.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210812/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Kiss Me Again, 6.4.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210810/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Venus von Montmatre,
+            31.3.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210809/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Goldrausch, 29.3.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210808/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Into the Net, 10.3.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210807/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eifersucht, 9.3.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210806/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Liebe macht blind, 5.3.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210805/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Varieté, 22.2.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210804/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Feuerroß, 19.2.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210802/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Madame Sans-Gene, 1.2.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210800/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Schmetterlingsschlacht,
+            28.1.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210799/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eine Schreckensnacht auf dem Meere,
+            27.1.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210798/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von East of Suez, 20.1.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210797/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Gardeoffizier, 15.1.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210796/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Phantom der Oper, 13.1.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210795/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Frau im Feuer, 7.1.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210794/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der König der Radfahrer,
+            5.1.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210793/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Frau für vierundzwanzig Stunden,
+            2.1.1926</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210792/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die beiden Musikanten,
+            28.12.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210789/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Wenn ein Mädel sich geirrt hat,
+            23.12.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210788/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ihre Liebesgeschichte,
+            18.12.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210786/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Pariser Maitressen, 14.12.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210785/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Guillotine, 10.12.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210784/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Flaming Youth, 2.12.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210782/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Navigator, 24.11.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210781/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Monsieur Beaucaire, 22.11.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210780/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die freudlose Gasse, 21.11.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210779/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Flug um den Erdball,
+            17.11.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210778/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Rosita, die Straßensängerin,
+            16.11.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210777/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Spielzeug von Paris,
+            12.11.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210776/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Paris!, 3.11.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210775/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das große Glück, 27.10.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210774/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Windstärke 9, 26.10.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210773/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Liebe des Maharadscha,
+            24.10.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210772/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Durch Sünde zum Ruhm,
+            22.10.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210771/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Mädel aus Wien, 6.10.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210767/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Großstadtkavaliere, 4.10.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210766/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Zarin, 30.9.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210765/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ich liebe dich!, 28.9.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210764/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Frauenverächter, 27.7.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210760/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Schrecken des unterirdischen Paris,
+            7.6.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210757/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Seine durchgegangene Frau,
+            3.6.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210756/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die weiße Schwester, 25.5.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210755/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Liebessünden, 20.5.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210754/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Schule der Kokotten,
+            5.5.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210753/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Im Paradies der Reichen und Sunnyside,
+            28.4.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210752/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Michael, 24.4.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210751/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Gräfin Donelli, 21.4.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210750/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Nju, 3.4.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210747/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eine tolle Hochzeitsnacht,
+            1.4.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210746/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von A Society Scandal, 28.3.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210745/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Drei selige Wochen, 10.3.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210741/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Sünderin, 7.3.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210740/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Orlac’s Hände, 6.3.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210739/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der letzte Mann, 4.3.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210738/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Bacchantin, 3.3.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210737/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Komödie des Herzens, 2.3.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210736/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Zaza, 28.2.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210735/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Pension Groonen und Auf gefährlichen
+            Spuren, 26.2.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210734/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ingeborg, 25.2.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210733/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Mann ohne Nerven, 23.2.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210732/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Oberst Redl, 21.2.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210731/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Liebesinsel, 16.2.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210729/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das goldene Kalb, 14.2.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210728/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der verlorene Schuh, 7.2.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210727/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Carlos und Elisabeth, 5.1.1925</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210724/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Liebesbrief, 26.12.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210723/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Teufelsmädchen, 17.12.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210722/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Pratertraum, 12.12.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210721/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Schmuggler von Lugano,
+            10.12.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210720/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Nibelungen [Teil 2?],
+            3.12.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210719/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Nibelungen [Teil 1],
+            1.12.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210718/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Rund um die Ehe, 28.11.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210717/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Sklavenkönigin, 24.11.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210716/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Königsmark [Teil 2], 22.11.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210715/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Königsmark [Teil 1], 19.11.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210714/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Nachtigall von New York,
+            11.11.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210713/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Helena, 7.11.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210711/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Schlacht, 31.10.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210710/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Seine höchste Leistung,
+            30.10.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210709/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die malayische Dschonke,
+            29.10.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210708/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Hollywood, 21.10.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210707/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Cheat, 16.10.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210706/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Temple of Venus, 7.10.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210705/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Le petit Jacques, 4.10.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210704/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Dr. Jack, 3.10.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210703/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ihr schlechter Ruf, 30.9.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210702/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Jedermanns Weib, 26.9.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210700/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Kohlhiesels Töchter, 12.9.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210693/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Brigantenrache, 4.8.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210686/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Geld und Weib, 1.8.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210685/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von East is west, 29.7.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210684/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Abgründe der Liebe, 25.7.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210683/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Ende vom Liede, 19.7.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210682/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Mädchenlos, 17.7.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210681/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Les Misérables, 10.7.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210680/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Geldteufel, 24.6.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210677/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Unbekannte, 21.6.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210676/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Im Rausche der Leidenschaft,
+            13.6.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210675/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Versengte Flügel, 7.6.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210674/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Fast Mail, 27.5.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210672/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Ein Glas Wasser, 19.5.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210671/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eine geheimnisvolle Nacht,
+            9.5.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210669/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die verfluchte Stadt, 3.5.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210668/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Rivale der Kaiserin,
+            2.5.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210667/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Mann ohne Herz, 28.4.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210666/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Her Gilded Cage, 26.4.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210665/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das alte Gesetz, 22.4.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210664/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von The Three Must-Get-There,
+            20.4.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210663/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Herr der Steppe, 15.4.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210662/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Fascination, 7.4.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210661/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Alt-Heidelberg, 31.3.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210660/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das verbotene Land, 29.3.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210659/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Geschichte einer Nacht,
+            17.3.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210657/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Zirkuskind, 15.3.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210656/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das jungfräuliche Paradies,
+            4.3.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210653/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die unmögliche Frau, 12.2.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210650/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die brennende Kugel, 7.2.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210649/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Karussell des Lebens,
+            28.1.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210648/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Schule der Liebe, 24.1.1924</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210647/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Scheik, 5.12.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210638/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Polikuschka, 28.11.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210636/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Alles für Geld, 26.11.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210635/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Irrende Seelen, 18.10.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210631/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Tragödie der Liebe (4. Teil),
+            6.10.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210627/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Flamme, 21.4.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210616/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Fridericus Rex, 24.2.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210607/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eine Fuchsjagd auf Skiern durchs Engadin,
+            5.2.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210605/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Graf von Charolais,
+            1.2.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210604/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Miß Venus, 7.1.1923</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210602/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Schminke, 28.9.1922</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210586/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Hintertreppe, 25.2.1922</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210573/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Erotikon, 13.2.1922</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210571/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Prinz und Bettelknabe,
+            26.3.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210553/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Katharina die Große, 16.3.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210550/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Eye for Eye, 4.3.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210547/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Glaube und Heimat, 25.2.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210546/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Anna Boleyn, 12.2.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210545/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Madame Récamier, 8.2.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210543/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Graf von Cagliostro,
+            3.2.1921</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210542/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Goldfieber, 30.12.1920</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210538/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Herrin der Welt. 1. Teil,
+            11.12.1920</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210536/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Draga Maschin, 6.11.1920</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210532/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Das Cabinet des Dr. Caligari,
+            5.10.1920</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210527/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Die Pest in Florenz, 22.3.1920</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210522/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Madame Dubarry, 9.2.1920</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210518/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der eiserne Wille, 5.7.1918</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210516/</idno>
+    </event>
+    <event>
+        <eventName n="Filmvorführung">Filmvorführung von Der Traum eines österreichischen
+            Reservisten, 13.4.1915</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210503/</idno>
+    </event>
+    <event>
+        <eventName n="Klavierkonzert">Klavierkonzert von Margarete Gelbard, 17.2.1916</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209812/</idno>
+    </event>
+    <event>
+        <eventName n="Klavierkonzert">Klavierkonzert von Moriz Rosenthal, 30.11.1905</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209394/</idno>
+    </event>
+    <event>
+        <eventName n="Sinfoniekonzert">Symphoniekonzert, 8.1.1903</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209275/</idno>
+    </event>
+    <event>
+        <eventName n="Quartett">Konzert des Rosé-Quartetts, 7.1.1902</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209230/</idno>
+    </event>
+    <event>
+        <eventName n="Vorlesung">Vorlesung, 8.11.1900</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209168/</idno>
+    </event>
+    <event>
+        <eventName n="Quartett">Konzert des Rosé-Quartetts, 17.12.1897</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208987/</idno>
+    </event>
+    <event>
+        <eventName n="Liederkonzert">Konzert der Singspielhalle Böhm, 6.10.1892</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208576/</idno>
+    </event>
+    <event>
+        <eventName n="Vortrag">Vortrag von Friedrich Eckstein über Okkultismus,
+            29.3.1892</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208547/</idno>
+    </event>
+    <event>
+        <eventName n="Generalprobe">Generalprobe des großen Damenabends, 28.3.1892</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208544/</idno>
+    </event>
+    <event>
+        <eventName n="Vorlesung">Vorlesung von Emanuel Reicher, 7.2.1892</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208528/</idno>
+    </event>
+    <event>
+        <eventName n="Hausball">Hausball bei Strauss, 18.1.1890</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208370/</idno>
+    </event>
+    <event>
+        <eventName n="Liederkonzert">Konzert von Albert Hirsch, 21.12.1889</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208362/</idno>
+    </event>
+    <event>
+        <eventName n="Konzert">Konzert mit Gustav Kühle und Malvine Drucker, 26.4.1889</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208330/</idno>
+    </event>
+    <event>
+        <eventName n="Maskenball">Maskenball, 23.2.1889</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208313/</idno>
+    </event>
+    <event>
+        <eventName n="Maskenball">Maskenball, 20.2.1889</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208312/</idno>
+    </event>
+    <event>
+        <eventName n="Soirée">Soirée bei Jakob? Fürst, 26.1.1889</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208305/</idno>
+    </event>
+    <event>
+        <eventName n="Polterabend">Polterabend von Zinner, 1.1.1889</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208294/</idno>
+    </event>
+    <event>
+        <eventName n="Soirée">Soirée bei Schwarz, 14.3.1887</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208129/</idno>
+    </event>
+    <event>
+        <eventName n="Feier">Bauernball-Café, 3.3.1887</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208122/</idno>
+    </event>
+    <event>
+        <eventName n="Soirée">Soirée bei Feinberg, 7.2.1887</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208102/</idno>
+    </event>
+    <event>
+        <eventName n="Spielabend">Spielabend von J. Löti, 27.1.1887</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208093/</idno>
+    </event>
+    <event>
+        <eventName n="Damenabend">Damenabend, 22.1.1887</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208092/</idno>
+    </event>
+    <event>
+        <eventName n="Hochzeit">Hochzeit von Anton Wassing und Paula Jallowetz,
+            19.12.1886</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208082/</idno>
+    </event>
+    <event>
+        <eventName n="Hausball">Hausball bei Feinberg, 28.2.1886</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208014/</idno>
+    </event>
+    <event>
+        <eventName n="Maskenball">Maskenball, 27.2.1886</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208013/</idno>
+    </event>
+    <event>
+        <eventName n="Maskenball">Maskenball, 16.1.1886</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208001/</idno>
+    </event>
+    <event>
+        <eventName n="Volksgesang">Gesangskonzert von Wenzel Seidl und Wilhelm Wiesberg,
+            9.9.1885</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207939/</idno>
+    </event>
+    <event>
+        <eventName n="Kränzchen">Heller-Kränzchen, 7.3.1885</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207902/</idno>
+    </event>
+    <event>
+        <eventName n="Soirée">Soirée Goterbom bei Lippmans, 23.1.1882</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207730/</idno>
+    </event>
+    <event>
+        <eventName n="Hochzeit">Hochzeit und Tanz bei Adler, 17.5.1881</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207692/</idno>
+    </event>
+    <event>
+        <eventName n="Soirée-dansante">Soirée dansante bei Klein, 23.2.1881</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207665/</idno>
+    </event>
+    <event>
+        <eventName n="Soirée">Soirée musicale bei Dr. Löw, 6.1.1881</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207644/</idno>
+    </event>
+    <event>
+        <eventName n="Generalprobe">Generalprobe von Karussell, 15.4.1880</eventName>
+        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207577/</idno>
+    </event>
+</XML>
