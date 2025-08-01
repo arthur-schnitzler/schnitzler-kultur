@@ -8,13 +8,138 @@ function createyearcell(val) {
 </div>` : '';
 }
 
+// Map specific event types to main categories and colors
+function getEventTypeCategory(eventType) {
+  // Map from eventTypes.xml "description" to main category
+  const typeToCategory = {
+    // Theater category
+    'Theateraufführung': 'Theater',
+    'Generalprobe': 'Theater',
+    'Probe': 'Theater',
+    'Theaterpremiere': 'Theater',
+    'Theateruraufführung': 'Theater',
+    'Marionettentheater': 'Theater',
+    'Kostümprobe': 'Theater',
+    'Schulaufführung': 'Theater',
+    'Arrangierprobe': 'Theater',
+    'Studierendenaufführung': 'Theater',
+    'Leseprobe': 'Theater',
+    'Puppenspiel': 'Theater',
+    'Matinée': 'Theater',
+    
+    // Musik category  
+    'Quartett': 'Musik',
+    'Orchesterkonzert': 'Musik',
+    'Konzert': 'Musik',
+    'Operettenaufführung': 'Musik',
+    'Opernaufführung': 'Musik',
+    'Kompositionskonzert': 'Musik',
+    'Violinkonzert': 'Musik',
+    'Musikpremiere': 'Musik',
+    'Liederkonzert': 'Musik',
+    'Ballett': 'Musik',
+    'Tanzaufführung': 'Musik',
+    'Philharmonisches Konzert': 'Musik',
+    'Trio': 'Musik',
+    'Klavierkonzert': 'Musik',
+    'Wohltätigkeitskonzert': 'Musik',
+    'Violin-Klavier-Konzert': 'Musik',
+    'Musikuraufführung': 'Musik',
+    'Chorgesang': 'Musik',
+    'Sinfoniekonzert': 'Musik',
+    'Revue': 'Musik',
+    'Varieté': 'Musik',
+    'Kammermusikkonzert': 'Musik',
+    'Gesellschaftskonzert': 'Musik',
+    'Cellokonzert': 'Musik',
+    'Schulkonzert': 'Musik',
+    'Tanz': 'Musik',
+    'Orgelkonzert': 'Musik',
+    'Volksgesang': 'Musik',
+    
+    // Vortrag category
+    'Private Lesung': 'Vortrag',
+    'Vorlesung': 'Vortrag',
+    'Lesung': 'Vortrag',
+    'Vortrag': 'Vortrag',
+    
+    // Film category
+    'Filmvorführung': 'Film',
+    'Private Filmvorführung': 'Film',
+    'Filmpremiere': 'Film',
+    'Varieté und Filmvorführung': 'Film',
+    
+    // Privatveranstaltung category
+    'Diner': 'Privatveranstaltung',
+    'Hochzeit': 'Privatveranstaltung',
+    'Redoute': 'Privatveranstaltung',
+    'Privater Vortrag': 'Privatveranstaltung',
+    'Beerdigung': 'Privatveranstaltung',
+    'Privates Konzert': 'Privatveranstaltung',
+    'Ball': 'Privatveranstaltung',
+    'Fest': 'Privatveranstaltung',
+    'Hausball': 'Privatveranstaltung',
+    'Soirée': 'Privatveranstaltung',
+    'Polterabend': 'Privatveranstaltung',
+    'Silberne Hochzeit': 'Privatveranstaltung',
+    'Maskenball': 'Privatveranstaltung',
+    'Souper': 'Privatveranstaltung',
+    'Kostümfest': 'Privatveranstaltung',
+    'Spielabend': 'Privatveranstaltung',
+    'Damenabend': 'Privatveranstaltung',
+    'Gesellschaftsabend': 'Privatveranstaltung',
+    'Soirée-dansante': 'Privatveranstaltung',
+    'Privataufführung': 'Privatveranstaltung'
+  };
+  
+  return typeToCategory[eventType] || 'anderes';
+}
+
+function getEventColor(eventTypeOrName, eventObj = null) {
+  let category;
+  
+  if (eventObj && eventObj.type) {
+    // Use the structured type data from XML
+    category = getEventTypeCategory(eventObj.type);
+  } else {
+    // Fallback to text analysis for backwards compatibility
+    const name = eventTypeOrName.toLowerCase();
+    if (name.includes('sitzung') || name.includes('tagung') || name.includes('vorstandssitzung')) {
+      category = 'anderes';
+    } else if (name.includes('aufführung') || name.includes('generalprobe') || name.includes('theater') || name.includes('oper')) {
+      category = 'Theater';
+    } else if (name.includes('konzert') || name.includes('zyklus') || name.includes('klavierkonzert') || name.includes('sonatenabend') || name.includes('quartett')) {
+      category = 'Musik';
+    } else if (name.includes('ausstellung')) {
+      category = 'anderes';
+    } else if (name.includes('lesung')) {
+      category = 'Vortrag';
+    } else if (name.includes('empfang') || name.includes('heurigen')) {
+      category = 'anderes';
+    } else {
+      category = 'anderes';
+    }
+  }
+  
+  // Map categories to colors
+  switch (category) {
+    case 'Theater': return '#A23B72'; // Pink/Magenta für Theater
+    case 'Musik': return '#F18F01'; // Orange für Musik
+    case 'Vortrag': return '#592E83'; // Lila für Vorträge/Lesungen
+    case 'Film': return '#6A4C93'; // Dunkellila für Film
+    case 'Privatveranstaltung': return '#037A33'; // Grün für Private Events
+    case 'anderes': 
+    default: return '#2E86AB'; // Blau für Sitzungen/anderes
+  }
+}
+
 var data = calendarData.map(r =>
 ({
   startDate: new Date(r.startDate),
   endDate: new Date(r.startDate),
   name: r.name,
   linkId: r.id,
-  color: '#AC7790'
+  color: getEventColor(r.name, r)
 })).filter(r => r.startDate.getFullYear() === 1876);
 
 
@@ -23,6 +148,48 @@ var yearsTable = document.getElementById('years-table');
 for (var i = 0; i <= years.length; i++) {
   yearsTable.insertAdjacentHTML('beforeend', createyearcell(years[i]));
 }
+
+// Create color legend
+function createColorLegend() {
+  const legends = [
+    { color: '#A23B72', label: 'Theater' },
+    { color: '#F18F01', label: 'Musik' },
+    { color: '#592E83', label: 'Vorträge/Lesungen' },
+    { color: '#6A4C93', label: 'Film' },
+    { color: '#037A33', label: 'Privatveranstaltungen' },
+    { color: '#2E86AB', label: 'Sitzungen/Anderes' }
+  ];
+
+  const legendContainer = document.createElement('div');
+  legendContainer.id = 'calendar-legend';
+  legendContainer.className = 'calendar-color-legend';
+  
+  const legendTitle = document.createElement('h6');
+  legendTitle.textContent = 'Event-Kategorien:';
+  legendTitle.style.marginBottom = '10px';
+  legendContainer.appendChild(legendTitle);
+
+  const legendList = document.createElement('div');
+  legendList.className = 'legend-items';
+  
+  legends.forEach(item => {
+    const legendItem = document.createElement('div');
+    legendItem.className = 'legend-item';
+    legendItem.innerHTML = `
+      <span class="legend-color" style="background-color: ${item.color}"></span>
+      <span class="legend-label">${item.label}</span>
+    `;
+    legendList.appendChild(legendItem);
+  });
+  
+  legendContainer.appendChild(legendList);
+  
+  // Insert legend after years table
+  yearsTable.parentNode.insertBefore(legendContainer, yearsTable.nextSibling);
+}
+
+// Create the legend
+createColorLegend();
 
 //document.getElementById("ybtn1900").classList.add("focus");
 
@@ -55,7 +222,7 @@ function updateyear(year) {
     endDate: new Date(r.startDate),
     name: r.name,
     linkId: r.id,
-    color: '#AC7790'
+    color: getEventColor(r.name, r)
   })).filter(r => r.startDate.getFullYear() === parseInt(year));
   calendar.setDataSource(dataSource);
 }

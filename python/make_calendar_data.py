@@ -25,11 +25,13 @@ for event in events:
 
     if xml_id and when_iso and event_name_elem is not None:
         event_name = event_name_elem.text.strip()
+        event_type = event_name_elem.attrib.get("n")  # Extract the "n" attribute
 
         entry = {
             "name": event_name,
             "startDate": when_iso,
-            "id": f"{xml_id}.html"
+            "id": f"{xml_id}.html",
+            "type": event_type if event_type else "anderes"  # Default to "anderes" if no type
         }
         entries.append(entry)
 
@@ -40,7 +42,8 @@ with open(output_file, "w", encoding="utf-8") as f:
         comma = "," if i < len(entries) - 1 else ""
         f.write(f'  {{\n    "name": "{entry["name"]}", '
                 f'"startDate": "{entry["startDate"]}", '
-                f'"id": "{entry["id"]}"\n  }}{comma}\n')
+                f'"id": "{entry["id"]}", '
+                f'"type": "{entry["type"]}"\n  }}{comma}\n')
     f.write("];\n")
 
 print(f"{len(entries)} Ereignisse wurden extrahiert und in {output_file} geschrieben.")
