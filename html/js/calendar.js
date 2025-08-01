@@ -256,17 +256,16 @@ function createFilteredCalendarData(rawData, year) {
 }
 
 
-var data = createCalendarData(calendarData, 1876);
+// Track which categories are enabled - must be defined before use
+let enabledCategories = new Set(anaLabels);
 
+var data = createCalendarData(calendarData, 1876);
 
 years = Array.from(new Set(calendarData.map(getYear))).sort();
 var yearsTable = document.getElementById('years-table');
 for (var i = 0; i <= years.length; i++) {
   yearsTable.insertAdjacentHTML('beforeend', createyearcell(years[i]));
 }
-
-// Track which categories are enabled
-let enabledCategories = new Set(anaLabels);
 
 // Create interactive color legend with toggle functionality
 function createColorLegend() {
