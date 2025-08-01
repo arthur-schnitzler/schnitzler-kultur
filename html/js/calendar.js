@@ -253,7 +253,7 @@ function createColorLegend() {
   legendContainer.className = 'calendar-color-legend';
   
   const legendTitle = document.createElement('h6');
-  legendTitle.textContent = 'Event-Kategorien:';
+  legendTitle.textContent = 'Kategorien:';
   legendTitle.style.marginBottom = '10px';
   legendContainer.appendChild(legendTitle);
 
