@@ -32,7 +32,11 @@ const calendar = new Calendar('#calendar', {
   dataSource: data,
   displayHeader: false,
   clickDay: function (e) {
-    window.location = e.events[0].linkId;
+    if (e.events.length === 1) {
+      window.location = e.events[0].linkId;
+    } else if (e.events.length > 1) {
+      showEventPopup(e.events, e.date);
+    }
   },
   renderEnd: function(e) {
     const buttons = document.querySelectorAll(".yearbtn");
@@ -54,4 +58,59 @@ function updateyear(year) {
     color: '#AC7790'
   })).filter(r => r.startDate.getFullYear() === parseInt(year));
   calendar.setDataSource(dataSource);
+}
+
+function showEventPopup(events, date) {
+  const popup = document.getElementById('eventPopup') || createEventPopup();
+  const eventList = popup.querySelector('.event-list');
+  const dateHeader = popup.querySelector('.popup-date');
+  
+  // Format date for display
+  const formattedDate = date.toLocaleDateString('de-DE', { 
+    year: 'numeric', 
+    month: 'long', 
+    day: 'numeric' 
+  });
+  
+  dateHeader.textContent = formattedDate;
+  eventList.innerHTML = '';
+  
+  events.forEach(event => {
+    const eventItem = document.createElement('div');
+    eventItem.className = 'event-item';
+    eventItem.innerHTML = `
+      <a href="${event.linkId}" class="event-link">
+        ${event.name}
+      </a>
+    `;
+    eventList.appendChild(eventItem);
+  });
+  
+  popup.style.display = 'block';
+}
+
+function createEventPopup() {
+  const popup = document.createElement('div');
+  popup.id = 'eventPopup';
+  popup.className = 'event-popup';
+  popup.innerHTML = `
+    <div class="popup-content">
+      <div class="popup-header">
+        <h3 class="popup-date"></h3>
+        <button class="popup-close" onclick="closeEventPopup()">&times;</button>
+      </div>
+      <div class="event-list"></div>
+    </div>
+    <div class="popup-backdrop" onclick="closeEventPopup()"></div>
+  `;
+  
+  document.body.appendChild(popup);
+  return popup;
+}
+
+function closeEventPopup() {
+  const popup = document.getElementById('eventPopup');
+  if (popup) {
+    popup.style.display = 'none';
+  }
 }
