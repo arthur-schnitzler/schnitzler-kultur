@@ -90,7 +90,7 @@ function showEventPopup(events, date) {
     const eventItem = document.createElement('div');
     eventItem.className = 'event-item';
     eventItem.innerHTML = `
-      <a href="${event.linkId}" class="event-link">
+      <a href="${event.linkId}" class="event-link" onclick="event.stopPropagation();">
         ${event.name}
       </a>
     `;
@@ -114,14 +114,14 @@ function createEventPopup() {
   popup.id = 'eventPopup';
   popup.className = 'event-popup';
   popup.innerHTML = `
-    <div class="popup-content">
+    <div class="popup-backdrop" onclick="closeEventPopup()"></div>
+    <div class="popup-content" onclick="event.stopPropagation();">
       <div class="popup-header">
         <h3 class="popup-date"></h3>
         <button class="popup-close" onclick="closeEventPopup()">&times;</button>
       </div>
       <div class="event-list"></div>
     </div>
-    <div class="popup-backdrop" onclick="closeEventPopup()"></div>
   `;
   
   document.body.appendChild(popup);
