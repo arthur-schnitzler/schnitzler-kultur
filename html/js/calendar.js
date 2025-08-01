@@ -225,20 +225,8 @@ function getEventColor(eventTypeOrName, eventObj = null) {
   return hslToHex(anaBaseColors[7]); // anderes - violett
 }
 
-// Group events by date to handle multiple events per day
-function groupEventsByDate(events) {
-  const grouped = {};
-  events.forEach(event => {
-    const dateKey = event.startDate.toDateString();
-    if (!grouped[dateKey]) {
-      grouped[dateKey] = [];
-    }
-    grouped[dateKey].push(event);
-  });
-  return grouped;
-}
 
-// Create calendar data with mixed colors for multiple events
+// Create calendar data - now supports multiple events per day with individual colors
 function createCalendarData(rawData, year) {
   const events = rawData.map(r => ({
     startDate: new Date(r.startDate),
@@ -249,35 +237,10 @@ function createCalendarData(rawData, year) {
     type: r.type
   })).filter(r => r.startDate.getFullYear() === year);
   
-  const groupedEvents = groupEventsByDate(events);
-  const result = [];
-  
-  Object.values(groupedEvents).forEach(dayEvents => {
-    if (dayEvents.length === 1) {
-      // Single event - use its color
-      result.push(dayEvents[0]);
-    } else {
-      // Multiple events - create a combined event with mixed color indication
-      const combinedEvent = {
-        startDate: dayEvents[0].startDate,
-        endDate: dayEvents[0].endDate,
-        name: `${dayEvents.length} Events: ${dayEvents.map(e => e.name.substring(0, 30)).join(', ')}...`,
-        linkId: dayEvents[0].linkId, // We'll handle multiple in click handler
-        color: createMixedColor(dayEvents.map(e => e.color)),
-        events: dayEvents // Store all events for the popup
-      };
-      result.push(combinedEvent);
-    }
-  });
-  
-  return result;
+  // Return all events individually - js-year-calendar will handle multiple events per day
+  return events;
 }
 
-// Create a mixed color for multiple events (diagonal stripes effect)
-function createMixedColor(colors) {
-  // For now, use the first color but with reduced opacity to indicate multiple events
-  return colors[0] + '80'; // Add 50% opacity
-}
 
 var data = createCalendarData(calendarData, 1876);
 
@@ -335,16 +298,10 @@ const calendar = new Calendar('#calendar', {
   displayHeader: false,
   clickDay: function (e) {
     if (e.events.length === 1) {
-      const event = e.events[0];
-      if (event.events && event.events.length > 1) {
-        // This is a combined event with multiple events
-        showEventPopup(event.events, e.date);
-      } else {
-        // Single event
-        window.location = event.linkId;
-      }
+      // Single event - navigate directly
+      window.location = e.events[0].linkId;
     } else if (e.events.length > 1) {
-      // Multiple separate events (shouldn't happen with our grouping, but safety)
+      // Multiple events - show popup
       showEventPopup(e.events, e.date);
     }
   },
@@ -371,7 +328,7 @@ function applySimpleEventStacking() {
   const calendarElement = document.querySelector('#calendar');
   if (!calendarElement) return;
   
-  // Add visual indicators for multiple events
+  // Add styles for better multiple event display
   if (!document.getElementById('event-stacking-styles')) {
     const style = document.createElement('style');
     style.id = 'event-stacking-styles';
@@ -380,30 +337,43 @@ function applySimpleEventStacking() {
       .calendar table td.day {
         position: relative !important;
         vertical-align: top !important;
+        padding: 2px !important;
       }
       
-      /* Add indicator for multiple events */
-      .calendar table td.day[title*="Events:"]:after {
-        content: "⋯";
+      /* Style for event bars */
+      .calendar .event-list {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 1px !important;
+        height: 100% !important;
+        min-height: 20px !important;
+      }
+      
+      .calendar .event-list .event {
+        height: 3px !important;
+        min-height: 3px !important;
+        border-radius: 1px !important;
+        margin: 0 !important;
+        font-size: 0 !important;
+        line-height: 0 !important;
+        overflow: hidden !important;
+      }
+      
+      /* Limit to maximum 5 event bars per day */
+      .calendar .event-list .event:nth-child(n+6) {
+        display: none !important;
+      }
+      
+      /* Style for more events indicator */
+      .calendar .more-events-indicator {
         position: absolute;
         bottom: 1px;
         right: 2px;
         font-size: 8px;
-        color: rgba(0,0,0,0.7);
+        color: rgba(0,0,0,0.8);
         font-weight: bold;
         line-height: 1;
         z-index: 10;
-      }
-      
-      /* Add subtle pattern for multiple event days */
-      .calendar table td.day[title*="Events:"] {
-        background-image: repeating-linear-gradient(
-          45deg,
-          transparent,
-          transparent 1px,
-          rgba(255,255,255,0.2) 1px,
-          rgba(255,255,255,0.2) 2px
-        ) !important;
       }
       
       /* Improve hover effect */
@@ -414,20 +384,26 @@ function applySimpleEventStacking() {
     document.head.appendChild(style);
   }
   
-  // Add tooltips to indicate multiple events
+  // Add indicators for days with more than 5 events
   setTimeout(() => {
     const dayElements = calendarElement.querySelectorAll('td.day');
     dayElements.forEach(dayEl => {
-      // Find events for this day from calendar data
-      const dateAttr = dayEl.getAttribute('data-date');
-      if (dateAttr) {
-        const eventsForDay = calendar.getDataSource().filter(event => {
-          const eventDateString = event.startDate.toISOString().split('T')[0];
-          return eventDateString === dateAttr;
-        });
-        
-        if (eventsForDay.length > 0 && eventsForDay[0].events && eventsForDay[0].events.length > 1) {
-          dayEl.title = `${eventsForDay[0].events.length} Events: Click to see all`;
+      const eventList = dayEl.querySelector('.event-list');
+      if (eventList) {
+        const events = eventList.querySelectorAll('.event');
+        if (events.length > 5) {
+          // Remove existing indicator
+          const existingIndicator = dayEl.querySelector('.more-events-indicator');
+          if (existingIndicator) {
+            existingIndicator.remove();
+          }
+          
+          // Add new indicator
+          const indicator = document.createElement('span');
+          indicator.className = 'more-events-indicator';
+          indicator.textContent = '⋯';
+          indicator.title = `${events.length} Events insgesamt`;
+          dayEl.appendChild(indicator);
         }
       }
     });
