@@ -228,14 +228,28 @@ function getEventColor(eventTypeOrName, eventObj = null) {
 
 // Create calendar data - now supports multiple events per day with individual colors
 function createCalendarData(rawData, year) {
-  const events = rawData.map(r => ({
-    startDate: new Date(r.startDate),
-    endDate: new Date(r.startDate),
-    name: r.name,
-    linkId: r.id,
-    color: getEventColor(r.name, r),
-    type: r.type
-  })).filter(r => r.startDate.getFullYear() === year);
+  return createFilteredCalendarData(rawData, year);
+}
+
+// Create filtered calendar data based on enabled categories
+function createFilteredCalendarData(rawData, year) {
+  const events = rawData.map(r => {
+    const eventColor = getEventColor(r.name, r);
+    const category = getEventTypeCategory(r.type || r.name);
+    
+    return {
+      startDate: new Date(r.startDate),
+      endDate: new Date(r.startDate),
+      name: r.name,
+      linkId: r.id,
+      color: eventColor,
+      type: r.type,
+      category: category
+    };
+  }).filter(r => {
+    // Filter by year and enabled categories
+    return r.startDate.getFullYear() === year && enabledCategories.has(r.category);
+  });
   
   // Return all events individually - js-year-calendar will handle multiple events per day
   return events;
@@ -251,7 +265,10 @@ for (var i = 0; i <= years.length; i++) {
   yearsTable.insertAdjacentHTML('beforeend', createyearcell(years[i]));
 }
 
-// Create color legend using same colors as charts
+// Track which categories are enabled
+let enabledCategories = new Set(anaLabels);
+
+// Create interactive color legend with toggle functionality
 function createColorLegend() {
   const legends = anaLabels.map((label, index) => ({
     color: hslToHex(anaBaseColors[index]),
@@ -262,28 +279,138 @@ function createColorLegend() {
   legendContainer.id = 'calendar-legend';
   legendContainer.className = 'calendar-color-legend';
   
+  const legendHeader = document.createElement('div');
+  legendHeader.style.display = 'flex';
+  legendHeader.style.justifyContent = 'space-between';
+  legendHeader.style.alignItems = 'center';
+  legendHeader.style.marginBottom = '10px';
+  
   const legendTitle = document.createElement('h6');
   legendTitle.textContent = 'Kategorien:';
-  legendTitle.style.marginBottom = '10px';
-  legendContainer.appendChild(legendTitle);
+  legendTitle.style.margin = '0';
+  
+  const buttonGroup = document.createElement('div');
+  const selectAllBtn = document.createElement('button');
+  selectAllBtn.textContent = 'Alle';
+  selectAllBtn.className = 'btn btn-outline-secondary btn-sm';
+  selectAllBtn.style.marginRight = '5px';
+  selectAllBtn.onclick = selectAllCategories;
+  
+  const deselectAllBtn = document.createElement('button');
+  deselectAllBtn.textContent = 'Keine';
+  deselectAllBtn.className = 'btn btn-outline-secondary btn-sm';
+  deselectAllBtn.onclick = deselectAllCategories;
+  
+  buttonGroup.appendChild(selectAllBtn);
+  buttonGroup.appendChild(deselectAllBtn);
+  
+  legendHeader.appendChild(legendTitle);
+  legendHeader.appendChild(buttonGroup);
+  legendContainer.appendChild(legendHeader);
 
   const legendList = document.createElement('div');
   legendList.className = 'legend-items';
   
   legends.forEach(item => {
     const legendItem = document.createElement('div');
-    legendItem.className = 'legend-item';
+    legendItem.className = 'legend-item clickable';
+    legendItem.dataset.category = item.label;
     legendItem.innerHTML = `
       <span class="legend-color" style="background-color: ${item.color}"></span>
       <span class="legend-label">${item.label}</span>
     `;
+    
+    // Add click handler for toggling
+    legendItem.onclick = () => toggleCategory(item.label);
+    
     legendList.appendChild(legendItem);
   });
   
   legendContainer.appendChild(legendList);
   
+  // Add CSS for interactive legend
+  addLegendStyles();
+  
   // Insert legend after years table
   yearsTable.parentNode.insertBefore(legendContainer, yearsTable.nextSibling);
+}
+
+// Add CSS styles for interactive legend
+function addLegendStyles() {
+  if (!document.getElementById('legend-styles')) {
+    const style = document.createElement('style');
+    style.id = 'legend-styles';
+    style.textContent = `
+      .legend-item.clickable {
+        cursor: pointer;
+        padding: 3px 5px;
+        border-radius: 3px;
+        transition: background-color 0.2s;
+      }
+      
+      .legend-item.clickable:hover {
+        background-color: rgba(0,0,0,0.1);
+      }
+      
+      .legend-item.disabled {
+        opacity: 0.3;
+      }
+      
+      .legend-item.disabled .legend-color {
+        background-color: #ccc !important;
+      }
+    `;
+    document.head.appendChild(style);
+  }
+}
+
+// Toggle category visibility
+function toggleCategory(category) {
+  if (enabledCategories.has(category)) {
+    enabledCategories.delete(category);
+  } else {
+    enabledCategories.add(category);
+  }
+  
+  // Update legend appearance
+  updateLegendAppearance();
+  
+  // Refresh calendar with filtered data
+  refreshCalendarWithFilters();
+}
+
+// Update legend visual state
+function updateLegendAppearance() {
+  const legendItems = document.querySelectorAll('.legend-item[data-category]');
+  legendItems.forEach(item => {
+    const category = item.dataset.category;
+    if (enabledCategories.has(category)) {
+      item.classList.remove('disabled');
+    } else {
+      item.classList.add('disabled');
+    }
+  });
+}
+
+// Refresh calendar with current filters
+function refreshCalendarWithFilters() {
+  const currentYear = calendar.getYear();
+  const filteredData = createFilteredCalendarData(calendarData, currentYear);
+  calendar.setDataSource(filteredData);
+}
+
+// Select all categories
+function selectAllCategories() {
+  enabledCategories = new Set(anaLabels);
+  updateLegendAppearance();
+  refreshCalendarWithFilters();
+}
+
+// Deselect all categories
+function deselectAllCategories() {
+  enabledCategories.clear();
+  updateLegendAppearance();
+  refreshCalendarWithFilters();
 }
 
 // Create the legend
@@ -319,7 +446,7 @@ const calendar = new Calendar('#calendar', {
 
 function updateyear(year) {
   calendar.setYear(year);
-  const dataSource = createCalendarData(calendarData, parseInt(year));
+  const dataSource = createFilteredCalendarData(calendarData, parseInt(year));
   calendar.setDataSource(dataSource);
 }
 
