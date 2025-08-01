@@ -286,6 +286,56 @@ const calendar = new Calendar('#calendar', {
   language: "de",
   dataSource: data,
   displayHeader: false,
+  style: 'custom',
+  customDataSourceRenderer: function(element, currentDate, events) {
+    // Clear any existing content
+    element.innerHTML = '';
+    element.style.position = 'relative';
+    element.style.height = '100%';
+    element.style.overflow = 'visible';
+    
+    // Sort events by color to group similar events together
+    const sortedEvents = events.sort((a, b) => a.color.localeCompare(b.color));
+    
+    // Create stacked bars for multiple events
+    sortedEvents.forEach((event, index) => {
+      const eventBar = document.createElement('div');
+      eventBar.style.position = 'absolute';
+      eventBar.style.left = '2px';
+      eventBar.style.right = '2px';
+      eventBar.style.height = '3px';
+      eventBar.style.backgroundColor = event.color;
+      eventBar.style.top = `${2 + (index * 4)}px`; // Stack bars with 4px spacing
+      eventBar.style.borderRadius = '1px';
+      eventBar.style.zIndex = '10';
+      eventBar.title = event.name; // Tooltip
+      
+      element.appendChild(eventBar);
+    });
+    
+    // Add a subtle indicator for multiple events
+    if (events.length > 1) {
+      const indicator = document.createElement('div');
+      indicator.style.position = 'absolute';
+      indicator.style.right = '1px';
+      indicator.style.bottom = '1px';
+      indicator.style.width = '8px';
+      indicator.style.height = '8px';
+      indicator.style.backgroundColor = 'rgba(0,0,0,0.3)';
+      indicator.style.borderRadius = '50%';
+      indicator.style.fontSize = '6px';
+      indicator.style.color = 'white';
+      indicator.style.display = 'flex';
+      indicator.style.alignItems = 'center';
+      indicator.style.justifyContent = 'center';
+      indicator.style.fontWeight = 'bold';
+      indicator.style.zIndex = '15';
+      indicator.textContent = events.length;
+      indicator.title = `${events.length} Events`;
+      
+      element.appendChild(indicator);
+    }
+  },
   clickDay: function (e) {
     if (e.events.length === 1) {
       window.location = e.events[0].linkId;
@@ -312,7 +362,10 @@ function updateyear(year) {
     linkId: r.id,
     color: getEventColor(r.name, r)
   })).filter(r => r.startDate.getFullYear() === parseInt(year));
+  
+  // Update calendar with new data and ensure custom renderer is applied
   calendar.setDataSource(dataSource);
+  calendar.setStyle('custom');
 }
 
 function showEventPopup(events, date) {
