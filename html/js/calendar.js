@@ -61,7 +61,13 @@ function updateyear(year) {
 }
 
 function showEventPopup(events, date) {
-  const popup = document.getElementById('eventPopup') || createEventPopup();
+  // Check if popup is already visible to prevent duplicates
+  const existingPopup = document.getElementById('eventPopup');
+  if (existingPopup && existingPopup.style.display === 'block') {
+    return;
+  }
+  
+  const popup = existingPopup || createEventPopup();
   const eventList = popup.querySelector('.event-list');
   const dateHeader = popup.querySelector('.popup-date');
   
@@ -75,7 +81,12 @@ function showEventPopup(events, date) {
   dateHeader.textContent = formattedDate;
   eventList.innerHTML = '';
   
-  events.forEach(event => {
+  // Create unique events array to avoid duplicates
+  const uniqueEvents = events.filter((event, index, self) => 
+    index === self.findIndex(e => e.linkId === event.linkId)
+  );
+  
+  uniqueEvents.forEach(event => {
     const eventItem = document.createElement('div');
     eventItem.className = 'event-item';
     eventItem.innerHTML = `
@@ -87,6 +98,15 @@ function showEventPopup(events, date) {
   });
   
   popup.style.display = 'block';
+  
+  // Add keyboard listener for ESC key
+  document.addEventListener('keydown', handleEscapeKey);
+}
+
+function handleEscapeKey(e) {
+  if (e.key === 'Escape') {
+    closeEventPopup();
+  }
 }
 
 function createEventPopup() {
@@ -113,4 +133,7 @@ function closeEventPopup() {
   if (popup) {
     popup.style.display = 'none';
   }
+  
+  // Remove keyboard listener
+  document.removeEventListener('keydown', handleEscapeKey);
 }
