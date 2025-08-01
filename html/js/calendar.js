@@ -225,14 +225,61 @@ function getEventColor(eventTypeOrName, eventObj = null) {
   return hslToHex(anaBaseColors[7]); // anderes - violett
 }
 
-var data = calendarData.map(r =>
-({
-  startDate: new Date(r.startDate),
-  endDate: new Date(r.startDate),
-  name: r.name,
-  linkId: r.id,
-  color: getEventColor(r.name, r)
-})).filter(r => r.startDate.getFullYear() === 1876);
+// Group events by date to handle multiple events per day
+function groupEventsByDate(events) {
+  const grouped = {};
+  events.forEach(event => {
+    const dateKey = event.startDate.toDateString();
+    if (!grouped[dateKey]) {
+      grouped[dateKey] = [];
+    }
+    grouped[dateKey].push(event);
+  });
+  return grouped;
+}
+
+// Create calendar data with mixed colors for multiple events
+function createCalendarData(rawData, year) {
+  const events = rawData.map(r => ({
+    startDate: new Date(r.startDate),
+    endDate: new Date(r.startDate),
+    name: r.name,
+    linkId: r.id,
+    color: getEventColor(r.name, r),
+    type: r.type
+  })).filter(r => r.startDate.getFullYear() === year);
+  
+  const groupedEvents = groupEventsByDate(events);
+  const result = [];
+  
+  Object.values(groupedEvents).forEach(dayEvents => {
+    if (dayEvents.length === 1) {
+      // Single event - use its color
+      result.push(dayEvents[0]);
+    } else {
+      // Multiple events - create a combined event with mixed color indication
+      const combinedEvent = {
+        startDate: dayEvents[0].startDate,
+        endDate: dayEvents[0].endDate,
+        name: `${dayEvents.length} Events: ${dayEvents.map(e => e.name.substring(0, 30)).join(', ')}...`,
+        linkId: dayEvents[0].linkId, // We'll handle multiple in click handler
+        color: createMixedColor(dayEvents.map(e => e.color)),
+        events: dayEvents // Store all events for the popup
+      };
+      result.push(combinedEvent);
+    }
+  });
+  
+  return result;
+}
+
+// Create a mixed color for multiple events (diagonal stripes effect)
+function createMixedColor(colors) {
+  // For now, use the first color but with reduced opacity to indicate multiple events
+  return colors[0] + '80'; // Add 50% opacity
+}
+
+var data = createCalendarData(calendarData, 1876);
 
 
 years = Array.from(new Set(calendarData.map(getYear))).sort();
@@ -286,60 +333,18 @@ const calendar = new Calendar('#calendar', {
   language: "de",
   dataSource: data,
   displayHeader: false,
-  style: 'custom',
-  customDataSourceRenderer: function(element, currentDate, events) {
-    // Clear any existing content
-    element.innerHTML = '';
-    element.style.position = 'relative';
-    element.style.height = '100%';
-    element.style.overflow = 'visible';
-    
-    // Sort events by color to group similar events together
-    const sortedEvents = events.sort((a, b) => a.color.localeCompare(b.color));
-    
-    // Create stacked bars for multiple events
-    sortedEvents.forEach((event, index) => {
-      const eventBar = document.createElement('div');
-      eventBar.style.position = 'absolute';
-      eventBar.style.left = '2px';
-      eventBar.style.right = '2px';
-      eventBar.style.height = '3px';
-      eventBar.style.backgroundColor = event.color;
-      eventBar.style.top = `${2 + (index * 4)}px`; // Stack bars with 4px spacing
-      eventBar.style.borderRadius = '1px';
-      eventBar.style.zIndex = '10';
-      eventBar.title = event.name; // Tooltip
-      
-      element.appendChild(eventBar);
-    });
-    
-    // Add a subtle indicator for multiple events
-    if (events.length > 1) {
-      const indicator = document.createElement('div');
-      indicator.style.position = 'absolute';
-      indicator.style.right = '1px';
-      indicator.style.bottom = '1px';
-      indicator.style.width = '8px';
-      indicator.style.height = '8px';
-      indicator.style.backgroundColor = 'rgba(0,0,0,0.3)';
-      indicator.style.borderRadius = '50%';
-      indicator.style.fontSize = '6px';
-      indicator.style.color = 'white';
-      indicator.style.display = 'flex';
-      indicator.style.alignItems = 'center';
-      indicator.style.justifyContent = 'center';
-      indicator.style.fontWeight = 'bold';
-      indicator.style.zIndex = '15';
-      indicator.textContent = events.length;
-      indicator.title = `${events.length} Events`;
-      
-      element.appendChild(indicator);
-    }
-  },
   clickDay: function (e) {
     if (e.events.length === 1) {
-      window.location = e.events[0].linkId;
+      const event = e.events[0];
+      if (event.events && event.events.length > 1) {
+        // This is a combined event with multiple events
+        showEventPopup(event.events, e.date);
+      } else {
+        // Single event
+        window.location = event.linkId;
+      }
     } else if (e.events.length > 1) {
+      // Multiple separate events (shouldn't happen with our grouping, but safety)
       showEventPopup(e.events, e.date);
     }
   },
@@ -349,23 +354,84 @@ const calendar = new Calendar('#calendar', {
       buttons[i].classList.remove('focus');
    }
     document.getElementById(`ybtn${e.currentYear}`).classList.add("focus");
+    
+    // After calendar renders, apply custom stacking using CSS approach
+    setTimeout(applySimpleEventStacking, 200);
 }
 });
 
 function updateyear(year) {
   calendar.setYear(year);
-  const dataSource = calendarData.map(r =>
-  ({
-    startDate: new Date(r.startDate),
-    endDate: new Date(r.startDate),
-    name: r.name,
-    linkId: r.id,
-    color: getEventColor(r.name, r)
-  })).filter(r => r.startDate.getFullYear() === parseInt(year));
-  
-  // Update calendar with new data and ensure custom renderer is applied
+  const dataSource = createCalendarData(calendarData, parseInt(year));
   calendar.setDataSource(dataSource);
-  calendar.setStyle('custom');
+}
+
+// Add CSS for better multiple event display
+function applySimpleEventStacking() {
+  const calendarElement = document.querySelector('#calendar');
+  if (!calendarElement) return;
+  
+  // Add visual indicators for multiple events
+  if (!document.getElementById('event-stacking-styles')) {
+    const style = document.createElement('style');
+    style.id = 'event-stacking-styles';
+    style.textContent = `
+      /* Improve day cell styling */
+      .calendar table td.day {
+        position: relative !important;
+        vertical-align: top !important;
+      }
+      
+      /* Add indicator for multiple events */
+      .calendar table td.day[title*="Events:"]:after {
+        content: "⋯";
+        position: absolute;
+        bottom: 1px;
+        right: 2px;
+        font-size: 8px;
+        color: rgba(0,0,0,0.7);
+        font-weight: bold;
+        line-height: 1;
+        z-index: 10;
+      }
+      
+      /* Add subtle pattern for multiple event days */
+      .calendar table td.day[title*="Events:"] {
+        background-image: repeating-linear-gradient(
+          45deg,
+          transparent,
+          transparent 1px,
+          rgba(255,255,255,0.2) 1px,
+          rgba(255,255,255,0.2) 2px
+        ) !important;
+      }
+      
+      /* Improve hover effect */
+      .calendar table td.day:hover {
+        box-shadow: inset 0 0 0 1px rgba(0,0,0,0.2) !important;
+      }
+    `;
+    document.head.appendChild(style);
+  }
+  
+  // Add tooltips to indicate multiple events
+  setTimeout(() => {
+    const dayElements = calendarElement.querySelectorAll('td.day');
+    dayElements.forEach(dayEl => {
+      // Find events for this day from calendar data
+      const dateAttr = dayEl.getAttribute('data-date');
+      if (dateAttr) {
+        const eventsForDay = calendar.getDataSource().filter(event => {
+          const eventDateString = event.startDate.toISOString().split('T')[0];
+          return eventDateString === dateAttr;
+        });
+        
+        if (eventsForDay.length > 0 && eventsForDay[0].events && eventsForDay[0].events.length > 1) {
+          dayEl.title = `${eventsForDay[0].events.length} Events: Click to see all`;
+        }
+      }
+    });
+  }, 300);
 }
 
 function showEventPopup(events, date) {
