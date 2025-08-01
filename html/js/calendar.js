@@ -89,10 +89,104 @@ function getEventTypeCategory(eventType) {
     'Damenabend': 'Privatveranstaltung',
     'Gesellschaftsabend': 'Privatveranstaltung',
     'Soirée-dansante': 'Privatveranstaltung',
-    'Privataufführung': 'Privatveranstaltung'
+    'Privataufführung': 'Privatveranstaltung',
+    
+    // Veranstaltung category
+    'Empfang': 'Veranstaltung',
+    'Vereinstreffen': 'Veranstaltung',
+    'Festbesuch': 'Veranstaltung',
+    'Bankett': 'Veranstaltung',
+    'Messebesuch': 'Veranstaltung',
+    'Veranstaltung': 'Veranstaltung',
+    'Wohltätigkeitsveranstaltung': 'Veranstaltung',
+    'Kongress': 'Veranstaltung',
+    'Feier': 'Veranstaltung',
+    'Vergnügungsabend': 'Veranstaltung',
+    'Ballettsoirée': 'Veranstaltung',
+    'Kränzchen': 'Veranstaltung',
+    'Schulvortragsabend': 'Veranstaltung',
+    'Kommers': 'Veranstaltung',
+    'Kneipe': 'Veranstaltung',
+    'Narrenabend': 'Veranstaltung',
+    'Tanzkränzchen': 'Veranstaltung',
+    'Universitätskränzchen': 'Veranstaltung',
+    'Technikerkränzchen': 'Veranstaltung',
+    'Wärmestuben-Kränzchen': 'Veranstaltung',
+    'Unitaskränzchen': 'Veranstaltung',
+    'Medizinerkränzchen': 'Veranstaltung',
+    
+    // Ausstellung category
+    'Ausstellungsbesuch': 'Ausstellung',
+    'Ausstellung': 'Ausstellung',
+    
+    // anderes category (explicit)
+    'Schiedsgericht': 'anderes',
+    'Heilige Messe': 'anderes',
+    'Sitzung': 'anderes',
+    'Zaubervorstellung': 'anderes',
+    'Zirkusvorstellung': 'anderes',
+    'Umzug': 'anderes',
+    'Billardvorstellung': 'anderes',
+    'Praktische Übung': 'anderes'
   };
   
   return typeToCategory[eventType] || 'anderes';
+}
+
+// Event labels and colors from eventtype-charts.js (lines 14-38)
+const anaLabels = [
+  "Theater",
+  "Veranstaltung", 
+  "Ausstellung",
+  "Musik",
+  "Film",
+  "Vortrag",
+  "Privatveranstaltung",
+  "anderes"
+];
+
+const anaBaseColors = [
+  "hsl(0, 70%, 50%)",    // Rot - Theater
+  "hsl(30, 70%, 50%)",   // Orange - Veranstaltung
+  "hsl(60, 70%, 50%)",   // Gelb - Ausstellung
+  "hsl(120, 70%, 40%)",  // Grün - Musik
+  "hsl(300, 70%, 50%)",  // Magenta - Film
+  "hsl(180, 70%, 50%)",  // Türkis - Vortrag
+  "hsl(210, 70%, 50%)",  // Blau - Privatveranstaltung
+  "hsl(270, 70%, 50%)"   // Violett - anderes
+];
+
+// Convert HSL to hex for calendar compatibility
+function hslToHex(hslString) {
+  const [h, s, l] = hslString.match(/\d+/g).map(Number);
+  const hNorm = h / 360;
+  const sNorm = s / 100;
+  const lNorm = l / 100;
+  
+  const c = (1 - Math.abs(2 * lNorm - 1)) * sNorm;
+  const x = c * (1 - Math.abs((hNorm * 6) % 2 - 1));
+  const m = lNorm - c/2;
+  
+  let r, g, b;
+  if (hNorm < 1/6) {
+    r = c; g = x; b = 0;
+  } else if (hNorm < 2/6) {
+    r = x; g = c; b = 0;
+  } else if (hNorm < 3/6) {
+    r = 0; g = c; b = x;
+  } else if (hNorm < 4/6) {
+    r = 0; g = x; b = c;
+  } else if (hNorm < 5/6) {
+    r = x; g = 0; b = c;
+  } else {
+    r = c; g = 0; b = x;
+  }
+  
+  r = Math.round((r + m) * 255);
+  g = Math.round((g + m) * 255);
+  b = Math.round((b + m) * 255);
+  
+  return `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`;
 }
 
 function getEventColor(eventTypeOrName, eventObj = null) {
@@ -111,26 +205,24 @@ function getEventColor(eventTypeOrName, eventObj = null) {
     } else if (name.includes('konzert') || name.includes('zyklus') || name.includes('klavierkonzert') || name.includes('sonatenabend') || name.includes('quartett')) {
       category = 'Musik';
     } else if (name.includes('ausstellung')) {
-      category = 'anderes';
+      category = 'Ausstellung';
     } else if (name.includes('lesung')) {
       category = 'Vortrag';
     } else if (name.includes('empfang') || name.includes('heurigen')) {
-      category = 'anderes';
+      category = 'Veranstaltung';
     } else {
       category = 'anderes';
     }
   }
   
-  // Map categories to colors
-  switch (category) {
-    case 'Theater': return '#A23B72'; // Pink/Magenta für Theater
-    case 'Musik': return '#F18F01'; // Orange für Musik
-    case 'Vortrag': return '#592E83'; // Lila für Vorträge/Lesungen
-    case 'Film': return '#6A4C93'; // Dunkellila für Film
-    case 'Privatveranstaltung': return '#037A33'; // Grün für Private Events
-    case 'anderes': 
-    default: return '#2E86AB'; // Blau für Sitzungen/anderes
+  // Map category to color using same scheme as charts
+  const categoryIndex = anaLabels.indexOf(category);
+  if (categoryIndex !== -1) {
+    return hslToHex(anaBaseColors[categoryIndex]);
   }
+  
+  // Default fallback
+  return hslToHex(anaBaseColors[7]); // anderes - violett
 }
 
 var data = calendarData.map(r =>
@@ -149,16 +241,12 @@ for (var i = 0; i <= years.length; i++) {
   yearsTable.insertAdjacentHTML('beforeend', createyearcell(years[i]));
 }
 
-// Create color legend
+// Create color legend using same colors as charts
 function createColorLegend() {
-  const legends = [
-    { color: '#A23B72', label: 'Theater' },
-    { color: '#F18F01', label: 'Musik' },
-    { color: '#592E83', label: 'Vorträge/Lesungen' },
-    { color: '#6A4C93', label: 'Film' },
-    { color: '#037A33', label: 'Privatveranstaltungen' },
-    { color: '#2E86AB', label: 'Sitzungen/Anderes' }
-  ];
+  const legends = anaLabels.map((label, index) => ({
+    color: hslToHex(anaBaseColors[index]),
+    label: label
+  }));
 
   const legendContainer = document.createElement('div');
   legendContainer.id = 'calendar-legend';
