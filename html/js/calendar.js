@@ -278,34 +278,40 @@ function createColorLegend() {
   legendContainer.id = 'calendar-legend';
   legendContainer.className = 'calendar-color-legend';
   
-  const legendHeader = document.createElement('div');
-  legendHeader.style.display = 'flex';
-  legendHeader.style.justifyContent = 'space-between';
-  legendHeader.style.alignItems = 'center';
-  legendHeader.style.marginBottom = '10px';
-  
   const legendTitle = document.createElement('h6');
   legendTitle.textContent = 'Kategorien:';
-  legendTitle.style.margin = '0';
+  legendTitle.style.margin = '0 0 5px 0';
+  legendContainer.appendChild(legendTitle);
   
   const buttonGroup = document.createElement('div');
+  buttonGroup.style.marginBottom = '10px';
+  
   const selectAllBtn = document.createElement('button');
   selectAllBtn.textContent = 'Alle';
-  selectAllBtn.className = 'btn btn-outline-secondary btn-sm';
-  selectAllBtn.style.marginRight = '5px';
+  selectAllBtn.style.marginRight = '10px';
+  selectAllBtn.style.padding = '2px 8px';
+  selectAllBtn.style.fontSize = '12px';
+  selectAllBtn.style.border = 'none';
+  selectAllBtn.style.background = 'none';
+  selectAllBtn.style.color = '#007bff';
+  selectAllBtn.style.cursor = 'pointer';
+  selectAllBtn.style.textDecoration = 'underline';
   selectAllBtn.onclick = selectAllCategories;
   
   const deselectAllBtn = document.createElement('button');
   deselectAllBtn.textContent = 'Keine';
-  deselectAllBtn.className = 'btn btn-outline-secondary btn-sm';
+  deselectAllBtn.style.padding = '2px 8px';
+  deselectAllBtn.style.fontSize = '12px';
+  deselectAllBtn.style.border = 'none';
+  deselectAllBtn.style.background = 'none';
+  deselectAllBtn.style.color = '#007bff';
+  deselectAllBtn.style.cursor = 'pointer';
+  deselectAllBtn.style.textDecoration = 'underline';
   deselectAllBtn.onclick = deselectAllCategories;
   
   buttonGroup.appendChild(selectAllBtn);
   buttonGroup.appendChild(deselectAllBtn);
-  
-  legendHeader.appendChild(legendTitle);
-  legendHeader.appendChild(buttonGroup);
-  legendContainer.appendChild(legendHeader);
+  legendContainer.appendChild(buttonGroup);
 
   const legendList = document.createElement('div');
   legendList.className = 'legend-items';
@@ -342,13 +348,12 @@ function addLegendStyles() {
     style.textContent = `
       .legend-item.clickable {
         cursor: pointer;
-        padding: 3px 5px;
-        border-radius: 3px;
-        transition: background-color 0.2s;
+        padding: 2px 0;
+        transition: opacity 0.2s;
       }
       
       .legend-item.clickable:hover {
-        background-color: rgba(0,0,0,0.1);
+        opacity: 0.7;
       }
       
       .legend-item.disabled {
