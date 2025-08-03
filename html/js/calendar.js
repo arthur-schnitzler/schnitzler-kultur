@@ -469,37 +469,31 @@ function applySimpleEventStacking() {
         position: relative !important;
         vertical-align: top !important;
         padding: 2px !important;
+        min-height: 30px !important;
       }
       
-      /* Style for event bars */
-      .calendar .event-list {
-        display: flex !important;
-        flex-direction: column !important;
-        gap: 0 !important;
-        height: auto !important;
-        min-height: auto !important;
+      /* Custom event bars container */
+      .custom-event-bars {
         position: absolute !important;
         bottom: 0 !important;
         left: 0 !important;
         right: 0 !important;
-        z-index: 2 !important;
+        z-index: 5 !important;
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 0 !important;
       }
       
-      .calendar .event-list .event {
+      .custom-event-bars .custom-event-bar {
         height: 1mm !important;
-        min-height: 1mm !important;
-        border-radius: 0 !important;
-        margin: 0 !important;
-        font-size: 0 !important;
-        line-height: 0 !important;
-        overflow: hidden !important;
-        position: relative !important;
         width: 100% !important;
         display: block !important;
+        margin: 0 !important;
+        border: none !important;
       }
       
-      /* Limit to maximum 5 event bars per day */
-      .calendar .event-list .event:nth-child(n+6) {
+      /* Hide original events */
+      .calendar .event {
         display: none !important;
       }
       
@@ -519,36 +513,51 @@ function applySimpleEventStacking() {
       .calendar table td.day:hover {
         box-shadow: inset 0 0 0 1px rgba(0,0,0,0.2) !important;
       }
-      
-      /* Ensure day cells have relative positioning for absolute event positioning */
-      .calendar .day-content {
-        position: relative !important;
-        height: 100% !important;
-        min-height: 25px !important;
-      }
     `;
     document.head.appendChild(style);
   }
   
-  // Add indicators for days with more than 5 events
+  // Create custom event bars after calendar renders
   setTimeout(() => {
     const dayElements = calendarElement.querySelectorAll('td.day');
     dayElements.forEach(dayEl => {
-      const eventList = dayEl.querySelector('.event-list');
-      if (eventList) {
-        const events = eventList.querySelectorAll('.event');
-        if (events.length > 5) {
-          // Remove existing indicator
+      // Remove existing custom bars
+      const existingBars = dayEl.querySelector('.custom-event-bars');
+      if (existingBars) {
+        existingBars.remove();
+      }
+      
+      // Find original events for this day
+      const eventElements = dayEl.querySelectorAll('.event');
+      if (eventElements.length > 0) {
+        // Create container for custom event bars
+        const barsContainer = document.createElement('div');
+        barsContainer.className = 'custom-event-bars';
+        
+        // Create individual bars for each event
+        eventElements.forEach((event, index) => {
+          if (index < 5) { // Limit to 5 visible bars
+            const bar = document.createElement('div');
+            bar.className = 'custom-event-bar';
+            const bgColor = event.style.backgroundColor || event.getAttribute('data-color') || '#ccc';
+            bar.style.backgroundColor = bgColor;
+            barsContainer.appendChild(bar);
+          }
+        });
+        
+        dayEl.appendChild(barsContainer);
+        
+        // Add indicator for more than 5 events
+        if (eventElements.length > 5) {
           const existingIndicator = dayEl.querySelector('.more-events-indicator');
           if (existingIndicator) {
             existingIndicator.remove();
           }
           
-          // Add new indicator
           const indicator = document.createElement('span');
           indicator.className = 'more-events-indicator';
           indicator.textContent = '⋯';
-          indicator.title = `${events.length} Events insgesamt`;
+          indicator.title = `${eventElements.length} Events insgesamt`;
           dayEl.appendChild(indicator);
         }
       }
