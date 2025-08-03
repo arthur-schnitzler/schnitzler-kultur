@@ -475,23 +475,27 @@ function applySimpleEventStacking() {
       .calendar .event-list {
         display: flex !important;
         flex-direction: column !important;
-        gap: 1px !important;
-        height: 100% !important;
-        min-height: 20px !important;
-        position: relative !important;
-        z-index: 1 !important;
+        gap: 0 !important;
+        height: auto !important;
+        min-height: auto !important;
+        position: absolute !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        z-index: 2 !important;
       }
       
       .calendar .event-list .event {
-        height: 3px !important;
-        min-height: 3px !important;
-        border-radius: 1px !important;
+        height: 1mm !important;
+        min-height: 1mm !important;
+        border-radius: 0 !important;
         margin: 0 !important;
         font-size: 0 !important;
         line-height: 0 !important;
         overflow: hidden !important;
         position: relative !important;
         width: 100% !important;
+        display: block !important;
       }
       
       /* Limit to maximum 5 event bars per day */
@@ -516,20 +520,11 @@ function applySimpleEventStacking() {
         box-shadow: inset 0 0 0 1px rgba(0,0,0,0.2) !important;
       }
       
-      /* Force proper stacking by overriding library defaults */
+      /* Ensure day cells have relative positioning for absolute event positioning */
       .calendar .day-content {
         position: relative !important;
-        display: flex !important;
-        flex-direction: column !important;
-        align-items: stretch !important;
-      }
-      
-      /* Ensure events don't overlap by forcing proper positioning */
-      .calendar .day-content .event {
-        position: static !important;
-        transform: none !important;
-        top: auto !important;
-        left: auto !important;
+        height: 100% !important;
+        min-height: 25px !important;
       }
     `;
     document.head.appendChild(style);
