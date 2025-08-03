@@ -478,6 +478,8 @@ function applySimpleEventStacking() {
         gap: 1px !important;
         height: 100% !important;
         min-height: 20px !important;
+        position: relative !important;
+        z-index: 1 !important;
       }
       
       .calendar .event-list .event {
@@ -488,6 +490,8 @@ function applySimpleEventStacking() {
         font-size: 0 !important;
         line-height: 0 !important;
         overflow: hidden !important;
+        position: relative !important;
+        width: 100% !important;
       }
       
       /* Limit to maximum 5 event bars per day */
@@ -510,6 +514,22 @@ function applySimpleEventStacking() {
       /* Improve hover effect */
       .calendar table td.day:hover {
         box-shadow: inset 0 0 0 1px rgba(0,0,0,0.2) !important;
+      }
+      
+      /* Force proper stacking by overriding library defaults */
+      .calendar .day-content {
+        position: relative !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: stretch !important;
+      }
+      
+      /* Ensure events don't overlap by forcing proper positioning */
+      .calendar .day-content .event {
+        position: static !important;
+        transform: none !important;
+        top: auto !important;
+        left: auto !important;
       }
     `;
     document.head.appendChild(style);
