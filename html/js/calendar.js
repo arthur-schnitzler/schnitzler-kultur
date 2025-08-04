@@ -401,6 +401,11 @@ function refreshCalendarWithFilters() {
   const currentYear = calendar.getYear();
   const filteredData = createFilteredCalendarData(calendarData, currentYear);
   calendar.setDataSource(filteredData);
+  
+  // Apply custom stacking after filter change
+  setTimeout(() => {
+    applySimpleEventStacking();
+  }, 200);
 }
 
 // Select all categories
@@ -452,6 +457,11 @@ function updateyear(year) {
   calendar.setYear(year);
   const dataSource = createFilteredCalendarData(calendarData, parseInt(year));
   calendar.setDataSource(dataSource);
+  
+  // Apply custom stacking after year change
+  setTimeout(() => {
+    applySimpleEventStacking();
+  }, 200);
 }
 
 // Add CSS for better multiple event display
@@ -492,9 +502,10 @@ function applySimpleEventStacking() {
         border: none !important;
       }
       
-      /* Hide original events */
+      /* Hide original events but keep them for click handling */
       .calendar .event {
-        display: none !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
       }
       
       /* Style for more events indicator */
@@ -575,6 +586,20 @@ function applySimpleEventStacking() {
         // Create container for custom event bars
         const barsContainer = document.createElement('div');
         barsContainer.className = 'custom-event-bars';
+        
+        // Add click handler to the entire day cell for event navigation
+        const originalClickHandler = dayEl.onclick;
+        dayEl.onclick = function(e) {
+          if (eventsForDay.length === 1) {
+            // Single event - navigate directly
+            window.location = eventsForDay[0].linkId;
+          } else if (eventsForDay.length > 1) {
+            // Multiple events - show popup
+            const date = eventsForDay[0].startDate;
+            showEventPopup(eventsForDay, date);
+          }
+          e.stopPropagation();
+        };
         
         // Create individual bars for each event
         eventsForDay.forEach((event, index) => {
