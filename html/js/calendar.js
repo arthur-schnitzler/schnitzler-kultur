@@ -519,26 +519,50 @@ function applySimpleEventStacking() {
   
   // Create custom event bars after calendar renders
   setTimeout(() => {
-    console.log('Debug: Starting event stacking...');
-    const dayElements = calendarElement.querySelectorAll('td');
-    console.log('Debug: Found day elements:', dayElements.length);
+    // Get the current year and data source from the calendar
+    const currentYear = calendar.getYear();
+    const dataSource = calendar.getDataSource();
     
-    dayElements.forEach((dayEl, dayIndex) => {
-      // Check what's in each day element
-      const dayContent = dayEl.innerHTML;
-      const hasEvents = dayContent.includes('style="background-color') || dayEl.dataset.events;
+    // Group events by date
+    const eventsByDate = {};
+    dataSource.forEach(event => {
+      const dateKey = event.startDate.toDateString();
+      if (!eventsByDate[dateKey]) {
+        eventsByDate[dateKey] = [];
+      }
+      eventsByDate[dateKey].push(event);
+    });
+    
+    // Process each day cell - try multiple selectors
+    let dayElements = calendarElement.querySelectorAll('td[data-date]');
+    if (dayElements.length === 0) {
+      // Fallback: find day cells by class or content
+      dayElements = calendarElement.querySelectorAll('td.day, td[class*="day"]');
+    }
+    
+    dayElements.forEach((dayEl, index) => {
+      let cellDate;
+      let dateKey;
+      let eventsForDay = [];
       
-      if (hasEvents || dayIndex < 5) { // Debug first few days
-        console.log(`Debug: Day ${dayIndex}:`, {
-          innerHTML: dayContent,
-          classList: dayEl.className,
-          dataset: dayEl.dataset,
-          children: Array.from(dayEl.children).map(child => ({
-            tagName: child.tagName,
-            className: child.className,
-            style: child.style.cssText
-          }))
-        });
+      // Try to get date from data attribute
+      const dateAttr = dayEl.getAttribute('data-date');
+      if (dateAttr) {
+        cellDate = new Date(dateAttr);
+        dateKey = cellDate.toDateString();
+        eventsForDay = eventsByDate[dateKey] || [];
+      } else {
+        // Fallback: try to extract date from text content or position
+        const dayText = dayEl.textContent.trim();
+        const dayNumber = parseInt(dayText);
+        
+        if (dayNumber && dayNumber >= 1 && dayNumber <= 31) {
+          // Find events that match this day number and year
+          eventsForDay = dataSource.filter(event => {
+            return event.startDate.getDate() === dayNumber && 
+                   event.startDate.getFullYear() === currentYear;
+          });
+        }
       }
       
       // Remove existing custom bars
@@ -547,56 +571,26 @@ function applySimpleEventStacking() {
         existingBars.remove();
       }
       
-      // Try different selectors to find events
-      const eventSelectors = ['.event', '[data-color]', '[style*="background-color"]', '.day-content'];
-      let eventElements = [];
-      
-      for (const selector of eventSelectors) {
-        const found = dayEl.querySelectorAll(selector);
-        if (found.length > 0) {
-          console.log(`Debug: Found ${found.length} elements with selector "${selector}" in day ${dayIndex}`);
-          eventElements = found;
-          break;
-        }
-      }
-      
-      // Also check if the day cell itself has event styling
-      if (dayEl.style.backgroundColor && dayEl.style.backgroundColor !== '') {
-        console.log(`Debug: Day ${dayIndex} has background color:`, dayEl.style.backgroundColor);
-        eventElements = [dayEl]; // Treat the day cell itself as an event
-      }
-      
-      if (eventElements.length > 0) {
-        console.log(`Debug: Processing ${eventElements.length} events for day ${dayIndex}`);
-        
+      if (eventsForDay.length > 0) {
         // Create container for custom event bars
         const barsContainer = document.createElement('div');
         barsContainer.className = 'custom-event-bars';
         
         // Create individual bars for each event
-        eventElements.forEach((event, index) => {
-          if (index < 5) { // Limit to 5 visible bars
+        eventsForDay.forEach((event, index) => {
+          if (index < 8) { // Limit to 8 visible bars
             const bar = document.createElement('div');
             bar.className = 'custom-event-bar';
-            let bgColor = event.style.backgroundColor || event.getAttribute('data-color') || '#007bff';
-            
-            // If no color found, try to extract from computed style
-            if (!bgColor || bgColor === '') {
-              const computedStyle = window.getComputedStyle(event);
-              bgColor = computedStyle.backgroundColor;
-            }
-            
-            bar.style.backgroundColor = bgColor;
-            console.log(`Debug: Created bar ${index} with color:`, bgColor);
+            bar.style.backgroundColor = event.color;
+            bar.title = event.name; // Add tooltip
             barsContainer.appendChild(bar);
           }
         });
         
         dayEl.appendChild(barsContainer);
-        console.log(`Debug: Added ${barsContainer.children.length} bars to day ${dayIndex}`);
         
-        // Add indicator for more than 5 events
-        if (eventElements.length > 5) {
+        // Add indicator for more than 8 events
+        if (eventsForDay.length > 8) {
           const existingIndicator = dayEl.querySelector('.more-events-indicator');
           if (existingIndicator) {
             existingIndicator.remove();
@@ -604,13 +598,13 @@ function applySimpleEventStacking() {
           
           const indicator = document.createElement('span');
           indicator.className = 'more-events-indicator';
-          indicator.textContent = '⋯';
-          indicator.title = `${eventElements.length} Events insgesamt`;
+          indicator.textContent = `+${eventsForDay.length - 8}`;
+          indicator.title = `${eventsForDay.length} Events insgesamt`;
           dayEl.appendChild(indicator);
         }
       }
     });
-  }, 500);
+  }, 300);
 }
 
 function showEventPopup(events, date) {
