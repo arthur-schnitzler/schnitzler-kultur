@@ -534,6 +534,17 @@ function applySimpleEventStacking() {
     const currentYear = calendar.getYear();
     const dataSource = calendar.getDataSource();
     
+    // Debug: Show what data we're working with
+    if (currentYear === 1876) {
+      console.log(`Debug 1876: Current year: ${currentYear}`);
+      console.log(`Debug 1876: DataSource length: ${dataSource.length}`);
+      console.log(`Debug 1876: First few events:`, dataSource.slice(0, 5).map(e => ({
+        name: e.name,
+        date: e.startDate.toDateString(),
+        year: e.startDate.getFullYear()
+      })));
+    }
+    
     // Group events by date
     const eventsByDate = {};
     dataSource.forEach(event => {
@@ -570,8 +581,23 @@ function applySimpleEventStacking() {
         if (dayNumber && dayNumber >= 1 && dayNumber <= 31) {
           // Find events that match this day number and year
           eventsForDay = dataSource.filter(event => {
-            return event.startDate.getDate() === dayNumber && 
-                   event.startDate.getFullYear() === currentYear;
+            const eventDate = event.startDate.getDate();
+            const eventYear = event.startDate.getFullYear();
+            const match = eventDate === dayNumber && eventYear === currentYear;
+            
+            // Debug: Log matches for 1876 to see what's happening
+            if (currentYear === 1876 && match) {
+              console.log(`Debug 1876: Day ${dayNumber} matched event:`, {
+                eventName: event.name,
+                eventDate: event.startDate.toDateString(),
+                dayNumber: dayNumber,
+                eventDay: eventDate,
+                currentYear: currentYear,
+                eventYear: eventYear
+              });
+            }
+            
+            return match;
           });
         }
       }
