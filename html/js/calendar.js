@@ -579,26 +579,46 @@ function applySimpleEventStacking() {
         const dayNumber = parseInt(dayText);
         
         if (dayNumber && dayNumber >= 1 && dayNumber <= 31) {
-          // Find events that match this day number and year
-          eventsForDay = dataSource.filter(event => {
-            const eventDate = event.startDate.getDate();
-            const eventYear = event.startDate.getFullYear();
-            const match = eventDate === dayNumber && eventYear === currentYear;
-            
-            // Debug: Log matches for 1876 to see what's happening
-            if (currentYear === 1876 && match) {
-              console.log(`Debug 1876: Day ${dayNumber} matched event:`, {
-                eventName: event.name,
-                eventDate: event.startDate.toDateString(),
-                dayNumber: dayNumber,
-                eventDay: eventDate,
-                currentYear: currentYear,
-                eventYear: eventYear
-              });
+          // We need to get the current month from the calendar view
+          // js-year-calendar shows full year, so we need to determine which month this day belongs to
+          
+          // Find the month container this day belongs to
+          let currentMonth = -1;
+          const monthContainers = calendarElement.querySelectorAll('.month-container');
+          for (let i = 0; i < monthContainers.length; i++) {
+            const container = monthContainers[i];
+            if (container.contains(dayEl)) {
+              currentMonth = i; // 0-based month index
+              break;
             }
-            
-            return match;
-          });
+          }
+          
+          if (currentMonth >= 0) {
+            // Find events that match this exact day, month and year
+            eventsForDay = dataSource.filter(event => {
+              const eventDate = event.startDate.getDate();
+              const eventMonth = event.startDate.getMonth();
+              const eventYear = event.startDate.getFullYear();
+              const match = eventDate === dayNumber && 
+                           eventMonth === currentMonth && 
+                           eventYear === currentYear;
+              
+              // Debug: Log matches to see what's happening
+              if (match) {
+                console.log(`Debug: Day ${dayNumber}/${currentMonth+1}/${currentYear} matched event:`, {
+                  eventName: event.name,
+                  eventDate: event.startDate.toDateString(),
+                  dayNumber: dayNumber,
+                  currentMonth: currentMonth + 1,
+                  eventDay: eventDate,
+                  eventMonth: eventMonth + 1,
+                  eventYear: eventYear
+                });
+              }
+              
+              return match;
+            });
+          }
         }
       }
       
