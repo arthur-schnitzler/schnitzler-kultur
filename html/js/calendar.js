@@ -519,17 +519,56 @@ function applySimpleEventStacking() {
   
   // Create custom event bars after calendar renders
   setTimeout(() => {
-    const dayElements = calendarElement.querySelectorAll('td.day');
-    dayElements.forEach(dayEl => {
+    console.log('Debug: Starting event stacking...');
+    const dayElements = calendarElement.querySelectorAll('td');
+    console.log('Debug: Found day elements:', dayElements.length);
+    
+    dayElements.forEach((dayEl, dayIndex) => {
+      // Check what's in each day element
+      const dayContent = dayEl.innerHTML;
+      const hasEvents = dayContent.includes('style="background-color') || dayEl.dataset.events;
+      
+      if (hasEvents || dayIndex < 5) { // Debug first few days
+        console.log(`Debug: Day ${dayIndex}:`, {
+          innerHTML: dayContent,
+          classList: dayEl.className,
+          dataset: dayEl.dataset,
+          children: Array.from(dayEl.children).map(child => ({
+            tagName: child.tagName,
+            className: child.className,
+            style: child.style.cssText
+          }))
+        });
+      }
+      
       // Remove existing custom bars
       const existingBars = dayEl.querySelector('.custom-event-bars');
       if (existingBars) {
         existingBars.remove();
       }
       
-      // Find original events for this day
-      const eventElements = dayEl.querySelectorAll('.event');
+      // Try different selectors to find events
+      const eventSelectors = ['.event', '[data-color]', '[style*="background-color"]', '.day-content'];
+      let eventElements = [];
+      
+      for (const selector of eventSelectors) {
+        const found = dayEl.querySelectorAll(selector);
+        if (found.length > 0) {
+          console.log(`Debug: Found ${found.length} elements with selector "${selector}" in day ${dayIndex}`);
+          eventElements = found;
+          break;
+        }
+      }
+      
+      // Also check if the day cell itself has event styling
+      if (dayEl.style.backgroundColor && dayEl.style.backgroundColor !== '') {
+        console.log(`Debug: Day ${dayIndex} has background color:`, dayEl.style.backgroundColor);
+        eventElements = [dayEl]; // Treat the day cell itself as an event
+      }
+      
       if (eventElements.length > 0) {
+        console.log(`Debug: Processing ${eventElements.length} events for day ${dayIndex}`);
+        
         // Create container for custom event bars
         const barsContainer = document.createElement('div');
         barsContainer.className = 'custom-event-bars';
@@ -539,13 +578,22 @@ function applySimpleEventStacking() {
           if (index < 5) { // Limit to 5 visible bars
             const bar = document.createElement('div');
             bar.className = 'custom-event-bar';
-            const bgColor = event.style.backgroundColor || event.getAttribute('data-color') || '#ccc';
+            let bgColor = event.style.backgroundColor || event.getAttribute('data-color') || '#007bff';
+            
+            // If no color found, try to extract from computed style
+            if (!bgColor || bgColor === '') {
+              const computedStyle = window.getComputedStyle(event);
+              bgColor = computedStyle.backgroundColor;
+            }
+            
             bar.style.backgroundColor = bgColor;
+            console.log(`Debug: Created bar ${index} with color:`, bgColor);
             barsContainer.appendChild(bar);
           }
         });
         
         dayEl.appendChild(barsContainer);
+        console.log(`Debug: Added ${barsContainer.children.length} bars to day ${dayIndex}`);
         
         // Add indicator for more than 5 events
         if (eventElements.length > 5) {
@@ -562,7 +610,7 @@ function applySimpleEventStacking() {
         }
       }
     });
-  }, 300);
+  }, 500);
 }
 
 function showEventPopup(events, date) {
