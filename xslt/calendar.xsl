@@ -11,7 +11,7 @@
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
-            <xsl:text>schnitzler-briefe</xsl:text>
+            <xsl:text>schnitzler-kultur</xsl:text>
         </xsl:variable>
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
         <html lang="de">
