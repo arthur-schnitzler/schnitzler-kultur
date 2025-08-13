@@ -11,7 +11,7 @@
     
     <xsl:template match="/">
         <xsl:variable name="doc_title">
-            <xsl:text>Einfacher Kalender - schnitzler-kultur</xsl:text>
+            <xsl:text>Kalender</xsl:text>
         </xsl:variable>
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
         <html lang="de">
@@ -25,8 +25,7 @@
                     <div class="container-fluid">
                         <div class="card">
                             <div class="card-header" style="text-align:center">
-                                <h1 style="display:inline-block;margin-bottom:0;padding-right:5px;">
-                                    Einfacher Kalender</h1>
+                                <h1 style="display:inline-block;margin-bottom:0;padding-right:5px;">Kalender</h1>
                                 <a>
                                     <i class="fas fa-info"
                                         title="Kulturelle Ereignisse nach Tagen und Kategorien"
@@ -77,11 +76,11 @@
                         <div class="modal-dialog modal-dialog-centered">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="calendarModalTitle">Einfacher Kalender</h5>
+                                    <h5 class="modal-title" id="calendarModalTitle">Kalender</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Schließen"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <p class="lead">Dieser nachhaltige Kalender zeigt Arthur Schnitzlers kulturelle Aktivitäten in verschiedenen übersichtlichen Ansichten.</p>
+                                    <p class="lead">Dieser Kalender zeigt Arthur Schnitzlers kulturelle Aktivitäten in verschiedenen übersichtlichen Ansichten.</p>
                                     <h6 class="fw-bold">Ansichten:</h6>
                                     <ul class="list-unstyled">
                                         <li><i class="bi bi-calendar3 text-primary"></i> <strong>Jahr:</strong> Kompakte Übersicht aller 12 Monate</li>
@@ -96,9 +95,6 @@
                                         <li>Schnelle Navigation zwischen Zeitperioden</li>
                                         <li>Detaillierte Event-Informationen per Klick</li>
                                     </ul>
-                                    <div class="alert alert-success" role="alert">
-                                        <i class="bi bi-leaf-fill"></i> <strong>Nachhaltig:</strong> Keine externen Abhängigkeiten, minimal CSS/JS, optimiert für Performance.
-                                    </div>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Schließen</button>
