@@ -35,11 +35,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add legend
     sidebar.appendChild(sidebarControls.createLegend());
     
-    // Highlight first year button
+    // Highlight the current year button based on calendar's actual year
     if (years.length > 0) {
-        const firstYearBtn = document.getElementById('ybtn' + years[0]);
-        if (firstYearBtn) {
-            firstYearBtn.classList.add("focus");
+        const currentYearBtn = document.getElementById('ybtn' + calendar.currentYear);
+        if (currentYearBtn) {
+            currentYearBtn.classList.add("focus");
         }
     }
 });
