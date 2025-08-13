@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-07-15">serialized</change>
+      <change when-iso="2025-08-13">serialized</change>
       
        
     </revisionDesc>
@@ -1214,6 +1214,9 @@
           <listBibl>
             
     
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+    
             <bibl type="collections" n="24">manually created entity</bibl>
             
 
@@ -1783,6 +1786,12 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb869.html</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q649</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Moskau</note>
             
 
           </location>
@@ -7586,6 +7595,12 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb869.html</note>
             
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q649</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Moskau</note>
+            
 
           </location>
           
@@ -9030,6 +9045,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262547/</note>
             
   
             <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb30.html</note>
@@ -11483,6 +11501,12 @@
   
             <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb147893.html</note>
             
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%B6nigliches_Dramatisches_Theater</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1140265</note>
+            
 
           </location>
           
@@ -11493,13 +11517,7 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/43676-8</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1140265</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb62240.html</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%B6nigliches_Dramatisches_Theater</idno>
           
 
           <note type="apis_dates">
@@ -11785,6 +11803,12 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb869.html</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q649</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Moskau</note>
             
 
           </location>
@@ -13734,7 +13758,7 @@
         <org xml:id="pmb47085">
           
   
-          <orgName>Münchner Schauspielhaus</orgName>
+          <orgName>Münchner Kammerspiele</orgName>
           
   
           <orgName type="alternative-name">Vereinigte Theater (München, Münchner Schauspielhaus)</orgName>
@@ -14137,6 +14161,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb833.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261421/</note>
             
   
             <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb833.html</note>
@@ -17394,6 +17421,9 @@
             <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q312576</note>
             
   
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Staatsoper_Unter_den_Linden</note>
+            
+  
             <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145351/</note>
             
   
@@ -17413,9 +17443,6 @@
           
   
           <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37043</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Staatsoper_Unter_den_Linden</idno>
           
 
           <listBibl>
@@ -22373,6 +22400,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262547/</note>
             
   
             <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb30.html</note>

@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-07-15">serialized</change>
+      <change when-iso="2025-08-13">serialized</change>
       
        
     </revisionDesc>
@@ -75,10 +75,10 @@
           </persName>
           
   
-          <persName type="person_geburtsname_nachname">Freiberger</persName>
+          <persName type="person_geburtsname_vorname">Maurice</persName>
           
   
-          <persName type="person_geburtsname_vorname">Maurice</persName>
+          <persName type="person_geburtsname_nachname">Freiberger</persName>
           
   
           <birth>
@@ -13018,10 +13018,10 @@
           <occupation key="99">Journalist/Journalistin</occupation>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/176216/</idno>
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp51010</idno>
           
   
-          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp51010</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/176216/</idno>
           
 
           <listBibl>
@@ -18544,6 +18544,39 @@
           <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=25</idno>
           
 
+          <affiliation notBefore-iso="1911-01-01" when-iso="1911-01-01" notAfter-iso="1911-12-31">
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="47085">Münchner Kammerspiele</orgName>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q520185</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37068/</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47085/</idno>
+            
+    
+            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/44467-4</idno>
+            
+    
+            <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb47085</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/M%C3%BCnchner_Kammerspiele</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb47085.html</idno>
+            
+
+          </affiliation>
+          
+
           <listEvent>
             
     
@@ -18557,6 +18590,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209684/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="296242" when-iso="1915-11-27">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Premiere von Der Einsame Weg, 27.11.1915</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296242/</idno>
               
     
             </event>
@@ -62688,10 +62736,10 @@
           <occupation key="105">Schauspieler/Schauspielerin</occupation>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120689/</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116380284</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116380284</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120689/</idno>
           
   
           <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/pmb120689.html</idno>
@@ -88651,10 +88699,10 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1044369981</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1508805</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Georges_Berr</idno>
           
   
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Georges_Berr</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1508805</idno>
           
   
           <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/pmb119931.html</idno>
@@ -109353,6 +109401,27 @@
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb119234.html</idno>
           
 
+          <listEvent>
+            
+    
+            <event n="Theaterpremiere" key="296242" when-iso="1915-11-27">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Premiere von Der Einsame Weg, 27.11.1915</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296242/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
           <listBibl>
             
     
@@ -129233,14 +129302,14 @@
             <date when-iso="1669-10-27">1669-10-27</date>
             
       
-            <settlement key="149194">
+            <settlement key="29004">
               
         
               <placeName type="pref">Toledo</placeName>
               
         
               <location>
-                <geo>39,866666666667 -4,0333333333333</geo>
+                <geo>39,866667 -4,033333</geo>
               </location>
               
       
@@ -138865,7 +138934,7 @@
             <settlement key="57752">
               
         
-              <placeName type="pref">Oryol</placeName>
+              <placeName type="pref">Orjol</placeName>
               
         
               <location>
@@ -145113,10 +145182,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27100/</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118771663</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q79178</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q79178</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118771663</idno>
           
   
           <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp55458</idno>
@@ -149605,6 +149674,21 @@
           <listEvent>
             
     
+            <event n="Theateruraufführung" key="296012" when-iso="1901-03-16">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Uraufführung von Die Ehrlosen, 16.3.1901</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296012/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateruraufführung" key="48470" when-iso="1905-04-13">
               
         
@@ -149828,7 +149912,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 28.4.1901</label>
+              <label>Zweite Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 28.4.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147961/</idno>
@@ -150801,6 +150885,100 @@
           
 
         </person>
+        <person xml:id="pmb26422">
+          
+  
+          <persName>
+            
+      
+            <forename>Carlo</forename>
+            
+      
+            <surname>Vecchiarelli</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1884-01-10">10.01.1884</date>
+            
+      
+            <settlement key="26423">
+              
+        
+              <placeName type="pref">Cingoli</placeName>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1948-12-13">1948-12-13</date>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="267">Diplomat/Diplomatin</occupation>
+          
+  
+          <occupation key="2232">General/Generalin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20935.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26422/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q12786696</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Carlo_Vecchiarelli</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="248026" when-iso="1927-06-30">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Hochzeit von Lili Schnitzler und Arnoldo Cappellini, 30.6.1927</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/248026/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
         <person xml:id="pmb26421">
           
   
@@ -151646,6 +151824,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48222/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="296492" when-iso="1910-10-11">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Private Lesung von Die ungleichen Schalen, 11.10.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296492/</idno>
               
     
             </event>
@@ -152693,6 +152886,9 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Turgenjew, Iwan Segejewitsch</persName>
+          
+  
           <birth>
             
     
@@ -152702,7 +152898,7 @@
             <settlement key="57752">
               
         
-              <placeName type="pref">Oryol</placeName>
+              <placeName type="pref">Orjol</placeName>
               
         
               <location>
@@ -152778,6 +152974,12 @@
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb26238</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262951/</idno>
+          
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp11722</idno>
+          
+  
           <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=271</idno>
           
 
@@ -152787,10 +152989,16 @@
             <bibl type="collections" n="12">Die Fackel</bibl>
             
     
+            <bibl type="collections" n="35">Der Brenner</bibl>
+            
+    
             <bibl type="collections" n="42">Die Schaubühne</bibl>
             
 
           </listBibl>
+          
+  
+          <note type="references"> </note>
           
 
           <figure>
@@ -157080,6 +157288,113 @@
             
 
           </listEvent>
+          
+
+        </person>
+        <person xml:id="pmb25524">
+          
+  
+          <persName>
+            
+      
+            <forename>Sigmund</forename>
+            
+      
+            <surname>Stiassny</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1873-07-05">05.07.1873</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1941-02-22">22.02.1941</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="486">Militärarzt/Militärärztin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20433.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25524/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q124790586</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hausball" key="195040" when-iso="1886-02-01">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Ball bei Sigmund Stiassny, Februar 1886</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195040/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -162262,10 +162577,10 @@
           <persName type="person_geburtsname_nachname">Karger</persName>
           
   
-          <persName type="person_ehename_nachname">v. Wittgenstein</persName>
+          <persName type="person_pseudonym">Ellyn Karin</persName>
           
   
-          <persName type="person_pseudonym">Ellyn Karin</persName>
+          <persName type="person_ehename_nachname">v. Wittgenstein</persName>
           
   
           <birth>
@@ -162705,6 +163020,113 @@
           
 
         </person>
+        <person xml:id="pmb24842">
+          
+  
+          <persName>
+            
+      
+            <forename>Alberto</forename>
+            
+      
+            <surname>Senigaglia</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1898-12-04">04.12.1898</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1961-11-10">1961-11-10</date>
+            
+      
+            <settlement key="64480">
+              
+        
+              <placeName type="pref">Gorizia</placeName>
+              
+        
+              <location>
+                <geo>45,94088 13,62167</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+          
+  
+          <occupation key="430">Dolmetscher/Dolmetscherin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20061.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24842/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="248026" when-iso="1927-06-30">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Hochzeit von Lili Schnitzler und Arnoldo Cappellini, 30.6.1927</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/248026/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
         <person xml:id="pmb24838">
           
   
@@ -163098,7 +163520,7 @@
           <listEvent>
             
     
-            <event n="Theateruraufführung" key="46947" when-iso="1910-09-18">
+            <event n="Opernuraufführung" key="46947" when-iso="1910-09-18">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -169531,7 +169953,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Aufführung im jüdischen Theater, 25.5.1901</label>
+              <label>Theateraufführung, 25.5.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231556/</idno>
@@ -170132,10 +170554,10 @@
           <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp52654</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118794051</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q268760</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q268760</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118794051</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ruth_St._Denis</idno>
@@ -172542,7 +172964,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Klavierkonzert Moriz Rosenthal, 30.11.1905</label>
+              <label>Klavierkonzert von Moriz Rosenthal, 30.11.1905</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209394/</idno>
@@ -180540,7 +180962,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Schulvorstellung Klasse Eugenie Petrasch, 11.3.1896</label>
+              <label>Schulvorstellung des Konservatoriums der Gesellschaft der Musikfreunde (Klasse Eugenie Petrasch), 11.3.1896</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199554/</idno>
@@ -186949,7 +187371,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 17.12.1901</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 17.12.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231748/</idno>
@@ -187073,6 +187495,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209684/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="296242" when-iso="1915-11-27">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Premiere von Der Einsame Weg, 27.11.1915</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296242/</idno>
               
     
             </event>
@@ -187344,10 +187781,10 @@
             <event n="Hausball" key="195043" when-iso="1886-02-01">
               
         
-              <desc n="1370">teilgenommen an</desc>
+              <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Ball Moskovicz, Februar 1886</label>
+              <label>Ball bei Louis Moskovicz de Zemplén, Februar 1886</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195043/</idno>
@@ -205548,10 +205985,10 @@
           <persName type="person_geburtsname_nachname">Schwarz</persName>
           
   
-          <persName type="person_pseudonym">Garda Irmen</persName>
+          <persName type="namensvariante">Reichart</persName>
           
   
-          <persName type="namensvariante">Reichart</persName>
+          <persName type="person_pseudonym">Garda Irmen</persName>
           
   
           <birth>
@@ -206643,7 +207080,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Lesung Literarische Vereinigung, 17.2.1896</label>
+              <label>Rezitationsabend bis nun nicht gedruckter literarischer Novitäten, 17.2.1896</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144831/</idno>
@@ -211203,9 +211640,6 @@
             
   
           </persName>
-          
-  
-          <persName type="legacy-name-merge">Horn, Paul</persName>
           
   
           <birth>
@@ -217860,10 +218294,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/17629/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147434/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q104705948</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q104705948</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147434/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Herbert_Ginsberg</idno>
@@ -218474,20 +218908,6 @@
             
     
             <date when-iso="1885-01-21">21.01.1885</date>
-            
-      
-            <settlement key="433">
-              
-        
-              <placeName type="pref">Sankt Petersburg</placeName>
-              
-        
-              <location>
-                <geo>59,93863 30,31413</geo>
-              </location>
-              
-      
-            </settlement>
             
       
             <settlement key="433">
@@ -222591,7 +223011,7 @@
           <listEvent>
             
     
-            <event n="Theateruraufführung" key="46947" when-iso="1910-09-18">
+            <event n="Opernuraufführung" key="46947" when-iso="1910-09-18">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
@@ -227981,7 +228401,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Konservatoriumskonzert (Opernschule), 16.12.1905</label>
+              <label>Konzert des Konservatoriums der Gesellschaft der Musikfreunde (Opernschule), 16.12.1905</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209399/</idno>
@@ -230650,7 +231070,7 @@
             <term key="1182">arbeitet für</term>
             
     
-            <orgName key="47085">Münchner Schauspielhaus</orgName>
+            <orgName key="47085">Münchner Kammerspiele</orgName>
             
     
             <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q520185</idno>
@@ -236596,10 +237016,10 @@
           <persName type="person_geburtsname_nachname">Carré</persName>
           
   
-          <persName type="person_namensvariante_vorname">Lily</persName>
+          <persName type="person_geburtsname_vorname">Liliane Marie Madeleine</persName>
           
   
-          <persName type="person_geburtsname_vorname">Liliane Marie Madeleine</persName>
+          <persName type="person_namensvariante_vorname">Lily</persName>
           
   
           <birth>
@@ -239283,7 +239703,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Zweiter Konservatoriumsvortragsabend, 2.11.1889</label>
+              <label>Zweiter Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186720/</idno>
@@ -239298,7 +239718,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Vortragsübung Konservatorium, 5.12.1889</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186741/</idno>
@@ -239313,7 +239733,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Vortragsabend Konservatorium, 11.12.1889</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186746/</idno>
@@ -239328,7 +239748,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
@@ -239676,7 +240096,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 14.6.1897</label>
+              <label>Erste Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 14.6.1897</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200250/</idno>
@@ -243807,6 +244227,9 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Broda, Moritz</persName>
+          
+  
           <birth>
             
     
@@ -243873,6 +244296,12 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb14581.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/159489/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb159489</idno>
+          
 
           <listEvent>
             
@@ -243915,8 +244344,14 @@
     
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
 
           </listBibl>
+          
+  
+          <note type="references"> </note>
           
 
         </person>
@@ -244416,6 +244851,21 @@
           
 
           <listEvent>
+            
+    
+            <event n="Theateruraufführung" key="296012" when-iso="1901-03-16">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Uraufführung von Die Ehrlosen, 16.3.1901</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296012/</idno>
+              
+    
+            </event>
             
     
             <event n="Theaterpremiere" key="186202" when-iso="1907-09-27">
@@ -246228,6 +246678,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143134/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateruraufführung" key="296012" when-iso="1901-03-16">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Uraufführung von Die Ehrlosen, 16.3.1901</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296012/</idno>
               
     
             </event>
@@ -255256,6 +255721,51 @@
             </event>
             
     
+            <event n="Private Lesung" key="296492" when-iso="1910-10-11">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Private Lesung von Die ungleichen Schalen, 11.10.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296492/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Liederkonzert" key="183571" when-iso="1911-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Gesangskonzert Olga Schnitzler, 5.2.1911</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Generalprobe" key="239133" when-iso="1912-10-25">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Generalprobe von Das Haus am Meer, 25.10.1912</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/239133/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Bankett" key="47517" when-iso="1912-11-17">
               
         
@@ -255266,6 +255776,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47517/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296186" when-iso="1913-05-26">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hermann-Bahr-Feier, 26.5.1913</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296186/</idno>
               
     
             </event>
@@ -255341,6 +255866,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183752/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296224" when-iso="1929-10-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Gedenkfeier für Hugo von Hofmannsthal, 13.10.1929</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296224/</idno>
               
     
             </event>
@@ -256872,6 +257412,30 @@
           
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb162850</idno>
+          
+
+          <affiliation>
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="293721">Außenministerium</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/293721/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q642938</idno>
+            
+    
+            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16037727-4</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_europ%C3%A4ische_und_internationale_Angelegenheiten</idno>
+            
+
+          </affiliation>
           
 
           <listEvent>
@@ -259046,6 +259610,9 @@
           <persName type="legacy-name-merge">Wedekind, Frank</persName>
           
   
+          <persName type="legacy-name-merge">Wedekind, Frank</persName>
+          
+  
           <birth>
             
     
@@ -259099,6 +259666,9 @@
           
   
           <occupation key="105">Schauspieler/Schauspielerin</occupation>
+          
+  
+          <occupation key="4430">Schriftsteller/Schriftstellerin</occupation>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118629867</idno>
@@ -259156,6 +259726,12 @@
           
   
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.1500</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261876/</idno>
+          
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp3340</idno>
           
   
           <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=165</idno>
@@ -259255,6 +259831,9 @@
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="35">Der Brenner</bibl>
             
     
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
@@ -259877,6 +260456,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48222/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="296492" when-iso="1910-10-11">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Private Lesung von Die ungleichen Schalen, 11.10.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296492/</idno>
               
     
             </event>
@@ -263947,6 +264541,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238288/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Generalprobe" key="239133" when-iso="1912-10-25">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Generalprobe von Das Haus am Meer, 25.10.1912</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/239133/</idno>
               
     
             </event>
@@ -268679,6 +269288,21 @@
             </event>
             
     
+            <event n="Theateraufführung" key="210395" when-iso="1926-12-30">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Aufführung von Volpone, 30.12.1926</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210395/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateraufführung" key="210433" when-iso="1927-12-08">
               
         
@@ -271249,7 +271873,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 21.12.1900</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 21.12.1900</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/182270/</idno>
@@ -271279,7 +271903,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriums-Vorstellung, 26.2.1901</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 26.2.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209189/</idno>
@@ -271339,7 +271963,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 17.12.1901</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 17.12.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231748/</idno>
@@ -275693,6 +276317,21 @@
             </event>
             
     
+            <event n="Hochzeit" key="248026" when-iso="1927-06-30">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Hochzeit von Lili Schnitzler und Arnoldo Cappellini, 30.6.1927</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/248026/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateraufführung" key="210429" when-iso="1927-11-30">
               
         
@@ -279201,7 +279840,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Lesung Literarische Vereinigung, 17.2.1896</label>
+              <label>Rezitationsabend bis nun nicht gedruckter literarischer Novitäten, 17.2.1896</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144831/</idno>
@@ -281944,6 +282583,21 @@
             </event>
             
     
+            <event n="Generalprobe" key="239133" when-iso="1912-10-25">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Generalprobe von Das Haus am Meer, 25.10.1912</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/239133/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateraufführung" key="186322" when-iso="1916-01-15">
               
         
@@ -282258,6 +282912,9 @@
           <persName type="legacy-name-merge">Reinhardt, Max</persName>
           
   
+          <persName type="legacy-name-merge">Reinhardt, Max</persName>
+          
+  
           <birth>
             
     
@@ -282377,6 +283034,12 @@
           
   
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.1151</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262526/</idno>
+          
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp8269</idno>
           
 
           <affiliation notBefore-iso="1902-01-01" when-iso="1902-01-01" notAfter-iso="1902-12-31">
@@ -282911,6 +283574,9 @@
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="35">Der Brenner</bibl>
             
     
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
@@ -283561,7 +284227,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Vorlesung Emanuel Reicher, 7.2.1892</label>
+              <label>Vorlesung von Emanuel Reicher, 7.2.1892</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208528/</idno>
@@ -289059,7 +289725,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Filmvorführung von Vierundzwanzig Stunden aus dem Leben einer Frau, 25.2.1928</label>
+              <label>Filmvorführung von Das Schicksal einer Nacht, 25.2.1928</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210970/</idno>
@@ -299515,6 +300181,21 @@
     
             </event>
             
+    
+            <event n="Feier" key="296224" when-iso="1929-10-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Gedenkfeier für Hugo von Hofmannsthal, 13.10.1929</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296224/</idno>
+              
+    
+            </event>
+            
 
           </listEvent>
           
@@ -299911,6 +300592,21 @@
           
 
           <listEvent>
+            
+    
+            <event n="Theaterpremiere" key="88562" when-iso="1911-10-14">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Premiere von Das weite Land, 14.10.1911 [IV.]</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88562/</idno>
+              
+    
+            </event>
             
     
             <event n="Vortrag" key="254145" when-iso="1925-06-02">
@@ -300846,6 +301542,9 @@
           <persName type="legacy-name-merge">Ludwig, Otto</persName>
           
   
+          <persName type="legacy-name-merge">Ludwig, Otto</persName>
+          
+  
           <birth>
             
     
@@ -300898,6 +301597,15 @@
           <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
           
   
+          <occupation key="4430">Schriftsteller/Schriftstellerin</occupation>
+          
+  
+          <occupation key="4455">Krimiautor/Krimiautorin</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262626/</idno>
+          
+  
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118574973</idno>
           
   
@@ -300939,11 +301647,17 @@
   
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.867</idno>
           
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp9132</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="35">Der Brenner</bibl>
             
     
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
@@ -302427,6 +303141,9 @@
           <persName type="legacy-name-merge">Lessing, Gotthold Ephraim</persName>
           
   
+          <persName type="legacy-name-merge">Lessing, Gotthold Ephraim</persName>
+          
+  
           <birth>
             
     
@@ -302479,7 +303196,28 @@
           <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
           
   
+          <occupation key="100">Kritiker/Kritikerin</occupation>
+          
+  
+          <occupation key="154">Philosoph/Philosophin</occupation>
+          
+  
           <occupation key="247">Bibliothekar/Bibliothekarin</occupation>
+          
+  
+          <occupation key="275">Philosophiehistoriker/Philosophiehistorikerin</occupation>
+          
+  
+          <occupation key="4430">Schriftsteller/Schriftstellerin</occupation>
+          
+  
+          <occupation key="4431">Philosoph/Philosophin</occupation>
+          
+  
+          <occupation key="4449">Kritiker/Kritikerin</occupation>
+          
+  
+          <occupation key="4455">Krimiautor/Krimiautorin</occupation>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118572121</idno>
@@ -302535,6 +303273,12 @@
   
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.819</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262371/</idno>
+          
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp7448</idno>
+          
 
           <listBibl>
             
@@ -302543,6 +303287,9 @@
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="35">Der Brenner</bibl>
             
     
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
@@ -304516,10 +305263,10 @@
             <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
             
     
-            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q480732</idno>
             
     
-            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q480732</idno>
+            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
             
     
             <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Amtsgericht_Hamburg</idno>
@@ -305059,6 +305806,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148379/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296186" when-iso="1913-05-26">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hermann-Bahr-Feier, 26.5.1913</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296186/</idno>
               
     
             </event>
@@ -306262,6 +307024,9 @@
           <persName type="legacy-name-merge">Kleist, Heinrich von</persName>
           
   
+          <persName type="legacy-name-merge">Kleist, Heinrich von</persName>
+          
+  
           <birth>
             
     
@@ -306362,6 +307127,12 @@
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.736</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262057/</idno>
+          
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp4832</idno>
+          
+  
           <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=1464</idno>
           
 
@@ -306372,6 +307143,9 @@
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="35">Der Brenner</bibl>
             
     
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
@@ -307910,20 +308684,6 @@
             
     
             <date when-iso="1910-09-20">20.09.1910</date>
-            
-      
-            <settlement key="50">
-              
-        
-              <placeName type="pref">Wien</placeName>
-              
-        
-              <location>
-                <geo>48,208333 16,373056</geo>
-              </location>
-              
-      
-            </settlement>
             
       
             <settlement key="50">
@@ -314795,7 +315555,7 @@
           </persName>
           
   
-          <persName type="legacy-name-merge">Herzl, Theodor</persName>
+          <persName type="person_pseudonym">Albert Schnabel</persName>
           
   
           <birth>
@@ -315341,6 +316101,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143957/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296224" when-iso="1929-10-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Gedenkfeier für Hugo von Hofmannsthal, 13.10.1929</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296224/</idno>
               
     
             </event>
@@ -320878,6 +321653,21 @@
           
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb11447</idno>
+          
+
+          <affiliation when-iso="1903-04-30">
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="296151">Niederösterreichischer Zensurbeirat</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296151/</idno>
+            
+
+          </affiliation>
           
 
           <affiliation>
@@ -328615,6 +329405,9 @@
           <persName type="legacy-name-merge">Dehmel, Richard</persName>
           
   
+          <persName type="legacy-name-merge">Dehmel, Richard</persName>
+          
+  
           <birth>
             
     
@@ -328665,6 +329458,12 @@
           
   
           <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+          
+  
+          <occupation key="4430">Schriftsteller/Schriftstellerin</occupation>
+          
+  
+          <occupation key="4455">Krimiautor/Krimiautorin</occupation>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118679236</idno>
@@ -328718,6 +329517,12 @@
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.291</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262754/</idno>
+          
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp10044</idno>
+          
+  
           <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=2233</idno>
           
 
@@ -328764,6 +329569,9 @@
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="35">Der Brenner</bibl>
             
     
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
@@ -331602,7 +332410,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Lesung von Marx Burckhard, 19.1.1897</label>
+              <label>Lesung von Max Burckhard, 19.1.1897</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168887/</idno>
@@ -335803,6 +336611,9 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Bernauer, Rudolf</persName>
+          
+  
           <birth>
             
     
@@ -335890,6 +336701,12 @@
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb10896</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/267893/</idno>
+          
+  
+          <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=2467</idno>
+          
 
           <listEvent>
             
@@ -335910,6 +336727,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="42">Die Schaubühne</bibl>
+            
+
+          </listBibl>
           
 
           <figure>
@@ -338566,7 +339392,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Aufführung im jüdischen Theater, 25.5.1901</label>
+              <label>Theateraufführung, 25.5.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231556/</idno>
@@ -339441,7 +340267,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Aufführung im jüdischen Theater, 25.5.1901</label>
+              <label>Theateraufführung, 25.5.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231556/</idno>
@@ -342356,6 +343182,21 @@
             </event>
             
     
+            <event n="Theaterpremiere" key="208725" when-iso="1895-02-01">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Premiere von Schattenspiel, 1.2.1895</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208725/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Vortrag" key="92775" when-iso="1895-03-13">
               
         
@@ -342461,13 +343302,28 @@
             </event>
             
     
+            <event n="Theateruraufführung" key="296012" when-iso="1901-03-16">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Uraufführung von Die Ehrlosen, 16.3.1901</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296012/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Schulaufführung" key="147961" when-iso="1901-04-28">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 28.4.1901</label>
+              <label>Zweite Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 28.4.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147961/</idno>
@@ -342654,6 +343510,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209641/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296186" when-iso="1913-05-26">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Hermann-Bahr-Feier, 26.5.1913</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296186/</idno>
               
     
             </event>
@@ -343836,6 +344707,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143957/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296224" when-iso="1929-10-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Gedenkfeier für Hugo von Hofmannsthal, 13.10.1929</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296224/</idno>
               
     
             </event>
@@ -351301,10 +352187,10 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1139671138</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58209/</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb58209.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb58209.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58209/</idno>
           
 
           <listBibl>
@@ -370452,7 +371338,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Schulkonzert im Bösendorfer-Saal, 24.6.1880</label>
+              <label>Schulkonzert des Konservatoriums der Gesellschaft der Musikfreunde, 24.6.1880</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207595/</idno>
@@ -373539,6 +374425,9 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Lenz, Leo</persName>
+          
+  
           <birth>
             
     
@@ -373608,11 +374497,20 @@
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Leo_Lenz</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/267754/</idno>
+          
+  
+          <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=1301</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="42">Die Schaubühne</bibl>
             
 
           </listBibl>
@@ -376999,6 +377897,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210311/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296224" when-iso="1929-10-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Gedenkfeier für Hugo von Hofmannsthal, 13.10.1929</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296224/</idno>
               
     
             </event>
@@ -381093,6 +382006,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210428/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296224" when-iso="1929-10-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Gedenkfeier für Hugo von Hofmannsthal, 13.10.1929</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296224/</idno>
               
     
             </event>
@@ -392296,6 +393224,9 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Frank, Leonhard</persName>
+          
+  
           <birth>
             
     
@@ -392377,6 +393308,12 @@
   
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.420</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/267848/</idno>
+          
+  
+          <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=2005</idno>
+          
 
           <listBibl>
             
@@ -392385,6 +393322,9 @@
             
     
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
+            
+    
+            <bibl type="collections" n="42">Die Schaubühne</bibl>
             
 
           </listBibl>
@@ -400077,6 +401017,9 @@
           <persName type="legacy-name-merge">Büchner, Georg</persName>
           
   
+          <persName type="legacy-name-merge">Büchner, Georg</persName>
+          
+  
           <birth>
             
     
@@ -400164,6 +401107,12 @@
   
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.186</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261927/</idno>
+          
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp3878</idno>
+          
 
           <listBibl>
             
@@ -400174,13 +401123,16 @@
             <bibl type="collections" n="12">Die Fackel</bibl>
             
     
+            <bibl type="collections" n="35">Der Brenner</bibl>
+            
+    
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
             
 
           </listBibl>
           
   
-          <note type="references">None </note>
+          <note type="references">None  </note>
           
 
           <figure>
@@ -408332,6 +409284,9 @@
           <persName type="legacy-name-merge">Rosenthal, Friedrich</persName>
           
   
+          <persName type="legacy-name-merge">Rosenthal, Friedrich</persName>
+          
+  
           <birth>
             
     
@@ -408413,6 +409368,12 @@
   
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.1203</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/267670/</idno>
+          
+  
+          <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=704</idno>
+          
 
           <listEvent>
             
@@ -408472,6 +409433,9 @@
             
     
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
+            
+    
+            <bibl type="collections" n="42">Die Schaubühne</bibl>
             
 
           </listBibl>
@@ -408672,10 +409636,10 @@
           </persName>
           
   
-          <persName type="person_geburtsname_vorname">Eligius Franz von</persName>
+          <persName type="person_geburtsname_nachname">Münch-Bellinghausen;</persName>
           
   
-          <persName type="person_geburtsname_nachname">Münch-Bellinghausen;</persName>
+          <persName type="person_geburtsname_vorname">Eligius Franz von</persName>
           
   
           <birth>
@@ -408931,10 +409895,10 @@
           </persName>
           
   
-          <persName type="person_geburtsname_nachname">Stampe Forchhammer</persName>
+          <persName type="person_ehename_nachname">Lind</persName>
           
   
-          <persName type="person_ehename_nachname">Lind</persName>
+          <persName type="person_geburtsname_nachname">Stampe Forchhammer</persName>
           
   
           <persName type="person_geburtsname_vorname">Elise</persName>
@@ -409322,6 +410286,12 @@
           <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
           
   
+          <occupation key="4430">Schriftsteller/Schriftstellerin</occupation>
+          
+  
+          <occupation key="4455">Krimiautor/Krimiautorin</occupation>
+          
+  
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118554654</idno>
           
   
@@ -409360,11 +410330,20 @@
   
           <idno type="URL" subtype="zweig-digital">https://www.stefanzweig.digital/o:szd.personen/sdef:TEI/get#SZDPER.652</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262979/</idno>
+          
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp11904</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="35">Der Brenner</bibl>
             
     
             <bibl type="collections" n="34">Stefan Zweig digital</bibl>
@@ -417116,7 +418095,7 @@
           <death>
             
     
-            <date when-iso="1853-01-01" notAfter-iso="1853-12-31">1853</date>
+            <date when-iso="1853-04-28">1853-04-28</date>
             
       
             <settlement key="168">
@@ -417215,9 +418194,6 @@
             
 
           </listBibl>
-          
-  
-          <note type="references"> </note>
           
 
           <figure>
@@ -418097,6 +419073,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143939/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296224" when-iso="1929-10-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Gedenkfeier für Hugo von Hofmannsthal, 13.10.1929</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296224/</idno>
               
     
             </event>
@@ -423920,6 +424911,9 @@
     
             <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29654.html</idno>
             
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Langen_M%C3%BCller_Verlag</idno>
+            
 
           </affiliation>
           
@@ -426717,6 +427711,9 @@
           <persName type="legacy-name-merge">Rezniček, Emil Nikolaus von</persName>
           
   
+          <persName type="legacy-name-merge">Reznicek, Emil Nikolaus von</persName>
+          
+  
           <birth>
             
     
@@ -426804,6 +427801,12 @@
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb3152</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/267684/</idno>
+          
+  
+          <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=758</idno>
+          
 
           <listBibl>
             
@@ -426812,6 +427815,9 @@
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="42">Die Schaubühne</bibl>
             
 
           </listBibl>
@@ -431869,6 +432875,21 @@
             </event>
             
     
+            <event n="Theateruraufführung" key="296012" when-iso="1901-03-16">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Uraufführung von Die Ehrlosen, 16.3.1901</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296012/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theaterpremiere" key="35164" when-iso="1905-01-28">
               
         
@@ -434795,6 +435816,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143957/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="296224" when-iso="1929-10-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Gedenkfeier für Hugo von Hofmannsthal, 13.10.1929</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296224/</idno>
               
     
             </event>
@@ -439680,6 +440716,21 @@
     
             </event>
             
+    
+            <event n="Theaterpremiere" key="296242" when-iso="1915-11-27">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Premiere von Der Einsame Weg, 27.11.1915</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296242/</idno>
+              
+    
+            </event>
+            
 
           </listEvent>
           
@@ -440339,7 +441390,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Aufführung im jüdischen Theater, 25.5.1901</label>
+              <label>Theateraufführung, 25.5.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231556/</idno>
@@ -442332,10 +443383,10 @@
           <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119020874</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14472.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14472.html</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119020874</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2425.html</idno>
@@ -444198,7 +445249,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Lesung Literarische Vereinigung, 17.2.1896</label>
+              <label>Rezitationsabend bis nun nicht gedruckter literarischer Novitäten, 17.2.1896</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144831/</idno>
@@ -444213,7 +445264,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Schulvorstellung Klasse Eugenie Petrasch, 11.3.1896</label>
+              <label>Schulvorstellung des Konservatoriums der Gesellschaft der Musikfreunde (Klasse Eugenie Petrasch), 11.3.1896</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199554/</idno>
@@ -445144,10 +446195,15 @@
             <date when-iso="1858-01-04">4.1.1858</date>
             
       
-            <settlement key="18315">
+            <settlement key="45111">
               
         
               <placeName type="pref">Senica</placeName>
+              
+        
+              <location>
+                <geo>48,67922 17,36697</geo>
+              </location>
               
       
             </settlement>
@@ -445927,7 +446983,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 17.12.1901</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 17.12.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231748/</idno>
@@ -450980,7 +452036,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 21.12.1900</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 21.12.1900</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/182270/</idno>
@@ -450995,7 +452051,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Konservatoriums-Vorstellung, 26.2.1901</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 26.2.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209189/</idno>
@@ -451010,7 +452066,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 28.4.1901</label>
+              <label>Zweite Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 28.4.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147961/</idno>
@@ -451100,7 +452156,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 17.12.1901</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 17.12.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231748/</idno>
@@ -452513,7 +453569,7 @@
             </event>
             
     
-            <event n="Theateruraufführung" key="46947" when-iso="1910-09-18">
+            <event n="Opernuraufführung" key="46947" when-iso="1910-09-18">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -454340,6 +455396,21 @@
             </event>
             
     
+            <event n="Hochzeit" key="248026" when-iso="1927-06-30">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Hochzeit von Lili Schnitzler und Arnoldo Cappellini, 30.6.1927</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/248026/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Private Lesung" key="248044" when-iso="1927-07-04">
               
         
@@ -456106,7 +457177,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 14.6.1897</label>
+              <label>Erste Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 14.6.1897</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200250/</idno>
@@ -456271,7 +457342,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Aufführung im jüdischen Theater, 25.5.1901</label>
+              <label>Theateraufführung, 25.5.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231556/</idno>
@@ -456731,6 +457802,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142707/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="296492" when-iso="1910-10-11">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Private Lesung von Die ungleichen Schalen, 11.10.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296492/</idno>
               
     
             </event>
@@ -458859,7 +459945,7 @@
           <death>
             
     
-            <date when-iso="1932-05-01">01.05.1932</date>
+            <date when-iso="1932-05-07">07.05.1932</date>
             
       
             <settlement key="49185">
@@ -458870,6 +459956,20 @@
         
               <location>
                 <geo>38,34517 -0,48149</geo>
+              </location>
+              
+      
+            </settlement>
+            
+      
+            <settlement key="296401">
+              
+        
+              <placeName type="pref">calle Gravina 15</placeName>
+              
+        
+              <location>
+                <geo>38,3456446 -0,47927879</geo>
               </location>
               
       
@@ -458925,6 +460025,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208861/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateruraufführung" key="296012" when-iso="1901-03-16">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Uraufführung von Die Ehrlosen, 16.3.1901</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296012/</idno>
               
     
             </event>
@@ -461857,7 +462972,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schlussproduktion Konservatorium, 12.7.1879</label>
+              <label>Schlussproduktion des Konservatoriums der Gesellschaft der Musikfreunde, 12.7.1879</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207502/</idno>
@@ -463252,7 +464367,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulkonzert im Bösendorfer-Saal, 24.6.1880</label>
+              <label>Schulkonzert des Konservatoriums der Gesellschaft der Musikfreunde, 24.6.1880</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207595/</idno>
@@ -469480,7 +470595,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Stiassny, Februar 1886</label>
+              <label>Ball bei Sigmund Stiassny, Februar 1886</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195040/</idno>
@@ -469495,7 +470610,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Ball Moskovicz, Februar 1886</label>
+              <label>Ball bei Louis Moskovicz de Zemplén, Februar 1886</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195043/</idno>
@@ -474775,7 +475890,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Zweiter Konservatoriumsvortragsabend, 2.11.1889</label>
+              <label>Zweiter Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186720/</idno>
@@ -474934,31 +476049,31 @@
             </event>
             
     
-            <event n="Schulvortragsabend" key="208359" when-iso="1889-12-04">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 4.12.1889</label>
-              
-        
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208359/</idno>
-              
-    
-            </event>
-            
-    
             <event n="Schulvortragsabend" key="186741" when-iso="1889-12-05">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Vortragsübung Konservatorium, 5.12.1889</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186741/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Schulvortragsabend" key="208359" when-iso="1889-12-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208359/</idno>
               
     
             </event>
@@ -474985,7 +476100,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Vortragsabend Konservatorium, 11.12.1889</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186746/</idno>
@@ -475000,7 +476115,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
@@ -478180,7 +479295,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Vorlesung Emanuel Reicher, 7.2.1892</label>
+              <label>Vorlesung von Emanuel Reicher, 7.2.1892</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208528/</idno>
@@ -485386,7 +486501,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Lesung Literarische Vereinigung, 17.2.1896</label>
+              <label>Rezitationsabend bis nun nicht gedruckter literarischer Novitäten, 17.2.1896</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144831/</idno>
@@ -485491,7 +486606,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulvorstellung Klasse Eugenie Petrasch, 11.3.1896</label>
+              <label>Schulvorstellung des Konservatoriums der Gesellschaft der Musikfreunde (Klasse Eugenie Petrasch), 11.3.1896</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199554/</idno>
@@ -486922,7 +488037,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Lesung von Marx Burckhard, 19.1.1897</label>
+              <label>Lesung von Max Burckhard, 19.1.1897</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168887/</idno>
@@ -487972,7 +489087,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 14.6.1897</label>
+              <label>Erste Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 14.6.1897</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200250/</idno>
@@ -493735,7 +494850,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 21.12.1900</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 21.12.1900</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/182270/</idno>
@@ -493975,7 +495090,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriums-Vorstellung, 26.2.1901</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 26.2.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209189/</idno>
@@ -494215,7 +495330,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 28.4.1901</label>
+              <label>Zweite Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 28.4.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147961/</idno>
@@ -494260,7 +495375,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Aufführung im jüdischen Theater, 25.5.1901</label>
+              <label>Theateraufführung, 25.5.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231556/</idno>
@@ -494560,7 +495675,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Philharmonisches Konzert, 3.11.1901</label>
+              <label>Erstes Abonnementkonzert der Wiener Philharmoniker, 3.11.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231680/</idno>
@@ -494920,7 +496035,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung des Konservatoriums, 17.12.1901</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 17.12.1901</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231748/</idno>
@@ -495100,7 +496215,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Auftritt von Quartett Rosé, 7.1.1902</label>
+              <label>Konzert des Rosé-Quartetts, 7.1.1902</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209230/</idno>
@@ -495265,7 +496380,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 20.2.1902</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 20.2.1902</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209241/</idno>
@@ -495280,7 +496395,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 23.2.1902</label>
+              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 23.2.1902</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209242/</idno>
@@ -495520,7 +496635,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>2. Schauspielvorstellung des Konservatoriums, 26.4.1902</label>
+              <label>Zweite Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 26.4.1902</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231953/</idno>
@@ -495715,7 +496830,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulaufführung am Konservatorium, 19.6.1902</label>
+              <label>Schulaufführung des Konservatoriums der Gesellschaft der Musikfreunde, 19.6.1902</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/232015/</idno>
@@ -496045,7 +497160,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Schulvorstellung des Konservatoriums, 16.12.1902</label>
+              <label>Schulvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 16.12.1902</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/232292/</idno>
@@ -499882,7 +500997,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Klavierkonzert Moriz Rosenthal, 30.11.1905</label>
+              <label>Klavierkonzert von Moriz Rosenthal, 30.11.1905</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209394/</idno>
@@ -500002,7 +501117,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriumskonzert (Opernschule), 16.12.1905</label>
+              <label>Konzert des Konservatoriums der Gesellschaft der Musikfreunde (Opernschule), 16.12.1905</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209399/</idno>
@@ -501007,7 +502122,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konservatoriumsvorstellung, 9.6.1906</label>
+              <label>Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 9.6.1906</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209439/</idno>
@@ -506035,7 +507150,7 @@
             </event>
             
     
-            <event n="Theateruraufführung" key="46947" when-iso="1910-09-18">
+            <event n="Opernuraufführung" key="46947" when-iso="1910-09-18">
               
         
               <desc n="1370">teilgenommen an</desc>
@@ -506045,6 +507160,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46947/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="296492" when-iso="1910-10-11">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Private Lesung von Die ungleichen Schalen, 11.10.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296492/</idno>
               
     
             </event>
@@ -522685,21 +523815,6 @@
             </event>
             
     
-            <event n="Vereinstreffen" key="292886" when-iso="1921-04-29">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Sitzung der Genossenschaft dramatischer Autoren und Komponisten in Österreich, 29.4.1921</label>
-              
-        
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/292886/</idno>
-              
-    
-            </event>
-            
-    
             <event n="Festbesuch" key="292915" when-iso="1921-05-05">
               
         
@@ -531703,21 +532818,6 @@
             </event>
             
     
-            <event n="Filmvorführung" key="210743" when-iso="1925-03-17">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Filmvorführung, 17.3.1925</label>
-              
-        
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210743/</idno>
-              
-    
-            </event>
-            
-    
             <event n="Filmvorführung" key="253363" when-iso="1925-03-17">
               
         
@@ -538099,7 +539199,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Filmvorführung von Vierundzwanzig Stunden aus dem Leben einer Frau, 25.2.1928</label>
+              <label>Filmvorführung von Das Schicksal einer Nacht, 25.2.1928</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210970/</idno>
