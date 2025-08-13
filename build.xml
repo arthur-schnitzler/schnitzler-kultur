@@ -15,6 +15,11 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
+    <xslt in="./data/editions/listevent.xml" out="${target}/statistik-zeitachse.html"
+        style="./xslt/statistik-zeitachse.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
    <xslt in="./data/editions/listevent.xml" out="${target}/listevent.html"
         style="./xslt/listevent.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>

@@ -5,7 +5,8 @@
       "Bash(find:*)",
       "Bash(python:*)",
       "Bash(ant:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(node:*)"
     ],
     "deny": []
   }
