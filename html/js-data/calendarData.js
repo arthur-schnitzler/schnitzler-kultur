@@ -1,5 +1,8 @@
 var calendarData = [
   {
+    "name": "Private Lesung von Die ungleichen Schalen, 11.10.1910", "startDate": "1910-10-11", "id": "pmb296492.html", "type": "Private Lesung"
+  },
+  {
     "name": "Diner bei Edmund Markbreiter, 26.12.1887", "startDate": "1887-12-26", "id": "pmb294892.html", "type": "Diner"
   },
   {
@@ -22,9 +25,6 @@ var calendarData = [
   },
   {
     "name": "Besuch der Auer Dult (Maidult), 5.5.1921", "startDate": "1921-05-05", "id": "pmb292915.html", "type": "Festbesuch"
-  },
-  {
-    "name": "Sitzung der Genossenschaft dramatischer Autoren und Komponisten in Österreich, 29.4.1921", "startDate": "1921-04-29", "id": "pmb292886.html", "type": "Vereinstreffen"
   },
   {
     "name": "Ausstellungsbesuch 42. Jahresausstellung des Künstlerhauses, 24.4.1921", "startDate": "1921-04-24", "id": "pmb292871.html", "type": "Ausstellungsbesuch"
@@ -3279,7 +3279,7 @@ var calendarData = [
     "name": "Symphoniekonzert, 7.1.1903", "startDate": "1903-01-07", "id": "pmb232338.html", "type": "Sinfoniekonzert"
   },
   {
-    "name": "Schulvorstellung des Konservatoriums, 16.12.1902", "startDate": "1902-12-16", "id": "pmb232292.html", "type": "Schulaufführung"
+    "name": "Schulvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 16.12.1902", "startDate": "1902-12-16", "id": "pmb232292.html", "type": "Schulaufführung"
   },
   {
     "name": "Probe von Liebelei, 5.12.1902", "startDate": "1902-12-05", "id": "pmb232278.html", "type": "Probe"
@@ -3294,13 +3294,13 @@ var calendarData = [
     "name": "Private Lesung von Die Weissagung, 11.9.1902", "startDate": "1902-09-11", "id": "pmb232136.html", "type": "Private Lesung"
   },
   {
-    "name": "Schulaufführung am Konservatorium, 19.6.1902", "startDate": "1902-06-19", "id": "pmb232015.html", "type": "Schulaufführung"
+    "name": "Schulaufführung des Konservatoriums der Gesellschaft der Musikfreunde, 19.6.1902", "startDate": "1902-06-19", "id": "pmb232015.html", "type": "Schulaufführung"
   },
   {
     "name": "Probe von Lebendige Stunden, 6.5.1902", "startDate": "1902-05-06", "id": "pmb231962.html", "type": "Probe"
   },
   {
-    "name": "2. Schauspielvorstellung des Konservatoriums, 26.4.1902", "startDate": "1902-04-26", "id": "pmb231953.html", "type": "Schulaufführung"
+    "name": "Zweite Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 26.4.1902", "startDate": "1902-04-26", "id": "pmb231953.html", "type": "Schulaufführung"
   },
   {
     "name": "Generalprobe von Lebendige Stunden, 3.1.1902", "startDate": "1902-01-03", "id": "pmb231802.html", "type": "Generalprobe"
@@ -3315,7 +3315,7 @@ var calendarData = [
     "name": "Probe von Lebendige Stunden, 28.12.1901", "startDate": "1901-12-28", "id": "pmb231772.html", "type": "Probe"
   },
   {
-    "name": "Schulaufführung des Konservatoriums, 17.12.1901", "startDate": "1901-12-17", "id": "pmb231748.html", "type": "Schulaufführung"
+    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 17.12.1901", "startDate": "1901-12-17", "id": "pmb231748.html", "type": "Schulaufführung"
   },
   {
     "name": "Vorführung von Alt Wien, Aus der guten alten Zeit, Lebende Photographien, 5.12.1901", "startDate": "1901-12-05", "id": "pmb231725.html", "type": "Filmvorführung"
@@ -3327,7 +3327,7 @@ var calendarData = [
     "name": "Vorstellung des Jung-Wiener Theaters »Zum lieben Augustin«, 18.11.1901", "startDate": "1901-11-18", "id": "pmb231709.html", "type": "Theateraufführung"
   },
   {
-    "name": "Philharmonisches Konzert, 3.11.1901", "startDate": "1901-11-03", "id": "pmb231680.html", "type": "Philharmonisches Konzert"
+    "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 3.11.1901", "startDate": "1901-11-03", "id": "pmb231680.html", "type": "Philharmonisches Konzert"
   },
   {
     "name": "Private Lesung von Der Puppenspieler, 18.10.1901", "startDate": "1901-10-18", "id": "pmb231662.html", "type": "Private Lesung"
@@ -3342,7 +3342,7 @@ var calendarData = [
     "name": "Private Lesung von Lebendige Stunden, Die Frau mit dem Dolche, 4.8.1901", "startDate": "1901-08-04", "id": "pmb231602.html", "type": "Private Lesung"
   },
   {
-    "name": "Aufführung im jüdischen Theater, 25.5.1901", "startDate": "1901-05-25", "id": "pmb231556.html", "type": "Theateraufführung"
+    "name": "Theateraufführung, 25.5.1901", "startDate": "1901-05-25", "id": "pmb231556.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Alleluja, 23.4.1901", "startDate": "1901-04-23", "id": "pmb231541.html", "type": "Theateraufführung"
@@ -4332,7 +4332,7 @@ var calendarData = [
     "name": "Filmvorführung von Ergib Dich, Weib!, 27.2.1928", "startDate": "1928-02-27", "id": "pmb210971.html", "type": "Filmvorführung"
   },
   {
-    "name": "Filmvorführung von Vierundzwanzig Stunden aus dem Leben einer Frau, 25.2.1928", "startDate": "1928-02-25", "id": "pmb210970.html", "type": "Filmvorführung"
+    "name": "Filmvorführung von Das Schicksal einer Nacht, 25.2.1928", "startDate": "1928-02-25", "id": "pmb210970.html", "type": "Filmvorführung"
   },
   {
     "name": "Filmvorführung von Der Landarzt, 24.2.1928", "startDate": "1928-02-24", "id": "pmb210969.html", "type": "Filmvorführung"
@@ -4987,9 +4987,6 @@ var calendarData = [
   },
   {
     "name": "Filmvorführung von Athleten, 20.3.1925", "startDate": "1925-03-20", "id": "pmb210744.html", "type": "Filmvorführung"
-  },
-  {
-    "name": "Filmvorführung, 17.3.1925", "startDate": "1925-03-17", "id": "pmb210743.html", "type": "Filmvorführung"
   },
   {
     "name": "Filmvorführung von Drei selige Wochen, 10.3.1925", "startDate": "1925-03-10", "id": "pmb210741.html", "type": "Filmvorführung"
@@ -8808,7 +8805,7 @@ var calendarData = [
     "name": "Zirkus Ciniselli, 10.8.1906", "startDate": "1906-08-10", "id": "pmb209440.html", "type": "Zirkusvorstellung"
   },
   {
-    "name": "Konservatoriumsvorstellung, 9.6.1906", "startDate": "1906-06-09", "id": "pmb209439.html", "type": "Schulaufführung"
+    "name": "Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 9.6.1906", "startDate": "1906-06-09", "id": "pmb209439.html", "type": "Schulaufführung"
   },
   {
     "name": "Aufführung von Figaros Hochzeit, 8.6.1906", "startDate": "1906-06-08", "id": "pmb209438.html", "type": "Opernaufführung"
@@ -8928,7 +8925,7 @@ var calendarData = [
     "name": "2. Konzert des Quartett Rosé, 18.12.1905", "startDate": "1905-12-18", "id": "pmb209400.html", "type": "Quartett"
   },
   {
-    "name": "Konservatoriumskonzert (Opernschule), 16.12.1905", "startDate": "1905-12-16", "id": "pmb209399.html", "type": "Schulkonzert"
+    "name": "Konzert des Konservatoriums der Gesellschaft der Musikfreunde (Opernschule), 16.12.1905", "startDate": "1905-12-16", "id": "pmb209399.html", "type": "Schulkonzert"
   },
   {
     "name": "Klavierkonzert von Hedwig von Andrasffy, 14.12.1905", "startDate": "1905-12-14", "id": "pmb209398.html", "type": "Klavierkonzert"
@@ -8943,7 +8940,7 @@ var calendarData = [
     "name": "Symphoniekonzert, 6.12.1905", "startDate": "1905-12-06", "id": "pmb209395.html", "type": "Sinfoniekonzert"
   },
   {
-    "name": "Klavierkonzert Moriz Rosenthal, 30.11.1905", "startDate": "1905-11-30", "id": "pmb209394.html", "type": "Klavierkonzert"
+    "name": "Klavierkonzert von Moriz Rosenthal, 30.11.1905", "startDate": "1905-11-30", "id": "pmb209394.html", "type": "Klavierkonzert"
   },
   {
     "name": "Aufführung von Hidalla, 24.11.1905", "startDate": "1905-11-24", "id": "pmb209393.html", "type": "Theateraufführung"
@@ -9387,10 +9384,10 @@ var calendarData = [
     "name": "Aufführung von Heinrich der Vierte (1. Teil), 27.2.1902", "startDate": "1902-02-27", "id": "pmb209243.html", "type": "Theateraufführung"
   },
   {
-    "name": "Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 23.2.1902", "startDate": "1902-02-23", "id": "pmb209242.html", "type": "Schulaufführung"
+    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 23.2.1902", "startDate": "1902-02-23", "id": "pmb209242.html", "type": "Schulaufführung"
   },
   {
-    "name": "Vorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 20.2.1902", "startDate": "1902-02-20", "id": "pmb209241.html", "type": "Schulaufführung"
+    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 20.2.1902", "startDate": "1902-02-20", "id": "pmb209241.html", "type": "Schulaufführung"
   },
   {
     "name": "Vortrag Hugo von Hofmannsthal über Goethes dramatischen Stil, 19.2.1902", "startDate": "1902-02-19", "id": "pmb209240.html", "type": "Vorlesung"
@@ -9423,7 +9420,7 @@ var calendarData = [
     "name": "Fünftes Abonnementkonzert der Wiener Philharmoniker, 12.1.1902", "startDate": "1902-01-12", "id": "pmb209231.html", "type": "Philharmonisches Konzert"
   },
   {
-    "name": "Auftritt von Quartett Rosé, 7.1.1902", "startDate": "1902-01-07", "id": "pmb209230.html", "type": "Quartett"
+    "name": "Konzert des Rosé-Quartetts, 7.1.1902", "startDate": "1902-01-07", "id": "pmb209230.html", "type": "Quartett"
   },
   {
     "name": "Überbrettl, 1.1.1902", "startDate": "1902-01-01", "id": "pmb209229.html", "type": "Theateraufführung"
@@ -9540,7 +9537,7 @@ var calendarData = [
     "name": "Buntes Theater, 3.3.1901", "startDate": "1901-03-03", "id": "pmb209190.html", "type": "Theateraufführung"
   },
   {
-    "name": "Konservatoriums-Vorstellung, 26.2.1901", "startDate": "1901-02-26", "id": "pmb209189.html", "type": "Schulaufführung"
+    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 26.2.1901", "startDate": "1901-02-26", "id": "pmb209189.html", "type": "Schulaufführung"
   },
   {
     "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 24.2.1901", "startDate": "1901-02-24", "id": "pmb209188.html", "type": "Philharmonisches Konzert"
@@ -11514,7 +11511,7 @@ var calendarData = [
     "name": "Vereinstreffen der Concordia, 9.2.1892", "startDate": "1892-02-09", "id": "pmb208529.html", "type": "Vereinstreffen"
   },
   {
-    "name": "Vorlesung Emanuel Reicher, 7.2.1892", "startDate": "1892-02-07", "id": "pmb208528.html", "type": "Vorlesung"
+    "name": "Vorlesung von Emanuel Reicher, 7.2.1892", "startDate": "1892-02-07", "id": "pmb208528.html", "type": "Vorlesung"
   },
   {
     "name": "Wohltätigkeitskonzert von Anton Rubinstein, 31.1.1892", "startDate": "1892-01-31", "id": "pmb208527.html", "type": "Klavierkonzert"
@@ -12012,13 +12009,13 @@ var calendarData = [
     "name": "Konzert von Albert Hirsch, 21.12.1889", "startDate": "1889-12-21", "id": "pmb208362.html", "type": "Liederkonzert"
   },
   {
-    "name": "Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889", "startDate": "1889-12-11", "id": "pmb208361.html", "type": "Schulvortragsabend"
+    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889", "startDate": "1889-12-11", "id": "pmb208361.html", "type": "Schulvortragsabend"
   },
   {
     "name": "Aufführung von Der dumme August, Die Fälle der Clémenceau, 10.12.1889", "startDate": "1889-12-10", "id": "pmb208360.html", "type": "Theateraufführung"
   },
   {
-    "name": "Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 4.12.1889", "startDate": "1889-12-04", "id": "pmb208359.html", "type": "Schulvortragsabend"
+    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889", "startDate": "1889-12-05", "id": "pmb208359.html", "type": "Schulvortragsabend"
   },
   {
     "name": "Danzer’s Orpheum, 3.12.1889", "startDate": "1889-12-03", "id": "pmb208358.html", "type": "Vergnügungsabend"
@@ -14298,7 +14295,7 @@ var calendarData = [
     "name": "Aufführung von Viel Lärm um nichts. Lustspiel in fünf Akten, 30.6.1880", "startDate": "1880-06-30", "id": "pmb207596.html", "type": "Theateraufführung"
   },
   {
-    "name": "Schulkonzert im Bösendorfer-Saal, 24.6.1880", "startDate": "1880-06-24", "id": "pmb207595.html", "type": "Schulkonzert"
+    "name": "Schulkonzert des Konservatoriums der Gesellschaft der Musikfreunde, 24.6.1880", "startDate": "1880-06-24", "id": "pmb207595.html", "type": "Schulkonzert"
   },
   {
     "name": "Aufführung von Gute Freunde, 22.6.1880", "startDate": "1880-06-22", "id": "pmb207594.html", "type": "Theateraufführung"
@@ -14577,7 +14574,7 @@ var calendarData = [
     "name": "Aufführung von Doktor Klaus, 17.7.1879", "startDate": "1879-07-17", "id": "pmb207503.html", "type": "Theateraufführung"
   },
   {
-    "name": "Schlussproduktion Konservatorium, 12.7.1879", "startDate": "1879-07-12", "id": "pmb207502.html", "type": "Schulaufführung"
+    "name": "Schlussproduktion des Konservatoriums der Gesellschaft der Musikfreunde, 12.7.1879", "startDate": "1879-07-12", "id": "pmb207502.html", "type": "Schulaufführung"
   },
   {
     "name": "Aufführung von Emilia Galotti. Ein Trauerspiel in fünf Aufzügen, 30.6.1879", "startDate": "1879-06-30", "id": "pmb207501.html", "type": "Theateraufführung"
@@ -15267,7 +15264,7 @@ var calendarData = [
     "name": "Private Lesung von Der Ehrentag, Die Toten schweigen, 7.7.1897", "startDate": "1897-07-07", "id": "pmb200264.html", "type": "Private Lesung"
   },
   {
-    "name": "Schulaufführung des Konservatoriums, 14.6.1897", "startDate": "1897-06-14", "id": "pmb200250.html", "type": "Schulaufführung"
+    "name": "Erste Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 14.6.1897", "startDate": "1897-06-14", "id": "pmb200250.html", "type": "Schulaufführung"
   },
   {
     "name": "Theaterverein Bühnengenossenschaft, 3.4.1897", "startDate": "1897-04-03", "id": "pmb200065.html", "type": "Vereinstreffen"
@@ -15327,7 +15324,7 @@ var calendarData = [
     "name": "Volkstheaterabend, 21.3.1896", "startDate": "1896-03-21", "id": "pmb199569.html", "type": "Veranstaltung"
   },
   {
-    "name": "Schulvorstellung Klasse Eugenie Petrasch, 11.3.1896", "startDate": "1896-03-11", "id": "pmb199554.html", "type": "Schulaufführung"
+    "name": "Schulvorstellung des Konservatoriums der Gesellschaft der Musikfreunde (Klasse Eugenie Petrasch), 11.3.1896", "startDate": "1896-03-11", "id": "pmb199554.html", "type": "Schulaufführung"
   },
   {
     "name": "Redoute in der Oper, 16.2.1896", "startDate": "1896-02-16", "id": "pmb199523.html", "type": "Redoute"
@@ -15447,10 +15444,10 @@ var calendarData = [
     "name": "Aufführung von Der Bajazzo, 1.9.1894", "startDate": "1894-09-01", "id": "pmb195134.html", "type": "Theateraufführung"
   },
   {
-    "name": "Ball Moskovicz, Februar 1886", "startDate": "1886-02-01", "id": "pmb195043.html", "type": "Hausball"
+    "name": "Ball bei Louis Moskovicz de Zemplén, Februar 1886", "startDate": "1886-02-01", "id": "pmb195043.html", "type": "Hausball"
   },
   {
-    "name": "Ball Stiassny, Februar 1886", "startDate": "1886-02-01", "id": "pmb195040.html", "type": "Hausball"
+    "name": "Ball bei Sigmund Stiassny, Februar 1886", "startDate": "1886-02-01", "id": "pmb195040.html", "type": "Hausball"
   },
   {
     "name": "Redoute, Februar 1886", "startDate": "1886-02-01", "id": "pmb195037.html", "type": "Ball"
@@ -15654,16 +15651,16 @@ var calendarData = [
     "name": "Private Lesung von Alkandi’s Lied, 17.12.1889", "startDate": "1889-12-17", "id": "pmb186755.html", "type": "Private Lesung"
   },
   {
-    "name": "Vortragsabend Konservatorium, 11.12.1889", "startDate": "1889-12-11", "id": "pmb186746.html", "type": "Schulvortragsabend"
+    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889", "startDate": "1889-12-11", "id": "pmb186746.html", "type": "Schulvortragsabend"
   },
   {
-    "name": "Vortragsübung Konservatorium, 5.12.1889", "startDate": "1889-12-05", "id": "pmb186741.html", "type": "Schulvortragsabend"
+    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889", "startDate": "1889-12-05", "id": "pmb186741.html", "type": "Schulvortragsabend"
   },
   {
     "name": "Private Lesung von Alkandi’s Lied, 15.11.1889", "startDate": "1889-11-15", "id": "pmb186731.html", "type": "Private Lesung"
   },
   {
-    "name": "Zweiter Konservatoriumsvortragsabend, 2.11.1889", "startDate": "1889-11-02", "id": "pmb186720.html", "type": "Schulvortragsabend"
+    "name": "Zweiter Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889", "startDate": "1889-11-02", "id": "pmb186720.html", "type": "Schulvortragsabend"
   },
   {
     "name": "Private Lesung von Episode, 29.9.1889", "startDate": "1889-09-29", "id": "pmb186708.html", "type": "Private Lesung"
@@ -16326,7 +16323,7 @@ var calendarData = [
     "name": "Vortrag von Hugo von Hofmannsthal über Die Menschen in Ibsens Dramen, 19.11.1892", "startDate": "1892-11-19", "id": "pmb182772.html", "type": "Vortrag"
   },
   {
-    "name": "Schulaufführung des Konservatoriums, 21.12.1900", "startDate": "1900-12-21", "id": "pmb182270.html", "type": "Theateraufführung"
+    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 21.12.1900", "startDate": "1900-12-21", "id": "pmb182270.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Die Gefangene, 7.6.1926", "startDate": "1926-06-07", "id": "pmb182012.html", "type": "Theateraufführung"
@@ -16359,7 +16356,7 @@ var calendarData = [
     "name": "Aufführung von Mädchenliebe, Der Leibbursch, 28.1.1903", "startDate": "1903-01-28", "id": "pmb169013.html", "type": "Theateraufführung"
   },
   {
-    "name": "Lesung von Marx Burckhard, 19.1.1897", "startDate": "1897-01-19", "id": "pmb168887.html", "type": "Vorlesung"
+    "name": "Lesung von Max Burckhard, 19.1.1897", "startDate": "1897-01-19", "id": "pmb168887.html", "type": "Vorlesung"
   },
   {
     "name": "Aufführung von Judith, 13.11.1896", "startDate": "1896-11-13", "id": "pmb168841.html", "type": "Theateraufführung"
@@ -16425,7 +16422,7 @@ var calendarData = [
     "name": "Probe von Der Schleier der Beatrice, 27.2.1903", "startDate": "1903-02-27", "id": "pmb147984.html", "type": "Probe"
   },
   {
-    "name": "Schulaufführung des Konservatoriums, 28.4.1901", "startDate": "1901-04-28", "id": "pmb147961.html", "type": "Schulaufführung"
+    "name": "Zweite Schauspielvorstellung des Konservatoriums der Gesellschaft der Musikfreunde, 28.4.1901", "startDate": "1901-04-28", "id": "pmb147961.html", "type": "Schulaufführung"
   },
   {
     "name": "Premiere von Boule de suif, Schöne Seelen, 29.12.1905", "startDate": "1905-12-29", "id": "pmb147534.html", "type": "Theaterpremiere"
@@ -16470,7 +16467,7 @@ var calendarData = [
     "name": "Aufführung von Die Jüdin von Toledo, 2.1.1902", "startDate": "1902-01-02", "id": "pmb145135.html", "type": "Theateraufführung"
   },
   {
-    "name": "Lesung Literarische Vereinigung, 17.2.1896", "startDate": "1896-02-17", "id": "pmb144831.html", "type": "Lesung"
+    "name": "Rezitationsabend bis nun nicht gedruckter literarischer Novitäten, 17.2.1896", "startDate": "1896-02-17", "id": "pmb144831.html", "type": "Lesung"
   },
   {
     "name": "Konzert Eugen Gura, 12.12.1895", "startDate": "1895-12-12", "id": "pmb144827.html", "type": "Konzert"
@@ -16962,7 +16959,7 @@ var calendarData = [
     "name": "Generalprobe Der junge Medardus, 23.11.1910", "startDate": "1910-11-23", "id": "pmb47048.html", "type": "Generalprobe"
   },
   {
-    "name": "Uraufführung von Liebelei. Oper, 18.9.1910", "startDate": "1910-09-18", "id": "pmb46947.html", "type": "Theateruraufführung"
+    "name": "Uraufführung von Liebelei. Oper, 18.9.1910", "startDate": "1910-09-18", "id": "pmb46947.html", "type": "Opernuraufführung"
   },
   {
     "name": "Aufführung von Cristinas Heimreise [2. Fassung], 13.5.1910", "startDate": "1910-05-13", "id": "pmb46819.html", "type": "Theateraufführung"
