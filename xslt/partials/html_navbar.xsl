@@ -44,7 +44,7 @@
                                 <a class="nav-link" href="listevent.html">Veranstaltungen</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="calendar.html">Kalender</a>
+                                <a class="nav-link" href="kalender.html">Kalender</a>
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button"
