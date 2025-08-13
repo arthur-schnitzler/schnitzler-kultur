@@ -128,13 +128,24 @@ function showEventModal(events, date) {
         const eventItem = document.createElement('a');
         eventItem.href = event.id;
         eventItem.className = 'list-group-item list-group-item-action';
+        
+        // Get event category and color
+        const category = calendar.getEventCategory(event);
+        const categoryColor = calendar.eventCategories[category] || calendar.eventCategories['anderes'];
+        
         eventItem.innerHTML = 
             '<div class="d-flex w-100 justify-content-between align-items-start">' +
             '<div class="ms-2 me-auto">' +
-            '<div class="fw-bold">' + escapeHtml(event.name) + '</div>' +
+            '<div class="fw-bold" style="color: ' + categoryColor + ';">' + escapeHtml(event.name) + '</div>' +
             (event.type ? '<small class="text-muted">' + escapeHtml(event.type) + '</small>' : '') +
             '</div>' +
             '</div>';
+        
+        // Set link color to match category
+        eventItem.style.setProperty('--link-color', categoryColor);
+        eventItem.addEventListener('mouseenter', function() {
+            eventItem.style.borderLeftColor = categoryColor;
+        });
         
         fragment.appendChild(eventItem);
     });
@@ -280,22 +291,40 @@ optimizedStyles.textContent = `
     
     /* Modal performance optimizations */
     .modal .list-group-item {
-        border-left: none;
+        border-left: 3px solid transparent;
         border-right: none;
-        transition: background-color 0.1s ease;
+        border-top: 1px solid rgba(0,0,0,0.125);
+        border-bottom: 1px solid rgba(0,0,0,0.125);
+        background-color: transparent !important;
+        transition: all 0.2s ease;
+        text-decoration: none;
     }
     
     .modal .list-group-item:hover {
-        background-color: #f8f9fa;
+        background-color: rgba(0,0,0,0.05) !important;
+        border-left-width: 4px;
         transform: none; /* Disable transform for better performance */
+        text-decoration: none;
     }
     
     .modal .list-group-item:first-child {
-        border-top: none;
+        border-top: 1px solid rgba(0,0,0,0.125);
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
     }
     
     .modal .list-group-item:last-child {
-        border-bottom: none;
+        border-bottom: 1px solid rgba(0,0,0,0.125);
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    
+    .modal .modal-body {
+        background-color: var(--bs-secondary-bg);
+    }
+    
+    .modal .modal-content {
+        background-color: var(--bs-secondary-bg);
     }
     
     /* Optimize modal animations */
