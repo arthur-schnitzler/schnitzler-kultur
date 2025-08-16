@@ -41,6 +41,79 @@ class SimpleCalendar {
     this.init();
   }
   
+  createPeriodNavigation() {
+    switch(this.currentView) {
+      case 'year':
+        return `
+          <div class="year-navigation">
+            <select class="form-select form-select-sm year-select">
+              ${this.generateYearOptions()}
+            </select>
+          </div>
+        `;
+      case 'month':
+        return `
+          <div class="month-navigation">
+            <select class="form-select form-select-sm month-select">
+              ${this.generateMonthOptions()}
+            </select>
+            <select class="form-select form-select-sm year-select">
+              ${this.generateYearOptions()}
+            </select>
+          </div>
+        `;
+      case 'week':
+        return `
+          <div class="week-navigation">
+            <select class="form-select form-select-sm week-select">
+              ${this.generateWeekOptions()}
+            </select>
+            <select class="form-select form-select-sm year-select">
+              ${this.generateYearOptions()}
+            </select>
+          </div>
+        `;
+      default:
+        return '';
+    }
+  }
+  
+  generateYearOptions() {
+    const availableYears = Array.from(new Set(this.events.map(event => 
+      parseInt(event.startDate.split('-')[0])
+    ))).sort((a, b) => a - b);
+    
+    return availableYears.map(year => 
+      `<option value="${year}" ${year === this.currentYear ? 'selected' : ''}>${year}</option>`
+    ).join('');
+  }
+  
+  generateMonthOptions() {
+    return this.monthNames.map((month, index) => 
+      `<option value="${index}" ${index === this.currentMonth ? 'selected' : ''}>${month}</option>`
+    ).join('');
+  }
+  
+  generateWeekOptions() {
+    const weeksInYear = this.getWeeksInYear(this.currentYear);
+    let options = '';
+    
+    for (let week = 1; week <= weeksInYear; week++) {
+      const weekDates = this.getWeekDates(this.currentYear, week);
+      const weekLabel = `KW ${week} (${weekDates.start.getDate()}.${weekDates.start.getMonth()+1} - ${weekDates.end.getDate()}.${weekDates.end.getMonth()+1})`;
+      options += `<option value="${week}" ${week === this.currentWeek ? 'selected' : ''}>${weekLabel}</option>`;
+    }
+    
+    return options;
+  }
+  
+  getWeeksInYear(year) {
+    // Calculate number of weeks in year
+    const jan1 = new Date(year, 0, 1);
+    const dec31 = new Date(year, 11, 31);
+    return Math.ceil((dec31 - jan1) / (7 * 24 * 60 * 60 * 1000));
+  }
+  
   init() {
     this.container.innerHTML = '';
     this.loadStateFromURL();
@@ -52,11 +125,36 @@ class SimpleCalendar {
     this.container.innerHTML = `
       <div class="calendar">
         <div class="calendar-header">
-          <button class="nav-btn prev" data-direction="-1">&lt;</button>
-          <div class="current-period">
-            <h2 class="period-title">${this.getPeriodTitle()}</h2>
+          <div class="nav-controls-left">
+            <button class="nav-btn prev" data-direction="-1">
+              <i class="bi bi-chevron-left"></i>
+            </button>
+            <div class="view-selector">
+              <select class="form-select form-select-sm view-mode-select">
+                <option value="year" ${this.currentView === 'year' ? 'selected' : ''}>Jahr</option>
+                <option value="month" ${this.currentView === 'month' ? 'selected' : ''}>Monat</option>
+                <option value="week" ${this.currentView === 'week' ? 'selected' : ''}>Woche</option>
+              </select>
+            </div>
           </div>
-          <button class="nav-btn next" data-direction="1">&gt;</button>
+          
+          <div class="current-period">
+            <div class="period-main">
+              <h2 class="period-title">${this.getPeriodTitle()}</h2>
+            </div>
+            <div class="period-navigation">
+              ${this.createPeriodNavigation()}
+            </div>
+          </div>
+          
+          <div class="nav-controls-right">
+            <button class="nav-btn today" title="Heute">
+              <i class="bi bi-house"></i>
+            </button>
+            <button class="nav-btn next" data-direction="1">
+              <i class="bi bi-chevron-right"></i>
+            </button>
+          </div>
         </div>
         <div class="calendar-grid"></div>
       </div>
@@ -68,10 +166,87 @@ class SimpleCalendar {
     // Add event listeners
     this.container.querySelectorAll('.nav-btn').forEach(btn => {
       btn.addEventListener('click', (e) => {
-        const direction = parseInt(e.target.dataset.direction);
-        this.navigatePeriod(direction);
+        const target = e.target.closest('.nav-btn');
+        
+        if (target.classList.contains('today')) {
+          this.goToToday();
+        } else {
+          const direction = parseInt(target.dataset.direction);
+          this.navigatePeriod(direction);
+        }
       });
     });
+    
+    // Add view mode selector listener
+    const viewModeSelect = this.container.querySelector('.view-mode-select');
+    if (viewModeSelect) {
+      viewModeSelect.addEventListener('change', (e) => {
+        this.changeView(e.target.value);
+      });
+    }
+    
+    // Add period navigation listeners
+    this.addPeriodNavigationListeners();
+  }
+  
+  addPeriodNavigationListeners() {
+    // Year selector
+    const yearSelect = this.container.querySelector('.year-select');
+    if (yearSelect) {
+      yearSelect.addEventListener('change', (e) => {
+        this.currentYear = parseInt(e.target.value);
+        this.updatePeriodTitle();
+        this.renderCalendar();
+        this.saveStateToURL();
+      });
+    }
+    
+    // Month selector
+    const monthSelect = this.container.querySelector('.month-select');
+    if (monthSelect) {
+      monthSelect.addEventListener('change', (e) => {
+        this.currentMonth = parseInt(e.target.value);
+        this.updatePeriodTitle();
+        this.renderCalendar();
+        this.saveStateToURL();
+      });
+    }
+    
+    // Week selector
+    const weekSelect = this.container.querySelector('.week-select');
+    if (weekSelect) {
+      weekSelect.addEventListener('change', (e) => {
+        this.currentWeek = parseInt(e.target.value);
+        this.updatePeriodTitle();
+        this.renderCalendar();
+        this.saveStateToURL();
+      });
+    }
+  }
+  
+  goToToday() {
+    const today = new Date();
+    const currentYear = today.getFullYear();
+    
+    // Find if we have events for current year, otherwise go to first available year
+    const availableYears = Array.from(new Set(this.events.map(event => 
+      parseInt(event.startDate.split('-')[0])
+    ))).sort((a, b) => a - b);
+    
+    if (availableYears.includes(currentYear)) {
+      this.currentYear = currentYear;
+      this.currentMonth = today.getMonth();
+      this.currentWeek = this.getWeekOfYear(today);
+    } else {
+      // Go to first available year
+      this.currentYear = availableYears[0] || 1899;
+      this.currentMonth = 0;
+      this.currentWeek = 1;
+    }
+    
+    this.updatePeriodTitle();
+    this.renderCalendar();
+    this.saveStateToURL();
   }
   
   addStyles() {
@@ -90,25 +265,68 @@ class SimpleCalendar {
           justify-content: space-between;
           align-items: center;
           margin-bottom: 20px;
+          padding: 15px 20px;
+          background: #f8f9fa;
+          border-radius: 8px;
+          border: 1px solid #dee2e6;
+        }
+        
+        .nav-controls-left,
+        .nav-controls-right {
+          display: flex;
+          align-items: center;
+          gap: 10px;
         }
         
         .current-period {
           flex: 1;
           text-align: center;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          gap: 8px;
+        }
+        
+        .period-main {
+          display: flex;
+          align-items: center;
+        }
+        
+        .period-navigation {
+          display: flex;
+          gap: 8px;
+          align-items: center;
         }
         
         .nav-btn {
-          background: #f8f9fa;
+          background: #fff;
           border: 1px solid #dee2e6;
-          border-radius: 4px;
+          border-radius: 6px;
           padding: 8px 12px;
           cursor: pointer;
           font-size: 16px;
           min-width: 40px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          transition: all 0.2s ease;
         }
         
         .nav-btn:hover {
           background: #e9ecef;
+          border-color: #adb5bd;
+          transform: translateY(-1px);
+        }
+        
+        .nav-btn.today {
+          background: #007bff;
+          border-color: #007bff;
+          color: white;
+        }
+        
+        .nav-btn.today:hover {
+          background: #0056b3;
+          border-color: #0056b3;
         }
         
         .period-title {
@@ -116,6 +334,34 @@ class SimpleCalendar {
           font-size: 24px;
           font-weight: 600;
           color: #333;
+        }
+        
+        .view-selector .form-select {
+          min-width: 80px;
+          border-radius: 6px;
+          border: 1px solid #dee2e6;
+          background: white;
+        }
+        
+        .year-navigation,
+        .month-navigation,
+        .week-navigation {
+          display: flex;
+          gap: 8px;
+          align-items: center;
+        }
+        
+        .year-select,
+        .month-select,
+        .week-select {
+          min-width: 80px;
+          border-radius: 6px;
+          border: 1px solid #dee2e6;
+          background: white;
+        }
+        
+        .week-select {
+          min-width: 200px;
         }
         
         
@@ -378,6 +624,40 @@ class SimpleCalendar {
         }
         
         /* Responsive design */
+        @media (max-width: 768px) {
+          .calendar-header {
+            flex-direction: column;
+            gap: 15px;
+            padding: 15px;
+          }
+          
+          .nav-controls-left,
+          .nav-controls-right {
+            order: 2;
+            justify-content: space-between;
+            width: 100%;
+          }
+          
+          .current-period {
+            order: 1;
+            gap: 10px;
+          }
+          
+          .period-navigation {
+            flex-wrap: wrap;
+            justify-content: center;
+          }
+          
+          .week-select {
+            min-width: 180px;
+            font-size: 12px;
+          }
+          
+          .period-title {
+            font-size: 20px;
+          }
+        }
+        
         @media (max-width: 1400px) {
           .calendar-grid.year-view {
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -656,7 +936,27 @@ class SimpleCalendar {
       }
     });
     
-    this.updatePeriodTitle();
+    // Update view mode selector
+    const viewModeSelect = this.container.querySelector('.view-mode-select');
+    if (viewModeSelect) {
+      viewModeSelect.value = newView;
+    }
+    
+    // Recreate navigation structure
+    const currentPeriod = this.container.querySelector('.current-period');
+    if (currentPeriod) {
+      currentPeriod.innerHTML = `
+        <div class="period-main">
+          <h2 class="period-title">${this.getPeriodTitle()}</h2>
+        </div>
+        <div class="period-navigation">
+          ${this.createPeriodNavigation()}
+        </div>
+      `;
+      // Re-add navigation listeners
+      this.addPeriodNavigationListeners();
+    }
+    
     this.renderCalendar();
     this.saveStateToURL();
   }

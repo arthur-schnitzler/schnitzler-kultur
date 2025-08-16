@@ -2070,20 +2070,11 @@ näher bestimmbar sind (z. B. Filmvorführungen ohne Nennung des Films). -->
         <eventName n="Soirée">Soirée Goterbom bei Lippmans, 23.1.1882</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207730/</idno>
     </event>
-    <event>
-        <eventName n="Hochzeit">Hochzeit und Tanz bei Adler, 17.5.1881</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207692/</idno>
-    </event>
-    <event>
-        <eventName n="Soirée-dansante">Soirée dansante bei Klein, 23.2.1881</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207665/</idno>
-    </event>
+    
+    
     <event>
         <eventName n="Soirée">Soirée musicale bei Dr. Löw, 6.1.1881</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207644/</idno>
     </event>
-    <event>
-        <eventName n="Generalprobe">Generalprobe von Karussell, 15.4.1880</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207577/</idno>
-    </event>
+    
 </XML>
