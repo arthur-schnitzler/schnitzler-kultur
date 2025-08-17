@@ -9,11 +9,6 @@ näher bestimmbar sind (z. B. Filmvorführungen ohne Nennung des Films). -->
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/292767/</idno>
     </event>
     <event>
-        <eventName n="Ausstellungsbesuch">Ausstellungsbesuch Atelierausstellung von Edmund
-            Pick-Morino, Johanna Kampmann und anderen, 24.3.1921</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/292687/</idno>
-    </event>
-    <event>
         <eventName n="Filmvorführung">Filmvorführung von Der Herzog von Reichstadt,
             7.1.1921</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/291287/</idno>
@@ -23,17 +18,9 @@ näher bestimmbar sind (z. B. Filmvorführungen ohne Nennung des Films). -->
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/251208/</idno>
     </event>
     <event>
-        <eventName n="Probe">Probe von Der Feldherrnhügel, 26.4.1910</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/250008/</idno>
-    </event>
-    <event>
         <eventName n="Umzug">Jubiläumsfestzug 60 Jahre Regierung Franz Joseph I.,
             12.6.1908</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/247291/</idno>
-    </event>
-    <event>
-        <eventName n="Konzert">Konzert von Friedrich Bayer, 4.3.1931</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244849/</idno>
     </event>
     <event>
         <eventName n="Filmvorführung">Filmvorführung von Tabu, 22.9.1931</eventName>
@@ -1952,28 +1939,12 @@ näher bestimmbar sind (z. B. Filmvorführungen ohne Nennung des Films). -->
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210503/</idno>
     </event>
     <event>
-        <eventName n="Klavierkonzert">Klavierkonzert von Margarete Gelbard, 17.2.1916</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209812/</idno>
-    </event>
-    <event>
-        <eventName n="Klavierkonzert">Klavierkonzert von Moriz Rosenthal, 30.11.1905</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209394/</idno>
-    </event>
-    <event>
         <eventName n="Sinfoniekonzert">Symphoniekonzert, 8.1.1903</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209275/</idno>
     </event>
     <event>
-        <eventName n="Quartett">Konzert des Rosé-Quartetts, 7.1.1902</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209230/</idno>
-    </event>
-    <event>
         <eventName n="Vorlesung">Vorlesung, 8.11.1900</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209168/</idno>
-    </event>
-    <event>
-        <eventName n="Quartett">Konzert des Rosé-Quartetts, 17.12.1897</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208987/</idno>
     </event>
     <event>
         <eventName n="Liederkonzert">Konzert der Singspielhalle Böhm, 6.10.1892</eventName>
@@ -1983,14 +1954,6 @@ näher bestimmbar sind (z. B. Filmvorführungen ohne Nennung des Films). -->
         <eventName n="Vortrag">Vortrag von Friedrich Eckstein über Okkultismus,
             29.3.1892</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208547/</idno>
-    </event>
-    <event>
-        <eventName n="Generalprobe">Generalprobe des großen Damenabends, 28.3.1892</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208544/</idno>
-    </event>
-    <event>
-        <eventName n="Vorlesung">Vorlesung von Emanuel Reicher, 7.2.1892</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208528/</idno>
     </event>
     <event>
         <eventName n="Hausball">Hausball bei Strauss, 18.1.1890</eventName>
@@ -2029,25 +1992,8 @@ näher bestimmbar sind (z. B. Filmvorführungen ohne Nennung des Films). -->
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208122/</idno>
     </event>
     <event>
-        <eventName n="Soirée">Soirée bei Feinberg, 7.2.1887</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208102/</idno>
-    </event>
-    <event>
-        <eventName n="Spielabend">Spielabend von J. Löti, 27.1.1887</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208093/</idno>
-    </event>
-    <event>
         <eventName n="Damenabend">Damenabend, 22.1.1887</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208092/</idno>
-    </event>
-    <event>
-        <eventName n="Hochzeit">Hochzeit von Anton Wassing und Paula Jallowetz,
-            19.12.1886</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208082/</idno>
-    </event>
-    <event>
-        <eventName n="Hausball">Hausball bei Feinberg, 28.2.1886</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208014/</idno>
     </event>
     <event>
         <eventName n="Maskenball">Maskenball, 27.2.1886</eventName>
@@ -2070,11 +2016,8 @@ näher bestimmbar sind (z. B. Filmvorführungen ohne Nennung des Films). -->
         <eventName n="Soirée">Soirée Goterbom bei Lippmans, 23.1.1882</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207730/</idno>
     </event>
-    
-    
     <event>
         <eventName n="Soirée">Soirée musicale bei Dr. Löw, 6.1.1881</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207644/</idno>
     </event>
-    
 </XML>
