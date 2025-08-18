@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-08-13">serialized</change>
+      <change when-iso="2025-08-18">serialized</change>
       
        
     </revisionDesc>
@@ -94,28 +94,6 @@
           
   
           <note type="work_kind">Operette</note>
-          
-
-        </bibl>
-        <bibl xml:id="pmb295592">
-          
-  
-          <title type="main">Karussell</title>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295592/</idno>
-          
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="24">manually created entity</bibl>
-            
-
-          </note>
-          
-  
-          <note type="work_kind">Drama</note>
           
 
         </bibl>
@@ -9286,7 +9264,7 @@
         <bibl xml:id="pmb195549">
           
   
-          <title type="main">Näherin</title>
+          <title type="main">Die Näherin. Posse mit Gesang</title>
           
   
           <title type="legacy-name-merge">Näherin</title>
@@ -9305,6 +9283,18 @@
           
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-181</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Posse mit Gesang</note>
           
 
         </bibl>
@@ -10473,7 +10463,7 @@
         <bibl xml:id="pmb195471">
           
   
-          <title type="main">Monaldeschi</title>
+          <title type="main">Monaldeschi. Tragödie in 5 Acten</title>
           
   
           <author key="pmb2702" role="hat-geschaffen">Laube, Heinrich</author>
@@ -10483,6 +10473,18 @@
           
   
           <idno type="URL" subtype="schnitzler-theater">https://schnitzler-theater-interim-titel-14</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -54150,7 +54152,7 @@
         <bibl xml:id="pmb77545">
           
   
-          <title type="main">Der Feldherrnhügel</title>
+          <title type="main">Der Feldherrnhügel. Eine Schnurre in drei Akten</title>
           
   
           <author key="pmb9546" role="hat-geschaffen">Roda Roda, Alexander</author>
@@ -54164,8 +54166,17 @@
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77545.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
