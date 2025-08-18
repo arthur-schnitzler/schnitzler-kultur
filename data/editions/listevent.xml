@@ -12,13 +12,105 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-08-13">serialized</change>
+          <change when-iso="2025-08-18">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
         <body>
            <p>Some text here.</p>
-           <listEvent><event xml:id="pmb296492" when-iso="1910-10-11">
+           <listEvent><event xml:id="pmb296714" when-iso="1881-11-13">
+        <eventName n="Hochzeit">Hochzeit von Laura Pollak und Heinrich Spitzer, 13.11.1881</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296714/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb22743">Spitzer, Laura</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb25241">Spitzer, Heinrich</persName>
+            </person>
+            <person role="hat als Teilnehmer:in">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
+                <location>
+                    <geo>48,211649 16,374825</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb296709" when-iso="1890-08-03">
+        <eventName n="Hochzeit">Hochzeit von Gisela Adler und Salo Fischer, 3.8.1890</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296709/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat als Teilnehmer:in">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb296707">Fischer, Salo</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb16272">Fischer, Gisela</persName>
+            </person>
+        </listPerson>
+    </event><event xml:id="pmb296700" when-iso="1889-01-06">
+        <eventName n="Hochzeit">Hochzeit von Gisela Schnitzler und Markus Hajek, 6.1.1889</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296700/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb2284">Hajek, Markus</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb2461">Hajek, Gisela</persName>
+            </person>
+            <person role="hat als Teilnehmer:in">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
+                <location>
+                    <geo>48,211649 16,374825</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb296694" when-iso="1890-05-08">
+        <eventName n="Hochzeit">Hochzeit von Irene Mandl und Ludwig Mandl, 8.5.1890</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296694/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat als Teilnehmer:in">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb39818">Mandl, Ludwig</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb20899">Mandl, Irene</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
+                <location>
+                    <geo>48,211649 16,374825</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb296492" when-iso="1910-10-11">
         <eventName n="Private Lesung">Private Lesung von Die ungleichen Schalen, 11.10.1910</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296492/</idno>
     <listBibl>
@@ -468,9 +560,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb291923">Seidengasse 13</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,200172 16,34535</geo>
                 </location>
             </place>
         </listPlace>
@@ -13591,7 +13683,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77545">Der Feldherrnhügel</title>
+                <title key="pmb77545">Der Feldherrnhügel. Eine Schnurre in drei Akten</title>
                 <note type="relation-type">ist Probe von</note>
             </bibl>
         </listBibl>
@@ -13602,9 +13694,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb34399">Neue Wiener Bühne</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,2195962 16,3589845</geo>
                 </location>
             </place>
         </listPlace>
@@ -18468,7 +18560,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb244849" when-iso="1931-03-04">
-        <eventName n="Konzert">Konzert von Friedrich Bayer, 4.3.1931</eventName>
+        <eventName n="Sinfoniekonzert">Sechstes Konzertvereinsabonnementkonzert, 4.3.1931</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244849/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -18480,12 +18572,15 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb102401">Reichwein, Leopold</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb240">Wiener Konzerthaus</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,200771836002 16,377197811369</geo>
                 </location>
             </place>
         </listPlace>
@@ -65643,6 +65738,9 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb26216">Tschechowa, Olga</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -73633,7 +73731,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209812" when-iso="1916-02-17">
-        <eventName n="Klavierkonzert">Klavierkonzert von Margarete Gelbard, 17.2.1916</eventName>
+        <eventName n="Konzert">Heiterer Abend von Hugo Knepler und Margarete Gelbard, 17.2.1916</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209812/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -73645,12 +73743,15 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb19464">Knepler, Hugo</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb240">Wiener Konzerthaus</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,200771836002 16,377197811369</geo>
                 </location>
             </place>
         </listPlace>
@@ -85758,12 +85859,6 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                <location>
-                    <geo>48,208333 16,373056</geo>
-                </location>
-            </place>
-            <place>
                 <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
@@ -90459,9 +90554,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,201265597319 16,372564182283</geo>
                 </location>
             </place>
         </listPlace>
@@ -97510,42 +97605,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb208990" when-iso="1898-01-04">
-        <eventName n="Theateraufführung">Aufführung von Oidípous Týrannos, Hanneles Himmelfahrt, 4.1.1898</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb36247">Burgtheater</orgName>
-                </org>
-            </listOrg>
-        </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208990/</idno>
-    <listBibl>
-    <bibl type="collections" n="31">temp-issue-227</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb65626">Oidípous Týrannos</title>
-                <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-            <bibl>
-                <title key="pmb31511">Hanneles Himmelfahrt. Traumdichtung in zwei Teilen</title>
-                <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat als Teilnehmer:in">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-                <location>
-                    <geo>48,210333 16,361139</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb208989" when-iso="1897-12-22">
         <eventName n="Opernaufführung">Aufführung von Götterdämmerung, 22.12.1897</eventName>
         <note type="listorg">
@@ -97610,8 +97669,8 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb208987" when-iso="1897-12-17">
-        <eventName n="Quartett">Konzert des Rosé-Quartetts, 17.12.1897</eventName>
+    </event><event xml:id="pmb208987" when-iso="1897-12-14">
+        <eventName n="Quartett">Konzert des Rosé-Quartetts, 14.12.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -97630,9 +97689,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb516">Musikverein</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,201265597319 16,372564182283</geo>
                 </location>
             </place>
         </listPlace>
@@ -111440,28 +111499,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb208528" when-iso="1892-02-07">
-        <eventName n="Vorlesung">Vorlesung von Emanuel Reicher, 7.2.1892</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208528/</idno>
-    <listBibl>
-    <bibl type="collections" n="31">temp-issue-227</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat als Arbeitskraft">
-                <persName key="pmb12491">Reicher, Emanuel</persName>
-            </person>
-            <person role="hat als Teilnehmer:in">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                <location>
-                    <geo>48,208333 16,373056</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb208527" when-iso="1892-01-31">
         <eventName n="Klavierkonzert">Wohltätigkeitskonzert von Anton Rubinstein, 31.1.1892</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208527/</idno>
@@ -114015,9 +114052,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb296613">Elisabethstraße 4</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,201942 16,368371</geo>
                 </location>
             </place>
         </listPlace>
@@ -115377,9 +115414,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb296613">Elisabethstraße 4</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,201942 16,368371</geo>
                 </location>
             </place>
         </listPlace>
@@ -117756,9 +117793,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb296613">Elisabethstraße 4</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,201942 16,368371</geo>
                 </location>
             </place>
         </listPlace>
@@ -123064,7 +123101,7 @@
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
             <person role="hat als Arbeitskraft">
-                <persName key="pmb16137">Feinberg</persName>
+                <persName key="pmb16137">Feinberg, Julian Heinrich</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -123072,6 +123109,12 @@
                 <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                 <location>
                     <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+            <place>
+                <placeName role="veranstaltet in" key="pmb296641">Reichsratsstraße 11</placeName>
+                <location>
+                    <geo>48,212645 16,35853</geo>
                 </location>
             </place>
         </listPlace>
@@ -123262,14 +123305,14 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208093" when-iso="1887-01-27">
-        <eventName n="Spielabend">Spielabend von J. Löti, 27.1.1887</eventName>
+        <eventName n="Spielabend">Spielabend von Isidor Löti, 27.1.1887</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208093/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
 </listBibl>
         <listPerson>
             <person role="hat als Arbeitskraft">
-                <persName key="pmb154210">Löti, J.</persName>
+                <persName key="pmb20743">Löti-Kélenföld, Isidor von</persName>
             </person>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -123277,9 +123320,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb296670">Peregringasse 2</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,216179 16,364822</geo>
                 </location>
             </place>
         </listPlace>
@@ -123552,7 +123595,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208082" when-iso="1886-12-19">
-        <eventName n="Hochzeit">Hochzeit von Anton Wassing und Paula Jallowetz, 19.12.1886</eventName>
+        <eventName n="Hochzeit">Hochzeit von Anton Wassing und Charlotte Jallowetz, 19.12.1886</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208082/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
@@ -123561,11 +123604,11 @@
             <person role="hat als Arbeitskraft">
                 <persName key="pmb26706">Wassing, Anton</persName>
             </person>
-            <person role="hat als Arbeitskraft">
-                <persName key="pmb26709">Wassing, Paula</persName>
-            </person>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb48943">Wassing, Charlotte</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -123573,6 +123616,12 @@
                 <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                 <location>
                     <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+            <place>
+                <placeName role="veranstaltet in" key="pmb296632">Synagoge Turnergasse</placeName>
+                <location>
+                    <geo>48,1922 16,3353</geo>
                 </location>
             </place>
         </listPlace>
@@ -124138,6 +124187,9 @@
         <listPerson>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb107427">Wessely, Josefine</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -125417,9 +125469,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb296608">Praterstraße 15</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,213442 16,381581</geo>
                 </location>
             </place>
         </listPlace>
@@ -125483,6 +125535,12 @@
                 <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                 <location>
                     <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+            <place>
+                <placeName role="veranstaltet in" key="pmb296641">Reichsratsstraße 11</placeName>
+                <location>
+                    <geo>48,212645 16,35853</geo>
                 </location>
             </place>
         </listPlace>
@@ -125954,9 +126012,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb296608">Praterstraße 15</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,213442 16,381581</geo>
                 </location>
             </place>
         </listPlace>
@@ -129436,9 +129494,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb296608">Praterstraße 15</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,213442 16,381581</geo>
                 </location>
             </place>
         </listPlace>
@@ -133932,12 +133990,24 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb296572">Klein, Pauline</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb296571">Klein, Anton</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,211649 16,374825</geo>
+                </location>
+            </place>
+            <place>
+                <placeName role="veranstaltet in" key="pmb296582">Landgutgasse 26</placeName>
+                <location>
+                    <geo>48,181382 16,37399</geo>
                 </location>
             </place>
         </listPlace>
@@ -134607,12 +134677,15 @@
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb19409">Klein, Leopold</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb296608">Praterstraße 15</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,213442 16,381581</geo>
                 </location>
             </place>
         </listPlace>
@@ -136884,20 +136957,23 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207578" when-iso="1880-04-16">
-        <eventName n="Theateraufführung">Aufführung von Näherin, 16.4.1880</eventName>
+        <eventName n="Theateraufführung">Aufführung von Die Näherin, 16.4.1880</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207578/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195549">Näherin</title>
+                <title key="pmb195549">Die Näherin. Posse mit Gesang</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
         <listPerson>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat als Arbeitskraft">
+                <persName key="pmb115336">Geistinger, Marie</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -136909,17 +136985,11 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207577" when-iso="1880-04-15">
-        <eventName n="Generalprobe">Generalprobe von Karussell, 15.4.1880</eventName>
+        <eventName n="Wohltätigkeitsveranstaltung">Generalprobe der Caroussell-Festvorstellungen, 15.4.1880</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207577/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
 </listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb295592">Karussell</title>
-                <note type="relation-type">ist Probe von</note>
-            </bibl>
-        </listBibl>
         <listPerson>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -136927,9 +136997,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb320">Hofburg</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,206389 16,366111</geo>
                 </location>
             </place>
         </listPlace>
@@ -137067,14 +137137,14 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207571" when-iso="1880-03-31">
-        <eventName n="Theateraufführung">Aufführung von Näherin, 31.3.1880</eventName>
+        <eventName n="Theateraufführung">Aufführung von Die Näherin, 31.3.1880</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207571/</idno>
     <listBibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195549">Näherin</title>
+                <title key="pmb195549">Die Näherin. Posse mit Gesang</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -142654,7 +142724,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195471">Monaldeschi</title>
+                <title key="pmb195471">Monaldeschi. Tragödie in 5 Acten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -149111,9 +149181,12 @@
     </event><event xml:id="pmb190928" when-iso="1892-02-07">
         <eventName n="Lesung">Lesung von Emanuel Reicher, 7.2.1892</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190928/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208528/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="31">temp-issue-227</bibl>
 </listBibl>
+    <note type="references"> </note>
         <listPerson>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -158067,8 +158140,10 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/169077/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208990/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="31">temp-issue-227</bibl>
 </listBibl>
         <listBibl>
             <bibl>
