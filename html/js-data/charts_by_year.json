@@ -1,4 +1,375 @@
 {
+  "1881": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Theater",
+        "Musik",
+        "anderes"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1881",
+          "data": [
+            14,
+            39,
+            22,
+            9
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Hochzeit",
+          "Soirée",
+          "Soirée-dansante",
+          "Hausball",
+          "Ball",
+          "Kostümfest",
+          "Maskenball"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1881",
+            "data": [
+              2,
+              2,
+              3,
+              2,
+              3,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Theaterpremiere"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1881",
+            "data": [
+              30,
+              9
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Gesellschaftskonzert",
+          "Liederkonzert",
+          "Opernaufführung",
+          "Konzert",
+          "Quartett",
+          "Orchesterkonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1881",
+            "data": [
+              4,
+              2,
+              4,
+              5,
+              4,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Universitätskränzchen",
+          "Zirkusvorstellung",
+          "Vergnügungsabend",
+          "Kränzchen",
+          "Technikerkränzchen",
+          "Kommers",
+          "Wärmestuben-Kränzchen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1881",
+            "data": [
+              1,
+              1,
+              1,
+              3,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1890": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Theater",
+        "Musik",
+        "anderes",
+        "Vortrag"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1890",
+          "data": [
+            15,
+            35,
+            25,
+            7,
+            2
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Hochzeit",
+          "Hausball",
+          "Soirée",
+          "Polterabend",
+          "Ball",
+          "Redoute"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1890",
+            "data": [
+              2,
+              7,
+              2,
+              1,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Generalprobe",
+          "Theaterpremiere",
+          "Schulaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1890",
+            "data": [
+              23,
+              2,
+              4,
+              6
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Opernaufführung",
+          "Liederkonzert",
+          "Varieté",
+          "Quartett",
+          "Klavierkonzert",
+          "Schulkonzert",
+          "Konzert",
+          "Gesellschaftskonzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1890",
+            "data": [
+              5,
+              7,
+              2,
+              1,
+              3,
+              2,
+              1,
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Vergnügungsabend",
+          "Kränzchen",
+          "Vereinstreffen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1890",
+            "data": [
+              3,
+              1,
+              3
+            ]
+          }
+        ]
+      },
+      "Vortrag": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1890",
+            "data": [
+              2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1889": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "Theater",
+        "Musik",
+        "anderes",
+        "Vortrag"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1889",
+          "data": [
+            15,
+            18,
+            31,
+            14,
+            3
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Hochzeit",
+          "Silberne Hochzeit",
+          "Soirée",
+          "Hausball",
+          "Maskenball",
+          "Polterabend"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1889",
+            "data": [
+              1,
+              1,
+              2,
+              7,
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Theaterpremiere",
+          "Generalprobe",
+          "Theateruraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1889",
+            "data": [
+              13,
+              3,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Philharmonisches Konzert",
+          "Liederkonzert",
+          "Varieté",
+          "Quartett",
+          "Opernaufführung",
+          "Konzert",
+          "Orchesterkonzert",
+          "Operettenaufführung",
+          "Gesellschaftskonzert",
+          "Tanz"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1889",
+            "data": [
+              6,
+              2,
+              4,
+              3,
+              11,
+              1,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Schulvortragsabend",
+          "Vergnügungsabend",
+          "Vereinstreffen",
+          "Kränzchen",
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1889",
+            "data": [
+              6,
+              1,
+              4,
+              2,
+              1
+            ]
+          }
+        ]
+      },
+      "Vortrag": {
+        "labels": [
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1889",
+            "data": [
+              3
+            ]
+          }
+        ]
+      }
+    }
+  },
   "1910": {
     "ana_chart": {
       "labels": [
@@ -1538,9 +1909,9 @@
           {
             "label": "Verteilung innerhalb von 'Musik' im Jahr 1916",
             "data": [
-              12,
+              13,
               2,
-              6,
+              5,
               1,
               7,
               6,
@@ -3160,7 +3531,7 @@
           "Operettenaufführung",
           "Ballett",
           "Varieté",
-          "Konzert",
+          "Sinfoniekonzert",
           "Klavierkonzert"
         ],
         "datasets": [
@@ -4258,136 +4629,6 @@
       }
     }
   },
-  "1889": {
-    "ana_chart": {
-      "labels": [
-        "Theater",
-        "Privatveranstaltung",
-        "Musik",
-        "anderes",
-        "Vortrag"
-      ],
-      "datasets": [
-        {
-          "label": "Veranstaltungstypen im Jahr 1889",
-          "data": [
-            18,
-            14,
-            31,
-            14,
-            3
-          ]
-        }
-      ]
-    },
-    "ana_n_charts": {
-      "Theater": {
-        "labels": [
-          "Theateraufführung",
-          "Theaterpremiere",
-          "Generalprobe",
-          "Theateruraufführung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Theater' im Jahr 1889",
-            "data": [
-              13,
-              3,
-              1,
-              1
-            ]
-          }
-        ]
-      },
-      "Privatveranstaltung": {
-        "labels": [
-          "Silberne Hochzeit",
-          "Soirée",
-          "Hausball",
-          "Maskenball",
-          "Polterabend"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1889",
-            "data": [
-              1,
-              2,
-              7,
-              3,
-              1
-            ]
-          }
-        ]
-      },
-      "Musik": {
-        "labels": [
-          "Philharmonisches Konzert",
-          "Liederkonzert",
-          "Varieté",
-          "Quartett",
-          "Opernaufführung",
-          "Konzert",
-          "Orchesterkonzert",
-          "Operettenaufführung",
-          "Gesellschaftskonzert",
-          "Tanz"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Musik' im Jahr 1889",
-            "data": [
-              6,
-              2,
-              4,
-              3,
-              11,
-              1,
-              1,
-              1,
-              1,
-              1
-            ]
-          }
-        ]
-      },
-      "anderes": {
-        "labels": [
-          "Schulvortragsabend",
-          "Vergnügungsabend",
-          "Vereinstreffen",
-          "Kränzchen",
-          "Zirkusvorstellung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1889",
-            "data": [
-              6,
-              1,
-              4,
-              2,
-              1
-            ]
-          }
-        ]
-      },
-      "Vortrag": {
-        "labels": [
-          "Private Lesung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1889",
-            "data": [
-              3
-            ]
-          }
-        ]
-      }
-    }
-  },
   "1898": {
     "ana_chart": {
       "labels": [
@@ -4401,7 +4642,7 @@
         {
           "label": "Veranstaltungstypen im Jahr 1898",
           "data": [
-            96,
+            95,
             17,
             11,
             2,
@@ -4425,7 +4666,7 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1898",
             "data": [
-              48,
+              47,
               11,
               4,
               25,
@@ -5077,7 +5318,7 @@
             6,
             19,
             60,
-            16
+            15
           ]
         }
       ]
@@ -5149,7 +5390,6 @@
       "Vortrag": {
         "labels": [
           "Vortrag",
-          "Vorlesung",
           "Private Lesung",
           "Lesung"
         ],
@@ -5158,7 +5398,6 @@
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1892",
             "data": [
               2,
-              1,
               12,
               1
             ]
@@ -5285,130 +5524,6 @@
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1891",
             "data": [
               12
-            ]
-          }
-        ]
-      }
-    }
-  },
-  "1890": {
-    "ana_chart": {
-      "labels": [
-        "Theater",
-        "Privatveranstaltung",
-        "Musik",
-        "anderes",
-        "Vortrag"
-      ],
-      "datasets": [
-        {
-          "label": "Veranstaltungstypen im Jahr 1890",
-          "data": [
-            35,
-            13,
-            25,
-            7,
-            2
-          ]
-        }
-      ]
-    },
-    "ana_n_charts": {
-      "Theater": {
-        "labels": [
-          "Theateraufführung",
-          "Generalprobe",
-          "Theaterpremiere",
-          "Schulaufführung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Theater' im Jahr 1890",
-            "data": [
-              23,
-              2,
-              4,
-              6
-            ]
-          }
-        ]
-      },
-      "Privatveranstaltung": {
-        "labels": [
-          "Hausball",
-          "Soirée",
-          "Polterabend",
-          "Ball",
-          "Redoute"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1890",
-            "data": [
-              7,
-              2,
-              1,
-              2,
-              1
-            ]
-          }
-        ]
-      },
-      "Musik": {
-        "labels": [
-          "Philharmonisches Konzert",
-          "Opernaufführung",
-          "Liederkonzert",
-          "Varieté",
-          "Quartett",
-          "Klavierkonzert",
-          "Schulkonzert",
-          "Konzert",
-          "Gesellschaftskonzert"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Musik' im Jahr 1890",
-            "data": [
-              5,
-              7,
-              2,
-              1,
-              3,
-              2,
-              1,
-              3,
-              1
-            ]
-          }
-        ]
-      },
-      "anderes": {
-        "labels": [
-          "Vergnügungsabend",
-          "Kränzchen",
-          "Vereinstreffen"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1890",
-            "data": [
-              3,
-              1,
-              3
-            ]
-          }
-        ]
-      },
-      "Vortrag": {
-        "labels": [
-          "Private Lesung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1890",
-            "data": [
-              2
             ]
           }
         ]
@@ -5970,119 +6085,6 @@
       }
     }
   },
-  "1881": {
-    "ana_chart": {
-      "labels": [
-        "Theater",
-        "Musik",
-        "Privatveranstaltung",
-        "anderes"
-      ],
-      "datasets": [
-        {
-          "label": "Veranstaltungstypen im Jahr 1881",
-          "data": [
-            39,
-            22,
-            13,
-            9
-          ]
-        }
-      ]
-    },
-    "ana_n_charts": {
-      "Theater": {
-        "labels": [
-          "Theateraufführung",
-          "Theaterpremiere"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Theater' im Jahr 1881",
-            "data": [
-              30,
-              9
-            ]
-          }
-        ]
-      },
-      "Musik": {
-        "labels": [
-          "Philharmonisches Konzert",
-          "Gesellschaftskonzert",
-          "Liederkonzert",
-          "Opernaufführung",
-          "Konzert",
-          "Quartett",
-          "Orchesterkonzert"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Musik' im Jahr 1881",
-            "data": [
-              4,
-              2,
-              4,
-              5,
-              4,
-              2,
-              1
-            ]
-          }
-        ]
-      },
-      "Privatveranstaltung": {
-        "labels": [
-          "Soirée",
-          "Hochzeit",
-          "Soirée-dansante",
-          "Hausball",
-          "Ball",
-          "Kostümfest",
-          "Maskenball"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1881",
-            "data": [
-              2,
-              1,
-              3,
-              2,
-              3,
-              1,
-              1
-            ]
-          }
-        ]
-      },
-      "anderes": {
-        "labels": [
-          "Universitätskränzchen",
-          "Zirkusvorstellung",
-          "Vergnügungsabend",
-          "Kränzchen",
-          "Technikerkränzchen",
-          "Kommers",
-          "Wärmestuben-Kränzchen"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1881",
-            "data": [
-              1,
-              1,
-              1,
-              3,
-              1,
-              1,
-              1
-            ]
-          }
-        ]
-      }
-    }
-  },
   "1880": {
     "ana_chart": {
       "labels": [
@@ -6096,8 +6098,8 @@
         {
           "label": "Veranstaltungstypen im Jahr 1880",
           "data": [
-            60,
-            12,
+            59,
+            13,
             25,
             2,
             5
@@ -6120,7 +6122,7 @@
               6,
               50,
               1,
-              3
+              2
             ]
           }
         ]
@@ -6131,6 +6133,7 @@
           "Kommers",
           "Kneipe",
           "Kränzchen",
+          "Wohltätigkeitsveranstaltung",
           "Technikerkränzchen",
           "Vergnügungsabend",
           "Unitaskränzchen",
@@ -6144,6 +6147,7 @@
               3,
               1,
               3,
+              1,
               1,
               1,
               1,
