@@ -737,6 +737,7 @@ class SimpleCalendar {
     if (oldView === 'year' && newView === 'month') {
       // Jump to January of the current year
       this.currentMonth = 0;
+    }
     
     // Update view buttons (both in calendar and sidebar)
     document.querySelectorAll('.view-btn').forEach(btn => {
