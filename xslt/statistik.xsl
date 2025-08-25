@@ -69,6 +69,7 @@
                 
                     </div>
                 </main>
+                <xsl:call-template name="html_footer"/>
             </body>
             <script src="./js/eventtype-charts.js"></script>
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer='true'></script>

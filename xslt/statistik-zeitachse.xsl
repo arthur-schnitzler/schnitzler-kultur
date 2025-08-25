@@ -73,6 +73,7 @@
                         </div>
                     </div>
                 </main>
+                <xsl:call-template name="html_footer"/>
             </body>
             <script src="./js-data/calendarData.js"></script>
             <script src="./js/timeline-statistics.js"></script>
