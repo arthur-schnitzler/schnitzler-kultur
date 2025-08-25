@@ -463,7 +463,7 @@
                 </xsl:if>
             </div>
             <xsl:choose>
-                <xsl:when test="$current-edition = 'schnitzler-kultur'">+
+                <xsl:when test="$current-edition = 'schnitzler-kultur'">
                     <xsl:variable name="notes" as="node()">
                         <xsl:call-template name="fill-event-variable">
                             <xsl:with-param name="xmlid" select="@xml:id"/>
