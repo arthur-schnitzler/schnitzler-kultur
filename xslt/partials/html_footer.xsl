@@ -3,7 +3,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="#all" version="2.0">
     <xsl:template match="/" name="html_footer">
-        <div class="wrapper hide-reading" id="wrapper-footer-full">
+        <div class="wrapper hide-reading mt-5" id="wrapper-footer-full">
             <div class="container" id="footer-full-content" tabindex="-1">
                 <div class="row justify-content-between align-items-start">
                     <!-- Linke Spalte: Logo + Institut -->

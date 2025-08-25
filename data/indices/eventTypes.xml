@@ -213,9 +213,6 @@
     <item type="Theater">
         <description>Matinée</description>
     </item>
-    <item type="anderes">
-        <description>Ausstellung</description>
-    </item>
     <item type="Privatveranstaltung">
         <description>Hausball</description>
     </item>

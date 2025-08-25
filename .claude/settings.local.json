@@ -6,7 +6,9 @@
       "Bash(python:*)",
       "Bash(ant:*)",
       "Bash(mv:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "WebSearch",
+      "WebFetch(domain:webaim.org)"
     ],
     "deny": []
   }

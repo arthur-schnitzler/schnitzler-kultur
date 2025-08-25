@@ -4,14 +4,13 @@
  */
 
 // Event categories and colors (matching calendar.js)
+// Only include categories that have actual data
 const eventCategories = {
     'Theater': '#DC143C',        // Crimson
     'Musik': '#228B22',          // Forest Green
     'Film': '#FF1493',           // Deep Pink
     'Vortrag': '#00CED1',        // Dark Turquoise
     'Privatveranstaltung': '#4169E1', // Royal Blue
-    'Veranstaltung': '#FF8C00',   // Dark Orange
-    'Ausstellung': '#FFD700',     // Gold
     'anderes': '#9932CC'          // Dark Orchid
 };
 
@@ -80,10 +79,9 @@ function getEventCategory(event) {
                name.includes('diner') || name.includes('hochzeit') || name.includes('ball') || name.includes('privat')) {
         return 'Privatveranstaltung';
     } else if (type.includes('empfang') || type.includes('fest') || type.includes('feier') || type.includes('vereinstreffen') ||
-               name.includes('empfang') || name.includes('fest') || name.includes('feier') || name.includes('vereinstreffen')) {
-        return 'Veranstaltung';
-    } else if (type.includes('ausstellung') || name.includes('ausstellung')) {
-        return 'Ausstellung';
+               name.includes('empfang') || name.includes('fest') || name.includes('feier') || name.includes('vereinstreffen') ||
+               type.includes('ausstellung') || name.includes('ausstellung')) {
+        return 'anderes';
     }
     
     return 'anderes';
@@ -97,8 +95,6 @@ function extractSubTypes() {
         'Film': new Set(),
         'Vortrag': new Set(),
         'Privatveranstaltung': new Set(),
-        'Veranstaltung': new Set(),
-        'Ausstellung': new Set(),
         'anderes': new Set()
     };
     

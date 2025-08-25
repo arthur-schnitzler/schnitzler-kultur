@@ -23,9 +23,13 @@
         <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css"/>
         <link rel="stylesheet" href="css/style.css" type="text/css"/>
         <link rel="stylesheet" href="css/micro-editor.css" type="text/css"/>
-        <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png"/>
+        <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon-180x180.png"/>
         <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png"/>
         <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png"/>
+        <link rel="icon" type="image/png" sizes="96x96" href="images/favicon-96x96.png"/>
+        <link rel="icon" type="image/png" sizes="192x192" href="images/android-chrome-192x192.png"/>
         <link rel="manifest" href="images/site.webmanifest"/>
+        <meta name="msapplication-TileImage" content="images/mstile-150x150.png"/>
+        <meta name="msapplication-TileColor" content="#ffffff"/>
     </xsl:template>
 </xsl:stylesheet>
