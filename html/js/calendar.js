@@ -129,13 +129,6 @@ class SimpleCalendar {
             <button class="nav-btn prev" data-direction="-1">
               <i class="bi bi-chevron-left"></i>
             </button>
-            <div class="view-selector">
-              <select class="form-select form-select-sm view-mode-select">
-                <option value="year" ${this.currentView === 'year' ? 'selected' : ''}>Jahr</option>
-                <option value="month" ${this.currentView === 'month' ? 'selected' : ''}>Monat</option>
-                <option value="week" ${this.currentView === 'week' ? 'selected' : ''}>Woche</option>
-              </select>
-            </div>
           </div>
           
           <div class="current-period">
@@ -148,9 +141,6 @@ class SimpleCalendar {
           </div>
           
           <div class="nav-controls-right">
-            <button class="nav-btn today" title="Heute">
-              <i class="bi bi-house"></i>
-            </button>
             <button class="nav-btn next" data-direction="1">
               <i class="bi bi-chevron-right"></i>
             </button>
@@ -167,23 +157,10 @@ class SimpleCalendar {
     this.container.querySelectorAll('.nav-btn').forEach(btn => {
       btn.addEventListener('click', (e) => {
         const target = e.target.closest('.nav-btn');
-        
-        if (target.classList.contains('today')) {
-          this.goToToday();
-        } else {
-          const direction = parseInt(target.dataset.direction);
-          this.navigatePeriod(direction);
-        }
+        const direction = parseInt(target.dataset.direction);
+        this.navigatePeriod(direction);
       });
     });
-    
-    // Add view mode selector listener
-    const viewModeSelect = this.container.querySelector('.view-mode-select');
-    if (viewModeSelect) {
-      viewModeSelect.addEventListener('change', (e) => {
-        this.changeView(e.target.value);
-      });
-    }
     
     // Add period navigation listeners
     this.addPeriodNavigationListeners();
@@ -936,11 +913,6 @@ class SimpleCalendar {
       }
     });
     
-    // Update view mode selector
-    const viewModeSelect = this.container.querySelector('.view-mode-select');
-    if (viewModeSelect) {
-      viewModeSelect.value = newView;
-    }
     
     // Recreate navigation structure
     const currentPeriod = this.container.querySelector('.current-period');
