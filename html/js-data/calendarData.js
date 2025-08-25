@@ -9216,7 +9216,7 @@ var calendarData = [
     "name": "Symphoniekonzert, 1.12.1903", "startDate": "1903-12-01", "id": "pmb209303.html", "type": "Sinfoniekonzert"
   },
   {
-    "name": "Premiere von Novella d'Andrea, 21.11.1903", "startDate": "1903-11-21", "id": "pmb209302.html", "type": "Theaterpremiere"
+    "name": "Uraufführung von Novella d'Andrea, 21.11.1903", "startDate": "1903-11-21", "id": "pmb209302.html", "type": "Theateruraufführung"
   },
   {
     "name": "Erste Abonnementsoirée des Böhmischen Streich-Quartetts, 20.11.1903", "startDate": "1903-11-20", "id": "pmb209301.html", "type": "Quartett"
