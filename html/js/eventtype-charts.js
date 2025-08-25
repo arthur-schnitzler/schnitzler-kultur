@@ -29,20 +29,73 @@ const anaBaseColors = [
   "#9932CC"     // anderes - Dark Orchid
 ];
 
-// Helligkeit einer Hex-Farbe anpassen
-function adjustLightness(hex, amount) {
+// Generate color variations using HSL for better control
+function generateColorVariation(baseHex, index, total) {
   // Convert hex to RGB
-  const r = parseInt(hex.substr(1, 2), 16);
-  const g = parseInt(hex.substr(3, 2), 16);
-  const b = parseInt(hex.substr(5, 2), 16);
+  const r = parseInt(baseHex.substr(1, 2), 16) / 255;
+  const g = parseInt(baseHex.substr(3, 2), 16) / 255;
+  const b = parseInt(baseHex.substr(5, 2), 16) / 255;
   
-  // Adjust brightness
-  const newR = Math.min(255, Math.max(0, r + amount));
-  const newG = Math.min(255, Math.max(0, g + amount));
-  const newB = Math.min(255, Math.max(0, b + amount));
+  // Convert RGB to HSL
+  const max = Math.max(r, g, b);
+  const min = Math.min(r, g, b);
+  const diff = max - min;
   
-  // Convert back to hex
-  return `#${newR.toString(16).padStart(2, '0')}${newG.toString(16).padStart(2, '0')}${newB.toString(16).padStart(2, '0')}`;
+  let h, s, l = (max + min) / 2;
+  
+  if (diff === 0) {
+    h = s = 0;
+  } else {
+    s = l > 0.5 ? diff / (2 - max - min) : diff / (max + min);
+    switch (max) {
+      case r: h = (g - b) / diff + (g < b ? 6 : 0); break;
+      case g: h = (b - r) / diff + 2; break;
+      case b: h = (r - g) / diff + 4; break;
+    }
+    h /= 6;
+  }
+  
+  // Create variations by adjusting lightness and saturation
+  // Distribute variations across a wider range
+  const factor = total > 1 ? (index / (total - 1)) : 0;
+  
+  // Create variations from dark to light with some saturation changes
+  let newL, newS;
+  if (factor < 0.5) {
+    // Darker variations (first half)
+    newL = Math.max(0.15, l * (0.4 + factor * 1.2));
+    newS = Math.min(1, s * (1 + factor * 0.5));
+  } else {
+    // Lighter variations (second half) 
+    newL = Math.min(0.9, l + (factor - 0.5) * 1.4);
+    newS = Math.max(0.3, s * (1.5 - (factor - 0.5) * 0.8));
+  }
+  
+  // Convert HSL back to RGB
+  const hslToRgb = (h, s, l) => {
+    let r, g, b;
+    if (s === 0) {
+      r = g = b = l;
+    } else {
+      const hue2rgb = (p, q, t) => {
+        if (t < 0) t += 1;
+        if (t > 1) t -= 1;
+        if (t < 1/6) return p + (q - p) * 6 * t;
+        if (t < 1/2) return q;
+        if (t < 2/3) return p + (q - p) * (2/3 - t) * 6;
+        return p;
+      };
+      const q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+      const p = 2 * l - q;
+      r = hue2rgb(p, q, h + 1/3);
+      g = hue2rgb(p, q, h);
+      b = hue2rgb(p, q, h - 1/3);
+    }
+    return [Math.round(r * 255), Math.round(g * 255), Math.round(b * 255)];
+  };
+  
+  const [red, green, blue] = hslToRgb(h, newS, newL);
+  return `#${red.toString(16).padStart(2, '0')}${green.toString(16).padStart(2, '0')}${blue.toString(16).padStart(2, '0')}`;
 }
 
 // Label → Index der Basisfarbe (0–9)
@@ -112,8 +165,8 @@ function updateChartsForYear(year, data) {
       const baseColorIdx = labelToBaseColorIndex(anaKey);
       const baseColor = baseColorIdx !== null ? anaBaseColors[baseColorIdx] : "#B0B0B0";
 
-      // Helligkeitsvariationen pro Segment (etwas dunkler bis heller)
-      const backgroundColor = labels.map((_, i) => adjustLightness(baseColor, i * 20));
+      // Farbvariationen pro Segment (von dunkel zu hell)
+      const backgroundColor = labels.map((_, i) => generateColorVariation(baseColor, i, labels.length));
 
       yearData.ana_n_charts[anaKey] = {
         labels,
@@ -140,7 +193,7 @@ function updateChartsForYear(year, data) {
       const baseColorIdx = labelToBaseColorIndex(anaKey);
       const baseColor = baseColorIdx !== null ? anaBaseColors[baseColorIdx] : "#B0B0B0";
 
-      chart.datasets[0].backgroundColor = chart.labels.map((_, i) => adjustLightness(baseColor, i * 20));
+      chart.datasets[0].backgroundColor = chart.labels.map((_, i) => generateColorVariation(baseColor, i, chart.labels.length));
     }
   }
 
