@@ -1,5 +1,17 @@
 var calendarData = [
   {
+    "name": "Hochzeit von Laura Pollak und Heinrich Spitzer, 13.11.1881", "startDate": "1881-11-13", "id": "pmb296714.html", "type": "Hochzeit"
+  },
+  {
+    "name": "Hochzeit von Gisela Adler und Salo Fischer, 3.8.1890", "startDate": "1890-08-03", "id": "pmb296709.html", "type": "Hochzeit"
+  },
+  {
+    "name": "Hochzeit von Gisela Schnitzler und Markus Hajek, 6.1.1889", "startDate": "1889-01-06", "id": "pmb296700.html", "type": "Hochzeit"
+  },
+  {
+    "name": "Hochzeit von Irene Mandl und Ludwig Mandl, 8.5.1890", "startDate": "1890-05-08", "id": "pmb296694.html", "type": "Hochzeit"
+  },
+  {
     "name": "Private Lesung von Die ungleichen Schalen, 11.10.1910", "startDate": "1910-10-11", "id": "pmb296492.html", "type": "Private Lesung"
   },
   {
@@ -1944,7 +1956,7 @@ var calendarData = [
     "name": "Aufführung von Der Bauerngeneral, 10.4.1931", "startDate": "1931-04-10", "id": "pmb244897.html", "type": "Theateraufführung"
   },
   {
-    "name": "Konzert von Friedrich Bayer, 4.3.1931", "startDate": "1931-03-04", "id": "pmb244849.html", "type": "Konzert"
+    "name": "Sechstes Konzertvereinsabonnementkonzert, 4.3.1931", "startDate": "1931-03-04", "id": "pmb244849.html", "type": "Sinfoniekonzert"
   },
   {
     "name": "Aufführung von Der Opernball, 3.3.1931", "startDate": "1931-03-03", "id": "pmb244845.html", "type": "Operettenaufführung"
@@ -7704,7 +7716,7 @@ var calendarData = [
     "name": "Auftritt von Tonkünstlerorchester, 24.2.1916", "startDate": "1916-02-24", "id": "pmb209813.html", "type": "Orchesterkonzert"
   },
   {
-    "name": "Klavierkonzert von Margarete Gelbard, 17.2.1916", "startDate": "1916-02-17", "id": "pmb209812.html", "type": "Klavierkonzert"
+    "name": "Heiterer Abend von Hugo Knepler und Margarete Gelbard, 17.2.1916", "startDate": "1916-02-17", "id": "pmb209812.html", "type": "Konzert"
   },
   {
     "name": "Konzert des Rosé-Quartetts, 15.2.1916", "startDate": "1916-02-15", "id": "pmb209811.html", "type": "Quartett"
@@ -9204,7 +9216,7 @@ var calendarData = [
     "name": "Symphoniekonzert, 1.12.1903", "startDate": "1903-12-01", "id": "pmb209303.html", "type": "Sinfoniekonzert"
   },
   {
-    "name": "Premiere von Novella d'Andrea, 21.11.1903", "startDate": "1903-11-21", "id": "pmb209302.html", "type": "Theaterpremiere"
+    "name": "Uraufführung von Novella d'Andrea, 21.11.1903", "startDate": "1903-11-21", "id": "pmb209302.html", "type": "Theateruraufführung"
   },
   {
     "name": "Erste Abonnementsoirée des Böhmischen Streich-Quartetts, 20.11.1903", "startDate": "1903-11-20", "id": "pmb209301.html", "type": "Quartett"
@@ -10128,16 +10140,13 @@ var calendarData = [
     "name": "Premiere von Das neue Ghetto, 5.1.1898", "startDate": "1898-01-05", "id": "pmb208991.html", "type": "Theaterpremiere"
   },
   {
-    "name": "Aufführung von Oidípous Týrannos, Hanneles Himmelfahrt, 4.1.1898", "startDate": "1898-01-04", "id": "pmb208990.html", "type": "Theateraufführung"
-  },
-  {
     "name": "Aufführung von Götterdämmerung, 22.12.1897", "startDate": "1897-12-22", "id": "pmb208989.html", "type": "Opernaufführung"
   },
   {
     "name": "Ballett im Oper, 20.12.1897", "startDate": "1897-12-20", "id": "pmb208988.html", "type": "Ballett"
   },
   {
-    "name": "Konzert des Rosé-Quartetts, 17.12.1897", "startDate": "1897-12-17", "id": "pmb208987.html", "type": "Quartett"
+    "name": "Konzert des Rosé-Quartetts, 14.12.1897", "startDate": "1897-12-14", "id": "pmb208987.html", "type": "Quartett"
   },
   {
     "name": "Zweite Soirée des Böhmischen Streich-Quartetts, 10.12.1897", "startDate": "1897-12-10", "id": "pmb208986.html", "type": "Quartett"
@@ -11511,9 +11520,6 @@ var calendarData = [
     "name": "Vereinstreffen der Concordia, 9.2.1892", "startDate": "1892-02-09", "id": "pmb208529.html", "type": "Vereinstreffen"
   },
   {
-    "name": "Vorlesung von Emanuel Reicher, 7.2.1892", "startDate": "1892-02-07", "id": "pmb208528.html", "type": "Vorlesung"
-  },
-  {
     "name": "Wohltätigkeitskonzert von Anton Rubinstein, 31.1.1892", "startDate": "1892-01-31", "id": "pmb208527.html", "type": "Klavierkonzert"
   },
   {
@@ -12810,7 +12816,7 @@ var calendarData = [
     "name": "Kostümfest der Wiener Gesellschafts-Abende, 29.1.1887", "startDate": "1887-01-29", "id": "pmb208094.html", "type": "Kostümfest"
   },
   {
-    "name": "Spielabend von J. Löti, 27.1.1887", "startDate": "1887-01-27", "id": "pmb208093.html", "type": "Spielabend"
+    "name": "Spielabend von Isidor Löti, 27.1.1887", "startDate": "1887-01-27", "id": "pmb208093.html", "type": "Spielabend"
   },
   {
     "name": "Damenabend, 22.1.1887", "startDate": "1887-01-22", "id": "pmb208092.html", "type": "Damenabend"
@@ -12843,7 +12849,7 @@ var calendarData = [
     "name": "Aufführung von Der Hofnarr, 22.12.1886", "startDate": "1886-12-22", "id": "pmb208083.html", "type": "Theateraufführung"
   },
   {
-    "name": "Hochzeit von Anton Wassing und Paula Jallowetz, 19.12.1886", "startDate": "1886-12-19", "id": "pmb208082.html", "type": "Hochzeit"
+    "name": "Hochzeit von Anton Wassing und Charlotte Jallowetz, 19.12.1886", "startDate": "1886-12-19", "id": "pmb208082.html", "type": "Hochzeit"
   },
   {
     "name": "Polterabend von Anton Wassing, 17.12.1886", "startDate": "1886-12-17", "id": "pmb208081.html", "type": "Polterabend"
@@ -14346,10 +14352,10 @@ var calendarData = [
     "name": "Aufführung von Hexe, 20.4.1880", "startDate": "1880-04-20", "id": "pmb207579.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Näherin, 16.4.1880", "startDate": "1880-04-16", "id": "pmb207578.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Näherin, 16.4.1880", "startDate": "1880-04-16", "id": "pmb207578.html", "type": "Theateraufführung"
   },
   {
-    "name": "Generalprobe von Karussell, 15.4.1880", "startDate": "1880-04-15", "id": "pmb207577.html", "type": "Generalprobe"
+    "name": "Generalprobe der Caroussell-Festvorstellungen, 15.4.1880", "startDate": "1880-04-15", "id": "pmb207577.html", "type": "Wohltätigkeitsveranstaltung"
   },
   {
     "name": "Premiere von Advokatenball, 13.4.1880", "startDate": "1880-04-13", "id": "pmb207576.html", "type": "Theaterpremiere"
@@ -14367,7 +14373,7 @@ var calendarData = [
     "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 4.4.1880", "startDate": "1880-04-04", "id": "pmb207572.html", "type": "Philharmonisches Konzert"
   },
   {
-    "name": "Aufführung von Näherin, 31.3.1880", "startDate": "1880-03-31", "id": "pmb207571.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Näherin, 31.3.1880", "startDate": "1880-03-31", "id": "pmb207571.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Papas Frau, 30.3.1880", "startDate": "1880-03-30", "id": "pmb207570.html", "type": "Theateraufführung"

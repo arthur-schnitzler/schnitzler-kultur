@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-08-13">serialized</change>
+      <change when-iso="2025-08-25">serialized</change>
       
        
     </revisionDesc>
@@ -22125,6 +22125,21 @@
           
   
           <desc type="entity_type_id">972</desc>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb296731">8, Rue de Monceau</placeName>
+            
+  
+            <geo>48,875505 2,306854</geo>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296731/</note>
+            
+
+          </location>
           
 
           <location type="located_in_place">

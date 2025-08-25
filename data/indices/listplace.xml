@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-08-13">serialized</change>
+      <change when-iso="2025-08-25">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,342 @@
       
            
       <listPlace>
+        <place xml:id="pmb296670">
+          
+  
+          <placeName>Peregringasse 2</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,216179 16,364822</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb50562">Peregringasse</placeName>
+            
+  
+            <geo>48,21615659295968 16,364579257482646</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb59">IX., Alsergrund</placeName>
+            
+  
+            <geo>48,22387 16,35641</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296670/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb296641">
+          
+  
+          <placeName>Reichsratsstraße 11</placeName>
+          
+  
+          <placeName type="ort_fruherer-name">Reichsratsstraße 25</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,212645 16,35853</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb253335">Reichsratsstraße</placeName>
+            
+  
+            <geo>48,2125 16,3588</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296641/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb296632">
+          
+  
+          <placeName>Synagoge Turnergasse</placeName>
+          
+  
+          <desc type="entity_type">Synagoge</desc>
+          
+  
+          <desc type="entity_type_id">4358</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,1922 16,3353</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb65">XV., Rudolfsheim-Fünfhaus</placeName>
+            
+  
+            <geo>48,19625 16,32749</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296632/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2461407</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/102520025X</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Turnertempel</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb296613">
+          
+  
+          <placeName>Elisabethstraße 4</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,201942 16,368371</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb795">Elisabethstraße [Wien]</placeName>
+            
+  
+            <geo>48,202505409168 16,365996258067</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296613/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb296608">
+          
+  
+          <placeName>Praterstraße 15</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,213442 16,381581</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb52">II., Leopoldstadt</placeName>
+            
+  
+            <geo>48,21667 16,4</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb50933">Praterstraße</placeName>
+            
+  
+            <geo>48,21348 16,38214</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296608/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb296582">
+          
+  
+          <placeName>Landgutgasse 26</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,181382 16,37399</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb60">X., Favoriten</placeName>
+            
+  
+            <geo>48,17111 16,37778</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296582/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb296060">
           
   
@@ -2660,6 +2996,70 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb292334.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb291923">
+          
+  
+          <placeName>Seidengasse 13</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,200172 16,34535</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb57">VII., Neubau</placeName>
+            
+  
+            <geo>48,2 16,35</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb53101">Seidengasse</placeName>
+            
+  
+            <geo>48,2002 16,3397</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/291923/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb291923.html</idno>
           
 
           <listBibl>

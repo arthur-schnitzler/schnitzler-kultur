@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-08-13">serialized</change>
+      <change when-iso="2025-08-25">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,223 @@
       
            
       <listPerson>
+        <person xml:id="pmb296707">
+          
+  
+          <persName>
+            
+      
+            <forename>Salo</forename>
+            
+      
+            <surname>Fischer</surname>
+            
+  
+          </persName>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="431">Direktor/Direktorin</occupation>
+          
+  
+          <occupation key="1472">Beamter/Beamte</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296707/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="296709" when-iso="1890-08-03">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit von Gisela Adler und Salo Fischer, 3.8.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296709/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb296572">
+          
+  
+          <persName>
+            
+      
+            <forename>Pauline</forename>
+            
+      
+            <surname>Klein</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Adler</persName>
+          
+  
+          <persName type="person_rufname_vorname">Paula</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1860-08-06">1860-08-06</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <sex value="female"/>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296572/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="207692" when-iso="1881-05-17">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit und Tanz bei Adler, 17.5.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207692/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb296571">
+          
+  
+          <persName>
+            
+      
+            <forename>Anton</forename>
+            
+      
+            <surname>Klein</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1848-01-31">1848-01-31</date>
+            
+      
+            <settlement key="26374">
+              
+        
+              <placeName type="pref">Osijek</placeName>
+              
+        
+              <location>
+                <geo>45,5532 18,6909</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="535">Bauunternehmer/Bauunternehmerin</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296571/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="207692" when-iso="1881-05-17">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit und Tanz bei Adler, 17.5.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207692/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
         <person xml:id="pmb296035">
           
   
@@ -15765,52 +15982,6 @@
           
 
         </person>
-        <person xml:id="pmb154210">
-          
-  
-          <persName>
-            
-      
-            <forename>J.</forename>
-            
-      
-            <surname>Löti</surname>
-            
-  
-          </persName>
-          
-  
-          <sex value="not-set"/>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/154210/</idno>
-          
-  
-          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154210.html</idno>
-          
-
-          <listEvent>
-            
-    
-            <event n="Spielabend" key="208093" when-iso="1887-01-27">
-              
-        
-              <desc n="1256">ist Arbeitskraft bei</desc>
-              
-        
-              <label>Spielabend von J. Löti, 27.1.1887</label>
-              
-        
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208093/</idno>
-              
-    
-            </event>
-            
-
-          </listEvent>
-          
-
-        </person>
         <person xml:id="pmb154208">
           
   
@@ -21737,7 +21908,7 @@
           </persName>
           
   
-          <sex value="not-set"/>
+          <sex value="male"/>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/121947/</idno>
@@ -117619,6 +117790,21 @@
             </event>
             
     
+            <event n="Theateraufführung" key="207578" when-iso="1880-04-16">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Aufführung von Die Näherin, 16.4.1880</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207578/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateraufführung" key="208551" when-iso="1892-04-10">
               
         
@@ -122570,6 +122756,126 @@
           
 
         </person>
+        <person xml:id="pmb107427">
+          
+  
+          <persName>
+            
+      
+            <forename>Josefine</forename>
+            
+      
+            <surname>Wessely</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="legacy-name-merge">Wessely, Josefine</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1860-03-08">1860-03-08</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1887-08-12">1887-08-12</date>
+            
+  
+          </death>
+          
+  
+          <sex value="female"/>
+          
+  
+          <occupation key="105">Schauspieler/Schauspielerin</occupation>
+          
+  
+          <occupation key="107">Sänger/Sängerin</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/107427/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117314544</idno>
+          
+  
+          <idno type="URL" subtype="oebl">https://doi.org/10.1553/0x003afd66</idno>
+          
+  
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47182</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q390428</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Josephine_Wessely</idno>
+          
+  
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=8013</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/155810/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb107427.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Theaterpremiere" key="208059" when-iso="1886-10-05">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Premiere von Maria und Magdalena, 5.10.1886</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208059/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+            
+    
+            <bibl type="collections" n="12">Die Fackel</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
         <person xml:id="pmb107271">
           
   
@@ -123759,6 +124065,106 @@
           
   
           <note type="references">None </note>
+          
+
+        </person>
+        <person xml:id="pmb102401">
+          
+  
+          <persName>
+            
+      
+            <forename>Leopold</forename>
+            
+      
+            <surname>Reichwein</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1878-05-16">1878-05-16</date>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1945-04-08">1945-04-08</date>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="129">Komponist/Komponistin</occupation>
+          
+  
+          <occupation key="131">Dirigent/Dirigentin</occupation>
+          
+  
+          <occupation key="344">Musiker/Musikerin</occupation>
+          
+  
+          <occupation key="2589">Hofkapellmeister/Hofkapellmeisterin</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/102401/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116403012</idno>
+          
+  
+          <idno type="URL" subtype="oebl">https://doi.org/10.1553/0x002840de</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q96940</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Leopold_Reichwein</idno>
+          
+  
+          <idno type="URL" subtype="oeml">https://dx.doi.org/10.1553/0x0001deb8</idno>
+          
+  
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=36886</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Sinfoniekonzert" key="244849" when-iso="1931-03-04">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Sechstes Konzertvereinsabonnementkonzert, 4.3.1931</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244849/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -127955,9 +128361,46 @@
     
             <date when-iso="1863-01-17">1863-01-17</date>
             
+      
+            <settlement key="47626">
+              
+        
+              <placeName type="pref">Kaunas</placeName>
+              
+        
+              <location>
+                <geo>54,90272 23,90961</geo>
+              </location>
+              
+      
+            </settlement>
+            
   
           </birth>
             
+  
+          <death>
+            
+    
+            <date when-iso="1946-06-22">1946-06-22</date>
+            
+      
+            <settlement key="182">
+              
+        
+              <placeName type="pref">Paris</placeName>
+              
+        
+              <location>
+                <geo>48,85341 2,3488</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
   
           <sex value="female"/>
           
@@ -127984,6 +128427,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -128366,6 +128818,29 @@
           </persName>
           
   
+          <birth>
+            
+    
+            <date when-iso="1851-11-07">1851-11-07</date>
+            
+      
+            <settlement key="833">
+              
+        
+              <placeName type="pref">Brünn</placeName>
+              
+        
+              <location>
+                <geo>49,19522 16,60796</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
           <death>
             
     
@@ -128417,6 +128892,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -132951,6 +133435,98 @@
           
 
         </person>
+        <person xml:id="pmb48943">
+          
+  
+          <persName>
+            
+      
+            <forename>Charlotte</forename>
+            
+      
+            <surname>Wassing</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Jallowetz</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1862-11-19">19.11.1862</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1904-05-10">1904-05-10</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="female"/>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48943/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="208082" when-iso="1886-12-19">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit von Anton Wassing und Charlotte Jallowetz, 19.12.1886</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208082/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb47716">
           
   
@@ -135075,6 +135651,152 @@
             
 
           </figure>
+          
+
+        </person>
+        <person xml:id="pmb39818">
+          
+  
+          <persName>
+            
+      
+            <forename>Ludwig</forename>
+            
+      
+            <surname>Mandl</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_rufname_vorname">Louis</persName>
+          
+  
+          <persName type="legacy-name-merge">Mandl, Ludwig</persName>
+          
+  
+          <persName type="person_namensvariante_vorname">Lemel</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1862-08-19">19.8.1862</date>
+            
+      
+            <settlement key="38876">
+              
+        
+              <placeName type="pref">Iași</placeName>
+              
+        
+              <location>
+                <geo>47,16667 27,6</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1937-09-22">22.9.1937</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="388">Gynäkologe/Gynäkologin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17825.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39818/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/127699465</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q66317404</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/161176/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb39818</idno>
+          
+
+          <affiliation>
+            
+    
+            <term key="1153">in Bezug zu</term>
+            
+    
+            <orgName key="46027">Akademisches Gymnasium Wien</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46027/</idno>
+            
+    
+            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4409610-0</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93750/</idno>
+            
+
+          </affiliation>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="296694" when-iso="1890-05-08">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit von Irene Mandl und Ludwig Mandl, 8.5.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296694/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -147790,116 +148512,6 @@
           
 
         </person>
-        <person xml:id="pmb26709">
-          
-  
-          <persName>
-            
-      
-            <forename>Paula</forename>
-            
-      
-            <surname>Wassing</surname>
-            
-  
-          </persName>
-          
-  
-          <persName type="person_geburtsname_nachname">Jallowetz</persName>
-          
-  
-          <persName type="person_geburtsname_vorname">Pauline</persName>
-          
-  
-          <birth>
-            
-    
-            <date when-iso="1870-04-11">11.04.1870</date>
-            
-      
-            <settlement key="50">
-              
-        
-              <placeName type="pref">Wien</placeName>
-              
-        
-              <location>
-                <geo>48,208333 16,373056</geo>
-              </location>
-              
-      
-            </settlement>
-            
-  
-          </birth>
-            
-  
-          <death>
-            
-    
-            <date when-iso="1943-02-07">07.02.1943</date>
-            
-      
-            <settlement key="2258">
-              
-        
-              <placeName type="pref">Konzentrationslager Theresienstadt</placeName>
-              
-        
-              <location>
-                <geo>50,513639 14,164694</geo>
-              </location>
-              
-      
-            </settlement>
-            
-  
-          </death>
-          
-  
-          <sex value="female"/>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21113.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26709/</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q105508057</idno>
-          
-
-          <listEvent>
-            
-    
-            <event n="Hochzeit" key="208082" when-iso="1886-12-19">
-              
-        
-              <desc n="1256">ist Arbeitskraft bei</desc>
-              
-        
-              <label>Hochzeit von Anton Wassing und Paula Jallowetz, 19.12.1886</label>
-              
-        
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208082/</idno>
-              
-    
-            </event>
-            
-
-          </listEvent>
-          
-
-          <listBibl>
-            
-    
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
-            
-
-          </listBibl>
-          
-
-        </person>
         <person xml:id="pmb26706">
           
   
@@ -148006,7 +148618,7 @@
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Hochzeit von Anton Wassing und Paula Jallowetz, 19.12.1886</label>
+              <label>Hochzeit von Anton Wassing und Charlotte Jallowetz, 19.12.1886</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208082/</idno>
@@ -153112,6 +153724,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60857/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="210091" when-iso="1921-04-21">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Vortragsabend im Wiener Stadt-Theater, 21.4.1921</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210091/</idno>
               
     
             </event>
@@ -159705,6 +160332,101 @@
             
 
           </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb25241">
+          
+  
+          <persName>
+            
+      
+            <forename>Heinrich</forename>
+            
+      
+            <surname>Spitzer</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1843-09-26">26.09.1843</date>
+            
+      
+            <settlement key="40412">
+              
+        
+              <placeName type="pref">Mikulov</placeName>
+              
+        
+              <location>
+                <geo>48,80556 16,6378</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1917-02-06">06.02.1917</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="175">Kaufmann/Kauffrau</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20279.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/25241/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="296714" when-iso="1881-11-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit von Laura Pollak und Heinrich Spitzer, 13.11.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296714/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
           
 
         </person>
@@ -178727,6 +179449,110 @@
           
 
         </person>
+        <person xml:id="pmb22743">
+          
+  
+          <persName>
+            
+      
+            <forename>Laura</forename>
+            
+      
+            <surname>Spitzer</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Pollak</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1862-05-23">23.05.1862</date>
+            
+      
+            <settlement key="40412">
+              
+        
+              <placeName type="pref">Mikulov</placeName>
+              
+        
+              <location>
+                <geo>48,80556 16,6378</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1921-12-24">24.12.1921</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="female"/>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18888.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/22743/</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="296714" when-iso="1881-11-13">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit von Laura Pollak und Heinrich Spitzer, 13.11.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296714/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
         <person xml:id="pmb22728">
           
   
@@ -193009,6 +193835,101 @@
           
 
         </person>
+        <person xml:id="pmb20899">
+          
+  
+          <persName>
+            
+      
+            <forename>Irene</forename>
+            
+      
+            <surname>Mandl</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Mandl</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1868-05-27">27.05.1868</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1920-05-04">04.05.1920</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="female"/>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20899/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17821.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="296694" when-iso="1890-05-08">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit von Irene Mandl und Ludwig Mandl, 8.5.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296694/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb20893">
           
   
@@ -193908,6 +194829,125 @@
             
     
             <bibl type="collections" n="28">Brahms Online</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb20743">
+          
+  
+          <persName>
+            
+      
+            <forename>Isidor von</forename>
+            
+      
+            <surname>Löti-Kélenföld</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="legacy-name-merge">Löti, J.</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1854-07-24">24.07.1854</date>
+            
+      
+            <settlement key="43471">
+              
+        
+              <placeName type="pref">Budapest</placeName>
+              
+        
+              <location>
+                <geo>47,49835 19,04045</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1939-07-23">23.07.1939</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="129">Komponist/Komponistin</occupation>
+          
+  
+          <occupation key="152">Industrieller/Industrielle</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17629.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20743/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q99196492</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/154210/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154210.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Spielabend" key="208093" when-iso="1887-01-27">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Spielabend von Isidor Löti, 27.1.1887</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208093/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
 
           </listBibl>
@@ -202746,6 +203786,150 @@
           
 
         </person>
+        <person xml:id="pmb19464">
+          
+  
+          <persName>
+            
+      
+            <forename>Hugo</forename>
+            
+      
+            <surname>Knepler</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1872-08-10">10.08.1872</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1944-01-01">1944</date>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="224">Musikverleger/Musikverlegerin</occupation>
+          
+  
+          <occupation key="322">Kunsthändler/Kunsthändlerin</occupation>
+          
+  
+          <occupation key="375">Buchhändler/Buchhändlerin</occupation>
+          
+  
+          <occupation key="698">Inhaber einer Konzertagentur/Inhaberin einer Konzertagentur</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16935.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19464/</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb19464</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/130210390</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1329601</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hugo_Knepler</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb19464.html</idno>
+          
+
+          <affiliation notBefore-iso="1907-01-01" when-iso="1907-01-01" notAfter-iso="1907-12-31">
+            
+    
+            <term key="1153">in Bezug zu</term>
+            
+    
+            <orgName key="37148">Concert-Direktion Albert Gutmann</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37148/</idno>
+            
+    
+            <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37148</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb37148.html</idno>
+            
+
+          </affiliation>
+          
+
+          <listEvent>
+            
+    
+            <event n="Konzert" key="209812" when-iso="1916-02-17">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Heiterer Abend von Hugo Knepler und Margarete Gelbard, 17.2.1916</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209812/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+
+          </listBibl>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hugo_Knepler.JPG/250px-Hugo_Knepler.JPG"/>
+            
+
+          </figure>
+          
+
+        </person>
         <person xml:id="pmb19460">
           
   
@@ -203184,6 +204368,21 @@
           
 
           <listEvent>
+            
+    
+            <event n="Soirée-dansante" key="207665" when-iso="1881-02-23">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Soirée dansante bei Klein, 23.2.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207665/</idno>
+              
+    
+            </event>
             
     
             <event n="Hausball" key="207865" when-iso="1884-03-24">
@@ -206590,14 +207789,14 @@
             <date when-iso="1864-04-27">27.04.1864</date>
             
       
-            <settlement key="50965">
+            <settlement key="26374">
               
         
               <placeName type="pref">Osijek</placeName>
               
         
               <location>
-                <geo>45,55111 18,69389</geo>
+                <geo>45,5532 18,6909</geo>
               </location>
               
       
@@ -223349,13 +224548,13 @@
             </event>
             
     
-            <event n="Klavierkonzert" key="209812" when-iso="1916-02-17">
+            <event n="Konzert" key="209812" when-iso="1916-02-17">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Klavierkonzert von Margarete Gelbard, 17.2.1916</label>
+              <label>Heiterer Abend von Hugo Knepler und Margarete Gelbard, 17.2.1916</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209812/</idno>
@@ -229153,6 +230352,104 @@
           
 
         </person>
+        <person xml:id="pmb16272">
+          
+  
+          <persName>
+            
+      
+            <forename>Gisela</forename>
+            
+      
+            <surname>Fischer</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Adler</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1866-01-14">14.01.1866</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1939-06-25">25.06.1939</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="female"/>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15002.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16272/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb16272.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Hochzeit" key="296709" when-iso="1890-08-03">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit von Gisela Adler und Salo Fischer, 3.8.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296709/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+        </person>
         <person xml:id="pmb16238">
           
   
@@ -229799,16 +231096,65 @@
           <persName>
             
       
+            <forename>Julian Heinrich</forename>
+            
+      
             <surname>Feinberg</surname>
             
   
           </persName>
           
   
+          <birth>
+            
+    
+            <date when-iso="1849-10-26">1849-10-26</date>
+            
+      
+            <settlement key="888">
+              
+        
+              <placeName type="pref">Warschau</placeName>
+              
+        
+              <location>
+                <geo>52,22977 21,01178</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1891-07-02">1891-07-02</date>
+            
+      
+            <settlement key="168">
+              
+        
+              <placeName type="pref">Berlin</placeName>
+              
+        
+              <location>
+                <geo>52,52437 13,41053</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
           <sex value="male"/>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14917.html</idno>
+          <occupation key="1444">Bankier/Bankierin</occupation>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/16137/</idno>
@@ -229833,6 +231179,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -250177,13 +251532,13 @@
             </event>
             
     
-            <event n="Konzert" key="244849" when-iso="1931-03-04">
+            <event n="Sinfoniekonzert" key="244849" when-iso="1931-03-04">
               
         
               <desc n="1256">ist Arbeitskraft bei</desc>
               
         
-              <label>Konzert von Friedrich Bayer, 4.3.1931</label>
+              <label>Sechstes Konzertvereinsabonnementkonzert, 4.3.1931</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244849/</idno>
@@ -284216,18 +285571,6 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190928/</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Vorlesung" key="208528" when-iso="1892-02-07">
-              
-        
-              <desc n="1256">ist Arbeitskraft bei</desc>
-              
-        
-              <label>Vorlesung von Emanuel Reicher, 7.2.1892</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208528/</idno>
@@ -343040,6 +344383,9 @@
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190928/</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208528/</idno>
+              
     
             </event>
             
@@ -343332,6 +344678,36 @@
             </event>
             
     
+            <event n="Probe" key="296755" when-iso="1901-10-08">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Probe von Der neue Simson</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296755/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateruraufführung" key="296748" when-iso="1901-10-19">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Uraufführung von Der neue Simson</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296748/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Generalprobe" key="143202" when-iso="1901-11-16">
               
         
@@ -343387,6 +344763,24 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183284/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateruraufführung" key="209302" when-iso="1903-11-21">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Uraufführung von Novella d'Andrea, 21.11.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209302/</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296760/</idno>
               
     
             </event>
@@ -442213,6 +443607,21 @@
           <listEvent>
             
     
+            <event n="Hochzeit" key="296700" when-iso="1889-01-06">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit von Gisela Schnitzler und Markus Hajek, 6.1.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296700/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theaterpremiere" key="35113" when-iso="1904-12-12">
               
         
@@ -445404,6 +446813,9 @@
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/169077/</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208990/</idno>
+              
     
             </event>
             
@@ -448368,6 +449780,21 @@
           
 
           <listEvent>
+            
+    
+            <event n="Hochzeit" key="296700" when-iso="1889-01-06">
+              
+        
+              <desc n="1256">ist Arbeitskraft bei</desc>
+              
+        
+              <label>Hochzeit von Gisela Schnitzler und Markus Hajek, 6.1.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296700/</idno>
+              
+    
+            </event>
             
     
             <event n="Theaterpremiere" key="35113" when-iso="1904-12-12">
@@ -457212,6 +458639,9 @@
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/169077/</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208990/</idno>
+              
     
             </event>
             
@@ -464007,7 +465437,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Aufführung von Näherin, 31.3.1880</label>
+              <label>Aufführung von Die Näherin, 31.3.1880</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207571/</idno>
@@ -464091,13 +465521,13 @@
             </event>
             
     
-            <event n="Generalprobe" key="207577" when-iso="1880-04-15">
+            <event n="Wohltätigkeitsveranstaltung" key="207577" when-iso="1880-04-15">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Generalprobe von Karussell, 15.4.1880</label>
+              <label>Generalprobe der Caroussell-Festvorstellungen, 15.4.1880</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207577/</idno>
@@ -464112,7 +465542,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Aufführung von Näherin, 16.4.1880</label>
+              <label>Aufführung von Die Näherin, 16.4.1880</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207578/</idno>
@@ -466171,6 +467601,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207717/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Hochzeit" key="296714" when-iso="1881-11-13">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Hochzeit von Laura Pollak und Heinrich Spitzer, 13.11.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296714/</idno>
               
     
             </event>
@@ -471765,7 +473210,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Hochzeit von Anton Wassing und Paula Jallowetz, 19.12.1886</label>
+              <label>Hochzeit von Anton Wassing und Charlotte Jallowetz, 19.12.1886</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208082/</idno>
@@ -471930,7 +473375,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Spielabend von J. Löti, 27.1.1887</label>
+              <label>Spielabend von Isidor Löti, 27.1.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208093/</idno>
@@ -475029,6 +476474,21 @@
             </event>
             
     
+            <event n="Hochzeit" key="296700" when-iso="1889-01-06">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Hochzeit von Gisela Schnitzler und Markus Hajek, 6.1.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296700/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Tanz" key="208296" when-iso="1889-01-10">
               
         
@@ -476784,6 +478244,21 @@
             </event>
             
     
+            <event n="Hochzeit" key="296694" when-iso="1890-05-08">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Hochzeit von Irene Mandl und Ludwig Mandl, 8.5.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296694/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Schulaufführung" key="208400" when-iso="1890-05-12">
               
         
@@ -476854,6 +478329,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208404/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Hochzeit" key="296709" when-iso="1890-08-03">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Hochzeit von Gisela Adler und Salo Fischer, 3.8.1890</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296709/</idno>
               
     
             </event>
@@ -479284,18 +480774,6 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190928/</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Vorlesung" key="208528" when-iso="1892-02-07">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Vorlesung von Emanuel Reicher, 7.2.1892</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208528/</idno>
@@ -489891,13 +491369,13 @@
             </event>
             
     
-            <event n="Quartett" key="208987" when-iso="1897-12-17">
+            <event n="Quartett" key="208987" when-iso="1897-12-14">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konzert des Rosé-Quartetts, 17.12.1897</label>
+              <label>Konzert des Rosé-Quartetts, 14.12.1897</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208987/</idno>
@@ -489991,18 +491469,6 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/169077/</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Theateraufführung" key="208990" when-iso="1898-01-04">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Aufführung von Oidípous Týrannos, Hanneles Himmelfahrt, 4.1.1898</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208990/</idno>
@@ -498279,16 +499745,19 @@
             </event>
             
     
-            <event n="Theaterpremiere" key="209302" when-iso="1903-11-21">
+            <event n="Theateruraufführung" key="209302" when-iso="1903-11-21">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Premiere von Novella d'Andrea, 21.11.1903</label>
+              <label>Uraufführung von Novella d'Andrea, 21.11.1903</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209302/</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296760/</idno>
               
     
             </event>
@@ -515289,13 +516758,13 @@
             </event>
             
     
-            <event n="Klavierkonzert" key="209812" when-iso="1916-02-17">
+            <event n="Konzert" key="209812" when-iso="1916-02-17">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Klavierkonzert von Margarete Gelbard, 17.2.1916</label>
+              <label>Heiterer Abend von Hugo Knepler und Margarete Gelbard, 17.2.1916</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209812/</idno>
@@ -546153,13 +547622,13 @@
             </event>
             
     
-            <event n="Konzert" key="244849" when-iso="1931-03-04">
+            <event n="Sinfoniekonzert" key="244849" when-iso="1931-03-04">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konzert von Friedrich Bayer, 4.3.1931</label>
+              <label>Sechstes Konzertvereinsabonnementkonzert, 4.3.1931</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244849/</idno>
