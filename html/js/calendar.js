@@ -1025,7 +1025,8 @@ class SimpleCalendar {
     const monthLink = header.querySelector('.month-link');
     monthLink.addEventListener('click', (e) => {
       e.preventDefault();
-      this.currentMonth = month;
+      const clickedMonth = parseInt(e.target.dataset.month);
+      this.currentMonth = clickedMonth;
       this.changeView('month');
     });
     
