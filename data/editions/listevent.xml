@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-08-18">serialized</change>
+          <change when-iso="2025-08-25">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -88435,7 +88435,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209302" when-iso="1903-11-21">
-        <eventName n="Theaterpremiere">Premiere von Novella d'Andrea, 21.11.1903</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Novella d'Andrea, 21.11.1903</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -88444,18 +88444,28 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209302/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296760/</idno>
     <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="31">temp-issue-227</bibl>
 </listBibl>
+    <note type="references">None</note>
         <listBibl>
             <bibl>
-                <title key="pmb76646">Novella d'Andrea</title>
-                <note type="relation-type">ist Premiere von</note>
+                <title key="pmb29981">Novella d’Andrea</title>
+                <note type="relation-type">ist Uraufführung von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb132275">Novella d’Andrea. (Schauspiel in vier Aufzügen von Ludwig Fulda. Zum erstenmal aufgeführt im Burgtheater am 21. November 1903)</title>
+                <note type="relation-type">wird rezensiert in</note>
             </bibl>
         </listBibl>
         <listPerson>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat als Teilnehmer:in">
+                <persName key="pmb10815">Bahr, Hermann</persName>
             </person>
         </listPerson>
         <listPlace>
