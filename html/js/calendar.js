@@ -9,11 +9,10 @@ class SimpleCalendar {
     this.container = document.getElementById(containerId);
     this.currentYear = options.startYear || new Date().getFullYear();
     this.currentMonth = new Date().getMonth();
-    this.currentWeek = this.getWeekOfYear(new Date());
     this.events = options.dataSource || [];
     this.onDayClick = options.clickDay || (() => {});
     
-    // View modes: 'year', 'month', 'week'
+    // View modes: 'year', 'month'
     this.currentView = 'year';
     
     // Event type categories and colors (same as existing system)
@@ -44,29 +43,12 @@ class SimpleCalendar {
   createPeriodNavigation() {
     switch(this.currentView) {
       case 'year':
-        return `
-          <div class="year-navigation">
-            <select class="form-select form-select-sm year-select">
-              ${this.generateYearOptions()}
-            </select>
-          </div>
-        `;
+        return ``;
       case 'month':
         return `
           <div class="month-navigation">
             <select class="form-select form-select-sm month-select">
               ${this.generateMonthOptions()}
-            </select>
-            <select class="form-select form-select-sm year-select">
-              ${this.generateYearOptions()}
-            </select>
-          </div>
-        `;
-      case 'week':
-        return `
-          <div class="week-navigation">
-            <select class="form-select form-select-sm week-select">
-              ${this.generateWeekOptions()}
             </select>
             <select class="form-select form-select-sm year-select">
               ${this.generateYearOptions()}
@@ -94,25 +76,6 @@ class SimpleCalendar {
     ).join('');
   }
   
-  generateWeekOptions() {
-    const weeksInYear = this.getWeeksInYear(this.currentYear);
-    let options = '';
-    
-    for (let week = 1; week <= weeksInYear; week++) {
-      const weekDates = this.getWeekDates(this.currentYear, week);
-      const weekLabel = `KW ${week} (${weekDates.start.getDate()}.${weekDates.start.getMonth()+1} - ${weekDates.end.getDate()}.${weekDates.end.getMonth()+1})`;
-      options += `<option value="${week}" ${week === this.currentWeek ? 'selected' : ''}>${weekLabel}</option>`;
-    }
-    
-    return options;
-  }
-  
-  getWeeksInYear(year) {
-    // Calculate number of weeks in year
-    const jan1 = new Date(year, 0, 1);
-    const dec31 = new Date(year, 11, 31);
-    return Math.ceil((dec31 - jan1) / (7 * 24 * 60 * 60 * 1000));
-  }
   
   init() {
     this.container.innerHTML = '';
@@ -189,16 +152,6 @@ class SimpleCalendar {
       });
     }
     
-    // Week selector
-    const weekSelect = this.container.querySelector('.week-select');
-    if (weekSelect) {
-      weekSelect.addEventListener('change', (e) => {
-        this.currentWeek = parseInt(e.target.value);
-        this.updatePeriodTitle();
-        this.renderCalendar();
-        this.saveStateToURL();
-      });
-    }
   }
   
   goToToday() {
@@ -213,12 +166,10 @@ class SimpleCalendar {
     if (availableYears.includes(currentYear)) {
       this.currentYear = currentYear;
       this.currentMonth = today.getMonth();
-      this.currentWeek = this.getWeekOfYear(today);
     } else {
       // Go to first available year
       this.currentYear = availableYears[0] || 1899;
       this.currentMonth = 0;
-      this.currentWeek = 1;
     }
     
     this.updatePeriodTitle();
@@ -321,25 +272,20 @@ class SimpleCalendar {
         }
         
         .year-navigation,
-        .month-navigation,
-        .week-navigation {
+        .month-navigation {
           display: flex;
           gap: 8px;
           align-items: center;
         }
         
         .year-select,
-        .month-select,
-        .week-select {
+        .month-select {
           min-width: 80px;
           border-radius: 6px;
           border: 1px solid #dee2e6;
           background: white;
         }
         
-        .week-select {
-          min-width: 200px;
-        }
         
         
         
@@ -357,9 +303,6 @@ class SimpleCalendar {
           overflow-x: auto;
         }
         
-        .calendar-grid.week-view {
-          grid-template-columns: 1fr;
-        }
         
         .month {
           border: 1px solid #dee2e6;
@@ -542,63 +485,6 @@ class SimpleCalendar {
           font-style: italic;
         }
         
-        /* Week view styles */
-        .week-view {
-          width: 100%;
-        }
-        
-        .week-days-header {
-          display: grid;
-          grid-template-columns: repeat(7, 1fr);
-          gap: 1px;
-          background: #dee2e6;
-          border: 1px solid #dee2e6;
-          margin-bottom: 1px;
-        }
-        
-        .week-day-header {
-          background: #f8f9fa;
-          padding: 12px;
-          text-align: center;
-        }
-        
-        .week-day-name {
-          font-weight: 600;
-          color: #495057;
-        }
-        
-        .week-day-date {
-          font-size: 12px;
-          color: #6c757d;
-        }
-        
-        .week-days-container {
-          display: grid;
-          grid-template-columns: repeat(7, 1fr);
-          gap: 1px;
-          background: #dee2e6;
-          border: 1px solid #dee2e6;
-          min-height: 300px;
-        }
-        
-        .week-day-column {
-          background: white;
-          padding: 8px;
-          display: flex;
-          flex-direction: column;
-          gap: 4px;
-        }
-        
-        .week-event {
-          background: #007bff;
-          color: white;
-          padding: 4px 8px;
-          border-radius: 4px;
-          font-size: 12px;
-          cursor: pointer;
-          word-wrap: break-word;
-          line-height: 1.3;
-        }
         
         /* Responsive design */
         @media (max-width: 768px) {
@@ -625,10 +511,6 @@ class SimpleCalendar {
             justify-content: center;
           }
           
-          .week-select {
-            min-width: 180px;
-            font-size: 12px;
-          }
           
           .period-title {
             font-size: 20px;
@@ -660,15 +542,6 @@ class SimpleCalendar {
             font-size: 12px;
           }
           
-          .week-days-container {
-            grid-template-columns: 1fr;
-          }
-          
-          .week-day-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-          }
           
           .day-large {
             min-height: 80px;
@@ -731,9 +604,6 @@ class SimpleCalendar {
         </button>
         <button class="btn btn-outline-primary view-btn ${this.currentView === 'month' ? 'active' : ''}" data-view="month">
           <i class="bi bi-calendar-month"></i> Monat
-        </button>
-        <button class="btn btn-outline-primary view-btn ${this.currentView === 'week' ? 'active' : ''}" data-view="week">
-          <i class="bi bi-calendar-week"></i> Woche
         </button>
       </div>
     `;
@@ -832,35 +702,11 @@ class SimpleCalendar {
         return this.currentYear.toString();
       case 'month':
         return `${this.monthNames[this.currentMonth]} ${this.currentYear}`;
-      case 'week':
-        const weekDates = this.getWeekDates(this.currentYear, this.currentWeek);
-        return `${weekDates.start.getDate()}.${weekDates.start.getMonth()+1} - ${weekDates.end.getDate()}.${weekDates.end.getMonth()+1}.${this.currentYear}`;
       default:
         return this.currentYear.toString();
     }
   }
   
-  getWeekOfYear(date) {
-    const start = new Date(date.getFullYear(), 0, 1);
-    const diff = date - start;
-    const oneWeek = 1000 * 60 * 60 * 24 * 7;
-    return Math.ceil(diff / oneWeek);
-  }
-  
-  getWeekDates(year, week) {
-    const jan1 = new Date(year, 0, 1);
-    const dayOfWeek = jan1.getDay();
-    const firstWeekStart = new Date(jan1);
-    firstWeekStart.setDate(jan1.getDate() - dayOfWeek);
-    
-    const weekStart = new Date(firstWeekStart);
-    weekStart.setDate(firstWeekStart.getDate() + (week - 1) * 7);
-    
-    const weekEnd = new Date(weekStart);
-    weekEnd.setDate(weekStart.getDate() + 6);
-    
-    return { start: weekStart, end: weekEnd };
-  }
   
   navigatePeriod(direction) {
     switch(this.currentView) {
@@ -877,15 +723,6 @@ class SimpleCalendar {
           this.currentYear--;
         }
         break;
-      case 'week':
-        this.currentWeek += direction;
-        // Handle year overflow for weeks
-        const weekDates = this.getWeekDates(this.currentYear, this.currentWeek);
-        if (weekDates.start.getFullYear() !== this.currentYear) {
-          this.currentYear = weekDates.start.getFullYear();
-          this.currentWeek = this.getWeekOfYear(weekDates.start);
-        }
-        break;
     }
     this.updatePeriodTitle();
     this.renderCalendar();
@@ -900,10 +737,6 @@ class SimpleCalendar {
     if (oldView === 'year' && newView === 'month') {
       // Jump to January of the current year
       this.currentMonth = 0;
-    } else if (oldView === 'year' && newView === 'week') {
-      // Jump to first calendar week of the year
-      this.currentWeek = 1;
-    }
     
     // Update view buttons (both in calendar and sidebar)
     document.querySelectorAll('.view-btn').forEach(btn => {
@@ -1154,9 +987,6 @@ class SimpleCalendar {
       case 'month':
         this.renderMonthView(grid);
         break;
-      case 'week':
-        this.renderWeekView(grid);
-        break;
     }
   }
   
@@ -1172,10 +1002,6 @@ class SimpleCalendar {
     grid.appendChild(monthDiv);
   }
   
-  renderWeekView(grid) {
-    const weekDiv = this.createWeek();
-    grid.appendChild(weekDiv);
-  }
   
   createMonth(month) {
     const monthDiv = document.createElement('div');
@@ -1392,66 +1218,6 @@ class SimpleCalendar {
     return dayDiv;
   }
   
-  createWeek() {
-    const weekDates = this.getWeekDates(this.currentYear, this.currentWeek);
-    const weekDiv = document.createElement('div');
-    weekDiv.className = 'week-view';
-    
-    const daysHeader = document.createElement('div');
-    daysHeader.className = 'week-days-header';
-    
-    // Create header for each day of the week
-    for (let i = 0; i < 7; i++) {
-      const currentDate = new Date(weekDates.start);
-      currentDate.setDate(weekDates.start.getDate() + i);
-      
-      const dayHeader = document.createElement('div');
-      dayHeader.className = 'week-day-header';
-      dayHeader.innerHTML = `
-        <div class="week-day-name">${this.dayNames[currentDate.getDay()]}</div>
-        <div class="week-day-date">${currentDate.getDate()}.${currentDate.getMonth()+1}</div>
-      `;
-      daysHeader.appendChild(dayHeader);
-    }
-    weekDiv.appendChild(daysHeader);
-    
-    const daysContainer = document.createElement('div');
-    daysContainer.className = 'week-days-container';
-    
-    // Create day columns
-    for (let i = 0; i < 7; i++) {
-      const currentDate = new Date(weekDates.start);
-      currentDate.setDate(weekDates.start.getDate() + i);
-      
-      const dayColumn = document.createElement('div');
-      dayColumn.className = 'week-day-column';
-      
-      const events = this.getEventsForDate(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate());
-      
-      events.forEach(event => {
-        const eventDiv = document.createElement('div');
-        eventDiv.className = 'week-event';
-        const category = this.getEventCategory(event);
-        eventDiv.style.backgroundColor = this.eventCategories[category];
-        eventDiv.title = event.name;
-        eventDiv.textContent = event.name;
-        
-        eventDiv.addEventListener('click', () => {
-          this.onDayClick({
-            date: currentDate,
-            events: [event]
-          });
-        });
-        
-        dayColumn.appendChild(eventDiv);
-      });
-      
-      daysContainer.appendChild(dayColumn);
-    }
-    weekDiv.appendChild(daysContainer);
-    
-    return weekDiv;
-  }
   
   setYear(year) {
     this.currentYear = year;
@@ -1481,13 +1247,10 @@ class SimpleCalendar {
       this.currentMonth = parseInt(urlParams.get('month')) || this.currentMonth;
     }
     
-    if (urlParams.has('week')) {
-      this.currentWeek = parseInt(urlParams.get('week')) || this.currentWeek;
-    }
     
     if (urlParams.has('view')) {
       const view = urlParams.get('view');
-      if (['year', 'month', 'week'].includes(view)) {
+      if (['year', 'month'].includes(view)) {
         this.currentView = view;
       }
     }
@@ -1514,9 +1277,6 @@ class SimpleCalendar {
       urlParams.set('month', this.currentMonth.toString());
     }
     
-    if (this.currentView === 'week') {
-      urlParams.set('week', this.currentWeek.toString());
-    }
     
     // Save enabled categories
     if (this.enabledCategories.size !== Object.keys(this.eventCategories).length) {
