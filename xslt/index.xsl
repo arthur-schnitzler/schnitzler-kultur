@@ -33,7 +33,7 @@
                                     <div style="text-align: right">
                                         <a href="#body">
                                             <button class="btn btn-round"
-                                                style="background-color: #AC7790; color: white;"
+                                                style="background-color: #6B4C5A; color: white;"
                                                 >Weiter</button>
                                         </a>
                                     </div>
@@ -55,13 +55,14 @@
                                 position: relative;
                                 top: -250px; visibility: hidden"
                                 id="body"/>
-                            <p class="mt-3">Theaterproben, Konzerte, Premieren, Kinoabende – durchschnittlich zwei- bis dreimal die
+                            <p class="mt-3">Theateraufführungen, Konzerte, Premieren, Kinoabende und andere Veranstaltungen – mehr als zweimal jede
                                 Woche war Arthur Schnitzler unterwegs und nahm am kulturellen Leben teil. Diese Website versammelt 
                                 erstmals knapp 5800 öffentliche Ereignisse, die er zwischen 
                                 1876 und 1931 besuchte und macht sie zugänglich. Das umfasst alle Veranstaltungen, 
-                                bei denen er selbst tätig wurde, darunter die öffentlichen und privaten Lesungen. 
-                               Dazu kommen alle Theaterproben sowie Theater-, Konzert-, Opern-, Kinobesuche, Besuche im Kaiserpanorama, Bälle und 
-                                Soiréen.
+                                bei denen er selbst tätig wurde, wie seine seltenen öffentlichen Lesungen. Es umfasst 
+                                auch die Lesungen aus seinen (zumeist noch unveröffentlichten) Werken im privaten Kreis. 
+                               Somit sind erstmals auch alle  kommen alle Theaterproben, Besuche im Kaiserpanorama, Bälle und 
+                                Soiréen schnell auffindbar.
                             </p>
                             
                             <a href="listevent.html">
