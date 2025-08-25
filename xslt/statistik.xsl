@@ -20,7 +20,6 @@
                 </xsl:call-template>
                 <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css"
                     rel="stylesheet"/>
-                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
             </head>
             <body class="d-flex flex-column h-100">
@@ -44,13 +43,13 @@
                                 <label for="chartTypeToggle" class="mb-0">Kreisdiagramm</label>
                                 
                                 <div class="form-check form-switch m-0">
-                                    <input class="form-check-input" type="checkbox" role="switch" id="chartTypeToggle"/>
+                                    <input class="form-check-input" type="checkbox" role="switch" id="chartTypeToggle" aria-label="Diagrammtyp wechseln zwischen Kreis- und Balkendiagramm"/>
                                 </div>
                                 
                                 <label for="chartTypeToggle" class="mb-0">Balkendiagramm</label>
                             </div>
                             <label for="yearSelect" class="form-label">Jahr auswählen:</label>
-                            <select id="yearSelect" class="form-select w-auto">
+                            <select id="yearSelect" class="form-select w-auto" aria-label="Jahr für die Statistik auswählen">
                                 <xsl:for-each select="1876 to 1931">
                                     <option>
                                         <xsl:value-of select="."/>
@@ -61,7 +60,7 @@
                         </div>
                         
                         <h2>Veranstaltungstypen</h2>
-                        <canvas id="anaChart" width="400" height="400" class="mb-5 d-block mx-auto"></canvas>
+                        <canvas id="anaChart" width="400" height="400" class="mb-5 d-block mx-auto" aria-label="Diagramm der Veranstaltungstypen" role="img"></canvas>
                         
                         <div id="anaNChartsContainer">
                             <!-- Hier werden dynamisch die @n-Charts pro @ana eingefügt -->
@@ -71,8 +70,8 @@
                 </main>
                 <xsl:call-template name="html_footer"/>
             </body>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
             <script src="./js/eventtype-charts.js"></script>
-            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer='true'></script>
         </html>
     </xsl:template>
 

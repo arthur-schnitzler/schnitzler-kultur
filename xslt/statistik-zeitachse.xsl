@@ -18,9 +18,6 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="'Zeitachsen-Statistik'"/>
                 </xsl:call-template>
-                <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css"
-                    rel="stylesheet"/>
-                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
             </head>
             <body class="d-flex flex-column h-100">
@@ -39,14 +36,14 @@
                             <div class="col-lg-3 col-md-4">
                                 <div class="card">
                                     <div class="card-header">
-                                        <h5 class="mb-0">Ereignistypen auswählen</h5>
+                                        <h5 class="mb-0" id="eventTypeHeader">Ereignistypen auswählen</h5>
                                     </div>
                                     <div class="card-body">
                                         <div class="mb-3">
-                                            <button type="button" class="btn btn-sm btn-outline-primary me-2" id="selectAllBtn">Alle auswählen</button>
-                                            <button type="button" class="btn btn-sm btn-outline-secondary" id="deselectAllBtn">Alle abwählen</button>
+                                            <button type="button" class="btn btn-sm btn-outline-primary me-2" id="selectAllBtn" aria-label="Alle Ereignistypen auswählen">Alle auswählen</button>
+                                            <button type="button" class="btn btn-sm btn-outline-secondary" id="deselectAllBtn" aria-label="Alle Ereignistypen abwählen">Alle abwählen</button>
                                         </div>
-                                        <div id="eventTypeCheckboxes">
+                                        <div id="eventTypeCheckboxes" role="group" aria-labelledby="eventTypeHeader">
                                             <!-- Event type checkboxes will be inserted here by JavaScript -->
                                         </div>
                                     </div>
@@ -59,7 +56,7 @@
                                     </div>
                                     <div class="card-body">
                                         <div style="position: relative; height: 500px;">
-                                            <canvas id="timelineChart" style="width: 100%; height: 100%;"></canvas>
+                                            <canvas id="timelineChart" style="width: 100%; height: 100%;" aria-label="Zeitachsen-Diagramm der Ereignisse von 1876 bis 1931" role="img"></canvas>
                                         </div>
                                         <div class="mt-3">
                                             <small class="text-muted">
@@ -75,9 +72,9 @@
                 </main>
                 <xsl:call-template name="html_footer"/>
             </body>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
             <script src="./js-data/calendarData.js"></script>
             <script src="./js/timeline-statistics.js"></script>
-            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer='true'></script>
         </html>
     </xsl:template>
 
