@@ -6,9 +6,9 @@
 // Event categories and colors (matching calendar.js)
 // Only include categories that have actual data
 const eventCategories = {
-    'Theater': '#DC143C',        // Crimson
+    'Theater': '#8B4513',        // Saddle Brown
     'Musik': '#228B22',          // Forest Green
-    'Film': '#FF1493',           // Deep Pink
+    'Film': '#FF1493',           // Deep Pink (kept original)
     'Vortrag': '#00CED1',        // Dark Turquoise
     'Privatveranstaltung': '#4169E1', // Royal Blue
     'anderes': '#9932CC'          // Dark Orchid

@@ -10,38 +10,39 @@ let anaChart;
 const anaNCharts = [];
 
 
-// Deine 10 Labels für @ana mit festen Farben (HSL)
+// Labels für @ana mit festen Farben (matching calendar.js)
 const anaLabels = [
   "Theater",
-  "Veranstaltung",
-  "Ausstellung",
   "Musik",
   "Film",
   "Vortrag",
   "Privatveranstaltung",
-  "anderes",
-
-
+  "anderes"
 ];
 
 const anaBaseColors = [
-  "hsl(0, 70%, 50%)",    // Rot
-  "hsl(30, 70%, 50%)",   // Orange
-  "hsl(60, 70%, 50%)",   // Gelb
-  "hsl(120, 70%, 40%)",  // Grün
-  "hsl(300, 70%, 50%)",  // Magenta
-  "hsl(180, 70%, 50%)",  // Türkis
-  "hsl(210, 70%, 50%)",  // Blau
-  "hsl(270, 70%, 50%)",  // Violett
-  "hsl(330, 70%, 50%)",  // Pink
-  "hsl(45, 70%, 40%)"    // dunkles Orange/Braun
+  "#8B4513",    // Theater - Saddle Brown
+  "#228B22",    // Musik - Forest Green
+  "#FF1493",    // Film - Deep Pink (kept original)
+  "#00CED1",    // Vortrag - Dark Turquoise
+  "#4169E1",    // Privatveranstaltung - Royal Blue
+  "#9932CC"     // anderes - Dark Orchid
 ];
 
-// Helligkeit einer HSL-Farbe anpassen
-function adjustLightness(hsl, amount) {
-  const [h, s, l] = hsl.match(/\d+/g).map(Number);
-  let newL = Math.min(90, Math.max(30, l + amount)); // nicht zu hell oder dunkel
-  return `hsl(${h},${s}%,${newL}%)`;
+// Helligkeit einer Hex-Farbe anpassen
+function adjustLightness(hex, amount) {
+  // Convert hex to RGB
+  const r = parseInt(hex.substr(1, 2), 16);
+  const g = parseInt(hex.substr(3, 2), 16);
+  const b = parseInt(hex.substr(5, 2), 16);
+  
+  // Adjust brightness
+  const newR = Math.min(255, Math.max(0, r + amount));
+  const newG = Math.min(255, Math.max(0, g + amount));
+  const newB = Math.min(255, Math.max(0, b + amount));
+  
+  // Convert back to hex
+  return `#${newR.toString(16).padStart(2, '0')}${newG.toString(16).padStart(2, '0')}${newB.toString(16).padStart(2, '0')}`;
 }
 
 // Label → Index der Basisfarbe (0–9)
@@ -80,7 +81,7 @@ function updateChartsForYear(year, data) {
     yearData.ana_chart.datasets[0].data = yearData.ana_chart.labels.map(label => combinedMainMap.get(label));
     yearData.ana_chart.datasets[0].backgroundColor = yearData.ana_chart.labels.map(label => {
       const idx = labelToBaseColorIndex(label);
-      return idx !== null ? anaBaseColors[idx] : "hsl(0, 0%, 70%)"; // grauer fallback
+      return idx !== null ? anaBaseColors[idx] : "#B0B0B0"; // grauer fallback
     });
 
     // --- 2) Untercharts für alle Jahre zusammenfassen ---
@@ -109,10 +110,10 @@ function updateChartsForYear(year, data) {
 
       // Basisfarbe für anaKey bestimmen
       const baseColorIdx = labelToBaseColorIndex(anaKey);
-      const baseColor = baseColorIdx !== null ? anaBaseColors[baseColorIdx] : "hsl(0,0%,70%)";
+      const baseColor = baseColorIdx !== null ? anaBaseColors[baseColorIdx] : "#B0B0B0";
 
       // Helligkeitsvariationen pro Segment (etwas dunkler bis heller)
-      const backgroundColor = labels.map((_, i) => adjustLightness(baseColor, i * 8));
+      const backgroundColor = labels.map((_, i) => adjustLightness(baseColor, i * 20));
 
       yearData.ana_n_charts[anaKey] = {
         labels,
@@ -130,16 +131,16 @@ function updateChartsForYear(year, data) {
     // Hauptchart-Farben fix zuweisen
     yearData.ana_chart.datasets[0].backgroundColor = yearData.ana_chart.labels.map(label => {
       const idx = labelToBaseColorIndex(label);
-      return idx !== null ? anaBaseColors[idx] : "hsl(0,0%,70%)";
+      return idx !== null ? anaBaseColors[idx] : "#B0B0B0";
     });
 
     // Untercharts mit Farbvarianten
     for (const anaKey in yearData.ana_n_charts) {
       const chart = yearData.ana_n_charts[anaKey];
       const baseColorIdx = labelToBaseColorIndex(anaKey);
-      const baseColor = baseColorIdx !== null ? anaBaseColors[baseColorIdx] : "hsl(0,0%,70%)";
+      const baseColor = baseColorIdx !== null ? anaBaseColors[baseColorIdx] : "#B0B0B0";
 
-      chart.datasets[0].backgroundColor = chart.labels.map((_, i) => adjustLightness(baseColor, i * 8));
+      chart.datasets[0].backgroundColor = chart.labels.map((_, i) => adjustLightness(baseColor, i * 20));
     }
   }
 

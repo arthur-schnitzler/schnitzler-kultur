@@ -17,13 +17,11 @@ class SimpleCalendar {
     
     // Event type categories and colors (same as existing system)
     this.eventCategories = {
-      'Theater': '#DC143C',        // Crimson
+      'Theater': '#8B4513',        // Saddle Brown
       'Musik': '#228B22',          // Forest Green
-      'Film': '#FF1493',           // Deep Pink
+      'Film': '#FF1493',           // Deep Pink (kept original)
       'Vortrag': '#00CED1',        // Dark Turquoise
       'Privatveranstaltung': '#4169E1', // Royal Blue
-      'Veranstaltung': '#FF8C00',   // Dark Orange
-      'Ausstellung': '#FFD700',     // Gold
       'anderes': '#9932CC'          // Dark Orchid
     };
     
@@ -318,6 +316,18 @@ class SimpleCalendar {
           font-weight: 600;
           color: #495057;
           border-bottom: 1px solid #dee2e6;
+        }
+        
+        .month-link {
+          color: #495057;
+          text-decoration: none;
+          cursor: pointer;
+          transition: color 0.2s ease;
+        }
+        
+        .month-link:hover {
+          color: #007bff;
+          text-decoration: underline;
         }
         
         .month-days {
@@ -953,10 +963,8 @@ class SimpleCalendar {
       return 'Vortrag';
     } else if (name.includes('diner') || name.includes('hochzeit') || name.includes('ball') || name.includes('privat')) {
       return 'Privatveranstaltung';
-    } else if (name.includes('empfang') || name.includes('fest') || name.includes('feier') || name.includes('vereinstreffen')) {
-      return 'Veranstaltung';
-    } else if (name.includes('ausstellung')) {
-      return 'Ausstellung';
+    } else if (name.includes('empfang') || name.includes('fest') || name.includes('feier') || name.includes('vereinstreffen') || name.includes('ausstellung')) {
+      return 'anderes';
     }
     
     return 'anderes';
@@ -1010,8 +1018,16 @@ class SimpleCalendar {
     
     const header = document.createElement('div');
     header.className = 'month-header';
-    header.textContent = this.monthNames[month];
+    header.innerHTML = `<a href="#" class="month-link" data-month="${month}">${this.monthNames[month]}</a>`;
     monthDiv.appendChild(header);
+    
+    // Add click handler for month name
+    const monthLink = header.querySelector('.month-link');
+    monthLink.addEventListener('click', (e) => {
+      e.preventDefault();
+      this.currentMonth = month;
+      this.changeView('month');
+    });
     
     const daysGrid = document.createElement('div');
     daysGrid.className = 'month-days';
@@ -1245,7 +1261,8 @@ class SimpleCalendar {
     }
     
     if (urlParams.has('month')) {
-      this.currentMonth = parseInt(urlParams.get('month')) || this.currentMonth;
+      const monthFromURL = parseInt(urlParams.get('month'));
+      this.currentMonth = monthFromURL ? monthFromURL - 1 : this.currentMonth;
     }
     
     
@@ -1275,7 +1292,7 @@ class SimpleCalendar {
     urlParams.set('view', this.currentView);
     
     if (this.currentView === 'month') {
-      urlParams.set('month', this.currentMonth.toString());
+      urlParams.set('month', (this.currentMonth + 1).toString());
     }
     
     
