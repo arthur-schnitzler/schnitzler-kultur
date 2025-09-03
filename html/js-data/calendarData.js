@@ -1,5 +1,1313 @@
 var calendarData = [
   {
+    "name": "Besuch der Neuen Staatsgalerie, 7.5.1921", "startDate": "1921-05-07", "id": "pmb298224.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Beethoven-Hauses, 11.3.1921", "startDate": "1921-03-11", "id": "pmb298221.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Museums Kröller, 3.5.1922", "startDate": "1922-05-03", "id": "pmb298218.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Nederlands Museum voor Oost-Aziatische Kunst (Yi Yuan), 29.4.1922", "startDate": "1922-04-29", "id": "pmb298215.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Bayerischen Armeemuseums, 23.6.1921", "startDate": "1921-06-23", "id": "pmb298212.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée National des Beaux-Arts d’Alger, 15.5.1914", "startDate": "1914-05-15", "id": "pmb298209.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Österreichischen Galerie Belvedere, 15.2.1914", "startDate": "1914-02-15", "id": "pmb298206.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Historischen Museums der Stadt Wien, 25.3.1911", "startDate": "1911-03-25", "id": "pmb298203.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Vittoriale degli italiani, 27.8.1927", "startDate": "1927-08-27", "id": "pmb298200.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Magyar Nemzeti Galéria, 19.12.1908", "startDate": "1908-12-19", "id": "pmb298197.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Six Collection, 26.5.1914", "startDate": "1914-05-26", "id": "pmb298194.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Panorama Mesdag, 25.5.1914", "startDate": "1914-05-25", "id": "pmb298191.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Koninklijk Kabinet van Schilderijen Mauritshuis, 27.4.1922", "startDate": "1922-04-27", "id": "pmb298188.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Koninklijk Kabinet van Schilderijen Mauritshuis, 25.5.1914", "startDate": "1914-05-25", "id": "pmb298185.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Theseustempels, 2.6.1931", "startDate": "1931-06-02", "id": "pmb298182.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Theseustempels, 6.5.1916", "startDate": "1916-05-06", "id": "pmb298179.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Schlossmuseum Kynžvart, 30.8.1930", "startDate": "1930-08-30", "id": "pmb298176.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 22.6.1923", "startDate": "1923-06-22", "id": "pmb298173.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 22.11.1922", "startDate": "1922-11-22", "id": "pmb298170.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 30.9.1921", "startDate": "1921-09-30", "id": "pmb298167.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 17.5.1921", "startDate": "1921-05-17", "id": "pmb298164.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 29.4.1921", "startDate": "1921-04-29", "id": "pmb298161.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 18.2.1921", "startDate": "1921-02-18", "id": "pmb298158.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 7.10.1920", "startDate": "1920-10-07", "id": "pmb298155.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 13.10.1919", "startDate": "1919-10-13", "id": "pmb298152.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 4.10.1919", "startDate": "1919-10-04", "id": "pmb298149.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 31.5.1919", "startDate": "1919-05-31", "id": "pmb298146.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 20.5.1919", "startDate": "1919-05-20", "id": "pmb298143.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 24.9.1918", "startDate": "1918-09-24", "id": "pmb298140.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 30.7.1918", "startDate": "1918-07-30", "id": "pmb298137.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Stubenring 12], 27.7.1918", "startDate": "1918-07-27", "id": "pmb298134.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Goethehäuschens, 16.8.1906", "startDate": "1906-08-16", "id": "pmb298131.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Neuen Museum Weimar, 14.8.1906", "startDate": "1906-08-14", "id": "pmb298128.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Weimarer Fürstengruft, 14.8.1906", "startDate": "1906-08-14", "id": "pmb298125.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Grünen Gewölbes, 17.2.1906", "startDate": "1906-02-17", "id": "pmb298122.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée historique de Montreux et de sa région, 8.9.1929", "startDate": "1929-09-08", "id": "pmb298119.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Villa Durazzo Pallavicini, 4.3.1905", "startDate": "1905-03-04", "id": "pmb298116.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Stazione Zoologica Anton Dohrn, 20.4.1926", "startDate": "1926-04-20", "id": "pmb298113.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Stazione Zoologica Anton Dohrn, 14.5.1904", "startDate": "1904-05-14", "id": "pmb298110.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 30.4.1918", "startDate": "1918-04-30", "id": "pmb298107.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 23.4.1918", "startDate": "1918-04-23", "id": "pmb298104.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 16.4.1918", "startDate": "1918-04-16", "id": "pmb298101.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 11.4.1918", "startDate": "1918-04-11", "id": "pmb298098.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 6.4.1918", "startDate": "1918-04-06", "id": "pmb298095.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 12.3.1918", "startDate": "1918-03-12", "id": "pmb298092.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.3.1918", "startDate": "1918-03-05", "id": "pmb298089.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 29.1.1918", "startDate": "1918-01-29", "id": "pmb298086.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 28.8.1917", "startDate": "1917-08-28", "id": "pmb298083.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 17.7.1917", "startDate": "1917-07-17", "id": "pmb298080.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 12.5.1917", "startDate": "1917-05-12", "id": "pmb298077.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 1.5.1917", "startDate": "1917-05-01", "id": "pmb298074.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 24.4.1917", "startDate": "1917-04-24", "id": "pmb298071.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 19.4.1917", "startDate": "1917-04-19", "id": "pmb298068.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 12.4.1917", "startDate": "1917-04-12", "id": "pmb298065.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 27.3.1917", "startDate": "1917-03-27", "id": "pmb298062.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 24.3.1917", "startDate": "1917-03-24", "id": "pmb298059.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 30.1.1917", "startDate": "1917-01-30", "id": "pmb298056.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 20.1.1917", "startDate": "1917-01-20", "id": "pmb298053.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 28.12.1916", "startDate": "1916-12-28", "id": "pmb298050.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 28.11.1916", "startDate": "1916-11-28", "id": "pmb298047.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.11.1916", "startDate": "1916-11-25", "id": "pmb298044.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 9.11.1916", "startDate": "1916-11-09", "id": "pmb298041.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 7.10.1916", "startDate": "1916-10-07", "id": "pmb298038.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 21.6.1916", "startDate": "1916-06-21", "id": "pmb298035.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 14.6.1916", "startDate": "1916-06-14", "id": "pmb298032.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.4.1916", "startDate": "1916-04-25", "id": "pmb298029.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 13.4.1916", "startDate": "1916-04-13", "id": "pmb298026.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 21.3.1916", "startDate": "1916-03-21", "id": "pmb298023.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 14.3.1916", "startDate": "1916-03-14", "id": "pmb298020.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.2.1916", "startDate": "1916-02-15", "id": "pmb298017.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 10.2.1916", "startDate": "1916-02-10", "id": "pmb298014.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 4.2.1916", "startDate": "1916-02-04", "id": "pmb298011.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 18.10.1915", "startDate": "1915-10-18", "id": "pmb298008.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 14.10.1915", "startDate": "1915-10-14", "id": "pmb298005.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 1.10.1915", "startDate": "1915-10-01", "id": "pmb298002.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 18.9.1915", "startDate": "1915-09-18", "id": "pmb297999.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.7.1915", "startDate": "1915-07-15", "id": "pmb297996.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 3.7.1915", "startDate": "1915-07-03", "id": "pmb297993.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 21.6.1915", "startDate": "1915-06-21", "id": "pmb297990.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.6.1915", "startDate": "1915-06-05", "id": "pmb297987.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 4.5.1915", "startDate": "1915-05-04", "id": "pmb297984.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.4.1915", "startDate": "1915-04-15", "id": "pmb297981.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 8.4.1915", "startDate": "1915-04-08", "id": "pmb297978.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 9.3.1915", "startDate": "1915-03-09", "id": "pmb297975.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.2.1915", "startDate": "1915-02-25", "id": "pmb297972.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 16.2.1915", "startDate": "1915-02-16", "id": "pmb297969.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 21.1.1915", "startDate": "1915-01-21", "id": "pmb297966.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 12.1.1915", "startDate": "1915-01-12", "id": "pmb297963.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 24.12.1914", "startDate": "1914-12-24", "id": "pmb297960.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 17.12.1914", "startDate": "1914-12-17", "id": "pmb297957.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.12.1914", "startDate": "1914-12-05", "id": "pmb297954.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 26.11.1914", "startDate": "1914-11-26", "id": "pmb297951.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 18.11.1914", "startDate": "1914-11-18", "id": "pmb297948.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 16.10.1914", "startDate": "1914-10-16", "id": "pmb297945.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 8.3.1914", "startDate": "1914-03-08", "id": "pmb297942.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.1.1914", "startDate": "1914-01-15", "id": "pmb297939.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 21.10.1913", "startDate": "1913-10-21", "id": "pmb297936.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 8.10.1913", "startDate": "1913-10-08", "id": "pmb297933.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 10.7.1913", "startDate": "1913-07-10", "id": "pmb297930.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 18.12.1912", "startDate": "1912-12-18", "id": "pmb297927.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 30.9.1912", "startDate": "1912-09-30", "id": "pmb297924.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 29.3.1912", "startDate": "1912-03-29", "id": "pmb297921.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 17.6.1911", "startDate": "1911-06-17", "id": "pmb297918.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 4.4.1911", "startDate": "1911-04-04", "id": "pmb297915.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 29.3.1911", "startDate": "1911-03-29", "id": "pmb297912.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 24.3.1911", "startDate": "1911-03-24", "id": "pmb297909.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 6.3.1911", "startDate": "1911-03-06", "id": "pmb297906.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.2.1911", "startDate": "1911-02-15", "id": "pmb297903.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 10.2.1911", "startDate": "1911-02-10", "id": "pmb297900.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 11.1.1911", "startDate": "1911-01-11", "id": "pmb297897.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 29.10.1910", "startDate": "1910-10-29", "id": "pmb297894.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 9.5.1910", "startDate": "1910-05-09", "id": "pmb297891.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 27.4.1910", "startDate": "1910-04-27", "id": "pmb297888.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 20.4.1910", "startDate": "1910-04-20", "id": "pmb297885.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 9.4.1910", "startDate": "1910-04-09", "id": "pmb297882.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 21.3.1910", "startDate": "1910-03-21", "id": "pmb297879.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 17.3.1910", "startDate": "1910-03-17", "id": "pmb297876.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.3.1910", "startDate": "1910-03-15", "id": "pmb297873.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 26.2.1910", "startDate": "1910-02-26", "id": "pmb297870.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.1.1910", "startDate": "1910-01-15", "id": "pmb297867.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.11.1909", "startDate": "1909-11-22", "id": "pmb297864.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 3.11.1909", "startDate": "1909-11-03", "id": "pmb297861.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 18.10.1909", "startDate": "1909-10-18", "id": "pmb297858.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.5.1909", "startDate": "1909-05-22", "id": "pmb297855.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.5.1909", "startDate": "1909-05-05", "id": "pmb297852.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 3.5.1909", "startDate": "1909-05-03", "id": "pmb297849.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 21.4.1909", "startDate": "1909-04-21", "id": "pmb297846.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 20.4.1909", "startDate": "1909-04-20", "id": "pmb297843.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.4.1909", "startDate": "1909-04-15", "id": "pmb297840.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 9.4.1909", "startDate": "1909-04-09", "id": "pmb297837.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 8.4.1909", "startDate": "1909-04-08", "id": "pmb297834.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 30.3.1909", "startDate": "1909-03-30", "id": "pmb297831.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.3.1909", "startDate": "1909-03-25", "id": "pmb297828.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 11.3.1909", "startDate": "1909-03-11", "id": "pmb297825.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 9.3.1909", "startDate": "1909-03-09", "id": "pmb297822.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 6.3.1909", "startDate": "1909-03-06", "id": "pmb297819.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 4.3.1909", "startDate": "1909-03-04", "id": "pmb297816.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.2.1909", "startDate": "1909-02-25", "id": "pmb297813.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 23.2.1909", "startDate": "1909-02-23", "id": "pmb297810.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 9.2.1909", "startDate": "1909-02-09", "id": "pmb297807.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 20.1.1909", "startDate": "1909-01-20", "id": "pmb297804.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 16.1.1909", "startDate": "1909-01-16", "id": "pmb297801.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 17.12.1908", "startDate": "1908-12-17", "id": "pmb297798.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 26.11.1908", "startDate": "1908-11-26", "id": "pmb297795.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 19.11.1908", "startDate": "1908-11-19", "id": "pmb297792.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.11.1908", "startDate": "1908-11-05", "id": "pmb297789.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 2.6.1908", "startDate": "1908-06-02", "id": "pmb297786.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.5.1908", "startDate": "1908-05-25", "id": "pmb297783.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 19.5.1908", "startDate": "1908-05-19", "id": "pmb297780.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.4.1908", "startDate": "1908-04-25", "id": "pmb297777.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 13.4.1908", "startDate": "1908-04-13", "id": "pmb297774.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 6.4.1908", "startDate": "1908-04-06", "id": "pmb297771.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 27.3.1908", "startDate": "1908-03-27", "id": "pmb297768.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 24.3.1908", "startDate": "1908-03-24", "id": "pmb297765.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 29.10.1907", "startDate": "1907-10-29", "id": "pmb297762.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 18.10.1907", "startDate": "1907-10-18", "id": "pmb297759.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 14.6.1907", "startDate": "1907-06-14", "id": "pmb297756.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 11.5.1907", "startDate": "1907-05-11", "id": "pmb297753.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.4.1907", "startDate": "1907-04-25", "id": "pmb297750.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 8.4.1907", "startDate": "1907-04-08", "id": "pmb297747.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 4.4.1907", "startDate": "1907-04-04", "id": "pmb297744.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 26.3.1907", "startDate": "1907-03-26", "id": "pmb297741.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 21.3.1907", "startDate": "1907-03-21", "id": "pmb297738.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 12.3.1907", "startDate": "1907-03-12", "id": "pmb297735.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.3.1907", "startDate": "1907-03-05", "id": "pmb297732.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 2.3.1907", "startDate": "1907-03-02", "id": "pmb297729.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 19.2.1907", "startDate": "1907-02-19", "id": "pmb297726.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 14.2.1907", "startDate": "1907-02-14", "id": "pmb297723.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 7.2.1907", "startDate": "1907-02-07", "id": "pmb297720.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 31.1.1907", "startDate": "1907-01-31", "id": "pmb297717.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.1.1907", "startDate": "1907-01-22", "id": "pmb297714.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.1.1907", "startDate": "1907-01-15", "id": "pmb297711.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 7.1.1907", "startDate": "1907-01-07", "id": "pmb297708.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 28.12.1906", "startDate": "1906-12-28", "id": "pmb297705.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 19.12.1906", "startDate": "1906-12-19", "id": "pmb297702.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 11.12.1906", "startDate": "1906-12-11", "id": "pmb297699.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 3.12.1906", "startDate": "1906-12-03", "id": "pmb297696.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 26.11.1906", "startDate": "1906-11-26", "id": "pmb297693.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 20.11.1906", "startDate": "1906-11-20", "id": "pmb297690.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 17.11.1906", "startDate": "1906-11-17", "id": "pmb297687.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 6.11.1906", "startDate": "1906-11-06", "id": "pmb297684.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 31.10.1906", "startDate": "1906-10-31", "id": "pmb297681.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.10.1906", "startDate": "1906-10-22", "id": "pmb297678.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 9.10.1906", "startDate": "1906-10-09", "id": "pmb297675.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 2.10.1906", "startDate": "1906-10-02", "id": "pmb297672.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.9.1906", "startDate": "1906-09-25", "id": "pmb297669.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 19.6.1906", "startDate": "1906-06-19", "id": "pmb297666.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 12.6.1906", "startDate": "1906-06-12", "id": "pmb297663.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.6.1906", "startDate": "1906-06-05", "id": "pmb297660.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.5.1906", "startDate": "1906-05-05", "id": "pmb297657.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 24.4.1906", "startDate": "1906-04-24", "id": "pmb297654.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 10.4.1906", "startDate": "1906-04-10", "id": "pmb297651.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 3.4.1906", "startDate": "1906-04-03", "id": "pmb297648.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.3.1906", "startDate": "1906-03-22", "id": "pmb297645.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 6.3.1906", "startDate": "1906-03-06", "id": "pmb297642.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.2.1906", "startDate": "1906-02-15", "id": "pmb297639.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.4.1905", "startDate": "1905-04-22", "id": "pmb297636.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.2.1905", "startDate": "1905-02-25", "id": "pmb297633.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 17.2.1905", "startDate": "1905-02-17", "id": "pmb297630.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 7.2.1905", "startDate": "1905-02-07", "id": "pmb297627.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 3.2.1905", "startDate": "1905-02-03", "id": "pmb297624.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 25.10.1904", "startDate": "1904-10-25", "id": "pmb297621.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.6.1904", "startDate": "1904-06-22", "id": "pmb297618.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 21.6.1904", "startDate": "1904-06-21", "id": "pmb297615.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 14.6.1904", "startDate": "1904-06-14", "id": "pmb297612.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 13.6.1904", "startDate": "1904-06-13", "id": "pmb297609.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 11.6.1904", "startDate": "1904-06-11", "id": "pmb297606.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 10.6.1904", "startDate": "1904-06-10", "id": "pmb297603.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 4.6.1904", "startDate": "1904-06-04", "id": "pmb297600.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 29.4.1904", "startDate": "1904-04-29", "id": "pmb297597.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 19.4.1904", "startDate": "1904-04-19", "id": "pmb297594.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 18.4.1904", "startDate": "1904-04-18", "id": "pmb297591.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.4.1904", "startDate": "1904-04-15", "id": "pmb297588.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 4.4.1904", "startDate": "1904-04-04", "id": "pmb297585.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 23.3.1904", "startDate": "1904-03-23", "id": "pmb297582.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.3.1904", "startDate": "1904-03-22", "id": "pmb297579.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.3.1904", "startDate": "1904-03-15", "id": "pmb297576.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 14.3.1904", "startDate": "1904-03-14", "id": "pmb297573.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 8.3.1904", "startDate": "1904-03-08", "id": "pmb297570.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 7.3.1904", "startDate": "1904-03-07", "id": "pmb297567.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 26.2.1904", "startDate": "1904-02-26", "id": "pmb297564.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 26.1.1904", "startDate": "1904-01-26", "id": "pmb297561.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.1.1904", "startDate": "1904-01-15", "id": "pmb297558.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.1.1904", "startDate": "1904-01-05", "id": "pmb297555.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 4.1.1904", "startDate": "1904-01-04", "id": "pmb297552.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 23.12.1903", "startDate": "1903-12-23", "id": "pmb297549.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.12.1903", "startDate": "1903-12-22", "id": "pmb297546.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 17.12.1903", "startDate": "1903-12-17", "id": "pmb297543.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.12.1903", "startDate": "1903-12-15", "id": "pmb297540.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 12.12.1903", "startDate": "1903-12-12", "id": "pmb297537.html", "type": "Panoramabesuch"
+  },
+  {
+    "name": "Besuch des Bayerischen Nationalmuseums, 2.9.1928", "startDate": "1928-09-02", "id": "pmb297534.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Bayerischen Nationalmuseums, 30.8.1921", "startDate": "1921-08-30", "id": "pmb297531.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Bayerischen Nationalmuseums, 11.9.1908", "startDate": "1908-09-11", "id": "pmb297528.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Bayerischen Nationalmuseums, 7.5.1908", "startDate": "1908-05-07", "id": "pmb297525.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch von Museo Civico, 1.6.1903", "startDate": "1903-06-01", "id": "pmb297522.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Ca’ d’Oro, 1.6.1903", "startDate": "1903-06-01", "id": "pmb297519.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Mineralogischen Museums der Universität Wien, 5.4.1903", "startDate": "1903-04-05", "id": "pmb297516.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Hohenzollernmuseums, 14.10.1902", "startDate": "1902-10-14", "id": "pmb297513.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch von Bargello, 6.5.1914", "startDate": "1914-05-06", "id": "pmb297510.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch von Bargello, 14.4.1901", "startDate": "1901-04-14", "id": "pmb297507.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Palazzo Doria-Pamphilj, 5.4.1901", "startDate": "1901-04-05", "id": "pmb297504.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Villa Borghese Pinciana, 5.5.1904", "startDate": "1904-05-05", "id": "pmb297501.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Villa Borghese Pinciana, 3.4.1901", "startDate": "1901-04-03", "id": "pmb297498.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Palazzo dei Conservatori, 3.4.1901", "startDate": "1901-04-03", "id": "pmb297495.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Stanzen des Raffael, 1.4.1901", "startDate": "1901-04-01", "id": "pmb297492.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Palazzo Bianco, 29.3.1901", "startDate": "1901-03-29", "id": "pmb297489.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Gewerbemuseums, 17.1.1928", "startDate": "1928-01-17", "id": "pmb297486.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Gewerbemuseums, 21.6.1912", "startDate": "1912-06-21", "id": "pmb297483.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Gewerbemuseums, 30.11.1903", "startDate": "1903-11-30", "id": "pmb297480.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Gewerbemuseums, 5.12.1901", "startDate": "1901-12-05", "id": "pmb297477.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Gewerbemuseums, 15.12.1900", "startDate": "1900-12-15", "id": "pmb297474.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Gewerbemuseums, 3.12.1898", "startDate": "1898-12-03", "id": "pmb297471.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Palazzo della Pilotta, 30.8.1898", "startDate": "1898-08-30", "id": "pmb297468.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Gletschergartens Luzern, 24.8.1924", "startDate": "1924-08-24", "id": "pmb297465.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Gletschergartens Luzern, 23.5.1910", "startDate": "1910-05-23", "id": "pmb297462.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Gletschergartens Luzern, 22.8.1898", "startDate": "1898-08-22", "id": "pmb297459.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Historischen Museums Basel, 12.8.1898", "startDate": "1898-08-12", "id": "pmb297456.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunstmuseums Basel, 12.8.1898", "startDate": "1898-08-12", "id": "pmb297453.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch von Carolino Augusteum, 17.9.1904", "startDate": "1904-09-17", "id": "pmb297450.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Carolino Augusteum, 30.7.1898", "startDate": "1898-07-30", "id": "pmb297447.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Alten Joanneums, 14.7.1898", "startDate": "1898-07-14", "id": "pmb297444.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée Guimet, 22.4.1897", "startDate": "1897-04-22", "id": "pmb297441.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Oslo Kunstforening, 25.7.1896", "startDate": "1896-07-25", "id": "pmb297438.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch von Det Hanseatiske Museum og Schøtstuene, 11.7.1896", "startDate": "1896-07-11", "id": "pmb297435.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Staatlichen Graphischen Sammlung München, 3.9.1895", "startDate": "1895-09-03", "id": "pmb297432.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Germanischen Nationalmuseums, 8.7.1923", "startDate": "1923-07-08", "id": "pmb297429.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Germanischen Nationalmuseums, 18.9.1899", "startDate": "1899-09-18", "id": "pmb297426.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Germanischen Nationalmuseums, 14.7.1895", "startDate": "1895-07-14", "id": "pmb297423.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Schack-Galerie München, 6.5.1908", "startDate": "1908-05-06", "id": "pmb297420.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Schack-Galerie München, 10.8.1898", "startDate": "1898-08-10", "id": "pmb297417.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Schack-Galerie München, 5.6.1894", "startDate": "1894-06-05", "id": "pmb297414.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Geburtshauses von Tizian, 24.8.1893", "startDate": "1893-08-24", "id": "pmb297411.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Vivariums, 14.5.1893", "startDate": "1893-05-14", "id": "pmb297408.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch von Madame Tussauds, 26.5.1897", "startDate": "1897-05-26", "id": "pmb297405.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Hunterian Museums, 2.6.1888", "startDate": "1888-06-02", "id": "pmb297402.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses am Lenbachplatz, 13.5.1908", "startDate": "1908-05-13", "id": "pmb297399.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses am Lenbachplatz, 10.5.1908", "startDate": "1908-05-10", "id": "pmb297396.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses am Lenbachplatz, 4.5.1908", "startDate": "1908-05-04", "id": "pmb297393.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Pinacoteca Nazionale di Bologna, 31.8.1898", "startDate": "1898-08-31", "id": "pmb297390.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Thorvaldsen-Museums, 14.5.1923", "startDate": "1923-05-14", "id": "pmb297387.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Liechtenstein’sche Gemäldegalerie, 8.10.1901", "startDate": "1901-10-08", "id": "pmb297384.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Liechtenstein’sche Gemäldegalerie, 1.10.1900", "startDate": "1900-10-01", "id": "pmb297381.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Liechtenstein’sche Gemäldegalerie, 1.7.1898", "startDate": "1898-07-01", "id": "pmb297378.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Liechtenstein’sche Gemäldegalerie, 20.6.1898", "startDate": "1898-06-20", "id": "pmb297375.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch von Drottningholms Slottsteater, 21.5.1923", "startDate": "1923-05-21", "id": "pmb297372.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Accademia di Belle Arti [Florenz], 16.9.1925", "startDate": "1925-09-16", "id": "pmb297369.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Accademia di Belle Arti [Florenz], 7.5.1914", "startDate": "1914-05-07", "id": "pmb297366.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 2.1.1931", "startDate": "1931-01-02", "id": "pmb297363.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 21.7.1926", "startDate": "1926-07-21", "id": "pmb297360.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 27.5.1925", "startDate": "1925-05-27", "id": "pmb297357.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 11.7.1924", "startDate": "1924-07-11", "id": "pmb297354.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 18.1.1924", "startDate": "1924-01-18", "id": "pmb297351.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 10.8.1920", "startDate": "1920-08-10", "id": "pmb297348.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 7.5.1918", "startDate": "1918-05-07", "id": "pmb297345.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 30.12.1917", "startDate": "1917-12-30", "id": "pmb297342.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 28.11.1916", "startDate": "1916-11-28", "id": "pmb297339.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 29.2.1916", "startDate": "1916-02-29", "id": "pmb297336.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 12.10.1915", "startDate": "1915-10-12", "id": "pmb297333.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 6.7.1915", "startDate": "1915-07-06", "id": "pmb297330.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 10.7.1914", "startDate": "1914-07-10", "id": "pmb297327.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 21.10.1913", "startDate": "1913-10-21", "id": "pmb297324.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 12.10.1913", "startDate": "1913-10-12", "id": "pmb297321.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 27.9.1913", "startDate": "1913-09-27", "id": "pmb297318.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 28.12.1910", "startDate": "1910-12-28", "id": "pmb297315.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 10.10.1909", "startDate": "1909-10-10", "id": "pmb297312.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 4.12.1906", "startDate": "1906-12-04", "id": "pmb297309.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 24.11.1906", "startDate": "1906-11-24", "id": "pmb297306.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 30.8.1903", "startDate": "1903-08-30", "id": "pmb297303.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 29.8.1903", "startDate": "1903-08-29", "id": "pmb297300.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 8.11.1901", "startDate": "1901-11-08", "id": "pmb297297.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 13.9.1901", "startDate": "1901-09-13", "id": "pmb297294.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 10.9.1901", "startDate": "1901-09-10", "id": "pmb297291.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 28.9.1900", "startDate": "1900-09-28", "id": "pmb297288.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 11.5.1900", "startDate": "1900-05-11", "id": "pmb297285.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 20.3.1900", "startDate": "1900-03-20", "id": "pmb297282.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 11.7.1899", "startDate": "1899-07-11", "id": "pmb297279.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 17.1.1899", "startDate": "1899-01-17", "id": "pmb297276.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 11.1.1899", "startDate": "1899-01-11", "id": "pmb297273.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 21.9.1898", "startDate": "1898-09-21", "id": "pmb297270.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 7.7.1898", "startDate": "1898-07-07", "id": "pmb297267.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 3.6.1898", "startDate": "1898-06-03", "id": "pmb297264.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 31.5.1898", "startDate": "1898-05-31", "id": "pmb297261.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 17.9.1897", "startDate": "1897-09-17", "id": "pmb297258.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 5.6.1896", "startDate": "1896-06-05", "id": "pmb297255.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 22.5.1896", "startDate": "1896-05-22", "id": "pmb297252.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 13.3.1896", "startDate": "1896-03-13", "id": "pmb297249.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 22.5.1895", "startDate": "1895-05-22", "id": "pmb297246.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 18.3.1895", "startDate": "1895-03-18", "id": "pmb297243.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 18.1.1895", "startDate": "1895-01-18", "id": "pmb297240.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 16.1.1895", "startDate": "1895-01-16", "id": "pmb297237.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 14.1.1895", "startDate": "1895-01-14", "id": "pmb297234.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 9.1.1895", "startDate": "1895-01-09", "id": "pmb297231.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 2.1.1895", "startDate": "1895-01-02", "id": "pmb297228.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 7.3.1894", "startDate": "1894-03-07", "id": "pmb297225.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 16.2.1894", "startDate": "1894-02-16", "id": "pmb297222.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 13.1.1893", "startDate": "1893-01-13", "id": "pmb297219.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 11.1.1893", "startDate": "1893-01-11", "id": "pmb297216.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 9.1.1893", "startDate": "1893-01-09", "id": "pmb297213.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Kunsthistorischen Museums, 20.4.1892", "startDate": "1892-04-20", "id": "pmb297210.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch von Maison Bonaparte, 7.3.1905", "startDate": "1905-03-07", "id": "pmb297207.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Gallerie dell’Accademia, 12.9.1927", "startDate": "1927-09-12", "id": "pmb297204.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Gallerie dell’Accademia, 17.5.1912", "startDate": "1912-05-17", "id": "pmb297201.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Gallerie dell’Accademia, 30.5.1903", "startDate": "1903-05-30", "id": "pmb297198.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Gallerie dell’Accademia, 19.9.1892", "startDate": "1892-09-19", "id": "pmb297195.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Engelsburg, 4.4.1901", "startDate": "1901-04-04", "id": "pmb297192.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée du Louvre, 20.5.1897", "startDate": "1897-05-20", "id": "pmb297189.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée du Louvre, 15.5.1897", "startDate": "1897-05-15", "id": "pmb297186.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée du Louvre, 11.5.1897", "startDate": "1897-05-11", "id": "pmb297183.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée du Louvre, 1.5.1897", "startDate": "1897-05-01", "id": "pmb297180.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée du Louvre, 24.4.1897", "startDate": "1897-04-24", "id": "pmb297177.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée du Louvre, 20.4.1897", "startDate": "1897-04-20", "id": "pmb297174.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée du Louvre, 15.4.1897", "startDate": "1897-04-15", "id": "pmb297171.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Musée du Louvre, 22.5.1888", "startDate": "1888-05-22", "id": "pmb297168.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses [Salzburg], 19.9.1904", "startDate": "1904-09-19", "id": "pmb297165.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Uffizien, 16.9.1925", "startDate": "1925-09-16", "id": "pmb297162.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Uffizien, 9.5.1914", "startDate": "1914-05-09", "id": "pmb297159.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Uffizien, 4.5.1914", "startDate": "1914-05-04", "id": "pmb297156.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Uffizien, 17.4.1901", "startDate": "1901-04-17", "id": "pmb297153.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Uffizien, 15.4.1901", "startDate": "1901-04-15", "id": "pmb297150.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Uffizien, 12.4.1901", "startDate": "1901-04-12", "id": "pmb297147.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Alten Pinakothek, 22.4.1922", "startDate": "1922-04-22", "id": "pmb297144.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Alten Pinakothek, 23.6.1921", "startDate": "1921-06-23", "id": "pmb297141.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Alten Pinakothek, 4.5.1908", "startDate": "1908-05-04", "id": "pmb297138.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Alten Pinakothek, 15.9.1899", "startDate": "1899-09-15", "id": "pmb297135.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Alten Pinakothek, 9.4.1897", "startDate": "1897-04-09", "id": "pmb297132.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Alten Pinakothek, 8.4.1897", "startDate": "1897-04-08", "id": "pmb297129.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Alten Pinakothek, 3.9.1895", "startDate": "1895-09-03", "id": "pmb297126.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Alten Pinakothek, 29.8.1895", "startDate": "1895-08-29", "id": "pmb297123.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Alten Pinakothek, 4.6.1894", "startDate": "1894-06-04", "id": "pmb297120.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Vatikanischen Museen, 2.4.1901", "startDate": "1901-04-02", "id": "pmb297117.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Albertina, 5.4.1922", "startDate": "1922-04-05", "id": "pmb297114.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Albertina, 10.12.1908", "startDate": "1908-12-10", "id": "pmb297111.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Schillerhauses, 13.8.1906", "startDate": "1906-08-13", "id": "pmb297108.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch von Goethes Wohnhaus, 13.8.1906", "startDate": "1906-08-13", "id": "pmb297105.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Glyptothek, 6.5.1908", "startDate": "1908-05-06", "id": "pmb297102.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Glyptothek, 8.4.1897", "startDate": "1897-04-08", "id": "pmb297099.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Glyptothek, 7.6.1894", "startDate": "1894-06-07", "id": "pmb297096.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Neuen Pinakothek, 23.4.1922", "startDate": "1922-04-23", "id": "pmb297093.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Neuen Pinakothek, 5.5.1908", "startDate": "1908-05-05", "id": "pmb297090.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Neuen Pinakothek, 15.9.1899", "startDate": "1899-09-15", "id": "pmb297087.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Neuen Pinakothek, 9.4.1897", "startDate": "1897-04-09", "id": "pmb297084.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Neuen Pinakothek, 8.4.1897", "startDate": "1897-04-08", "id": "pmb297081.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Neuen Pinakothek, 31.8.1895", "startDate": "1895-08-31", "id": "pmb297078.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Neuen Pinakothek, 7.6.1894", "startDate": "1894-06-07", "id": "pmb297075.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Österreichischen Museums fur Kunst und Industrie, 22.4.1923", "startDate": "1923-04-22", "id": "pmb297072.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Österreichischen Museums fur Kunst und Industrie, 4.10.1919", "startDate": "1919-10-04", "id": "pmb297069.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Österreichischen Museums fur Kunst und Industrie, 1.10.1915", "startDate": "1915-10-01", "id": "pmb297066.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Österreichischen Museums fur Kunst und Industrie, 15.4.1915", "startDate": "1915-04-15", "id": "pmb297063.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Österreichischen Museums fur Kunst und Industrie, 28.11.1906", "startDate": "1906-11-28", "id": "pmb297060.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Österreichischen Museums fur Kunst und Industrie, 9.6.1906", "startDate": "1906-06-09", "id": "pmb297057.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Österreichischen Museums fur Kunst und Industrie, 24.11.1902", "startDate": "1902-11-24", "id": "pmb297054.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 1.7.1920", "startDate": "1920-07-01", "id": "pmb297051.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 29.11.1909", "startDate": "1909-11-29", "id": "pmb297048.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 18.3.1909", "startDate": "1909-03-18", "id": "pmb297045.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 15.12.1906", "startDate": "1906-12-15", "id": "pmb297042.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 22.12.1900", "startDate": "1900-12-22", "id": "pmb297039.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 9.5.1900", "startDate": "1900-05-09", "id": "pmb297036.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 26.10.1898", "startDate": "1898-10-26", "id": "pmb297033.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 27.5.1898", "startDate": "1898-05-27", "id": "pmb297030.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 17.5.1898", "startDate": "1898-05-17", "id": "pmb297027.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 6.5.1898", "startDate": "1898-05-06", "id": "pmb297024.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 19.12.1896", "startDate": "1896-12-19", "id": "pmb297021.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 31.3.1896", "startDate": "1896-03-31", "id": "pmb297018.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 13.12.1895", "startDate": "1895-12-13", "id": "pmb297015.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 15.5.1895", "startDate": "1895-05-15", "id": "pmb297012.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 31.3.1895", "startDate": "1895-03-31", "id": "pmb297009.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 5.1.1895", "startDate": "1895-01-05", "id": "pmb297006.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 21.12.1894", "startDate": "1894-12-21", "id": "pmb297003.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 2.12.1894", "startDate": "1894-12-02", "id": "pmb297000.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 23.5.1894", "startDate": "1894-05-23", "id": "pmb296997.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 28.3.1890", "startDate": "1890-03-28", "id": "pmb296994.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch des Künstlerhauses, 10.11.1885", "startDate": "1885-11-10", "id": "pmb296991.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 7.11.1924", "startDate": "1924-11-07", "id": "pmb296988.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 26.9.1924", "startDate": "1924-09-26", "id": "pmb296985.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 4.11.1921", "startDate": "1921-11-04", "id": "pmb296982.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 27.4.1921", "startDate": "1921-04-27", "id": "pmb296979.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 5.3.1921", "startDate": "1921-03-05", "id": "pmb296976.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 21.6.1919", "startDate": "1919-06-21", "id": "pmb296973.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 14.12.1918", "startDate": "1918-12-14", "id": "pmb296970.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 27.10.1917", "startDate": "1917-10-27", "id": "pmb296967.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 15.9.1914", "startDate": "1914-09-15", "id": "pmb296964.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 13.2.1914", "startDate": "1914-02-13", "id": "pmb296961.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 10.4.1907", "startDate": "1907-04-10", "id": "pmb296958.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 5.3.1907", "startDate": "1907-03-05", "id": "pmb296955.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 7.4.1906", "startDate": "1906-04-07", "id": "pmb296952.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 21.1.1905", "startDate": "1905-01-21", "id": "pmb296949.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 30.3.1904", "startDate": "1904-03-30", "id": "pmb296946.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 30.1.1904", "startDate": "1904-01-30", "id": "pmb296943.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 5.2.1903", "startDate": "1903-02-05", "id": "pmb296940.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 26.11.1902", "startDate": "1902-11-26", "id": "pmb296937.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 6.5.1901", "startDate": "1901-05-06", "id": "pmb296934.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 27.1.1900", "startDate": "1900-01-27", "id": "pmb296931.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 22.5.1899", "startDate": "1899-05-22", "id": "pmb296928.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 15.2.1899", "startDate": "1899-02-15", "id": "pmb296925.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Secession, 10.5.1898", "startDate": "1898-05-10", "id": "pmb296922.html", "type": "Museumsbesuch"
+  },
+  {
+    "name": "Besuch der Congressausstellung, 26.5.1896", "startDate": "1896-05-26", "id": "pmb296827.html", "type": "Ausstellungsbesuch"
+  },
+  {
     "name": "Hochzeit von Laura Pollak und Heinrich Spitzer, 13.11.1881", "startDate": "1881-11-13", "id": "pmb296714.html", "type": "Hochzeit"
   },
   {
@@ -9297,9 +10605,6 @@ var calendarData = [
     "name": "Russisches Symphonie-Konzert, 9.1.1903", "startDate": "1903-01-09", "id": "pmb209276.html", "type": "Konzert"
   },
   {
-    "name": "Symphoniekonzert, 8.1.1903", "startDate": "1903-01-08", "id": "pmb209275.html", "type": "Sinfoniekonzert"
-  },
-  {
     "name": "2. Gesangskonzert Camilla Landi, 5.1.1903", "startDate": "1903-01-05", "id": "pmb209274.html", "type": "Liederkonzert"
   },
   {
@@ -9604,9 +10909,6 @@ var calendarData = [
   },
   {
     "name": "Symphoniekonzert, 20.11.1900", "startDate": "1900-11-20", "id": "pmb209169.html", "type": "Sinfoniekonzert"
-  },
-  {
-    "name": "Vorlesung, 8.11.1900", "startDate": "1900-11-08", "id": "pmb209168.html", "type": "Vorlesung"
   },
   {
     "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 4.11.1900", "startDate": "1900-11-04", "id": "pmb209167.html", "type": "Philharmonisches Konzert"
