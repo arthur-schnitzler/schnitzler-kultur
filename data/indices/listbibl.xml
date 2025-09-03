@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-08-25">serialized</change>
+      <change when-iso="2025-09-03">serialized</change>
       
        
     </revisionDesc>
@@ -63133,6 +63133,9 @@
           <title type="main">Der Flüchtling. Lustspiel in einem Aufzug</title>
           
   
+          <title type="werk_bibliografische-angabe">Der Flüchtling. Lustspiel in einem Act. In: Neue Illustrirte Zeitung, Jg. 15, Bd. 2, Nr. 36, 5.6.1887, S. 567–569 und Nr. 37, 12.6.1887, S. 579–582.</title>
+          
+  
           <author key="pmb11673" role="hat-geschaffen">Herzl, Theodor</author>
           
 
@@ -71726,6 +71729,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <title type="werk_namensvariante">Der letzte Liebesbrief. Lustspiel in 3 Akten</title>
+          
+  
+          <title type="werk_namensvariante">Les Pattes de mouche</title>
           
   
           <author key="pmb12624" role="hat-geschaffen">Sardou, Victorien</author>
@@ -81375,19 +81381,19 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Die Hirtenflöte. Novelle</title>
           
   
-          <title type="werk_bibliografische-angabe">Die neue Rundschau, Jg. 22, H. 9, September 1911, 1249–1273</title>
-          
-  
           <title type="werk_link">https://archive.org/details/neuerundschau21911franuoft/page/1248/mode/2up</title>
           
   
           <title type="werk_arbeitstitel">Verlockung</title>
           
   
+          <title type="werk_bibliografische-angabe">Die neue Rundschau, Jg. 22, H. 9, September 1911, 1249–1273 [erschienen Ende August 1911]</title>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1911-09-01">September 1911</date>
+          <date when-iso="1911-08-25">Ende August 1911</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.26</idno>
@@ -81421,6 +81427,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb30213.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Novelle</note>
@@ -83235,6 +83250,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="legacy-name-merge">Die gelbe Nachtigall. [Komödie in drei  Akten]</title>
           
   
+          <title type="legacy-name-merge">Die gelbe Nachtigall</title>
+          
+  
+          <title type="legacy-name-merge">Die gelbe Nachtigall</title>
+          
+  
           <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
           
 
@@ -83262,7 +83283,22 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb135259.html</idno>
           
   
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163205</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163173/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163173</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163205/</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references">  </note>
           
 
         </bibl>

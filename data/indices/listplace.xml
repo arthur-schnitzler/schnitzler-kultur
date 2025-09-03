@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-08-25">serialized</change>
+      <change when-iso="2025-09-03">serialized</change>
       
        
     </revisionDesc>
@@ -2864,6 +2864,79 @@
           
 
         </place>
+        <place xml:id="pmb292932">
+          
+  
+          <placeName>Neue Staatsgalerie</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,14533 11,56499</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45258">München</placeName>
+            
+  
+            <geo>48,13743 11,57549</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb292933">Königsplatz</placeName>
+            
+  
+            <geo>48,145555555556 11,565277777778</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/292932/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb292932.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date from-iso="1919-01-01" to-iso="1945-01-01">1919 – 1945</date>
+            
+
+          </note>
+          
+
+        </place>
         <place xml:id="pmb292772">
           
   
@@ -2944,6 +3017,67 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb292698.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb292500">
+          
+  
+          <placeName>Beethoven-Haus</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,00776 16,23289</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb662">Baden bei Wien</placeName>
+            
+  
+            <geo>48,00543 16,23264</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/292500/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q23759475</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/7721679-9</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Beethovenhaus_Baden</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb292500.html</idno>
           
 
           <listBibl>
@@ -3760,6 +3894,119 @@
             
 
           </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb288596">
+          
+  
+          <placeName>Museum Kröller</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>52,08144 4,30939</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb58810">Den Haag</placeName>
+            
+  
+            <geo>52,07667 4,29861</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/288596/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb288596.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb288493">
+          
+  
+          <placeName>Nederlands Museum voor Oost-Aziatische Kunst (Yi Yuan)</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>52,36565 4,88659</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb40709">Amsterdam</placeName>
+            
+  
+            <geo>52,37403 4,88969</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/288493/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb288493.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date from-iso="1922-01-01" to-iso="1924-01-01">1922 – 1924</date>
+            
+
+          </note>
           
 
         </place>
@@ -5316,6 +5563,67 @@
           
 
         </place>
+        <place xml:id="pmb256574">
+          
+  
+          <placeName>Bayerisches Armeemuseum</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,142222 11,582778</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45258">München</placeName>
+            
+  
+            <geo>48,13743 11,57549</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/256574/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q812396</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116206-8</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Bayerisches_Armeemuseum</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb256574.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb256478">
           
   
@@ -5502,6 +5810,67 @@
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb256363">
+          
+  
+          <placeName>Musée National des Beaux-Arts d’Alger</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>36,74611111111111 3,0722222222222224</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb43991">Algier</placeName>
+            
+  
+            <geo>36,73225 3,08746</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/256363/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2912600</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/5555450-7</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb256363.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -7802,6 +8171,67 @@
           
 
         </place>
+        <place xml:id="pmb248232">
+          
+  
+          <placeName>Vittoriale degli italiani</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>45,623961 10,565013</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb374">Gardone Riviera</placeName>
+            
+  
+            <geo>45,62499 10,56527</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/248232/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1547160</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/10020915-4</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Vittoriale_degli_italiani</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb248232.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb247932">
           
   
@@ -7857,6 +8287,70 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb247932.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb247869">
+          
+  
+          <placeName>Magyar Nemzeti Galéria</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Ungarische Nationalgalerie</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>47,4962283 19,0397733</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb43471">Budapest</placeName>
+            
+  
+            <geo>47,49835 19,04045</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/247869/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q252071</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2018679-4</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ungarische_Nationalgalerie</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb247869.html</idno>
           
 
           <listBibl>
@@ -8686,6 +9180,180 @@
           
 
         </place>
+        <place xml:id="pmb245768">
+          
+  
+          <placeName>Six Collection</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>52,36505 4,90067</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb40709">Amsterdam</placeName>
+            
+  
+            <geo>52,37403 4,88969</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/245768/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2370540</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1071011537</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb245768.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb245758">
+          
+  
+          <placeName>Panorama Mesdag</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>52,085 4,3044444444444</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb58810">Den Haag</placeName>
+            
+  
+            <geo>52,07667 4,29861</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/245758/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1738414</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16129365-7</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Panorama_Mesdag</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb245758.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb245754">
+          
+  
+          <placeName>Koninklijk Kabinet van Schilderijen Mauritshuis</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>52,080436 4,314417</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb58810">Den Haag</placeName>
+            
+  
+            <geo>52,07667 4,29861</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/245754/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb245754.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb245475">
           
   
@@ -8869,6 +9537,314 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb244962.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb244327">
+          
+  
+          <placeName>Schlossmuseum Kynžvart</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>50,00430556 12,60558333</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb244324">Schloss Kynžvart</placeName>
+            
+  
+            <geo>50,00430556 12,60558333</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244327/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb244327.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb238481">
+          
+  
+          <placeName>Kaiserpanorama [Wien, Stubenring 12]</placeName>
+          
+  
+          <desc type="entity_type">Vergnügungseinrichtung</desc>
+          
+  
+          <desc type="entity_type_id">4378</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,209294 16,381895</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb349">Stubenring</placeName>
+            
+  
+            <geo>48,209027260136 16,381723559618</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238481/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb238481.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date when-iso="1918-06-16">1918-06-16</date>
+            
+
+          </note>
+          
+
+        </place>
+        <place xml:id="pmb238193">
+          
+  
+          <placeName>Goethehäuschen</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>50,6664 10,8792</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb40920">Kickelhahn</placeName>
+            
+  
+            <geo>50,665556 10,881389</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238193/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q48118550</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb238193.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb238177">
+          
+  
+          <placeName>Neues Museum Weimar</placeName>
+          
+  
+          <placeName type="ort_fruherer-name">Großherzogliches Museum</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>50,9861 11,3264</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb197">Weimar</placeName>
+            
+  
+            <geo>50,97361 11,33806</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238177/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1980351</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/5317171-8</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Museum_Neues_Weimar</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb238177.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb238174">
+          
+  
+          <placeName>Weimarer Fürstengruft</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>50,972586111111 11,325644444444</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb197">Weimar</placeName>
+            
+  
+            <geo>50,97361 11,33806</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238174/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q315764</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4601709-4</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Weimarer_F%C3%BCrstengruft</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb238174.html</idno>
           
 
           <listBibl>
@@ -9228,6 +10204,67 @@
           
 
         </place>
+        <place xml:id="pmb237324">
+          
+  
+          <placeName>Grünes Gewölbe</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>51,0528 13,7364</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb866">Dresden</placeName>
+            
+  
+            <geo>51,0833 13,7666</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237324/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q707407</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2012764-9</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gr%C3%BCnes_Gew%C3%B6lbe</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb237324.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb237232">
           
   
@@ -9399,6 +10436,64 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb237070.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb236951">
+          
+  
+          <placeName>Musée historique de Montreux et de sa région</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>46,43412 6,91355</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb40482">Montreux</placeName>
+            
+  
+            <geo>46,45179 6,94084</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/236951/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q27485177</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Mus%C3%A9e_historique_de_Montreux_et_de_sa_r%C3%A9gion</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb236951.html</idno>
           
 
           <listBibl>
@@ -10133,6 +11228,76 @@
           
 
         </place>
+        <place xml:id="pmb235015">
+          
+  
+          <placeName>Villa Durazzo Pallavicini</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>44,42949 8,817317</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb994">Genua</placeName>
+            
+  
+            <geo>44,40478 8,94439</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb41022">Pegli</placeName>
+            
+  
+            <geo>44,42445 8,81213</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/235015/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4011961</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb235015.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb234905">
           
   
@@ -10325,6 +11490,70 @@
           
 
         </place>
+        <place xml:id="pmb234052">
+          
+  
+          <placeName>Stazione Zoologica Anton Dohrn</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Acquario di Napoli</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>40,8327 14,23577</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb595">Neapel</placeName>
+            
+  
+            <geo>40,85216 14,26811</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/234052/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q220221</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/17475-0</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Zoologische_Station_Neapel</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb234052.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb233980">
           
   
@@ -10392,6 +11621,79 @@
             
 
           </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb233517">
+          
+  
+          <placeName>Kaiserpanorama [Wien, Schubertring 4]</placeName>
+          
+  
+          <desc type="entity_type">Vergnügungseinrichtung</desc>
+          
+  
+          <desc type="entity_type_id">4378</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,203191 16,375811</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb233514">Schubertring 4</placeName>
+            
+  
+            <geo>48,203105 16,375875</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/233517/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb233517.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date when-iso="1918-06-15">1918-06-15</date>
+            
+
+          </note>
           
 
         </place>
@@ -10511,6 +11813,67 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb233325.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb233217">
+          
+  
+          <placeName>Bayerisches Nationalmuseum</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,1432 11,591</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45258">München</placeName>
+            
+  
+            <geo>48,13743 11,57549</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/233217/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q631056</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2005502-X</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Bayerisches_Nationalmuseum</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb233217.html</idno>
           
 
           <listBibl>
@@ -10742,6 +12105,125 @@
           
 
         </place>
+        <place xml:id="pmb232840">
+          
+  
+          <placeName>Museo Civico</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Museo di Storia Naturale di Venezia</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>45,441986 12,327918</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb462">Venedig</placeName>
+            
+  
+            <geo>45,43713 12,33265</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/232840/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3867834</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Museo_civico_di_storia_naturale_di_Venezia</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb232840.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb232830">
+          
+  
+          <placeName>Ca’ d’Oro</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>45,440555555556 12,333888888889</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb462">Venedig</placeName>
+            
+  
+            <geo>45,43713 12,33265</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/232830/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q820872</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ca%E2%80%99_d%E2%80%99Oro</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb232830.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb232800">
           
   
@@ -10861,6 +12343,70 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb232701.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb232611">
+          
+  
+          <placeName>Mineralogisches Museum der Universität Wien</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,213035 16,36067</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb386">Universität Wien</placeName>
+            
+  
+            <geo>48,213018714231 16,36086067999</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/232611/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb232611.html</idno>
           
 
           <listBibl>
@@ -11001,6 +12547,64 @@
           
 
         </place>
+        <place xml:id="pmb232183">
+          
+  
+          <placeName>Hohenzollern­museum</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>52,523333 13,396667</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb168">Berlin</placeName>
+            
+  
+            <geo>52,52437 13,41053</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/232183/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q131143711</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb232183.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb231864">
           
   
@@ -11114,6 +12718,381 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb231623.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb231514">
+          
+  
+          <placeName>Bargello</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>43,770462 11,25787</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb263">Florenz</placeName>
+            
+  
+            <geo>43,77925 11,24626</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231514/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q388448</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/131520-1</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Bargello</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb231514.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb231451">
+          
+  
+          <placeName>Palazzo Doria-Pamphilj</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>41,89779167 12,48138056</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb445">Rom</placeName>
+            
+  
+            <geo>41,89193 12,51133</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231451/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q385387</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4580180-0</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Palazzo_Doria-Pamphilj</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb231451.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb231434">
+          
+  
+          <placeName>Villa Borghese Pinciana</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>41,914194 12,492194</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb90384">Villa Borghese [Park]</placeName>
+            
+  
+            <geo>41,91289 12,48521</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb445">Rom</placeName>
+            
+  
+            <geo>41,89193 12,51133</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231434/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1222097</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb231434.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb231425">
+          
+  
+          <placeName>Palazzo dei Conservatori</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>41,89299722 12,48281111</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb445">Rom</placeName>
+            
+  
+            <geo>41,89193 12,51133</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231425/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q64103</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4224553-9</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Konservatorenpalast</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb231425.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb231410">
+          
+  
+          <placeName>Stanzen des Raffael</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>41,903611 12,456389</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb445">Rom</placeName>
+            
+  
+            <geo>41,89193 12,51133</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231410/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q249449</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/112538641X</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Stanzen_des_Raffael</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb231410.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb231385">
+          
+  
+          <placeName>Palazzo Bianco</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>44,41158333 8,93197222</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb994">Genua</placeName>
+            
+  
+            <geo>44,40478 8,94439</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231385/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1808872</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4841641-1</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Palazzo_Bianco</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb231385.html</idno>
           
 
           <listBibl>
@@ -11894,6 +13873,369 @@
           
 
         </place>
+        <place xml:id="pmb200987">
+          
+  
+          <placeName>Palazzo della Pilotta</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>44,804926 10,326201</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb44210">Parma</placeName>
+            
+  
+            <geo>44,79935 10,32618</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200987/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q822085</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4454145-4</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Palazzo_della_Pilotta</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb200987.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb200959">
+          
+  
+          <placeName>Gletschergarten Luzern</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>47,058888888889 8,3104166666667</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb967">Luzern</placeName>
+            
+  
+            <geo>47,05048 8,30635</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200959/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1531237</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2083511-5</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gletschergarten_Luzern</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb200959.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb200942">
+          
+  
+          <placeName>Historisches Museum Basel</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>47,55444444444444 7,5905555555555555</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb854">Basel</placeName>
+            
+  
+            <geo>47,55839 7,57327</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200942/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q386286</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/13714-5</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Historisches_Museum_Basel</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb200942.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb200939">
+          
+  
+          <placeName>Kunstmuseum Basel [Augustinergasse 2]</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>47,557681 7,590458</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb854">Basel</placeName>
+            
+  
+            <geo>47,55839 7,57327</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200939/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1464029</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Museum_an_der_Augustinergasse</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb200939.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb200926">
+          
+  
+          <placeName>Salzburg Museum</placeName>
+          
+  
+          <placeName type="ort_fruherer-name">Carolino Augusteum</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>47,79861111 13,04777778</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb30">Salzburg</placeName>
+            
+  
+            <geo>47,80067 13,04532</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200926/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2215920</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/10173437-2</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Salzburg_Museum</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb200926.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb200910">
+          
+  
+          <placeName>Altes Joanneum</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>47,0688 15,4381</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb860">Graz</placeName>
+            
+  
+            <geo>47,06667 15,43333</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200910/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q14545365</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Altes_Joanneum</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb200910.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb200766">
           
   
@@ -12095,6 +14437,64 @@
           
 
         </place>
+        <place xml:id="pmb200131">
+          
+  
+          <placeName>Musée Guimet</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,86527777777778 2,2938888888888886</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb182">Paris</placeName>
+            
+  
+            <geo>48,85341 2,3488</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200131/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q860994</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Mus%C3%A9e_Guimet</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb200131.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb199854">
           
   
@@ -12141,6 +14541,128 @@
             
     
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb199753">
+          
+  
+          <placeName>Oslo Kunstforening</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>59,9177 10,7393</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb36296">Oslo</placeName>
+            
+  
+            <geo>59,91273 10,74609</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199753/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3441348</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb199753.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb199721">
+          
+  
+          <placeName>Det Hanseatiske Museum og Schøtstuene</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Hanseatisches Museum und Schötstuben</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>60,3959 5,326</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb119747">Bergen [Norwegen]</placeName>
+            
+  
+            <geo>60,392777 5,323888</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hanseatisches_Museum_und_Sch%C3%B6tstuben</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199721/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5651003</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16106745-1</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb199721.html</idno>
+          
+
+          <listBibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -12522,6 +15044,128 @@
           
 
         </place>
+        <place xml:id="pmb199253">
+          
+  
+          <placeName>Staatliche Graphische Sammlung München</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,14444444 11,56666667</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45258">München</placeName>
+            
+  
+            <geo>48,13743 11,57549</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199253/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q464404</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2022332-8</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Staatliche_Graphische_Sammlung_M%C3%BCnchen</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb199253.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb199200">
+          
+  
+          <placeName>Germanisches Nationalmuseum</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>49,448333 11,075556</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb44172">Nürnberg</placeName>
+            
+  
+            <geo>49,45421 11,07752</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199200/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q478695</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/36441-1</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Germanisches_Nationalmuseum</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb199200.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb199044">
           
   
@@ -12834,6 +15478,64 @@
           
 
         </place>
+        <place xml:id="pmb194970">
+          
+  
+          <placeName>Schack-Galerie München</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,14641 11,56255</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45258">München</placeName>
+            
+  
+            <geo>48,13743 11,57549</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/194970/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q100883260</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Alte_Schackgalerie</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb194970.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb194841">
           
   
@@ -12947,6 +15649,134 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb192844.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb192810">
+          
+  
+          <placeName>Geburtshaus von Tizian</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>46,42795 12,37528</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb34112">Pieve di Cadore</placeName>
+            
+  
+            <geo>46,42302 12,361</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192810/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q29904974</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb192810.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb192714">
+          
+  
+          <placeName>Vivarium</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,2144 16,3931</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb8">Prater</placeName>
+            
+  
+            <geo>48,194558 16,430054</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb52">II., Leopoldstadt</placeName>
+            
+  
+            <geo>48,21667 16,4</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192714/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2529001</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Vivarium_(Prater)</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb192714.html</idno>
           
 
           <listBibl>
@@ -21784,6 +24614,67 @@
           
 
         </place>
+        <place xml:id="pmb185374">
+          
+  
+          <placeName>Madame Tussauds</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>51,52279 -0,15517</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb224">London</placeName>
+            
+  
+            <geo>51,50853 -0,12574</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185374/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q186309</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/5515268-5</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Madame_Tussauds</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb185374.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb185341">
           
   
@@ -22245,6 +25136,64 @@
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb185232">
+          
+  
+          <placeName>Hunterian Museum</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>51,51527778 -0,11583333</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb224">London</placeName>
+            
+  
+            <geo>51,50853 -0,12574</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185232/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q48032180</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb185232.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -22925,6 +25874,79 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb185031.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb184674">
+          
+  
+          <placeName>Künstlerhaus am Lenbachplatz</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,1400253963218 11,5677720237734</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45258">München</placeName>
+            
+  
+            <geo>48,13743 11,57549</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb288436">Lenbachplatz</placeName>
+            
+  
+            <geo>48,1408 11,5686</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184674/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q188101</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4614171-6</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%BCnstlerhaus_am_Lenbachplatz</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb184674.html</idno>
           
 
           <listBibl>
@@ -25759,6 +28781,73 @@
           
 
         </place>
+        <place xml:id="pmb147771">
+          
+  
+          <placeName>Pinacoteca Nazionale di Bologna</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>44,4977 11,353469</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb896">Bologna</placeName>
+            
+  
+            <geo>44,49381 11,33875</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147771/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1103550</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Pinacoteca_Nazionale_di_Bologna</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147771.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb147771.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1802-01-01" when-iso="1802-01-01">1802</date>
+            
+
+          </note>
+          
+
+        </place>
         <place xml:id="pmb147768">
           
   
@@ -26697,6 +29786,67 @@
           
 
         </place>
+        <place xml:id="pmb92567">
+          
+  
+          <placeName>Thorvaldsen-Museum</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>55,6767 12,5783</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb36300">Kopenhagen</placeName>
+            
+  
+            <geo>55,67594 12,56553</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92567/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92567.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1992413</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Thorvaldsen-Museum</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92567.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb92564">
           
   
@@ -27451,6 +30601,76 @@
           
 
         </place>
+        <place xml:id="pmb92249">
+          
+  
+          <placeName>Liechtenstein’sche Gemäldegalerie</placeName>
+          
+  
+          <placeName type="legacy-name-merge">Liechtenstein’sche Gemäldegalerie</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,22265 16,359758</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb59">IX., Alsergrund</placeName>
+            
+  
+            <geo>48,22387 16,35641</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92249/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92249.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200789/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q130640762</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92249.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+  
+          <note type="references">None</note>
+          
+
+        </place>
         <place xml:id="pmb92224">
           
   
@@ -27886,6 +31106,73 @@
               
   
             </figure>
+            
+
+          </note>
+          
+
+        </place>
+        <place xml:id="pmb62289">
+          
+  
+          <placeName>Drottningholms Slottsteater</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>59,321667 17,886944</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb62282">Drottningholm</placeName>
+            
+  
+            <geo>59,32513 17,8878</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62289/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3058143</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Schlosstheater_Drottningholm</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb62289.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb62289.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1766-01-01" when-iso="1766-01-01">1766</date>
             
 
           </note>
@@ -28731,6 +32018,76 @@
           
 
         </place>
+        <place xml:id="pmb50785">
+          
+  
+          <placeName>Accademia di Belle Arti [Florenz]</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>43,776907 11,258475</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb263">Florenz</placeName>
+            
+  
+            <geo>43,77925 11,24626</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50785/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q10855544</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Accademia_di_Belle_Arti_(Florenz)</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50785.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb50785.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1563-01-01" when-iso="1563-01-01">1563</date>
+            
+
+          </note>
+          
+
+        </place>
         <place xml:id="pmb48198">
           
   
@@ -29214,6 +32571,64 @@
             
 
           </note>
+          
+
+        </place>
+        <place xml:id="pmb45229">
+          
+  
+          <placeName>Maison Bonaparte</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>41,91802 8,73854</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb847">Ajaccio</placeName>
+            
+  
+            <geo>41,91886 8,73812</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45229/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3124818</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Maison_Bonaparte</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45229.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb45229.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
           
 
         </place>
@@ -30275,6 +33690,70 @@
           
 
         </place>
+        <place xml:id="pmb43220">
+          
+  
+          <placeName>Gallerie dell’Accademia</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>45,431245 12,32798</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb462">Venedig</placeName>
+            
+  
+            <geo>45,43713 12,33265</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43220/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q338330</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Accademia_(Venedig)</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb43220.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1882-01-01" when-iso="1882-01-01">1882</date>
+            
+
+          </note>
+          
+
+        </place>
         <place xml:id="pmb42626">
           
   
@@ -30336,6 +33815,67 @@
             
 
           </note>
+          
+
+        </place>
+        <place xml:id="pmb41949">
+          
+  
+          <placeName>Engelsburg</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>41,903056 12,466389</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb445">Rom</placeName>
+            
+  
+            <geo>41,89193 12,51133</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41949/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q486382</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Engelsburg</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41949.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb41949.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
           
 
         </place>
@@ -30889,6 +34429,61 @@
             
 
           </note>
+          
+
+        </place>
+        <place xml:id="pmb39678">
+          
+  
+          <placeName>Musée du Louvre</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,8625 2,336389</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb182">Paris</placeName>
+            
+  
+            <geo>48,85341 2,3488</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39678/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39678.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb39678.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
           
 
         </place>
@@ -33223,6 +36818,76 @@
           
 
         </place>
+        <place xml:id="pmb1021">
+          
+  
+          <placeName>Künstlerhaus [Salzburg]</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>47,796803 13,054731</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb30">Salzburg</placeName>
+            
+  
+            <geo>47,80067 13,04532</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb1021.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1021/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1797144</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%BCnstlerhaus_Salzburg</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1021.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1885-01-01" when-iso="1885-01-01">1885</date>
+            
+
+          </note>
+          
+
+        </place>
         <place xml:id="pmb1013">
           
   
@@ -33369,6 +37034,67 @@
             
 
           </note>
+          
+
+        </place>
+        <place xml:id="pmb970">
+          
+  
+          <placeName>Uffizien</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>43,768439 11,2559</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb263">Florenz</placeName>
+            
+  
+            <geo>43,77925 11,24626</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q51252</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb970.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/970/</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Uffizien</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb970.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb970.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
           
 
         </place>
@@ -37885,6 +41611,67 @@
           
 
         </place>
+        <place xml:id="pmb511">
+          
+  
+          <placeName>Alte Pinakothek</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,148333 11,571111</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45258">München</placeName>
+            
+  
+            <geo>48,13743 11,57549</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb511.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q154568</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Alte_Pinakothek</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb511.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb511.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb497">
           
   
@@ -38978,6 +42765,61 @@
             
 
           </note>
+          
+
+        </place>
+        <place xml:id="pmb356">
+          
+  
+          <placeName>Vatikanische Museen</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>41,906456 12,454347</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb1002">Vatikan</placeName>
+            
+  
+            <geo>41,90225 12,4533</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/356/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q182955</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Vatikanische_Museen</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb356.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
           
 
         </place>
@@ -40379,6 +44221,131 @@
           
 
         </place>
+        <place xml:id="pmb192">
+          
+  
+          <placeName>Schillerhaus</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>50,978936 11,327767</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb197">Weimar</placeName>
+            
+  
+            <geo>50,97361 11,33806</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb192.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1325723</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Schillerhaus_Weimar</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb192.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb191">
+          
+  
+          <placeName>Goethes Wohnhaus</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>50,9775 11,328611</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb197">Weimar</placeName>
+            
+  
+            <geo>50,97361 11,33806</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb191.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/191/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q882721</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Goethes_Wohnhaus</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb191.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb191.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb189">
           
   
@@ -40854,6 +44821,9 @@
           <placeName type="alternative-name">Frankfurt/Main</placeName>
           
   
+          <placeName type="legacy-name-merge">Frankfurt a. M\:</placeName>
+          
+  
           <desc type="entity_type">P.PPLA3</desc>
           
   
@@ -40927,6 +44897,9 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb146.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261820/</idno>
           
 
           <listBibl>
@@ -41522,6 +45495,122 @@
             
 
           </note>
+          
+
+        </place>
+        <place xml:id="pmb102">
+          
+  
+          <placeName>Glyptothek</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,146292 11,565637</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45258">München</placeName>
+            
+  
+            <geo>48,13743 11,57549</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q162077</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb102.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/102/</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Glyptothek_(M%C3%BCnchen)</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb102.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb101">
+          
+  
+          <placeName>Neue Pinakothek</placeName>
+          
+  
+          <desc type="entity_type">Museum (K.MUS)</desc>
+          
+  
+          <desc type="entity_type_id">8</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,149722 11,571111</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45258">München</placeName>
+            
+  
+            <geo>48,13743 11,57549</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q170152</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb101.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/101/</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Neue_Pinakothek</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb101.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
           
 
         </place>
