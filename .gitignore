@@ -6,7 +6,7 @@ CLAUDE.md
 .DS_Store
 
 # Generated files
-html/
+html/*
 !html/js/
 !html/css/
 !html/images/
