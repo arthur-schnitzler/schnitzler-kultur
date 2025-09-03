@@ -18,6 +18,9 @@
     <item type="anderes">
         <description>Ausstellungsbesuch</description>
     </item>
+    <item type="anderes">
+        <description>Museumsbesuch</description>
+    </item>
     <item type="Theater">
         <description>Generalprobe</description>
     </item>
@@ -299,5 +302,8 @@
     </item>
     <item type="Film">
         <description>Filmpremiere</description>
+    </item>
+    <item type="Film">
+        <description>Panoramabesuch</description>
     </item>
 </list>

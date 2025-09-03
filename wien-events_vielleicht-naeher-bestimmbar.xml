@@ -1939,14 +1939,6 @@ näher bestimmbar sind (z. B. Filmvorführungen ohne Nennung des Films). -->
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210503/</idno>
     </event>
     <event>
-        <eventName n="Sinfoniekonzert">Symphoniekonzert, 8.1.1903</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209275/</idno>
-    </event>
-    <event>
-        <eventName n="Vorlesung">Vorlesung, 8.11.1900</eventName>
-        <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209168/</idno>
-    </event>
-    <event>
         <eventName n="Liederkonzert">Konzert der Singspielhalle Böhm, 6.10.1892</eventName>
         <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208576/</idno>
     </event>

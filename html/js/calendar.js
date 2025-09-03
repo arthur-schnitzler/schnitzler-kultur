@@ -957,7 +957,7 @@ class SimpleCalendar {
       return 'Theater';
     } else if (name.includes('konzert') || name.includes('musik') || name.includes('oper') || name.includes('quartett')) {
       return 'Musik';
-    } else if (name.includes('film') || name.includes('kino')) {
+    } else if (name.includes('film') || name.includes('kino')) || name.includes('panoramabesuch')) {
       return 'Film';
     } else if (name.includes('vortrag') || name.includes('lesung') || name.includes('vorlesung')) {
       return 'Vortrag';

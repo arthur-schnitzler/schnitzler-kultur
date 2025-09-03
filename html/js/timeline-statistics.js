@@ -70,7 +70,7 @@ function getEventCategory(event) {
     } else if (type.includes('konzert') || type.includes('musik') || type.includes('oper') || type.includes('quartett') ||
                name.includes('konzert') || name.includes('musik') || name.includes('oper') || name.includes('quartett')) {
         return 'Musik';
-    } else if (type.includes('film') || type.includes('kino') || name.includes('film') || name.includes('kino')) {
+    } else if (type.includes('film') || type.includes('kino') || name.includes('film') || name.includes('kino') || type.includes('panoramabesuch') || name.includes('panoramabesuch')) {
         return 'Film';
     } else if (type.includes('vortrag') || type.includes('lesung') || type.includes('vorlesung') ||
                name.includes('vortrag') || name.includes('lesung') || name.includes('vorlesung')) {
@@ -80,7 +80,7 @@ function getEventCategory(event) {
         return 'Privatveranstaltung';
     } else if (type.includes('empfang') || type.includes('fest') || type.includes('feier') || type.includes('vereinstreffen') ||
                name.includes('empfang') || name.includes('fest') || name.includes('feier') || name.includes('vereinstreffen') ||
-               type.includes('ausstellung') || name.includes('ausstellung')) {
+               type.includes('ausstellung') || name.includes('ausstellung') || type.includes('museumsbesuch') || name.includes('museumsbesuch')) {
         return 'anderes';
     }
     

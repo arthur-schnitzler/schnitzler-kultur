@@ -29,7 +29,7 @@ jobs:
 
       - name: Download Saxon HE 10.8 (fat JAR)
         run: |
-          mkdir saxon
+          mkdir -p saxon
           curl -L -o saxon/saxon-he.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/10.8/Saxon-HE-10.8.jar
 
       - name: Create data directory
