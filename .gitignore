@@ -7,6 +7,13 @@ CLAUDE.md
 
 # Generated files
 html/
+!html/js/
+!html/css/
+!html/images/
+!html/js-data/
+html/js-data/*
+!html/js-data/calendarData.js
+!html/js-data/charts_by_year.json
 
 # Saxon JAR directory
 saxon/
