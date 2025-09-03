@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-08-25">serialized</change>
+      <change when-iso="2025-09-03">serialized</change>
       
        
     </revisionDesc>
@@ -7090,7 +7090,7 @@
         <org xml:id="pmb186959">
           
   
-          <orgName>Jung Wien [Ansätze zu einem literarischen Verein]</orgName>
+          <orgName>Jung Wien [März/April 1890]</orgName>
           
   
           <desc type="entity_type">Literarische Vereinigung</desc>
@@ -10743,6 +10743,9 @@
   
             <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb146.html</note>
             
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261820/</note>
+            
 
           </location>
           
@@ -13964,6 +13967,9 @@
             
   
             <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb146.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261820/</note>
             
 
           </location>
