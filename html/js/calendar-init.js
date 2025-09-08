@@ -6,6 +6,18 @@ let years = [];
 
 // Wait for DOM to be ready
 document.addEventListener('DOMContentLoaded', function() {
+    // Check if SimpleCalendar is available
+    if (typeof SimpleCalendar === 'undefined') {
+        console.error('SimpleCalendar class is not available');
+        return;
+    }
+    
+    // Check if calendarData is available
+    if (typeof calendarData === 'undefined') {
+        console.error('calendarData is not available');
+        return;
+    }
+    
     // Extract years from calendar data and sort numerically
     years = Array.from(new Set(calendarData.map(function(item) {
         return parseInt(item.startDate.split('-')[0]);
@@ -75,6 +87,12 @@ function setupSidebar() {
 }
 
 function updateYear(year) {
+    // Check if calendar is initialized
+    if (!calendar || typeof calendar.setYear !== 'function') {
+        console.error('Calendar is not properly initialized');
+        return;
+    }
+    
     // Update button states
     document.querySelectorAll('.yearbtn').forEach(function(btn) {
         btn.classList.remove('focus');
