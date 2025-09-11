@@ -61,7 +61,7 @@
                                 1876 und 1931 besuchte und macht sie zugänglich. Das umfasst alle Veranstaltungen, 
                                 bei denen er selbst tätig wurde, wie seine seltenen öffentlichen Lesungen. Es umfasst 
                                 auch die Lesungen aus seinen (zumeist noch unveröffentlichten) Werken im privaten Kreis. 
-                               Somit sind erstmals auch alle  kommen alle Theaterproben, Besuche im Kaiserpanorama, Bälle und 
+                               Somit sind erstmals auch alle Theaterproben, Besuche im Kaiserpanorama, Bälle und 
                                 Soiréen schnell auffindbar.
                             </p>
                             
