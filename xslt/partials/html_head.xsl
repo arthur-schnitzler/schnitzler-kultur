@@ -31,5 +31,24 @@
         <link rel="manifest" href="images/site.webmanifest"/>
         <meta name="msapplication-TileImage" content="images/mstile-150x150.png"/>
         <meta name="msapplication-TileColor" content="#ffffff"/>
+        <!-- Matomo -->
+        <script type="text/javascript">
+            var _paq = _paq ||[];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push([ 'trackPageView']);
+            _paq.push([ 'enableLinkTracking']);
+            (function () {
+                var u = "https://matomo.acdh.oeaw.ac.at/";
+                _paq.push([ 'setTrackerUrl', u + 'piwik.php']);
+                _paq.push([ 'setSiteId', '289']);<!--
+                171 is Matomo Code schnitzler - briefe//-->
+            var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+            g.type = 'text/javascript';
+            g. async = true;
+            g.defer = true;
+            g.src = u + 'piwik.js';
+            s.parentNode.insertBefore(g, s);
+        })();</script>
+        <!-- End Matomo Code -->
     </xsl:template>
 </xsl:stylesheet>
