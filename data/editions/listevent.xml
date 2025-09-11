@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-09-03">serialized</change>
+          <change when-iso="2025-09-11">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -168689,6 +168689,13 @@
         </listPlace>
     </event><event xml:id="pmb118221" when-iso="1890-04-02">
         <eventName n="Vereinstreffen">Planung eines Vereins Jung Wien, 2.4.1890</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb186959">Jung Wien [März/April 1890]</orgName>
+                </org>
+            </listOrg>
+        </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/118221/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -171031,6 +171038,9 @@
             </person>
             <person role="hat als Teilnehmer:in">
                 <persName key="pmb24423">Schnitzler, Helene</persName>
+            </person>
+            <person role="hat als Teilnehmer:in">
+                <persName key="pmb13212">Zweig, Stefan</persName>
             </person>
         </listPerson>
         <listPlace>
