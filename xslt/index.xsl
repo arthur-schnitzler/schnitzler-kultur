@@ -8,14 +8,12 @@
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:template match="/">
-        <xsl:variable name="doc_title">
-            <xsl:value-of select="descendant::tei:titleStmt/tei:title[@level = 'a'][1]/text()"/>
-        </xsl:variable>
+        
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
         <html xmlns="http://www.w3.org/1999/xhtml" style="hyphens: auto;" lang="de" xml:lang="de">
             <head>
                 <xsl:call-template name="html_head">
-                    <xsl:with-param name="html_title" select="$doc_title"/>
+                    <xsl:with-param name="html_title" select="'Schnitzler: Kulturveranstaltungen'"/>
                 </xsl:call-template>
             </head>
             <body class="page" style="background-color:#f1f1f1;">
