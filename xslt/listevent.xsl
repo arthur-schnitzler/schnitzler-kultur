@@ -47,7 +47,7 @@
                                     <th scope="col" tabulator-headerFilter="input"
                                         tabulator-formatter="html">Typ</th>
                                     <th scope="col" tabulator-headerFilter="input"
-                                        tabulator-formatter="html">Arbeitskraft</th>
+                                        tabulator-formatter="html">Mitwirkende</th>
                                     <th scope="col" tabulator-headerFilter="input"
                                         tabulator-formatter="html">Teilnehmer_innen</th>
                                     <th scope="col" tabulator-headerFilter="input"
@@ -113,15 +113,15 @@
                                         </td>
                                         <td>
                                             <xsl:if
-                                                test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft']/tei:persName/@key = 'pmb2121'">
+                                                test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' or @role = 'hat als mitwirkend']/tei:persName/@key = 'pmb2121'">
                                                 <xsl:text>AS</xsl:text>
                                                 <xsl:if
-                                                    test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft'][2]">
+                                                    test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' or @role = 'hat als mitwirkend'][2]">
                                                     <xsl:text>; </xsl:text>
                                                 </xsl:if>
                                             </xsl:if>
                                             <xsl:for-each
-                                                select="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' and not(tei:persName/@key = 'pmb2121')]">
+                                                select="tei:listPerson/tei:person[(@role = 'hat als Arbeitskraft' or @role = 'hat als mitwirkend') and not(tei:persName/@key = 'pmb2121')]">
                                                 <xsl:variable name="name" select="tei:persName"/>
                                                 <xsl:choose>
                                                     <!-- Wenn genau ein Komma enthalten ist -->

@@ -12,11 +12,11 @@ var table = new Tabulator("#tabulator-table-org", {
     columns:[ 
             { title: "Name", field: "name", sorter: "string" },
             { title: "Namensvarianten", field: "namensvarianten", sorter: "string" },
-            { title: "Zugehörigkeiten", field: "zugehoerigkeiten", sorter: "string" },
+            { title: "Ort", field: "ort", sorter: "string" },
             { title: "Typ", field: "typ", sorter: "string" }
             ],
             initialSort: [
-            { column: "zugehoerigkeiten", dir: "asc" },
+            { column: "ort", dir: "asc" },
             { column: "name", dir: "asc" }
             ],
             langs: {
