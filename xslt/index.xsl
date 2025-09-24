@@ -55,11 +55,11 @@
                                 id="body"/>
                             <p class="mt-3">Theateraufführungen, Konzerte, Premieren, Kinoabende und andere Veranstaltungen – mehr als zweimal jede
                                 Woche war Arthur Schnitzler unterwegs und nahm am kulturellen Leben teil. Diese Website versammelt 
-                                erstmals knapp 5800 öffentliche Ereignisse, die er zwischen 
-                                1876 und 1931 besuchte und macht sie zugänglich. Das umfasst alle Veranstaltungen, 
+                                erstmals über 6200 öffentliche Ereignisse, die er zwischen 
+                                1876 und 1931 besuchte, und macht sie zugänglich. Das umfasst alle Veranstaltungen, 
                                 bei denen er selbst tätig wurde, wie seine seltenen öffentlichen Lesungen. Es umfasst 
                                 auch die Lesungen aus seinen (zumeist noch unveröffentlichten) Werken im privaten Kreis. 
-                               Somit sind erstmals auch alle Theaterproben, Besuche im Kaiserpanorama, Bälle und 
+                               Erstmals sind alle Theaterproben, Besuche im Kaiserpanorama, Bälle und 
                                 Soiréen schnell auffindbar.
                             </p>
                             
@@ -81,7 +81,7 @@
                                     <div class="card index-card">
                                         <div class="card-body">
                                             <img class="d-block w-100"
-                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/calendar.jpg"
+                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/kalender.jpg"
                                                 title="Detail aus http://www.ifm-wolfen.de/index.php?id=110005000534 CC BY-NC-SA"
                                                 alt="Kalenderdetail"/>
                                         </div>
