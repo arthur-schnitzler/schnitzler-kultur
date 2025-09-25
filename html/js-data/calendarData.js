@@ -1,5 +1,11 @@
 var calendarData = [
   {
+    "name": "Ball bei Schlesinger, 26.1.1884", "startDate": "1884-01-26", "id": "pmb298347.html", "type": "Ball"
+  },
+  {
+    "name": "Ball bei Schlesinger, 7.3.1895", "startDate": "1895-03-07", "id": "pmb298343.html", "type": "Ball"
+  },
+  {
     "name": "Besuch der Neuen Staatsgalerie, 7.5.1921", "startDate": "1921-05-07", "id": "pmb298224.html", "type": "Museumsbesuch"
   },
   {
@@ -14871,13 +14877,13 @@ var calendarData = [
     "name": "Premiere von Mein Kamerad. Posse in fünf Acten, 29.1.1884", "startDate": "1884-01-29", "id": "pmb207842.html", "type": "Theaterpremiere"
   },
   {
-    "name": "Hausball bei Alexander Scharf, 28.1.1884", "startDate": "1884-01-28", "id": "pmb207841.html", "type": "Hausball"
+    "name": "Hausball bei Alexander Scharf, 30.1.1884", "startDate": "1884-01-30", "id": "pmb207841.html", "type": "Hausball"
   },
   {
-    "name": "Technikerball, 26.1.1884", "startDate": "1884-01-26", "id": "pmb207840.html", "type": "Ball"
+    "name": "Technikerball, 28.1.1884", "startDate": "1884-01-28", "id": "pmb207840.html", "type": "Ball"
   },
   {
-    "name": "Aufführung von Medea. Trauerspiel in fünf Aufzügen, 25.1.1884", "startDate": "1884-01-25", "id": "pmb207839.html", "type": "Theateraufführung"
+    "name": "Aufführung von Medea. Trauerspiel in fünf Aufzügen, 27.1.1884", "startDate": "1884-01-27", "id": "pmb207839.html", "type": "Theateraufführung"
   },
   {
     "name": "Hausball bei Julius Schlesinger, 24.1.1884", "startDate": "1884-01-24", "id": "pmb207838.html", "type": "Hausball"
@@ -16239,7 +16245,7 @@ var calendarData = [
     "name": "Aufführung von Fatinitza, 27.3.1877", "startDate": "1877-03-27", "id": "pmb207382.html", "type": "Theateraufführung"
   },
   {
-    "name": "Vortrag Prof. Arnberg über Elektrizität, 22.3.1877", "startDate": "1877-03-22", "id": "pmb207381.html", "type": "Vortrag"
+    "name": "Vortrag von Gustav Amberg über Elektrizität, 22.3.1877", "startDate": "1877-03-22", "id": "pmb207381.html", "type": "Vortrag"
   },
   {
     "name": "Vortrag von Johann Schnitzler über den Hals, 21.2.1877", "startDate": "1877-02-21", "id": "pmb207380.html", "type": "Vortrag"
