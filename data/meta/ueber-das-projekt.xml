@@ -17,42 +17,53 @@
     </teiHeader>
     <text>
         <body>
-            <p>Im Nachlass von Arthur Schnitzler (1862–1931) in der Cambridge University Library sind unter
-                den Signaturen A 179a und A 179b zwei Mappen überliefert, die Schnitzler selbst beschriftet hat mit
-            »Theaterbesuche«. Sie enthalten auf 200 maschingeschriebenen Seiten Angaben zu kulturellen Veranstaltungen, die Schnitzler bis 1928
-            besuchte. Was Schnitzler als »Theaterbesuch« bezeichnet, erweist sich unmittelbar als unpräzise:
-            Konzertbesuche, Hochzeiten und Bälle
-            und Ähnliches hat er ebenfalls berücksichtigt. Die Konsequenz daraus ist, dass in der vorliegenden Auswertung dieser Liste von »Kulturveranstaltungen« gesprochen wird, um 
-            den breiter gefächerten Veranstaltungstypen gerecht zu werden.</p>
-            <p>Bei der Erschließung der Liste erwies sich, dass sie viele
-                Veranstaltungen enthielt, die im Tagebuch keine Erwähnung fanden. Es zeigte sich zudem, dass  
-                bei der Zusammenstellung der Liste häufig Fehler passiert sind und Veranstaltungen einen Tag vor oder nach
-                dem tatsächlichen Ereignis eingetragen sind. In vielen Fällen erlaubte das Tagebuch oder der Blick in die
-                 Tageszeitungen vom jeweiligen Tag, eine Korrektur vorzunehmen.</p>
-            <p>Neben den nicht immer verlässlichen Datierungen stellt die Unvollständigkeit der Daten ein Problem dar, da manchmal Konzertbesuche nur im Tagebuch, nicht aber in der »Theaterliste« zu finden sind. Auch endet
-            der erschlossene Zeitraum drei Jahre vor Schnitzlers Tod. Wir haben uns entschieden, sowohl den Zeitraum auf Schnitzlers
-            ganzes Leben auszudehnen, als auch Fehler stillschweigend zu korrigieren und Fehlendes stillschweigend zu ergänzen: der Schwerpunkt
-            liegt damit nicht auf der Edition der Liste, sondern einer historisch möglichst vollständigen Rekonstruktion von 
-            Schnitzlers kulturellen Aktivitäten.</p>
-            <p>Zugleich mit der Erschließung wurden auch drei weitere Listen im Nachlass berücksichtigt, die eine große Überschneidung
-                mit der Liste »A 179« aufweisen, vom Umfang aber nicht an diese heranreichen:</p>
-            <list><item>Mappe 176,1 und 4: »Aufführungen eigener Stücke in meiner Anwesenheit«</item>
+            <p>Im Nachlass von Arthur Schnitzler (1862–1931) in der Cambridge University Library
+                sind unter den Signaturen A 179a und A 179b zwei Mappen überliefert, die Schnitzler
+                selbst mit »Theaterbesuche« beschriftet hat. Sie enthalten auf 200
+                maschinengeschriebenen Seiten Angaben zu kulturellen Veranstaltungen, die Schnitzler
+                bis 1928 besuchte. Was Schnitzler als »Theaterbesuch« bezeichnete, erweist sich
+                unmittelbar als unpräzise: Konzertbesuche, Hochzeiten, Bälle und Ähnliches hat er
+                ebenfalls berücksichtigt. Die Konsequenz daraus ist, dass in der vorliegenden
+                Auswertung dieser Liste von »Kulturveranstaltungen« gesprochen wird, um den breiter
+                gefächerten Veranstaltungstypen gerecht zu werden.</p>
+            <p>Bei der Erschließung der Liste erwies sich, dass sie viele Veranstaltungen enthielt,
+                die im Tagebuch keine Erwähnung fanden. Es zeigte sich zudem, dass bei der
+                Zusammenstellung der Liste häufig Fehler passierten und Veranstaltungen einen Tag
+                vor oder nach dem tatsächlichen Ereignis eingetragen sind. In vielen Fällen erlaubte
+                das Tagebuch oder der Blick in die Tageszeitungen vom jeweiligen Tag, eine Korrektur
+                vorzunehmen.</p>
+            <p>Neben den nicht immer verlässlichen Datierungen stellt die Unvollständigkeit der
+                Daten ein Problem dar, da manchmal Konzertbesuche nur im Tagebuch, nicht aber in der
+                »Theaterliste« zu finden sind. Auch endet der erschlossene Zeitraum drei Jahre vor
+                Schnitzlers Tod. Wir haben uns entschieden, sowohl den Zeitraum auf Schnitzlers
+                ganzes Leben auszudehnen, als auch Fehler stillschweigend zu korrigieren und
+                Fehlendes stillschweigend zu ergänzen. Der Schwerpunkt liegt damit nicht auf der
+                Edition der Liste, sondern einer historisch möglichst vollständigen Rekonstruktion
+                von Schnitzlers kulturellen Aktivitäten.</p>
+            <p>Zugleich mit der Erschließung wurden auch drei weitere Listen im Nachlass
+                berücksichtigt, die eine große Überschneidung mit der Liste A 179 aufweisen, vom
+                Umfang aber nicht an diese heranreichen:</p>
+            <list>
+                <item>Mappe 176,1 und 4: »Aufführungen eigener Stücke in meiner Anwesenheit«</item>
                 <item>Mappe 176,2: »Vorlesungen im privaten Kreise«</item>
                 <item>Mappe 176,3: »Öffentliche Vorlesungen«</item>
-                <item>Mappe 176,5: »Olga singt öffentlich«</item> 
+                <item>Mappe 176,5: »Olga singt öffentlich«</item>
             </list>
-            <p>Zusätzlich zu dem sich auch hier ergebenden Bedarf nach Vervollständigung der von Schnitzler dokumentierten Veranstaltungen wurden weitere Veranstaltungstypen
-                berücksichtigt, die Schnitzler selbst zwar nicht bedeutend genug eingestuft haben dürfte, die aber für die
-                Forschung relevant geworden sind: seine Kinobesuche, seine Besuche im Kaiserpanorama und Museeen und seine Teilnahme an Theaterproben. 
-            </p>
-            <p>Alle Forschungsdaten sind strukturiert verfügbar und mit offener Lizenz auf der Website <ref type="URL" target="https://github.com/arthur-schnitzler/schnitzler-kultur">https://github.com/arthur-schnitzler/schnitzler-kultur</ref>
-            frei zu laden. 
-            </p>
-            <p>Die Theaterliste wurde von uns unter Mitarbeit von Katharina Sophie Kühnel ausgewertet. Die Daten der Kinobesuche wurden
-                uns freundlicherweise von Stephan Kurz und Daniel Schopper zur Verfügung gestellt.</p>
-            <p>Wir freuen uns über Kontaktaufnahme, die Rückfragen, Kritik und Fehlermeldungen enthält, aber auch über Lob, gute Worte und Vorschläge.</p>
-            <p rend="right"><hi rend="italics">Martin Anton Müller, Laura Untner, Sommer 2025</hi></p>
-            
+            <p>Zusätzlich zu dem sich auch hier ergebenden Bedarf nach Vervollständigung der von
+                Schnitzler dokumentierten Veranstaltungen wurden weitere Veranstaltungstypen
+                berücksichtigt, die Schnitzler selbst zwar nicht bedeutend genug eingestuft haben
+                dürfte, die aber für die Forschung relevant geworden sind: seine Kinobesuche, seine
+                Besuche im Kaiserpanorama und in Museeen sowie seine Teilnahme an Theaterproben.</p>
+            <p>Alle Forschungsdaten sind strukturiert verfügbar und mit offener Lizenz unter <ref
+                    type="URL" target="https://github.com/arthur-schnitzler/schnitzler-kultur"
+                    >https://github.com/arthur-schnitzler/schnitzler-kultur</ref> frei zu laden.</p>
+            <p>Die Theaterliste wurde von uns unter Mitarbeit von Katharina Sophie Kühnel
+                ausgewertet. Die Daten der Kinobesuche wurden uns freundlicherweise von Stephan Kurz
+                und Daniel Schopper zur Verfügung gestellt.</p>
+            <p>Wir freuen uns über Kontaktaufnahme, die Rückfragen, Kritik und Fehlermeldungen
+                enthält, aber auch über Lob, gute Worte und Vorschläge.</p>
+            <p rend="right"><hi rend="italics">Martin Anton Müller, Laura Untner, Sommer
+                2025</hi></p>
         </body>
     </text>
 </TEI>
