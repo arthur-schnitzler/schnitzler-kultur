@@ -8,7 +8,7 @@
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:template match="/">
-        
+
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
         <html xmlns="http://www.w3.org/1999/xhtml" style="hyphens: auto;" lang="de" xml:lang="de">
             <head>
@@ -24,10 +24,13 @@
                             <div class="col-md-6 col-lg-6 col-sm-12 wp-intro_left">
                                 <div class="intro_left">
                                     <h3 class="mt-3">Arthur Schnitzler</h3>
-                                    <h1 class="mt-3" style="text-align: left;">Kulturveranstaltungen</h1>
-                                    <h3 class="mt-3">Konzert-, Theater-, Kinobesuche, Lesungen, Proben- und weitere Veranstaltungsteilnahmen. 1876–1931</h3>
+                                    <h1 class="mt-3" style="text-align: left;"
+                                        >Kulturveranstaltungen</h1>
+                                    <h3 class="mt-3">Konzert-, Theater-, Kinobesuche, Lesungen,
+                                        Proben- und weitere Veranstaltungsteilnahmen. 1876–1931</h3>
                                     <h4 style="font-style: italic">Herausgegeben von Martin Anton
-                                        Müller und Laura Untner<lb/>unter Mitarbeit von Katharina Sophie Kühnel</h4>
+                                        Müller und Laura Untner<lb/>unter Mitarbeit von Katharina
+                                        Sophie Kühnel</h4>
                                     <div style="text-align: right">
                                         <a href="#body">
                                             <button class="btn btn-round"
@@ -39,10 +42,10 @@
                             </div>
                             <div class="col-md-6 col-lg-6 col-sm-12">
                                 <div class="intro_right wrapper">
-                                    <img
-                                        src="./images/hero.jpg"
-                                        class="d-block w-100" style="max-width=30%;"
-                                        alt="Arthur Schnitzer mit Alfred Kerr beim Essen, unappetitlich bunt"/>
+                                    <img src="./images/hero.jpg" class="d-block w-100"
+                                        style="max-width=30%;"
+                                        alt="Arthur Schnitzer mit Alfred Kerr beim Essen, unappetitlich bunt"
+                                    />
                                 </div>
                             </div>
                         </div>
@@ -53,16 +56,16 @@
                                 position: relative;
                                 top: -250px; visibility: hidden"
                                 id="body"/>
-                            <p class="mt-3">Theateraufführungen, Konzerte, Premieren, Kinoabende und andere Veranstaltungen – mehr als zweimal jede
-                                Woche war Arthur Schnitzler unterwegs und nahm am kulturellen Leben teil. Diese Website versammelt 
-                                erstmals über 6200 öffentliche Ereignisse, die er zwischen 
-                                1876 und 1931 besuchte, und macht sie zugänglich. Das umfasst alle Veranstaltungen, 
-                                bei denen er selbst tätig wurde, wie seine seltenen öffentlichen Lesungen. Es umfasst 
-                                auch die Lesungen aus seinen (zumeist noch unveröffentlichten) Werken im privaten Kreis. 
-                               Erstmals sind alle Theaterproben, Besuche im Kaiserpanorama, Bälle und 
-                                Soiréen schnell auffindbar.
-                            </p>
-                            
+                            <p class="mt-3">Theateraufführungen, Konzerte, Premieren, Kinoabende und
+                                andere Veranstaltungen – mehr als zweimal pro Woche war Arthur
+                                Schnitzler durchschnittlich unterwegs und nahm am kulturellen Leben
+                                teil. Diese Webseite versammelt erstmals über 6.200 öffentliche
+                                Ereignisse, die er zwischen 1876 und 1931 besuchte, und macht sie
+                                zugänglich. Das umfasst alle Veranstaltungen, bei denen er selbst
+                                tätig wurde, wie seine seltenen öffentlichen Lesungen. Es umfasst
+                                auch die Lesungen aus seinen (zumeist noch unveröffentlichten)
+                                Werken im privaten Kreis. Erstmals sind alle Theaterproben, Besuche
+                                im Kaiserpanorama, Bälle und Soiréen schnell auffindbar.</p>
                             <a href="listevent.html">
                                 <button class="btn btn-round">Zur Liste</button>
                             </a>
@@ -74,8 +77,8 @@
                     </div>
                     <div class="container-fluid" style="margin:2em auto;">
                         <div class="row wrapper img_bottom">
-                            
-                            
+
+
                             <div class="col-md-6 col-lg-6 col-sm-12">
                                 <a href="calendar.html" class="index-link">
                                     <div class="card index-card">
@@ -104,7 +107,8 @@
                                         </div>
                                         <div class="card-header">
                                             <h4>Personen</h4>
-                                            <p>Wer arbeitete an den Veranstaltungen mit? Wer nahm daran teil?</p>
+                                            <p>Wer arbeitete an den Veranstaltungen mit? Wer nahm
+                                                daran teil?</p>
                                         </div>
                                     </div>
                                 </a>
@@ -120,7 +124,7 @@
                                         </div>
                                         <div class="card-header">
                                             <h4>Werkverzeichnis</h4>
-                                            <p>Welche Kunstwerke wurden aufgeführt?</p>
+                                            <p>Welche Werke wurden aufgeführt?</p>
                                         </div>
                                     </div>
                                 </a>
@@ -137,7 +141,7 @@
                                         </div>
                                         <div class="card-header">
                                             <h4>Orte</h4>
-                                            <p>Die Veranstaltungsorte.</p>
+                                            <p>Die Veranstaltungsorte</p>
                                         </div>
                                     </div>
                                 </a>
@@ -152,8 +156,8 @@
                                         </div>
                                         <div class="card-header">
                                             <h4>Institutionen und Organisationen</h4>
-                                            <p>Wer war der veranstaltende Organisation, 
-                                            welche Organisationen waren beteiligt?</p>
+                                            <p>Wer war die veranstaltende Organisation, welche
+                                                Organisationen waren beteiligt?</p>
                                         </div>
                                     </div>
                                 </a>
