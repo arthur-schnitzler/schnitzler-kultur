@@ -29,7 +29,7 @@
                             <p>Diese Statistik zeigt die zeitliche Entwicklung verschiedener Ereignistypen über die gesamte erfasste Zeitspanne von 1876 bis 1931. 
                             Sie können einen oder mehrere Ereignistypen auswählen, um deren Verlauf über die Zeit zu vergleichen.</p>
                             <p>Wählen Sie die Ereignistypen aus, die Sie visualisieren möchten. Die verschiedenen Typen werden in unterschiedlichen Farben dargestellt, 
-                            so dass Sie die Entwicklungen und Trends über Schnitzlers gesamte dokumentierte Zeit verfolgen können.</p>
+                            sodass Sie die Entwicklungen und Trends über Schnitzlers gesamte dokumentierte Zeit verfolgen können.</p>
                         </div>
                         
                         <div class="row">
