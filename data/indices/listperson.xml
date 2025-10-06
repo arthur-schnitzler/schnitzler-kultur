@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-09-25">serialized</change>
+      <change when-iso="2025-10-06">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,125 @@
       
            
       <listPerson>
+        <person xml:id="pmb298483">
+          
+  
+          <persName>
+            
+      
+            <forename>Lothar</forename>
+            
+      
+            <surname>Riedinger</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1888-11-08">1888-11-08</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1964-10-02">1964-10-02</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="129">Komponist/Komponistin</occupation>
+          
+  
+          <occupation key="131">Dirigent/Dirigentin</occupation>
+          
+  
+          <occupation key="1458">Tenor/</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298483/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2072134</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116535571</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Veranstaltung" key="183655" when-iso="1915-01-03">
+              
+        
+              <desc n="1256">ist mitwirkend an</desc>
+              
+        
+              <label>Dichterabend Detlev von Liliencron, 3.1.1915</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183655/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183655.html</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
         <person xml:id="pmb298297">
           
   
@@ -232062,13 +232181,13 @@
             </event>
             
     
-            <event n="Liederkonzert" key="183655" when-iso="1915-01-03">
+            <event n="Veranstaltung" key="183655" when-iso="1915-01-03">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konzert Olga Schnitzler, 3.1.1915</label>
+              <label>Dichterabend Detlev von Liliencron, 3.1.1915</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183655/</idno>
@@ -271649,6 +271768,24 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59607.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Veranstaltung" key="183655" when-iso="1915-01-03">
+              
+        
+              <desc n="1256">ist mitwirkend an</desc>
+              
+        
+              <label>Dichterabend Detlev von Liliencron, 3.1.1915</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183655/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183655.html</idno>
               
     
             </event>
@@ -332549,6 +332686,146 @@
           
 
         </person>
+        <person xml:id="pmb11777">
+          
+  
+          <persName>
+            
+      
+            <forename>Richard</forename>
+            
+      
+            <surname>Horn</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1861-12-07">07.12.1861</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1930-03-17">17.03.1930</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+          
+  
+          <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1075767687</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16364.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11777.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11777/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94926845</idno>
+          
+
+          <affiliation>
+            
+    
+            <term key="1153">in Bezug zu</term>
+            
+    
+            <orgName key="46027">Akademisches Gymnasium Wien</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46027/</idno>
+            
+    
+            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4409610-0</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93750/</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46027.html</idno>
+            
+
+          </affiliation>
+          
+
+          <listEvent>
+            
+    
+            <event n="Private Lesung" key="298463" when-iso="1881-02-22">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Private Lesung von Die alten Schüler, 22.2.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298463/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
         <person xml:id="pmb11774">
           
   
@@ -369087,7 +369364,7 @@
           </persName>
           
   
-          <persName type="legacy-name-merge">Anzengruber, Ludwig</persName>
+          <persName type="person_pseudonym">L. Gruber</persName>
           
   
           <birth>
@@ -452522,6 +452799,158 @@
           
 
         </person>
+        <person xml:id="pmb3452">
+          
+  
+          <persName>
+            
+      
+            <forename>Gustav</forename>
+            
+      
+            <surname>Frieberger</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="legacy-name-merge">Frieberger, Gustav</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1858-09-29">29.09.1858</date>
+            
+      
+            <settlement key="652">
+              
+        
+              <placeName type="pref">Prag</placeName>
+              
+        
+              <location>
+                <geo>50,08333 14,46667</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1933-12-19">19.12.1933</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+          
+  
+          <occupation key="99">Journalist/Journalistin</occupation>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/144034077</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15199.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3452.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3452/</idno>
+          
+  
+          <idno type="URL" subtype="oebl">https://doi.org/10.1553/0x00281661</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q61268605</idno>
+          
+  
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=26792</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/160103/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb3452</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Private Lesung" key="298447" when-iso="1881-02-13">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Private Lesung von Aus der Mode, 13.2.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298447/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="298458" when-iso="1881-02-21">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Private Lesung von Sebaldus, 21.2.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298458/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
+          
+  
+          <note type="references">None </note>
+          
+
+        </person>
         <person xml:id="pmb3442">
           
   
@@ -452904,6 +453333,9 @@
             
     
             <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29654.html</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Langen_M%C3%BCller_Verlag</idno>
             
 
           </affiliation>
@@ -467012,13 +467444,13 @@
             </event>
             
     
-            <event n="Liederkonzert" key="183655" when-iso="1915-01-03">
+            <event n="Veranstaltung" key="183655" when-iso="1915-01-03">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konzert Olga Schnitzler, 3.1.1915</label>
+              <label>Dichterabend Detlev von Liliencron, 3.1.1915</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183655/</idno>
@@ -472518,6 +472950,24 @@
             </event>
             
     
+            <event n="Veranstaltung" key="183655" when-iso="1915-01-03">
+              
+        
+              <desc n="1256">ist mitwirkend an</desc>
+              
+        
+              <label>Dichterabend Detlev von Liliencron, 3.1.1915</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183655/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183655.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateruraufführung" key="35412" when-iso="1915-10-12">
               
         
@@ -472968,10 +473418,10 @@
           <persName type="person_rufname_vorname">Fritz</persName>
           
   
-          <persName type="legacy-name-merge">Schik, Friedrich</persName>
+          <persName type="legacy-name-merge">Schick, Fritz</persName>
           
   
-          <persName type="legacy-name-merge">Schick, Fritz</persName>
+          <persName type="person_geburtsname_vorname">Friedrich Joseph Anton</persName>
           
   
           <birth>
@@ -473009,9 +473459,6 @@
           <occupation key="115">Dramaturg/Dramaturgin</occupation>
           
   
-          <occupation key="1639">Jurist/Juristin</occupation>
-          
-  
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11726413X</idno>
           
   
@@ -473042,7 +473489,133 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2420.html</idno>
           
 
+          <affiliation when-iso="1899-12-31">
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="29364">Wiener Allgemeine Montags-Zeitung</orgName>
+            
+    
+            <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29364.html</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29364/</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143246/</idno>
+            
+    
+            <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Wiener_Allgemeine_Montagszeitung</idno>
+            
+
+          </affiliation>
+          
+
+          <affiliation notBefore-iso="1901-01-01" when-iso="1901-01-01" notAfter-iso="1901-12-31">
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="45530">Deutsches Schauspielhaus in Hamburg</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45530/</idno>
+            
+    
+            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2008884-X</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q450777</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Deutsches_Schauspielhaus</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45530.html</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45530.html</idno>
+            
+
+          </affiliation>
+          
+
+          <affiliation>
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="36247">Burgtheater</orgName>
+            
+    
+            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/38633-9</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36247/</idno>
+            
+    
+            <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36247</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q308720</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Burgtheater</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb36247.html</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-mikrofilme">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1416713.html?pmb36247</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-mikrofilme">https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1416714.html?pmb36247</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb36247.html</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb36247.html</idno>
+            
+
+          </affiliation>
+          
+
           <listEvent>
+            
+    
+            <event n="Private Lesung" key="298447" when-iso="1881-02-13">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Private Lesung von Aus der Mode, 13.2.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298447/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="298458" when-iso="1881-02-21">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Private Lesung von Sebaldus, 21.2.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298458/</idno>
+              
+    
+            </event>
             
     
             <event n="Vereinstreffen" key="89146" when-iso="1891-03-17">
@@ -484827,13 +485400,13 @@
             </event>
             
     
-            <event n="Liederkonzert" key="183655" when-iso="1915-01-03">
+            <event n="Veranstaltung" key="183655" when-iso="1915-01-03">
               
         
               <desc n="1256">ist mitwirkend an</desc>
               
         
-              <label>Konzert Olga Schnitzler, 3.1.1915</label>
+              <label>Dichterabend Detlev von Liliencron, 3.1.1915</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183655/</idno>
@@ -497557,6 +498130,21 @@
             </event>
             
     
+            <event n="Private Lesung" key="298447" when-iso="1881-02-13">
+              
+        
+              <desc n="1256">ist mitwirkend an</desc>
+              
+        
+              <label>Private Lesung von Aus der Mode, 13.2.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298447/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateraufführung" key="207659" when-iso="1881-02-14">
               
         
@@ -497642,6 +498230,36 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207664.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="298458" when-iso="1881-02-21">
+              
+        
+              <desc n="1256">ist mitwirkend an</desc>
+              
+        
+              <label>Private Lesung von Sebaldus, 21.2.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298458/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="298463" when-iso="1881-02-22">
+              
+        
+              <desc n="1256">ist mitwirkend an</desc>
+              
+        
+              <label>Private Lesung von Die alten Schüler, 22.2.1881</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298463/</idno>
               
     
             </event>
@@ -560932,13 +561550,13 @@
             </event>
             
     
-            <event n="Liederkonzert" key="183655" when-iso="1915-01-03">
+            <event n="Veranstaltung" key="183655" when-iso="1915-01-03">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Konzert Olga Schnitzler, 3.1.1915</label>
+              <label>Dichterabend Detlev von Liliencron, 3.1.1915</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183655/</idno>

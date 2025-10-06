@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-09-25">serialized</change>
+      <change when-iso="2025-10-06">serialized</change>
       
        
     </revisionDesc>
@@ -478,6 +478,9 @@
           
   
           <title type="main">[Traumnovellenskizze]</title>
+          
+  
+          <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/266227/</idno>
@@ -65785,10 +65788,16 @@
         <bibl xml:id="pmb76760">
           
   
-          <title type="main">Der Pfarrer von Kirchfeld</title>
+          <title type="main">Der Pfarrer von Kirchfeld. Volksstück mit Gesang in vier Acten</title>
+          
+  
+          <title type="legacy-name-merge">Der Pfarrer von Kirchfeld</title>
           
   
           <author key="pmb10772" role="hat-geschaffen">Anzengruber, Ludwig</author>
+          
+
+          <date notBefore-iso="1870-01-01" when-iso="1870-01-01">1870</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76760/</idno>
@@ -65797,20 +65806,53 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76760.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163106/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163106</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76760.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5261190</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
         <bibl xml:id="pmb76759">
           
   
-          <title type="main">Der G'wissenswurm</title>
+          <title type="main">Der G’wissenswurm. Bauernkomödie mit Gesang in drei Acten</title>
+          
+  
+          <title type="legacy-name-merge">Der G’wissenswurm</title>
+          
+  
+          <title type="legacy-name-merge">Der G'wissenswurm</title>
           
   
           <author key="pmb10772" role="hat-geschaffen">Anzengruber, Ludwig</author>
+          
+
+          <date notBefore-iso="1874-01-01" when-iso="1874-01-01">1874</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76759/</idno>
@@ -65819,10 +65861,46 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76759.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163104/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1202417957</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1194083</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_1458.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76759.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163104</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/203527/</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_G%E2%80%99wissenswurm</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
@@ -71562,6 +71640,44 @@
           
   
           <note type="work_kind">Oper</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb35986">
+          
+  
+          <title type="main">Sebaldus</title>
+          
+  
+          <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35986/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb35986.html</idno>
+          
+  
+          <note type="work_kind">Unveröffentlichtes Werk</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb35982">
+          
+  
+          <title type="main">Die alten Schüler</title>
+          
+  
+          <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35982/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb35982.html</idno>
+          
+  
+          <note type="work_kind">Unveröffentlichtes Werk</note>
           
 
         </bibl>
@@ -82865,6 +82981,61 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb30933">
+          
+  
+          <title type="main">Der Wegweiser [g-Moll D 911]</title>
+          
+  
+          <title type="legacy-name-merge">Winterreise. Der Wegweiser</title>
+          
+  
+          <author key="pmb193481" role="hat-geschaffen">Müller, Wilhelm</author>
+          
+  
+          <author key="pmb12729" role="hat-geschaffen">Schubert, Franz Peter</author>
+          
+
+          <date notBefore-iso="1827-01-01" when-iso="1827-01-01">1827</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30933.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30933/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300782403</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_3928.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/206795/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb206795.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Lied</note>
+          
+  
+          <note type="references">None</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb30921">
           
   
@@ -82944,6 +83115,31 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references">None</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb30919">
+          
+  
+          <title type="main">Aus der Mode</title>
+          
+  
+          <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30919.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30919/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30919.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb30919.html</idno>
+          
+  
+          <note type="work_kind">Unveröffentlichtes Werk</note>
           
 
         </bibl>
@@ -83958,7 +84154,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date notBefore-iso="1926-01-01" when-iso="1926-01-01">1926</date>
+          <date when-iso="1926-03-01">1926-03-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.01.09</idno>
@@ -84004,6 +84200,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30775.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
