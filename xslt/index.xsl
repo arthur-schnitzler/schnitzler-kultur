@@ -84,7 +84,7 @@
                                     <div class="card index-card">
                                         <div class="card-body">
                                             <img class="d-block w-100"
-                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/kalender.jpg"
+                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/calendar.jpg"
                                                 title="Detail aus http://www.ifm-wolfen.de/index.php?id=110005000534 CC BY-NC-SA"
                                                 alt="Kalenderdetail"/>
                                         </div>
