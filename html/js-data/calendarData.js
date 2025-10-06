@@ -1,5 +1,14 @@
 var calendarData = [
   {
+    "name": "Private Lesung von Die alten Schüler, 22.2.1881", "startDate": "1881-02-22", "id": "pmb298463.html", "type": "Private Lesung"
+  },
+  {
+    "name": "Private Lesung von Sebaldus, 21.2.1881", "startDate": "1881-02-21", "id": "pmb298458.html", "type": "Private Lesung"
+  },
+  {
+    "name": "Private Lesung von Aus der Mode, 13.2.1881", "startDate": "1881-02-13", "id": "pmb298447.html", "type": "Private Lesung"
+  },
+  {
     "name": "Ball bei Schlesinger, 26.1.1884", "startDate": "1884-01-26", "id": "pmb298347.html", "type": "Ball"
   },
   {
@@ -17487,7 +17496,7 @@ var calendarData = [
     "name": "Konzert Olga Schnitzler, 14.2.1915", "startDate": "1915-02-14", "id": "pmb183662.html", "type": "Liederkonzert"
   },
   {
-    "name": "Konzert Olga Schnitzler, 3.1.1915", "startDate": "1915-01-03", "id": "pmb183655.html", "type": "Liederkonzert"
+    "name": "Dichterabend Detlev von Liliencron, 3.1.1915", "startDate": "1915-01-03", "id": "pmb183655.html", "type": "Veranstaltung"
   },
   {
     "name": "Konzert Olga Schnitzler und Vera Schapira, 26.1.1914", "startDate": "1914-01-26", "id": "pmb183650.html", "type": "Liederkonzert"
