@@ -7,7 +7,6 @@
         <xsl:param name="html_title" select="$project_short_title"/>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <link rel="icon" href="{$project_logo}" sizes="any"/>
         <title>
             <xsl:value-of select="$html_title"/>
         </title>
