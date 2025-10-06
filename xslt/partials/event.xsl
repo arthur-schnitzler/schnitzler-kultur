@@ -209,13 +209,13 @@
                                 </td>
                             </tr>
                         </xsl:if>
-                        <xsl:if test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' or @role = 'hat als mitwirkend']">
+                        <xsl:if test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' or @role = 'hat mitwirkend']">
                             <tr>
                                 <th>Mitwirkende</th>
                                 <td>
                                     <ul>
                                         <xsl:for-each
-                                            select="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' or @role = 'hat als mitwirkend']">
+                                            select="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' or @role = 'hat mitwirkend']">
                                             <li>
                                                 <xsl:variable name="name" select="tei:persName"/>
                                                 <xsl:choose>
