@@ -262,7 +262,7 @@
                             <td>
                                 <ul>
                                     <xsl:for-each
-                                        select="tei:listPerson/tei:person[@role = 'hat als Teilnehmer:in']">
+                                        select="tei:listPerson/tei:person[@role = 'hat als Teilnehmer:in' or @role ='hat teilnehmend']">
                                         <li>
                                             <xsl:variable name="name" select="tei:persName"/>
                                             <xsl:choose>
