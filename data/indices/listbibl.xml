@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-10-06">serialized</change>
+      <change when-iso="2025-10-15">serialized</change>
       
        
     </revisionDesc>
@@ -67794,6 +67794,9 @@
           <title type="legacy-name-merge">Tabarin. Schauspiel in einem Act. Frei nach Catulle Mendès</title>
           
   
+          <title type="legacy-name-merge">Tabarin</title>
+          
+  
           <author key="pmb11673" role="hat-geschaffen">Herzl, Theodor</author>
           
 
@@ -67812,13 +67815,22 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb76501.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164026/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76501.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76501.html</idno>
           
   
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164026</idno>
+          
+  
           <note type="work_kind">Einakter</note>
+          
+  
+          <note type="references"> </note>
           
 
         </bibl>
@@ -86394,10 +86406,16 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30439">
           
   
-          <title type="main">Die Brillanten-Königin</title>
+          <title type="main">Die Brillanten-Königin. Operette in drei Acten</title>
           
   
-          <author key="pmb18766" role="hat-geschaffen">Jakobowski, Edward</author>
+          <author key="pmb18766" role="hat-vertont">Jakobowski, Edward</author>
+          
+  
+          <author key="pmb25879" role="hat-geschaffen">Taube, Theodor</author>
+          
+  
+          <author key="pmb16781" role="hat-geschaffen">Fuchs, Isidor</author>
           
 
           <date notBefore-iso="1894-01-01" when-iso="1894-01-01">1894</date>
@@ -86413,6 +86431,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30439.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Operette</note>
@@ -91565,7 +91592,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_link">https://www.deutschestextarchiv.de/book/show/schnitzler_liebelei_1896</title>
           
   
-          <title type="legacy-name-merge">Liebelei</title>
+          <title type="werk_arbeitstitel">Das arme Mädl</title>
           
   
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
