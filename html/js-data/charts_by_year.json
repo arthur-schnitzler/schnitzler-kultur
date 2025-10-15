@@ -1,4 +1,132 @@
 {
+  "1895": {
+    "ana_chart": {
+      "labels": [
+        "Musik",
+        "Privatveranstaltung",
+        "anderes",
+        "Theater",
+        "Vortrag"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1895",
+          "data": [
+            29,
+            5,
+            18,
+            105,
+            6
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Musik": {
+        "labels": [
+          "Operettenaufführung",
+          "Opernaufführung",
+          "Konzert",
+          "Quartett",
+          "Philharmonisches Konzert",
+          "Gesellschaftskonzert",
+          "Klavierkonzert",
+          "Ballett",
+          "Liederkonzert",
+          "Varieté"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1895",
+            "data": [
+              1,
+              7,
+              7,
+              6,
+              1,
+              1,
+              2,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Ball",
+          "Soirée",
+          "Redoute"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1895",
+            "data": [
+              2,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Museumsbesuch",
+          "Vereinstreffen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1895",
+            "data": [
+              16,
+              2
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Theaterpremiere",
+          "Matinée",
+          "Probe",
+          "Generalprobe",
+          "Theateruraufführung",
+          "Leseprobe"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1895",
+            "data": [
+              69,
+              21,
+              1,
+              5,
+              1,
+              7,
+              1
+            ]
+          }
+        ]
+      },
+      "Vortrag": {
+        "labels": [
+          "Vortrag",
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1895",
+            "data": [
+              2,
+              4
+            ]
+          }
+        ]
+      }
+    }
+  },
   "1881": {
     "ana_chart": {
       "labels": [
@@ -220,132 +348,6 @@
             "data": [
               3,
               1
-            ]
-          }
-        ]
-      }
-    }
-  },
-  "1895": {
-    "ana_chart": {
-      "labels": [
-        "Privatveranstaltung",
-        "anderes",
-        "Theater",
-        "Musik",
-        "Vortrag"
-      ],
-      "datasets": [
-        {
-          "label": "Veranstaltungstypen im Jahr 1895",
-          "data": [
-            5,
-            18,
-            105,
-            28,
-            6
-          ]
-        }
-      ]
-    },
-    "ana_n_charts": {
-      "Privatveranstaltung": {
-        "labels": [
-          "Ball",
-          "Soirée",
-          "Redoute"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1895",
-            "data": [
-              2,
-              1,
-              2
-            ]
-          }
-        ]
-      },
-      "anderes": {
-        "labels": [
-          "Museumsbesuch",
-          "Vereinstreffen"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1895",
-            "data": [
-              16,
-              2
-            ]
-          }
-        ]
-      },
-      "Theater": {
-        "labels": [
-          "Theateraufführung",
-          "Theaterpremiere",
-          "Matinée",
-          "Probe",
-          "Generalprobe",
-          "Theateruraufführung",
-          "Leseprobe"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Theater' im Jahr 1895",
-            "data": [
-              69,
-              21,
-              1,
-              5,
-              1,
-              7,
-              1
-            ]
-          }
-        ]
-      },
-      "Musik": {
-        "labels": [
-          "Opernaufführung",
-          "Konzert",
-          "Quartett",
-          "Philharmonisches Konzert",
-          "Gesellschaftskonzert",
-          "Klavierkonzert",
-          "Ballett",
-          "Liederkonzert",
-          "Varieté"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Musik' im Jahr 1895",
-            "data": [
-              7,
-              7,
-              6,
-              1,
-              1,
-              2,
-              2,
-              1,
-              1
-            ]
-          }
-        ]
-      },
-      "Vortrag": {
-        "labels": [
-          "Vortrag",
-          "Private Lesung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1895",
-            "data": [
-              2,
-              4
             ]
           }
         ]
@@ -4796,8 +4798,8 @@
           "label": "Veranstaltungstypen im Jahr 1894",
           "data": [
             26,
-            77,
-            18,
+            76,
+            19,
             14
           ]
         }
@@ -4830,7 +4832,7 @@
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1894",
             "data": [
               29,
-              44,
+              43,
               4
             ]
           }
@@ -4854,7 +4856,7 @@
               3,
               2,
               6,
-              1,
+              2,
               3,
               1
             ]

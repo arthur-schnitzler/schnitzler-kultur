@@ -1,5 +1,8 @@
 var calendarData = [
   {
+    "name": "Aufführung von Die Brillanten-Königin, 30.3.1895", "startDate": "1895-03-30", "id": "pmb298732.html", "type": "Operettenaufführung"
+  },
+  {
     "name": "Private Lesung von Die alten Schüler, 22.2.1881", "startDate": "1881-02-22", "id": "pmb298463.html", "type": "Private Lesung"
   },
   {
@@ -12432,7 +12435,7 @@ var calendarData = [
     "name": "Aufführung von Die Verschwörung des Fiesko zu Genua, 4.4.1894", "startDate": "1894-04-04", "id": "pmb208664.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Brillanten-Königin, 2.4.1894", "startDate": "1894-04-02", "id": "pmb208663.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Brillanten-Königin, 2.4.1894", "startDate": "1894-04-02", "id": "pmb208663.html", "type": "Operettenaufführung"
   },
   {
     "name": "Viertes ordentliches Gesellschaftskonzert, 20.3.1894", "startDate": "1894-03-20", "id": "pmb208662.html", "type": "Theateraufführung"
