@@ -5,7 +5,7 @@ div#map {
 
 .schnitzler-chronik-link,
 .schnitzler-chronik-link:visited{
-    color: #C67F53;
+    color: #008B8B;
     font-weight: bold;
     text-decoration: none;
 }
@@ -495,7 +495,18 @@ h5 {
     border: none;
     text-align: center;
     padding: 0;
-    
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.index-card .card-body img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
 }
 
 .index-card:hover {

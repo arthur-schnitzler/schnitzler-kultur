@@ -4,9 +4,15 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" exclude-result-prefixes="#all">
     <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes"
         omit-xml-declaration="yes"/>
+
+    <xsl:decimal-format name="european" grouping-separator="." decimal-separator=","/>
+
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
+
+    <xsl:variable name="eventCount" select="count(document('../data/editions/listevent.xml')//tei:body/tei:listEvent/tei:event)"/>
+
     <xsl:template match="/">
 
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
@@ -59,7 +65,7 @@
                             <p class="mt-3">Theateraufführungen, Konzerte, Premieren, Kinoabende und
                                 andere Veranstaltungen – mehr als zweimal pro Woche war Arthur
                                 Schnitzler durchschnittlich unterwegs und nahm am kulturellen Leben
-                                teil. Diese Webseite versammelt erstmals über 6.200 öffentliche
+                                teil. Diese Webseite versammelt erstmals <xsl:value-of select="format-number($eventCount, '#.###', 'european')"/> öffentliche
                                 Ereignisse, die er zwischen 1876 und 1931 besuchte, und macht sie
                                 zugänglich. Das umfasst alle Veranstaltungen, bei denen er selbst
                                 tätig wurde, wie seine seltenen öffentlichen Lesungen. Es umfasst
