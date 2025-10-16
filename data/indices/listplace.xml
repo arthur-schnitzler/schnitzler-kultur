@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-10-06">serialized</change>
+      <change when-iso="2025-10-15">serialized</change>
       
        
     </revisionDesc>
@@ -23802,10 +23802,10 @@
           <placeName>Palais-Royal</placeName>
           
   
-          <desc type="entity_type">kein passender Code gefunden</desc>
+          <desc type="entity_type">P.PPLX</desc>
           
   
-          <desc type="entity_type_id">3474</desc>
+          <desc type="entity_type_id">1234</desc>
           
 
           <location type="coords">
@@ -27979,10 +27979,10 @@
           <placeName>Concertgebouw</placeName>
           
   
-          <desc type="entity_type">kein passender Code gefunden</desc>
+          <desc type="entity_type">S.THTR</desc>
           
   
-          <desc type="entity_type_id">3474</desc>
+          <desc type="entity_type_id">3473</desc>
           
 
           <location type="coords">
