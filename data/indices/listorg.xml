@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-10-15">serialized</change>
+      <change when-iso="2025-10-24">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,124 @@
       
            
       <listOrg>
+        <org xml:id="pmb298265">
+          
+  
+          <orgName>Théâtre des Variétés</orgName>
+          
+  
+          <desc type="entity_type">Theaterunternehmen</desc>
+          
+  
+          <desc type="entity_type_id">1047</desc>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb185891">Théâtre des Variétés</placeName>
+            
+  
+            <geo>48,871111111111 2,3419444444444</geo>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185891/</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q373890</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4487518-6</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_des_Vari%C3%A9t%C3%A9s</note>
+            
+  
+            <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb185891.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185891.html</note>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb182">Paris</placeName>
+            
+  
+            <geo>48,85341 2,3488</geo>
+            
+  
+            <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb182.html</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4044660-8</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/182/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/2988507/</note>
+            
+  
+            <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q90</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Paris</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb182.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+            
+  
+            <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb182.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb182.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00077</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb182</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003989</note>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298265/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb298265.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </org>
         <org xml:id="pmb295475">
           
   
@@ -133,6 +251,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -433,6 +560,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -591,6 +727,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
+            
 
           </location>
           
@@ -678,6 +823,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
             
 
           </location>
@@ -793,6 +947,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb652.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00194</note>
             
 
           </location>
@@ -1012,6 +1169,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -1188,6 +1354,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -1278,6 +1453,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
             
 
           </location>
@@ -1410,6 +1600,9 @@
   
             <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1002.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002974</note>
+            
 
           </location>
           
@@ -1506,6 +1699,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
             
 
           </location>
@@ -1691,6 +1899,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -1907,6 +2124,12 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb869.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00134</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001741</note>
+            
 
           </location>
           
@@ -2080,6 +2303,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -2173,6 +2405,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -2268,6 +2509,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -2361,6 +2611,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -2508,6 +2767,12 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb872.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00359</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005087</note>
+            
 
           </location>
           
@@ -2590,6 +2855,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
+            
 
           </location>
           
@@ -2662,6 +2936,15 @@
             
   
             <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Tel_Aviv-Jaffa</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00352</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00024</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001975</note>
             
 
           </location>
@@ -2774,6 +3057,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -2899,6 +3191,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb224.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00216</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb224</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003259</note>
+            
 
           </location>
           
@@ -3010,6 +3311,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -3144,6 +3454,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -3294,6 +3613,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -3436,6 +3764,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb21799.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001720</note>
             
 
           </location>
@@ -3594,6 +3925,12 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb677.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00342</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00176</note>
             
 
           </location>
@@ -3762,6 +4099,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -3855,6 +4201,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -4216,6 +4571,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -4324,6 +4688,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -4509,6 +4882,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -4699,6 +5081,18 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb433.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00242</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004120</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001023</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002766</note>
+            
 
           </location>
           
@@ -4864,6 +5258,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -4995,6 +5398,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00077</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb182</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003989</note>
+            
 
           </location>
           
@@ -5104,6 +5516,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -5182,6 +5603,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb506.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00057</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001825</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb506</note>
             
 
           </location>
@@ -5283,6 +5713,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -5379,6 +5818,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -5512,6 +5960,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb224.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00216</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb224</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003259</note>
             
 
           </location>
@@ -5694,6 +6151,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -6052,6 +6518,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -6235,6 +6716,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -6328,6 +6818,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -6543,6 +7042,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -6774,6 +7282,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -7025,6 +7542,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -7205,6 +7731,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -7350,6 +7885,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -7444,6 +7988,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -7537,6 +8090,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -7646,6 +8208,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -7914,6 +8485,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
+            
 
           </location>
           
@@ -8047,6 +8627,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -8122,6 +8711,12 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb869.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00134</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001741</note>
             
 
           </location>
@@ -8290,6 +8885,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -8457,6 +9061,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -8569,6 +9182,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -8666,6 +9288,15 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40655.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003279</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002708</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002837</note>
+            
 
           </location>
           
@@ -8744,6 +9375,12 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1223.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00281</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001708</note>
             
 
           </location>
@@ -8835,6 +9472,12 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb854.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00361</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002303</note>
             
 
           </location>
@@ -9015,6 +9658,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -9155,6 +9807,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -9261,6 +9922,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -9360,6 +10030,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -9670,6 +10349,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00252</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004680</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb30</note>
+            
 
           </location>
           
@@ -9778,6 +10466,18 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb662.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00107</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004979</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002302</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb662</note>
             
 
           </location>
@@ -9929,6 +10629,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb652.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00194</note>
             
 
           </location>
@@ -10114,6 +10817,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -10375,6 +11087,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -10520,6 +11241,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
             
 
           </location>
@@ -10733,6 +11469,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -10869,6 +11620,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00077</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb182</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003989</note>
+            
 
           </location>
           
@@ -10960,6 +11720,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00077</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb182</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003989</note>
+            
 
           </location>
           
@@ -11050,6 +11819,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00077</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb182</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003989</note>
             
 
           </location>
@@ -11147,6 +11925,12 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb936.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002634</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005348</note>
             
 
           </location>
@@ -11268,6 +12052,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -11488,7 +12281,25 @@
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</note>
             
   
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00239</note>
+            
+  
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb146.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb146</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003193</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000888</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003336</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004069</note>
             
 
           </location>
@@ -11574,11 +12385,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88756.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb34987</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+    
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </listBibl>
@@ -11676,6 +12493,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00077</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb182</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003989</note>
             
 
           </location>
@@ -11842,6 +12668,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -12160,6 +12995,12 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb677.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00342</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00176</note>
+            
 
           </location>
           
@@ -12262,6 +13103,12 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1119.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00095</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001893</note>
             
 
           </location>
@@ -12387,6 +13234,12 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1119.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00095</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001893</note>
+            
 
           </location>
           
@@ -12474,6 +13327,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
             
 
           </location>
@@ -12620,6 +13488,12 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb869.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00134</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001741</note>
+            
 
           </location>
           
@@ -12729,6 +13603,9 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb652.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00194</note>
+            
 
           </location>
           
@@ -12831,6 +13708,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
             
 
           </location>
@@ -12950,6 +13836,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -13067,6 +13968,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
             
 
           </location>
@@ -13256,6 +14172,21 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43471.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00434</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001241</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003155</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000536</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004920</note>
+            
 
           </location>
           
@@ -13374,6 +14305,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -13485,6 +14431,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -13663,6 +14618,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
             
 
           </location>
@@ -13951,6 +14921,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -14122,6 +15101,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -14492,6 +15480,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
+            
 
           </location>
           
@@ -14573,6 +15570,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
             
 
           </location>
@@ -14698,6 +15704,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -14779,6 +15794,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
             
 
           </location>
@@ -14938,7 +15962,25 @@
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</note>
             
   
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00239</note>
+            
+  
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb146.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb146</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003193</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000888</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003336</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004069</note>
             
 
           </location>
@@ -15073,6 +16115,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -15157,6 +16208,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb833.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00301</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000246</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005616</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004727</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb833</note>
             
 
           </location>
@@ -15288,6 +16354,15 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb506.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00057</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001825</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb506</note>
+            
 
           </location>
           
@@ -15406,6 +16481,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -15520,6 +16610,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
             
 
           </location>
@@ -16206,6 +17311,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -16308,6 +17428,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb213.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004081</note>
             
 
           </location>
@@ -16726,6 +17849,9 @@
     
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
+    
+            <bibl type="collections" n="77">SemanticKraus</bibl>
+            
 
           </listBibl>
           
@@ -16958,6 +18084,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -17337,6 +18472,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -17635,6 +18785,9 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb57.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00397</note>
+            
 
           </location>
           
@@ -17700,6 +18853,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -17991,6 +19153,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -18179,6 +19356,9 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb57.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00397</note>
+            
 
           </location>
           
@@ -18354,6 +19534,9 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb652.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00194</note>
+            
 
           </location>
           
@@ -18493,6 +19676,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -18604,6 +19802,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
             
 
           </location>
@@ -18726,6 +19939,18 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb9925.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00278</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003149</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002268</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004707</note>
+            
 
           </location>
           
@@ -18776,6 +20001,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
             
 
           </location>
@@ -19232,6 +20472,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -19359,6 +20614,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -19461,6 +20725,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -19573,6 +20846,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -19864,6 +21146,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -19956,6 +21247,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb57.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00397</note>
             
 
           </location>
@@ -20104,6 +21398,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -20416,6 +21719,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -20579,6 +21897,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
+            
 
           </location>
           
@@ -20715,6 +22042,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -20833,6 +22175,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -20938,6 +22289,1605 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37986</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38002</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38005</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38008</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38011</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38019</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb10264</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43649</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43650</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43651</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43652</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43653</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43654</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb12640</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb12826</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43667</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43668</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43669</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43670</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43671</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43672</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43673</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43674</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43675</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43676</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43677</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43678</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43679</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb44290</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45346</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45685</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38023</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37773</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37781</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37797</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37800</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37807</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37810</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37814</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37817</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37820</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37828</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37830</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37837</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37840</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37842</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37843</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37849</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37852</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37854</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37869</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37872</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37877</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37880</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37889</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37893</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37894</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37903</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37908</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37912</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37919</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37942</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37945</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37952</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37954</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37958</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37965</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37982</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43655</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43656</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43657</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43658</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43660</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43661</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43662</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43663</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43664</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43665</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43666</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb47636</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb49582</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb49637</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb49817</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb49872</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb50</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb50019</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb50166</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38909</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38915</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38926</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38934</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38937</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38941</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38946</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38951</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_51252</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb58810</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38954</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38957</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38962</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38969</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38972</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38973</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38976</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38979</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38984</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38988</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38999</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39003</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39006</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39009</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39016</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39019</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39027</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39030</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39047</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39068</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39118</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39119</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39135</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39147</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39166</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWpers0237</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_48412</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb60154</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000835</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001636</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003433</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003922</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb51</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb51049</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb13356</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_52121</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_42966</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54903</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_51272</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_45907</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_56506</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41821</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_46460</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_56276</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_57268</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_55594</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_37906</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_47242</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_60193</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_45880</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_44310</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_47555</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43909</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_59949</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54015</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_40113</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWpers0011</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41501</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_51389</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_60231</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_56864</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49972</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38036</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38041</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38045</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38049</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38052</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38056</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38069</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38072</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38075</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38087</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38103</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb56120</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb562</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_59322</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002240</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41596</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_38499</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_46645</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41408</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_52184</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_38108</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_39427</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_42659</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_42561</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41611</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43532</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_50021</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_51395</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49400</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54017</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43936</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_39185</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_38814</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_48402</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_56885</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38675</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38678</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38681</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38684</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38692</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38701</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38707</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38714</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38716</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38719</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38605</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38611</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38617</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38621</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38624</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38629</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38637</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38644</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38647</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38655</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38663</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38666</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb652</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003737</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004483</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38310</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38315</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38316</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38318</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb2290</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb23697</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41469</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38109</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38112</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38133</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38137</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38141</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39293</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39237</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_52028</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38292</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38300</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38303</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38307</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38269</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38272</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38731</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38774</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38781</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38784</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38792</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38798</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38144</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38150</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38153</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38157</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38219</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38226</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38229</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38232</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38244</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38252</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38265</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_45705</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_50923</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43803</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_46002</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_51262</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54784</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_60779</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38733</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38735</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38742</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38745</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38749</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38752</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38759</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_44298</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_57043</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_55405</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_38811</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_53736</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_48655</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_46986</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49976</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54925</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_53480</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_51249</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_52653</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_50390</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38767</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54308</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43479</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54269</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_39762</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54115</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38802</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38828</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38835</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38839</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38867</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38870</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38886</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38900</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39310</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39346</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39349</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39615</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb40703</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb41669</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_45890</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_47631</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001185</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001727</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004294</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb677</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb69</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43632</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43633</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43636</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43637</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43638</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43639</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43640</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43644</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43645</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43646</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43647</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43648</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43591</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43592</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43593</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43594</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41908</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43595</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43596</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43597</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43599</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43600</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43601</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43602</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43603</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43604</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43605</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43606</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43607</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43608</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43609</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43610</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43611</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43612</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43613</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43614</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43615</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43616</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43617</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43618</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43619</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43620</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43621</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43622</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43623</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43624</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43625</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43627</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43628</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43629</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41811</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_47149</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_51402</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_47678</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001259</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41475</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_42298</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_46404</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41528</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb883</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36360</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36598</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36599</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36600</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36740</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37250</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37263</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37761</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb52559</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_60165</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_42872</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38368</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38370</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38375</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38381</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38391</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38401</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38422</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38450</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38451</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38461</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38464</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38467</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38477</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38490</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38491</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38499</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38500</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38504</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38345</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38322</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38323</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37216</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37217</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37231</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37235</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37240</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37336</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37344</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37531</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37558</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37747</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39689</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43724</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38346</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38350</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38360</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38364</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49342</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49979</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_52700</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41193</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_50971</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_45434</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43583</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb52908</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38513</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38522</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38537</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38540</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38543</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38546</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38548</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38555</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38558</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38565</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38568</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38575</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38589</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38593</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38596</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38599</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54030</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_55549</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_53900</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_45489</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49704</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43838</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_46764</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_53286</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49944</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43507</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43584</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43585</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43586</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43587</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43588</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43589</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_60221</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_42028</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_55242</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_42866</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb42705</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb42970</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb42972</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb42975</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43471</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43531</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43532</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43533</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43534</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43535</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43536</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43537</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43538</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43539</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43540</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43541</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43542</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43543</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43544</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43545</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43546</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43547</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43548</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43549</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43550</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43551</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43552</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43553</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43554</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43567</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43577</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43578</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43579</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43580</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43581</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43582</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb61038</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb62033</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36735</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36755</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36759</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36765</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36808</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36830</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36865</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36905</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36913</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36916</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36920</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36922</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36935</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36939</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36956</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36971</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37025</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37057</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37062</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37070</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37105</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37121</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37125</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37134</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37135</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37151</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37154</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37159</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37174</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37190</note>
             
 
           </location>
@@ -21053,6 +24003,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -21205,6 +24164,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -21317,6 +24285,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -21404,6 +24381,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
             
 
           </location>
@@ -21522,6 +24508,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43471.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00434</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001241</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003155</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000536</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004920</note>
             
 
           </location>
@@ -21658,6 +24659,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -22013,6 +25023,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -22152,6 +25171,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -22230,6 +25258,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb36300.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00005</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36300</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005588</note>
             
 
           </location>
@@ -22321,6 +25358,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -22436,6 +25482,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -22588,6 +25643,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -22684,6 +25748,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -22796,6 +25869,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -22955,6 +26037,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb36300.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00005</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36300</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005588</note>
+            
 
           </location>
           
@@ -23067,6 +26158,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -23148,6 +26248,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb36300.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00005</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb36300</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005588</note>
             
 
           </location>
@@ -23407,6 +26516,21 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00313</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00093</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb168</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001836</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</note>
+            
 
           </location>
           
@@ -23509,6 +26633,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -23660,7 +26793,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb296731">8, Rue de Monceau</placeName>
+            <placeName key="pmb296731">8, rue de Monceau</placeName>
             
   
             <geo>48,875505 2,306854</geo>
@@ -23736,6 +26869,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -23888,6 +27030,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb484.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00061</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb484</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003366</note>
+            
 
           </location>
           
@@ -23972,6 +27123,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00252</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004680</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb30</note>
             
 
           </location>
@@ -24066,6 +27226,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00383</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45258</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</note>
             
 
           </location>
@@ -24184,6 +27353,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
             
 
           </location>
@@ -24339,6 +27517,15 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</note>
             
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00347</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00066</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</note>
+            
 
           </location>
           
@@ -24387,6 +27574,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35576.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00314</note>
             
 
           </location>
@@ -24481,6 +27671,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb860.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00211</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004584</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb860</note>
             
 
           </location>
