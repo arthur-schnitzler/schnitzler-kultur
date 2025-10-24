@@ -12,13 +12,70 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-10-15">serialized</change>
+          <change when-iso="2025-10-24">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
         <body>
            <p>Some text here.</p>
-           <listEvent><event xml:id="pmb298732" when-iso="1895-03-30">
+           <listEvent><event xml:id="pmb299000" when-iso="1899-02-25">
+        <eventName n="Probe">Probe von Der grüne Kakadu. Drei Einakter, 25.2.1899</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb36247">Burgtheater</orgName>
+                </org>
+            </listOrg>
+        </note>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299000/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listBibl>
+            <bibl>
+                <title key="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
+                <note type="relation-type">ist Probe von</note>
+            </bibl>
+        </listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+                <location>
+                    <geo>48,210333 16,361139</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb298917" when-iso="1894-07-08">
+        <eventName n="Hochzeit">Hochzeit von Helene Altmann und Julius Schnitzler, 8.7.1894</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298917/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat mitwirkend">
+                <persName key="pmb12698">Schnitzler, Julius</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb24423">Schnitzler, Helene</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb298732" when-iso="1895-03-30">
         <eventName n="Operettenaufführung">Aufführung von Die Brillanten-Königin, 30.3.1895</eventName>
         <note type="listorg">
             <listOrg>
@@ -99485,7 +99542,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31329">Heimat</title>
+                <title key="pmb31329">Heimat. Schauspiel in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -108624,8 +108681,8 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb209065" when-iso="1889-02-25">
-        <eventName n="Theateraufführung">Aufführung von Liebesträume. Comödie in 1 Act, Fiaker 117. Schwank in 3 Acten, 25.2.1889</eventName>
+    </event><event xml:id="pmb209065" when-iso="1899-02-25">
+        <eventName n="Theateraufführung">Aufführung von Liebesträume, Fiaker 117, 25.2.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -108640,7 +108697,11 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb81017">Fiaker 117. Schwank in 3 Acten</title>
+                <title key="pmb298993">Fiaker 117. Comödie in drei Akten</title>
+                <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb195827">Liebesträume. Comödie in 1 Act</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -111008,6 +111069,10 @@
             <bibl>
                 <title key="pmb76499">Das neue Ghetto. Schauspiel in vier Acten</title>
                 <note type="relation-type">ist Premiere von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb133395">Das neue Ghetto. (Schauspiel in vier Acten von Theodor Herzl. Zum ersten Mal aufgeführt im Carltheater am 5. Jänner 1898)</title>
+                <note type="relation-type">wird rezensiert in</note>
             </bibl>
         </listBibl>
         <listPerson>
@@ -115296,7 +115361,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31329">Heimat</title>
+                <title key="pmb31329">Heimat. Schauspiel in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -117907,7 +117972,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80691">Mam’zelle Nitouche</title>
+                <title key="pmb80691">Mam’zelle Nitouche. Comédie-Vaudeville en trois actes et quatre tableaux</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -118273,7 +118338,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80691">Mam’zelle Nitouche</title>
+                <title key="pmb80691">Mam’zelle Nitouche. Comédie-Vaudeville en trois actes et quatre tableaux</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -120568,7 +120633,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31329">Heimat</title>
+                <title key="pmb31329">Heimat. Schauspiel in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -121709,7 +121774,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31329">Heimat</title>
+                <title key="pmb31329">Heimat. Schauspiel in vier Akten</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -122625,13 +122690,52 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33101">Die Sündfluth</title>
+                <title key="pmb33101">Die Sündfluth. Schauspiel in vier Akten</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb12355">Nhil, Robert</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb26880">Weisse, Adolf</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb12618">Sandrock, Adele</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb2868">Kutschera, Victor</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb4124">Eppens, Otto</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb7280">Fronz, Oskar</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb156901">Greißnegger, Ernst</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb4127">Meixner, Julius</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb2847">Giampietro, Josef</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb20411">Liebhardt, Ignaz Stephan</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb14581">Broda, Moritz</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb176848">Romani, Gustav</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb156903">Russeck, Georg</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -128989,7 +129093,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76502">Wilddiebe</title>
+                <title key="pmb76502">Wilddiebe. Lustspiel in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -129245,7 +129349,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80691">Mam’zelle Nitouche</title>
+                <title key="pmb80691">Mam’zelle Nitouche. Comédie-Vaudeville en trois actes et quatre tableaux</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -130975,7 +131079,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76502">Wilddiebe</title>
+                <title key="pmb76502">Wilddiebe. Lustspiel in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -131102,11 +131206,11 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208331" when-iso="1889-05-01">
-        <eventName n="Theateraufführung">Aufführung von Fiaker 117, 1.5.1889</eventName>
+        <eventName n="Theateraufführung">Aufführung von Le Fiacre 117, Les Charbonniers, 1.5.1889</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
-                    <orgName key="pmb63031">Carl-Theater</orgName>
+                    <orgName key="pmb298265">Théâtre des Variétés</orgName>
                 </org>
             </listOrg>
         </note>
@@ -131117,7 +131221,11 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb81017">Fiaker 117. Schwank in 3 Acten</title>
+                <title key="pmb81017">Le Fiacre 117. Comédie en trois actes</title>
+                <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb298968">Les Charbonniers. Opérette en un acte</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -139480,7 +139588,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb164763">Der Trompeter von Säkkingen</title>
+                <title key="pmb202739">Der Trompeter von Säckingen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
@@ -139828,7 +139936,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb164763">Der Trompeter von Säkkingen</title>
+                <title key="pmb202739">Der Trompeter von Säckingen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -153929,7 +154037,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195524">Niniche</title>
+                <title key="pmb195524">Niniche. Vaudeville en trois actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -179952,6 +180060,30 @@
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb114944">Knaack, Wilhelm</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb102246">Ranzenhofer, Adolf</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb157380">Franker, Heinrich</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb15999">Ernst, Carla</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb99557">Lenor, Robert v.</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb61347">Blasel, Carl</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb178479">Blasel, Johanna</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb100622">Norini, Emil</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -184158,7 +184290,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31329">Heimat</title>
+                <title key="pmb31329">Heimat. Schauspiel in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -186276,13 +186408,28 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31971">Musotte</title>
+                <title key="pmb31971">Musotte. Schauspiel in drei Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb12355">Nhil, Robert</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb12618">Sandrock, Adele</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb12099">Loewe, Konrad</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb20411">Liebhardt, Ignaz Stephan</persName>
             </person>
         </listPerson>
         <listPlace>
