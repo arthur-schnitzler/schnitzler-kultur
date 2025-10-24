@@ -1,5 +1,11 @@
 var calendarData = [
   {
+    "name": "Probe von Der grüne Kakadu. Drei Einakter, 25.2.1899", "startDate": "1899-02-25", "id": "pmb299000.html", "type": "Probe"
+  },
+  {
+    "name": "Hochzeit von Helene Altmann und Julius Schnitzler, 8.7.1894", "startDate": "1894-07-08", "id": "pmb298917.html", "type": "Hochzeit"
+  },
+  {
     "name": "Aufführung von Die Brillanten-Königin, 30.3.1895", "startDate": "1895-03-30", "id": "pmb298732.html", "type": "Operettenaufführung"
   },
   {
@@ -11235,7 +11241,7 @@ var calendarData = [
     "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 26.2.1899", "startDate": "1899-02-26", "id": "pmb209066.html", "type": "Philharmonisches Konzert"
   },
   {
-    "name": "Aufführung von Liebesträume. Comödie in 1 Act, Fiaker 117. Schwank in 3 Acten, 25.2.1889", "startDate": "1889-02-25", "id": "pmb209065.html", "type": "Theateraufführung"
+    "name": "Aufführung von Liebesträume, Fiaker 117, 25.2.1899", "startDate": "1899-02-25", "id": "pmb209065.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Die guten Freunde, 14.2.1899", "startDate": "1899-02-14", "id": "pmb209064.html", "type": "Theateraufführung"
@@ -13425,7 +13431,7 @@ var calendarData = [
     "name": "Aufführung von Die Wienerstadt in Wort und Bild, 2.5.1889", "startDate": "1889-05-02", "id": "pmb208332.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Fiaker 117, 1.5.1889", "startDate": "1889-05-01", "id": "pmb208331.html", "type": "Theateraufführung"
+    "name": "Aufführung von Le Fiacre 117, Les Charbonniers, 1.5.1889", "startDate": "1889-05-01", "id": "pmb208331.html", "type": "Theateraufführung"
   },
   {
     "name": "Konzert mit Gustav Kühle und Malvine Drucker, 26.4.1889", "startDate": "1889-04-26", "id": "pmb208330.html", "type": "Konzert"
