@@ -20,6 +20,15 @@
             <xsl:value-of select="replace(., 'event__', 'pmb')"/>
         </xsl:attribute>
     </xsl:template>
-    
-    
+
+    <!-- Sortiert die event-Elemente chronologisch nach @when-iso -->
+    <xsl:template match="tei:listEvent">
+        <xsl:copy>
+            <xsl:apply-templates select="@*"/>
+            <xsl:apply-templates select="tei:event">
+                <xsl:sort select="@when-iso" order="ascending"/>
+            </xsl:apply-templates>
+        </xsl:copy>
+    </xsl:template>
+
 </xsl:stylesheet>

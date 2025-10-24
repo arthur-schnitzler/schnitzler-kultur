@@ -8,6 +8,7 @@
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:import href="./partials/event.xsl"/>
+    <xsl:import href="./partials/event_title_navigation.xsl"/>
     <!--<xsl:import href="./partials/blockquote.xsl"/>-->
     <xsl:import href="./partials/tabulator_js.xsl"/>
     <xsl:template match="/">
@@ -280,11 +281,12 @@
                         <xsl:call-template name="nav_bar"/>
                         <main class="flex-shrink-0 flex-grow-1">
                             <div class="container">
-                                <h1>
-                                    <xsl:value-of select="$name"/>
-                                </h1>
+                                <xsl:call-template name="event-header-nav">
+                                    <xsl:with-param name="current-id" select="@xml:id"/>
+                                    <xsl:with-param name="all-events" select="//tei:event[@xml:id]"/>
+                                </xsl:call-template>
                                 <xsl:call-template name="event_detail">
-                                    
+
                                 </xsl:call-template>
                             </div>
                         </main>
