@@ -1,4 +1,213 @@
 {
+  "1899": {
+    "ana_chart": {
+      "labels": [
+        "Theater",
+        "anderes",
+        "Musik",
+        "Vortrag"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1899",
+          "data": [
+            86,
+            8,
+            22,
+            15
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Theater": {
+        "labels": [
+          "Probe",
+          "Theateraufführung",
+          "Theaterpremiere",
+          "Generalprobe",
+          "Leseprobe",
+          "Theateruraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1899",
+            "data": [
+              13,
+              62,
+              7,
+              2,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Museumsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1899",
+            "data": [
+              8
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Opernaufführung",
+          "Philharmonisches Konzert",
+          "Quartett",
+          "Klavierkonzert",
+          "Konzert",
+          "Orgelkonzert",
+          "Operettenaufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1899",
+            "data": [
+              5,
+              5,
+              3,
+              1,
+              5,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "Vortrag": {
+        "labels": [
+          "Private Lesung",
+          "Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1899",
+            "data": [
+              14,
+              1
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1894": {
+    "ana_chart": {
+      "labels": [
+        "Privatveranstaltung",
+        "anderes",
+        "Theater",
+        "Musik",
+        "Vortrag"
+      ],
+      "datasets": [
+        {
+          "label": "Veranstaltungstypen im Jahr 1894",
+          "data": [
+            1,
+            26,
+            76,
+            19,
+            14
+          ]
+        }
+      ]
+    },
+    "ana_n_charts": {
+      "Privatveranstaltung": {
+        "labels": [
+          "Hochzeit"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1894",
+            "data": [
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Museumsbesuch",
+          "Vereinstreffen"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1894",
+            "data": [
+              9,
+              17
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theaterpremiere",
+          "Theateraufführung",
+          "Theateruraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1894",
+            "data": [
+              29,
+              43,
+              4
+            ]
+          }
+        ]
+      },
+      "Musik": {
+        "labels": [
+          "Quartett",
+          "Philharmonisches Konzert",
+          "Gesellschaftskonzert",
+          "Opernaufführung",
+          "Operettenaufführung",
+          "Trio",
+          "Konzert"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Musik' im Jahr 1894",
+            "data": [
+              2,
+              3,
+              2,
+              6,
+              2,
+              3,
+              1
+            ]
+          }
+        ]
+      },
+      "Vortrag": {
+        "labels": [
+          "Vortrag",
+          "Private Lesung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1894",
+            "data": [
+              1,
+              13
+            ]
+          }
+        ]
+      }
+    }
+  },
   "1895": {
     "ana_chart": {
       "labels": [
@@ -4686,200 +4895,6 @@
       }
     }
   },
-  "1899": {
-    "ana_chart": {
-      "labels": [
-        "anderes",
-        "Theater",
-        "Musik",
-        "Vortrag"
-      ],
-      "datasets": [
-        {
-          "label": "Veranstaltungstypen im Jahr 1899",
-          "data": [
-            8,
-            84,
-            22,
-            15
-          ]
-        }
-      ]
-    },
-    "ana_n_charts": {
-      "anderes": {
-        "labels": [
-          "Museumsbesuch"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1899",
-            "data": [
-              8
-            ]
-          }
-        ]
-      },
-      "Theater": {
-        "labels": [
-          "Theateraufführung",
-          "Theaterpremiere",
-          "Probe",
-          "Generalprobe",
-          "Leseprobe",
-          "Theateruraufführung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Theater' im Jahr 1899",
-            "data": [
-              61,
-              7,
-              12,
-              2,
-              1,
-              1
-            ]
-          }
-        ]
-      },
-      "Musik": {
-        "labels": [
-          "Opernaufführung",
-          "Philharmonisches Konzert",
-          "Quartett",
-          "Klavierkonzert",
-          "Konzert",
-          "Orgelkonzert",
-          "Operettenaufführung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Musik' im Jahr 1899",
-            "data": [
-              5,
-              5,
-              3,
-              1,
-              5,
-              1,
-              2
-            ]
-          }
-        ]
-      },
-      "Vortrag": {
-        "labels": [
-          "Private Lesung",
-          "Lesung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1899",
-            "data": [
-              14,
-              1
-            ]
-          }
-        ]
-      }
-    }
-  },
-  "1894": {
-    "ana_chart": {
-      "labels": [
-        "anderes",
-        "Theater",
-        "Musik",
-        "Vortrag"
-      ],
-      "datasets": [
-        {
-          "label": "Veranstaltungstypen im Jahr 1894",
-          "data": [
-            26,
-            76,
-            19,
-            14
-          ]
-        }
-      ]
-    },
-    "ana_n_charts": {
-      "anderes": {
-        "labels": [
-          "Museumsbesuch",
-          "Vereinstreffen"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1894",
-            "data": [
-              9,
-              17
-            ]
-          }
-        ]
-      },
-      "Theater": {
-        "labels": [
-          "Theaterpremiere",
-          "Theateraufführung",
-          "Theateruraufführung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Theater' im Jahr 1894",
-            "data": [
-              29,
-              43,
-              4
-            ]
-          }
-        ]
-      },
-      "Musik": {
-        "labels": [
-          "Quartett",
-          "Philharmonisches Konzert",
-          "Gesellschaftskonzert",
-          "Opernaufführung",
-          "Operettenaufführung",
-          "Trio",
-          "Konzert"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Musik' im Jahr 1894",
-            "data": [
-              2,
-              3,
-              2,
-              6,
-              2,
-              3,
-              1
-            ]
-          }
-        ]
-      },
-      "Vortrag": {
-        "labels": [
-          "Vortrag",
-          "Private Lesung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1894",
-            "data": [
-              1,
-              13
-            ]
-          }
-        ]
-      }
-    }
-  },
   "1893": {
     "ana_chart": {
       "labels": [
@@ -5590,9 +5605,9 @@
     "ana_chart": {
       "labels": [
         "Privatveranstaltung",
-        "Theater",
         "Musik",
         "anderes",
+        "Theater",
         "Vortrag"
       ],
       "datasets": [
@@ -5600,9 +5615,9 @@
           "label": "Veranstaltungstypen im Jahr 1889",
           "data": [
             15,
-            18,
             31,
             14,
+            17,
             3
           ]
         }
@@ -5627,25 +5642,6 @@
               2,
               7,
               3,
-              1
-            ]
-          }
-        ]
-      },
-      "Theater": {
-        "labels": [
-          "Theateraufführung",
-          "Theaterpremiere",
-          "Generalprobe",
-          "Theateruraufführung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Theater' im Jahr 1889",
-            "data": [
-              13,
-              3,
-              1,
               1
             ]
           }
@@ -5698,6 +5694,25 @@
               1,
               4,
               2,
+              1
+            ]
+          }
+        ]
+      },
+      "Theater": {
+        "labels": [
+          "Theateraufführung",
+          "Theaterpremiere",
+          "Generalprobe",
+          "Theateruraufführung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Theater' im Jahr 1889",
+            "data": [
+              12,
+              3,
+              1,
               1
             ]
           }

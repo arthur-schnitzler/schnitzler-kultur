@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-10-15">serialized</change>
+      <change when-iso="2025-10-24">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,65 @@
       
            
       <listBibl>
+        <bibl xml:id="pmb298993">
+          
+  
+          <title type="main">Fiaker 117. Comödie in drei Akten</title>
+          
+  
+          <author key="pmb3319" role="hat-ubersetzt">Fischl, Ludwig</author>
+          
+  
+          <author key="pmb21778" role="hat-geschaffen">Najac, Émile de</author>
+          
+  
+          <author key="pmb21463" role="hat-geschaffen">Millaud, Albert</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298993/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb298968">
+          
+  
+          <title type="main">Les Charbonniers. Opérette en un acte</title>
+          
+  
+          <author key="pmb298971" role="hat-vertont">Costé, Jules</author>
+          
+  
+          <author key="pmb17024" role="hat-geschaffen">Gille, Philippe</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298968/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Operette</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb296020">
           
   
@@ -2562,6 +2621,43 @@
             
 
           </note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb202739">
+          
+  
+          <title type="main">Der Trompeter von Säckingen</title>
+          
+  
+          <author key="pmb152664" role="hat-geschaffen">Nessler, Viktor</author>
+          
+
+          <date notBefore-iso="1884-01-01" when-iso="1884-01-01">1884</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202739/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/30054085X</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_953.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
           
 
         </bibl>
@@ -5736,6 +5832,19 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195828.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb195827">
+          
+  
+          <title type="main">Liebesträume. Comödie in 1 Act</title>
+          
+  
+          <author key="pmb11175" role="hat-geschaffen">Dreyer, Max</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195827/</idno>
           
 
         </bibl>
@@ -10028,7 +10137,7 @@
         <bibl xml:id="pmb195524">
           
   
-          <title type="main">Niniche</title>
+          <title type="main">Niniche. Vaudeville en trois actes</title>
           
   
           <author key="pmb154305" role="hat-geschaffen">Hennequin, Alfred</author>
@@ -10037,10 +10146,25 @@
           <author key="pmb21463" role="hat-geschaffen">Millaud, Albert</author>
           
   
+          <author key="pmb298982" role="hat-vertont">Boullard, Marius</author>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195524/</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195524.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Vaudeville</note>
           
 
         </bibl>
@@ -13616,25 +13740,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb164848.html</idno>
-          
-
-        </bibl>
-        <bibl xml:id="pmb164763">
-          
-  
-          <title type="main">Der Trompeter von Säkkingen</title>
-          
-  
-          <author key="pmb64888" role="hat-geschaffen">Scheffel, Joseph Victor von</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164763/</idno>
-          
-  
-          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164763</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb164763.html</idno>
           
 
         </bibl>
@@ -27723,7 +27828,7 @@
         <bibl xml:id="pmb81017">
           
   
-          <title type="main">Fiaker 117. Schwank in 3 Acten</title>
+          <title type="main">Le Fiacre 117. Comédie en trois actes</title>
           
   
           <author key="pmb21463" role="hat-geschaffen">Millaud, Albert</author>
@@ -34854,7 +34959,7 @@
         <bibl xml:id="pmb80691">
           
   
-          <title type="main">Mam’zelle Nitouche</title>
+          <title type="main">Mam’zelle Nitouche. Comédie-Vaudeville en trois actes et quatre tableaux</title>
           
   
           <title type="legacy-name-merge">Mam’zelle Nitouche</title>
@@ -34902,10 +35007,7 @@
           </note>
           
   
-          <note type="work_kind">Operette</note>
-          
-  
-          <note type="references"> </note>
+          <note type="work_kind">Vaudeville</note>
           
 
         </bibl>
@@ -56878,11 +56980,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77693.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb77693</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -63751,6 +63859,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77019.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb60656</idno>
+          
 
           <note type="collections">
             
@@ -63759,6 +63870,9 @@
             
   
             <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -67760,13 +67874,16 @@
         <bibl xml:id="pmb76502">
           
   
-          <title type="main">Wilddiebe</title>
+          <title type="main">Wilddiebe. Lustspiel in vier Akten</title>
           
   
           <author key="pmb11673" role="hat-geschaffen">Herzl, Theodor</author>
           
   
           <author key="pmb2739" role="hat-geschaffen">Wittmann, Hugo</author>
+          
+
+          <date when-iso="1889-03-19">1889-03-19</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76502/</idno>
@@ -67780,8 +67897,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76502.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -67863,6 +67989,9 @@
           
   
           <title type="werk_bibliografische-angabe">Das neue Ghetto. Schauspiel in 4 Acten, Wien: Buchdruckerei »Industrie« – Selbstverlag 1903.</title>
+          
+  
+          <title type="werk_arbeitstitel">Ghetto</title>
           
   
           <author key="pmb11673" role="hat-geschaffen">Herzl, Theodor</author>
@@ -68255,11 +68384,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63885.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb63885</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -68420,6 +68555,12 @@
   
           <title type="main">Prinzen aus Genieland. Lustspiel in 4 Akten</title>
           
+  
+          <title type="werk_link">https://www.google.at/books/edition/Prinzen_aus_Genieland_Lustspiel_in_4_Act/tU8FmrMNYHgC</title>
+          
+  
+          <author key="pmb11673" role="hat-geschaffen">Herzl, Theodor</author>
+          
 
           <date notBefore-iso="1891-01-01" when-iso="1891-01-01">1891</date>
           
@@ -68497,11 +68638,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb62775.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb62775</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -68537,11 +68684,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb62349.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb62349</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -68626,11 +68779,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb61461.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb61461</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -68864,11 +69023,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb56987.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb56987</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -69022,11 +69187,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb56821.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb56821</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -69136,11 +69307,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb54326.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb54326</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -69182,11 +69359,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb53924.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb53924</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -69228,11 +69411,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb53718.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb53718</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -69277,6 +69466,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb53311.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb53311</idno>
+          
 
           <note type="collections">
             
@@ -69285,6 +69477,9 @@
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -69351,11 +69546,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52904.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb52904</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -69412,6 +69613,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52902.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb52902</idno>
+          
 
           <note type="collections">
             
@@ -69420,6 +69624,9 @@
             
   
             <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -70199,11 +70406,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42416.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb42416</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -73866,11 +74079,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33366.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb33366</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -73912,11 +74131,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33273.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb33273</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -73961,27 +74186,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <title type="werk_link">https://schnitzler-tagebuch.acdh.oeaw.ac.at</title>
-          
-  
-          <author key="pmb119261" role="hat-herausgegeben">Braunwarth, Peter Michael</author>
-          
-  
-          <author key="pmb65504" role="hat-herausgegeben">Urbach, Reinhard</author>
-          
-  
-          <author key="pmb143327" role="hat-herausgegeben">Welzig, Werner</author>
-          
-  
-          <author key="pmb143331" role="hat-herausgegeben">Miklin, Richard</author>
-          
-  
-          <author key="pmb119271" role="hat-herausgegeben">Fliedl, Konstanze</author>
-          
-  
-          <author key="pmb143334" role="hat-herausgegeben">Ruprechter, Walter</author>
-          
-  
-          <author key="pmb143337" role="hat-herausgegeben">Pertlik, Susanne</author>
           
   
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
@@ -74077,7 +74281,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb33101">
           
   
-          <title type="main">Die Sündfluth</title>
+          <title type="main">Die Sündfluth. Schauspiel in vier Akten</title>
           
   
           <title type="legacy-name-merge">Die Sündfluth</title>
@@ -74089,7 +74293,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb12099" role="hat-geschaffen">Loewe, Konrad</author>
           
 
-          <date notBefore-iso="1893-01-01" when-iso="1893-01-01">1893</date>
+          <date when-iso="1893-10-07">1893-10-07</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33101/</idno>
@@ -74105,6 +74309,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33101.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -74518,6 +74731,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32951.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb32951</idno>
+          
 
           <note type="collections">
             
@@ -74526,6 +74742,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -74637,6 +74856,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32850.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb32850</idno>
+          
 
           <note type="collections">
             
@@ -74645,6 +74867,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -75299,11 +75524,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32544.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb32544</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -77267,6 +77498,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32047.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb32047</idno>
+          
 
           <note type="collections">
             
@@ -77275,6 +77509,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -77512,6 +77749,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_bibliografische-angabe">Neue Deutsche Rundschau, Jg. 6, H. 8, 1. 8. 1895, S. 779-798</title>
           
   
+          <title type="werk_arbeitstitel">Die Verwandlung</title>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
@@ -77549,13 +77789,16 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb31971">
           
   
-          <title type="main">Musotte</title>
+          <title type="main">Musotte. Schauspiel in drei Akten</title>
           
   
           <author key="pmb12201" role="hat-geschaffen">Maupassant, Guy de</author>
           
   
           <author key="pmb4323" role="hat-geschaffen">Normand, Jacques</author>
+          
+  
+          <author key="pmb154426" role="hat-ubersetzt">Gerhard, Leo</author>
           
 
           <date notBefore-iso="1891-01-01" when-iso="1891-01-01">1891</date>
@@ -77571,6 +77814,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31971.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -77904,11 +78156,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31929.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31929</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -78813,11 +79071,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31729.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31729</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -79047,6 +79311,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31671.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31671</idno>
+          
 
           <note type="collections">
             
@@ -79055,6 +79322,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -79456,11 +79726,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31623.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31623</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -80497,11 +80773,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31511.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31511</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -81152,6 +81434,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31393.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31393</idno>
+          
 
           <note type="collections">
             
@@ -81160,6 +81445,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="26">Die Insel</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -81388,7 +81676,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb31329">
           
   
-          <title type="main">Heimat</title>
+          <title type="main">Heimat. Schauspiel in vier Akten</title>
+          
+  
+          <title type="legacy-name-merge">Heimat</title>
           
   
           <author key="pmb12899" role="hat-geschaffen">Sudermann, Hermann</author>
@@ -81409,13 +81700,37 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb31329.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164960/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31329.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31329.html</idno>
           
   
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5699549</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164960</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references"> </note>
           
 
         </bibl>
@@ -82115,11 +82430,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31181.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31181</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -85845,11 +86166,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30595.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb30595</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -86619,11 +86946,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30421.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb30421</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -90431,6 +90764,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30009.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb30009</idno>
+          
 
           <note type="collections">
             
@@ -90439,6 +90775,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -93267,11 +93606,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29829.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb29829</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
@@ -93310,11 +93655,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29827.html</idno>
           
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb29827</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            
+  
+            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </note>
