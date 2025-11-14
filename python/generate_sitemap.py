@@ -12,7 +12,7 @@ from xml.etree.ElementTree import Element, SubElement, tostring, ElementTree
 from xml.dom import minidom
 
 # Configuration
-BASE_URL = "https://arthur-schnitzler.github.io/schnitzler-kultur/"
+BASE_URL = "https://schnitzler-kultur.acdh.oeaw.ac.at/"
 HTML_DIR = "html"
 OUTPUT_FILE = "html/sitemap.xml"
 
