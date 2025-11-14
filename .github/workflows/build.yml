@@ -43,6 +43,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Build the app
         run: ant
+      - name: Generate sitemap.xml
+        run: python python/generate_sitemap.py
       - name: Show output directory
         run: ls -R html
       - name: Setup Pages

@@ -5,19 +5,47 @@
     <xsl:include href="./params.xsl"/>
     <xsl:template match="/" name="html_head">
         <xsl:param name="html_title" select="$project_short_title"/>
+        <xsl:param name="page_url" select="''"/>
+        <xsl:variable name="full_url">
+            <xsl:choose>
+                <xsl:when test="$page_url != ''">
+                    <xsl:value-of select="concat($base_url, $page_url)"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="$base_url"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:variable name="description">
+            <xsl:choose>
+                <xsl:when test="normalize-space($html_title) != normalize-space($project_short_title)">
+                    <xsl:value-of select="concat($html_title, ' – ', $project_title)"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="$project_title"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="author" content="Martin Anton Müller, Laura Untner"/>
+        <meta name="robots" content="index, follow"/>
         <title>
             <xsl:value-of select="$html_title"/>
         </title>
-        <!-- <link rel="canonical" href="{$base_url}" /> -->
-        <meta name="description" content="{$project_title}"/>
+        <link rel="canonical" href="{$full_url}"/>
+        <meta name="description" content="{$description}"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:title" content="{$project_short_title}"/>
-        <meta property="og:description" content="{$project_title}"/>
-        <!-- <meta property="og:url" content="{$base_url}" /> -->
+        <meta property="og:title" content="{$html_title}"/>
+        <meta property="og:description" content="{$description}"/>
+        <meta property="og:url" content="{$full_url}"/>
         <meta property="og:site_name" content="{$project_short_title}"/>
-        <meta property="og:image" content="{$project_logo}"/>
+        <meta property="og:image" content="{concat($base_url, $project_logo)}"/>
+        <meta property="og:locale" content="de_DE"/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:title" content="{$html_title}"/>
+        <meta name="twitter:description" content="{$description}"/>
+        <meta name="twitter:image" content="{concat($base_url, $project_logo)}"/>
         <link href="vendor/bootstrap-5.3.5-dist/css/bootstrap.min.css" rel="stylesheet"/>
         <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css"/>
         <link rel="stylesheet" href="css/style.css" type="text/css"/>

@@ -19,11 +19,12 @@
             <head>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="'Verzeichnis der Ereignisse'"/>
+                    <xsl:with-param name="page_url" select="'listevent.html'"/>
                 </xsl:call-template>
                 <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css"
                     rel="stylesheet"/>
-                    
-                    
+
+
             </head>
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
@@ -265,6 +266,7 @@
                     <head>
                         <xsl:call-template name="html_head">
                             <xsl:with-param name="html_title" select="$name"/>
+                            <xsl:with-param name="page_url" select="$filename"/>
                         </xsl:call-template>
                         <link rel="stylesheet"
                             href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
