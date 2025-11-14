@@ -21,6 +21,7 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="'Schnitzler: Kulturveranstaltungen'"/>
                 </xsl:call-template>
+                <meta name="google-site-verification" content="dc888ZmCroA0_VKEB86Vss7wy4Jbkaro0j2QfM8GOak" />
             </head>
             <body class="page" style="background-color:#f1f1f1;">
                 <div class="hfeed site" id="page">
