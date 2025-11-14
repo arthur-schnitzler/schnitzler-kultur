@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-10-24">serialized</change>
+      <change when-iso="2025-11-14">serialized</change>
       
        
     </revisionDesc>
@@ -121062,6 +121062,27 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb117889.html</idno>
           
 
+          <affiliation notBefore-iso="1896-01-01" when-iso="1896-01-01" notAfter-iso="1896-12-31">
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="299684">Théâtre de la Porte Saint-Martin</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299684/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q609842</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_de_la_Porte_Saint-Martin</idno>
+            
+
+          </affiliation>
+          
+
           <listBibl>
             
     
@@ -122111,6 +122132,107 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb117264.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="12">Die Fackel</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb117260">
+          
+  
+          <persName>
+            
+      
+            <forename>Félix</forename>
+            
+      
+            <surname>Bertaux</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1881-11-09">1881-11-09</date>
+            
+      
+            <settlement key="299486">
+              
+        
+              <placeName type="pref">Dombras</placeName>
+              
+        
+              <location>
+                <geo>49,391388888889 5,4588888888889</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1948-09-19">1948-09-19</date>
+            
+      
+            <settlement key="113868">
+              
+        
+              <placeName type="pref">Sèvres</placeName>
+              
+        
+              <location>
+                <geo>48,823055 2,2175</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="100">Kritiker/Kritikerin</occupation>
+          
+  
+          <occupation key="116">Übersetzer/Übersetzerin</occupation>
+          
+  
+          <occupation key="239">Germanist/Germanistin</occupation>
+          
+  
+          <occupation key="260">Gymnasiallehrer/Gymnasiallehrerin</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/117260/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119156083</idno>
+          
+  
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp39162</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q610261</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/F%C3%A9lix_Bertaux</idno>
           
 
           <listBibl>
@@ -123434,6 +123556,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb115905.html</idno>
           
+  
+          <idno type="URL" subtype="sturm">https://sturm-edition.de/id/P.0000108</idno>
+          
 
           <listBibl>
             
@@ -123442,6 +123567,9 @@
             
     
             <bibl type="collections" n="42">Die Schaubühne</bibl>
+            
+    
+            <bibl type="collections" n="78">Der Sturm</bibl>
             
 
           </listBibl>
@@ -124987,6 +125115,27 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb114855.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Theateruraufführung" key="35089" when-iso="1920-12-23">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Reigen, 23.12.1920</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35089/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
           
 
           <listBibl>
@@ -128153,11 +128302,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb113229.html</idno>
           
+  
+          <idno type="URL" subtype="sturm">https://sturm-edition.de/id/P.0000092</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="78">Der Sturm</bibl>
             
 
           </listBibl>
@@ -150793,7 +150948,7 @@
           <death>
             
     
-            <date when-iso="1969-08-01" notAfter-iso="1969-08-31">1969.08</date>
+            <date when-iso="1969-08-01" notAfter-iso="1969-08-31">1969-08</date>
             
       
             <settlement key="54042">
@@ -150853,6 +151008,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -157685,7 +157849,7 @@
           <birth>
             
     
-            <date when-iso="1904-02-21">21.02.1904</date>
+            <date when-iso="1903-04-13">13.4.1903</date>
             
   
           </birth>
@@ -157694,7 +157858,21 @@
           <death>
             
     
-            <date when-iso="1986-08-01" notAfter-iso="1986-08-31">1986.08</date>
+            <date when-iso="1993-11-15">1993-11-15</date>
+            
+      
+            <settlement key="299466">
+              
+        
+              <placeName type="pref">Morro Bay</placeName>
+              
+        
+              <location>
+                <geo>35,379166666667 -120,85333333333</geo>
+              </location>
+              
+      
+            </settlement>
             
   
           </death>
@@ -161152,6 +161330,27 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296492.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Liederkonzert" key="183571" when-iso="1911-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Gesangskonzert Olga Schnitzler, 5.2.1911</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183571.html</idno>
               
     
             </event>
@@ -165685,20 +165884,6 @@
       
             </settlement>
             
-      
-            <settlement key="224">
-              
-        
-              <placeName type="pref">London</placeName>
-              
-        
-              <location>
-                <geo>51,50853 -0,12574</geo>
-              </location>
-              
-      
-            </settlement>
-            
   
           </birth>
             
@@ -167929,7 +168114,7 @@
           <death>
             
     
-            <date when-iso="1951-05-01" notAfter-iso="1951-05-31">1951.05</date>
+            <date when-iso="1951-05-02">1951-05-02</date>
             
       
             <settlement key="224">
@@ -167971,6 +168156,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb25378.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -168576,6 +168770,24 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb256713.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ballett" key="264226" when-iso="1924-11-29">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Ballett des Ellen Tels-Ensembles, 29.11.1924</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/264226/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb264226.html</idno>
               
     
             </event>
@@ -176118,6 +176330,27 @@
             </event>
             
     
+            <event n="Liederkonzert" key="183571" when-iso="1911-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Gesangskonzert Olga Schnitzler, 5.2.1911</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theaterpremiere" key="88534" when-iso="1911-10-14">
               
         
@@ -177821,6 +178054,27 @@
           
 
           <listEvent>
+            
+    
+            <event n="Liederkonzert" key="183571" when-iso="1911-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Gesangskonzert Olga Schnitzler, 5.2.1911</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+    
+            </event>
             
     
             <event n="Liederkonzert" key="183590" when-iso="1913-01-22">
@@ -186738,7 +186992,7 @@
               <desc n="1256">mitwirkend an</desc>
               
         
-              <label>Premiere von Reigen. Zehn Dialoge, 23.12.1920</label>
+              <label>Premiere von Reigen, 23.12.1920</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35089/</idno>
@@ -191987,7 +192241,7 @@
           <death>
             
     
-            <date when-iso="1993-05-01" notAfter-iso="1993-05-31">1993.05</date>
+            <date when-iso="1993-05-01" notAfter-iso="1993-05-31">1993-05</date>
             
       
             <settlement key="34468">
@@ -192023,6 +192277,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb22504.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -195340,7 +195603,7 @@
           <death>
             
     
-            <date when-iso="1946-02-01" notAfter-iso="1946-02-28">1946.02</date>
+            <date when-iso="1946-02-01" notAfter-iso="1946-02-28">1946-02</date>
             
   
           </death>
@@ -195362,6 +195625,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb22062.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -196237,7 +196509,7 @@
           <death>
             
     
-            <date when-iso="1921-09-01" notAfter-iso="1921-09-30">1921.09</date>
+            <date when-iso="1922-08-10">1922-08-10</date>
             
       
             <settlement key="38216">
@@ -196276,6 +196548,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb21947.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -200981,7 +201262,7 @@
           <death>
             
     
-            <date when-iso="1925-07-01" notAfter-iso="1925-07-31">1925.07</date>
+            <date when-iso="1925-07-01" notAfter-iso="1925-07-31">1925-07</date>
             
       
             <settlement key="56126">
@@ -202109,7 +202390,7 @@
           <death>
             
     
-            <date>Juni 1962</date>
+            <date when-iso="1962-06-01" notAfter-iso="1962-06-30">1962-06</date>
             
       
             <settlement key="44053">
@@ -202172,6 +202453,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -203290,27 +203580,22 @@
           </persName>
           
   
-          <persName type="legacy-name-merge">Massary, Fritzi</persName>
+          <persName type="person_geburtsname_vorname">Friederike</persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Masařik</persName>
+          
+  
+          <persName type="person_ehename_nachname">Pollack</persName>
+          
+  
+          <persName type="person_ehename_nachname">Pallenberg</persName>
           
   
           <birth>
             
     
             <date when-iso="1882-03-01">01.03.1882</date>
-            
-      
-            <settlement key="50">
-              
-        
-              <placeName type="pref">Wien</placeName>
-              
-        
-              <location>
-                <geo>48,208333 16,373056</geo>
-              </location>
-              
-      
-            </settlement>
             
       
             <settlement key="50">
@@ -203558,6 +203843,140 @@
             
 
           </listEvent>
+          
+
+        </person>
+        <person xml:id="pmb21137">
+          
+  
+          <persName>
+            
+      
+            <forename>Paul</forename>
+            
+      
+            <surname>Marx</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Mosé</persName>
+          
+  
+          <persName type="legacy-name-merge">Marx, Paul</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1861-06-04">04.06.1861</date>
+            
+      
+            <settlement key="677">
+              
+        
+              <placeName type="pref">Breslau</placeName>
+              
+        
+              <location>
+                <geo>51,10773 17,03533</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1919-11-27">27.11.1919</date>
+            
+      
+            <settlement key="168">
+              
+        
+              <placeName type="pref">Berlin</placeName>
+              
+        
+              <location>
+                <geo>52,52437 13,41053</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="99">Journalist/Journalistin</occupation>
+          
+  
+          <occupation key="100">Kritiker/Kritikerin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17959.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb21137.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21137/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95257332</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb21137.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/161222/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb161222</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb21137.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
+          
+  
+          <note type="references"> </note>
           
 
         </person>
@@ -207776,6 +208195,9 @@
           </persName>
           
   
+          <persName type="person_geschieden_nachname">Löwenstein</persName>
+          
+  
           <birth>
             
     
@@ -211524,6 +211946,214 @@
             
 
           </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb20060">
+          
+  
+          <persName>
+            
+      
+            <forename>Alice</forename>
+            
+      
+            <surname>Landesmann</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Stein</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1882-01-07">1882-01-07</date>
+            
+      
+            <settlement key="866">
+              
+        
+              <placeName type="pref">Dresden</placeName>
+              
+        
+              <location>
+                <geo>51,0833 13,7666</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1963-11-11">1963-11-11</date>
+            
+      
+            <settlement key="168">
+              
+        
+              <placeName type="pref">Berlin</placeName>
+              
+        
+              <location>
+                <geo>52,52437 13,41053</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="female"/>
+          
+  
+          <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17282.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20060/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95208222</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb20058">
+          
+  
+          <persName>
+            
+      
+            <forename>Adolf</forename>
+            
+      
+            <surname>Landesmann</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1867-10-24">24.10.1867</date>
+            
+      
+            <settlement key="662">
+              
+        
+              <placeName type="pref">Baden bei Wien</placeName>
+              
+        
+              <location>
+                <geo>48,00543 16,23264</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1925-01-05">1925-01-05</date>
+            
+      
+            <settlement key="168">
+              
+        
+              <placeName type="pref">Berlin</placeName>
+              
+        
+              <location>
+                <geo>52,52437 13,41053</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="235">Bankangestellter/Bankangestellte</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17281.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20058/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb20058.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
           
 
         </person>
@@ -216422,7 +217052,7 @@
           <death>
             
     
-            <date when-iso="1958-04-01" notAfter-iso="1958-04-30">1958.04</date>
+            <date when-iso="1958-04-01" notAfter-iso="1958-04-30">1958-04</date>
             
       
             <settlement key="44053">
@@ -222243,6 +222873,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35176.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
               
     
             </event>
@@ -252183,7 +252828,7 @@
           <death>
             
     
-            <date when-iso="1973-06-01" notAfter-iso="1973-06-30">1973.06</date>
+            <date when-iso="1973-06-01">1973-06-01</date>
             
       
             <settlement key="182">
@@ -252228,6 +252873,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb15289.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -254825,6 +255479,9 @@
           
   
           <persName type="person_pseudonym">Dominique Auclères</persName>
+          
+  
+          <persName type="person_geburtsname_vorname">Suzanne-Elisabeth d’</persName>
           
   
           <birth>
@@ -259607,7 +260264,7 @@
           <death>
             
     
-            <date when-iso="1948-09-01" notAfter-iso="1948-09-30">1948.09</date>
+            <date when-iso="1948-10-02">1948-10-02</date>
             
   
           </death>
@@ -264418,6 +265075,9 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Besnard</persName>
+          
+  
           <birth>
             
     
@@ -264441,6 +265101,29 @@
           </birth>
             
   
+          <death>
+            
+    
+            <date when-iso="1955-01-01" notAfter-iso="1955-12-31">1955</date>
+            
+      
+            <settlement key="182">
+              
+        
+              <placeName type="pref">Paris</placeName>
+              
+        
+              <location>
+                <geo>48,85341 2,3488</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
           <sex value="male"/>
           
   
@@ -264457,6 +265140,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb14156.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14155/</idno>
           
 
           <listBibl>
@@ -276183,6 +276869,27 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_42299</idno>
           
 
+          <affiliation notBefore-iso="1884-01-01" when-iso="1884-01-01" notAfter-iso="1884-12-31">
+            
+    
+            <term key="4232">ist Mitglied bei</term>
+            
+    
+            <orgName key="299532">Gegen den Strom</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299532/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q136724778</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gegen_den_Strom_(K%C3%BCnstlervereinigung)</idno>
+            
+
+          </affiliation>
+          
+
           <affiliation when-iso="1891-07-07">
             
     
@@ -276682,6 +277389,27 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb13082.html</idno>
           
 
+          <affiliation notBefore-iso="1884-01-01" when-iso="1884-01-01" notAfter-iso="1884-12-31">
+            
+    
+            <term key="4232">ist Mitglied bei</term>
+            
+    
+            <orgName key="299532">Gegen den Strom</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299532/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q136724778</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gegen_den_Strom_(K%C3%BCnstlervereinigung)</idno>
+            
+
+          </affiliation>
+          
+
           <affiliation when-iso="1899-03-27">
             
     
@@ -276809,6 +277537,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59292.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Lesung" key="299555" when-iso="1899-02-19">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Lesung von Max Burckhard, Vinzenz Chiavacci, Carl Karlweis und Gustav Schwarzkopf, 19.2.1899</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299555/</idno>
               
     
             </event>
@@ -283809,6 +284552,24 @@
     
             </event>
             
+    
+            <event n="Theateraufführung" key="256171" when-iso="1924-01-16">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Aufführung von Mein Vater hat recht gehabt, 16.1.1924</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/256171/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb256171.html</idno>
+              
+    
+            </event>
+            
 
           </listEvent>
           
@@ -283972,6 +284733,24 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210243.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="256171" when-iso="1924-01-16">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Aufführung von Mein Vater hat recht gehabt, 16.1.1924</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/256171/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb256171.html</idno>
               
     
             </event>
@@ -290354,6 +291133,27 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb12740.html</idno>
           
 
+          <affiliation notBefore-iso="1884-01-01" when-iso="1884-01-01" notAfter-iso="1884-12-31">
+            
+    
+            <term key="4232">ist Mitglied bei</term>
+            
+    
+            <orgName key="299532">Gegen den Strom</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299532/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q136724778</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gegen_den_Strom_(K%C3%BCnstlervereinigung)</idno>
+            
+
+          </affiliation>
+          
+
           <affiliation when-iso="1893-12-26">
             
     
@@ -290724,6 +291524,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb48949.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Lesung" key="299555" when-iso="1899-02-19">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Lesung von Max Burckhard, Vinzenz Chiavacci, Carl Karlweis und Gustav Schwarzkopf, 19.2.1899</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299555/</idno>
               
     
             </event>
@@ -291469,8 +292284,14 @@
 
           </listBibl>
           
-  
-          <note type="references"> </note>
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Gustav_Schwarzkopf_auf_einer_Schnellfotografie.png"/>
+            
+
+          </figure>
           
 
         </person>
@@ -319175,6 +319996,51 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb12331.html</idno>
           
 
+          <affiliation notBefore-iso="1884-01-01" when-iso="1884-01-01" notAfter-iso="1884-12-31">
+            
+    
+            <term key="4232">ist Mitglied bei</term>
+            
+    
+            <orgName key="299532">Gegen den Strom</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299532/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q136724778</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gegen_den_Strom_(K%C3%BCnstlervereinigung)</idno>
+            
+
+          </affiliation>
+          
+
+          <affiliation notBefore-iso="1884-01-01" when-iso="1884-01-01" notAfter-iso="1884-12-31">
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="29424">Deutsche Zeitung</orgName>
+            
+    
+            <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29424.html</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29424/</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29424.html</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29424.html</idno>
+            
+
+          </affiliation>
+          
+
           <affiliation notBefore-iso="1893-01-01" when-iso="1893-01-01" notAfter-iso="1893-12-31">
             
     
@@ -324642,7 +325508,7 @@
           <persName>
             
       
-            <forename>Germaine Léontine Angélique</forename>
+            <forename>Germaine</forename>
             
       
             <surname>Lubin</surname>
@@ -324652,6 +325518,9 @@
           
   
           <persName type="person_ehename_nachname">Lefèvre-Geraldy</persName>
+          
+  
+          <persName type="person_geburtsname_vorname">Germaine Léontine Angélique</persName>
           
   
           <birth>
@@ -324749,6 +325618,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
           <figure>
@@ -337413,6 +338291,21 @@
             </event>
             
     
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Vortrag" key="46276" when-iso="1906-11-30">
               
         
@@ -338679,6 +339572,27 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb11707.html</idno>
+          
+
+          <affiliation notBefore-iso="1884-01-01" when-iso="1884-01-01" notAfter-iso="1884-12-31">
+            
+    
+            <term key="4232">ist Mitglied bei</term>
+            
+    
+            <orgName key="299532">Gegen den Strom</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299532/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q136724778</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gegen_den_Strom_(K%C3%BCnstlervereinigung)</idno>
+            
+
+          </affiliation>
           
 
           <affiliation notBefore-iso="1886-01-01" when-iso="1886-01-01" notAfter-iso="1886-12-31">
@@ -347425,23 +348339,8 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143176.html</idno>
               
-    
-            </event>
-            
-    
-            <event n="Theateraufführung" key="199847" when-iso="1896-09-15">
-              
-        
-              <desc n="1256">mitwirkend an</desc>
-              
-        
-              <label>Aufführung von Liebelei, 15.9.1896</label>
-              
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199847/</idno>
-              
-        
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb199847.html</idno>
               
     
             </event>
@@ -351958,7 +352857,7 @@
               <desc n="1256">mitwirkend an</desc>
               
         
-              <label>Premiere von Reigen. Zehn Dialoge, 23.12.1920</label>
+              <label>Premiere von Reigen, 23.12.1920</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35089/</idno>
@@ -358228,6 +359127,21 @@
             </event>
             
     
+            <event n="Lesung" key="299555" when-iso="1899-02-19">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Lesung von Max Burckhard, Vinzenz Chiavacci, Carl Karlweis und Gustav Schwarzkopf, 19.2.1899</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299555/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Bankett" key="143820" when-iso="1900-04-15">
               
         
@@ -360162,6 +361076,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145637.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
               
     
             </event>
@@ -366269,6 +367198,27 @@
             </event>
             
     
+            <event n="Liederkonzert" key="183571" when-iso="1911-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Gesangskonzert Olga Schnitzler, 5.2.1911</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Private Lesung" key="148369" when-iso="1912-05-30">
               
         
@@ -366998,6 +367948,27 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb46480.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Liederkonzert" key="183571" when-iso="1911-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Gesangskonzert Olga Schnitzler, 5.2.1911</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183571.html</idno>
               
     
             </event>
@@ -370425,7 +371396,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Uraufführung von Novella d'Andrea, 21.11.1903</label>
+              <label>Uraufführung von Novella d’Andrea, 21.11.1903</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209302/</idno>
@@ -375449,6 +376420,27 @@
           
 
           <listEvent>
+            
+    
+            <event n="Liederkonzert" key="183571" when-iso="1911-02-05">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Gesangskonzert Olga Schnitzler, 5.2.1911</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+    
+            </event>
             
     
             <event n="Klavierkonzert" key="209816" when-iso="1916-03-03">
@@ -386326,7 +387318,7 @@
           <death>
             
     
-            <date when-iso="1933-05-01" notAfter-iso="1933-05-31">1933.05</date>
+            <date when-iso="1933-05-05">1933-05-05</date>
             
   
           </death>
@@ -386357,6 +387349,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb9825.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -391791,7 +392792,7 @@
           <death>
             
     
-            <date when-iso="1962-09-01" notAfter-iso="1962-09-30">1962.09</date>
+            <date when-iso="1962-09-07">1962-09-07</date>
             
       
             <settlement key="38166">
@@ -391911,6 +392912,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -427096,7 +428106,7 @@
           <death>
             
     
-            <date when-iso="1994-02-01" notAfter-iso="1994-02-28">1994.02</date>
+            <date when-iso="1994-02-01" notAfter-iso="1994-02-28">1994-02</date>
             
       
             <settlement key="37116">
@@ -427183,6 +428193,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -440666,6 +441685,24 @@
           <listEvent>
             
     
+            <event n="Ballett" key="264226" when-iso="1924-11-29">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Ballett des Ellen Tels-Ensembles, 29.11.1924</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/264226/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb264226.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Private Lesung" key="252184" when-iso="1925-02-16">
               
         
@@ -445850,6 +446887,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35176.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
               
     
             </event>
@@ -453781,24 +454833,13 @@
           <persName type="legacy-name-merge">Lugné-Poe, Aurélien François-Marie</persName>
           
   
+          <persName type="legacy-name-merge">Lugné-Poe, Aurélien Marie, verh. mit Suzanne Desprès</persName>
+          
+  
           <birth>
             
     
             <date when-iso="1869-12-27">1869-12-27</date>
-            
-      
-            <settlement key="182">
-              
-        
-              <placeName type="pref">Paris</placeName>
-              
-        
-              <location>
-                <geo>48,85341 2,3488</geo>
-              </location>
-              
-      
-            </settlement>
             
       
             <settlement key="182">
@@ -453822,20 +454863,6 @@
             
     
             <date when-iso="1940-06-19">1940-06-19</date>
-            
-      
-            <settlement key="36443">
-              
-        
-              <placeName type="pref">Avignon</placeName>
-              
-        
-              <location>
-                <geo>43,94834 4,80892</geo>
-              </location>
-              
-      
-            </settlement>
             
       
             <settlement key="20674">
@@ -453889,6 +454916,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/161127/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/161128/</idno>
+          
+  
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3690.html</idno>
           
   
@@ -453899,6 +454929,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb3690.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb161128</idno>
           
 
           <affiliation notBefore-iso="1892-01-01" when-iso="1892-01-01" notAfter-iso="1892-12-31">
@@ -453994,7 +455027,7 @@
           </listBibl>
           
   
-          <note type="references"> </note>
+          <note type="references">  </note>
           
 
           <figure>
@@ -455050,6 +456083,119 @@
             
 
           </figure>
+          
+
+        </person>
+        <person xml:id="pmb3593">
+          
+  
+          <persName>
+            
+      
+            <forename>Philipp</forename>
+            
+      
+            <surname>Stein</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1870-01-07">7.1.1870</date>
+            
+      
+            <settlement key="883">
+              
+        
+              <placeName type="pref">Wiesbaden</placeName>
+              
+        
+              <location>
+                <geo>50,08258 8,24932</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1932-02-05">5.2.1932</date>
+            
+      
+            <settlement key="168">
+              
+        
+              <placeName type="pref">Berlin</placeName>
+              
+        
+              <location>
+                <geo>52,52437 13,41053</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="204">Philologe/Philologin</occupation>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117657654</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3593.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3593/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94848585</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3593.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -456559,9 +457705,6 @@
     
             <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29654.html</idno>
             
-    
-            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Langen_M%C3%BCller_Verlag</idno>
-            
 
           </affiliation>
           
@@ -456740,6 +457883,9 @@
           <persName type="legacy-name-merge">Thaller, Katharine</persName>
           
   
+          <persName type="legacy-name-merge">Thaller, Katharine</persName>
+          
+  
           <birth>
             
     
@@ -456813,10 +457959,16 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94751937</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/162499/</idno>
+          
+  
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb3341.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb3341.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb162499</idno>
           
 
           <listEvent>
@@ -456871,6 +458023,9 @@
             
 
           </listBibl>
+          
+  
+          <note type="references"> </note>
           
 
         </person>
@@ -457473,6 +458628,27 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb3275.html</idno>
+          
+
+          <affiliation notBefore-iso="1896-01-01" when-iso="1896-01-01" notAfter-iso="1896-12-31">
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="299684">Théâtre de la Porte Saint-Martin</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299684/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q609842</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_de_la_Porte_Saint-Martin</idno>
+            
+
+          </affiliation>
           
 
           <listEvent>
@@ -459431,6 +460607,27 @@
           
 
           <listEvent>
+            
+    
+            <event n="Liederkonzert" key="183571" when-iso="1911-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Gesangskonzert Olga Schnitzler, 5.2.1911</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+    
+            </event>
             
     
             <event n="Theaterpremiere" key="59607" when-iso="1914-02-19">
@@ -463078,6 +464275,9 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Lantz, Adolf</persName>
+          
+  
           <birth>
             
     
@@ -463157,10 +464357,16 @@
           <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/pmb2959.html</idno>
           
   
+          <idno type="URL" subtype="schaubuehne">https://schaubuehne.oeaw.ac.at/register.html?author=1341</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2959.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2959.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/267761/</idno>
           
 
           <listEvent>
@@ -463206,6 +464412,15 @@
             
 
           </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="42">Die Schaubühne</bibl>
+            
+
+          </listBibl>
           
 
         </person>
@@ -465411,6 +466626,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35272.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
               
     
             </event>
@@ -468498,6 +469728,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200677.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="299609">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Premiere von Orestie, 06.12.1900</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299609/</idno>
               
     
             </event>
@@ -474352,6 +475597,27 @@
             </event>
             
     
+            <event n="Liederkonzert" key="183571" when-iso="1911-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Gesangskonzert Olga Schnitzler, 5.2.1911</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183571.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Wohltätigkeitskonzert" key="183577" when-iso="1911-03-05">
               
         
@@ -477485,6 +478751,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_55589</idno>
           
+  
+          <idno type="URL" subtype="sturm">https://sturm-edition.de/id/P.0000074</idno>
+          
 
           <listBibl>
             
@@ -477508,6 +478777,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="78">Der Sturm</bibl>
             
 
           </listBibl>
@@ -480865,10 +482137,16 @@
           <sex value="female"/>
           
   
+          <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+          
+  
           <occupation key="99">Journalist/Journalistin</occupation>
           
   
           <occupation key="116">Übersetzer/Übersetzerin</occupation>
+          
+  
+          <occupation key="1263">Literaturkritiker/Literaturkritikerin</occupation>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118758160</idno>
@@ -481190,9 +482468,6 @@
             
 
           </listBibl>
-          
-  
-          <note type="references"> </note>
           
 
           <figure>
@@ -481730,6 +483005,21 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45403/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
               
     
             </event>
@@ -484024,6 +485314,24 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210711.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Ballett" key="264226" when-iso="1924-11-29">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Ballett des Ellen Tels-Ensembles, 29.11.1924</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/264226/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb264226.html</idno>
               
     
             </event>
@@ -494216,6 +495524,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200677.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Lesung" key="299555" when-iso="1899-02-19">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Lesung von Max Burckhard, Vinzenz Chiavacci, Carl Karlweis und Gustav Schwarzkopf, 19.2.1899</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299555/</idno>
               
     
             </event>
@@ -528666,23 +529989,8 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143176.html</idno>
               
-    
-            </event>
-            
-    
-            <event n="Theateraufführung" key="199847" when-iso="1896-09-15">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Aufführung von Liebelei, 15.9.1896</label>
-              
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199847/</idno>
-              
-        
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb199847.html</idno>
               
     
             </event>
@@ -543550,7 +544858,7 @@
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Uraufführung von Novella d'Andrea, 21.11.1903</label>
+              <label>Uraufführung von Novella d’Andrea, 21.11.1903</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209302/</idno>
@@ -548108,6 +549416,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237283.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Feier" key="299618" when-iso="1906-02-05">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Feier des 50. Geburtstages von Otto Brahm</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
               
     
             </event>

@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-10-24">serialized</change>
+      <change when-iso="2025-11-14">serialized</change>
       
        
     </revisionDesc>
@@ -10681,6 +10681,58 @@
           
 
         </place>
+        <place xml:id="pmb237370">
+          
+  
+          <placeName>Kronprinzenufer 7/In den Zelten 14</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>52,52031 13,36774</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb168">Berlin</placeName>
+            
+  
+            <geo>52,52437 13,41053</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237370/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb237370.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb237359">
           
   
@@ -13397,7 +13449,7 @@
         <place xml:id="pmb231514">
           
   
-          <placeName>Bargello</placeName>
+          <placeName>Museo Nazionale del Bargello</placeName>
           
   
           <desc type="entity_type">Museum (K.MUS)</desc>
@@ -43277,6 +43329,9 @@
           
   
           <placeName>Comédie française</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Théâtre-Français</placeName>
           
   
           <desc type="entity_type">S.THTR</desc>

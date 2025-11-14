@@ -2175,7 +2175,7 @@
         {
           "label": "Veranstaltungstypen im Jahr 1896",
           "data": [
-            94,
+            93,
             17,
             1,
             8,
@@ -2199,7 +2199,7 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1896",
             "data": [
-              57,
+              56,
               23,
               5,
               4,
@@ -3364,8 +3364,8 @@
         "Theater",
         "Musik",
         "Vortrag",
-        "Film",
-        "anderes"
+        "anderes",
+        "Film"
       ],
       "datasets": [
         {
@@ -3374,8 +3374,8 @@
             50,
             34,
             4,
-            24,
-            13
+            14,
+            24
           ]
         }
       ]
@@ -3452,6 +3452,23 @@
           }
         ]
       },
+      "anderes": {
+        "labels": [
+          "Feier",
+          "Museumsbesuch",
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1906",
+            "data": [
+              1,
+              12,
+              1
+            ]
+          }
+        ]
+      },
       "Film": {
         "labels": [
           "Panoramabesuch",
@@ -3462,21 +3479,6 @@
             "label": "Verteilung innerhalb von 'Film' im Jahr 1906",
             "data": [
               23,
-              1
-            ]
-          }
-        ]
-      },
-      "anderes": {
-        "labels": [
-          "Museumsbesuch",
-          "Zirkusvorstellung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1906",
-            "data": [
-              12,
               1
             ]
           }
