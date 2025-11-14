@@ -5400,9 +5400,6 @@ var calendarData = [
     "name": "Premiere von Noth kennt kein Gebot, 12.9.1896", "startDate": "1896-09-12", "id": "pmb208852.html", "type": "Theaterpremiere"
   },
   {
-    "name": "Aufführung von Liebelei, 15.9.1896", "startDate": "1896-09-15", "id": "pmb199847.html", "type": "Theateraufführung"
-  },
-  {
     "name": "Aufführung von Liebelei, Jugendliebe, 15.9.1896", "startDate": "1896-09-15", "id": "pmb143176.html", "type": "Theateraufführung"
   },
   {
@@ -7875,7 +7872,7 @@ var calendarData = [
     "name": "Erste Abonnementsoirée des Böhmischen Streich-Quartetts, 20.11.1903", "startDate": "1903-11-20", "id": "pmb209301.html", "type": "Quartett"
   },
   {
-    "name": "Uraufführung von Novella d'Andrea, 21.11.1903", "startDate": "1903-11-21", "id": "pmb209302.html", "type": "Theateruraufführung"
+    "name": "Uraufführung von Novella d’Andrea, 21.11.1903", "startDate": "1903-11-21", "id": "pmb209302.html", "type": "Theateruraufführung"
   },
   {
     "name": "Private Lesung von Der tapfere Cassian, Zum großen Wurstel, Quellen des Nil, 26.11.1903", "startDate": "1903-11-26", "id": "pmb233458.html", "type": "Private Lesung"
@@ -8623,6 +8620,9 @@ var calendarData = [
   },
   {
     "name": "Aufführung von Und Pippa tanzt!, 4.2.1906", "startDate": "1906-02-04", "id": "pmb209411.html", "type": "Theateraufführung"
+  },
+  {
+    "name": "Feier des 50. Geburtstages von Otto Brahm", "startDate": "1906-02-05", "id": "pmb299618.html", "type": "Feier"
   },
   {
     "name": "Arrangierprobe von Der Ruf des Lebens, 5.2.1906", "startDate": "1906-02-05", "id": "pmb237283.html", "type": "Arrangierprobe"
