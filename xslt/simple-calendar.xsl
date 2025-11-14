@@ -17,6 +17,7 @@
         <html lang="de">
             <xsl:call-template name="html_head">
                 <xsl:with-param name="html_title" select="$doc_title"/>
+                <xsl:with-param name="page_url" select="'kalender.html'"/>
             </xsl:call-template>
             <body class="page">
                 <div class="hfeed site" id="page">

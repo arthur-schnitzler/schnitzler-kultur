@@ -17,6 +17,7 @@
             <head>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="'Statistiken'"/>
+                    <xsl:with-param name="page_url" select="'statistik.html'"/>
                 </xsl:call-template>
                 <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css"
                     rel="stylesheet"/>

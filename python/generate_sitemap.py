@@ -7,7 +7,8 @@ Scans the html/ directory for all HTML files and creates a sitemap.xml.
 import os
 from datetime import datetime
 from pathlib import Path
-from xml.etree.ElementTree import Element, SubElement, tostring
+from urllib.parse import quote
+from xml.etree.ElementTree import Element, SubElement, tostring, ElementTree
 from xml.dom import minidom
 
 # Configuration
@@ -30,7 +31,6 @@ PRIORITY_MAP = {
     "ueber-das-projekt.html": ("0.6", "monthly"),
     "faqs.html": ("0.5", "monthly"),
     "imprint.html": ("0.3", "yearly"),
-    "404.html": ("0.1", "yearly"),
 }
 
 DEFAULT_PRIORITY = "0.5"
@@ -57,6 +57,10 @@ def should_include(filename, path):
 
     # Only include .html files
     if not filename.endswith(".html"):
+        return False
+
+    # Exclude 404 page and other error pages
+    if filename in ["404.html"]:
         return False
 
     return True
@@ -87,10 +91,12 @@ def create_sitemap():
     for filename, rel_path, file_path in html_files:
         url = SubElement(urlset, "url")
 
-        # Create URL location
+        # Create URL location with proper URL encoding
         loc = SubElement(url, "loc")
         url_path = rel_path.replace("\\", "/")  # Windows compatibility
-        loc.text = BASE_URL + url_path
+        # URL encode the path but keep slashes
+        encoded_path = "/".join(quote(part, safe="") for part in url_path.split("/"))
+        loc.text = BASE_URL + encoded_path
 
         # Add last modified date
         lastmod = SubElement(url, "lastmod")
@@ -105,14 +111,26 @@ def create_sitemap():
         priority_elem = SubElement(url, "priority")
         priority_elem.text = priority
 
-    # Pretty print XML
-    xml_str = minidom.parseString(tostring(urlset, encoding="utf-8")).toprettyxml(
-        indent="  ", encoding="utf-8"
-    )
+    # Write XML with proper formatting
+    # Use ElementTree for better control over output
+    tree = ElementTree(urlset)
 
-    # Write to file
+    # Write with XML declaration
     with open(OUTPUT_FILE, "wb") as f:
-        f.write(xml_str)
+        f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+        tree.write(f, encoding="utf-8", xml_declaration=False)
+
+    # Pretty print for readability
+    with open(OUTPUT_FILE, "rb") as f:
+        xml_content = f.read()
+
+    try:
+        pretty_xml = minidom.parseString(xml_content).toprettyxml(indent="  ", encoding="UTF-8")
+        with open(OUTPUT_FILE, "wb") as f:
+            f.write(pretty_xml)
+    except:
+        # If pretty printing fails, keep the original
+        pass
 
     print(f"✓ Sitemap generated: {OUTPUT_FILE}")
     print(f"✓ Total URLs: {len(html_files)}")

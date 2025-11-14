@@ -17,6 +17,7 @@
             <head>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="'Zeitachsen-Statistik'"/>
+                    <xsl:with-param name="page_url" select="'statistik-zeitachse.html'"/>
                 </xsl:call-template>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
             </head>

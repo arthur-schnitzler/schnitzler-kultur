@@ -16,6 +16,7 @@
             <head>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"/>
+                    <xsl:with-param name="page_url" select="''"/>
                 </xsl:call-template>
             </head>
             <body class="d-flex flex-column h-100">
