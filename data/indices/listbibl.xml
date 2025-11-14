@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-10-24">serialized</change>
+      <change when-iso="2025-11-14">serialized</change>
       
        
     </revisionDesc>
@@ -18923,6 +18923,9 @@
           <title type="main">The Pirates of Penzance</title>
           
   
+          <title type="legacy-name-merge">The pirates of Penzance</title>
+          
+  
           <author key="pmb25733" role="hat-geschaffen">Sullivan, Arthur Seymour</author>
           
   
@@ -18932,7 +18935,31 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb81386.html</idno>
           
   
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300159129</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1215463</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_3939.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81386.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/206814/</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Die_Piraten_von_Penzance</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Operette</note>
@@ -35655,10 +35682,13 @@
         <bibl xml:id="pmb80643">
           
   
-          <title type="main">Mein Vater hat recht gehabt</title>
+          <title type="main">Mein Vater hat recht gehabt. Komödie in drei Akten</title>
           
   
           <author key="pmb17536" role="hat-geschaffen">Guitry, Sacha</author>
+          
+  
+          <author key="pmb2312" role="hat-ubersetzt">Zuckerkandl, Berta</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/80643/</idno>
@@ -35669,8 +35699,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80643.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -49096,6 +49135,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80112.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q54075992</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Film</note>
@@ -68127,10 +68178,16 @@
         <bibl xml:id="pmb76479">
           
   
-          <title type="main">Der Unbestechliche</title>
+          <title type="main">Der Unbestechliche. Lustspiel in fünf Akten</title>
+          
+  
+          <title type="werk_link">https://www.projekt-gutenberg.org/hofmanns/unbest/unbest.html</title>
           
   
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
+          
+
+          <date when-iso="1923-03-16">1923-03-16</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76479/</idno>
@@ -68140,6 +68197,24 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76479.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1197676</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_Unbestechliche</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -71640,7 +71715,13 @@
           <author key="pmb15015" role="hat-ubersetzt">Clauser, Suzanne</author>
           
   
+          <author key="pmb117260" role="hat-einen-beitrag-geschaffen-zu">Bertaux, Félix</author>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+          
+
+          <date notBefore-iso="1930-01-01" when-iso="1930-01-01">1930</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36056/</idno>
@@ -71653,6 +71734,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb36056.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Novellensammlung</note>
@@ -84972,6 +85062,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30693.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q116522229</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
