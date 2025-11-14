@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-10-24">serialized</change>
+          <change when-iso="2025-11-14">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -53950,43 +53950,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb199847" when-iso="1896-09-15">
-        <eventName n="Theateraufführung">Aufführung von Liebelei, 15.9.1896</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb36247">Burgtheater</orgName>
-                </org>
-            </listOrg>
-        </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199847/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb199847.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
-                <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb11438">Gimnig, Oskar</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-                <location>
-                    <geo>48,210333 16,361139</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb143176" when-iso="1896-09-15">
         <eventName n="Theateraufführung">Aufführung von Liebelei, Jugendliebe, 15.9.1896</eventName>
         <note type="listorg">
@@ -53998,10 +53961,12 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143176/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143176.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199847/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+    <note type="references"> </note>
         <listBibl>
             <bibl>
                 <title key="pmb29917">Liebelei. Schauspiel in drei Akten</title>
@@ -73667,7 +73632,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb231514">Bargello</placeName>
+                <placeName role="veranstaltet in" key="pmb231514">Museo Nazionale del Bargello</placeName>
                 <location>
                     <geo>43,770462 11,25787</geo>
                 </location>
@@ -80549,7 +80514,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209302" when-iso="1903-11-21">
-        <eventName n="Theateruraufführung">Uraufführung von Novella d'Andrea, 21.11.1903</eventName>
+        <eventName n="Theateruraufführung">Uraufführung von Novella d’Andrea, 21.11.1903</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -88518,6 +88483,55 @@
                 <placeName role="veranstaltet in" key="pmb18">Lessing-Theater</placeName>
                 <location>
                     <geo>52,5225 13,376389</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb299618" when-iso="1906-02-05">
+        <eventName n="Feier">Feier des 50. Geburtstages von Otto Brahm</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb10986">Brahm, Otto</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb4532">Jonas, Paul</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb18900">Jonas, Clara</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb3593">Stein, Philipp</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb21137">Marx, Paul</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb20058">Landesmann, Adolf</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb20060">Landesmann, Alice</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2865">Lehmann, Else</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2292">Hofmannsthal, Gertrude von</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb237370">Kronprinzenufer 7/In den Zelten 14</placeName>
+                <location>
+                    <geo>52,52031 13,36774</geo>
                 </location>
             </place>
         </listPlace>
@@ -105245,6 +105259,30 @@
             <person role="hat teilnehmend">
                 <persName key="pmb13212">Zweig, Stefan</persName>
             </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb3159">Schmidl, Hugo</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb24292">Schmidl, Paula</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10860">Beer-Hofmann, Paula</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb26392">Van-Jung, Leo</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2496">Kaufmann, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb24423">Schnitzler, Helene</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb10606">Wolfsohn, Juliusz</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -116358,7 +116396,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb231514">Bargello</placeName>
+                <placeName role="veranstaltet in" key="pmb231514">Museo Nazionale del Bargello</placeName>
                 <location>
                     <geo>43,770462 11,25787</geo>
                 </location>
@@ -149556,7 +149594,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76479">Der Unbestechliche</title>
+                <title key="pmb76479">Der Unbestechliche. Lustspiel in fünf Akten</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -152738,13 +152776,19 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80643">Mein Vater hat recht gehabt</title>
+                <title key="pmb80643">Mein Vater hat recht gehabt. Komödie in drei Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb12948">Thimig, Hugo</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb12945">Thimig, Hermann</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -153409,7 +153453,7 @@
         </listBibl>
         <listPerson>
             <person role="hat mitwirkend">
-                <persName key="pmb12119">Lubin, Germaine Léontine Angélique</persName>
+                <persName key="pmb12119">Lubin, Germaine</persName>
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -158362,6 +158406,15 @@
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb5548">Ellis, Lillian</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb25313">Stampe-Bendix, Karen</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2238">Cappellini, Lili</persName>
             </person>
         </listPerson>
         <listPlace>
