@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-11-14">serialized</change>
+          <change when-iso="2025-12-04">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -4967,7 +4967,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207528" when-iso="1879-11-29">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 29.11.1879</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 29.11.1879</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -17809,7 +17809,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207988" when-iso="1885-12-18">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 18.12.1885</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 18.12.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -19119,7 +19119,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208031" when-iso="1886-04-18">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 18.4.1886</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 18.4.1886</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -62497,7 +62497,7 @@
                 <persName key="pmb2868">Kutschera, Victor</persName>
             </person>
             <person role="hat mitwirkend">
-                <persName key="pmb20522">Dörmann, Maria</persName>
+                <persName key="pmb20522">Bubna-Littitz, Maria</persName>
             </person>
             <person role="hat mitwirkend">
                 <persName key="pmb25094">Sommer, Rudolf</persName>
@@ -62511,12 +62511,15 @@
             <person role="hat teilnehmend">
                 <persName key="pmb12984">Ubell, Hermann</persName>
             </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb587">Wiener Neustadt</placeName>
+                <placeName role="veranstaltet in" key="pmb190818">Stadttheater Baden</placeName>
                 <location>
-                    <geo>47,8 16,25</geo>
+                    <geo>48,0096 16,2353</geo>
                 </location>
             </place>
         </listPlace>
@@ -62567,6 +62570,34 @@
                 <placeName role="veranstaltet in" key="pmb168934">Frankgasse 1</placeName>
                 <location>
                     <geo>48,21533 16,35736</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb300410" when-iso="1898-05-10">
+        <eventName n="Hochzeit">Hochzeit von Clara Loeb und Otto Pollaczek, 10.5.1898</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300410/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat mitwirkend">
+                <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb22707">Pollaczek, Otto</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb24033">Schaffgotsch, Hermine von</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
+                <location>
+                    <geo>48,211649 16,374825</geo>
                 </location>
             </place>
         </listPlace>
@@ -68511,9 +68542,15 @@
                     <geo>50,08258 8,24932</geo>
                 </location>
             </place>
+            <place>
+                <placeName role="veranstaltet in" key="pmb300338">Hessisches Staatstheater Wiesbaden</placeName>
+                <location>
+                    <geo>50,083611 8,245833</geo>
+                </location>
+            </place>
         </listPlace>
     </event><event xml:id="pmb209102" when-iso="1899-09-28">
-        <eventName n="Theateraufführung">Aufführung von Carmen. Oper in vier Akten, 28.9.1899</eventName>
+        <eventName n="Theateraufführung">Aufführung von Carmen, 28.9.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209102/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209102.html</idno>
     <listBibl>
@@ -68535,6 +68572,12 @@
                 <placeName role="veranstaltet in" key="pmb883">Wiesbaden</placeName>
                 <location>
                     <geo>50,08258 8,24932</geo>
+                </location>
+            </place>
+            <place>
+                <placeName role="veranstaltet in" key="pmb300338">Hessisches Staatstheater Wiesbaden</placeName>
+                <location>
+                    <geo>50,083611 8,245833</geo>
                 </location>
             </place>
         </listPlace>
@@ -73997,7 +74040,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209198" when-iso="1901-09-03">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 3.9.1901</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 3.9.1901</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -82153,7 +82196,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209326" when-iso="1904-03-16">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 16.3.1904</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 16.3.1904</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -82593,7 +82636,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209330" when-iso="1904-05-31">
-        <eventName n="Theateraufführung">Aufführung von Der Meister. Komödie in drei Akten, 31.5.1904</eventName>
+        <eventName n="Theateraufführung">Aufführung von Der Meister, 31.5.1904</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -92766,7 +92809,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209474" when-iso="1907-03-08">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 8.3.1907</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 8.3.1907</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209474/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209474.html</idno>
     <listBibl>
@@ -98115,7 +98158,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209540" when-iso="1908-12-30">
-        <eventName n="Theateraufführung">Aufführung von Carmen. Oper in vier Akten, 30.12.1908</eventName>
+        <eventName n="Theateraufführung">Aufführung von Carmen, 30.12.1908</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -100930,7 +100973,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209581" when-iso="1909-11-22">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 22.11.1909</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 22.11.1909</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209581/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209581.html</idno>
     <listBibl>
@@ -107160,7 +107203,15 @@
                 <note type="relation-type">wird rezensiert in</note>
             </bibl>
             <bibl>
+                <title key="pmb300097">Courrier des Théatres. Au jour le jour. Shakespeare disait [...] [Über die Wiener Uraufführung von Das weite Land]</title>
+                <note type="relation-type">wird rezensiert in</note>
+            </bibl>
+            <bibl>
                 <title key="pmb142702">Burgtheater. »Das weite Land.« Tragikomödie von Arthur Schnitzler</title>
+                <note type="relation-type">wird rezensiert in</note>
+            </bibl>
+            <bibl>
+                <title key="pmb300236">Das weite Land. Tragikomödie von Artur Schnitzler. (Burgtheater)</title>
                 <note type="relation-type">wird rezensiert in</note>
             </bibl>
         </listBibl>
@@ -109366,7 +109417,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209642" when-iso="1912-04-27">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 27.4.1912</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 27.4.1912</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -112948,7 +112999,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209686" when-iso="1913-09-15">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 15.9.1913</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 15.9.1913</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -130207,7 +130258,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209946" when-iso="1918-05-12">
-        <eventName n="Opernaufführung">Aufführung von Carmen. Oper in vier Akten, 12.5.1918</eventName>
+        <eventName n="Opernaufführung">Aufführung von Carmen, 12.5.1918</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -157413,9 +157464,36 @@
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+        <listBibl>
+            <bibl>
+                <title key="pmb30205">Komödie der Verführung. In drei Akten</title>
+                <note type="relation-type">ist Generalprobe von</note>
+            </bibl>
+        </listBibl>
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2312">Zuckerkandl, Berta</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb9449">Reich, Emil</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2456">Specht, Richard</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb25172">Specht, Wanda</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb12211">Mayen, Maria</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb26340">Urbantschitsch, Rudolf</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -157616,6 +157694,12 @@
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2312">Zuckerkandl, Berta</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb15024">Clemenceau, Sophie</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -158832,7 +158916,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33269">Franziska</title>
+                <title key="pmb33269">Franziska. Ein Modernes Mysterium in fünf Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
