@@ -12,4 +12,6 @@
     <xsl:param name="project_logo">images/logo.png</xsl:param>
     <xsl:param name="base_url">https://arthur-schnitzler.github.io/schnitzler-kultur/</xsl:param>
     <xsl:param name="data_repo">https://github.com/arthur-schnitzler/dse-static-data</xsl:param>
+    <xsl:param name="current-edition" select="'schnitzler-kultur'"/>
+    <xsl:param name="current-colour" select="'#AC7790'"/>
 </xsl:stylesheet>
