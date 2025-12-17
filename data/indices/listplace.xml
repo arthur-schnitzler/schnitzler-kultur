@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-11-14">serialized</change>
+      <change when-iso="2025-12-17">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,49 @@
       
            
       <listPlace>
+        <place xml:id="pmb300338">
+          
+  
+          <placeName>Hessisches Staatstheater Wiesbaden</placeName>
+          
+  
+          <desc type="entity_type">Theater (K.THE)</desc>
+          
+  
+          <desc type="entity_type_id">4</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>50,083611 8,245833</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300338/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1894-01-01" when-iso="1894-01-01">1894</date>
+            
+
+          </note>
+          
+
+        </place>
         <place xml:id="pmb298336">
           
   
@@ -16268,6 +16311,15 @@
             
 
           </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date when-iso="1893-01-01" notAfter-iso="1893-12-31">1893</date>
+            
+
+          </note>
           
 
         </place>
@@ -32932,7 +32984,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2747373/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb58810</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb58810.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Den_Haag</idno>
@@ -33072,7 +33124,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55832/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb55832</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb55832.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb55832.html</idno>
@@ -33133,7 +33185,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55633/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb55633</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb55633.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/235911/</idno>
@@ -33215,7 +33267,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53065/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb53065</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb53065.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb53065.html</idno>
@@ -33297,7 +33349,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52826/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52826</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb52826.html</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/120132792X</idno>
@@ -33540,7 +33592,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50933/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50933</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb50933.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92306/</idno>
@@ -34117,7 +34169,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2867714/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb45258</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb45258.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1726</idno>
@@ -34929,7 +34981,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2861650/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb44172</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb44172.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2090</idno>
@@ -35627,7 +35679,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41376/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb41376</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb41376.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q240744</idno>
@@ -35946,9 +35998,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40694/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb40694</idno>
-          
-  
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Gentzgasse</idno>
           
   
@@ -35962,6 +36011,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40694.html</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb40694.html</idno>
           
 
           <listBibl>
@@ -36292,7 +36344,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43746/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb39615</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb39615.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Bratislava</idno>
@@ -36534,7 +36586,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2618425/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb36300</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb36300.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Kopenhagen</idno>
@@ -37008,7 +37060,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21799/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb21799</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb21799.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb21799.html</idno>
@@ -37482,7 +37534,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1223/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb1223</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb1223.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Bern</idno>
@@ -39465,7 +39517,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3064288/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb955</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb955.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/98088/</idno>
@@ -39756,7 +39808,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/886/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb886</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb886.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/96665/</idno>
@@ -39886,7 +39938,7 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066043-6</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb883</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb883.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiesbaden</idno>
@@ -40119,7 +40171,7 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4035206-7</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb864</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb864.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Leipzig</idno>
@@ -40249,7 +40301,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43429/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb842</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb842.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/95418/</idno>
@@ -40491,7 +40543,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3078610/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb833</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb833.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Br%C3%BCnn</idno>
@@ -40910,7 +40962,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/772/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb772</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb772.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91211/</idno>
@@ -41208,7 +41260,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/720/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb720</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb720.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb720.html</idno>
@@ -41284,7 +41336,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/717/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb717</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb717.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb717.html</idno>
@@ -41883,7 +41935,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64155/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb677</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb677.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/90392/</idno>
@@ -42162,7 +42214,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2782067/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb662</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb662.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Baden_(Nieder%C3%B6sterreich)</idno>
@@ -42307,7 +42359,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3067695/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb652</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb652.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91524/</idno>
@@ -42885,112 +42937,6 @@
           
 
         </place>
-        <place xml:id="pmb587">
-          
-  
-          <placeName>Wiener Neustadt</placeName>
-          
-  
-          <placeName type="alternative-name">Wiener Neustadt</placeName>
-          
-  
-          <placeName type="legacy-name-merge">Wiener Neustadt</placeName>
-          
-  
-          <placeName type="legacy-name-merge">Wiener Neustadt</placeName>
-          
-  
-          <desc type="entity_type">A.ADM2</desc>
-          
-  
-          <desc type="entity_type_id">1135</desc>
-          
-
-          <location type="coords">
-            
-  
-            <geo>47,8 16,25</geo>
-            
-
-          </location>
-          
-
-          <location type="located_in_place">
-            
-  
-            <placeName key="pmb41240">Österreich</placeName>
-            
-  
-            <geo>47,33333 13,33333</geo>
-            
-
-          </location>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q131612</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2761349/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb587.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/587/</idno>
-          
-  
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb587</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92109/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/95497/</idno>
-          
-  
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066023-0</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiener_Neustadt</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb587.html</idno>
-          
-  
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb587.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb587.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb587.html</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00097</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb587</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003426</idno>
-          
-
-          <listBibl>
-            
-    
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
-            
-    
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-
-          </listBibl>
-          
-
-        </place>
         <place xml:id="pmb584">
           
   
@@ -43452,7 +43398,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/542/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb542</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb542.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92256/</idno>
@@ -43662,7 +43608,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/521/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb521</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb521.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Bad_Gastein</idno>
@@ -44130,7 +44076,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb485</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb485.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1388047</idno>
@@ -44221,7 +44167,7 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4068038-1</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb484</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb484.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Z%C3%BCrich</idno>
@@ -44445,7 +44391,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3164603/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb462</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb462.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/97045/</idno>
@@ -45067,7 +45013,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/373/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb373</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb373.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiener_Rathaus</idno>
@@ -45210,9 +45156,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/338/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb338</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb338.html</idno>
           
   
@@ -45223,6 +45166,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb338.html</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb338.html</idno>
           
 
           <listBibl>
@@ -45289,7 +45235,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/337/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb337</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb337.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1631085</idno>
@@ -45520,7 +45466,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/320/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb320</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb320.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hofburg</idno>
@@ -45964,7 +45910,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/255/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb255</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb255.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1536160</idno>
@@ -46237,7 +46183,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/240/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb240</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb240.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb240.html</idno>
@@ -46331,7 +46277,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb224.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q84</idno>
@@ -46443,7 +46389,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/213/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb213</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb213.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/95979/</idno>
@@ -46607,7 +46553,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/205/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb205</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb205.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q37865047</idno>
@@ -46974,7 +46920,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2988507/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb182</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb182.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q90</idno>
@@ -47098,7 +47044,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb168</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb168.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92171/</idno>
@@ -47231,7 +47177,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/159/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb159</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb159.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/90847/</idno>
@@ -47370,7 +47316,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64503/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb146</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb146.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Frankfurt_am_Main</idno>
@@ -47455,6 +47401,9 @@
           <placeName type="legacy-name-merge">Halle (Saale)</placeName>
           
   
+          <placeName type="legacy-name-merge">Halle a. d. Saale</placeName>
+          
+  
           <desc type="entity_type">P.PPL</desc>
           
   
@@ -47497,7 +47446,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7946/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb140</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb140.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/116244/</idno>
@@ -47510,6 +47459,9 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb140.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262514/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb140.html</idno>
@@ -47682,7 +47634,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/126/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb126</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb126.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb126.html</idno>
@@ -48724,7 +48676,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb59</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb59.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb59.html</idno>
@@ -48818,7 +48770,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb55</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb55.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb55.html</idno>
@@ -48945,7 +48897,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2772614/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb52</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb52.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb52.html</idno>
@@ -49072,7 +49024,7 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2775259/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb51</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb51.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb51.html</idno>
@@ -49202,7 +49154,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb50.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1741</idno>
@@ -49651,7 +49603,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb35</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb35.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92498/</idno>
@@ -49739,7 +49691,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb30</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb30.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91649/</idno>
@@ -50261,7 +50213,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb20</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb20.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92202/</idno>
@@ -50862,7 +50814,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb11</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb11.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb11.html</idno>
