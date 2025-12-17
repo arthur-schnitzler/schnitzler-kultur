@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-12-04">serialized</change>
+          <change when-iso="2025-12-17">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -217,7 +217,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb79614">Donna Diana</title>
+                <title key="pmb164820">Donna Diana. Lustspiel in vier Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -316,7 +316,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77940">Das Gefängnis. Lustspiel in vier Aufzügen</title>
+                <title key="pmb77940">Das Gefängniß. Lustspiel in vier Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -2242,7 +2242,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31417">Julius Caesar</title>
+                <title key="pmb31417">The Tragedy of Julius Caesar</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -2511,7 +2511,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30063">Die Walküre</title>
+                <title key="pmb202199">Der Ring des Nibelungen. Erster Tag: Die Walküre</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -2694,7 +2694,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb207451" when-iso="1878-10-05">
-        <eventName n="Opernaufführung">Aufführung von Fidelio, 5.10.1878</eventName>
+        <eventName n="Opernaufführung">Aufführung von Fidelio op. 72, 5.10.1878</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -2709,7 +2709,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77145">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -3068,7 +3068,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb79614">Donna Diana</title>
+                <title key="pmb164820">Donna Diana. Lustspiel in vier Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -3378,7 +3378,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29987">Götterdämmerung</title>
+                <title key="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -3496,7 +3496,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33023">Don Karlos, Infant von Spanien</title>
+                <title key="pmb33023">Dom Karlos, Infant von Spanien</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -3856,7 +3856,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31629">Rosenkranz und Güldenstern</title>
+                <title key="pmb31629">Rosenkranz und Güldenstern. Lustspiel in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -4319,7 +4319,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29987">Götterdämmerung</title>
+                <title key="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -4830,7 +4830,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31417">Julius Caesar</title>
+                <title key="pmb31417">The Tragedy of Julius Caesar</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -5899,7 +5899,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31599">Kabale und Liebe</title>
+                <title key="pmb31599">Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -6693,7 +6693,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31629">Rosenkranz und Güldenstern</title>
+                <title key="pmb31629">Rosenkranz und Güldenstern. Lustspiel in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -7257,7 +7257,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33023">Don Karlos, Infant von Spanien</title>
+                <title key="pmb33023">Dom Karlos, Infant von Spanien</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -7390,7 +7390,7 @@
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb195568">Flattersucht</title>
+                <title key="pmb195568">Flattersucht. Lustspiel in drei Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -10513,7 +10513,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29987">Götterdämmerung</title>
+                <title key="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -16413,8 +16413,8 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb207940" when-iso="1885-09-11">
-        <eventName n="Theateraufführung">Aufführung von Sohn der Wildnis, 11.9.1885</eventName>
+    </event><event xml:id="pmb207940" when-iso="1885-09-10">
+        <eventName n="Theateraufführung">Aufführung von Sohn der Wildnis, 10.9.1885</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -16429,7 +16429,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb163928">Der Sohn der Wildnis</title>
+                <title key="pmb163928">Der Sohn der Wildnis. Romantisches Drama in fünf Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -19351,7 +19351,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77994">Bürgerlich und Romantisch</title>
+                <title key="pmb77994">Bürgerlich und Romantisch. Lustspiel in vier Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -19641,7 +19641,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195701">Krisen</title>
+                <title key="pmb195701">Krisen. Charakter-Gemälde in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -20124,7 +20124,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195710">Schach dem König</title>
+                <title key="pmb195710">Schach dem König. Lustspiel in vier Aufzügen</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -23061,7 +23061,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31599">Kabale und Liebe</title>
+                <title key="pmb31599">Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -24125,7 +24125,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29987">Götterdämmerung</title>
+                <title key="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -25046,7 +25046,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31599">Kabale und Liebe</title>
+                <title key="pmb31599">Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -26114,7 +26114,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb78795">Magnetische Kuren</title>
+                <title key="pmb78795">Magnetische Kuren. Lustspiel in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -26392,7 +26392,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77564">Rienzi</title>
+                <title key="pmb77564">Rienzi, der letzte der Tribunen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -30484,7 +30484,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30063">Die Walküre</title>
+                <title key="pmb202199">Der Ring des Nibelungen. Erster Tag: Die Walküre</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -35255,7 +35255,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77269">Sodoms Ende</title>
+                <title key="pmb31327">Sodom’s Ende. Schauspiel in fünf Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -40240,7 +40240,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31599">Kabale und Liebe</title>
+                <title key="pmb31599">Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -41163,7 +41163,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80362">Gönnerschaften</title>
+                <title key="pmb80362">Gönnerschaften. Lustspiel in fünf Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -41842,7 +41842,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29987">Götterdämmerung</title>
+                <title key="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -42774,7 +42774,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77145">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -44071,7 +44071,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30063">Die Walküre</title>
+                <title key="pmb202199">Der Ring des Nibelungen. Erster Tag: Die Walküre</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -44742,7 +44742,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30063">Die Walküre</title>
+                <title key="pmb202199">Der Ring des Nibelungen. Erster Tag: Die Walküre</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -45226,7 +45226,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31599">Kabale und Liebe</title>
+                <title key="pmb31599">Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -46074,7 +46074,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77269">Sodoms Ende</title>
+                <title key="pmb31327">Sodom’s Ende. Schauspiel in fünf Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -47282,7 +47282,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77003">Klein Eyolf</title>
+                <title key="pmb77003">Klein Eyolf. Schauspiel in drei Aufzügen</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -47359,7 +47359,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31417">Julius Caesar</title>
+                <title key="pmb31417">The Tragedy of Julius Caesar</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -49647,7 +49647,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33023">Don Karlos, Infant von Spanien</title>
+                <title key="pmb33023">Dom Karlos, Infant von Spanien</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -52333,7 +52333,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76925">Die Weber</title>
+                <title key="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -52909,7 +52909,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80461">Gebildete Menschen</title>
+                <title key="pmb32356">Gebildete Menschen. Zeitbild in drei Acten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -53406,7 +53406,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30031">Torquato Tasso</title>
+                <title key="pmb30031">Torquato Tasso. Ein Schauspiel</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -55145,7 +55145,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80461">Gebildete Menschen</title>
+                <title key="pmb32356">Gebildete Menschen. Zeitbild in drei Acten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -56302,7 +56302,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76982">Das grobe Hemd</title>
+                <title key="pmb76982">Das grobe Hemd. Volksstück in vier Acten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -56867,7 +56867,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31897">Der Widerspenstigen Zähmung</title>
+                <title key="pmb31897">The Taming of the Shrew</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -59888,7 +59888,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31599">Kabale und Liebe</title>
+                <title key="pmb31599">Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -60392,7 +60392,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29987">Götterdämmerung</title>
+                <title key="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -62134,7 +62134,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31157">Baumeister Solness</title>
+                <title key="pmb31157">Baumeister Solness. Schauspiel in drei Aufzügen  |</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -63376,7 +63376,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29987">Götterdämmerung</title>
+                <title key="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -66869,7 +66869,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77994">Bürgerlich und Romantisch</title>
+                <title key="pmb77994">Bürgerlich und Romantisch. Lustspiel in vier Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -71428,7 +71428,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29987">Götterdämmerung</title>
+                <title key="pmb203322">Der Ring des Nibelungen. Dritter Tag: Götterdämmerung</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -72301,7 +72301,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31417">Julius Caesar</title>
+                <title key="pmb31417">The Tragedy of Julius Caesar</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -73306,7 +73306,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31621">Die Zwillingsschwester</title>
+                <title key="pmb31621">Die Zwillingsschwester. Lustspiel in vier Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -77481,7 +77481,7 @@
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb78566">Zwei Eisen im Feuer</title>
+                <title key="pmb78566">Zwei Eisen im Feuer. Lustspiel in drei Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -82436,6 +82436,9 @@
             <person role="hat teilnehmend">
                 <persName key="pmb2173">Schnitzler, Olga</persName>
             </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11737">Hofmannsthal, Hugo August von</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -83070,6 +83073,12 @@
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -83145,6 +83154,9 @@
             </person>
             <person role="hat mitwirkend">
                 <persName key="pmb12179">Maran, Gustav</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12740">Schwarzkopf, Gustav</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -83366,6 +83378,12 @@
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -83538,7 +83556,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31407">Traumulus</title>
+                <title key="pmb31407">Traumulus. Tragische Komödie</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -84581,7 +84599,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77145">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -86204,6 +86222,9 @@
             </person>
             <person role="hat mitwirkend">
                 <persName key="pmb11394">Galafrès, Elsa Marguerite</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -89959,7 +89980,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33023">Don Karlos, Infant von Spanien</title>
+                <title key="pmb33023">Dom Karlos, Infant von Spanien</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -90378,13 +90399,22 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31407">Traumulus</title>
+                <title key="pmb31407">Traumulus. Tragische Komödie</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb21647">Marx, Paul</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -91169,7 +91199,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30031">Torquato Tasso</title>
+                <title key="pmb30031">Torquato Tasso. Ein Schauspiel</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -93670,7 +93700,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31157">Baumeister Solness</title>
+                <title key="pmb31157">Baumeister Solness. Schauspiel in drei Aufzügen  |</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -95428,13 +95458,19 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77980">Der Teufel</title>
+                <title key="pmb77980">Der Teufel. Ein Spiel in drei Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb3694">Marberg, Lili</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -95461,7 +95497,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31417">Julius Caesar</title>
+                <title key="pmb31417">The Tragedy of Julius Caesar</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -100102,7 +100138,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31157">Baumeister Solness</title>
+                <title key="pmb31157">Baumeister Solness. Schauspiel in drei Aufzügen  |</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -100346,7 +100382,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77547">Hinterm Zaun</title>
+                <title key="pmb77547">Hinterm Zaun. Ein Stilleben in drei Bildern</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -100905,7 +100941,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33023">Don Karlos, Infant von Spanien</title>
+                <title key="pmb33023">Dom Karlos, Infant von Spanien</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -101141,7 +101177,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77094">Der Arzt am Scheideweg</title>
+                <title key="pmb77094">Der Arzt am Scheidewege. Komödie in fünf Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -103483,7 +103519,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31157">Baumeister Solness</title>
+                <title key="pmb31157">Baumeister Solness. Schauspiel in drei Aufzügen  |</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -108982,6 +109018,54 @@
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb154015">Föry, Elsa</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb2736">Godlewski, Carl</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12231">Metternich-Sándor, Pauline von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb305665">Metternich-Sándor von Winneburg, Klementine Marie</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb6300">Bienerth-Schmerling, Richard von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb173389">Bienerth-Schmerling, Anka Gräfin</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb27368">Wydenbruck, Maria von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb179933">Czernin-Chudenitz, Maria Klotilda Gräfin von und zu</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb15184">Czernin-Chudenitz, Ottokar von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb7882">Hochenegg, Julius von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12698">Schnitzler, Julius</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb17684">Haas-Teichen, Philipp von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11454">Glücksmann, Heinrich</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb15810">Eisner-Eisenhof, Angelo Franz von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb170487">Eisner-Eisenhof, Emma Caroline Baronin von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb172649">Dub, Flora</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -109231,7 +109315,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31157">Baumeister Solness</title>
+                <title key="pmb31157">Baumeister Solness. Schauspiel in drei Aufzügen  |</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -118125,7 +118209,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77003">Klein Eyolf</title>
+                <title key="pmb77003">Klein Eyolf. Schauspiel in drei Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -119593,7 +119677,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31157">Baumeister Solness</title>
+                <title key="pmb31157">Baumeister Solness. Schauspiel in drei Aufzügen  |</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -124055,7 +124139,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31157">Baumeister Solness</title>
+                <title key="pmb31157">Baumeister Solness. Schauspiel in drei Aufzügen  |</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -124341,7 +124425,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30063">Die Walküre</title>
+                <title key="pmb202199">Der Ring des Nibelungen. Erster Tag: Die Walküre</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -134838,7 +134922,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30031">Torquato Tasso</title>
+                <title key="pmb30031">Torquato Tasso. Ein Schauspiel</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -138729,7 +138813,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77980">Der Teufel</title>
+                <title key="pmb77980">Der Teufel. Ein Spiel in drei Aufzügen</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -139007,7 +139091,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33023">Don Karlos, Infant von Spanien</title>
+                <title key="pmb33023">Dom Karlos, Infant von Spanien</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -146674,7 +146758,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31939">Vor Sonnenaufgang</title>
+                <title key="pmb31939">Vor Sonnenaufgang. Soziales Drama in fünf Aufzügen</title>
                 <note type="relation-type">ist Generalprobe von</note>
             </bibl>
         </listBibl>
@@ -146703,7 +146787,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31939">Vor Sonnenaufgang</title>
+                <title key="pmb31939">Vor Sonnenaufgang. Soziales Drama in fünf Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -147272,7 +147356,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77145">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -147534,7 +147618,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77094">Der Arzt am Scheideweg</title>
+                <title key="pmb77094">Der Arzt am Scheidewege. Komödie in fünf Akten</title>
                 <note type="relation-type">ist Generalprobe von</note>
             </bibl>
         </listBibl>
@@ -147958,7 +148042,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80461">Gebildete Menschen</title>
+                <title key="pmb32356">Gebildete Menschen. Zeitbild in drei Acten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -147994,7 +148078,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76925">Die Weber</title>
+                <title key="pmb29827">Die Weber. Schauspiel aus den vierziger Jahren</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -149733,7 +149817,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76462">Der Marquis von Keith</title>
+                <title key="pmb76462">Der Marquis von Keith. Schauspiel in 5 Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -154517,7 +154601,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31599">Kabale und Liebe</title>
+                <title key="pmb31599">Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -155530,7 +155614,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31897">Der Widerspenstigen Zähmung</title>
+                <title key="pmb31897">The Taming of the Shrew</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -160106,7 +160190,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77564">Rienzi</title>
+                <title key="pmb77564">Rienzi, der letzte der Tribunen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -161182,6 +161266,10 @@
             <bibl>
                 <title key="pmb29857">Der Schleier der Beatrice. Schauspiel in fünf Akten</title>
                 <note type="relation-type">ist Premiere von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb307528">Burgtheater. Zum erstenmal: »Der Schleier der Beatrice«, Schauspiel in fünf Akten von Artur Schnitzler</title>
+                <note type="relation-type">wird rezensiert in</note>
             </bibl>
         </listBibl>
         <listPerson>
@@ -168855,7 +168943,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77145">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -178073,7 +178161,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80637">Anna Karenina</title>
+                <title key="pmb80637">Anna Karenina. Schauspiel in sechs Bildern</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
