@@ -279,7 +279,7 @@ var calendarData = [
     "name": "Aufführung von Die Hugenotten, 21.9.1878", "startDate": "1878-09-21", "id": "pmb207450.html", "type": "Opernaufführung"
   },
   {
-    "name": "Aufführung von Fidelio, 5.10.1878", "startDate": "1878-10-05", "id": "pmb207451.html", "type": "Opernaufführung"
+    "name": "Aufführung von Fidelio op. 72, 5.10.1878", "startDate": "1878-10-05", "id": "pmb207451.html", "type": "Opernaufführung"
   },
   {
     "name": "Aufführung von Der Kuß, 7.10.1878", "startDate": "1878-10-07", "id": "pmb207452.html", "type": "Theateraufführung"
@@ -507,7 +507,7 @@ var calendarData = [
     "name": "Aufführung von Königin von Sava, 22.11.1879", "startDate": "1879-11-22", "id": "pmb207527.html", "type": "Opernaufführung"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 29.11.1879", "startDate": "1879-11-29", "id": "pmb207528.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 29.11.1879", "startDate": "1879-11-29", "id": "pmb207528.html", "type": "Opernaufführung"
   },
   {
     "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 30.11.1879", "startDate": "1879-11-30", "id": "pmb207529.html", "type": "Philharmonisches Konzert"
@@ -1761,7 +1761,7 @@ var calendarData = [
     "name": "Aufführung von Der Glücksengel, oder: Eine moderne Mascotte, 9.9.1885", "startDate": "1885-09-09", "id": "pmb207938.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Sohn der Wildnis, 11.9.1885", "startDate": "1885-09-11", "id": "pmb207940.html", "type": "Theateraufführung"
+    "name": "Aufführung von Sohn der Wildnis, 10.9.1885", "startDate": "1885-09-10", "id": "pmb207940.html", "type": "Theateraufführung"
   },
   {
     "name": "Premiere von Schikaneder, 12.9.1885", "startDate": "1885-09-12", "id": "pmb207941.html", "type": "Theaterpremiere"
@@ -1908,7 +1908,7 @@ var calendarData = [
     "name": "Gesangskonzert von Adelina Patti, 16.12.1885", "startDate": "1885-12-16", "id": "pmb207987.html", "type": "Liederkonzert"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 18.12.1885", "startDate": "1885-12-18", "id": "pmb207988.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 18.12.1885", "startDate": "1885-12-18", "id": "pmb207988.html", "type": "Opernaufführung"
   },
   {
     "name": "Zweite Soirée der Wiener Gesellschafts-Abende, 19.12.1885", "startDate": "1885-12-19", "id": "pmb207989.html", "type": "Soirée"
@@ -2052,7 +2052,7 @@ var calendarData = [
     "name": "Aufführung von Angot, 15.4.1886", "startDate": "1886-04-15", "id": "pmb208030.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 18.4.1886", "startDate": "1886-04-18", "id": "pmb208031.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 18.4.1886", "startDate": "1886-04-18", "id": "pmb208031.html", "type": "Opernaufführung"
   },
   {
     "name": "Aufführung von Die schöne Helena, 20.4.1886", "startDate": "1886-04-20", "id": "pmb208033.html", "type": "Theateraufführung"
@@ -6198,6 +6198,9 @@ var calendarData = [
     "name": "Private Lesung von Der grüne Kakadu, 7.5.1898", "startDate": "1898-05-07", "id": "pmb184187.html", "type": "Private Lesung"
   },
   {
+    "name": "Hochzeit von Clara Loeb und Otto Pollaczek, 10.5.1898", "startDate": "1898-05-10", "id": "pmb300410.html", "type": "Hochzeit"
+  },
+  {
     "name": "Besuch der Secession, 10.5.1898", "startDate": "1898-05-10", "id": "pmb296922.html", "type": "Museumsbesuch"
   },
   {
@@ -6744,7 +6747,7 @@ var calendarData = [
     "name": "Aufführung von Undine, 24.9.1899", "startDate": "1899-09-24", "id": "pmb209101.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 28.9.1899", "startDate": "1899-09-28", "id": "pmb209102.html", "type": "Theateraufführung"
+    "name": "Aufführung von Carmen, 28.9.1899", "startDate": "1899-09-28", "id": "pmb209102.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Ein glückliches Paar, 4.10.1899", "startDate": "1899-10-04", "id": "pmb209103.html", "type": "Theateraufführung"
@@ -7257,7 +7260,7 @@ var calendarData = [
     "name": "Private Lesung von Lebendige Stunden, Die Frau mit dem Dolche, Literatur, 24.8.1901", "startDate": "1901-08-24", "id": "pmb183950.html", "type": "Private Lesung"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 3.9.1901", "startDate": "1901-09-03", "id": "pmb209198.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 3.9.1901", "startDate": "1901-09-03", "id": "pmb209198.html", "type": "Opernaufführung"
   },
   {
     "name": "Private Lesung von Frau mit dem Dolche, Lebendige Stunden, 4.9.1901", "startDate": "1901-09-04", "id": "pmb145542.html", "type": "Private Lesung"
@@ -8040,7 +8043,7 @@ var calendarData = [
     "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 15.3.1904", "startDate": "1904-03-15", "id": "pmb297576.html", "type": "Panoramabesuch"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 16.3.1904", "startDate": "1904-03-16", "id": "pmb209326.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 16.3.1904", "startDate": "1904-03-16", "id": "pmb209326.html", "type": "Opernaufführung"
   },
   {
     "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.3.1904", "startDate": "1904-03-22", "id": "pmb297579.html", "type": "Panoramabesuch"
@@ -8091,7 +8094,7 @@ var calendarData = [
     "name": "Besuch der Stazione Zoologica Anton Dohrn, 14.5.1904", "startDate": "1904-05-14", "id": "pmb298110.html", "type": "Museumsbesuch"
   },
   {
-    "name": "Aufführung von Der Meister. Komödie in drei Akten, 31.5.1904", "startDate": "1904-05-31", "id": "pmb209330.html", "type": "Theateraufführung"
+    "name": "Aufführung von Der Meister, 31.5.1904", "startDate": "1904-05-31", "id": "pmb209330.html", "type": "Theateraufführung"
   },
   {
     "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 4.6.1904", "startDate": "1904-06-04", "id": "pmb297600.html", "type": "Panoramabesuch"
@@ -9054,7 +9057,7 @@ var calendarData = [
     "name": "Besuch der Secession, 5.3.1907", "startDate": "1907-03-05", "id": "pmb296955.html", "type": "Museumsbesuch"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 8.3.1907", "startDate": "1907-03-08", "id": "pmb209474.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 8.3.1907", "startDate": "1907-03-08", "id": "pmb209474.html", "type": "Opernaufführung"
   },
   {
     "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 12.3.1907", "startDate": "1907-03-12", "id": "pmb297735.html", "type": "Panoramabesuch"
@@ -9579,7 +9582,7 @@ var calendarData = [
     "name": "Probe von Komtesse Mizzi, 30.12.1908", "startDate": "1908-12-30", "id": "pmb247917.html", "type": "Probe"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 30.12.1908", "startDate": "1908-12-30", "id": "pmb209540.html", "type": "Theateraufführung"
+    "name": "Aufführung von Carmen, 30.12.1908", "startDate": "1908-12-30", "id": "pmb209540.html", "type": "Theateraufführung"
   },
   {
     "name": "Probe von Liebelei, 31.12.1908", "startDate": "1908-12-31", "id": "pmb247923.html", "type": "Probe"
@@ -9858,7 +9861,7 @@ var calendarData = [
     "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 22.11.1909", "startDate": "1909-11-22", "id": "pmb297864.html", "type": "Panoramabesuch"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 22.11.1909", "startDate": "1909-11-22", "id": "pmb209581.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 22.11.1909", "startDate": "1909-11-22", "id": "pmb209581.html", "type": "Opernaufführung"
   },
   {
     "name": "Ausstellungsbesuch Österreichisches Museum, 24.11.1909", "startDate": "1909-11-24", "id": "pmb249432.html", "type": "Ausstellungsbesuch"
@@ -10626,7 +10629,7 @@ var calendarData = [
     "name": "Aufführung von Aida, 26.4.1912", "startDate": "1912-04-26", "id": "pmb209641.html", "type": "Opernaufführung"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 27.4.1912", "startDate": "1912-04-27", "id": "pmb209642.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 27.4.1912", "startDate": "1912-04-27", "id": "pmb209642.html", "type": "Opernaufführung"
   },
   {
     "name": "Private Lesung von Professor Bernhardi, 29.4.1912", "startDate": "1912-04-29", "id": "pmb253101.html", "type": "Private Lesung"
@@ -10956,7 +10959,7 @@ var calendarData = [
     "name": "Filmvorführung von Der Student von Prag, 10.9.1913", "startDate": "1913-09-10", "id": "pmb210480.html", "type": "Filmvorführung"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 15.9.1913", "startDate": "1913-09-15", "id": "pmb209686.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 15.9.1913", "startDate": "1913-09-15", "id": "pmb209686.html", "type": "Opernaufführung"
   },
   {
     "name": "Aufführung von Rigoletto, 21.9.1913", "startDate": "1913-09-21", "id": "pmb209687.html", "type": "Opernaufführung"
@@ -12690,7 +12693,7 @@ var calendarData = [
     "name": "2. Konzert »Anbruch«, 10.5.1918", "startDate": "1918-05-10", "id": "pmb266689.html", "type": "Konzert"
   },
   {
-    "name": "Aufführung von Carmen. Oper in vier Akten, 12.5.1918", "startDate": "1918-05-12", "id": "pmb209946.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 12.5.1918", "startDate": "1918-05-12", "id": "pmb209946.html", "type": "Opernaufführung"
   },
   {
     "name": "Premiere von Die Mutter, 14.5.1918", "startDate": "1918-05-14", "id": "pmb209947.html", "type": "Theaterpremiere"
