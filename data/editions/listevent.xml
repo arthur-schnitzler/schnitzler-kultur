@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-12-17">serialized</change>
+          <change when-iso="2025-12-23">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -212,8 +212,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207363/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207363.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/319979/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665649ea4e1190214742b5b7</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -423,8 +426,11 @@
         <eventName n="Studierendenaufführung">Aufführung von Die Räuber, 9.11.1876</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207370/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207370.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/314824/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6656f0cf4e119021474f74d7</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -1390,8 +1396,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207404/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207404.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/327523/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665867ca4e119021476ce6c7</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -2539,8 +2548,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207445/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207445.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315782/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66589d524e11902147716a50</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -2880,8 +2892,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207458/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207458.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315190/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658afa34e119021477322a0</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -3010,8 +3025,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207461/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207461.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/318203/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658b1644e11902147735332</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -3851,8 +3869,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207492/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207492.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/317231/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658dc744e11902147770fbf</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -5520,8 +5541,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207546/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207546.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328462/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659b0264e11902147878332</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -6266,8 +6290,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207575/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207575.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328696/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/672502b923a753560d1712ac</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -6688,8 +6715,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207589/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207589.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/317285/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a08d74e119021478e82c1</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -7186,8 +7216,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207606/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207606.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/316853/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a19cc4e119021478fe395</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -7219,8 +7252,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207607/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207607.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326962/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a1b694e119021479004e2</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -7348,8 +7384,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207611/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207611.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326218/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a237c4e1190214790ac4a</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -9067,8 +9106,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207676/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207676.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/318038/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665acb734e119021479da237</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -9969,8 +10011,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207708/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207708.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326221/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665b434f4e11902147a6fed6</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listPerson>
             <person role="hat teilnehmend">
@@ -10061,8 +10106,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207711/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207711.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326965/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665b4c844e11902147a7be5f</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -14795,8 +14843,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207880/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207880.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/314896/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665de3524e11902147dbe949</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -16573,8 +16624,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207945/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207945.html</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665eef3e4e11902147f0f9d1</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/314902/</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -16675,8 +16729,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207948/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207948.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/316868/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665ef2a94e11902147f1465c</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -17925,8 +17982,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207992/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207992.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328744/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665f32af4e11902147f68d04</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -19346,8 +19406,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208038/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208038.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/319421/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666011144e1190214707cda7</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -19636,8 +19699,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208047/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208047.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/320531/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66602e764e119021470a3f58</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -28659,33 +28725,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb208359" when-iso="1889-12-05">
-        <eventName n="Schulvortragsabend">Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
-                </org>
-            </listOrg>
-        </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208359/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208359.html</idno>
-    <listBibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
-                <location>
-                    <geo>48,210333 16,37084</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb186741" when-iso="1889-12-05">
         <eventName n="Schulvortragsabend">Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889</eventName>
         <note type="listorg">
@@ -28696,11 +28735,14 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186741/</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208359/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208359.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186741.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+    <note type="references"> </note>
         <listBibl>
             <bibl>
                 <title key="pmb77487">Krieg im Frieden</title>
@@ -28708,11 +28750,11 @@
             </bibl>
         </listBibl>
         <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
             <person role="hat mitwirkend">
                 <persName key="pmb14953">Glümer, Marie</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -28760,36 +28802,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb208361" when-iso="1889-12-11">
-        <eventName n="Schulvortragsabend">Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb29805">Konservatorium der Gesellschaft der Musikfreunde</orgName>
-                </org>
-            </listOrg>
-        </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208361.html</idno>
-    <listBibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb14953">Glümer, Marie</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb2">Konservatorium der Gesellschaft der Musikfreunde</placeName>
-                <location>
-                    <geo>48,210333 16,37084</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb186746" when-iso="1889-12-11">
         <eventName n="Schulvortragsabend">Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</eventName>
         <note type="listorg">
@@ -28801,10 +28813,13 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186746/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186746.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208361.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+    <note type="references"> </note>
         <listBibl>
             <bibl>
                 <title key="pmb31729">Die Journalisten. Lustspiel in vier Akten</title>
@@ -51898,32 +51913,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb208820" when-iso="1896-01-31">
-        <eventName n="Theateraufführung">Aufführung von König Chilperich, 31.1.1896</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208820/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208820.html</idno>
-    <listBibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb41400">König Chilperich</title>
-                <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb201039">Berliner Metropol Theater</placeName>
-                <location>
-                    <geo>52,515833 13,386944</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb43358" when-iso="1896-01-31">
         <eventName n="Theateraufführung">Aufführung von König Chilperich, 31.1.1896</eventName>
         <note type="listorg">
@@ -51935,6 +51924,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43358/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43358.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208820/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208820.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -53122,8 +53113,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208841/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208841.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326476/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666b1ec5cd334071f7efc668</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -54590,8 +54584,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208862/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208862.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/314989/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3874cd334071f719a7d5</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -56884,14 +56881,17 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb184192" when-iso="1897-03-22">
+    </event><event xml:id="pmb183906" when-iso="1897-03-22">
         <eventName n="Private Lesung">Private Lesung von Der Ehrentag, 22.3.1897</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183906/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184192/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+    <note type="references"> </note>
         <listBibl>
             <bibl>
                 <title key="pmb29831">Der Ehrentag</title>
@@ -56899,41 +56899,17 @@
             </bibl>
         </listBibl>
         <listPerson>
-            <person role="hat mitwirkend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2378">Reinhard, Marie</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb168581">?? [»bei Uns«, Absteigequartier IV Marie Reinhard und Arthur Schnitzler]</placeName>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb183906" when-iso="1897-03-22">
-        <eventName n="Private Lesung">Private Lesung von Der Ehrentag, 22.3.1897</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183906/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb29831">Der Ehrentag</title>
-                <note type="relation-type">ist Lesung von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat mitwirkend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
             <person role="hat teilnehmend">
                 <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb11701">Hirschfeld, Georg</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2378">Reinhard, Marie</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -64874,8 +64850,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209045/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209045.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315013/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ff2f0cd334071f7505cd6</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -65531,8 +65510,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209055/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209055.html</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ff928cd334071f750e94a</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/325264/</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -66016,8 +65998,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209064/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209064.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315914/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6670115bcd334071f7530ad2</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -67849,8 +67834,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209085/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209085.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/316652/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66702290cd334071f7548082</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -74622,8 +74610,11 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209208/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209208.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/316961/</idno>
+    <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672e3a8cd334071f78c9e9b</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+    <bibl type="collections" n="84">Burgtheater</bibl>
 </listBibl>
         <listBibl>
             <bibl>
@@ -79287,6 +79278,36 @@
             <person role="hat teilnehmend">
                 <persName key="pmb2959">Lantz, Adolf</persName>
             </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb26880">Weisse, Adolf</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb8841">Martinelli, Ludwig</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb16952">Geisendörfer, Julius</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb26873">Weiss, Theodor</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb12618">Sandrock, Adele</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb11981">Kramer, Leopold</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb4124">Eppens, Otto</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb10995">Brandt, Theodor</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb154113">Wierth, Alexander</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb2868">Kutschera, Victor</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -79313,6 +79334,12 @@
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12740">Schwarzkopf, Gustav</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -85917,7 +85944,7 @@
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
-                    <orgName key="pmb35597">Deutsches Theater Berlin</orgName>
+                    <orgName key="pmb29380">Berliner Theater</orgName>
                 </org>
             </listOrg>
         </note>
@@ -99937,15 +99964,9 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb209562" when-iso="1909-05-15">
+    </event><event xml:id="pmb35293" when-iso="1909-05-15">
         <eventName n="Theaterpremiere">Premiere von Die gelbe Nachtigall, 15.5.1909</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb35053">Lessing-Theater</orgName>
-                </org>
-            </listOrg>
-        </note>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35293/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209562/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209562.html</idno>
     <listBibl>
@@ -99964,9 +99985,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb185928">Johann-Strauß-Theater</placeName>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                 <location>
-                    <geo>48,1954 16,3685</geo>
+                    <geo>48,208333 16,373056</geo>
                 </location>
             </place>
         </listPlace>
@@ -121013,40 +121034,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb263716" when-iso="1915-10-17">
-        <eventName n="Theateraufführung">Aufführung von Komödie der Worte, 17.10.1915</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb36247">Burgtheater</orgName>
-                </org>
-            </listOrg>
-        </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263716/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb263716.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
-                <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-                <location>
-                    <geo>48,210333 16,361139</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb238700" when-iso="1915-10-17">
         <eventName n="Theateraufführung">Aufführung von Komödie der Worte, 17.10.1915</eventName>
         <note type="listorg">
@@ -121058,10 +121045,13 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238700/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238700.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263716/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb263716.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+    <note type="references"> </note>
         <listBibl>
             <bibl>
                 <title key="pmb30717">Komödie der Worte. Drei Einakter</title>
@@ -150766,7 +150756,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb81429">Die Juden</title>
+                <title key="pmb31491">Die Juden. Schauspiel in drei Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -158295,7 +158285,7 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb210314" when-iso="1924-11-14">
+    </event><event xml:id="pmb55623" when-iso="1924-11-14">
         <eventName n="Theaterpremiere">Premiere von Überfahrt, 14.11.1924</eventName>
         <note type="listorg">
             <listOrg>
@@ -158304,11 +158294,13 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55623/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210314/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210314.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+    <note type="references"> </note>
         <listBibl>
             <bibl>
                 <title key="pmb33406">Überfahrt. Schauspiel in drei Akten</title>
@@ -168989,33 +168981,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb247485" when-iso="1927-04-14">
-        <eventName n="Generalprobe">Generalprobe von Das Genie und sein Bruder, 14.4.1927</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/247485/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb247485.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb81311">Das Genie und sein Bruder</title>
-                <note type="relation-type">ist Generalprobe von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-                <location>
-                    <geo>48,210333 16,361139</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb210894" when-iso="1927-04-14">
         <eventName n="Filmvorführung">Filmvorführung von Die Liebschaften der Gräfin Sonja, 14.4.1927</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210894/</idno>
@@ -169054,11 +169019,15 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/247485/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210412/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210412.html</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb247485.html</idno>
     <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+    <note type="references"> </note>
         <listBibl>
             <bibl>
                 <title key="pmb81311">Das Genie und sein Bruder</title>
@@ -185931,33 +185900,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb244756" when-iso="1931-01-22">
-        <eventName n="Theateraufführung">Aufführung von Haus Rothschild, 22.1.1931</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244756/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244756.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
-                <note type="relation-type">ist Aufführung von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-                <location>
-                    <geo>48,210333 16,361139</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb238915" when-iso="1931-01-22">
         <eventName n="Theateraufführung">Aufführung von Haus Rothschild, 22.1.1931</eventName>
         <note type="listorg">
@@ -185969,10 +185911,13 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238915/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238915.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244756/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244756.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+    <note type="references"> </note>
         <listBibl>
             <bibl>
                 <title key="pmb80433">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
@@ -185981,10 +185926,10 @@
         </listBibl>
         <listPerson>
             <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
+                <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
             </person>
             <person role="hat teilnehmend">
-                <persName key="pmb12435">Pollaczek, Clara Katharina</persName>
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
         </listPerson>
         <listPlace>
