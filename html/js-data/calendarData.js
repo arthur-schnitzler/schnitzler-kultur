@@ -3069,16 +3069,10 @@ var calendarData = [
     "name": "Danzer’s Orpheum, 3.12.1889", "startDate": "1889-12-03", "id": "pmb208358.html", "type": "Vergnügungsabend"
   },
   {
-    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889", "startDate": "1889-12-05", "id": "pmb208359.html", "type": "Schulvortragsabend"
-  },
-  {
     "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889", "startDate": "1889-12-05", "id": "pmb186741.html", "type": "Schulvortragsabend"
   },
   {
     "name": "Aufführung von Der dumme August, Die Fälle der Clémenceau, 10.12.1889", "startDate": "1889-12-10", "id": "pmb208360.html", "type": "Theateraufführung"
-  },
-  {
-    "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889", "startDate": "1889-12-11", "id": "pmb208361.html", "type": "Schulvortragsabend"
   },
   {
     "name": "Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889", "startDate": "1889-12-11", "id": "pmb186746.html", "type": "Schulvortragsabend"
@@ -5217,9 +5211,6 @@ var calendarData = [
     "name": "Aufführung von Die Jüdin von Toledo, 30.1.1896", "startDate": "1896-01-30", "id": "pmb208819.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von König Chilperich, 31.1.1896", "startDate": "1896-01-31", "id": "pmb208820.html", "type": "Theateraufführung"
-  },
-  {
     "name": "Aufführung von König Chilperich, 31.1.1896", "startDate": "1896-01-31", "id": "pmb43358.html", "type": "Theateraufführung"
   },
   {
@@ -5659,9 +5650,6 @@ var calendarData = [
   },
   {
     "name": "Aufführung von Der Widerspenstigen Zähmung, 21.3.1897", "startDate": "1897-03-21", "id": "pmb208912.html", "type": "Theateraufführung"
-  },
-  {
-    "name": "Private Lesung von Der Ehrentag, 22.3.1897", "startDate": "1897-03-22", "id": "pmb184192.html", "type": "Private Lesung"
   },
   {
     "name": "Private Lesung von Der Ehrentag, 22.3.1897", "startDate": "1897-03-22", "id": "pmb183906.html", "type": "Private Lesung"
@@ -9759,7 +9747,7 @@ var calendarData = [
     "name": "Ausstellungsbesuch Kunstschau Wien, 7.5.1909", "startDate": "1909-05-07", "id": "pmb248680.html", "type": "Ausstellungsbesuch"
   },
   {
-    "name": "Premiere von Die gelbe Nachtigall, 15.5.1909", "startDate": "1909-05-15", "id": "pmb209562.html", "type": "Theaterpremiere"
+    "name": "Premiere von Die gelbe Nachtigall, 15.5.1909", "startDate": "1909-05-15", "id": "pmb35293.html", "type": "Theaterpremiere"
   },
   {
     "name": "Aufführung von Der Bund der Jugend, 17.5.1909", "startDate": "1909-05-17", "id": "pmb209563.html", "type": "Theateraufführung"
@@ -11758,9 +11746,6 @@ var calendarData = [
   },
   {
     "name": "Gesangskonzert von Julia Culp, 14.10.1915", "startDate": "1915-10-14", "id": "pmb209776.html", "type": "Liederkonzert"
-  },
-  {
-    "name": "Aufführung von Komödie der Worte, 17.10.1915", "startDate": "1915-10-17", "id": "pmb263716.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Komödie der Worte, 17.10.1915", "startDate": "1915-10-17", "id": "pmb238700.html", "type": "Theateraufführung"
@@ -15468,7 +15453,7 @@ var calendarData = [
     "name": "Generalprobe von Der Komödiant, 13.11.1924", "startDate": "1924-11-13", "id": "pmb210312.html", "type": "Generalprobe"
   },
   {
-    "name": "Premiere von Überfahrt, 14.11.1924", "startDate": "1924-11-14", "id": "pmb210314.html", "type": "Theaterpremiere"
+    "name": "Premiere von Überfahrt, 14.11.1924", "startDate": "1924-11-14", "id": "pmb55623.html", "type": "Theaterpremiere"
   },
   {
     "name": "Orchesterkonzert, 16.11.1924", "startDate": "1924-11-16", "id": "pmb210315.html", "type": "Orchesterkonzert"
@@ -16549,9 +16534,6 @@ var calendarData = [
   },
   {
     "name": "Filmvorführung von Liebe, 12.4.1927", "startDate": "1927-04-12", "id": "pmb210893.html", "type": "Filmvorführung"
-  },
-  {
-    "name": "Generalprobe von Das Genie und sein Bruder, 14.4.1927", "startDate": "1927-04-14", "id": "pmb247485.html", "type": "Generalprobe"
   },
   {
     "name": "Filmvorführung von Die Liebschaften der Gräfin Sonja, 14.4.1927", "startDate": "1927-04-14", "id": "pmb210894.html", "type": "Filmvorführung"
@@ -18271,9 +18253,6 @@ var calendarData = [
   },
   {
     "name": "Probe von Der Gang zum Weiher (5. Akt), 21.1.1931", "startDate": "1931-01-21", "id": "pmb244745.html", "type": "Probe"
-  },
-  {
-    "name": "Aufführung von Haus Rothschild, 22.1.1931", "startDate": "1931-01-22", "id": "pmb244756.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Haus Rothschild, 22.1.1931", "startDate": "1931-01-22", "id": "pmb238915.html", "type": "Theateraufführung"

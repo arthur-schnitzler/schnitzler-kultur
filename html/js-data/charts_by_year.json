@@ -1344,7 +1344,7 @@
           "label": "Veranstaltungstypen im Jahr 1889",
           "data": [
             15,
-            14,
+            12,
             31,
             17,
             3
@@ -1391,7 +1391,7 @@
               1,
               4,
               2,
-              6,
+              4,
               1
             ]
           }
@@ -2175,7 +2175,7 @@
         {
           "label": "Veranstaltungstypen im Jahr 1896",
           "data": [
-            93,
+            92,
             17,
             1,
             8,
@@ -2199,7 +2199,7 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1896",
             "data": [
-              56,
+              55,
               23,
               5,
               4,
@@ -2296,7 +2296,7 @@
           "label": "Veranstaltungstypen im Jahr 1897",
           "data": [
             89,
-            14,
+            13,
             1,
             26,
             21
@@ -2340,7 +2340,7 @@
           {
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1897",
             "data": [
-              11,
+              10,
               2,
               1
             ]
@@ -4527,7 +4527,7 @@
             7,
             49,
             33,
-            48,
+            47,
             10
           ]
         }
@@ -4611,7 +4611,7 @@
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1915",
             "data": [
               8,
-              15,
+              14,
               7,
               2,
               14,
@@ -6127,7 +6127,7 @@
         {
           "label": "Veranstaltungstypen im Jahr 1927",
           "data": [
-            33,
+            32,
             78,
             14,
             9,
@@ -6151,7 +6151,7 @@
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1927",
             "data": [
               21,
-              9,
+              8,
               1,
               1,
               1
@@ -6616,7 +6616,7 @@
             69,
             4,
             15,
-            42,
+            41,
             4,
             12
           ]
@@ -6691,7 +6691,7 @@
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1931",
             "data": [
               14,
-              21,
+              20,
               2,
               2,
               1,
