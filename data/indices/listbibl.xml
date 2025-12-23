@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-12-17">serialized</change>
+      <change when-iso="2025-12-23">serialized</change>
       
        
     </revisionDesc>
@@ -10189,9 +10189,6 @@
           <author key="pmb12674" role="hat-geschaffen">Schlesinger, Sigmund</author>
           
   
-          <author key="pmb12674" role="hat-geschaffen">Schlesinger, Sigmund</author>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195533/</idno>
           
   
@@ -18138,28 +18135,6 @@
           
   
           <note type="work_kind">Film</note>
-          
-
-        </bibl>
-        <bibl xml:id="pmb81429">
-          
-  
-          <title type="main">Die Juden</title>
-          
-  
-          <author key="pmb4161" role="hat-geschaffen">Čirikov, Evgenij N.</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/81429/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb81429.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81429.html</idno>
-          
-  
-          <note type="work_kind">Drama</note>
           
 
         </bibl>
@@ -38830,6 +38805,9 @@
   
           <author key="pmb16368" role="hat-geschaffen">Fodor, Ladislaus</author>
           
+
+          <date notBefore-iso="1928-01-01" when-iso="1928-01-01">1928</date>
+          
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/80515/</idno>
           
@@ -38838,6 +38816,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80515.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Drama</note>
@@ -80452,9 +80439,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <author key="pmb11701" role="hat-geschaffen">Hirschfeld, Georg</author>
           
-  
-          <author key="pmb11701" role="hat-geschaffen">Hirschfeld, Georg</author>
-          
 
           <date notBefore-iso="1896-01-01" when-iso="1896-01-01">1896</date>
           
@@ -82550,6 +82534,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Die Juden. Schauspiel in drei Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Die Juden</title>
+          
+  
           <author key="pmb4161" role="hat-geschaffen">Čirikov, Evgenij N.</author>
           
 
@@ -82566,6 +82553,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31491.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/81429/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb81429.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81429.html</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -93279,9 +93275,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <title type="legacy-name-merge">Der Meister</title>
-          
-  
-          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
           
   
           <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>

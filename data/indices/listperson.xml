@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-12-17">serialized</change>
+      <change when-iso="2025-12-23">serialized</change>
       
        
     </revisionDesc>
@@ -18048,6 +18048,64 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42011.html</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb154113">
+          
+  
+          <persName>
+            
+      
+            <forename>Alexander</forename>
+            
+      
+            <surname>Wierth</surname>
+            
+  
+          </persName>
+          
+  
+          <sex value="male"/>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/154113/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb154113.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
               
     
             </event>
@@ -133265,6 +133323,27 @@
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/person/list.xhtml?id=9911202</idno>
           
 
+          <listEvent>
+            
+    
+            <event n="Theateraufführung" key="333602" when-iso="1905-07-01">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Aufführung von Die Juden, 1.7.1905</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333602/</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
           <listBibl>
             
     
@@ -156857,6 +156936,24 @@
             </event>
             
     
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateruraufführung" key="48470" when-iso="1905-04-13">
               
         
@@ -157249,6 +157346,108 @@
             
     
             <bibl type="collections" n="12">Die Fackel</bibl>
+            
+
+          </listBibl>
+          
+
+        </person>
+        <person xml:id="pmb26873">
+          
+  
+          <persName>
+            
+      
+            <forename>Theodor</forename>
+            
+      
+            <surname>Weiss</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1857-06-18">18.06.1857</date>
+            
+      
+            <settlement key="833">
+              
+        
+              <placeName type="pref">Brünn</placeName>
+              
+        
+              <location>
+                <geo>49,19522 16,60796</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1942-01-01">1942</date>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="105">Schauspieler/Schauspielerin</occupation>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/26873/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95270983</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21207.html</idno>
+          
+  
+          <idno type="URL" subtype="brenner">https://brenner.oeaw.ac.at/?p=brennerp11367</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="35">Der Brenner</bibl>
             
 
           </listBibl>
@@ -201379,6 +201578,36 @@
           </affiliation>
           
 
+          <affiliation>
+            
+    
+            <term key="1182">arbeitet für</term>
+            
+    
+            <orgName key="29380">Berliner Theater</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29380/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q821806</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Berliner_Theater</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29380.html</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29380.html</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333597/</idno>
+            
+
+          </affiliation>
+          
+
           <listEvent>
             
     
@@ -201467,6 +201696,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb51741.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="333602" when-iso="1905-07-01">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Aufführung von Die Juden, 1.7.1905</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333602/</idno>
               
     
             </event>
@@ -227193,30 +227437,16 @@
           </persName>
           
   
-          <persName type="legacy-name-merge">Hetsey, Alice Juliane</persName>
+          <persName type="person_geburtsname_vorname">Alice Juliane</persName>
           
   
-          <persName type="legacy-name-merge">Hétsey-Holzer, Alice</persName>
+          <persName type="person_geburtsname_nachname">Hétsey</persName>
           
   
           <birth>
             
     
             <date when-iso="1875-09-03">03.09.1875</date>
-            
-      
-            <settlement key="50">
-              
-        
-              <placeName type="pref">Wien</placeName>
-              
-        
-              <location>
-                <geo>48,208333 16,373056</geo>
-              </location>
-              
-      
-            </settlement>
             
       
             <settlement key="50">
@@ -227240,20 +227470,6 @@
             
     
             <date when-iso="1939-02-11">11.02.1939</date>
-            
-      
-            <settlement key="50">
-              
-        
-              <placeName type="pref">Wien</placeName>
-              
-        
-              <location>
-                <geo>48,208333 16,373056</geo>
-              </location>
-              
-      
-            </settlement>
             
       
             <settlement key="50">
@@ -241241,6 +241457,24 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
               
     
             </event>
@@ -259308,6 +259542,12 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186741/</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208359/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208359.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186741.html</idno>
               
     
@@ -259327,18 +259567,6 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186746.html</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Schulvortragsabend" key="208361" when-iso="1889-12-11">
-              
-        
-              <desc n="1256">mitwirkend an</desc>
-              
-        
-              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
@@ -266724,6 +266952,9 @@
             
     
             <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29380.html</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333597/</idno>
             
 
           </affiliation>
@@ -281566,6 +281797,9 @@
           <persName type="legacy-name-merge">Wassermann, Jakob</persName>
           
   
+          <persName type="legacy-name-merge">Wassermann, Jakob</persName>
+          
+  
           <birth>
             
     
@@ -281682,6 +281916,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb13055.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/304728/</idno>
+          
+  
+          <idno type="URL" subtype="ansorge">https://conrad-ansorge.github.io/ansorge-static/ansorge_p_797.html</idno>
           
 
           <affiliation notBefore-iso="1897-01-01" when-iso="1897-01-01" notAfter-iso="1897-12-31">
@@ -282129,6 +282369,9 @@
             
     
             <bibl type="collections" n="42">Die Schaubühne</bibl>
+            
+    
+            <bibl type="collections" n="83">Conrad Ansorge</bibl>
             
 
           </listBibl>
@@ -295019,6 +295262,39 @@
             </event>
             
     
+            <event n="Theateraufführung" key="333584" when-iso="1903-03-15">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>2. Aufführung von Lebendige Stunden, 15.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333584/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Zirkusvorstellung" key="209284" when-iso="1903-03-30">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Zirkus Schumann, 30.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209284/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209284.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Hochzeit" key="44469" when-iso="1903-08-26">
               
         
@@ -303941,6 +304217,24 @@
             </event>
             
     
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Geschlossene Aufführung" key="42714" when-iso="1905-05-29">
               
         
@@ -309096,6 +309390,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb51741.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="333602" when-iso="1905-07-01">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Aufführung von Die Juden, 1.7.1905</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333602/</idno>
               
     
             </event>
@@ -319641,6 +319950,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238915.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244756/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244756.html</idno>
+              
     
             </event>
             
@@ -326782,8 +327097,14 @@
 
           </listBibl>
           
-  
-          <note type="references"> </note>
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Max_Mell_1933.jpg"/>
+            
+
+          </figure>
           
 
         </person>
@@ -327586,6 +327907,21 @@
           
 
           <listEvent>
+            
+    
+            <event n="Theateraufführung" key="333602" when-iso="1905-07-01">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Aufführung von Die Juden, 1.7.1905</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333602/</idno>
+              
+    
+            </event>
             
     
             <event n="Theateraufführung" key="59624" when-iso="1906-05-15">
@@ -330432,6 +330768,9 @@
             
     
             <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29380.html</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333597/</idno>
             
 
           </affiliation>
@@ -333761,6 +334100,24 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143042.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
               
     
             </event>
@@ -337334,6 +337691,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209045.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315013/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ff2f0cd334071f7505cd6</idno>
               
     
             </event>
@@ -341735,6 +342098,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184192/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html</idno>
+              
     
             </event>
             
@@ -344275,6 +344644,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184192/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184192.html</idno>
               
     
             </event>
@@ -351067,6 +351442,15 @@
             
 
           </listBibl>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/4/49/Paul_Goldmann1898.jpg"/>
+            
+
+          </figure>
           
 
         </person>
@@ -363877,7 +364261,7 @@
           <figure>
             
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Max_Burckhard_am_Totenbett.png/250px-Max_Burckhard_am_Totenbett.png"/>
+            <graphic url="https://upload.wikimedia.org/wikipedia/de/9/99/MaxBurckhard.JPG"/>
             
 
           </figure>
@@ -364642,6 +365026,164 @@
             
 
           </listEvent>
+          
+
+        </person>
+        <person xml:id="pmb10995">
+          
+  
+          <persName>
+            
+      
+            <forename>Theodor</forename>
+            
+      
+            <surname>Brandt</surname>
+            
+  
+          </persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1855-11-21">21.11.1855</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1939-02-12">12.02.1939</date>
+            
+      
+            <settlement key="872">
+              
+        
+              <placeName type="pref">Stuttgart</placeName>
+              
+        
+              <location>
+                <geo>48,78232 9,17702</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="male"/>
+          
+  
+          <occupation key="103">Theaterleiter/Theaterleiterin</occupation>
+          
+  
+          <occupation key="104">Regisseur/Regisseurin</occupation>
+          
+  
+          <occupation key="105">Schauspieler/Schauspielerin</occupation>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116407069</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13922.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb10995.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10995/</idno>
+          
+  
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp60074</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2417922</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Theodor_K%C3%B6stlin</idno>
+          
+  
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/person/list.xhtml?id=10560056</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Theateruraufführung" key="46453" when-iso="1889-10-20">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Uraufführung von Vor Sonnenaufgang, 20.10.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46453/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="12">Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+
+          </listBibl>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Theodor_K%C3%B6stlin.jpg/250px-Theodor_K%C3%B6stlin.jpg"/>
+            
+
+          </figure>
           
 
         </person>
@@ -368531,6 +369073,21 @@
     
             </event>
             
+    
+            <event n="Theateraufführung" key="333602" when-iso="1905-07-01">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Aufführung von Die Juden, 1.7.1905</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333602/</idno>
+              
+    
+            </event>
+            
 
           </listEvent>
           
@@ -372186,18 +372743,6 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55623/</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Theaterpremiere" key="210314" when-iso="1924-11-14">
-              
-        
-              <desc n="1256">mitwirkend an</desc>
-              
-        
-              <label>Premiere von Überfahrt, 14.11.1924</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210314/</idno>
@@ -404882,20 +405427,6 @@
       
             </settlement>
             
-      
-            <settlement key="44092">
-              
-        
-              <placeName type="pref">Jihlava</placeName>
-              
-        
-              <location>
-                <geo>49,3961 15,59124</geo>
-              </location>
-              
-      
-            </settlement>
-            
   
           </birth>
             
@@ -404904,20 +405435,6 @@
             
     
             <date when-iso="1949-02-12">12.02.1949</date>
-            
-      
-            <settlement key="54042">
-              
-        
-              <placeName type="pref">Buenos Aires</placeName>
-              
-        
-              <location>
-                <geo>-34,61315 -58,37723</geo>
-              </location>
-              
-      
-            </settlement>
             
       
             <settlement key="54042">
@@ -404982,6 +405499,36 @@
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/person/list.xhtml?id=8245999</idno>
           
 
+          <affiliation>
+            
+    
+            <term key="1409">besitzt</term>
+            
+    
+            <orgName key="29380">Berliner Theater</orgName>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29380/</idno>
+            
+    
+            <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q821806</idno>
+            
+    
+            <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Berliner_Theater</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29380.html</idno>
+            
+    
+            <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29380.html</idno>
+            
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333597/</idno>
+            
+
+          </affiliation>
+          
+
           <listEvent>
             
     
@@ -405019,6 +405566,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35098.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="333602" when-iso="1905-07-01">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Aufführung von Die Juden, 1.7.1905</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333602/</idno>
               
     
             </event>
@@ -405788,6 +406350,24 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142819.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
               
     
             </event>
@@ -450623,6 +451203,15 @@
           </listBibl>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/c/ca/FedorMamroth.jpg"/>
+            
+
+          </figure>
+          
+
         </person>
         <person xml:id="pmb4947">
           
@@ -453781,6 +454370,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35098.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="333602" when-iso="1905-07-01">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Aufführung von Die Juden, 1.7.1905</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333602/</idno>
               
     
             </event>
@@ -457050,6 +457654,24 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144876/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
               
     
             </event>
@@ -470239,6 +470861,15 @@
           </listBibl>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/4/44/Alfred_Polgar_Foto_Max_Fenichel.jpg"/>
+            
+
+          </figure>
+          
+
         </person>
         <person xml:id="pmb2984">
           
@@ -472823,6 +473454,24 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296012.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="35110" when-iso="1903-03-14">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Premiere von Lebendige Stunden, 14.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
               
     
             </event>
@@ -486876,13 +487525,19 @@
             </event>
             
     
-            <event n="Private Lesung" key="184192" when-iso="1897-03-22">
+            <event n="Private Lesung" key="183906" when-iso="1897-03-22">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
               <label>Private Lesung von Der Ehrentag, 22.3.1897</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183906/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184192/</idno>
@@ -489588,6 +490243,9 @@
     
             <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29380.html</idno>
             
+    
+            <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333597/</idno>
+            
 
           </affiliation>
           
@@ -491784,7 +492442,7 @@
           <birth>
             
     
-            <date when-iso="1909-09-13">13.09.1909</date>
+            <date when-iso="1909-09-13">1909-09-13</date>
             
       
             <settlement key="50">
@@ -494683,6 +495341,24 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Zirkusvorstellung" key="209284" when-iso="1903-03-30">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Zirkus Schumann, 30.3.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209284/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209284.html</idno>
               
     
             </event>
@@ -504858,6 +505534,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207363.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/319979/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665649ea4e1190214742b5b7</idno>
+              
     
             </event>
             
@@ -504983,6 +505665,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207370.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/314824/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6656f0cf4e119021474f74d7</idno>
               
     
             </event>
@@ -505577,6 +506265,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207404.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/327523/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665867ca4e119021476ce6c7</idno>
               
     
             </event>
@@ -506316,6 +507010,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207445.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315782/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66589d524e11902147716a50</idno>
+              
     
             </event>
             
@@ -506550,6 +507250,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207458.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315190/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658afa34e119021477322a0</idno>
+              
     
             </event>
             
@@ -506603,6 +507309,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207461.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/318203/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658b1644e11902147735332</idno>
               
     
             </event>
@@ -507143,6 +507855,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207492.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/317231/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658dc744e11902147770fbf</idno>
               
     
             </event>
@@ -508116,6 +508834,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207546.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328462/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6659b0264e11902147878332</idno>
+              
     
             </event>
             
@@ -508638,6 +509362,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207575.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328696/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/672502b923a753560d1712ac</idno>
+              
     
             </event>
             
@@ -508889,6 +509619,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207589.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/317285/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a08d74e119021478e82c1</idno>
               
     
             </event>
@@ -509196,6 +509932,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207606.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/316853/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a19cc4e119021478fe395</idno>
+              
     
             </event>
             
@@ -509213,6 +509955,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207607.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326962/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a1b694e119021479004e2</idno>
               
     
             </event>
@@ -509285,6 +510033,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207611.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326218/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a237c4e1190214790ac4a</idno>
               
     
             </event>
@@ -510465,6 +511219,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207676.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/318038/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665acb734e119021479da237</idno>
+              
     
             </event>
             
@@ -511041,6 +511801,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207708.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326221/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665b434f4e11902147a6fed6</idno>
+              
     
             </event>
             
@@ -511094,6 +511860,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207711.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326965/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665b4c844e11902147a7be5f</idno>
               
     
             </event>
@@ -514224,6 +514996,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207880.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/314896/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665de3524e11902147dbe949</idno>
+              
     
             </event>
             
@@ -515394,6 +516172,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207945.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665eef3e4e11902147f0f9d1</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/314902/</idno>
+              
     
             </event>
             
@@ -515447,6 +516231,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207948.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/316868/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665ef2a94e11902147f1465c</idno>
               
     
             </event>
@@ -516257,6 +517047,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207992.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/328744/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665f32af4e11902147f68d04</idno>
               
     
             </event>
@@ -517179,6 +517975,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208038.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/319421/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666011144e1190214707cda7</idno>
+              
     
             </event>
             
@@ -517340,6 +518142,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208047.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/320531/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66602e764e119021470a3f58</idno>
               
     
             </event>
@@ -523162,25 +523970,13 @@
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186741/</idno>
               
         
-              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186741.html</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Schulvortragsabend" key="208359" when-iso="1889-12-05">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 5.12.1889</label>
-              
-        
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208359/</idno>
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208359.html</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186741.html</idno>
               
     
             </event>
@@ -523217,18 +524013,6 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186746.html</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Schulvortragsabend" key="208361" when-iso="1889-12-11">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Vortragsübung der Schauspielschule des Konservatoriums der Gesellschaft der Musikfreunde, 11.12.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208361/</idno>
@@ -536133,18 +536917,6 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43358.html</idno>
               
-    
-            </event>
-            
-    
-            <event n="Theateraufführung" key="208820" when-iso="1896-01-31">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Aufführung von König Chilperich, 31.1.1896</label>
-              
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208820/</idno>
               
@@ -536765,6 +537537,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208841.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/326476/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666b1ec5cd334071f7efc668</idno>
               
     
             </event>
@@ -537548,6 +538326,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208862.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/314989/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3874cd334071f719a7d5</idno>
               
     
             </event>
@@ -538796,18 +539580,6 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183906.html</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Private Lesung" key="184192" when-iso="1897-03-22">
-              
-        
-              <desc n="1256">mitwirkend an</desc>
-              
-        
-              <label>Private Lesung von Der Ehrentag, 22.3.1897</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184192/</idno>
@@ -543345,6 +544117,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209045.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315013/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ff2f0cd334071f7505cd6</idno>
+              
     
             </event>
             
@@ -543705,6 +544483,12 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209055.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ff928cd334071f750e94a</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/325264/</idno>
+              
     
             </event>
             
@@ -543974,6 +544758,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209064.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/315914/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6670115bcd334071f7530ad2</idno>
               
     
             </event>
@@ -544898,6 +545688,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209085.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/316652/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66702290cd334071f7548082</idno>
               
     
             </event>
@@ -548753,6 +549549,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209208.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/316961/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672e3a8cd334071f78c9e9b</idno>
               
     
             </event>
@@ -563461,13 +564263,16 @@
             </event>
             
     
-            <event n="Theaterpremiere" key="209562" when-iso="1909-05-15">
+            <event n="Theaterpremiere" key="35293" when-iso="1909-05-15">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
               <label>Premiere von Die gelbe Nachtigall, 15.5.1909</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35293/</idno>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209562/</idno>
@@ -575540,18 +576345,6 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238700.html</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Theateraufführung" key="263716" when-iso="1915-10-17">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Aufführung von Komödie der Worte, 17.10.1915</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263716/</idno>
@@ -597811,13 +598604,16 @@
             </event>
             
     
-            <event n="Theaterpremiere" key="210314" when-iso="1924-11-14">
+            <event n="Theaterpremiere" key="55623" when-iso="1924-11-14">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
               <label>Premiere von Überfahrt, 14.11.1924</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55623/</idno>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210314/</idno>
@@ -604363,25 +605159,13 @@
               <label>Generalprobe von Das Genie und sein Bruder, 14.4.1927</label>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/247485/</idno>
+              
+        
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210412/</idno>
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210412.html</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Generalprobe" key="247485" when-iso="1927-04-14">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Generalprobe von Das Genie und sein Bruder, 14.4.1927</label>
-              
-        
-              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/247485/</idno>
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb247485.html</idno>
@@ -614690,18 +615474,6 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238915.html</idno>
-              
-    
-            </event>
-            
-    
-            <event n="Theateraufführung" key="244756" when-iso="1931-01-22">
-              
-        
-              <desc n="1370">teilgenommen an</desc>
-              
-        
-              <label>Aufführung von Haus Rothschild, 22.1.1931</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244756/</idno>

@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-12-17">serialized</change>
+      <change when-iso="2025-12-23">serialized</change>
       
        
     </revisionDesc>
@@ -26472,6 +26472,9 @@
           <orgName>Berliner Theater</orgName>
           
   
+          <orgName type="legacy-name-merge">Berliner Ensemble</orgName>
+          
+  
           <desc type="entity_type">Theater</desc>
           
   
@@ -26584,6 +26587,21 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29380.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333597/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+  
+          <note type="references"> </note>
           
 
           <note type="apis_dates">
