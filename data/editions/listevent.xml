@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2025-12-23">serialized</change>
+          <change when-iso="2026-01-06">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -5003,7 +5003,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -16137,7 +16137,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -17881,7 +17881,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -19194,7 +19194,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -38568,6 +38568,28 @@
                 </location>
             </place>
         </listPlace>
+    </event><event xml:id="pmb333801" when-iso="1893-01-07">
+        <eventName n="Hausball">Hausball Stein, 7.1.1893</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333801/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb25367">Stein</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb208591" when-iso="1893-01-07">
         <eventName n="Theaterpremiere">Premiere von Die Rantzau, Vier Jahreszeiten, 7.1.1893</eventName>
         <note type="listorg">
@@ -38655,6 +38677,28 @@
                 <placeName role="veranstaltet in" key="pmb37">Theater an der Wien</placeName>
                 <location>
                     <geo>48,19941 16,3642</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb333805" when-iso="1893-01-11">
+        <eventName n="Ball">Juristenball, 11.1.1893</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333805/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11740">Hofmannsthal, Hugo von</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb107">Sofiensäle</placeName>
+                <location>
+                    <geo>48,206662 16,391263</geo>
                 </location>
             </place>
         </listPlace>
@@ -41406,6 +41450,12 @@
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb11848">Kadelburg, Heinrich</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -49983,6 +50033,9 @@
             <person role="hat mitwirkend">
                 <persName key="pmb25031">Slanar, Gustav</persName>
             </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -53726,9 +53779,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb338">Wollzeile</placeName>
+                <placeName role="veranstaltet in" key="pmb190427">Wollzeile 15 (»Berthahof«)</placeName>
                 <location>
-                    <geo>48,20852 16,37592</geo>
+                    <geo>48,208656 16,375924</geo>
                 </location>
             </place>
         </listPlace>
@@ -56193,7 +56246,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb208897" when-iso="1897-01-23">
-        <eventName n="Theateraufführung">Aufführung von Das Wetterhäuschen, Die fesche Pepi, 23.1.1897</eventName>
+        <eventName n="Theaterpremiere">Premiere von Das Wetterhäuschen, Die fesche Pepi, 23.1.1897</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -56208,17 +56261,20 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195814">Das Wetterhäuschen</title>
+                <title key="pmb195814">Das Wetterhäuschen. Musikalisches Genrebild in einem Act</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb195815">Die fesche Pepi</title>
+                <title key="pmb195815">Die fesche Pepi. Posse mit Gesang in drei Acten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2167">Salten, Felix</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -65440,6 +65496,38 @@
                 </location>
             </place>
         </listPlace>
+    </event><event xml:id="pmb333793" when-iso="1899-01-07">
+        <eventName n="Vergnügungsabend">Besuch des Budapest-Orpheums, 7.1.1899</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb29774">Budapester Orpheumgesellschaft</orgName>
+                </org>
+            </listOrg>
+        </note>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333793/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12740">Schwarzkopf, Gustav</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10863">Beer-Hofmann, Richard</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb92180">Budapest-Orpheum</placeName>
+                <location>
+                    <geo>48,213595 16,37968</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb297273" when-iso="1899-01-11">
         <eventName n="Museumsbesuch">Besuch des Kunsthistorischen Museums, 11.1.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/297273/</idno>
@@ -67046,7 +67134,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209077" when-iso="1899-04-25">
-        <eventName n="Theateraufführung">Aufführung von Hans, 25.4.1899</eventName>
+        <eventName n="Theateraufführung">Aufführung von Hans, Mutterherz, 25.4.1899</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -67061,7 +67149,11 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77357">Hans</title>
+                <title key="pmb77357">Hans. Drama in drei Aufzügen</title>
+                <note type="relation-type">ist Aufführung von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb333842">Mutterherz</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -67219,6 +67311,38 @@
             <bibl>
                 <title key="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
                 <note type="relation-type">ist Probe von</note>
+            </bibl>
+        </listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb3">Deutsches Theater Berlin</placeName>
+                <location>
+                    <geo>52,524444 13,382222</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb333837" when-iso="1899-04-28">
+        <eventName n="Generalprobe">Generalprobe von Der grüne Kakadu, 28.4.1899</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb35597">Deutsches Theater Berlin</orgName>
+                </org>
+            </listOrg>
+        </note>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333837/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listBibl>
+            <bibl>
+                <title key="pmb32562">Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter</title>
+                <note type="relation-type">ist Generalprobe von</note>
             </bibl>
         </listBibl>
         <listPerson>
@@ -68514,7 +68638,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80917">Undine</title>
+                <title key="pmb80917">Undine. Romantische Zauberoper in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -68524,12 +68648,6 @@
             </person>
         </listPerson>
         <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb883">Wiesbaden</placeName>
-                <location>
-                    <geo>50,08258 8,24932</geo>
-                </location>
-            </place>
             <place>
                 <placeName role="veranstaltet in" key="pmb300338">Hessisches Staatstheater Wiesbaden</placeName>
                 <location>
@@ -68546,7 +68664,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -68556,12 +68674,6 @@
             </person>
         </listPerson>
         <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb883">Wiesbaden</placeName>
-                <location>
-                    <geo>50,08258 8,24932</geo>
-                </location>
-            </place>
             <place>
                 <placeName role="veranstaltet in" key="pmb300338">Hessisches Staatstheater Wiesbaden</placeName>
                 <location>
@@ -69922,7 +70034,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77357">Hans</title>
+                <title key="pmb77357">Hans. Drama in drei Aufzügen</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
@@ -72632,9 +72744,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb231273">Mayerhofgasse 12</placeName>
+                <placeName role="veranstaltet in" key="pmb168934">Frankgasse 1</placeName>
                 <location>
-                    <geo>48,192766 16,368913</geo>
+                    <geo>48,21533 16,35736</geo>
                 </location>
             </place>
         </listPlace>
@@ -74043,7 +74155,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -82238,7 +82350,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -92874,7 +92986,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -96166,7 +96278,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb80917">Undine</title>
+                <title key="pmb80917">Undine. Romantische Zauberoper in vier Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -98236,7 +98348,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -101038,7 +101150,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -109537,7 +109649,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -113119,7 +113231,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -130347,7 +130459,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -142156,7 +142268,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30627">Carmen. Oper in vier Akten</title>
+                <title key="pmb30627">Carmen. Opéra-Comique en quatre actes</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -167203,7 +167315,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76926">Dorothea Angermann</title>
+                <title key="pmb76926">Dorothea Angermann. Schauspiel in fünf Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -171835,7 +171947,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76926">Dorothea Angermann</title>
+                <title key="pmb76926">Dorothea Angermann. Schauspiel in fünf Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
