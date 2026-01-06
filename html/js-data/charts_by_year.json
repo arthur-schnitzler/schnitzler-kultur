@@ -1824,6 +1824,7 @@
       "labels": [
         "Musik",
         "Theater",
+        "Privatveranstaltung",
         "anderes",
         "Vortrag"
       ],
@@ -1833,6 +1834,7 @@
           "data": [
             17,
             49,
+            2,
             22,
             10
           ]
@@ -1881,6 +1883,21 @@
               15,
               9,
               2,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hausball",
+          "Ball"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1893",
+            "data": [
+              1,
               1
             ]
           }
@@ -2319,8 +2336,8 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1897",
             "data": [
-              24,
-              56,
+              25,
+              55,
               4,
               1,
               1,
@@ -2534,8 +2551,8 @@
         {
           "label": "Veranstaltungstypen im Jahr 1899",
           "data": [
-            86,
-            8,
+            87,
+            9,
             22,
             15
           ]
@@ -2560,7 +2577,7 @@
               7,
               1,
               13,
-              2,
+              3,
               1
             ]
           }
@@ -2568,12 +2585,14 @@
       },
       "anderes": {
         "labels": [
+          "Vergnügungsabend",
           "Museumsbesuch"
         ],
         "datasets": [
           {
             "label": "Verteilung innerhalb von 'anderes' im Jahr 1899",
             "data": [
+              1,
               8
             ]
           }
