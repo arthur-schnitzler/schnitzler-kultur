@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-12-23">serialized</change>
+      <change when-iso="2026-01-06">serialized</change>
       
        
     </revisionDesc>
@@ -24474,6 +24474,33 @@
           <location type="located_in_place">
             
   
+            <placeName key="pmb42001">Hotel Stefanie</placeName>
+            
+  
+            <geo>48,214343 16,380336</geo>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42001/</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1399214</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Hotel_Stefanie</note>
+            
+  
+            <note type="IDNO" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=16566</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42001.html</note>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
             <placeName key="pmb43471">Budapest</placeName>
             
   
@@ -24544,6 +24571,27 @@
             
   
             <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004920</note>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb92180">Budapest-Orpheum</placeName>
+            
+  
+            <geo>48,213595 16,37968</geo>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92180/</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92180.html</note>
+            
+  
+            <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92180.html</note>
             
 
           </location>

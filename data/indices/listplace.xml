@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-12-23">serialized</change>
+      <change when-iso="2026-01-06">serialized</change>
       
        
     </revisionDesc>
@@ -2558,6 +2558,12 @@
           <placeName>Drittes Kaffeehaus</placeName>
           
   
+          <placeName type="legacy-name-merge">3. Kaffeehaus</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Pertls 3. Kaffeehaus</placeName>
+          
+  
           <desc type="entity_type">Kaffeehaus (K.KAF)</desc>
           
   
@@ -2617,6 +2623,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294370.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333689/</idno>
+          
 
           <listBibl>
             
@@ -2625,6 +2634,9 @@
             
 
           </listBibl>
+          
+  
+          <note type="references"> </note>
           
 
         </place>
@@ -13995,73 +14007,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231302.html</idno>
-          
-
-          <listBibl>
-            
-    
-            <bibl type="collections" n="24">manually created entity</bibl>
-            
-    
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-
-          </listBibl>
-          
-
-        </place>
-        <place xml:id="pmb231273">
-          
-  
-          <placeName>Mayerhofgasse 12</placeName>
-          
-  
-          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
-          
-  
-          <desc type="entity_type_id">36</desc>
-          
-
-          <location type="coords">
-            
-  
-            <geo>48,192766 16,368913</geo>
-            
-
-          </location>
-          
-
-          <location type="located_in_place">
-            
-  
-            <placeName key="pmb92396">Mayerhofgasse</placeName>
-            
-  
-            <geo>48,192614 16,368846</geo>
-            
-
-          </location>
-          
-
-          <location type="located_in_place">
-            
-  
-            <placeName key="pmb54">IV., Wieden</placeName>
-            
-  
-            <geo>48,19198 16,36714</geo>
-            
-
-          </location>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231273/</idno>
-          
-  
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb231273.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231273.html</idno>
           
 
           <listBibl>
@@ -29938,6 +29883,9 @@
           <placeName>Kärntnerring 12/Bösendorferstraße 11</placeName>
           
   
+          <placeName type="ort_fruherer-name">Giselastraße 11</placeName>
+          
+  
           <desc type="entity_type">Wohngebäude (K.WHS)</desc>
           
   
@@ -32277,6 +32225,61 @@
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
+        <place xml:id="pmb92180">
+          
+  
+          <placeName>Budapest-Orpheum</placeName>
+          
+  
+          <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
+          
+  
+          <desc type="entity_type_id">5</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,213595 16,37968</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb52">II., Leopoldstadt</placeName>
+            
+  
+            <geo>48,21667 16,4</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92180/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92180.html</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92180.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
