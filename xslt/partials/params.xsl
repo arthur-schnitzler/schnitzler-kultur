@@ -10,7 +10,7 @@
     <xsl:param name="github_url">https://github.com/arthur-schnitzler/schnitzler-kultur</xsl:param>
     <xsl:param name="html_title">schnitzler-kultur</xsl:param>
     <xsl:param name="project_logo">images/logo.png</xsl:param>
-    <xsl:param name="base_url">https://arthur-schnitzler.github.io/schnitzler-kultur/</xsl:param>
+    <xsl:param name="base_url">https://schnitzler-kultur.acdh.oeaw.ac.at/</xsl:param>
     <xsl:param name="data_repo">https://github.com/arthur-schnitzler/dse-static-data</xsl:param>
     <xsl:param name="current-edition" select="'schnitzler-kultur'"/>
     <xsl:param name="current-colour" select="'#AC7790'"/>
