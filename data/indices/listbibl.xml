@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2025-12-23">serialized</change>
+      <change when-iso="2026-02-13">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,93 @@
       
            
       <listBibl>
+        <bibl xml:id="pmb334578">
+          
+  
+          <title type="main">Madonna Lucia</title>
+          
+  
+          <title type="werk_link">http://www.zeno.org/Literatur/M/Dörmann,+Felix/Gedichte/Neurotica/Madonna+Lucia</title>
+          
+  
+          <author key="pmb2425" role="hat-geschaffen">Dörmann, Felix</author>
+          
+
+          <date notBefore-iso="1891-01-01" when-iso="1891-01-01">1891</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334578/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Gedichtsammlung</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb333940">
+          
+  
+          <title type="main">Le devin du village [Bearbeitung Robert Gound]</title>
+          
+  
+          <author key="pmb12582" role="hat-geschaffen">Rousseau, Jean-Jacques</author>
+          
+  
+          <author key="pmb17540" role="hat-vertont">Gund, Robert</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333940/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb333842">
+          
+  
+          <title type="main">Mutterherz</title>
+          
+  
+          <author key="pmb2957" role="hat-geschaffen">Vacano, Stefan</author>
+          
+
+          <date notBefore-iso="1899-01-01" when-iso="1899-01-01">1899</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333842/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb298993">
           
   
@@ -2804,6 +2891,64 @@
           
   
           <note type="references">None None</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb201672">
+          
+  
+          <title type="main">Orphée aux enfers</title>
+          
+  
+          <title type="werk_namensvariante">Orpheus in der Unterwelt</title>
+          
+  
+          <author key="pmb9131" role="hat-vertont">Offenbach, Jacques</author>
+          
+  
+          <author key="pmb4197" role="hat-geschaffen">Halévy, Ludovic</author>
+          
+  
+          <author key="pmb114449" role="hat-geschaffen">Crémieux, Hector Jonathan</author>
+          
+
+          <date notBefore-iso="1858-01-01" when-iso="1858-01-01">1858</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201672/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300115598</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1137065</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_281.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Orpheus_in_der_Unterwelt</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77025.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77025/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77025.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
           
 
         </bibl>
@@ -6020,7 +6165,7 @@
         <bibl xml:id="pmb195815">
           
   
-          <title type="main">Die fesche Pepi</title>
+          <title type="main">Die fesche Pepi. Posse mit Gesang in drei Acten</title>
           
   
           <author key="pmb20456" role="hat-geschaffen">Lindau, Karl</author>
@@ -6035,17 +6180,50 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195815.html</idno>
           
 
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Posse mit Gesang</note>
+          
+
         </bibl>
         <bibl xml:id="pmb195814">
           
   
-          <title type="main">Das Wetterhäuschen</title>
+          <title type="main">Das Wetterhäuschen. Musikalisches Genrebild in einem Act</title>
+          
+  
+          <author key="pmb154315" role="hat-geschaffen">Ross, Adrian</author>
+          
+  
+          <author key="pmb7872" role="hat-ubersetzt">Hirschel, Hermann</author>
+          
+  
+          <author key="pmb333727" role="hat-vertont">Luard-Selby, Bertram</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195814/</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195814.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
           
 
         </bibl>
@@ -18036,10 +18214,13 @@
         <bibl xml:id="pmb81440">
           
   
-          <title type="main">Der Fall Mary Dugan</title>
+          <title type="main">Der Fall Mary Dugan. Komödie in drei Akten</title>
           
   
           <author key="pmb10340" role="hat-geschaffen">Veiller, Bayard</author>
+          
+  
+          <author key="pmb2570" role="hat-ubersetzt">Lothar, Rudolf</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/81440/</idno>
@@ -18050,8 +18231,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81440.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -30519,10 +30709,19 @@
         <bibl xml:id="pmb80917">
           
   
-          <title type="main">Undine</title>
+          <title type="main">Undine. Romantische Zauberoper in vier Akten</title>
+          
+  
+          <title type="legacy-name-merge">Undine</title>
+          
+  
+          <title type="legacy-name-merge">Undine</title>
           
   
           <author key="pmb3001" role="hat-geschaffen">Lortzing, Albert</author>
+          
+
+          <date notBefore-iso="1845-01-01" when-iso="1845-01-01">1845</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/80917/</idno>
@@ -30531,7 +30730,43 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb80917.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/203535/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300096488</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2492975</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_1462.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Undine_(Lortzing)</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80917.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306193/</idno>
+          
+  
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11079990</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="30">Hanslick-Online</bibl>
+            
+  
+            <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -51524,7 +51759,7 @@
         <bibl xml:id="pmb78936">
           
   
-          <title type="main">Die von Strebersdorf</title>
+          <title type="main">Die von Strebersdorf. Komödie in drei Acten</title>
           
   
           <author key="pmb19536" role="hat-geschaffen">Kolloden, M.</author>
@@ -51538,8 +51773,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78936.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -56377,6 +56621,52 @@
           
   
           <note type="work_kind">Ballett</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb77841">
+          
+  
+          <title type="main">Die Mondscheinsonate. Komödie in einem Akt</title>
+          
+  
+          <title type="legacy-name-merge">Die Mondscheinsonate. Komödie in einem Akt</title>
+          
+  
+          <author key="pmb13159" role="hat-geschaffen">Wolff, Ludwig</author>
+          
+
+          <date notBefore-iso="1899-01-01" when-iso="1899-01-01">1899</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43165/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77841/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77841.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43165.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43165.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
@@ -61373,10 +61663,16 @@
         <bibl xml:id="pmb77357">
           
   
-          <title type="main">Hans</title>
+          <title type="main">Hans. Drama in drei Aufzügen</title>
+          
+  
+          <title type="werk_link">https://books.google.at/books/about/Hans.html?id=fn8PAAAAYAAJ</title>
           
   
           <author key="pmb11175" role="hat-geschaffen">Dreyer, Max</author>
+          
+
+          <date notBefore-iso="1899-01-01" when-iso="1899-01-01">1899</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77357/</idno>
@@ -61387,8 +61683,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77357.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -62657,6 +62962,9 @@
           <title type="main">Cyrano von Bergerac. Romantische Komödie in fünf Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Cyrano de Bergerac</title>
+          
+  
           <author key="pmb11391" role="hat-ubersetzt">Fulda, Ludwig</author>
           
   
@@ -62672,13 +62980,22 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77230.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164715/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77230.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77230.html</idno>
           
   
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164715</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references"> </note>
           
 
         </bibl>
@@ -64319,28 +64636,6 @@
           
 
         </bibl>
-        <bibl xml:id="pmb77025">
-          
-  
-          <title type="main">Orpheus in der Unterwelt</title>
-          
-  
-          <author key="pmb9131" role="hat-geschaffen">Offenbach, Jacques</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77025/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77025.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77025.html</idno>
-          
-  
-          <note type="work_kind">Operette</note>
-          
-
-        </bibl>
         <bibl xml:id="pmb77024">
           
   
@@ -64572,25 +64867,6 @@
           
 
         </bibl>
-        <bibl xml:id="pmb77017">
-          
-  
-          <title type="main">Le devin du village</title>
-          
-  
-          <author key="pmb12582" role="hat-geschaffen">Rousseau, Jean-Jacques</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77017/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77017.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77017.html</idno>
-          
-
-        </bibl>
         <bibl xml:id="pmb77014">
           
   
@@ -64716,6 +64992,9 @@
           
   
           <author key="pmb2211" role="hat-geschaffen">Antoine, André</author>
+          
+  
+          <author key="pmb2312" role="hat-ubersetzt">Zuckerkandl, Berta</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76995/</idno>
@@ -65294,10 +65573,13 @@
         <bibl xml:id="pmb76926">
           
   
-          <title type="main">Dorothea Angermann</title>
+          <title type="main">Dorothea Angermann. Schauspiel in fünf Akten</title>
           
   
           <author key="pmb11617" role="hat-geschaffen">Hauptmann, Gerhart</author>
+          
+
+          <date when-iso="1926-11-20">1926-11-20</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76926/</idno>
@@ -65307,6 +65589,24 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76926.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q28018872</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Dorothea_Angermann_(Drama)</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -70288,13 +70588,19 @@
         <bibl xml:id="pmb54326">
           
   
-          <title type="main">Blaubart</title>
+          <title type="main">Blaubart. Komische Operette in vier Bildern</title>
           
   
-          <author key="pmb9131" role="hat-geschaffen">Offenbach, Jacques</author>
+          <author key="pmb9131" role="hat-vertont">Offenbach, Jacques</author>
           
-
-          <date when-iso="1866-02-05">1866-02-05</date>
+  
+          <author key="pmb4197" role="hat-geschaffen">Halévy, Ludovic</author>
+          
+  
+          <author key="pmb12222" role="hat-geschaffen">Meilhac, Henri</author>
+          
+  
+          <author key="pmb55048" role="hat-ubersetzt">Hopp, Julius</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54326/</idno>
@@ -71042,31 +71348,6 @@
           
   
           <note type="work_kind">Oper</note>
-          
-
-        </bibl>
-        <bibl xml:id="pmb43165">
-          
-  
-          <title type="main">Die Mondscheinsonate. Komödie in einem Akt</title>
-          
-  
-          <author key="pmb13159" role="hat-geschaffen">Wolff, Ludwig</author>
-          
-
-          <date>1899</date>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43165/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43165.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43165.html</idno>
-          
-  
-          <note type="work_kind">Einakter</note>
           
 
         </bibl>
@@ -72402,7 +72683,10 @@
         <bibl xml:id="pmb39796">
           
   
-          <title type="main">Pauline</title>
+          <title type="main">Pauline. Berliner Komödie in vier Akten</title>
+          
+  
+          <title type="werk_link">https://books.google.at/books?id=XNksAAAAYAAJ&amp;</title>
           
   
           <author key="pmb11701" role="hat-geschaffen">Hirschfeld, Georg</author>
@@ -72421,6 +72705,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb39796.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -75669,7 +75962,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb33037">
           
   
-          <title type="main">Fuhrmann Henschel</title>
+          <title type="main">Fuhrmann Henschel. Schauspiel in 5 Akten</title>
           
   
           <title type="legacy-name-merge">Fuhrmann Henschel</title>
@@ -75721,9 +76014,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
-          
-  
-          <note type="references"> </note>
           
 
         </bibl>
@@ -76569,6 +76859,43 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb32646">
+          
+  
+          <title type="main">Die drei Musikanten</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Neue Deutsche Rundschau, Jg. 13, H. 10, 1. 10. 1902</title>
+          
+  
+          <author key="pmb12254" role="hat-geschaffen">Michel, Robert</author>
+          
+
+          <date when-iso="1902-10-01">01.10.1902</date>
+          
+  
+          <idno type="URL" subtype="exemplar">https://books.google.at/books?id=V8I2AAAAMAAJ</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32646.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32646/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Erzählung</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb32620">
           
   
@@ -77153,6 +77480,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Das Bergwerk zu Falun</title>
           
   
+          <title type="legacy-name-merge">Das Bergwerk zu Falun</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Die Insel, Jg. II, Bd. 1, Nr. 1, S. 28-67</title>
+          
+  
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
           
 
@@ -77174,10 +77507,25 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Das_Bergwerk_zu_Falun</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/191537/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32432.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32432.html</idno>
+          
+  
+          <idno type="URL" subtype="insel">https://die-insel.foo.bar/insel-werk_0165</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="26">Die Insel</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -87809,7 +88157,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30627">
           
   
-          <title type="main">Carmen. Oper in vier Akten</title>
+          <title type="main">Carmen. Opéra-Comique en quatre actes</title>
           
   
           <author key="pmb10951" role="hat-vertont">Bizet, Georges</author>
@@ -89906,7 +90254,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30341">
           
   
-          <title type="main">Der Rosenkavalier</title>
+          <title type="main">Der Rosenkavalier. Komödie für Musik</title>
           
   
           <title type="legacy-name-merge">Der Rosenkavalier</title>
@@ -90275,9 +90623,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q52159945</idno>
-          
-  
-          <idno type="URL" subtype="exemplar">https://babel.hathitrust.org/cgi/pt?id=coo.31924069262966;view=image;page=root;size=100;seq=95;num=89</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30257.html</idno>
@@ -92145,6 +92490,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="legacy-name-merge">Sterben</title>
           
   
+          <title type="werk_link">https://babel.hathitrust.org/cgi/pt?id=coo.31924069263006&amp;seq=325</title>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
@@ -92155,9 +92503,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2345387</idno>
-          
-  
-          <idno type="URL" subtype="exemplar">https://babel.hathitrust.org/cgi/pt/search?id=coo.31924069263006;view=1up;seq=9;q1=sterben;start=1;sz=10;page=search;orient=0;index=1</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30117.html</idno>
@@ -95372,7 +95717,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date notBefore-iso="1900-01-01" when-iso="1900-01-01">1900</date>
+          <date notBefore-iso="1900-04-01" when-iso="1900-04-01">1900-04</date>
           
   
           <idno type="URL">https://asaf.com/S.04.01.32</idno>
@@ -95435,7 +95780,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
   
-          <note type="references">None </note>
+          <note type="references">None</note>
           
 
         </bibl>
@@ -95799,13 +96144,13 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_bibliografische-angabe">Neue Deutsche Rundschau, Jg. 5, H. 10, 1. 10. 1894</title>
           
   
+          <title type="werk_link">https://babel.hathitrust.org/cgi/pt?id=coo.31924069263006&amp;view=1up&amp;seq=275</title>
+          
+  
           <author key="pmb11701" role="hat-geschaffen">Hirschfeld, Georg</author>
           
 
           <date notBefore-iso="1894-01-01" when-iso="1894-01-01">1894</date>
-          
-  
-          <idno type="URL" subtype="exemplar">https://babel.hathitrust.org/cgi/pt?id=coo.31924069263006;view=1up;seq=277</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29835.html</idno>
@@ -96141,7 +96486,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date>1893-12-01</date>
+          <date notBefore-iso="1891-12-01" when-iso="1891-12-01">1891-12</date>
           
   
           <idno type="URL">https://asaf.com/S.04.01.04</idno>
@@ -96181,6 +96526,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29823.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>

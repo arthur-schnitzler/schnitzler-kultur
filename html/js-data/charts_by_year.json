@@ -1824,6 +1824,7 @@
       "labels": [
         "Musik",
         "Theater",
+        "Privatveranstaltung",
         "anderes",
         "Vortrag"
       ],
@@ -1833,6 +1834,7 @@
           "data": [
             17,
             49,
+            2,
             22,
             10
           ]
@@ -1881,6 +1883,21 @@
               15,
               9,
               2,
+              1
+            ]
+          }
+        ]
+      },
+      "Privatveranstaltung": {
+        "labels": [
+          "Hausball",
+          "Ball"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1893",
+            "data": [
+              1,
               1
             ]
           }
@@ -2319,8 +2336,8 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1897",
             "data": [
-              24,
-              56,
+              25,
+              55,
               4,
               1,
               1,
@@ -2534,8 +2551,8 @@
         {
           "label": "Veranstaltungstypen im Jahr 1899",
           "data": [
-            86,
-            8,
+            87,
+            9,
             22,
             15
           ]
@@ -2560,7 +2577,7 @@
               7,
               1,
               13,
-              2,
+              3,
               1
             ]
           }
@@ -2568,12 +2585,14 @@
       },
       "anderes": {
         "labels": [
+          "Vergnügungsabend",
           "Museumsbesuch"
         ],
         "datasets": [
           {
             "label": "Verteilung innerhalb von 'anderes' im Jahr 1899",
             "data": [
+              1,
               8
             ]
           }
@@ -2626,17 +2645,17 @@
       "labels": [
         "Musik",
         "Theater",
-        "anderes",
-        "Vortrag"
+        "Vortrag",
+        "anderes"
       ],
       "datasets": [
         {
           "label": "Veranstaltungstypen im Jahr 1900",
           "data": [
             20,
-            44,
-            10,
-            11
+            43,
+            12,
+            10
           ]
         }
       ]
@@ -2682,25 +2701,8 @@
             "data": [
               29,
               2,
-              7,
+              6,
               4,
-              1,
-              1
-            ]
-          }
-        ]
-      },
-      "anderes": {
-        "labels": [
-          "Museumsbesuch",
-          "Bankett",
-          "Zirkusvorstellung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1900",
-            "data": [
-              8,
               1,
               1
             ]
@@ -2718,9 +2720,26 @@
           {
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1900",
             "data": [
-              7,
+              8,
               1,
               2,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Museumsbesuch",
+          "Bankett",
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1900",
+            "data": [
+              8,
+              1,
               1
             ]
           }
@@ -3877,7 +3896,7 @@
             10,
             10,
             1,
-            6
+            7
           ]
         }
       ]
@@ -3982,7 +4001,7 @@
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1910",
             "data": [
               2,
-              4
+              5
             ]
           }
         ]

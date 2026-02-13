@@ -3993,6 +3993,9 @@ var calendarData = [
     "name": "Aufführung von Frou-Frou. Comédie en cinq actes, 5.1.1893", "startDate": "1893-01-05", "id": "pmb208590.html", "type": "Theateraufführung"
   },
   {
+    "name": "Hausball Stein, 7.1.1893", "startDate": "1893-01-07", "id": "pmb333801.html", "type": "Hausball"
+  },
+  {
     "name": "Premiere von Die Rantzau, Vier Jahreszeiten, 7.1.1893", "startDate": "1893-01-07", "id": "pmb208591.html", "type": "Theaterpremiere"
   },
   {
@@ -4000,6 +4003,9 @@ var calendarData = [
   },
   {
     "name": "Premiere von Fürstin Ninetta, 10.1.1893", "startDate": "1893-01-10", "id": "pmb208592.html", "type": "Theaterpremiere"
+  },
+  {
+    "name": "Juristenball, 11.1.1893", "startDate": "1893-01-11", "id": "pmb333805.html", "type": "Ball"
   },
   {
     "name": "Besuch des Kunsthistorischen Museums, 11.1.1893", "startDate": "1893-01-11", "id": "pmb297216.html", "type": "Museumsbesuch"
@@ -5589,7 +5595,7 @@ var calendarData = [
     "name": "Aufführung von Blaubart, 21.1.1897", "startDate": "1897-01-21", "id": "pmb208896.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Das Wetterhäuschen, Die fesche Pepi, 23.1.1897", "startDate": "1897-01-23", "id": "pmb208897.html", "type": "Theateraufführung"
+    "name": "Premiere von Das Wetterhäuschen, Die fesche Pepi, 23.1.1897", "startDate": "1897-01-23", "id": "pmb208897.html", "type": "Theaterpremiere"
   },
   {
     "name": "Konzertbesuch, 24.1.1897", "startDate": "1897-01-24", "id": "pmb200034.html", "type": "Konzert"
@@ -5853,7 +5859,7 @@ var calendarData = [
     "name": "Aufführung von Fatinitza, 18.7.1897", "startDate": "1897-07-18", "id": "pmb208956.html", "type": "Theateraufführung"
   },
   {
-    "name": "Premiere von Freiwild. Schauspiel in 3 Akten, 22.7.1897", "startDate": "1897-07-22", "id": "pmb35155.html", "type": "Theaterpremiere"
+    "name": "Premiere von Freiwild, 22.7.1897", "startDate": "1897-07-22", "id": "pmb35155.html", "type": "Theaterpremiere"
   },
   {
     "name": "Aufführung von Lohengrin, 1.8.1897", "startDate": "1897-08-01", "id": "pmb208957.html", "type": "Opernaufführung"
@@ -6459,6 +6465,9 @@ var calendarData = [
     "name": "Aufführung von Die Schmetterlingsschlacht, 4.1.1899", "startDate": "1899-01-04", "id": "pmb209054.html", "type": "Theateraufführung"
   },
   {
+    "name": "Besuch des Budapest-Orpheums, 7.1.1899", "startDate": "1899-01-07", "id": "pmb333793.html", "type": "Vergnügungsabend"
+  },
+  {
     "name": "Besuch des Kunsthistorischen Museums, 11.1.1899", "startDate": "1899-01-11", "id": "pmb297273.html", "type": "Museumsbesuch"
   },
   {
@@ -6597,7 +6606,7 @@ var calendarData = [
     "name": "Aufführung von Peter Kron, 21.4.1899", "startDate": "1899-04-21", "id": "pmb209076.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Hans, 25.4.1899", "startDate": "1899-04-25", "id": "pmb209077.html", "type": "Theateraufführung"
+    "name": "Aufführung von Hans, Mutterherz, 25.4.1899", "startDate": "1899-04-25", "id": "pmb209077.html", "type": "Theateraufführung"
   },
   {
     "name": "Probe von Der grüne Kakadu. Drei Einakter, 25.4.1899", "startDate": "1899-04-25", "id": "pmb207254.html", "type": "Probe"
@@ -6613,6 +6622,9 @@ var calendarData = [
   },
   {
     "name": "Probe von Der grüne Kakadu. Drei Einakter, 27.4.1899", "startDate": "1899-04-27", "id": "pmb207264.html", "type": "Probe"
+  },
+  {
+    "name": "Generalprobe von Der grüne Kakadu, 28.4.1899", "startDate": "1899-04-28", "id": "pmb333837.html", "type": "Generalprobe"
   },
   {
     "name": "Premiere von Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter, 29.4.1899", "startDate": "1899-04-29", "id": "pmb35482.html", "type": "Theaterpremiere"
@@ -6855,6 +6867,9 @@ var calendarData = [
     "name": "Aufführung von Onkel Toni, 8.1.1900", "startDate": "1900-01-08", "id": "pmb209125.html", "type": "Theateraufführung"
   },
   {
+    "name": "Private Lesung von Die drei Musikanten, 10.1.1900", "startDate": "1900-01-10", "id": "pmb334624.html", "type": "Private Lesung"
+  },
+  {
     "name": "Aufführung von Hans, I love you, 12.1.1900", "startDate": "1900-01-12", "id": "pmb209126.html", "type": "Theateraufführung"
   },
   {
@@ -6865,9 +6880,6 @@ var calendarData = [
   },
   {
     "name": "Symphoniekonzert, 18.1.1900", "startDate": "1900-01-18", "id": "pmb209128.html", "type": "Sinfoniekonzert"
-  },
-  {
-    "name": "Premiere von Frage an das Schicksal, 19.1.1900", "startDate": "1900-01-19", "id": "pmb209130.html", "type": "Theaterpremiere"
   },
   {
     "name": "Gesellschaftskonzert im Musikverein, 21.1.1900", "startDate": "1900-01-21", "id": "pmb209131.html", "type": "Gesellschaftskonzert"
@@ -9594,7 +9606,7 @@ var calendarData = [
     "name": "Orchesterkonzert, 7.1.1909", "startDate": "1909-01-07", "id": "pmb248168.html", "type": "Orchesterkonzert"
   },
   {
-    "name": "Generalprobe von Anatols Hochzeitsmorgen, Besuch in der Dämmerung, Eine florentinische Tragöide, Der Pechvogel, 9.1.1909", "startDate": "1909-01-09", "id": "pmb47684.html", "type": "Generalprobe"
+    "name": "Generalprobe von Anatols Hochzeitsmorgen, Besuch in der Dämmerung, Eine florentinische Tragödie, Der Pechvogel, 9.1.1909", "startDate": "1909-01-09", "id": "pmb47684.html", "type": "Generalprobe"
   },
   {
     "name": "Ausstellungsbesuch Wilhelm Trübner bei Miethke, 12.1.1909", "startDate": "1909-01-12", "id": "pmb248180.html", "type": "Ausstellungsbesuch"
@@ -10198,6 +10210,9 @@ var calendarData = [
   },
   {
     "name": "Aufführung von Der junge Medardus, 27.11.1910", "startDate": "1910-11-27", "id": "pmb251446.html", "type": "Theateraufführung"
+  },
+  {
+    "name": "Private Lesung von Der Rosenkavalier, 29.11.1910", "startDate": "1910-11-29", "id": "pmb334014.html", "type": "Private Lesung"
   },
   {
     "name": "Probe von Anatol, 30.11.1910", "startDate": "1910-11-30", "id": "pmb239065.html", "type": "Probe"
