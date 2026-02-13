@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-01-06">serialized</change>
+      <change when-iso="2026-02-13">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,31 @@
       
            
       <listOrg>
+        <org xml:id="pmb333937">
+          
+  
+          <orgName>Verein Settlement</orgName>
+          
+  
+          <desc type="entity_type">Wohltätigkeitsverein</desc>
+          
+  
+          <desc type="entity_type_id">978</desc>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333937/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </org>
         <org xml:id="pmb298265">
           
   
@@ -26265,6 +26290,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29424.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1204520</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Deutsche_Zeitung_(1871%E2%80%931907)</idno>
           
 
         </org>
