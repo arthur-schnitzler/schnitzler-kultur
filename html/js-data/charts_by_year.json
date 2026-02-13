@@ -2645,17 +2645,17 @@
       "labels": [
         "Musik",
         "Theater",
-        "anderes",
-        "Vortrag"
+        "Vortrag",
+        "anderes"
       ],
       "datasets": [
         {
           "label": "Veranstaltungstypen im Jahr 1900",
           "data": [
             20,
-            44,
-            10,
-            11
+            43,
+            12,
+            10
           ]
         }
       ]
@@ -2701,25 +2701,8 @@
             "data": [
               29,
               2,
-              7,
+              6,
               4,
-              1,
-              1
-            ]
-          }
-        ]
-      },
-      "anderes": {
-        "labels": [
-          "Museumsbesuch",
-          "Bankett",
-          "Zirkusvorstellung"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1900",
-            "data": [
-              8,
               1,
               1
             ]
@@ -2737,9 +2720,26 @@
           {
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1900",
             "data": [
-              7,
+              8,
               1,
               2,
+              1
+            ]
+          }
+        ]
+      },
+      "anderes": {
+        "labels": [
+          "Museumsbesuch",
+          "Bankett",
+          "Zirkusvorstellung"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1900",
+            "data": [
+              8,
+              1,
               1
             ]
           }
@@ -3896,7 +3896,7 @@
             10,
             10,
             1,
-            6
+            7
           ]
         }
       ]
@@ -4001,7 +4001,7 @@
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1910",
             "data": [
               2,
-              4
+              5
             ]
           }
         ]

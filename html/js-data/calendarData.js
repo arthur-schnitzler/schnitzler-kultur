@@ -5859,7 +5859,7 @@ var calendarData = [
     "name": "Aufführung von Fatinitza, 18.7.1897", "startDate": "1897-07-18", "id": "pmb208956.html", "type": "Theateraufführung"
   },
   {
-    "name": "Premiere von Freiwild. Schauspiel in 3 Akten, 22.7.1897", "startDate": "1897-07-22", "id": "pmb35155.html", "type": "Theaterpremiere"
+    "name": "Premiere von Freiwild, 22.7.1897", "startDate": "1897-07-22", "id": "pmb35155.html", "type": "Theaterpremiere"
   },
   {
     "name": "Aufführung von Lohengrin, 1.8.1897", "startDate": "1897-08-01", "id": "pmb208957.html", "type": "Opernaufführung"
@@ -6867,6 +6867,9 @@ var calendarData = [
     "name": "Aufführung von Onkel Toni, 8.1.1900", "startDate": "1900-01-08", "id": "pmb209125.html", "type": "Theateraufführung"
   },
   {
+    "name": "Private Lesung von Die drei Musikanten, 10.1.1900", "startDate": "1900-01-10", "id": "pmb334624.html", "type": "Private Lesung"
+  },
+  {
     "name": "Aufführung von Hans, I love you, 12.1.1900", "startDate": "1900-01-12", "id": "pmb209126.html", "type": "Theateraufführung"
   },
   {
@@ -6877,9 +6880,6 @@ var calendarData = [
   },
   {
     "name": "Symphoniekonzert, 18.1.1900", "startDate": "1900-01-18", "id": "pmb209128.html", "type": "Sinfoniekonzert"
-  },
-  {
-    "name": "Premiere von Frage an das Schicksal, 19.1.1900", "startDate": "1900-01-19", "id": "pmb209130.html", "type": "Theaterpremiere"
   },
   {
     "name": "Gesellschaftskonzert im Musikverein, 21.1.1900", "startDate": "1900-01-21", "id": "pmb209131.html", "type": "Gesellschaftskonzert"
@@ -9606,7 +9606,7 @@ var calendarData = [
     "name": "Orchesterkonzert, 7.1.1909", "startDate": "1909-01-07", "id": "pmb248168.html", "type": "Orchesterkonzert"
   },
   {
-    "name": "Generalprobe von Anatols Hochzeitsmorgen, Besuch in der Dämmerung, Eine florentinische Tragöide, Der Pechvogel, 9.1.1909", "startDate": "1909-01-09", "id": "pmb47684.html", "type": "Generalprobe"
+    "name": "Generalprobe von Anatols Hochzeitsmorgen, Besuch in der Dämmerung, Eine florentinische Tragödie, Der Pechvogel, 9.1.1909", "startDate": "1909-01-09", "id": "pmb47684.html", "type": "Generalprobe"
   },
   {
     "name": "Ausstellungsbesuch Wilhelm Trübner bei Miethke, 12.1.1909", "startDate": "1909-01-12", "id": "pmb248180.html", "type": "Ausstellungsbesuch"
@@ -10210,6 +10210,9 @@ var calendarData = [
   },
   {
     "name": "Aufführung von Der junge Medardus, 27.11.1910", "startDate": "1910-11-27", "id": "pmb251446.html", "type": "Theateraufführung"
+  },
+  {
+    "name": "Private Lesung von Der Rosenkavalier, 29.11.1910", "startDate": "1910-11-29", "id": "pmb334014.html", "type": "Private Lesung"
   },
   {
     "name": "Probe von Anatol, 30.11.1910", "startDate": "1910-11-30", "id": "pmb239065.html", "type": "Probe"
