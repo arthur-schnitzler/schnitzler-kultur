@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-02-13">serialized</change>
+      <change when-iso="2026-02-19">serialized</change>
       
        
     </revisionDesc>
@@ -69024,6 +69024,52 @@
           
   
           <note type="work_kind">Reisebericht</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb76511">
+          
+  
+          <title type="main">Die Gedenktafel der Prinzessin Anna</title>
+          
+  
+          <title type="werk_link">https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/2698541</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Felix Salten: Die Gedenktafel der Prinzessin Anna. In: Die Insel, Jg. 2, 4. Quartal, Nr. 10, Juli 1901, S. 67–117</title>
+          
+  
+          <author key="pmb2167" role="hat-geschaffen">Salten, Felix</author>
+          
+
+          <date when-iso="1901-07-01">1901-07-01</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76511/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76511.html</idno>
+          
+  
+          <idno type="URL" subtype="insel">https://die-insel.foo.bar/insel-werk_0263</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76511.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/191858/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="26">Die Insel</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Novelle</note>
           
 
         </bibl>

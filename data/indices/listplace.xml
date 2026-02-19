@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-02-13">serialized</change>
+      <change when-iso="2026-02-19">serialized</change>
       
        
     </revisionDesc>
@@ -2555,7 +2555,7 @@
         <place xml:id="pmb294370">
           
   
-          <placeName>Drittes Kaffeehaus</placeName>
+          <placeName>Pertl’s Drittes Kaffeehaus</placeName>
           
   
           <placeName type="legacy-name-merge">3. Kaffeehaus</placeName>
@@ -2634,9 +2634,6 @@
             
 
           </listBibl>
-          
-  
-          <note type="references"> </note>
           
 
         </place>
@@ -41227,7 +41224,7 @@
         <place xml:id="pmb720">
           
   
-          <placeName>Neues Theater</placeName>
+          <placeName>Neues Theater [Berlin]</placeName>
           
   
           <desc type="entity_type">Theater (K.THE)</desc>

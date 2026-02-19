@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-02-13">serialized</change>
+      <change when-iso="2026-02-19">serialized</change>
       
        
     </revisionDesc>
@@ -21139,6 +21139,15 @@
             
 
           </listBibl>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/2/22/Erich_Ziegel_%28BerlLeben_1907-11%29.jpg"/>
+            
+
+          </figure>
           
 
         </person>
@@ -247505,27 +247514,19 @@
           </persName>
           
   
-          <persName type="legacy-name-merge">Fjord, Olaf</persName>
+          <persName type="person_pseudonym">Olaf Fjord</persName>
+          
+  
+          <persName type="person_geburtsname_vorname">Amilian Maximilian</persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Pouch</persName>
           
   
           <birth>
             
     
-            <date when-iso="1895-08-12">12.08.1895</date>
-            
-      
-            <settlement key="36296">
-              
-        
-              <placeName type="pref">Oslo</placeName>
-              
-        
-              <location>
-                <geo>59,91273 10,74609</geo>
-              </location>
-              
-      
-            </settlement>
+            <date when-iso="1897-08-03">1897-08-03</date>
             
       
             <settlement key="860">
@@ -247544,6 +247545,29 @@
   
           </birth>
             
+  
+          <death>
+            
+    
+            <date when-iso="1945-04-19">1945-04-19</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
   
           <sex value="male"/>
           
@@ -305514,6 +305538,36 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144831.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Lesung" key="334863" when-iso="1896-07-17">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Lesung von Marcell Salzer, 17.7.1896</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334863/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Lesung" key="334867" when-iso="1896-08-05">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Lesung von Marcell Salzer, 5.8.1896</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334867/</idno>
               
     
             </event>
@@ -472929,6 +472983,24 @@
           <listEvent>
             
     
+            <event n="Lesung" key="50184" when-iso="1904-03-06">
+              
+        
+              <desc n="1370">teilgenommen an</desc>
+              
+        
+              <label>Lesung von Richard Dehmel, 6.3.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50184/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50184.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theaterpremiere" key="209413" when-iso="1906-02-10">
               
         
@@ -503866,6 +503938,21 @@
             </event>
             
     
+            <event n="Private Lesung" key="334942" when-iso="1901-02-05">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Private Lesung von Die Gedenktafel der Prinzessin Anna, Das Haus Delorme, Marionetten, 5.2.1901</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334942/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateraufführung" key="231556" when-iso="1901-05-25">
               
         
@@ -533487,13 +533574,13 @@
             </event>
             
     
-            <event n="Theateraufführung" key="208632" when-iso="1893-11-28">
+            <event n="Theaterpremiere" key="208632" when-iso="1893-11-28">
               
         
               <desc n="1370">teilgenommen an</desc>
               
         
-              <label>Eröffnung von Die gefesselte Phantasie, 28.11.1893</label>
+              <label>Premiere von Die gefesselte Phantasie, 28.11.1893</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208632/</idno>
@@ -550996,6 +551083,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231295.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="334942" when-iso="1901-02-05">
+              
+        
+              <desc n="1256">mitwirkend an</desc>
+              
+        
+              <label>Private Lesung von Die Gedenktafel der Prinzessin Anna, Das Haus Delorme, Marionetten, 5.2.1901</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334942/</idno>
               
     
             </event>
