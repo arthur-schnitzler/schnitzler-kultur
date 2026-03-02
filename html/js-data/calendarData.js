@@ -5553,7 +5553,10 @@ var calendarData = [
     "name": "Private Lesung von Die Frau des Weisen, 14.12.1896", "startDate": "1896-12-14", "id": "pmb199972.html", "type": "Private Lesung"
   },
   {
-    "name": "Quartett im Musikvereinssaal, 15.12.1896", "startDate": "1896-12-15", "id": "pmb208887.html", "type": "Quartett"
+    "name": "Private Lesung des Prologs zu Mimi, 15.12.1896", "startDate": "1896-12-15", "id": "pmb335141.html", "type": "Private Lesung"
+  },
+  {
+    "name": "Rosé-Quartett im Musikvereinssaal, 15.12.1896", "startDate": "1896-12-15", "id": "pmb208887.html", "type": "Quartett"
   },
   {
     "name": "Quartett im Bösendorfer-Saal, 18.12.1896", "startDate": "1896-12-18", "id": "pmb208888.html", "type": "Quartett"
