@@ -4242,7 +4242,7 @@ var calendarData = [
     "name": "Probe von Das Märchen, 27.11.1893", "startDate": "1893-11-27", "id": "pmb192876.html", "type": "Probe"
   },
   {
-    "name": "Eröffnung von Die gefesselte Phantasie, 28.11.1893", "startDate": "1893-11-28", "id": "pmb208632.html", "type": "Theateraufführung"
+    "name": "Premiere von Die gefesselte Phantasie, 28.11.1893", "startDate": "1893-11-28", "id": "pmb208632.html", "type": "Theaterpremiere"
   },
   {
     "name": "Probe von Das Märchen, 28.11.1893", "startDate": "1893-11-28", "id": "pmb192882.html", "type": "Probe"
@@ -5553,7 +5553,10 @@ var calendarData = [
     "name": "Private Lesung von Die Frau des Weisen, 14.12.1896", "startDate": "1896-12-14", "id": "pmb199972.html", "type": "Private Lesung"
   },
   {
-    "name": "Quartett im Musikvereinssaal, 15.12.1896", "startDate": "1896-12-15", "id": "pmb208887.html", "type": "Quartett"
+    "name": "Private Lesung des Prologs zu Mimi, 15.12.1896", "startDate": "1896-12-15", "id": "pmb335141.html", "type": "Private Lesung"
+  },
+  {
+    "name": "Rosé-Quartett im Musikvereinssaal, 15.12.1896", "startDate": "1896-12-15", "id": "pmb208887.html", "type": "Quartett"
   },
   {
     "name": "Quartett im Bösendorfer-Saal, 18.12.1896", "startDate": "1896-12-18", "id": "pmb208888.html", "type": "Quartett"
@@ -7141,6 +7144,9 @@ var calendarData = [
   },
   {
     "name": "Generalprobe von Tragödien der Seele, 31.1.1901", "startDate": "1901-01-31", "id": "pmb231295.html", "type": "Generalprobe"
+  },
+  {
+    "name": "Private Lesung von Die Gedenktafel der Prinzessin Anna, Das Haus Delorme, Marionetten, 5.2.1901", "startDate": "1901-02-05", "id": "pmb334942.html", "type": "Private Lesung"
   },
   {
     "name": "Aufführung von Coralie Cie., 6.2.1901", "startDate": "1901-02-06", "id": "pmb209185.html", "type": "Theateraufführung"

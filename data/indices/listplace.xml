@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-02-13">serialized</change>
+      <change when-iso="2026-03-02">serialized</change>
       
        
     </revisionDesc>
@@ -2555,7 +2555,7 @@
         <place xml:id="pmb294370">
           
   
-          <placeName>Drittes Kaffeehaus</placeName>
+          <placeName>Pertl’s Drittes Kaffeehaus</placeName>
           
   
           <placeName type="legacy-name-merge">3. Kaffeehaus</placeName>
@@ -2634,9 +2634,6 @@
             
 
           </listBibl>
-          
-  
-          <note type="references"> </note>
           
 
         </place>
@@ -23851,10 +23848,10 @@
           <placeName>Palais-Royal</placeName>
           
   
-          <desc type="entity_type">P.PPLX</desc>
+          <desc type="entity_type">kein passender Code gefunden</desc>
           
   
-          <desc type="entity_type_id">1234</desc>
+          <desc type="entity_type_id">3474</desc>
           
 
           <location type="coords">
@@ -28028,10 +28025,10 @@
           <placeName>Concertgebouw</placeName>
           
   
-          <desc type="entity_type">S.THTR</desc>
+          <desc type="entity_type">kein passender Code gefunden</desc>
           
   
-          <desc type="entity_type_id">3473</desc>
+          <desc type="entity_type_id">3474</desc>
           
 
           <location type="coords">
@@ -36423,6 +36420,9 @@
           <placeName type="legacy-name">Opatija</placeName>
           
   
+          <placeName type="legacy-name-merge">Grad Opatija</placeName>
+          
+  
           <desc type="entity_type">P.PPLA2</desc>
           
   
@@ -36430,6 +36430,18 @@
           
 
           <location type="coords">
+            
+  
+            <geo>45,33771 14,30515</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb38096">Opatija</placeName>
             
   
             <geo>45,33771 14,30515</geo>
@@ -36449,20 +36461,8 @@
 
           </location>
           
-
-          <location type="located_in_place">
-            
   
-            <placeName key="pmb35647">Grad Opatija</placeName>
-            
-  
-            <geo>45,33333 14,26667</geo>
-            
-
-          </location>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/3194099/</idno>
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3194097/</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb38096.html</idno>
@@ -36472,6 +36472,9 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb38096.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Opatija</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb38096.html</idno>
@@ -36488,11 +36491,14 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003591</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35647/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q223353</idno>
+          
 
           <listBibl>
-            
-    
-            <bibl type="collections" n="13">No WikiData-ID found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -40938,7 +40944,7 @@
           <location type="coords">
             
   
-            <geo>49,96115 12,72872</geo>
+            <geo>49,964444 12,701944</geo>
             
 
           </location>
@@ -41227,7 +41233,7 @@
         <place xml:id="pmb720">
           
   
-          <placeName>Neues Theater</placeName>
+          <placeName>Neues Theater [Berlin]</placeName>
           
   
           <desc type="entity_type">Theater (K.THE)</desc>

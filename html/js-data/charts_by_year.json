@@ -1879,8 +1879,8 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1893",
             "data": [
-              22,
-              15,
+              21,
+              16,
               9,
               2,
               1
@@ -2195,7 +2195,7 @@
             92,
             17,
             1,
-            8,
+            9,
             11
           ]
         }
@@ -2273,7 +2273,7 @@
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1896",
             "data": [
               1,
-              7
+              8
             ]
           }
         ]
@@ -2760,7 +2760,7 @@
         {
           "label": "Veranstaltungstypen im Jahr 1901",
           "data": [
-            11,
+            12,
             43,
             26,
             18,
@@ -2779,7 +2779,7 @@
           {
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1901",
             "data": [
-              10,
+              11,
               1
             ]
           }

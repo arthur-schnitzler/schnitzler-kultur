@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-02-13">serialized</change>
+      <change when-iso="2026-03-02">serialized</change>
       
        
     </revisionDesc>
@@ -16531,7 +16531,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb720">Neues Theater</placeName>
+            <placeName key="pmb720">Neues Theater [Berlin]</placeName>
             
   
             <geo>52,521667 13,386111</geo>
@@ -16791,7 +16791,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb720">Neues Theater</placeName>
+            <placeName key="pmb720">Neues Theater [Berlin]</placeName>
             
   
             <geo>52,521667 13,386111</geo>

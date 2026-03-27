@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-02-13">serialized</change>
+      <change when-iso="2026-03-02">serialized</change>
       
        
     </revisionDesc>
@@ -15226,6 +15226,25 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb122435.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb118670">
+          
+  
+          <title type="main">Prolog [zu Mimi]</title>
+          
+  
+          <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
+          
+
+          <date when-iso="1897-04-01">1897-04-01</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/118670/</idno>
+          
+  
+          <note type="work_kind">Vorwort</note>
           
 
         </bibl>
@@ -53524,6 +53543,9 @@
           <title type="main">Die Haubenlerche</title>
           
   
+          <title type="legacy-name-merge">Die Haubenlerche</title>
+          
+  
           <author key="pmb13118" role="hat-geschaffen">Wildenbruch, Ernst von</author>
           
   
@@ -53533,10 +53555,28 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78363.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78363.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/165144/</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165144</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78363.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
@@ -60390,6 +60430,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77447.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Drama</note>
           
 
         </bibl>
@@ -69027,6 +69079,52 @@
           
 
         </bibl>
+        <bibl xml:id="pmb76511">
+          
+  
+          <title type="main">Die Gedenktafel der Prinzessin Anna</title>
+          
+  
+          <title type="werk_link">https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/2698541</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Felix Salten: Die Gedenktafel der Prinzessin Anna. In: Die Insel, Jg. 2, 4. Quartal, Nr. 10, Juli 1901, S. 67–117</title>
+          
+  
+          <author key="pmb2167" role="hat-geschaffen">Salten, Felix</author>
+          
+
+          <date when-iso="1901-07-01">1901-07-01</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76511/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76511.html</idno>
+          
+  
+          <idno type="URL" subtype="insel">https://die-insel.foo.bar/insel-werk_0263</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76511.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/191858/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="26">Die Insel</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Novelle</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb76503">
           
   
@@ -69558,10 +69656,19 @@
         <bibl xml:id="pmb76460">
           
   
-          <title type="main">Der Kammersänger</title>
+          <title type="main">Der Kammersänger. Drei Scenen</title>
+          
+  
+          <title type="legacy-name-merge">Der Kammersänger. Drei Scenen</title>
+          
+  
+          <title type="legacy-name-merge">Der Kammersänger</title>
           
   
           <author key="pmb13068" role="hat-geschaffen">Wedekind, Frank</author>
+          
+
+          <date notBefore-iso="1899-01-01" when-iso="1899-01-01">1899</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76460/</idno>
@@ -69570,10 +69677,37 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76460.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/165104/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165104</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76460.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305852/</idno>
+          
+  
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=8997304</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Einakter</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
