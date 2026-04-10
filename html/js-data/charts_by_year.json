@@ -756,8 +756,8 @@
         {
           "label": "Veranstaltungstypen im Jahr 1884",
           "data": [
-            15,
-            18,
+            14,
+            19,
             4,
             16
           ]
@@ -770,7 +770,6 @@
           "Philharmonisches Konzert",
           "Klavierkonzert",
           "Konzert",
-          "Liederkonzert",
           "Quartett",
           "Tanz",
           "Opernaufführung"
@@ -784,7 +783,6 @@
               2,
               1,
               1,
-              1,
               4
             ]
           }
@@ -792,8 +790,8 @@
       },
       "Privatveranstaltung": {
         "labels": [
-          "Hausball",
           "Ball",
+          "Hausball",
           "Soirée",
           "Privataufführung",
           "Hochzeit"
@@ -802,8 +800,8 @@
           {
             "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1884",
             "data": [
+              5,
               11,
-              4,
               1,
               1,
               1
@@ -1344,7 +1342,7 @@
           "label": "Veranstaltungstypen im Jahr 1889",
           "data": [
             15,
-            12,
+            13,
             31,
             17,
             3
@@ -1389,7 +1387,7 @@
             "label": "Verteilung innerhalb von 'anderes' im Jahr 1889",
             "data": [
               1,
-              4,
+              5,
               2,
               4,
               1
@@ -1729,7 +1727,7 @@
             60,
             19,
             8,
-            15
+            16
           ]
         }
       ]
@@ -1810,7 +1808,7 @@
           {
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1892",
             "data": [
-              12,
+              13,
               1,
               2
             ]
