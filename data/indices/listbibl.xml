@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-03-02">serialized</change>
+      <change when-iso="2026-04-10">serialized</change>
       
        
     </revisionDesc>
@@ -2725,7 +2725,7 @@
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165076</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11186903</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11186903</idno>
           
 
           <note type="collections">
@@ -7667,7 +7667,7 @@
         <bibl xml:id="pmb195708">
           
   
-          <title type="main">Maria und Magdalena</title>
+          <title type="main">Maria und Magdalena. Schauspiel in 4 Acten</title>
           
   
           <author key="pmb12078" role="hat-geschaffen">Lindau, Paul</author>
@@ -7680,6 +7680,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195708.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -10855,7 +10867,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306170/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11079994</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079994</idno>
           
 
           <note type="collections">
@@ -12817,7 +12829,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195353.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10888901</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10888901</idno>
           
 
           <note type="collections">
@@ -12869,7 +12881,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195350.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11394901</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11394901</idno>
           
 
           <note type="collections">
@@ -13447,7 +13459,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185671.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10862001</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10862001</idno>
           
 
           <note type="collections">
@@ -14024,7 +14036,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11079974</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079974</idno>
           
 
           <note type="collections">
@@ -19515,7 +19527,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81385.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10846151</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10846151</idno>
           
 
           <note type="collections">
@@ -30770,7 +30782,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306193/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11079990</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079990</idno>
           
 
           <note type="collections">
@@ -37026,11 +37038,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80603.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb80603</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -46094,9 +46112,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306675/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10649602</idno>
-          
-  
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163415</idno>
           
   
@@ -46104,6 +46119,9 @@
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Woyzeck</idno>
+          
+  
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10649602</idno>
           
 
           <note type="collections">
@@ -53540,13 +53558,16 @@
         <bibl xml:id="pmb78363">
           
   
-          <title type="main">Die Haubenlerche</title>
+          <title type="main">Die Haubenlerche. Drama in vier Akten</title>
           
   
           <title type="legacy-name-merge">Die Haubenlerche</title>
           
   
           <author key="pmb13118" role="hat-geschaffen">Wildenbruch, Ernst von</author>
+          
+
+          <date notBefore-iso="1891-01-01" when-iso="1891-01-01">1891</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/78363/</idno>
@@ -53563,8 +53584,14 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78363.html</idno>
           
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q51435829</idno>
+          
 
           <note type="collections">
+            
+  
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -53871,7 +53898,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78340.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11079958</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079958</idno>
           
 
           <note type="collections">
@@ -55169,6 +55196,18 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78003.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb78003</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb78001">
@@ -55992,7 +56031,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305778/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11113205</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11113205</idno>
           
 
           <note type="collections">
@@ -56790,6 +56829,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77831.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb77831</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Film</note>
@@ -58817,7 +58868,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Rienzi</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11079993</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079993</idno>
           
 
           <note type="collections">
@@ -59282,7 +59333,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306313/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=9937851</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9937851</idno>
           
 
           <note type="collections">
@@ -59321,11 +59372,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77546.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb77546</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -60697,7 +60754,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Einen_Jux_will_er_sich_machen</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10834951</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10834951</idno>
           
 
           <note type="collections">
@@ -61022,7 +61079,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77417.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11028504</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11028504</idno>
           
 
           <note type="collections">
@@ -62960,6 +63017,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77248.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb77248</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -63660,7 +63729,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77115.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10638401</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10638401</idno>
           
 
           <note type="collections">
@@ -63716,7 +63785,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77111.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10849351</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10849351</idno>
           
 
           <note type="collections">
@@ -63893,6 +63962,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77100.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb77100</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -63977,7 +64058,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306402/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10835651</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10835651</idno>
           
 
           <note type="collections">
@@ -64221,6 +64302,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77072.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb77072</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Drama</note>
@@ -64608,7 +64701,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77042.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10986903</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10986903</idno>
           
 
           <note type="collections">
@@ -64666,7 +64759,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306168/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10876551</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10876551</idno>
           
 
           <note type="collections">
@@ -65141,7 +65234,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Die_Ahnfrau</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10832453</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10832453</idno>
           
 
           <note type="collections">
@@ -65708,7 +65801,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306021/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10774304</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10774304</idno>
           
 
           <note type="collections">
@@ -65914,6 +66007,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76884.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb76884</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -66068,7 +66173,7 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306686/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11055252</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11055252</idno>
           
 
           <note type="collections">
@@ -66160,7 +66265,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76845.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10729651</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10729651</idno>
           
 
           <note type="collections">
@@ -66626,7 +66731,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76795.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10882904</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10882904</idno>
           
 
           <note type="collections">
@@ -66702,7 +66807,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76794.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10771654</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10771654</idno>
           
 
           <note type="collections">
@@ -67416,7 +67521,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76698.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10671952</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10671952</idno>
           
 
           <note type="collections">
@@ -67617,7 +67722,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76689.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10572303</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10572303</idno>
           
 
           <note type="collections">
@@ -68852,7 +68957,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76545.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10595851</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10595851</idno>
           
 
           <note type="collections">
@@ -69149,7 +69254,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76503.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10791202</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10791202</idno>
           
 
           <note type="collections">
@@ -69573,7 +69678,7 @@
           <author key="pmb13068" role="hat-geschaffen">Wedekind, Frank</author>
           
 
-          <date when-iso="1901-10-11">11.10.1901</date>
+          <date when-iso="1901-10-11">1901-10-11</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76462/</idno>
@@ -69609,7 +69714,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_Marquis_von_Keith</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=8997307</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=8997307</idno>
           
 
           <note type="collections">
@@ -69689,7 +69794,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305852/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=8997304</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=8997304</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb76460</idno>
           
 
           <note type="collections">
@@ -69699,6 +69807,9 @@
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -70308,7 +70419,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb60117.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10602151</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10602151</idno>
           
 
           <note type="collections">
@@ -71254,7 +71365,7 @@
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
           
 
-          <date>30.11.1906</date>
+          <date>1906-11-30</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43900/</idno>
@@ -71288,7 +71399,7 @@
           <author key="pmb11617" role="hat-geschaffen">Hauptmann, Gerhart</author>
           
 
-          <date when-iso="1929-12-03">3.12.1929</date>
+          <date when-iso="1929-12-03">1929-12-03</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43863/</idno>
@@ -71356,7 +71467,7 @@
           <author key="pmb12338" role="hat-geschaffen">Nestroy, Johann Nepomuk</author>
           
 
-          <date when-iso="1835-09-25">25.9.1835</date>
+          <date when-iso="1835-09-25">1835-09-25</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43268/</idno>
@@ -71420,7 +71531,7 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43228.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10871101</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10871101</idno>
           
 
           <note type="collections">
@@ -71451,7 +71562,7 @@
           <author key="pmb13024" role="hat-geschaffen">Wagner, Richard</author>
           
 
-          <date>16.8.1876</date>
+          <date>1876-08-16</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43226/</idno>
@@ -71537,7 +71648,7 @@
           <author key="pmb10905" role="hat-geschaffen">Bernstein, Max</author>
           
 
-          <date>16.5.1898</date>
+          <date>1898-05-16</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42891/</idno>
@@ -71579,11 +71690,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42801.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb42801</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -71740,7 +71857,7 @@
           <author key="pmb2207" role="hat-geschaffen">Davis, Gustav</author>
           
 
-          <date>12.10.1894</date>
+          <date>1894-10-12</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42459/</idno>
@@ -71786,7 +71903,7 @@
           <author key="pmb13082" role="hat-geschaffen">Karlweis, Carl</author>
           
 
-          <date when-iso="1895-11-09">9.11.1895</date>
+          <date when-iso="1895-11-09">1895-11-09</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42444/</idno>
@@ -71862,7 +71979,7 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb42416</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=8997301</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=8997301</idno>
           
 
           <note type="collections">
@@ -71905,7 +72022,7 @@
           <author key="pmb26407" role="hat-vertont">Varney, Louis</author>
           
 
-          <date>9.2.1894</date>
+          <date>1894-02-09</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42293/</idno>
@@ -71964,7 +72081,7 @@
           <author key="pmb10772" role="hat-geschaffen">Anzengruber, Ludwig</author>
           
 
-          <date>1.2.1876</date>
+          <date>1876-02-01</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42186/</idno>
@@ -71992,7 +72109,7 @@
           <author key="pmb11605" role="hat-geschaffen">Hartleben, Otto Erich</author>
           
 
-          <date>2.4.1893</date>
+          <date>1893-04-02</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42026/</idno>
@@ -72020,7 +72137,7 @@
           <author key="pmb2425" role="hat-geschaffen">Dörmann, Felix</author>
           
 
-          <date>16.10.1896</date>
+          <date>1896-10-16</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42009/</idno>
@@ -72088,7 +72205,7 @@
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
           
 
-          <date>11.2.1910</date>
+          <date>1910-02-11</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41611/</idno>
@@ -72122,7 +72239,7 @@
           <author key="pmb9603" role="hat-geschaffen">Ruederer, Josef</author>
           
 
-          <date when-iso="1904-11-15">15.11.1904</date>
+          <date when-iso="1904-11-15">1904-11-15</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41582/</idno>
@@ -72208,7 +72325,7 @@
           <author key="pmb12338" role="hat-geschaffen">Nestroy, Johann Nepomuk</author>
           
 
-          <date>9.4.1844</date>
+          <date>1844-04-09</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41412/</idno>
@@ -72254,7 +72371,7 @@
           <author key="pmb41402" role="hat-geschaffen">Hervé</author>
           
 
-          <date>24.10.1868</date>
+          <date>1868-10-24</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41400/</idno>
@@ -72285,7 +72402,7 @@
           <author key="pmb16275" role="hat-geschaffen">Fischer, Hanns Friedrich</author>
           
 
-          <date>9.7.1895</date>
+          <date>1895-07-09</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41396/</idno>
@@ -72452,7 +72569,7 @@
           <author key="pmb18093" role="hat-vertont">Hellmesberger, Josef</author>
           
 
-          <date>21.9.1895</date>
+          <date>1895-09-21</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41143/</idno>
@@ -72492,7 +72609,7 @@
           <author key="pmb2702" role="hat-ubersetzt">Laube, Heinrich</author>
           
 
-          <date>1.12.1862</date>
+          <date>1862-12-01</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41136/</idno>
@@ -72594,7 +72711,7 @@
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
           
 
-          <date>10.10.1919</date>
+          <date>1919-10-10</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40638/</idno>
@@ -72659,7 +72776,7 @@
           <author key="pmb12040" role="hat-unter-pseudonym-geschrieben">Langkammer, Margarete</author>
           
 
-          <date>24.9.1892</date>
+          <date>1892-09-24</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40142/</idno>
@@ -72727,7 +72844,7 @@
           <author key="pmb11851" role="hat-geschaffen">Kainz, Josef</author>
           
 
-          <date>23.10.1910</date>
+          <date>1910-10-23</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39985/</idno>
@@ -72866,7 +72983,7 @@
           <author key="pmb21368" role="hat-vertont">Metzl, Wladimir</author>
           
 
-          <date>15.11.1898</date>
+          <date>1898-11-15</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39783/</idno>
@@ -73079,7 +73196,7 @@
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date>10.3.1889</date>
+          <date>1889-03-10</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36059/</idno>
@@ -73130,11 +73247,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb36056.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb36056</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -73478,7 +73601,7 @@
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1889-01-01">1.1.1889</date>
+          <date when-iso="1889-01-01">1889-01-01</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35829/</idno>
@@ -73810,7 +73933,7 @@
           <author key="pmb26666" role="hat-geschaffen">Walzel, Camillo</author>
           
 
-          <date when-iso="1894-09-22">22.9.1894</date>
+          <date when-iso="1894-09-22">1894-09-22</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34370/</idno>
@@ -73847,7 +73970,7 @@
           <author key="pmb2167" role="hat-geschaffen">Salten, Felix</author>
           
 
-          <date when-iso="1893-07-17">17.7.1893</date>
+          <date when-iso="1893-07-17">1893-07-17</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34361/</idno>
@@ -73953,7 +74076,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11518" role="hat-geschaffen">Grillparzer, Franz</author>
           
 
-          <date when-iso="1872-11-22">22.11.1872</date>
+          <date when-iso="1872-11-22">1872-11-22</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34284/</idno>
@@ -73996,7 +74119,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11450" role="hat-geschaffen">Gluck, Christoph Willibald</author>
           
 
-          <date when-iso="1762-10-05">5.10.1762</date>
+          <date when-iso="1762-10-05">1762-10-05</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34253/</idno>
@@ -74088,7 +74211,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb34239.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10880053</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10880053</idno>
           
 
           <note type="collections">
@@ -74184,7 +74307,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
           
 
-          <date when-iso="1776-11-21">21.11.1776</date>
+          <date when-iso="1776-11-21">1776-11-21</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33933/</idno>
@@ -74282,7 +74405,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2150" role="hat-geschaffen">Bauer, Julius</author>
           
 
-          <date>4.1.1890</date>
+          <date>1890-01-04</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33914/</idno>
@@ -74512,6 +74635,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33806.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb33806</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Erzählung</note>
           
 
@@ -74670,7 +74805,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1903-12-02">2.12.1903</date>
+          <date when-iso="1903-12-02">1903-12-02</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33784/</idno>
@@ -74789,11 +74924,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33760.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb33760</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -74821,7 +74962,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1908-04-01">1.4.1908</date>
+          <date when-iso="1908-04-01">1908-04-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.16</idno>
@@ -74852,6 +74993,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33758.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb33758</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -74944,6 +75097,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33754.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb33754</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Novelle</note>
@@ -75271,7 +75436,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33588.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10887952</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10887952</idno>
           
 
           <note type="collections">
@@ -75318,6 +75483,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33556.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb33556</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -75573,7 +75750,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306176/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=9930951</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9930951</idno>
           
 
           <note type="collections">
@@ -75694,6 +75871,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb33273</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb33273</idno>
+          
 
           <note type="collections">
             
@@ -75702,6 +75882,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -75735,7 +75918,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33269.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=9080658</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9080658</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb33269</idno>
           
 
           <note type="collections">
@@ -75745,6 +75931,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -75951,6 +76140,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33083.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb33083</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -75970,7 +76171,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1911-06-04">04.06.1911</date>
+          <date when-iso="1911-06-04">1911-06-04</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33061/</idno>
@@ -75998,6 +76199,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33061.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb33061</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -76074,7 +76287,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33043.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10196501</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10196501</idno>
           
 
           <note type="collections">
@@ -76135,7 +76348,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33037.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10574751</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10574751</idno>
           
 
           <note type="collections">
@@ -76233,7 +76446,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33023.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10877651</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10877651</idno>
           
 
           <note type="collections">
@@ -76394,7 +76607,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb32951</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10808851</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10808851</idno>
           
 
           <note type="collections">
@@ -76604,7 +76817,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306208/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=50906</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=50906</idno>
           
 
           <note type="collections">
@@ -76679,11 +76892,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32808.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb32808</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -76847,6 +77066,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32800.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb32800</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Film</note>
           
 
@@ -76989,6 +77220,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32668.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb32668</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -77005,7 +77248,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb12254" role="hat-geschaffen">Michel, Robert</author>
           
 
-          <date when-iso="1902-10-01">01.10.1902</date>
+          <date when-iso="1902-10-01">1902-10-01</date>
           
   
           <idno type="URL" subtype="exemplar">https://books.google.at/books?id=V8I2AAAAMAAJ</idno>
@@ -77335,7 +77578,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
           
 
-          <date when-iso="1899-03-18">18.3.1899</date>
+          <date when-iso="1899-03-18">1899-03-18</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32512.html</idno>
@@ -77604,6 +77847,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32444.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb32444</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -77696,7 +77951,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32426.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=9944551</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9944551</idno>
           
 
           <note type="collections">
@@ -78547,7 +78802,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date to-iso="1913-04-01">1.2.1913 – 1.4.1913</date>
+          <date to-iso="1913-04-01">1913-02-01 – 1913-04-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.35</idno>
@@ -78583,6 +78838,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32133.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb32133</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Novelle</note>
           
 
@@ -78599,7 +78866,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date to-iso="1927-01-09">5.12.1926 – 9.1.1927</date>
+          <date to-iso="1927-01-09">1926-12-05 – 1927-01-09</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.42</idno>
@@ -78644,6 +78911,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32131.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb32131</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Novelle</note>
           
 
@@ -78672,7 +78951,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32125.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=9080656</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9080656</idno>
           
 
           <note type="collections">
@@ -78853,6 +79132,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32097.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb32097</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -78962,7 +79253,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
           
 
-          <date when-iso="1898-02-05">05.02.1898</date>
+          <date when-iso="1898-02-05">1898-02-05</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32069.html</idno>
@@ -79008,7 +79299,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
           
 
-          <date when-iso="1898-05-15">15.5.1898</date>
+          <date when-iso="1898-05-15">1898-05-15</date>
           
   
           <idno type="URL" subtype="exemplar">http://bluemountain.princeton.edu/bluemtn/?a=d&amp;d=bmtnabe189810-01.2.9&amp;</idno>
@@ -79273,7 +79564,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb32047</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11079951</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079951</idno>
           
 
           <note type="collections">
@@ -79512,7 +79803,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Fidelio</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10650301</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10650301</idno>
           
 
           <note type="collections">
@@ -79641,6 +79932,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31975.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31975</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Novelle</note>
           
 
@@ -79695,6 +79998,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <title type="werk_bibliografische-angabe">Moderner Musen-Almanach auf das Jahr 1894,</title>
+          
+  
+          <title type="werk_namensvariante">Die drei Elixiere</title>
           
   
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
@@ -79859,7 +80165,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163964</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10573101</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10573101</idno>
           
 
           <note type="collections">
@@ -79887,7 +80193,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11617" role="hat-geschaffen">Hauptmann, Gerhart</author>
           
 
-          <date>21.1.1892</date>
+          <date>1892-01-21</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31941.html</idno>
@@ -79954,7 +80260,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Vor_Sonnenaufgang</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10671951</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10671951</idno>
           
 
           <note type="collections">
@@ -79989,6 +80295,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <author key="pmb12624" role="hat-geschaffen">Sardou, Victorien</author>
+          
+  
+          <author key="pmb2702" role="hat-ubersetzt">Laube, Heinrich</author>
           
 
           <date notBefore-iso="1860-01-01" when-iso="1860-01-01">1860</date>
@@ -80163,7 +80472,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2416" role="hat-geschaffen">David, Jakob Julius</author>
           
 
-          <date>12.10.1895</date>
+          <date>1895-10-12</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31905.html</idno>
@@ -80360,7 +80669,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date>15.04.1891</date>
+          <date>1891-04-15</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31881.html</idno>
@@ -80946,7 +81255,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306074/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10608551</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10608551</idno>
           
 
           <note type="collections">
@@ -80997,11 +81306,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31735.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31735</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -81342,7 +81657,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306257/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=9935351</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9935351</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31671</idno>
           
 
           <note type="collections">
@@ -81358,6 +81676,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -81450,7 +81771,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date to-iso="1890-09-01">15.8.1890 – 1.9.1890</date>
+          <date to-iso="1890-09-01">1890-08-15 – 1890-09-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.01.02</idno>
@@ -81642,7 +81963,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31631.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10964256</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10964256</idno>
           
 
           <note type="collections">
@@ -81740,7 +82061,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306174/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10869351</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10869351</idno>
           
 
           <note type="collections">
@@ -82168,10 +82489,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31599.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=9280351</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306194/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306194/</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9280351</idno>
           
 
           <note type="collections">
@@ -82374,7 +82695,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31585.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10827201</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10827201</idno>
           
 
           <note type="collections">
@@ -82512,7 +82833,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q208094</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10797954</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10797954</idno>
           
 
           <note type="collections">
@@ -82935,6 +83256,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31511</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31511</idno>
+          
 
           <note type="collections">
             
@@ -82943,6 +83267,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -82994,7 +83321,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306231/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10914801</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10914801</idno>
           
 
           <note type="collections">
@@ -83123,6 +83450,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31447.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31447</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -83248,7 +83587,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31431.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10869352</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10869352</idno>
           
 
           <note type="collections">
@@ -83307,6 +83646,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31429.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31429</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
@@ -83425,7 +83776,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Julius_Caesar_(Drama)</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10717251</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10717251</idno>
           
 
           <note type="collections">
@@ -83489,7 +83840,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306086/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10676151</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10676151</idno>
           
 
           <note type="collections">
@@ -83617,7 +83968,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305917/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10588053</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10588053</idno>
           
 
           <note type="collections">
@@ -83751,7 +84102,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31391.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10724352</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10724352</idno>
           
 
           <note type="collections">
@@ -83813,7 +84164,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2416" role="hat-geschaffen">David, Jakob Julius</author>
           
 
-          <date to-iso="1891-07-15">1.6.1891 – 15.7.1891</date>
+          <date to-iso="1891-07-15">1891-06-01 – 1891-07-15</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31371.html</idno>
@@ -83853,7 +84204,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1889-09-15">15.9.1889</date>
+          <date when-iso="1889-09-15">1889-09-15</date>
           
   
           <idno type="URL">https://theadok.at/work/30734</idno>
@@ -83881,6 +84232,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31357.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31357</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
@@ -83997,7 +84360,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164960</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10714701</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10714701</idno>
           
 
           <note type="collections">
@@ -84064,7 +84427,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77269.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10647502</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10647502</idno>
           
 
           <note type="collections">
@@ -84196,7 +84559,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Rose_Bernd</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10885653</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10885653</idno>
           
 
           <note type="collections">
@@ -84381,7 +84744,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305799/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10721352</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10721352</idno>
           
 
           <note type="collections">
@@ -84565,7 +84928,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305854/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10964259</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10964259</idno>
           
 
           <note type="collections">
@@ -84690,7 +85053,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306311/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11079962</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079962</idno>
           
 
           <note type="collections">
@@ -84867,13 +85230,16 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31181</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11409406</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q382941</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Die_Verschw%C3%B6rung_des_Fiesco_zu_Genua</idno>
+          
+  
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11409406</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31181</idno>
           
 
           <note type="collections">
@@ -84886,6 +85252,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -84935,7 +85304,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11617" role="hat-geschaffen">Hauptmann, Gerhart</author>
           
 
-          <date>29.11.1902</date>
+          <date>1902-11-29</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31165.html</idno>
@@ -84968,7 +85337,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31165.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10885654</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10885654</idno>
           
 
           <note type="collections">
@@ -85060,7 +85429,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305835/</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10828701</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10828701</idno>
           
 
           <note type="collections">
@@ -85314,7 +85683,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31071.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10791204</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10791204</idno>
           
 
           <note type="collections">
@@ -85394,7 +85763,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date to-iso="1918-09-01">1.7.1918 – 1.9.1918</date>
+          <date to-iso="1918-09-01">1918-07-01 – 1918-09-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.05</idno>
@@ -85428,6 +85797,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30971.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30971</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -85649,11 +86030,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30945.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30945</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -86021,7 +86408,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30907.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10692853</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10692853</idno>
           
 
           <note type="collections">
@@ -86089,7 +86476,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1932-01-01">01.01.1932</date>
+          <date when-iso="1932-01-01">1932-01-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.12</idno>
@@ -86235,6 +86622,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30881.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30881</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -86339,6 +86738,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30863.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30863</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Erzählung</note>
           
 
@@ -86355,7 +86766,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date to-iso="1926-03-01">1.12.1925 – 1.3.1926</date>
+          <date to-iso="1926-03-01">1925-12-01 – 1926-03-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.45</idno>
@@ -86394,6 +86805,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30851.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30851</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Erzählung</note>
           
 
@@ -86429,6 +86852,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30849.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30849</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Romanfragment</note>
@@ -86726,7 +87161,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1919-10-01">01.10.1919</date>
+          <date when-iso="1919-10-01">1919-10-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.01.18</idno>
@@ -86769,6 +87204,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30819.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30819</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -86821,6 +87268,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30817.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30817</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Roman</note>
@@ -87030,11 +87489,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30775.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30775</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -87129,7 +87594,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Die_Jungfrau_von_Orleans_(Schiller)</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10573558</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10573558</idno>
           
 
           <note type="collections">
@@ -87163,7 +87628,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date to-iso="1925-08-15">7.8.1925 – 15.8.1925</date>
+          <date to-iso="1925-08-15">1925-08-07 – 1925-08-15</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.22</idno>
@@ -87202,6 +87667,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30751.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30751</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Erzählung</note>
           
 
@@ -87221,7 +87698,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1890-05-01">01.05.1890</date>
+          <date when-iso="1890-05-01">1890-05-01</date>
           
   
           <idno type="URL">https://theadok.at/work/30730</idno>
@@ -87254,6 +87731,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30749.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30749</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -87267,7 +87756,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11036" role="hat-geschaffen">Burckhard, Max Eugen</author>
           
 
-          <date when-iso="1908-11-28">28.11.1908</date>
+          <date when-iso="1908-11-28">1908-11-28</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30743.html</idno>
@@ -87366,6 +87855,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30717.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30717</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakterzyklus</note>
@@ -87520,11 +88021,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q116522229</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30693</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -87632,7 +88139,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1905-12-24">24.12.1905</date>
+          <date when-iso="1905-12-24">1905-12-24</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.30</idno>
@@ -87663,6 +88170,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30683.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30683</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -87929,7 +88448,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1905-04-23">23.04.1905</date>
+          <date when-iso="1905-04-23">1905-04-23</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30655.html</idno>
@@ -87965,6 +88484,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30655.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30655</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Novelle</note>
           
 
@@ -87984,7 +88515,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date to-iso="1901-01-12">22.12.1900 – 12.1.1901</date>
+          <date to-iso="1901-01-12">1900-12-22 – 1901-01-12</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.10</idno>
@@ -88021,6 +88552,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30649.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30649</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -88189,7 +88732,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30633.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10921151</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10921151</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30633</idno>
           
 
           <note type="collections">
@@ -88199,6 +88745,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -88251,6 +88800,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30631.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30631</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -88838,7 +89399,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30593.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11179401</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11179401</idno>
           
 
           <note type="collections">
@@ -89174,7 +89735,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1894-08-01">01.08.1894</date>
+          <date when-iso="1894-08-01">1894-08-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.04</idno>
@@ -89208,6 +89769,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30453.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30453</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -89588,7 +90161,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2157" role="hat-geschaffen">Ebermann, Leo</author>
           
 
-          <date>19.9.1896</date>
+          <date>1896-09-19</date>
           
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163587</idno>
@@ -89742,7 +90315,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1894-12-25">25.12.1894</date>
+          <date when-iso="1894-12-25">1894-12-25</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.19</idno>
@@ -89819,7 +90392,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1898-11-01">01.11.1898</date>
+          <date when-iso="1898-11-01">1898-11-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.01.30</idno>
@@ -89862,6 +90435,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30403.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30403</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
@@ -89951,7 +90536,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30397.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10871902</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10871902</idno>
           
 
           <note type="collections">
@@ -90051,11 +90636,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30391.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30391</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -90083,7 +90674,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1897-04-01">01.04.1897</date>
+          <date when-iso="1897-04-01">1897-04-01</date>
           
   
           <idno type="URL">https://theadok.at/work/33671</idno>
@@ -90271,7 +90862,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11617" role="hat-geschaffen">Hauptmann, Gerhart</author>
           
 
-          <date when-iso="1912-01-01">01.01.1912</date>
+          <date when-iso="1912-01-01">1912-01-01</date>
           
   
           <idno type="URL" subtype="exemplar">https://archive.org/details/neuerundschau190903franuoft</idno>
@@ -90381,6 +90972,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30349.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30349</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Erzählung</note>
           
 
@@ -90424,7 +91027,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30341.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10850301</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10850301</idno>
           
 
           <note type="collections">
@@ -90750,7 +91353,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date>1.1.1892</date>
+          <date>1892-01-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.15</idno>
@@ -90778,6 +91381,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30257.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30257</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -90890,7 +91505,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30247.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10564451</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10564451</idno>
           
 
           <note type="collections">
@@ -91025,7 +91640,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30231.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10822101</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10822101</idno>
           
 
           <note type="collections">
@@ -91071,7 +91686,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30221.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=11186901</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11186901</idno>
           
 
           <note type="collections">
@@ -91141,6 +91756,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30219.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30219</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -91160,7 +91787,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1904-02-01">01.02.1904</date>
+          <date when-iso="1904-02-01">1904-02-01</date>
           
   
           <idno type="URL">https://dracor.org/ger/schnitzler-der-tapfere-cassian</idno>
@@ -91200,6 +91827,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30217.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30217</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
@@ -91256,11 +91895,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30215.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30215</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -91326,11 +91971,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30213.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30213</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -91440,13 +92091,19 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30207.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10662651</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10662651</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30207</idno>
           
 
           <note type="collections">
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -91522,6 +92179,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30205.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30205</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -91595,6 +92264,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30203.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30203</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -91645,6 +92326,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30201.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30201</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -91832,7 +92525,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
           
 
-          <date>1.11.1889</date>
+          <date>1889-11-01</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30187.html</idno>
@@ -91885,6 +92578,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30181.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30181</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Gedicht</note>
@@ -92011,7 +92716,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1891-12-24">24.12.1891</date>
+          <date when-iso="1891-12-24">1891-12-24</date>
           
   
           <idno type="URL">https://theadok.at/work/30732</idno>
@@ -92039,6 +92744,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30163.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30163</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
@@ -92171,7 +92888,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1891-02-01">1.2.1891</date>
+          <date when-iso="1891-02-01">1891-02-01</date>
           
   
           <idno type="URL" subtype="exemplar">https://archive.org/details/bub_gb_3N7NAAAAMAAJ/page/n199</idno>
@@ -92211,7 +92928,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1891-05-15">15.05.1891</date>
+          <date when-iso="1891-05-15">1891-05-15</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30145.html</idno>
@@ -92230,6 +92947,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30145.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30145</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
@@ -92275,6 +93004,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30143.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30143</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -92297,7 +93038,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11740" role="hat-unter-pseudonym-geschrieben">Hofmannsthal, Hugo von</author>
           
 
-          <date when-iso="1891-10-15">15.10.1891</date>
+          <date when-iso="1891-10-15">1891-10-15</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30141.html</idno>
@@ -92373,7 +93114,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30137.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10584002</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10584002</idno>
           
 
           <note type="collections">
@@ -92404,7 +93145,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb13082" role="hat-geschaffen">Karlweis, Carl</author>
           
 
-          <date>11.3.1893</date>
+          <date>1893-03-11</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30131.html</idno>
@@ -92486,7 +93227,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30129.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10454451</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10454451</idno>
           
 
           <note type="collections">
@@ -92526,7 +93267,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
           
 
-          <date when-iso="1898-12-10">10.12.1898</date>
+          <date when-iso="1898-12-10">1898-12-10</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30127.html</idno>
@@ -92672,6 +93413,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30117.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30117</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Novelle</note>
           
   
@@ -92736,7 +93489,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164773</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10797956</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10797956</idno>
           
 
           <note type="collections">
@@ -92804,6 +93557,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30075.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30075</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -92880,7 +93645,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1904-07-01">01.07.1904</date>
+          <date when-iso="1904-07-01">1904-07-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.07</idno>
@@ -92917,6 +93682,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30057.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30057</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Novelle</note>
@@ -93029,6 +93806,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30053.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30053</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Aphorismensammlung</note>
           
 
@@ -93079,6 +93868,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30051.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30051</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Typologische Studie</note>
@@ -93143,7 +93944,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1890-07-01">01.07.1890</date>
+          <date when-iso="1890-07-01">1890-07-01</date>
           
   
           <idno type="URL">https://theadok.at/work/30735</idno>
@@ -93171,6 +93972,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30033.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30033</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
@@ -93228,7 +94041,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Torquato_Tasso_(Goethe)</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10823651</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10823651</idno>
           
 
           <note type="collections">
@@ -93454,7 +94267,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30019.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10582751</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10582751</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30019</idno>
           
 
           <note type="collections">
@@ -93464,6 +94280,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -93552,7 +94371,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
           
 
-          <date when-iso="1906-12-01">01.12.1906</date>
+          <date when-iso="1906-12-01">1906-12-01</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30007.html</idno>
@@ -93617,6 +94436,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30005.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30005</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
@@ -93722,13 +94553,19 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29985.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10774301</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10774301</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29985</idno>
           
 
           <note type="collections">
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -93754,9 +94591,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <title type="legacy-name-merge">Der Meister</title>
-          
-  
-          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
           
   
           <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
@@ -94004,7 +94838,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1901-12-01">01.12.1901</date>
+          <date when-iso="1901-12-01">1901-12-01</date>
           
   
           <idno type="URL" subtype="exemplar">https://books.google.at/books?id=Ab42AAAAMAAJ</idno>
@@ -94086,7 +94920,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29955.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10576103</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10576103</idno>
           
 
           <note type="collections">
@@ -94193,7 +95027,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11127" role="hat-illustriert">Czegka, Berta</author>
           
 
-          <date when-iso="1901-03-08">08.03.1901</date>
+          <date when-iso="1901-03-08">1901-03-08</date>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q29014616</idno>
@@ -94241,6 +95075,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29951.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29951</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -94263,7 +95109,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1924-10-01">01.10.1924</date>
+          <date when-iso="1924-10-01">1924-10-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.37</idno>
@@ -94306,6 +95152,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29941.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29941</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -94399,13 +95257,19 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29937.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10794903</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10794903</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29937</idno>
           
 
           <note type="collections">
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -94490,6 +95354,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29935.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29935</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakterzyklus</note>
           
   
@@ -94554,13 +95430,19 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29931.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10653352</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10653352</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29931</idno>
           
 
           <note type="collections">
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -94588,7 +95470,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
           
 
-          <date>25.1.1909</date>
+          <date>1909-01-25</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29925.html</idno>
@@ -94655,7 +95537,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date to-iso="1908-06-01">1.1.1908 – 1.6.1908</date>
+          <date to-iso="1908-06-01">1908-01-01 – 1908-06-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.18</idno>
@@ -94704,6 +95586,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29923.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29923</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Roman</note>
@@ -94779,6 +95673,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29917.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29917</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
   
@@ -94840,7 +95746,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_1957.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10573561</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10573561</idno>
           
 
           <note type="collections">
@@ -94934,6 +95840,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29905.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29905</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
   
@@ -95020,6 +95938,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29903.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29903</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -95129,6 +96059,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29899.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29899</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
   
@@ -95188,7 +96130,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1902-07-16">16.07.1902</date>
+          <date when-iso="1902-07-16">1902-07-16</date>
           
   
           <idno type="URL" subtype="exemplar">https://digi.ub.uni-heidelberg.de/diglit/jugend1902_2/0057/image</idno>
@@ -95210,6 +96152,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29893.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29893</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -95454,6 +96408,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29877.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29877</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -95473,7 +96439,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1903-05-31">31.05.1903</date>
+          <date when-iso="1903-05-31">1903-05-31</date>
           
   
           <idno type="URL">https://dracor.org/ger/schnitzler-der-puppenspieler</idno>
@@ -95508,11 +96474,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29873.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29873</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -95576,13 +96548,19 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29869.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10791203</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10791203</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29869</idno>
           
 
           <note type="collections">
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -95641,6 +96619,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29865.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29865</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakter</note>
@@ -95707,6 +96697,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29863.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29863</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakterzyklus</note>
           
   
@@ -95754,6 +96756,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29859.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29859</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Einakterzyklus</note>
@@ -95829,6 +96843,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29857.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29857</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
   
@@ -95899,13 +96925,19 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29855.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10566852</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10566852</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29855</idno>
           
 
           <note type="collections">
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -95975,7 +97007,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29853.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10653353</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10653353</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29853</idno>
           
 
           <note type="collections">
@@ -95985,6 +97020,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -96149,6 +97187,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29845.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29845</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -96171,7 +97221,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date>1.3.1899</date>
+          <date>1899-03-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.01.10</idno>
@@ -96228,6 +97278,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29843.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29843</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -96255,11 +97317,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29841.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29841</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -96321,7 +97389,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1897-10-01">01.10.1897</date>
+          <date when-iso="1897-10-01">1897-10-01</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.29</idno>
@@ -96360,6 +97428,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29833.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29833</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Erzählung</note>
           
 
@@ -96376,7 +97456,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
-          <date when-iso="1898-01-15">15.01.1898</date>
+          <date when-iso="1898-01-15">1898-01-15</date>
           
   
           <idno type="URL">https://asaf.com/S.04.02.11</idno>
@@ -96407,6 +97487,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29831.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29831</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Erzählung</note>
@@ -96546,7 +97638,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76925.html</idno>
           
   
-          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/list.xhtml?id=10784501</idno>
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10784501</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29827</idno>
           
 
           <note type="collections">
@@ -96559,6 +97654,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
@@ -96661,11 +97759,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29823.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29823</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </note>
