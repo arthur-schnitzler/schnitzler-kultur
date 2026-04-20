@@ -362,9 +362,7 @@
                                                 </xsl:when>
                                             </xsl:choose>
                                         </h2>
-                                    </div>
                                     <xsl:call-template name="person_detail"/>
-                                </div>
                             </div>
                             <xsl:call-template name="html_footer"/>
                         </div>
