@@ -34,7 +34,7 @@
             <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
-                    <div class="container">
+                    <div class="container-fluid">
                         <div class="card">
                             <div class="card-header" style="text-align:center">
                                 <h1>
@@ -129,16 +129,16 @@
                         <div class="hfeed site" id="page">
                             <xsl:call-template name="nav_bar"/>
                             <div class="container-fluid">
-                                <div class="card">
-                                    <div class="card-header">
+                                
+                                    
                                         <h1 align="center">
                                             <xsl:value-of select="$name"/>
                                         </h1>
-                                    </div>
-                                    <div class="card-body">
+                                    
+                                    <div >
                                         <xsl:call-template name="place_detail"/>
                                     </div>
-                                </div>
+                                
                             </div>
                             <xsl:call-template name="html_footer"/>
                         </div>

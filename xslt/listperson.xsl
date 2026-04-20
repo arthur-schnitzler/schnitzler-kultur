@@ -348,8 +348,6 @@
                         <div class="hfeed site" id="page">
                             <xsl:call-template name="nav_bar"/>
                             <div class="container-fluid">
-                                <div class="card">
-                                    <div class="card-header">
                                         <h2 align="center">
                                             <xsl:value-of select="$name"/>
                                             <xsl:text> </xsl:text>
