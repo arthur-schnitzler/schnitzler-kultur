@@ -17,3 +17,6 @@ html/js-data/*
 
 # Saxon JAR directory
 saxon/
+
+# Im Build frisch von PMB geladen, nicht im Repo halten
+data/indices/relations.csv
