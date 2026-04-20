@@ -1,0 +1,317 @@
+/* entities.css – Layout für Entitätsseiten
+   Übernimmt Farben und Schrift vom Hauptprojekt (style.css / Bootstrap)
+   ================================================================== */
+
+/* ── Variablen (aus dem Projekt) ─────────────────────────────── */
+:root {
+    --entity-accent: #008B8B;
+    --entity-bg: #f8f9fa;
+    --entity-card-bg: #fff;
+    --entity-border: #dee2e6;
+    --entity-tab-active: #008B8B;
+    --entity-tab-text: #495057;
+}
+
+/* ── Eltern-Container aufweiten wenn entity-layout drin ist ──── */
+.card:has(.entity-layout) {
+    max-width: 100%;
+    box-shadow: none;
+    border: none;
+    margin: 0;
+}
+
+.card:has(.entity-layout) > .card-body,
+.card:has(.entity-layout) > .card-body-index {
+    padding: 0;
+}
+
+.container-fluid:has(.entity-layout) {
+    max-width: 100%;
+    padding: 0 1rem;
+}
+
+/* Fallback fuer Browser ohne :has() – die entity-layout-Klasse
+   liegt direkt auf card-body-index, daher reicht das: */
+.card-body-index.entity-layout {
+    max-width: 100%;
+}
+
+/* ── Zwei-Spalten-Grid ───────────────────────────────────────── */
+.entity-layout {
+    display: grid;
+    grid-template-columns: 340px 1fr;
+    gap: 1.5rem;
+    align-items: start;
+    padding: 1rem 0;
+}
+
+/* ── Linke Spalte: Steckbrief (sticky) ───────────────────────── */
+.entity-sidebar {
+    position: sticky;
+    top: 100px; /* unterhalb der Navbar */
+    background: var(--entity-card-bg);
+    border: 1px solid var(--entity-border);
+    border-radius: .5rem;
+    padding: 1.25rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,.06);
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+}
+
+.entity-sidebar figure {
+    margin: 0 0 1rem 0;
+    text-align: center;
+}
+
+.entity-sidebar figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: .35rem;
+}
+
+.entity-sidebar .personenname {
+    font-size: 1.05rem;
+    margin-bottom: .25rem;
+}
+
+.entity-sidebar legend {
+    font-size: .95rem;
+    font-weight: 600;
+    color: var(--entity-accent);
+    border-bottom: 2px solid var(--entity-accent);
+    padding-bottom: .25rem;
+    margin-bottom: .5rem;
+}
+
+.entity-sidebar .buttonreihe {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    margin-top: .75rem;
+}
+
+.entity-sidebar .korrespondenz {
+    margin-top: 1rem;
+}
+
+/* ── Rechte Spalte: Tabs ─────────────────────────────────────── */
+.entity-main {
+    min-width: 0; /* Grid-Overflow verhindern */
+    width: 100%;
+}
+
+/* Tab-Navigation */
+.entity-tabs {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0;
+    border-bottom: 2px solid var(--entity-border);
+    margin-bottom: 1rem;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+}
+
+.entity-tab-btn {
+    flex: 1 1 0%;
+    min-width: 0;
+    text-align: center;
+    padding: .6rem 1.2rem;
+    border: none;
+    background: none;
+    font-size: .95rem;
+    color: var(--entity-tab-text);
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    margin-bottom: -2px;
+    transition: color .15s, border-color .15s;
+    white-space: nowrap;
+}
+
+.entity-tab-btn:hover {
+    color: var(--entity-tab-active);
+}
+
+.entity-tab-btn.active {
+    color: var(--entity-tab-active);
+    border-bottom-color: var(--entity-tab-active);
+    font-weight: 600;
+}
+
+/* Tab-Panels */
+.entity-tab-panel {
+    display: none;
+    animation: fadeIn .2s ease;
+}
+
+.entity-tab-panel.active {
+    display: block;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Sektions-Styling ────────────────────────────────────────── */
+.entity-tab-panel legend {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--entity-accent);
+    border-bottom: 2px solid var(--entity-accent);
+    padding-bottom: .3rem;
+    margin-bottom: .75rem;
+}
+
+.entity-tab-panel .relationen {
+    border: none;
+}
+
+.entity-tab-panel .relationen > summary {
+    display: none; /* Summary ist redundant, weil Tab-Titel schon zeigt */
+}
+
+/* Erwähnungen-Legend im Tab ausblenden (Tab-Titel reicht) */
+.entity-tab-panel #mentions > .infodesc > legend {
+    display: none;
+}
+
+.entity-tab-panel .relationen[open] {
+    padding: 0;
+}
+
+.entity-tab-panel .relationen-typ {
+    margin-bottom: .75rem;
+}
+
+.entity-tab-panel .relationen-typ > summary {
+    font-weight: 600;
+    color: var(--entity-tab-text);
+    cursor: pointer;
+    padding: .3rem 0;
+}
+
+/* Karte in der Sidebar */
+.entity-sidebar #mapid {
+    width: 100%;
+    border-radius: .35rem;
+    margin-top: .75rem;
+    margin-bottom: .5rem;
+}
+
+/* Mentions-Chart responsive */
+.entity-tab-panel #mentions-chart svg {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Erwähnungsliste */
+.entity-tab-panel .year-details {
+    margin-bottom: .5rem;
+}
+
+/* Entity-Tabelle (Events) */
+.entity-tab-panel .entity-table {
+    margin: 0;
+}
+
+/* ── Responsive: einspaltiges Layout auf schmalen Screens ────── */
+@media (max-width: 992px) {
+    .entity-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .entity-sidebar {
+        position: static;
+        max-height: none;
+    }
+}
+
+@media (max-width: 575px) {
+    .entity-tab-btn {
+        padding: .5rem .7rem;
+        font-size: .85rem;
+    }
+}
+
+/* ── WikimediaContainer in Sidebar: Bild oben, Text darunter ── */
+.entity-sidebar .WikimediaContainer {
+    display: block;
+}
+
+.entity-sidebar .WikimediaLeft-div {
+    margin-bottom: 1rem;
+}
+
+.entity-sidebar .WikimediaLeft-div img {
+    width: 100%;
+    max-width: 280px;
+    height: auto;
+    border-radius: .35rem;
+}
+
+.entity-sidebar .WikimediaRight-div {
+    text-align: left;
+}
+
+/* Ohne Bild: kompakter */
+.entity-sidebar > div:first-child:not(.WikimediaContainer) {
+    margin-bottom: .5rem;
+}
+
+/* Sidebar-Text generell linksbündig */
+.entity-sidebar p,
+.entity-sidebar .personenname,
+.entity-sidebar i {
+    text-align: left;
+}
+
+/* ── Dashed Listen vereinheitlichen ──────────────────────────── */
+.entity-tab-panel ul.dashed {
+    list-style: none;
+    padding-left: 1.2em;
+}
+
+.entity-tab-panel ul.dashed li {
+    text-indent: -1.2em;
+    padding-left: 0;
+}
+
+.entity-tab-panel ul.dashed li::before {
+    content: "–";
+    margin-right: .5em;
+    color: #999;
+}
+
+/* ── Links in Relationen: fett bei Hover ────────────────────── */
+.entity-tab-panel .relationen a:hover {
+    font-weight: 700;
+}
+
+/* ── Inline-Toggle für "… N weitere" (Checkbox-Hack, rein CSS) ─ */
+.rel-more-toggle {
+    display: none;
+}
+
+.rel-more-label {
+    cursor: pointer;
+    color: var(--entity-accent);
+    font-size: .9em;
+}
+
+.rel-more-label:hover {
+    text-decoration: underline;
+}
+
+.rel-more-content {
+    display: none;
+}
+
+.rel-more-toggle:checked ~ .rel-more-label {
+    display: none;
+}
+
+.rel-more-toggle:checked ~ .rel-more-content {
+    display: inline;
+}
+

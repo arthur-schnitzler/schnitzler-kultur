@@ -49,6 +49,7 @@
         <link href="vendor/bootstrap-5.3.5-dist/css/bootstrap.min.css" rel="stylesheet"/>
         <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css"/>
         <link rel="stylesheet" href="css/style.css" type="text/css"/>
+        <link rel="stylesheet" href="css/entities.css" type="text/css"/>
         <link rel="stylesheet" href="css/micro-editor.css" type="text/css"/>
         <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon-180x180.png"/>
         <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png"/>
@@ -77,7 +78,8 @@
             s.parentNode.insertBefore(g, s);
         })();</script>
         <!-- End Matomo Code -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous" defer="defer"/>
+        <script src="vendor/bootstrap-5.3.5-dist/js/bootstrap.bundle.min.js" defer="defer"/>
+        <script src="js/entity-tabs.js" defer="defer"/>
 
     </xsl:template>
 </xsl:stylesheet>
