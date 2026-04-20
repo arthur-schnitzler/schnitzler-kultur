@@ -1056,7 +1056,7 @@ var calendarData = [
     "name": "Konzert von Harner, Schwarzmeyer, Löwy, 11.8.1881", "startDate": "1881-08-11", "id": "pmb207709.html", "type": "Konzert"
   },
   {
-    "name": "Aufführung von Der letzte Brief. Lustspiel in 3 Akten, 6.9.1881", "startDate": "1881-09-06", "id": "pmb207710.html", "type": "Theateraufführung"
+    "name": "Aufführung von Der letzte Brief, 6.9.1881", "startDate": "1881-09-06", "id": "pmb207710.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Der Königsleutnant, 10.9.1881", "startDate": "1881-09-10", "id": "pmb207711.html", "type": "Theateraufführung"
@@ -1440,7 +1440,7 @@ var calendarData = [
     "name": "Konzert im Musikverein, 14.1.1884", "startDate": "1884-01-14", "id": "pmb207834.html", "type": "Konzert"
   },
   {
-    "name": "Heitere Liedertafel des Kaufmännischen Gesangsvereins und geschlossenes Kränzchen zu Gunsten des Unterstützungsfonds der Wiener Handels-Akademie, 17.1.1884", "startDate": "1884-01-17", "id": "pmb207835.html", "type": "Liederkonzert"
+    "name": "Heitere Liedertafel des Kaufmännischen Gesangsvereins und geschlossenes Kränzchen zu Gunsten des Unterstützungsfonds der Wiener Handels-Akademie, 17.1.1884", "startDate": "1884-01-17", "id": "pmb207835.html", "type": "Ball"
   },
   {
     "name": "Violinkonzert von Teresina Tua, 23.1.1884", "startDate": "1884-01-23", "id": "pmb207836.html", "type": "Konzert"
@@ -2601,7 +2601,7 @@ var calendarData = [
     "name": "Kompositionskonzert von Richard Mandl, 29.2.1888", "startDate": "1888-02-29", "id": "pmb208210.html", "type": "Kompositionskonzert"
   },
   {
-    "name": "Aufführung von Die beiden Klingsberg. Lustspiel in vier Akten, Im Vorzimmer Seiner Excellenz. Lebensbild in 1 Akt, 3.3.1888", "startDate": "1888-03-03", "id": "pmb208211.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die beiden Klingsberg; Im Vorzimmer Seiner Excellenz, 4.3.1888", "startDate": "1888-03-04", "id": "pmb208211.html", "type": "Theateraufführung"
   },
   {
     "name": "1. außerordentliches Gesellschaftskonzert, 6.3.1888", "startDate": "1888-03-06", "id": "pmb208212.html", "type": "Gesellschaftskonzert"
@@ -2715,7 +2715,7 @@ var calendarData = [
     "name": "Aufführung von Der Bureaukrat, 12.5.1888", "startDate": "1888-05-12", "id": "pmb208247.html", "type": "Theateraufführung"
   },
   {
-    "name": "Gesangskonzert von Wenzel Seidl und Wilhelm Wiesberg, 14.5.1888", "startDate": "1888-05-14", "id": "pmb208248.html", "type": "Volksgesang"
+    "name": "Gesangskonzert von Wenzel Seidl und Wilhelm Wiesberg, 19.5.1888", "startDate": "1888-05-19", "id": "pmb208248.html", "type": "Volksgesang"
   },
   {
     "name": "Hippodrome, 21.5.1888", "startDate": "1888-05-21", "id": "pmb208249.html", "type": "Vergnügungsabend"
@@ -2947,6 +2947,9 @@ var calendarData = [
   },
   {
     "name": "Hausball bei Leopold Rosenberg, 17.3.1889", "startDate": "1889-03-17", "id": "pmb208322.html", "type": "Hausball"
+  },
+  {
+    "name": "Sitzung des Veranstaltungskomitees des Balles der allgemeinen Poliklinik, 19.3.1889", "startDate": "1889-03-19", "id": "pmb339339.html", "type": "Vereinstreffen"
   },
   {
     "name": "Varieté im Ronacher, 21.3.1889", "startDate": "1889-03-21", "id": "pmb208323.html", "type": "Varieté"
@@ -3928,6 +3931,9 @@ var calendarData = [
   },
   {
     "name": "Private Lesung von Abschiedssouper, 6.10.1892", "startDate": "1892-10-06", "id": "pmb192447.html", "type": "Private Lesung"
+  },
+  {
+    "name": "Private Lesung von Gestern, 9.10.1892", "startDate": "1892-10-09", "id": "pmb336761.html", "type": "Private Lesung"
   },
   {
     "name": "Aufführung von Sirenenfahrt, Gringoire, 9.10.1892", "startDate": "1892-10-09", "id": "pmb208577.html", "type": "Opernaufführung"
@@ -5067,7 +5073,7 @@ var calendarData = [
     "name": "5. Aufführung von Liebelei, 20.10.1895", "startDate": "1895-10-20", "id": "pmb199362.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Der letzte Brief. Lustspiel in 3 Akten, 23.10.1895", "startDate": "1895-10-23", "id": "pmb208783.html", "type": "Theateraufführung"
+    "name": "Aufführung von Der letzte Brief, 23.10.1895", "startDate": "1895-10-23", "id": "pmb208783.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Wilhelm Tell, 27.10.1895", "startDate": "1895-10-27", "id": "pmb208784.html", "type": "Theateraufführung"

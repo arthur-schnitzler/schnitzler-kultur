@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-03-02">serialized</change>
+      <change when-iso="2026-04-10">serialized</change>
       
        
     </revisionDesc>
@@ -3697,7 +3697,7 @@
         <place xml:id="pmb290563">
           
   
-          <placeName>Kleines Schauspielhaus</placeName>
+          <placeName>Kleines Schauspielhaus Wien</placeName>
           
   
           <placeName type="ort_fruherer-name">Kleines Schauspielhaus</placeName>
@@ -23848,10 +23848,10 @@
           <placeName>Palais-Royal</placeName>
           
   
-          <desc type="entity_type">kein passender Code gefunden</desc>
+          <desc type="entity_type">P.PPLX</desc>
           
   
-          <desc type="entity_type_id">3474</desc>
+          <desc type="entity_type_id">1234</desc>
           
 
           <location type="coords">
@@ -28025,10 +28025,10 @@
           <placeName>Concertgebouw</placeName>
           
   
-          <desc type="entity_type">kein passender Code gefunden</desc>
+          <desc type="entity_type">S.THTR</desc>
           
   
-          <desc type="entity_type_id">3474</desc>
+          <desc type="entity_type_id">3473</desc>
           
 
           <location type="coords">
@@ -29593,7 +29593,7 @@
           <note type="apis_dates">
             
 
-            <date to-iso="1893-05-02">1870-05-12 – 02.05.1893</date>
+            <date to-iso="1893-05-02">1870-05-12 – 1893-05-02</date>
             
 
           </note>
@@ -29871,6 +29871,82 @@
             
 
           </note>
+          
+
+        </place>
+        <place xml:id="pmb168183">
+          
+  
+          <placeName>Zur großen Tabakspfeife</placeName>
+          
+  
+          <desc type="entity_type">Lokal (K.LKL)</desc>
+          
+  
+          <desc type="entity_type_id">22</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,20883 16,36996</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb39602">Goldschmiedgasse</placeName>
+            
+  
+            <geo>48,208797 16,371065</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb39599">Graben</placeName>
+            
+  
+            <geo>48,208613 16,369913</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168183/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168183.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
           
 
         </place>
@@ -30848,11 +30924,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142545.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb142545</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -33007,6 +33089,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003156</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb58810</idno>
+          
 
           <listBibl>
             
@@ -33018,6 +33103,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -34059,6 +34147,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45260.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45260</idno>
+          
 
           <listBibl>
             
@@ -34067,6 +34158,9 @@
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -34204,6 +34298,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45258</idno>
+          
 
           <listBibl>
             
@@ -34215,6 +34312,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -34387,7 +34487,7 @@
           <note type="apis_dates">
             
 
-            <date to-iso="1892-10-09">7.5.1892 – 9.10.1892</date>
+            <date to-iso="1892-10-09">1892-05-07 – 1892-10-09</date>
             
 
           </note>
@@ -34586,6 +34686,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004914</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44374</idno>
+          
 
           <listBibl>
             
@@ -34594,6 +34697,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -34692,6 +34798,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003600</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44303</idno>
+          
 
           <listBibl>
             
@@ -34700,6 +34809,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -34848,7 +34960,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb43430">Tschechische Republik</placeName>
+            <placeName key="pmb43430">Tschechien</placeName>
             
   
             <geo>49,75 15,0</geo>
@@ -34901,6 +35013,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001457</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44176</idno>
+          
 
           <listBibl>
             
@@ -34909,6 +35024,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -35013,6 +35131,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004684</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44172</idno>
+          
 
           <listBibl>
             
@@ -35024,6 +35145,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -35349,6 +35473,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003126</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb43520</idno>
+          
 
           <listBibl>
             
@@ -35357,6 +35484,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -36197,6 +36327,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001753</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb40260</idno>
+          
 
           <listBibl>
             
@@ -36205,6 +36338,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -36370,6 +36506,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001001</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb39615</idno>
+          
 
           <listBibl>
             
@@ -36381,6 +36520,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -36624,6 +36766,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005588</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb36300</idno>
+          
 
           <listBibl>
             
@@ -36635,6 +36780,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -36710,7 +36858,7 @@
           <note type="apis_dates">
             
 
-            <date when-iso="1896-09-26">26.9.1896</date>
+            <date when-iso="1896-09-26">1896-09-26</date>
             
 
           </note>
@@ -36809,6 +36957,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002541</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb34401</idno>
+          
 
           <listBibl>
             
@@ -36820,6 +36971,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -37177,11 +37331,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb12589.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb12589</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -37344,6 +37504,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005552</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb2318</idno>
+          
 
           <listBibl>
             
@@ -37352,6 +37515,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -37566,6 +37732,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001708</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb1223</idno>
+          
 
           <listBibl>
             
@@ -37577,6 +37746,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -37770,7 +37942,7 @@
           <note type="apis_dates">
             
 
-            <date to-iso="1927-08-31">23.4.1905 – 31.8.1927</date>
+            <date to-iso="1927-08-31">1905-04-23 – 1927-08-31</date>
             
 
           </note>
@@ -38146,6 +38318,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001893</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb1119</idno>
+          
 
           <listBibl>
             
@@ -38157,6 +38332,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -39264,6 +39442,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004493</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb967</idno>
+          
 
           <listBibl>
             
@@ -39272,6 +39453,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -39481,6 +39665,9 @@
           <placeName type="legacy-name-merge">Teplitz</placeName>
           
   
+          <placeName type="legacy-name-merge">Teplitz</placeName>
+          
+  
           <desc type="entity_type">P.PPL</desc>
           
   
@@ -39499,7 +39686,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb43430">Tschechische Republik</placeName>
+            <placeName key="pmb43430">Tschechien</placeName>
             
   
             <geo>49,75 15,0</geo>
@@ -39555,6 +39742,12 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004572</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/302298/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb955</idno>
+          
 
           <listBibl>
             
@@ -39566,6 +39759,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -39846,6 +40042,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb886</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb886</idno>
+          
 
           <listBibl>
             
@@ -39857,6 +40056,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -39973,6 +40175,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000228</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb883</idno>
+          
 
           <listBibl>
             
@@ -39984,6 +40189,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -40209,6 +40417,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb864</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb864</idno>
+          
 
           <listBibl>
             
@@ -40220,6 +40431,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -40283,7 +40497,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb43430">Tschechische Republik</placeName>
+            <placeName key="pmb43430">Tschechien</placeName>
             
   
             <geo>49,75 15,0</geo>
@@ -40345,6 +40559,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb842</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb842</idno>
+          
 
           <listBibl>
             
@@ -40356,6 +40573,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -40507,7 +40727,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb43430">Tschechische Republik</placeName>
+            <placeName key="pmb43430">Tschechien</placeName>
             
   
             <geo>49,75 15,0</geo>
@@ -40587,6 +40807,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb833</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb833</idno>
+          
 
           <listBibl>
             
@@ -40598,6 +40821,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -40726,12 +40952,6 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/828/</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q304037</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/%C3%96sterreichische_Nationalbibliothek</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb828.html</idno>
@@ -40953,7 +41173,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb43430">Tschechische Republik</placeName>
+            <placeName key="pmb43430">Tschechien</placeName>
             
   
             <geo>49,75 15,0</geo>
@@ -41009,6 +41229,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004376</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb772</idno>
+          
 
           <listBibl>
             
@@ -41020,6 +41243,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -41976,6 +42202,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00176</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb677</idno>
+          
 
           <listBibl>
             
@@ -41987,6 +42216,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -42332,7 +42564,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb43430">Tschechische Republik</placeName>
+            <placeName key="pmb43430">Tschechien</placeName>
             
   
             <geo>49,75 15,0</geo>
@@ -42400,6 +42632,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00194</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb652</idno>
+          
 
           <listBibl>
             
@@ -42411,6 +42646,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -43643,6 +43881,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb521</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb521</idno>
+          
 
           <listBibl>
             
@@ -43654,6 +43895,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -44205,6 +44449,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003366</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb484</idno>
+          
 
           <listBibl>
             
@@ -44216,6 +44463,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -44317,6 +44567,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002118</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb483</idno>
+          
 
           <listBibl>
             
@@ -44325,6 +44578,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -44438,6 +44694,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000254</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb462</idno>
+          
 
           <listBibl>
             
@@ -44449,6 +44708,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -44827,7 +45089,7 @@
           <note type="apis_dates">
             
 
-            <date when-iso="1895-05-18">18.5.1895</date>
+            <date when-iso="1895-05-18">1895-05-18</date>
             
 
           </note>
@@ -45863,6 +46125,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004370</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb263</idno>
+          
 
           <listBibl>
             
@@ -45871,6 +46136,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -46118,6 +46386,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb245.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb245</idno>
+          
 
           <listBibl>
             
@@ -46126,6 +46397,9 @@
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -46330,6 +46604,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003259</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb224</idno>
+          
 
           <listBibl>
             
@@ -46341,6 +46618,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -46442,6 +46722,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004081</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb213</idno>
+          
 
           <listBibl>
             
@@ -46453,6 +46736,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -46849,6 +47135,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005133</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb189</idno>
+          
 
           <listBibl>
             
@@ -46857,6 +47146,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -46973,6 +47265,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003989</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb182</idno>
+          
 
           <listBibl>
             
@@ -46984,6 +47279,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -47106,6 +47404,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004523</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</idno>
+          
 
           <listBibl>
             
@@ -47117,6 +47418,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -47378,6 +47682,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004069</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb146</idno>
+          
 
           <listBibl>
             
@@ -47389,6 +47696,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -47758,7 +48068,7 @@
           <note type="apis_dates">
             
 
-            <date to-iso="1929-05-29">10.12.1847 – 29.5.1929</date>
+            <date to-iso="1929-05-29">1847-12-10 – 1929-05-29</date>
             
 
           </note>
@@ -48515,7 +48825,7 @@
           <note type="apis_dates">
             
 
-            <date when-iso="1893-11-27">27.11.1893</date>
+            <date when-iso="1893-11-27">1893-11-27</date>
             
 
           </note>
@@ -49213,6 +49523,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00085</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</idno>
+          
 
           <listBibl>
             
@@ -49224,6 +49537,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -49762,6 +50078,9 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb30</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30</idno>
+          
 
           <listBibl>
             
@@ -49773,6 +50092,9 @@
             
     
             <bibl type="collections" n="77">SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -49838,11 +50160,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+    
+            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
