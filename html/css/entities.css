@@ -88,25 +88,25 @@
     border: 1px solid var(--entity-border);
     border-radius: .625rem;
     overflow: hidden;
+    flex-shrink: 0;
 }
 .entity-portrait-frame {
     width: 100%;
-    aspect-ratio: 3/4;
-    display: grid;
-    place-items: center;
-    border-bottom: 1px solid var(--entity-border);
-    background:
-        repeating-linear-gradient(45deg,
-            oklch(0.94 0.005 60) 0 8px,
-            oklch(0.97 0.003 60) 8px 16px);
+    /* Entferne oder ändere display: grid, falls es nicht zwingend nötig ist */
+    display: block; 
+    aspect-ratio: 3 / 4;
     overflow: hidden;
+    border-bottom: 1px solid var(--entity-border);
 }
+
 .entity-portrait-frame img {
     width: 100%;
-    height: 100%;
+    min-width: 
+    height: auto; /* Ändere 100% auf auto, damit das Verhältnis gewahrt bleibt */
+    min-height: 100%; /* Stellt sicher, dass der Frame gefüllt wird */
     object-fit: cover;
-    display: block;
 }
+
 .entity-portrait-meta {
     padding: 14px 16px 16px;
 }
@@ -402,6 +402,7 @@
     font-weight: normal;
     margin: 0;
 }
+
 .annotation-toggle .switch {
     position: relative;
     display: inline-block;
@@ -437,6 +438,7 @@
 }
 .annotation-toggle .switch input:checked + .i-slider::before {
     left: 16px;
+    transform: none; /* Add this to stop the extra movement */
 }
 
 /* Mentions-Chart: Kopf mit Legende + Range */
