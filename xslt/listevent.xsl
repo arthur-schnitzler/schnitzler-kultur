@@ -23,8 +23,6 @@
                 </xsl:call-template>
                 <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css"
                     rel="stylesheet"/>
-
-
             </head>
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
@@ -54,8 +52,6 @@
                                         tabulator-formatter="html">Teilnehmer_innen</th>
                                     <th scope="col" tabulator-headerFilter="input"
                                         tabulator-formatter="html">Organisation</th>
-                                    
-                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -79,7 +75,6 @@
                                                 <xsl:value-of select="./tei:eventName[1]/text()"/>
                                             </a>
                                         </td>
-                                        
                                         <td>
                                             <xsl:for-each
                                                 select="tei:listBibl/tei:bibl[not(tei:note[contains(., 'rezensi')]) and normalize-space(tei:title)]">
@@ -118,49 +113,49 @@
                                                 test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' or @role = 'hat mitwirkend']/tei:persName/@key = 'pmb2121'">
                                                 <xsl:text>AS</xsl:text>
                                                 <xsl:if
-                                                    test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' or @role = 'hat mitwirkend'][2]">
-                                                    <xsl:text>; </xsl:text>
+                                                  test="tei:listPerson/tei:person[@role = 'hat als Arbeitskraft' or @role = 'hat mitwirkend'][2]">
+                                                  <xsl:text>; </xsl:text>
                                                 </xsl:if>
                                             </xsl:if>
                                             <xsl:for-each
                                                 select="tei:listPerson/tei:person[(@role = 'hat als Arbeitskraft' or @role = 'hat mitwirkend') and not(tei:persName/@key = 'pmb2121')]">
                                                 <xsl:variable name="name" select="tei:persName"/>
                                                 <xsl:choose>
-                                                    <!-- Wenn genau ein Komma enthalten ist -->
-                                                    <xsl:when
-                                                        test="matches($name, '^[^,]+,\s*[^,]+$')">
-                                                        <xsl:element name="a">
-                                                            <xsl:attribute name="href">
-                                                                <xsl:value-of select="concat($name/@key, '.html')"
-                                                                />
-                                                            </xsl:attribute>
-                                                            <xsl:analyze-string select="$name"
-                                                                regex="^([^,]+),\s*(.+)$">
-                                                                <xsl:matching-substring>
-                                                                    <xsl:value-of select="regex-group(2)"/>
-                                                                    <xsl:text> </xsl:text>
-                                                                    <xsl:value-of select="regex-group(1)"/>
-                                                                </xsl:matching-substring>
-                                                                <xsl:non-matching-substring>
-                                                                    <xsl:value-of select="."/>
-                                                                </xsl:non-matching-substring>
-                                                            </xsl:analyze-string>
-                                                        </xsl:element>
-                                                    </xsl:when>
-                                                    <!-- Wenn kein oder mehr als ein Komma enthalten ist -->
-                                                    <xsl:otherwise>
-                                                        <xsl:element name="a">
-                                                            <xsl:attribute name="href">
-                                                                <xsl:value-of select="concat($name/@key, '.html')"
-                                                                />
-                                                            </xsl:attribute>
-                                                            <xsl:value-of select="$name"/>
-                                                        </xsl:element>
-                                                    </xsl:otherwise>
+                                                  <!-- Wenn genau ein Komma enthalten ist -->
+                                                  <xsl:when
+                                                  test="matches($name, '^[^,]+,\s*[^,]+$')">
+                                                  <xsl:element name="a">
+                                                  <xsl:attribute name="href">
+                                                  <xsl:value-of select="concat($name/@key, '.html')"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <xsl:analyze-string select="$name"
+                                                  regex="^([^,]+),\s*(.+)$">
+                                                  <xsl:matching-substring>
+                                                  <xsl:value-of select="regex-group(2)"/>
+                                                  <xsl:text> </xsl:text>
+                                                  <xsl:value-of select="regex-group(1)"/>
+                                                  </xsl:matching-substring>
+                                                  <xsl:non-matching-substring>
+                                                  <xsl:value-of select="."/>
+                                                  </xsl:non-matching-substring>
+                                                  </xsl:analyze-string>
+                                                  </xsl:element>
+                                                  </xsl:when>
+                                                  <!-- Wenn kein oder mehr als ein Komma enthalten ist -->
+                                                  <xsl:otherwise>
+                                                  <xsl:element name="a">
+                                                  <xsl:attribute name="href">
+                                                  <xsl:value-of select="concat($name/@key, '.html')"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <xsl:value-of select="$name"/>
+                                                  </xsl:element>
+                                                  </xsl:otherwise>
                                                 </xsl:choose>
                                                 <!-- Semikolon nur, wenn nicht letztes Element -->
                                                 <xsl:if test="not(position() = last())">
-                                                    <xsl:text>; </xsl:text>
+                                                  <xsl:text>; </xsl:text>
                                                 </xsl:if>
                                             </xsl:for-each>
                                         </td>
@@ -169,49 +164,49 @@
                                                 test="tei:listPerson/tei:person[@role = 'hat als Teilnehmer:in' or contains(@role, 'teilnehmend')]/tei:persName/@key = 'pmb2121'">
                                                 <xsl:text>AS</xsl:text>
                                                 <xsl:if
-                                                    test="tei:listPerson/tei:person[@role = 'hat als Teilnehmer:in' or contains(@role, 'teilnehmend')][2]">
-                                                    <xsl:text>; </xsl:text>
+                                                  test="tei:listPerson/tei:person[@role = 'hat als Teilnehmer:in' or contains(@role, 'teilnehmend')][2]">
+                                                  <xsl:text>; </xsl:text>
                                                 </xsl:if>
                                             </xsl:if>
                                             <xsl:for-each
                                                 select="tei:listPerson/tei:person[(@role = 'hat als Teilnehmer:in' or contains(@role, 'teilnehmend')) and not(tei:persName/@key = 'pmb2121')]">
                                                 <xsl:variable name="name" select="tei:persName"/>
                                                 <xsl:choose>
-                                                    <!-- Wenn genau ein Komma enthalten ist -->
-                                                    <xsl:when
-                                                        test="matches($name, '^[^,]+,\s*[^,]+$')">
-                                                        <xsl:element name="a">
-                                                            <xsl:attribute name="href">
-                                                                <xsl:value-of select="concat($name/@key, '.html')"
-                                                                />
-                                                            </xsl:attribute>
-                                                            <xsl:analyze-string select="$name"
-                                                                regex="^([^,]+),\s*(.+)$">
-                                                                <xsl:matching-substring>
-                                                                    <xsl:value-of select="regex-group(2)"/>
-                                                                    <xsl:text> </xsl:text>
-                                                                    <xsl:value-of select="regex-group(1)"/>
-                                                                </xsl:matching-substring>
-                                                                <xsl:non-matching-substring>
-                                                                    <xsl:value-of select="."/>
-                                                                </xsl:non-matching-substring>
-                                                            </xsl:analyze-string>
-                                                        </xsl:element>
-                                                    </xsl:when>
-                                                    <!-- Wenn kein oder mehr als ein Komma enthalten ist -->
-                                                    <xsl:otherwise>
-                                                        <xsl:element name="a">
-                                                            <xsl:attribute name="href">
-                                                                <xsl:value-of select="concat($name/@key, '.html')"
-                                                                />
-                                                            </xsl:attribute>
-                                                            <xsl:value-of select="$name"/>
-                                                        </xsl:element>
-                                                    </xsl:otherwise>
+                                                  <!-- Wenn genau ein Komma enthalten ist -->
+                                                  <xsl:when
+                                                  test="matches($name, '^[^,]+,\s*[^,]+$')">
+                                                  <xsl:element name="a">
+                                                  <xsl:attribute name="href">
+                                                  <xsl:value-of select="concat($name/@key, '.html')"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <xsl:analyze-string select="$name"
+                                                  regex="^([^,]+),\s*(.+)$">
+                                                  <xsl:matching-substring>
+                                                  <xsl:value-of select="regex-group(2)"/>
+                                                  <xsl:text> </xsl:text>
+                                                  <xsl:value-of select="regex-group(1)"/>
+                                                  </xsl:matching-substring>
+                                                  <xsl:non-matching-substring>
+                                                  <xsl:value-of select="."/>
+                                                  </xsl:non-matching-substring>
+                                                  </xsl:analyze-string>
+                                                  </xsl:element>
+                                                  </xsl:when>
+                                                  <!-- Wenn kein oder mehr als ein Komma enthalten ist -->
+                                                  <xsl:otherwise>
+                                                  <xsl:element name="a">
+                                                  <xsl:attribute name="href">
+                                                  <xsl:value-of select="concat($name/@key, '.html')"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <xsl:value-of select="$name"/>
+                                                  </xsl:element>
+                                                  </xsl:otherwise>
                                                 </xsl:choose>
                                                 <!-- Semikolon nur, wenn nicht letztes Element -->
                                                 <xsl:if test="not(position() = last())">
-                                                    <xsl:text>; </xsl:text>
+                                                  <xsl:text>; </xsl:text>
                                                 </xsl:if>
                                             </xsl:for-each>
                                         </td>
@@ -230,8 +225,6 @@
                                                 </xsl:if>
                                             </xsl:for-each>
                                         </td>
-                                        
-                                        
                                         <!--<td>
                                             <a>
                                                 <xsl:attribute name="href">
@@ -283,13 +276,7 @@
                         <xsl:call-template name="nav_bar"/>
                         <main class="flex-shrink-0 flex-grow-1">
                             <div class="container">
-                                <xsl:call-template name="event-header-nav">
-                                    <xsl:with-param name="current-id" select="@xml:id"/>
-                                    <xsl:with-param name="all-events" select="//tei:event[@xml:id]"/>
-                                </xsl:call-template>
-                                <xsl:call-template name="event_detail">
-
-                                </xsl:call-template>
+                                <xsl:call-template name="event_detail"/> 
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
@@ -312,7 +299,6 @@
                     <link
                         href="https://unpkg.com/tabulator-tables@6.2.1/dist/css/tabulator_bootstrap5.min.css"
                         rel="stylesheet"/>
-                    
                 </html>
             </xsl:result-document>
         </xsl:for-each>

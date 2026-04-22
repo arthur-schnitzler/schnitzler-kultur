@@ -19,8 +19,7 @@
                 <xsl:with-param name="html_title" select="$doc_title"/>
                 <xsl:with-param name="page_url" select="'listorg.html'"/>
             </xsl:call-template>
-            <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css"
-                rel="stylesheet"/>
+            <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css" rel="stylesheet"/>
             <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
@@ -32,9 +31,8 @@
                                 </h1>
                             </div>
                             <div class="card-body">
-                                
-                                
-                                    <div id="container" class="mb-3" style="max-width:1200px; margin: 0 auto; width: 100%;">
+                                <div id="container" class="mb-3"
+                                    style="max-width:1200px; margin: 0 auto; width: 100%;">
                                     <table class="table table-sm display" id="tabulator-table-org">
                                         <thead>
                                             <tr>
@@ -55,9 +53,11 @@
                                                 </xsl:variable>
                                                 <tr>
                                                   <td>
-                                                      <span hidden="true">
-                                                          <xsl:value-of select="mam:sonderzeichen-entfernen(child::tei:orgName[1]/text())"/>
-                                                      </span>
+                                                  <span hidden="true">
+                                                  <xsl:value-of
+                                                  select="mam:sonderzeichen-entfernen(child::tei:orgName[1]/text())"
+                                                  />
+                                                  </span>
                                                   <a>
                                                   <xsl:attribute name="href">
                                                   <xsl:value-of select="concat($id, '.html')"/>
@@ -67,8 +67,9 @@
                                                   </a>
                                                   </td>
                                                   <td>
-                                                      <xsl:choose>
-                                                          <xsl:when test="child::tei:orgName[@type = 'alternative-name']">
+                                                  <xsl:choose>
+                                                  <xsl:when
+                                                  test="child::tei:orgName[@type = 'alternative-name']">
                                                   <xsl:for-each
                                                   select="child::tei:orgName[@type = 'alternative-name']">
                                                   <xsl:value-of select="."/>
@@ -76,8 +77,8 @@
                                                   <br/>
                                                   </xsl:if>
                                                   </xsl:for-each>
-                                                          </xsl:when>
-                                                      </xsl:choose>
+                                                  </xsl:when>
+                                                  </xsl:choose>
                                                   </td>
                                                   <td>
                                                   <xsl:choose>
@@ -115,9 +116,8 @@
                                             </xsl:for-each>
                                         </tbody>
                                     </table>
-                                
-                                <xsl:call-template name="tabulator_dl_buttons"/>
-                                    </div>
+                                    <xsl:call-template name="tabulator_dl_buttons"/>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -139,20 +139,7 @@
                         <div class="hfeed site" id="page">
                             <xsl:call-template name="nav_bar"/>
                             <div class="container-fluid">
-                                
-                                    
-                                        <h1 align="center">
-                                            <xsl:value-of select="$name"/>
-                                            <xsl:text> </xsl:text>
-                                            <small>
-                                                <xsl:text> (Institution)</xsl:text>
-                                            </small>
-                                        </h1>
-                                    
-                                    <div class="card-body">
-                                        <xsl:call-template name="org_detail"/>
-                                    </div>
-                                
+                                <xsl:call-template name="org_detail"/>
                             </div>
                             <xsl:call-template name="html_footer"/>
                         </div>

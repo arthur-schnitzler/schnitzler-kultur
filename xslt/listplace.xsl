@@ -11,7 +11,8 @@
     <xsl:import href="./partials/entities.xsl"/>
     <xsl:param name="events"
         select="document('../data/editions/listevent.xml')/descendant::tei:listEvent[1]"/>
-    <xsl:key name="event-lookup" match="tei:event" use="tei:listPlace[1]/tei:place/tei:placeName[1]/@key"/>
+    <xsl:key name="event-lookup" match="tei:event"
+        use="tei:listPlace[1]/tei:place/tei:placeName[1]/@key"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title" select="'Erwähnte Orte'"/>
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
@@ -44,41 +45,42 @@
                             <div class="card-body">
                                 <div id="map"/>
                                 <div style="display: flex; justify-content: center;">
-                                <table id="placesTable"
-                                    style="width:100%; margin: auto;">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">Ortsname</th>
-                                            <th scope="col">Zugehörigkeiten</th>
-                                            <th scope="col">Erwähnungen</th>
-                                            <th scope="col">lat</th>
-                                            <th scope="col">lng</th>
-                                            <th scope="col">linkToEntity</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <xsl:for-each select=".//tei:place">
-                                            <xsl:variable name="id">
-                                                <xsl:value-of select="data(@xml:id)"/>
-                                            </xsl:variable>
+                                    <table id="placesTable" style="width:100%; margin: auto;">
+                                        <thead>
                                             <tr>
-                                                <td>
+                                                <th scope="col">Ortsname</th>
+                                                <th scope="col">Zugehörigkeiten</th>
+                                                <th scope="col">Erwähnungen</th>
+                                                <th scope="col">lat</th>
+                                                <th scope="col">lng</th>
+                                                <th scope="col">linkToEntity</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <xsl:for-each select=".//tei:place">
+                                                <xsl:variable name="id">
+                                                  <xsl:value-of select="data(@xml:id)"/>
+                                                </xsl:variable>
+                                                <tr>
+                                                  <td>
                                                   <xsl:value-of
                                                   select="descendant::tei:placeName[1]/text()"/>
-                                                </td>
-                                                <td>
-                                                    <xsl:for-each select="descendant::tei:location[@type='located_in_place']">
-                                                        <xsl:value-of select="tei:placeName[1]"/>
-                                                        <xsl:if test="not(position()=last())">
-                                                            <xsl:text>, </xsl:text>
-                                                        </xsl:if>
-                                                    </xsl:for-each>
-                                                </td>
-                                                <td>
+                                                  </td>
+                                                  <td>
+                                                  <xsl:for-each
+                                                  select="descendant::tei:location[@type = 'located_in_place']">
+                                                  <xsl:value-of select="tei:placeName[1]"/>
+                                                  <xsl:if test="not(position() = last())">
+                                                  <xsl:text>, </xsl:text>
+                                                  </xsl:if>
+                                                  </xsl:for-each>
+                                                  </td>
+                                                  <td>
                                                   <xsl:value-of
-                                                  select="count(key('event-lookup', @xml:id, $events))"/>
-                                                </td>
-                                                <td>
+                                                  select="count(key('event-lookup', @xml:id, $events))"
+                                                  />
+                                                  </td>
+                                                  <td>
                                                   <xsl:choose>
                                                   <xsl:when test="child::tei:location/tei:geo">
                                                   <xsl:value-of
@@ -86,8 +88,8 @@
                                                   />
                                                   </xsl:when>
                                                   </xsl:choose>
-                                                </td>
-                                                <td>
+                                                  </td>
+                                                  <td>
                                                   <xsl:choose>
                                                   <xsl:when test="child::tei:location/tei:geo">
                                                   <xsl:value-of
@@ -95,14 +97,14 @@
                                                   />
                                                   </xsl:when>
                                                   </xsl:choose>
-                                                </td>
-                                                <td>
+                                                  </td>
+                                                  <td>
                                                   <xsl:value-of select="$id"/>
-                                                </td>
-                                            </tr>
-                                        </xsl:for-each>
-                                    </tbody>
-                                </table>
+                                                  </td>
+                                                </tr>
+                                            </xsl:for-each>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -129,16 +131,7 @@
                         <div class="hfeed site" id="page">
                             <xsl:call-template name="nav_bar"/>
                             <div class="container-fluid">
-                                
-                                    
-                                        <h1 align="center">
-                                            <xsl:value-of select="$name"/>
-                                        </h1>
-                                    
-                                    <div >
-                                        <xsl:call-template name="place_detail"/>
-                                    </div>
-                                
+                                <xsl:call-template name="place_detail"/>
                             </div>
                             <xsl:call-template name="html_footer"/>
                         </div>

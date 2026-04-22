@@ -19,20 +19,17 @@
                 <xsl:with-param name="html_title" select="$doc_title"/>
                 <xsl:with-param name="page_url" select="'listbibl.html'"/>
             </xsl:call-template>
-            <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css"
-                rel="stylesheet"/>
+            <link href="vendor/tabulator-tables/css/tabulator_bootstrap5.min.css" rel="stylesheet"/>
             <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     <div class="container">
-                        
-                            
-                                <h1>
-                                    <xsl:value-of select="$doc_title"/>
-                                </h1>
-                            
-                            <div >
-                                <div id="container" class="mb-3" style="max-width:1200px; margin: 0 auto; width: 100%;">
+                        <h1>
+                            <xsl:value-of select="$doc_title"/>
+                        </h1>
+                        <div>
+                            <div id="container" class="mb-3"
+                                style="max-width:1200px; margin: 0 auto; width: 100%;">
                                 <table class="table display" id="tabulator-table-work">
                                     <thead>
                                         <tr>
@@ -164,11 +161,9 @@
                                         </xsl:for-each>
                                     </tbody>
                                 </table>
-                            
                                 <xsl:call-template name="tabulator_dl_buttons"/>
-                                </div>
                             </div>
-                        
+                        </div>
                         <div class="modal" tabindex="-1" role="dialog" id="exampleModal">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -208,16 +203,9 @@
                         <div class="hfeed site" id="page">
                             <xsl:call-template name="nav_bar"/>
                             <div class="container-fluid">
-                                <div class="card">
-                                    <div class="card-header">
-                                        <h1 align="center">
-                                            <xsl:value-of select="$name"/>
-                                        </h1>
-                                    </div>
-                                    <div class="card-body">
-                                        <xsl:call-template name="work_detail"/>
-                                    </div>
-                                </div>
+                                
+                                    <xsl:call-template name="work_detail"/>
+                                
                             </div>
                             <xsl:call-template name="html_footer"/>
                         </div>
