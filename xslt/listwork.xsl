@@ -100,7 +100,7 @@
                                                   <td>
                                                   <a>
                                                   <xsl:attribute name="href">
-                                                  <xsl:value-of select="concat(@ref, '.html')"/>
+                                                  <xsl:value-of select="concat((@ref, @key)[1], '.html')"/>
                                                   </xsl:attribute>
                                                   <xsl:value-of select="."/>
                                                   </a>
@@ -202,10 +202,8 @@
                     <body class="page">
                         <div class="hfeed site" id="page">
                             <xsl:call-template name="nav_bar"/>
-                            <div class="container-fluid">
-                                
-                                    <xsl:call-template name="work_detail"/>
-                                
+                            <div style="max-width: 2000px; margin: 0 auto;">
+                                <xsl:call-template name="work_detail"/>
                             </div>
                             <xsl:call-template name="html_footer"/>
                         </div>
