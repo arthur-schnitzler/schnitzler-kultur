@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-04-10">serialized</change>
+      <change when-iso="2026-05-12">serialized</change>
       
        
     </revisionDesc>
@@ -16941,6 +16941,24 @@
 
           </location>
           
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb361">Bleichenbrücke</placeName>
+            
+  
+            <geo>53,55162 9,98857</geo>
+            
+  
+            <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb361.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/361/</note>
+            
+
+          </location>
+          
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45530/</idno>
           
@@ -16962,11 +16980,17 @@
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45530</idno>
           
+  
+          <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/KS00003934</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="85">S-Fischer</bibl>
+            
+    
+            <bibl type="collections" n="86">DLA-Schnitzler</bibl>
             
 
           </listBibl>
@@ -21909,6 +21933,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb20.html</note>
+            
+  
+            <note type="IDNO" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/KS00004119</note>
             
 
           </location>

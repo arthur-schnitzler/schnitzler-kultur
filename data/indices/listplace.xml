@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-04-10">serialized</change>
+      <change when-iso="2026-05-12">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,64 @@
       
            
       <listPlace>
+        <place xml:id="pmb340669">
+          
+  
+          <placeName>Judenplatz 5</placeName>
+          
+  
+          <desc type="entity_type">Wohngebäude (K.WHS)</desc>
+          
+  
+          <desc type="entity_type_id">36</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,211391 16,3695</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb92312">Judenplatz</placeName>
+            
+  
+            <geo>48,211381 16,369893</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb51">I., Innere Stadt</placeName>
+            
+  
+            <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/340669/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </place>
         <place xml:id="pmb300338">
           
   
@@ -25522,6 +25580,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Michaelerplatz_met_op_de_achtergrond_het_Burgtheater_in_Wenen_Michaelerplatz%28K._k._Hofburg-Theater%29_%28titel_op_object%29%2C_RP-F-F02196.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185553">
           
@@ -26954,6 +27027,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185077.html</idno>
           
+  
+          <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/KS00018046</idno>
+          
 
           <listBibl>
             
@@ -26962,6 +27038,9 @@
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+    
+            <bibl type="collections" n="86">DLA-Schnitzler</bibl>
             
 
           </listBibl>
@@ -47735,6 +47814,9 @@
           <placeName type="legacy-name-merge">Halle a. d. Saale</placeName>
           
   
+          <placeName type="legacy-name-merge">Halle an der Saale</placeName>
+          
+  
           <desc type="entity_type">P.PPL</desc>
           
   
@@ -47808,6 +47890,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000883</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/302348/</idno>
           
 
           <listBibl>
@@ -50591,6 +50676,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb20.html</idno>
           
+  
+          <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/KS00004119</idno>
+          
 
           <listBibl>
             
@@ -50599,6 +50687,9 @@
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+    
+            <bibl type="collections" n="86">DLA-Schnitzler</bibl>
             
 
           </listBibl>
@@ -50942,6 +51033,21 @@
             
 
             <date when-iso="1888-10-11">1888-10-11</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Burgtheater-Wien-M%C3%A4rz-2008.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/>
+              
+  
+            </figure>
             
 
           </note>
