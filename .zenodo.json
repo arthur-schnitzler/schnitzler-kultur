@@ -1,0 +1,31 @@
+{
+  "title": "Arthur Schnitzler: Konzert-, Theater- und Kinobesuche. Quelldaten",
+  "description": "<p>Quelldaten der digitalen Edition zu den Konzert-, Theater-, Kino- und sonstigen kulturellen Besuchen Arthur Schnitzlers.</p><p>Quellcode: <a href=\"https://github.com/arthur-schnitzler/schnitzler-kultur\">github.com/arthur-schnitzler/schnitzler-kultur</a></p>",
+  "creators": [
+    {
+      "name": "Müller, Martin Anton",
+      "affiliation": "Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische Akademie der Wissenschaften",
+      "orcid": "0000-0002-0127-9109"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "keywords": [
+    "Arthur Schnitzler",
+    "Wiener Moderne",
+    "Digital Scholarly Editing",
+    "Digital Humanities",
+    "Kulturleben",
+    "Theater",
+    "Konzert",
+    "Kino",
+    "TEI"
+  ],
+  "communities": [
+    {
+      "identifier": "dh"
+    }
+  ]
+}
