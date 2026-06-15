@@ -17,6 +17,11 @@
         </xsl:variable>
         <div class="container-fluid">
             <div class="card-body-index">
+                <xsl:if test="normalize-space(tei:eventName[1])">
+                    <h1 class="text-center">
+                        <xsl:value-of select="normalize-space(tei:eventName[1])"/>
+                    </h1>
+                </xsl:if>
                 <div id="mentions">
                     <xsl:if test="key('only-relevant-uris', tei:idno/@subtype, $relevant-uris)[1]">
                         <p class="buttonreihe">
@@ -33,6 +38,7 @@
                         </p>
                     </xsl:if>
                 </div>
+                
                 <xsl:variable name="xmlid" select="@xml:id"/>
                 <table class="table entity-table mx-auto" style="max-width=800px">
                     <tbody>
