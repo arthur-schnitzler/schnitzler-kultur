@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2026-04-10">serialized</change>
+          <change when-iso="2026-05-11">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -27297,9 +27297,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb340669">Judenplatz 5</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,211391 16,3695</geo>
                 </location>
             </place>
         </listPlace>
@@ -36548,7 +36548,7 @@
         </listBibl>
         <listPerson>
             <person role="hat mitwirkend">
-                <persName key="pmb17194">Goldschmidt, Camilla</persName>
+                <persName key="pmb17194">Theren, Mila</persName>
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -38894,7 +38894,7 @@
                 <persName key="pmb12504">Reinhardt, Max</persName>
             </person>
             <person role="hat mitwirkend">
-                <persName key="pmb167879">Pichler, Marie</persName>
+                <persName key="pmb22529">Pichler, Maria</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -39225,7 +39225,7 @@
                 <persName key="pmb2420">Schik, Friedrich</persName>
             </person>
             <person role="hat mitwirkend">
-                <persName key="pmb167879">Pichler, Marie</persName>
+                <persName key="pmb22529">Pichler, Maria</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -44442,9 +44442,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
                 <location>
-                    <geo>48,208333 16,373056</geo>
+                    <geo>48,211649 16,374825</geo>
                 </location>
             </place>
         </listPlace>
@@ -78677,7 +78677,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb183980" when-iso="1903-02-19">
-        <eventName n="Private Lesung">Private Lesung von Der einsame Weg, 19.2.1903</eventName>
+        <eventName n="Private Lesung">Private Lesung des Doppelstücks [Der einsame Weg, Professor Bernhardi], 19.2.1903</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183980/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183980.html</idno>
     <listBibl>
@@ -78687,6 +78687,10 @@
         <listBibl>
             <bibl>
                 <title key="pmb29985">Der einsame Weg. Schauspiel in fünf Akten</title>
+                <note type="relation-type">ist Lesung von</note>
+            </bibl>
+            <bibl>
+                <title key="pmb30203">Professor Bernhardi. Komödie in fünf Akten</title>
                 <note type="relation-type">ist Lesung von</note>
             </bibl>
         </listBibl>
@@ -126078,7 +126082,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </place>
         </listPlace>
     </event><event xml:id="pmb183402" when-iso="1917-02-27">
-        <eventName n="Konzert">Gesangskonzert von Olga Schnitzler, 27.2.1917</eventName>
+        <eventName n="Liederkonzert">Gesangskonzert von Olga Schnitzler, Wohltätigkeitsveranstaltung zu Gunsten des Roten Kreuz, 27.2.1917</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -126099,6 +126103,18 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb27368">Wydenbruck, Maria von</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb16956">Gelbard, Margarete</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12231">Metternich-Sándor, Pauline von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb159709">Croy</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -126109,7 +126125,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </place>
         </listPlace>
     </event><event xml:id="pmb183397" when-iso="1917-02-27">
-        <eventName n="Lesung">Lesung von Das Schicksal des Freiherrn von Leisenbohg, 27.2.1917</eventName>
+        <eventName n="Lesung">Lesung von Das Schicksal des Freiherrn von Leisenbohg, Wohltätigkeitsveranstaltung zu Gunsten des Roten Kreuz, 27.2.1917</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -126132,6 +126148,21 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <listPerson>
             <person role="hat mitwirkend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb27368">Wydenbruck, Maria von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb16956">Gelbard, Margarete</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12231">Metternich-Sándor, Pauline von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb159709">Croy</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -143548,6 +143579,9 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <listPerson>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2276">Thayer, Scofield</persName>
             </person>
         </listPerson>
         <listPlace>

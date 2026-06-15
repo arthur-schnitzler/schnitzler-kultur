@@ -7686,7 +7686,7 @@ var calendarData = [
     "name": "Symphoniekonzert, 18.2.1903", "startDate": "1903-02-18", "id": "pmb209282.html", "type": "Sinfoniekonzert"
   },
   {
-    "name": "Private Lesung von Der einsame Weg, 19.2.1903", "startDate": "1903-02-19", "id": "pmb183980.html", "type": "Private Lesung"
+    "name": "Private Lesung des Doppelstücks [Der einsame Weg, Professor Bernhardi], 19.2.1903", "startDate": "1903-02-19", "id": "pmb183980.html", "type": "Private Lesung"
   },
   {
     "name": "Konzert, 20.2.1903", "startDate": "1903-02-20", "id": "pmb209283.html", "type": "Konzert"
@@ -12249,10 +12249,10 @@ var calendarData = [
     "name": "Historischer Zyklus III: Weber–Schubert, 10.2.1917", "startDate": "1917-02-10", "id": "pmb265408.html", "type": "Klavierkonzert"
   },
   {
-    "name": "Gesangskonzert von Olga Schnitzler, 27.2.1917", "startDate": "1917-02-27", "id": "pmb183402.html", "type": "Konzert"
+    "name": "Gesangskonzert von Olga Schnitzler, Wohltätigkeitsveranstaltung zu Gunsten des Roten Kreuz, 27.2.1917", "startDate": "1917-02-27", "id": "pmb183402.html", "type": "Liederkonzert"
   },
   {
-    "name": "Lesung von Das Schicksal des Freiherrn von Leisenbohg, 27.2.1917", "startDate": "1917-02-27", "id": "pmb183397.html", "type": "Lesung"
+    "name": "Lesung von Das Schicksal des Freiherrn von Leisenbohg, Wohltätigkeitsveranstaltung zu Gunsten des Roten Kreuz, 27.2.1917", "startDate": "1917-02-27", "id": "pmb183397.html", "type": "Lesung"
   },
   {
     "name": "Historischer Zyklus: IV. Chopin, 3.3.1917", "startDate": "1917-03-03", "id": "pmb209870.html", "type": "Klavierkonzert"

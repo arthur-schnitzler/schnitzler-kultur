@@ -4827,12 +4827,12 @@
           "Klavierkonzert",
           "Quartett",
           "Konzert",
+          "Liederkonzert",
           "Trio",
           "Tanzaufführung",
           "Ballett",
           "Violinkonzert",
           "Sinfoniekonzert",
-          "Liederkonzert",
           "Philharmonisches Konzert"
         ],
         "datasets": [
@@ -4843,13 +4843,13 @@
               4,
               11,
               5,
-              7,
+              6,
+              6,
               4,
               2,
               1,
               1,
               2,
-              5,
               1
             ]
           }

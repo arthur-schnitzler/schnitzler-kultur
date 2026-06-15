@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-04-10">serialized</change>
+      <change when-iso="2026-05-12">serialized</change>
       
        
     </revisionDesc>
@@ -19278,7 +19278,10 @@
           <title type="main">Der Seestern</title>
           
   
-          <author key="pmb7036" role="hat-geschaffen">Eulenburg, Philipp von</author>
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">Ivar Svenson</title>
+          
+  
+          <author key="pmb7036" role="hat-unter-pseudonym-geschrieben">Eulenburg, Philipp von</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/81394/</idno>
@@ -19289,8 +19292,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81394.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -56333,6 +56345,12 @@
           <title type="werk_namensvariante">Lysistrate</title>
           
   
+          <title type="legacy-name-merge">Lysistrata</title>
+          
+  
+          <title type="legacy-name-merge">Lysistrata</title>
+          
+  
           <author key="pmb13473" role="hat-geschaffen">Aristophanes</author>
           
   
@@ -56351,10 +56369,31 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Lysistrata</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163111/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163111</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77900.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306197/</idno>
+          
+  
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10235653</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="82">Briefedition Wedekind</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -85009,9 +85048,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <title type="legacy-name-merge">Romeo und Julia</title>
-          
-  
-          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
           
   
           <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
