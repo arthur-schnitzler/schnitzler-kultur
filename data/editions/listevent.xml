@@ -12,13 +12,354 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2026-05-11">serialized</change>
+          <change when-iso="2026-06-28">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
         <body>
            <p>Some text here.</p>
-           <listEvent><event xml:id="pmb207357" when-iso="1876-03-15">
+           <listEvent><event xml:id="pmb244741" from-iso="1931-01-20" to-iso="1931-01-19">
+        <eventName n="Probe">Probe von Der Gang zum Weiher (3. und 4. Akt), 20.1.1931</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244741/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244741.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listBibl>
+            <bibl>
+                <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
+                <note type="relation-type">ist Probe von</note>
+            </bibl>
+        </listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+                <location>
+                    <geo>48,210333 16,361139</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb237212" from-iso="1906-01-06" to-iso="1906-01-07">
+        <eventName n="Private Lesung">Private Lesung aus Der Weg ins Freie, 6.–7.1.1906</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237212/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237212.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listBibl>
+            <bibl>
+                <title key="pmb29923">Der Weg ins Freie. Roman</title>
+                <note type="relation-type">ist Lesung von</note>
+            </bibl>
+        </listBibl>
+        <listPerson>
+            <person role="hat mitwirkend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                <location>
+                    <geo>48,2304 16,33472</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb200606" from-iso="1898-02-02" to-iso="1898-02-03">
+        <eventName n="Bankett">Bankett für Max Burckhard, 2.2.1898</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200606/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200606.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb11036">Burckhard, Max Eugen</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10815">Bahr, Hermann</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12816">Speidel, Ludwig</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11524">Gross, Ferdinand</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12602">Saar, Ferdinand von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb28054">Frydmann-Prawy, Marcell von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11447">Glossy, Karl</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2150">Bauer, Julius</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2928">Jauner, Franz von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2164">Gettke, Ernst</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11533">Grünfeld, Alfred</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2157">Ebermann, Leo</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11441">Girardi, Alexander</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2334">Langmann, Philipp</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2868">Kutschera, Victor</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11981">Kramer, Leopold</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11349">Fournier, August</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11941">Klimt, Gustav</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb3261">Fanto, Leonhard</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb153938">Hofmann, Oscar</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11308">Fellner, Richard</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2739">Wittmann, Hugo</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb29">Hotel Sacher</placeName>
+                <location>
+                    <geo>48,203889 16,369444</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb195043" from-iso="1886-02-01" to-iso="1886-02-28">
+        <eventName n="Hausball">Ball bei Louis Moskovicz de Zemplén, Februar 1886</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195043/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195043.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb21638">Moskovicz de Zemplén, Louis</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb234905">Riemergasse 2</placeName>
+                <location>
+                    <geo>48,207905 16,377185</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb195040" from-iso="1886-02-01" to-iso="1886-02-28">
+        <eventName n="Hausball">Ball bei Sigmund Stiassny, Februar 1886</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195040/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195040.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb25524">Stiassny, Sigmund</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb195037" from-iso="1886-02-01" to-iso="1886-02-28">
+        <eventName n="Ball">Redoute, Februar 1886</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195037/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195037.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb195029" from-iso="1886-02-01" to-iso="1886-02-28">
+        <eventName n="Hausball">Hausball bei Bernhard Strisower, Februar 1886</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195029/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195029.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb25673">Strisower, Bernhard</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
+                <location>
+                    <geo>48,216542 16,363548</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb89627" from-iso="1886-03-01" to-iso="1886-03-28">
+        <eventName n="Probe">Probe von Mein Mausi, März 1886</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89627/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89627.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listBibl>
+            <bibl>
+                <title key="pmb80245">Mein Mausi. Lebensbild in 1 Act</title>
+                <note type="relation-type">ist Probe von</note>
+            </bibl>
+        </listBibl>
+        <listPerson>
+            <person role="hat mitwirkend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb18345">Hochsinger, Rosa</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb14634">Brüll, Emil</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
+                <location>
+                    <geo>48,208333 16,373056</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb47517" from-iso="1912-11-17" to-iso="1912-11-18">
+        <eventName n="Bankett">Hauptmann-Bankett der Concordia, 17.11.1912</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb29752">Concordia. Journalisten- und Schriftstellerverein</orgName>
+                </org>
+            </listOrg>
+        </note>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47517/</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47517.html</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47517.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11617">Hauptmann, Gerhart</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb13055">Wassermann, Jakob</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb2167">Salten, Felix</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb7935">Hussarek-Heinlein, Max von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11447">Glossy, Karl</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12948">Thimig, Hugo</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11533">Grünfeld, Alfred</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12556">Rosenbaum, Richard</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb13212">Zweig, Stefan</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10788">Auernheimer, Raoul</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb18651">Hetsey-Holzer, Alice</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12749">Schönherr, Karl</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb20723">Löbl, Emil</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb11441">Girardi, Alexander</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb168900">Österreichischer Ingenieur- und Architektenverein</placeName>
+                <location>
+                    <geo>48,20204 16,36338</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb207357" when-iso="1876-03-15">
         <eventName n="Theateraufführung">Aufführung von Das heiß Eysen; Die ehrlich Bäckin mit ihren drei vermeinten Liebsten; Hanns Wurst, der traurige Küchelbäcker; Die reiche Erbin, 15.3.1876</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207357/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207357.html</idno>
@@ -632,7 +973,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -1517,7 +1858,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -2432,7 +2773,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -3374,7 +3715,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -3568,7 +3909,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -5068,7 +5409,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -6135,7 +6476,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -6929,7 +7270,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -6985,7 +7326,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -7636,7 +7977,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -7898,7 +8239,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -8001,7 +8342,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -8024,7 +8365,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -8084,7 +8425,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -8117,7 +8458,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -8409,7 +8750,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -8909,7 +9250,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -9034,7 +9375,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -9063,7 +9404,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -9103,7 +9444,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -9314,7 +9655,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -9629,7 +9970,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -10407,7 +10748,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -10787,7 +11128,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -10906,7 +11247,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -11181,7 +11522,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -11735,7 +12076,7 @@
                 <persName key="pmb18523">Horn, Paul</persName>
             </person>
             <person role="hat mitwirkend">
-                <persName key="pmb24467">Schosberg, Hermine</persName>
+                <persName key="pmb24467">Wallach, Hermine</persName>
             </person>
             <person role="hat mitwirkend">
                 <persName key="pmb17172">Goldmark, Karl</persName>
@@ -12071,7 +12412,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -12666,7 +13007,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -13422,7 +13763,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -13475,7 +13816,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -13584,7 +13925,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -14500,7 +14841,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -15041,7 +15382,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -15084,7 +15425,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -15186,7 +15527,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -15638,7 +15979,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -15694,7 +16035,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -17175,7 +17516,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -18398,99 +18739,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb195043" when-iso="1886-02-01">
-        <eventName n="Hausball">Ball bei Louis Moskovicz de Zemplén, Februar 1886</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195043/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195043.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb21638">Moskovicz de Zemplén, Louis</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb234905">Riemergasse 2</placeName>
-                <location>
-                    <geo>48,207905 16,377185</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb195040" when-iso="1886-02-01">
-        <eventName n="Hausball">Ball bei Sigmund Stiassny, Februar 1886</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195040/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195040.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb25524">Stiassny, Sigmund</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                <location>
-                    <geo>48,208333 16,373056</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb195037" when-iso="1886-02-01">
-        <eventName n="Ball">Redoute, Februar 1886</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195037/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195037.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                <location>
-                    <geo>48,208333 16,373056</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb195029" when-iso="1886-02-01">
-        <eventName n="Hausball">Hausball bei Bernhard Strisower, Februar 1886</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195029/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195029.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb25673">Strisower, Bernhard</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
-                <location>
-                    <geo>48,216542 16,363548</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb208007" when-iso="1886-02-13">
         <eventName n="Theateraufführung">Aufführung von Die Gipsfigur, 13.2.1886</eventName>
         <note type="listorg">
@@ -18693,39 +18941,6 @@
                 </location>
             </place>
         </listPlace>
-    </event><event xml:id="pmb89627" when-iso="1886-03-01">
-        <eventName n="Probe">Probe von Mein Mausi, März 1886</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89627/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89627.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb80245">Mein Mausi. Lebensbild in 1 Act</title>
-                <note type="relation-type">ist Probe von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat mitwirkend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb18345">Hochsinger, Rosa</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb14634">Brüll, Emil</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
-                <location>
-                    <geo>48,208333 16,373056</geo>
-                </location>
-            </place>
-        </listPlace>
     </event><event xml:id="pmb208015" when-iso="1886-03-02">
         <eventName n="Hausball">Hausball bei Moriz Benedikt, 2.3.1886</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208015/</idno>
@@ -18878,7 +19093,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -20248,7 +20463,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -20271,7 +20486,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -20327,7 +20542,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -20373,7 +20588,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -20645,7 +20860,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -21383,7 +21598,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -22119,7 +22334,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -23909,7 +24124,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -24672,8 +24887,10 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208217/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208217.html</idno>
     <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
+    <note type="references">None </note>
         <listBibl>
             <bibl>
                 <title key="pmb31893">Denise. Schauspiel in vier Akten</title>
@@ -24710,7 +24927,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -26935,7 +27152,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -27184,7 +27401,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -28620,7 +28837,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -28727,7 +28944,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -29090,7 +29307,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -29397,7 +29614,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -29927,7 +30144,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -30784,7 +31001,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -31112,7 +31329,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -31798,7 +32015,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -32046,7 +32263,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -32112,7 +32329,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -34549,7 +34766,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -34576,7 +34793,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -35003,7 +35220,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -36059,7 +36276,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -36230,7 +36447,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -36582,7 +36799,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -36748,7 +36965,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -38342,7 +38559,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -38616,7 +38833,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -38980,7 +39197,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -39000,7 +39217,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -39294,7 +39511,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -39438,7 +39655,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -41156,7 +41373,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -42849,7 +43066,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb81419">Charley’s Tante</title>
+                <title key="pmb353201">Charley’s Tante. Farce in drei Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -45777,7 +45994,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -46190,7 +46407,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -46545,7 +46762,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -46711,7 +46928,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -47144,7 +47361,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -51093,7 +51310,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -51286,7 +51503,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -51342,7 +51559,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -51519,7 +51736,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -51545,7 +51762,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -51572,7 +51789,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -52014,7 +52231,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -52041,7 +52258,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -52607,7 +52824,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -53022,7 +53239,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -55683,7 +55900,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -55737,7 +55954,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -55864,7 +56081,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -55989,7 +56206,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -56264,7 +56481,7 @@
                 <persName key="pmb21050">Markbreiter, Raoul</persName>
             </person>
             <person role="hat mitwirkend">
-                <persName key="pmb18530">Horn, Therese</persName>
+                <persName key="pmb18530">Horn, Risa</persName>
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -56488,7 +56705,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -57289,7 +57506,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -59777,7 +59994,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33085">Ledige Leute</title>
+                <title key="pmb33085">Ledige Leute. Wiener Stück in drei Acten</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -60504,7 +60721,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -61280,7 +61497,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -61516,93 +61733,6 @@
                 <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
                 <location>
                     <geo>48,210333 16,361139</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb200606" when-iso="1898-02-02">
-        <eventName n="Bankett">Bankett für Max Burckhard, 2.2.1898</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200606/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200606.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb11036">Burckhard, Max Eugen</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb10815">Bahr, Hermann</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12816">Speidel, Ludwig</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11524">Gross, Ferdinand</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12602">Saar, Ferdinand von</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb28054">Frydmann-Prawy, Marcell von</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11447">Glossy, Karl</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2150">Bauer, Julius</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2928">Jauner, Franz von</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2164">Gettke, Ernst</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11533">Grünfeld, Alfred</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2157">Ebermann, Leo</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11441">Girardi, Alexander</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2334">Langmann, Philipp</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2868">Kutschera, Victor</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11981">Kramer, Leopold</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11349">Fournier, August</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11941">Klimt, Gustav</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb3261">Fanto, Leonhard</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb153938">Hofmann, Oscar</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11308">Fellner, Richard</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2739">Wittmann, Hugo</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb29">Hotel Sacher</placeName>
-                <location>
-                    <geo>48,203889 16,369444</geo>
                 </location>
             </place>
         </listPlace>
@@ -65118,7 +65248,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -65398,7 +65528,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -65491,7 +65621,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -65968,7 +66098,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -66532,6 +66662,37 @@
                 <placeName role="veranstaltet in" key="pmb118">Carl-Theater</placeName>
                 <location>
                     <geo>48,215 16,384444</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb353320" when-iso="1899-02-26">
+        <eventName n="Hochzeit">Hochzeit von Risa Strisower und Paul Horn, 26.2.1899</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353320/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat mitwirkend">
+                <persName key="pmb18523">Horn, Paul</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb18530">Horn, Risa</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb233016">Stadttempel</placeName>
+                <location>
+                    <geo>48,211649 16,374825</geo>
+                </location>
+            </place>
+            <place>
+                <placeName role="veranstaltet in" key="pmb199530">Kolingasse 13</placeName>
+                <location>
+                    <geo>48,216542 16,363548</geo>
                 </location>
             </place>
         </listPlace>
@@ -69533,7 +69694,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -70824,7 +70985,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -70935,7 +71096,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -71022,7 +71183,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -72712,7 +72873,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -73020,6 +73181,13 @@
         </listPlace>
     </event><event xml:id="pmb143134" when-iso="1901-01-15">
         <eventName n="Theateraufführung">Aufführung von Liebelei, 15.1.1901</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb353245">Schauspielschule Lina Stengel</orgName>
+                </org>
+            </listOrg>
+        </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143134/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143134.html</idno>
     <listBibl>
@@ -73033,7 +73201,7 @@
         </listBibl>
         <listPerson>
             <person role="hat mitwirkend">
-                <persName key="pmb27436">Zehngraf, Louise</persName>
+                <persName key="pmb27436">Arnold, Louise</persName>
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
@@ -73774,7 +73942,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -75087,7 +75255,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -76371,7 +76539,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -77061,7 +77229,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -77990,7 +78158,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -78249,7 +78417,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -78334,7 +78502,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -78707,9 +78875,9 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb40694">Gentzgasse</placeName>
+                <placeName role="veranstaltet in" key="pmb232166">Gentzgasse 110</placeName>
                 <location>
-                    <geo>48,228096 16,337917</geo>
+                    <geo>48,228877 16,335264</geo>
                 </location>
             </place>
         </listPlace>
@@ -80900,7 +81068,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -81056,7 +81224,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -81416,7 +81584,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -81512,7 +81680,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -81564,7 +81732,7 @@
                 <persName key="pmb5096">Kassner, Rudolf</persName>
             </person>
             <person role="hat teilnehmend">
-                <persName key="pmb106469">Thun-Salm, Christiane</persName>
+                <persName key="pmb26046">Thun-Hohenstein-Salm-Reifferscheidt, Christiane von</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -81619,7 +81787,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -81686,7 +81854,7 @@
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -82068,7 +82236,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29841">Der Schlachtenlenker</title>
+                <title key="pmb29841">Der Schlachtenlenker. Komödie in einem Aufzug</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
@@ -82403,7 +82571,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -82523,7 +82691,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -84417,7 +84585,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -84447,7 +84615,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -84702,7 +84870,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -84831,7 +84999,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -84911,7 +85079,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -85263,7 +85431,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -85293,7 +85461,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -85474,7 +85642,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -85501,7 +85669,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -85576,7 +85744,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -85639,7 +85807,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -87345,6 +87513,15 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             <person role="hat mitwirkend">
                 <persName key="pmb2235">Vallentin, Richard</persName>
             </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb18345">Hochsinger, Rosa</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11737">Hofmannsthal, Hugo August von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11718">Hochsinger, Carl</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -87626,7 +87803,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -88118,7 +88295,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -88295,7 +88472,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -88355,7 +88532,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -88542,39 +88719,9 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb237212" when-iso="1906-01-06">
-        <eventName n="Private Lesung">Private Lesung aus Der Weg ins Freie, 6.–7.1.1906</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237212/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237212.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb29923">Der Weg ins Freie. Roman</title>
-                <note type="relation-type">ist Lesung von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat mitwirkend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2173">Schnitzler, Olga</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                <location>
-                    <geo>48,2304 16,33472</geo>
                 </location>
             </place>
         </listPlace>
@@ -88602,7 +88749,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -89729,7 +89876,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -90054,7 +90201,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -91803,7 +91950,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -91853,7 +92000,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -92000,7 +92147,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -92145,7 +92292,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb33085">Ledige Leute</title>
+                <title key="pmb33085">Ledige Leute. Wiener Stück in drei Acten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -92233,7 +92380,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -92283,7 +92430,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -92443,7 +92590,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -92490,7 +92637,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -92513,7 +92660,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -92725,7 +92872,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -92862,7 +93009,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -93265,7 +93412,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -95409,7 +95556,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -97651,7 +97798,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -97904,7 +98051,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -98109,7 +98256,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -98151,7 +98298,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -98178,7 +98325,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -98380,7 +98527,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -98987,7 +99134,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -99089,7 +99236,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -99313,7 +99460,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -99617,7 +99764,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -99749,7 +99896,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -99818,7 +99965,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -101149,7 +101296,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -101323,7 +101470,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -101483,7 +101630,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -101539,7 +101686,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -102114,7 +102261,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -102580,7 +102727,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -102607,7 +102754,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -102752,7 +102899,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -102879,7 +103026,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -104931,7 +105078,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -105179,6 +105326,9 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb2496">Kaufmann, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb18345">Hochsinger, Rosa</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -105843,7 +105993,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -106199,7 +106349,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -106222,7 +106372,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -106267,7 +106417,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -106310,7 +106460,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -106402,7 +106552,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -106630,7 +106780,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -106753,7 +106903,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -107380,6 +107530,9 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             <person role="hat teilnehmend">
                 <persName key="pmb2121">Schnitzler, Arthur</persName>
             </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb2732">Jamrich, Maria Helene</persName>
+            </person>
         </listPerson>
         <listPlace>
             <place>
@@ -107892,7 +108045,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -108383,7 +108536,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -108911,7 +109064,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -109276,7 +109429,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -109431,7 +109584,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -109869,7 +110022,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -110775,7 +110928,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -111173,80 +111326,9 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb47517" when-iso="1912-11-17">
-        <eventName n="Bankett">Hauptmann-Bankett der Concordia, 17.11.1912</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb29752">Concordia. Journalisten- und Schriftstellerverein</orgName>
-                </org>
-            </listOrg>
-        </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47517/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47517.html</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47517.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11617">Hauptmann, Gerhart</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb13055">Wassermann, Jakob</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb2167">Salten, Felix</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb7935">Hussarek-Heinlein, Max von</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11447">Glossy, Karl</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12948">Thimig, Hugo</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11533">Grünfeld, Alfred</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12556">Rosenbaum, Richard</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb13212">Zweig, Stefan</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb10788">Auernheimer, Raoul</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb18651">Hetsey-Holzer, Alice</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12749">Schönherr, Karl</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb20723">Löbl, Emil</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb11441">Girardi, Alexander</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb168900">Österreichischer Ingenieur- und Architektenverein</placeName>
-                <location>
-                    <geo>48,20204 16,36338</geo>
                 </location>
             </place>
         </listPlace>
@@ -111649,7 +111731,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -111682,7 +111764,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -111832,7 +111914,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -111895,7 +111977,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -112934,7 +113016,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb4">Bösendorfer-Saal</placeName>
+                <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
                 </location>
@@ -145794,7 +145876,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 <persName key="pmb24668">Schweinburg, Rosa</persName>
             </person>
             <person role="hat teilnehmend">
-                <persName key="pmb9810">Schweinburg, Erich</persName>
+                <persName key="pmb9810">Schweinburg, Erich Fritz</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -148165,6 +148247,13 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPlace>
     </event><event xml:id="pmb290897" when-iso="1922-10-26">
         <eventName n="Probe">Probe von Der grüne Kakadu, 26.10.1922</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb342822">Deutsches Schauspielhaus Brünn</orgName>
+                </org>
+            </listOrg>
+        </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/290897/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb290897.html</idno>
     <listBibl>
@@ -148192,6 +148281,13 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPlace>
     </event><event xml:id="pmb210184" when-iso="1922-10-26">
         <eventName n="Theateraufführung">Aufführung von Literatur, Die letzten Masken, 26.10.1922</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb342822">Deutsches Schauspielhaus Brünn</orgName>
+                </org>
+            </listOrg>
+        </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210184/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210184.html</idno>
     <listBibl>
@@ -160752,7 +160848,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb81419">Charley’s Tante</title>
+                <title key="pmb353201">Charley’s Tante. Farce in drei Akten</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -162063,7 +162159,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </place>
         </listPlace>
     </event><event xml:id="pmb186139" when-iso="1925-07-05">
-        <eventName n="Theateraufführung">Aufführung von Der Schleier der Pierrette, 5.7.1925</eventName>
+        <eventName n="Theateraufführung">2. Aufführung von Der Schleier der Pierrette, 5.7.1925</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -164499,6 +164595,112 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </location>
             </place>
         </listPlace>
+    </event><event xml:id="pmb353622" when-iso="1926-02-07">
+        <eventName n="Bankett">Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353622/</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat mitwirkend">
+                <persName key="pmb14783">Böss, Gustav</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10886">Bergner, Elisabeth</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12692">Schnitzler, Heinrich</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12899">Sudermann, Hermann</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11246">Elias, Julius</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb8740">Löbe, Paul</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb6333">Bloem, Walter</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11391">Fulda, Ludwig</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10833">Barnowsky, Victor</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb8965">Molo, Walter von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb8214">Klaar, Alfred</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb18721">Jacobs, Monty</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb7000">Engel, Fritz</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12564">Rosner, Karl Peter</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb9661">Schaffner, Jakob</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11910">Kerr, Alfred</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb5684">Zobeltitz, Fedor von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb116776">Frank, Felix</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb14238">Birkenfeld, Günther</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb116101">Sohnrey, Heinrich</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb353646">Waetzoldt, Wilhelm</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11836">Jessner, Leopold</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12968">Trebitsch, Siegfried</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb13163">Wolff, Theodor</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb155056">Petersen, Julius</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb300863">Glasenapp, Kurt Carl von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb353658">no surename provided, Betty</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb6189">Becker, Carl Heinrich</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb353662">Buchhorn, Josef</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb249524">Leibnizstraße 105</placeName>
+                <location>
+                    <geo>52,513542 13,314661</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb183564" when-iso="1926-02-07">
         <eventName n="Lesung">Lesung von Lieutenant Gustl, Fräulein Else, 7.2.1926</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183564/</idno>
@@ -164523,6 +164725,33 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </person>
             <person role="hat mitwirkend">
                 <persName key="pmb10886">Bergner, Elisabeth</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb8965">Molo, Walter von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11391">Fulda, Ludwig</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb24658">Schwarzwald, Eugenie</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb14238">Birkenfeld, Günther</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb15908">Engel, Georg</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2238">Cappellini, Lili</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2774">Michaelis, Dora</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb353656">Flügel, Lucie</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -186262,33 +186491,6 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Probe">Probe von Der Gang zum Weiher (1. und 2. Akt), 19.1.1931</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244737/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244737.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
-                <note type="relation-type">ist Probe von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-                <location>
-                    <geo>48,210333 16,361139</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb244741" when-iso="1931-01-20">
-        <eventName n="Probe">Probe von Der Gang zum Weiher (3. und 4. Akt), 20.1.1931</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244741/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244741.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
