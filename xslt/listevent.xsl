@@ -62,7 +62,17 @@
                                     <xsl:variable name="idhtml" select="concat($id, '.html')"/>
                                     <tr>
                                         <td>
-                                            <xsl:value-of select="@when-iso"/>
+                                            <xsl:choose>
+                                                <xsl:when test="@when-iso">
+                                                    <xsl:value-of select="@when-iso"/>
+                                                </xsl:when>
+                                                <xsl:when test="@from-iso and @to-iso" >
+                                                    <xsl:value-of select="concat(@from-iso, ' – ', @to-iso)"/>
+                                                </xsl:when>
+                                                <xsl:when test="@notBefore-iso and @notAfter-iso" >
+                                                    <xsl:value-of select="concat(@notBefore, ' – ', @notAfter)"/>
+                                                </xsl:when>
+                                            </xsl:choose>
                                         </td>
                                         <td>
                                             <span hidden="hidden">
