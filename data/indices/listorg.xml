@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-05-12">serialized</change>
+      <change when-iso="2026-06-28">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,140 @@
       
            
       <listOrg>
+        <org xml:id="pmb353245">
+          
+  
+          <orgName>Schauspielschule Lina Stengel</orgName>
+          
+  
+          <desc type="entity_type">Schauspielschule</desc>
+          
+  
+          <desc type="entity_type_id">4339</desc>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353245/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </org>
+        <org xml:id="pmb342822">
+          
+  
+          <orgName>Deutsches Schauspielhaus Brünn</orgName>
+          
+  
+          <desc type="entity_type">Theaterunternehmen</desc>
+          
+  
+          <desc type="entity_type_id">1047</desc>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb833">Brünn</placeName>
+            
+  
+            <geo>49,19522 16,60796</geo>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q14960</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb833.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/833/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53320/</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4008456-5</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/3078610/</note>
+            
+  
+            <note type="IDNO" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb833.html</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/Br%C3%BCnn</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261421/</note>
+            
+  
+            <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb833.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb833.html</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb833.html</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00301</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000246</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005616</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004727</note>
+            
+  
+            <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb833</note>
+            
+  
+            <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb833</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.13.3</note>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/342822/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q140003426</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+        </org>
         <org xml:id="pmb336723">
           
   
@@ -229,6 +363,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb182</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.4.4</note>
+            
 
           </location>
           
@@ -335,6 +472,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -419,6 +559,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb41240</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9</note>
             
 
           </location>
@@ -648,6 +791,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -1040,6 +1186,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb652</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.13.1</note>
+            
 
           </location>
           
@@ -1270,6 +1419,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -1458,6 +1610,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -1566,6 +1721,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -1816,6 +1974,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -2019,6 +2180,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -2072,6 +2236,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52.html</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.14</note>
             
 
           </location>
@@ -2431,6 +2598,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -2536,6 +2706,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -2643,6 +2816,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -2748,6 +2924,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -2903,6 +3082,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb872</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.42</note>
             
 
           </location>
@@ -3216,6 +3398,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -3352,6 +3537,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb224</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.3.1</note>
+            
 
           </location>
           
@@ -3475,6 +3663,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -3621,6 +3812,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -3782,6 +3976,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -4096,6 +4293,12 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb677</note>
             
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341101/</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.6</note>
+            
 
           </location>
           
@@ -4281,6 +4484,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -4386,6 +4592,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -4759,6 +4968,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -4880,6 +5092,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -4898,11 +5113,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb234535.html</idno>
           
+  
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/organisations/org.104</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
 
           </listBibl>
@@ -5076,6 +5297,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -5281,6 +5505,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb433</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.10.2</note>
+            
 
           </location>
           
@@ -5458,6 +5685,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -5601,6 +5831,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb182</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.4.4</note>
+            
 
           </location>
           
@@ -5722,6 +5955,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -5812,6 +6048,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb506</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.40</note>
             
 
           </location>
@@ -5925,6 +6164,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -6033,6 +6275,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -6178,6 +6423,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb224</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.3.1</note>
             
 
           </location>
@@ -6373,6 +6621,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -6524,6 +6775,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb41240</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9</note>
             
 
           </location>
@@ -6751,6 +7005,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -6946,6 +7203,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -7051,6 +7311,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -7278,6 +7541,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -7521,6 +7787,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -7784,6 +8053,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -7976,6 +8248,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -8030,6 +8305,9 @@
   
           <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/KS00028779</idno>
           
+  
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/organisations/org.78</idno>
+          
 
           <listBibl>
             
@@ -8038,6 +8316,9 @@
             
     
             <bibl type="collections" n="86">DLA-Schnitzler</bibl>
+            
+    
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
 
           </listBibl>
@@ -8138,6 +8419,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -8245,6 +8529,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -8350,6 +8637,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -8484,6 +8774,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -8601,6 +8894,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52.html</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.14</note>
             
 
           </location>
@@ -8920,6 +9216,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -9184,6 +9483,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -9363,6 +9665,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -9381,11 +9686,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183617.html</idno>
           
+  
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/organisations/org.172</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
 
           </listBibl>
@@ -9486,6 +9797,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -9684,6 +9998,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb1223</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.11.1</note>
+            
 
           </location>
           
@@ -9783,6 +10100,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb854</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.11.9</note>
             
 
           </location>
@@ -9975,6 +10295,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -10127,6 +10450,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -10245,6 +10571,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -10356,6 +10685,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -10556,6 +10888,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb53.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341506/</note>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/12214069/</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.8</note>
             
 
           </location>
@@ -10956,6 +11297,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb652</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.13.1</note>
+            
 
           </location>
           
@@ -11152,6 +11496,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -11425,6 +11772,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -11588,6 +11938,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -11819,6 +12172,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -11973,6 +12329,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb182</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.4.4</note>
+            
 
           </location>
           
@@ -12088,6 +12447,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb182</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.4.4</note>
+            
 
           </location>
           
@@ -12196,6 +12558,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb182</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.4.4</note>
             
 
           </location>
@@ -12432,6 +12797,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -12675,6 +13043,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb146</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.13</note>
+            
 
           </location>
           
@@ -12886,6 +13257,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb182</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.4.4</note>
+            
 
           </location>
           
@@ -13064,6 +13438,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -13112,6 +13489,18 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59.html</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.1</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/352089/</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q2430175</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/10040416-9</note>
+            
 
           </location>
           
@@ -13130,11 +13519,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63157.html</idno>
           
+  
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/organisations/org.184</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+    
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
 
           </listBibl>
@@ -13247,6 +13642,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52.html</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.14</note>
             
 
           </location>
@@ -13389,6 +13787,12 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb677</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341101/</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.6</note>
             
 
           </location>
@@ -13774,6 +14178,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -14055,6 +14462,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb652</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.13.1</note>
+            
 
           </location>
           
@@ -14306,6 +14716,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -14441,6 +14854,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -14663,6 +15079,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb43471</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.14.1</note>
+            
 
           </location>
           
@@ -14805,6 +15224,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -14928,6 +15350,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -15124,6 +15549,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -15430,6 +15858,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -15613,6 +16044,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -15888,6 +16322,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52.html</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.14</note>
             
 
           </location>
@@ -16240,6 +16677,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -16521,6 +16961,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb146</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.13</note>
+            
 
           </location>
           
@@ -16550,6 +16993,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb250841.html</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/organisations/org.265</note>
             
 
           </location>
@@ -16666,6 +17112,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -16768,6 +17217,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb833</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.13.3</note>
             
 
           </location>
@@ -16910,6 +17362,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb506</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.40</note>
             
 
           </location>
@@ -17083,6 +17538,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -17221,6 +17679,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -17653,6 +18114,9 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb68.html</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.15</note>
+            
 
           </location>
           
@@ -17948,6 +18412,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -18285,6 +18752,18 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59.html</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.1</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/352089/</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q2430175</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/10040416-9</note>
+            
 
           </location>
           
@@ -18375,6 +18854,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb58.html</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.7</note>
             
 
           </location>
@@ -18759,6 +19241,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -18861,6 +19346,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb53.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341506/</note>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/12214069/</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.8</note>
             
 
           </location>
@@ -19006,6 +19500,15 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb53.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341506/</note>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/12214069/</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.8</note>
             
 
           </location>
@@ -19161,6 +19664,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -19239,6 +19745,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb54.html</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.12</note>
             
 
           </location>
@@ -19462,6 +19971,9 @@
   
             <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00397</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.11</note>
+            
 
           </location>
           
@@ -19539,6 +20051,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -19667,6 +20182,18 @@
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59.html</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.1</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/352089/</note>
+            
+  
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q2430175</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/10040416-9</note>
+            
 
           </location>
           
@@ -19770,6 +20297,9 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb36914.html</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3.7</note>
+            
 
           </location>
           
@@ -19853,6 +20383,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -19963,6 +20496,15 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb53.html</note>
             
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341506/</note>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/12214069/</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.8</note>
+            
 
           </location>
           
@@ -20044,6 +20586,9 @@
             
   
             <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00397</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.11</note>
             
 
           </location>
@@ -20226,6 +20771,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb652</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.13.1</note>
+            
 
           </location>
           
@@ -20314,6 +20862,9 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb36914.html</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3.7</note>
+            
 
           </location>
           
@@ -20382,6 +20933,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -20519,6 +21073,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -20652,6 +21209,12 @@
   
             <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004707</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3.1</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.8</note>
+            
 
           </location>
           
@@ -20720,6 +21283,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -21206,6 +21772,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -21345,6 +21914,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -21459,6 +22031,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -21584,6 +22159,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -21638,11 +22216,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb36689.html</idno>
           
+  
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/organisations/org.91</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+    
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
 
           </listBibl>
@@ -21886,6 +22470,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -21984,6 +22571,9 @@
             
   
             <note type="IDNO" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00397</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.11</note>
             
 
           </location>
@@ -22156,6 +22746,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -22417,6 +23010,24 @@
           </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/51/Wien_-_Burgtheater.JPG"/>
+            
+
+          </figure>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/5/51/Wien_-_Burgtheater.JPG"/>
+            
+
+          </figure>
+          
+
         </org>
         <org xml:id="pmb35597">
           
@@ -22497,6 +23108,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
             
 
           </location>
@@ -22836,6 +23450,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -22989,6 +23606,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -24822,6 +25442,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -24985,6 +25608,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -25108,6 +25734,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -25372,6 +26001,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb43471</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.14.1</note>
+            
 
           </location>
           
@@ -25540,6 +26172,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -25928,6 +26563,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -26091,6 +26729,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -26181,6 +26822,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb36300</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.1.1</note>
             
 
           </location>
@@ -26284,6 +26928,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -26411,6 +27058,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -26581,6 +27231,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -26701,6 +27354,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -26825,6 +27481,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -26996,6 +27655,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb36300</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.1.1</note>
+            
 
           </location>
           
@@ -27120,6 +27782,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -27231,6 +27896,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb36300</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.1.1</note>
             
 
           </location>
@@ -27523,6 +28191,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb168</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.3</note>
+            
 
           </location>
           
@@ -27658,6 +28329,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
@@ -27898,6 +28572,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -28066,6 +28743,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb484</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.11.6</note>
             
 
           </location>
@@ -28412,6 +29092,9 @@
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
             
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
+            
 
           </location>
           
@@ -28583,6 +29266,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb50</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11</note>
             
 
           </location>
