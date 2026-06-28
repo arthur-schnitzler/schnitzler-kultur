@@ -1965,18 +1965,6 @@ var calendarData = [
     "name": "Kostümfest der Wiener Gesellschafts-Abende »Wiener Walzer«, 30.1.1886", "startDate": "1886-01-30", "id": "pmb208006.html", "type": "Kostümfest"
   },
   {
-    "name": "Ball bei Louis Moskovicz de Zemplén, Februar 1886", "startDate": "1886-02-01", "id": "pmb195043.html", "type": "Hausball"
-  },
-  {
-    "name": "Ball bei Sigmund Stiassny, Februar 1886", "startDate": "1886-02-01", "id": "pmb195040.html", "type": "Hausball"
-  },
-  {
-    "name": "Redoute, Februar 1886", "startDate": "1886-02-01", "id": "pmb195037.html", "type": "Ball"
-  },
-  {
-    "name": "Hausball bei Bernhard Strisower, Februar 1886", "startDate": "1886-02-01", "id": "pmb195029.html", "type": "Hausball"
-  },
-  {
     "name": "Aufführung von Die Gipsfigur, 13.2.1886", "startDate": "1886-02-13", "id": "pmb208007.html", "type": "Theateraufführung"
   },
   {
@@ -1999,9 +1987,6 @@ var calendarData = [
   },
   {
     "name": "Hausball bei Feinberg, 28.2.1886", "startDate": "1886-02-28", "id": "pmb208014.html", "type": "Hausball"
-  },
-  {
-    "name": "Probe von Mein Mausi, März 1886", "startDate": "1886-03-01", "id": "pmb89627.html", "type": "Probe"
   },
   {
     "name": "Hausball bei Moriz Benedikt, 2.3.1886", "startDate": "1886-03-02", "id": "pmb208015.html", "type": "Hausball"
@@ -6099,9 +6084,6 @@ var calendarData = [
     "name": "Aufführung von Adrienne Lecouvreur, 2.2.1898", "startDate": "1898-02-02", "id": "pmb208998.html", "type": "Theateraufführung"
   },
   {
-    "name": "Bankett für Max Burckhard, 2.2.1898", "startDate": "1898-02-02", "id": "pmb200606.html", "type": "Bankett"
-  },
-  {
     "name": "Generalprobe von Freiwild, 3.2.1898", "startDate": "1898-02-03", "id": "pmb200631.html", "type": "Generalprobe"
   },
   {
@@ -6553,6 +6535,9 @@ var calendarData = [
   },
   {
     "name": "Aufführung von Liebesträume, Fiaker 117, 25.2.1899", "startDate": "1899-02-25", "id": "pmb209065.html", "type": "Theateraufführung"
+  },
+  {
+    "name": "Hochzeit von Risa Strisower und Paul Horn, 26.2.1899", "startDate": "1899-02-26", "id": "pmb353320.html", "type": "Hochzeit"
   },
   {
     "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 26.2.1899", "startDate": "1899-02-26", "id": "pmb209066.html", "type": "Philharmonisches Konzert"
@@ -8602,9 +8587,6 @@ var calendarData = [
   },
   {
     "name": "Gesangskonzert von Lula Gmeiner, 5.1.1906", "startDate": "1906-01-05", "id": "pmb209404.html", "type": "Liederkonzert"
-  },
-  {
-    "name": "Private Lesung aus Der Weg ins Freie, 6.–7.1.1906", "startDate": "1906-01-06", "id": "pmb237212.html", "type": "Private Lesung"
   },
   {
     "name": "Klavierkonzert von Moriz Rosenthal, 8.1.1906", "startDate": "1906-01-08", "id": "pmb209405.html", "type": "Klavierkonzert"
@@ -10756,9 +10738,6 @@ var calendarData = [
   },
   {
     "name": "Lieberabend von Elisabeth Gound-Lauterburg, 17.11.1912", "startDate": "1912-11-17", "id": "pmb209659.html", "type": "Liederkonzert"
-  },
-  {
-    "name": "Hauptmann-Bankett der Concordia, 17.11.1912", "startDate": "1912-11-17", "id": "pmb47517.html", "type": "Bankett"
   },
   {
     "name": "Vortrag von Georg Brandes: Goethe und die Zeitalter, 21.11.1912", "startDate": "1912-11-21", "id": "pmb253932.html", "type": "Vortrag"
@@ -15804,7 +15783,7 @@ var calendarData = [
     "name": "Private Lesung von Traumnovelle, 18.6.1925", "startDate": "1925-06-18", "id": "pmb254197.html", "type": "Private Lesung"
   },
   {
-    "name": "Aufführung von Der Schleier der Pierrette, 5.7.1925", "startDate": "1925-07-05", "id": "pmb186139.html", "type": "Theateraufführung"
+    "name": "2. Aufführung von Der Schleier der Pierrette, 5.7.1925", "startDate": "1925-07-05", "id": "pmb186139.html", "type": "Theateraufführung"
   },
   {
     "name": "Filmvorführung, 6.7.1925", "startDate": "1925-07-06", "id": "pmb210758.html", "type": "Filmvorführung"
@@ -16048,6 +16027,9 @@ var calendarData = [
   },
   {
     "name": "Aufführung von Jugend, 6.2.1926", "startDate": "1926-02-06", "id": "pmb249504.html", "type": "Theateraufführung"
+  },
+  {
+    "name": "Empfang und Souper bei Oberbürgermeister Boess, 7.2.1926", "startDate": "1926-02-07", "id": "pmb353622.html", "type": "Bankett"
   },
   {
     "name": "Lesung von Lieutenant Gustl, Fräulein Else, 7.2.1926", "startDate": "1926-02-07", "id": "pmb183564.html", "type": "Lesung"
@@ -18271,9 +18253,6 @@ var calendarData = [
   },
   {
     "name": "Probe von Der Gang zum Weiher (1. und 2. Akt), 19.1.1931", "startDate": "1931-01-19", "id": "pmb244737.html", "type": "Probe"
-  },
-  {
-    "name": "Probe von Der Gang zum Weiher (3. und 4. Akt), 20.1.1931", "startDate": "1931-01-20", "id": "pmb244741.html", "type": "Probe"
   },
   {
     "name": "Aufführung von Bobby weint, Bobby lacht, 21.1.1931", "startDate": "1931-01-21", "id": "pmb244752.html", "type": "Theateraufführung"
