@@ -2426,9 +2426,9 @@
       "labels": [
         "Theater",
         "Musik",
+        "anderes",
         "Privatveranstaltung",
-        "Vortrag",
-        "anderes"
+        "Vortrag"
       ],
       "datasets": [
         {
@@ -2436,9 +2436,9 @@
           "data": [
             95,
             17,
+            21,
             3,
-            11,
-            20
+            11
           ]
         }
       ]
@@ -2488,6 +2488,21 @@
           }
         ]
       },
+      "anderes": {
+        "labels": [
+          "Bankett",
+          "Museumsbesuch"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'anderes' im Jahr 1898",
+            "data": [
+              1,
+              20
+            ]
+          }
+        ]
+      },
       "Privatveranstaltung": {
         "labels": [
           "Ball",
@@ -2514,19 +2529,6 @@
             "data": [
               1,
               10
-            ]
-          }
-        ]
-      },
-      "anderes": {
-        "labels": [
-          "Museumsbesuch"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'anderes' im Jahr 1898",
-            "data": [
-              20
             ]
           }
         ]
@@ -3401,7 +3403,7 @@
           "data": [
             50,
             34,
-            3,
+            4,
             14,
             24
           ]
@@ -3467,15 +3469,15 @@
       },
       "Vortrag": {
         "labels": [
-          "Lesung",
-          "Private Lesung"
+          "Private Lesung",
+          "Lesung"
         ],
         "datasets": [
           {
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1906",
             "data": [
               2,
-              1
+              2
             ]
           }
         ]
@@ -4155,7 +4157,7 @@
             50,
             22,
             7,
-            5,
+            6,
             1
           ]
         }
@@ -4249,14 +4251,16 @@
       "anderes": {
         "labels": [
           "Ausstellungsbesuch",
-          "Museumsbesuch"
+          "Museumsbesuch",
+          "Bankett"
         ],
         "datasets": [
           {
             "label": "Verteilung innerhalb von 'anderes' im Jahr 1912",
             "data": [
               3,
-              2
+              2,
+              1
             ]
           }
         ]
@@ -6642,7 +6646,7 @@
             69,
             4,
             15,
-            40,
+            41,
             4,
             12
           ]
@@ -6716,7 +6720,7 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1931",
             "data": [
-              13,
+              14,
               20,
               2,
               2,

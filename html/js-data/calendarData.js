@@ -6084,6 +6084,9 @@ var calendarData = [
     "name": "Aufführung von Adrienne Lecouvreur, 2.2.1898", "startDate": "1898-02-02", "id": "pmb208998.html", "type": "Theateraufführung"
   },
   {
+    "name": "Bankett für Max Burckhard, 2.2.1898", "startDate": "1898-02-02", "id": "pmb200606.html", "type": "Bankett"
+  },
+  {
     "name": "Generalprobe von Freiwild, 3.2.1898", "startDate": "1898-02-03", "id": "pmb200631.html", "type": "Generalprobe"
   },
   {
@@ -8589,6 +8592,9 @@ var calendarData = [
     "name": "Gesangskonzert von Lula Gmeiner, 5.1.1906", "startDate": "1906-01-05", "id": "pmb209404.html", "type": "Liederkonzert"
   },
   {
+    "name": "Private Lesung aus Der Weg ins Freie, 6.1.1906", "startDate": "1906-01-06", "id": "pmb237212.html", "type": "Private Lesung"
+  },
+  {
     "name": "Klavierkonzert von Moriz Rosenthal, 8.1.1906", "startDate": "1906-01-08", "id": "pmb209405.html", "type": "Klavierkonzert"
   },
   {
@@ -10738,6 +10744,9 @@ var calendarData = [
   },
   {
     "name": "Lieberabend von Elisabeth Gound-Lauterburg, 17.11.1912", "startDate": "1912-11-17", "id": "pmb209659.html", "type": "Liederkonzert"
+  },
+  {
+    "name": "Hauptmann-Bankett der Concordia, 17.11.1912", "startDate": "1912-11-17", "id": "pmb47517.html", "type": "Bankett"
   },
   {
     "name": "Vortrag von Georg Brandes: Goethe und die Zeitalter, 21.11.1912", "startDate": "1912-11-21", "id": "pmb253932.html", "type": "Vortrag"
@@ -18253,6 +18262,9 @@ var calendarData = [
   },
   {
     "name": "Probe von Der Gang zum Weiher (1. und 2. Akt), 19.1.1931", "startDate": "1931-01-19", "id": "pmb244737.html", "type": "Probe"
+  },
+  {
+    "name": "Probe von Der Gang zum Weiher [3. und 4. Akt], 20.1.1931", "startDate": "1931-01-20", "id": "pmb244741.html", "type": "Probe"
   },
   {
     "name": "Aufführung von Bobby weint, Bobby lacht, 21.1.1931", "startDate": "1931-01-21", "id": "pmb244752.html", "type": "Theateraufführung"
