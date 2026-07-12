@@ -85,3 +85,139 @@ a:focus {
     outline: 0;
     box-shadow: 0 0 0 .25rem rgba(138, 46, 53, .25);
 }
+
+/* =========================================================
+   Header / Hauptnavigation
+   ========================================================= */
+
+.site-header {
+    position: sticky;
+    top: 0;
+    z-index: 1030;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+}
+
+/* Altlasten aus style.css neutralisieren */
+.site-header .navbar {
+    background: var(--bg);
+    border-bottom: none;
+    box-shadow: none;
+    display: flex;
+    font-size: 1rem;
+    min-height: 64px;
+    padding: 0;
+}
+
+.site-header .navbar .container-fluid {
+    max-width: 1200px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+/* Wortmarke */
+.brand-wordmark {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    text-decoration: none;
+}
+
+.brand-name {
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--ink);
+    line-height: 1;
+}
+
+.brand-sub {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--accent);
+    line-height: 1;
+}
+
+.brand-wordmark:hover .brand-name {
+    color: var(--accent-dark);
+}
+
+/* Navigationslinks */
+.site-nav .nav-link {
+    color: var(--ink);
+    font-size: 15px;
+    padding: 0.5rem 0.75rem;
+}
+
+.site-nav .nav-link:hover,
+.site-nav .nav-link:focus {
+    color: var(--accent-dark);
+}
+
+.site-nav .dropdown-menu {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    box-shadow: 0 6px 24px rgba(33, 30, 28, 0.08);
+}
+
+.site-nav .dropdown-item {
+    color: var(--ink);
+}
+
+.site-nav .dropdown-item:hover,
+.site-nav .dropdown-item:focus {
+    color: var(--accent-dark);
+    background-color: var(--surface-2);
+}
+
+/* Such-Pill */
+.search-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 6px 16px;
+    margin-left: 12px;
+    font-size: 14px;
+    color: var(--ink-muted);
+    background: var(--surface);
+}
+
+.search-pill:hover,
+.search-pill:focus {
+    color: var(--accent-dark);
+    border-color: var(--accent);
+    text-decoration: none;
+}
+
+@media (max-width: 991.98px) {
+    .site-header .navbar {
+        padding: 8px 0;
+    }
+
+    .site-header .navbar .container-fluid {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .search-pill {
+        margin-left: 0;
+        margin-top: 8px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    /* Wortmarke stapeln, damit der Menü-Button daneben Platz hat */
+    .brand-wordmark {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 3px;
+    }
+
+    .brand-sub {
+        font-size: 11px;
+    }
+}
