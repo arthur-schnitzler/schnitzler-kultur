@@ -4,7 +4,8 @@
     
     
     <xsl:template match="/" name="tabulator_dl_buttons">
-        <h4>Tabelle laden</h4>
+        <div class="dl-section">
+        <h2 class="event-section-title">Tabelle laden</h2>
         <div class="button-group">
             <button type="button" class="btn btn-outline-secondary" id="download-csv"
                 title="Download CSV">
@@ -33,6 +34,7 @@
                 table.download("html", "daten.html", {style: true});
                 });
             </script>
+        </div>
         </div>
     </xsl:template>
 </xsl:stylesheet>
