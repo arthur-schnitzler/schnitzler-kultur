@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-06-28">serialized</change>
+      <change when-iso="2026-07-11">serialized</change>
       
        
     </revisionDesc>
@@ -137,6 +137,9 @@
             
 
           </location>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300338.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300338/</idno>
@@ -2682,6 +2685,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294370.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb294370.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333689/</idno>
           
 
@@ -3288,10 +3294,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb292772.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb292772.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb292772.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb292772.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb292772.html</idno>
           
 
           <listBibl>
@@ -5283,13 +5289,25 @@
         <place xml:id="pmb265477">
           
   
-          <placeName>[Vortragssaal Politiken]</placeName>
+          <placeName>Politikens Hus</placeName>
           
   
-          <desc type="entity_type">Saal</desc>
+          <placeName type="legacy-name-merge">Politikens Hus</placeName>
           
   
-          <desc type="entity_type_id">4373</desc>
+          <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
+          
+  
+          <desc type="entity_type_id">5</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>55,6769 12,5685</geo>
+            
+
+          </location>
           
 
           <location type="located_in_place">
@@ -5304,6 +5322,12 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353713/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q97444113</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/265477/</idno>
           
   
@@ -5314,6 +5338,9 @@
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -11758,6 +11785,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235784.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb235784.html</idno>
+          
 
           <listBibl>
             
@@ -11972,10 +12002,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb235251.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb235251.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235251.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235251.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb235251.html</idno>
           
 
           <listBibl>
@@ -13530,6 +13560,9 @@
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb232166.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb232166.html</idno>
+          
 
           <listBibl>
             
@@ -14373,6 +14406,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb211373.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb211373.html</idno>
           
 
           <listBibl>
@@ -15500,6 +15536,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb199854.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb199854.html</idno>
           
 
           <listBibl>
@@ -17147,6 +17186,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190818.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb190818.html</idno>
+          
 
           <listBibl>
             
@@ -18634,10 +18676,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb190636.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb190636.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190636.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190636.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb190636.html</idno>
           
 
           <listBibl>
@@ -18938,6 +18980,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190590.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb190590.html</idno>
           
 
           <listBibl>
@@ -21538,6 +21583,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190427.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb190427.html</idno>
+          
 
           <listBibl>
             
@@ -21793,6 +21841,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186222.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb186222.html</idno>
           
 
           <listBibl>
@@ -25672,10 +25723,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb185621.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb185621.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185621.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185621.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb185621.html</idno>
           
 
           <listBibl>
@@ -29006,6 +29057,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182751.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb182751.html</idno>
+          
 
           <listBibl>
             
@@ -29071,10 +29125,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb182710.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb182710.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182710.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182710.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb182710.html</idno>
           
 
           <listBibl>
@@ -29460,10 +29514,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168940.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168940.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168940.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168940.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168940.html</idno>
           
 
           <listBibl>
@@ -29530,10 +29584,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168934.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168934.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168934.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168934.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168934.html</idno>
           
 
           <listBibl>
@@ -29603,10 +29657,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168900.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168900.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168900.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168900.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168900.html</idno>
           
 
           <listBibl>
@@ -29694,10 +29748,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168815.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168815.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168815.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168815.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168815.html</idno>
           
 
           <listBibl>
@@ -29776,10 +29830,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168765.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168765.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168765.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168765.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168765.html</idno>
           
 
           <listBibl>
@@ -30223,10 +30277,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb167805.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb167805.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb167805.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb167805.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb167805.html</idno>
           
 
           <listBibl>
@@ -30291,6 +30345,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb167782.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb167782.html</idno>
           
 
           <listBibl>
@@ -30375,10 +30432,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb148394.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb148394.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb148394.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb148394.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb148394.html</idno>
           
 
           <listBibl>
@@ -30445,10 +30502,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%B6nigliches_Dramatisches_Theater</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147893.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147893.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147893.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147893.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1140265</idno>
@@ -30524,10 +30581,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb147771.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147771.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147771.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147771.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147771.html</idno>
           
 
           <listBibl>
@@ -30603,10 +30660,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb147768.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147768.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147768.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147768.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147768.html</idno>
           
 
           <listBibl>
@@ -30676,10 +30733,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb146893.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146893.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb146893.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb146893.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146893.html</idno>
           
 
           <listBibl>
@@ -30752,10 +30809,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb145860.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145860.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145860.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145860.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145860.html</idno>
           
 
           <listBibl>
@@ -30843,10 +30900,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb145351.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145351.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145351.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145351.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145351.html</idno>
           
 
           <listBibl>
@@ -30910,10 +30967,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb145165.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145165.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145165.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145165.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145165.html</idno>
           
 
           <listBibl>
@@ -30977,10 +31034,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb143138.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143138.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143138.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143138.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143138.html</idno>
           
 
           <listBibl>
@@ -31126,10 +31183,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb142545.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142545.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142545.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142545.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142545.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb142545</idno>
@@ -31263,10 +31320,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb118612.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118612.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118612.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118612.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118612.html</idno>
           
 
           <listBibl>
@@ -31321,10 +31378,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb118474.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118474.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118474.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118474.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118474.html</idno>
           
 
           <listBibl>
@@ -31397,10 +31454,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb118440.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118440.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118440.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118440.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118440.html</idno>
           
 
           <listBibl>
@@ -31462,6 +31519,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93533.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93533.html</idno>
           
 
           <listBibl>
@@ -32315,10 +32375,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92337.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92337.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb92337.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb92337.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92337.html</idno>
           
 
           <listBibl>
@@ -32560,6 +32620,9 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92180.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92180.html</idno>
           
 
           <listBibl>
@@ -32947,6 +33010,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb90188.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb90188.html</idno>
+          
 
           <listBibl>
             
@@ -33086,6 +33152,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb60854.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb60854.html</idno>
           
 
           <listBibl>
@@ -33285,9 +33354,6 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb58810.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb58810.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb58810.html</idno>
           
   
@@ -33295,6 +33361,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003156</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb58810.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb58810</idno>
@@ -33759,10 +33828,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb52023.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52023.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52023.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52023.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52023.html</idno>
           
 
           <listBibl>
@@ -33981,10 +34050,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb50785.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50785.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50785.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50785.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50785.html</idno>
           
 
           <listBibl>
@@ -34179,10 +34248,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb47660.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47660.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47660.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47660.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47660.html</idno>
           
 
           <listBibl>
@@ -34255,9 +34324,6 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb47414.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47414.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47414.html</idno>
           
   
@@ -34268,6 +34334,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005207</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47414.html</idno>
           
 
           <listBibl>
@@ -34355,10 +34424,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb45260.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45260.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45260.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45260.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45260.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45260</idno>
@@ -34497,9 +34566,6 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb45258.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45258.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45258.html</idno>
           
   
@@ -34510,6 +34576,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45258.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45258</idno>
@@ -34594,10 +34663,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb45229.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45229.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45229.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45229.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45229.html</idno>
           
 
           <listBibl>
@@ -34679,10 +34748,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb45128.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45128.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45128.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45128.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45128.html</idno>
           
 
           <listBibl>
@@ -34767,10 +34836,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44649.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44649.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44649.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44649.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44649.html</idno>
           
 
           <listBibl>
@@ -34826,6 +34895,18 @@
             
   
             <geo>46,49937 9,84327</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb353736">Oberengadin</placeName>
+            
+  
+            <geo>46,502411734561655 9,86105664321974</geo>
             
 
           </location>
@@ -34891,13 +34972,13 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44374.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44374.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44374.html</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004914</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44374.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44374</idno>
@@ -35009,13 +35090,13 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44303.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44303.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44303.html</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003600</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44303.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44303</idno>
@@ -35106,13 +35187,13 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44248.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44248.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44248.html</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004368</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44248.html</idno>
           
 
           <listBibl>
@@ -35218,9 +35299,6 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44176.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44176.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44176.html</idno>
           
   
@@ -35231,6 +35309,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001457</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44176.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44176</idno>
@@ -35342,9 +35423,6 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44172.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44172.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44172.html</idno>
           
   
@@ -35355,6 +35433,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004684</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44172.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44172</idno>
@@ -35475,13 +35556,13 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44153.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44153.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44153.html</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001452</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44153.html</idno>
           
 
           <listBibl>
@@ -35581,10 +35662,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb43528.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43528.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43528.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43528.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43528.html</idno>
           
 
           <listBibl>
@@ -35687,9 +35768,6 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb43520.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43520.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43520.html</idno>
           
   
@@ -35697,6 +35775,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003126</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43520.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb43520</idno>
@@ -35775,10 +35856,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb43280.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43280.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43280.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43280.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43280.html</idno>
           
 
           <listBibl>
@@ -35909,10 +35990,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb42626.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42626.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42626.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42626.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42626.html</idno>
           
 
           <listBibl>
@@ -35979,10 +36060,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb41949.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41949.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41949.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41949.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41949.html</idno>
           
 
           <listBibl>
@@ -36052,10 +36133,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb41376.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41376.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41376.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41376.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41376.html</idno>
           
 
           <listBibl>
@@ -36122,10 +36203,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40992.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40992.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40992.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40992.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40992.html</idno>
           
 
           <listBibl>
@@ -36201,10 +36282,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40757.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40757.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40757.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40757.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40757.html</idno>
           
 
           <listBibl>
@@ -36283,10 +36364,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40725.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40725.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40725.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40725.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40725.html</idno>
           
 
           <listBibl>
@@ -36389,10 +36470,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40297.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40297.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40297.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40297.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40297.html</idno>
           
 
           <listBibl>
@@ -36474,9 +36555,6 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40260.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40260.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40260.html</idno>
           
   
@@ -36484,6 +36562,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001753</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40260.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb40260</idno>
@@ -36559,10 +36640,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb39678.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39678.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb39678.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb39678.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39678.html</idno>
           
 
           <listBibl>
@@ -36653,9 +36734,6 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb39615.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39615.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb39615.html</idno>
           
   
@@ -36663,6 +36741,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001001</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39615.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb39615</idno>
@@ -36768,6 +36849,9 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb38096.html</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3194097/</idno>
           
   
@@ -36784,9 +36868,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb38096.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb38096.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb38096.html</idno>
@@ -36883,6 +36964,9 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1748</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb36300.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb36300.html</idno>
           
   
@@ -36914,9 +36998,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb36300.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb36300.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb36300.html</idno>
@@ -37089,6 +37170,9 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34401.html</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/7872434/</idno>
           
   
@@ -37117,9 +37201,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb34401.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34401.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb34401.html</idno>
@@ -37183,13 +37264,13 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34399.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34399/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb34399.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34399.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb34399.html</idno>
@@ -37259,13 +37340,13 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34392.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34392/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb34392.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34392.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb34392.html</idno>
@@ -37317,6 +37398,9 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34213.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34213/</idno>
           
   
@@ -37327,9 +37411,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb34213.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34213.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb34213.html</idno>
@@ -37405,6 +37486,9 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Schloss_Sch%C3%B6nbrunn</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb21799.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/146436/</idno>
           
   
@@ -37412,9 +37496,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb21799.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb21799.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb21799.html</idno>
@@ -37493,10 +37574,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb12589.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb12589.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb12589.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb12589.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb12589.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb12589.html</idno>
@@ -37578,6 +37659,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb5862.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb5862.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb5862.html</idno>
           
   
@@ -37585,9 +37669,6 @@
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Monte-Carlo</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb5862.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb5862.html</idno>
@@ -37669,10 +37750,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2318/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb2318.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2318.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2318.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb2318.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2318.html</idno>
@@ -37745,10 +37826,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1282/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1282.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1282.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1282.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1282.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1282.html</idno>
@@ -37809,10 +37890,10 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=29243</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1273.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1273.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1273.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1273.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1273.html</idno>
@@ -37894,10 +37975,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1223.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1223.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1223.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1223.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1223.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1223.html</idno>
@@ -38000,10 +38081,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1211/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1211.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1211.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1211.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1211.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1211.html</idno>
@@ -38091,6 +38172,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1209/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1209.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1703110</idno>
           
   
@@ -38101,9 +38185,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1209.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1209.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1209.html</idno>
@@ -38176,6 +38257,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1180/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1180.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q46632319</idno>
           
   
@@ -38183,9 +38267,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1180.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1180.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1180.html</idno>
@@ -38252,6 +38333,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1179/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1179.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1813027</idno>
           
   
@@ -38259,9 +38343,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1179.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1179.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1179.html</idno>
@@ -38316,10 +38397,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1164/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1164.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1164.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1164.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1164.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1164.html</idno>
@@ -38383,10 +38464,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Kongresshaus_Z%C3%BCrich</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1134.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1134.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1134.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1134.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1134.html</idno>
@@ -38480,6 +38561,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1119.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/152193/</idno>
           
   
@@ -38487,9 +38571,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1119.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1119.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1119.html</idno>
@@ -38580,13 +38661,13 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Det_Kongelige_Teater</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1079.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb1079.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1079.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1079.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1079.html</idno>
@@ -39264,10 +39345,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1013/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1013.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1013.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1013.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1013.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1013.html</idno>
@@ -39346,10 +39427,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb988.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb988.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb988.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb988.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb988.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb988.html</idno>
@@ -39425,10 +39506,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Uffizien</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb970.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb970.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb970.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb970.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb970.html</idno>
@@ -39513,10 +39594,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb968.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb968.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb968.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb968.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb968.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb968.html</idno>
@@ -39622,10 +39703,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb967.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb967.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb967.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb967.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb967.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb967.html</idno>
@@ -39746,10 +39827,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb959.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb959.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb959.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb959.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb959.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb959.html</idno>
@@ -39816,10 +39897,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb958.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb958.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb958.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb958.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb958.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb958.html</idno>
@@ -39925,10 +40006,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb955.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb955.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb955.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb955.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb955.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb955.html</idno>
@@ -40022,10 +40103,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb946.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb946.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb946.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb946.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb946.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb946.html</idno>
@@ -40131,13 +40212,13 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ostende</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb911.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q12996</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb911.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb911.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb911.html</idno>
@@ -40222,10 +40303,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb886.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb886.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb886.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb886.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb886.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb886.html</idno>
@@ -40352,13 +40433,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb883.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb883.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb883.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb883.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb883.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb883.html</idno>
@@ -40485,10 +40566,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb874.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb874.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb874.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb874.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb874.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb874.html</idno>
@@ -40603,13 +40684,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb864.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb864.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb864.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb864.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb864.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb864.html</idno>
@@ -40751,13 +40832,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb842.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb842.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb842.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb842.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb842.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb842.html</idno>
@@ -40993,13 +41074,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb833.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261421/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb833.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb833.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb833.html</idno>
@@ -41102,13 +41183,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/830/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb830.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb830.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb830.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb830.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb830.html</idno>
@@ -41172,10 +41253,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/828/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb828.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb828.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb828.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb828.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb828.html</idno>
@@ -41240,6 +41321,9 @@
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Od%C3%A9on_%E2%80%93_Th%C3%A9%C3%A2tre_de_l%E2%80%99Europe</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb792.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb792.html</idno>
@@ -41330,10 +41414,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Schauspielhaus_(Berlin)</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb784.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb784.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb784.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb784.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb784.html</idno>
@@ -41427,10 +41511,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb772.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb772.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb772.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb772.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb772.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb772.html</idno>
@@ -41536,10 +41620,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Freie_Volksb%C3%BChne_Berlin</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb739.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb739.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb739.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb739.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb739.html</idno>
@@ -41594,10 +41678,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/738/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb738.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb738.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb738.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb738.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb738.html</idno>
@@ -41661,10 +41745,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/730/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb730.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb730.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb730.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb730.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb730.html</idno>
@@ -41722,10 +41806,10 @@
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb720.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb720.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb720.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb720.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb720.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb720.html</idno>
@@ -41801,10 +41885,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb717.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb717.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb717.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb717.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb717.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb717.html</idno>
@@ -41862,10 +41946,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/715/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb715.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb715.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb715.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb715.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb715.html</idno>
@@ -41935,13 +42019,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/714/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb714.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q132938395</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb714.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb714.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb714.html</idno>
@@ -42072,10 +42156,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/700/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb700.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb700.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb700.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb700.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb700.html</idno>
@@ -42224,10 +42308,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/692/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb692.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb692.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb692.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb692.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb692.html</idno>
@@ -42415,10 +42499,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb677.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb677.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb677.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb677.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb677.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb677.html</idno>
@@ -42579,10 +42663,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb665.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb665.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb665.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb665.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb665.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb665.html</idno>
@@ -42703,10 +42787,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb662.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb662.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb662.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb662.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb662.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb662.html</idno>
@@ -42857,10 +42941,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb652.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb652.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb652.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb652.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb652.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb652.html</idno>
@@ -42936,10 +43020,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/645/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb645.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb645.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb645.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb645.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb645.html</idno>
@@ -42994,10 +43078,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/635/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb635.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb635.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb635.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb635.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb635.html</idno>
@@ -43094,6 +43178,9 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb633.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb633.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43303/</idno>
           
   
@@ -43101,9 +43188,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb633.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb633.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb633.html</idno>
@@ -43243,6 +43327,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/612/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb612.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2292251</idno>
           
   
@@ -43334,10 +43421,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Volkshochschule_Ottakring</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb599.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb599.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb599.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb599.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb599.html</idno>
@@ -43577,10 +43664,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Adriatisches_Meer</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb568.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb568.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb568.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb568.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb568.html</idno>
@@ -43662,10 +43749,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb567.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb567.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb567.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb567.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb567.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb567.html</idno>
@@ -43738,10 +43825,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/563/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb563.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb563.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb563.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb563.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb563.html</idno>
@@ -43811,10 +43898,10 @@
           <idno type="URL" subtype="geonames">https://www.geonames.org/6954124</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb554.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb554.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb554.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb554.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb554.html</idno>
@@ -43899,10 +43986,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb542.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb542.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb542.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb542.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb542.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb542.html</idno>
@@ -44009,13 +44096,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/525/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb525.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb525.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb525.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb525.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb525.html</idno>
@@ -44106,10 +44193,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb521.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb521.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb521.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb521.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb521.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb521.html</idno>
@@ -44230,6 +44317,9 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2033589-1</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb520.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q113470466</idno>
           
   
@@ -44240,9 +44330,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb520.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb520.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb520.html</idno>
@@ -44306,10 +44393,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/517/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb516.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb516.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb516.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb516.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb516.html</idno>
@@ -44370,10 +44457,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Alte_Pinakothek</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb511.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb511.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb511.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb511.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb511.html</idno>
@@ -44431,6 +44518,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb497.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/194975/</idno>
           
   
@@ -44444,9 +44534,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb497.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb497.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb497.html</idno>
@@ -44580,10 +44667,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hotel_Vier_Jahreszeiten_(M%C3%BCnchen)</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb485.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb485.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb485.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb485.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb485.html</idno>
@@ -44671,13 +44758,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb484.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb484.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb484.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb484.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb484.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb484.html</idno>
@@ -44801,13 +44888,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb483.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb483.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb483.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb483.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb483.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb483.html</idno>
@@ -44925,10 +45012,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb462.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb462.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb462.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb462.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb462.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb462.html</idno>
@@ -45025,10 +45112,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb446.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb446.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb446.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb446.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb446.html</idno>
@@ -45107,10 +45194,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Deutsches_Haus_(Br%C3%BCnn)</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb437.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb437.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb437.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb437.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb437.html</idno>
@@ -45225,13 +45312,13 @@
           <idno type="URL" subtype="geonames">https://sws.geonames.org/6535974/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb428.html</idno>
+          
+  
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Welsberg-Taisten</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb428.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb428.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb428.html</idno>
@@ -45322,10 +45409,10 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Venedig_in_Wien</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb422.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb422.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb422.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb422.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb422.html</idno>
@@ -45398,10 +45485,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb413.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb413.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb413.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb413.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb413.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb413.html</idno>
@@ -45474,10 +45561,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb394.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb394.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb394.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb394.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb394.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb394.html</idno>
@@ -45559,10 +45646,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb373.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb373.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb373.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb373.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb373.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb373.html</idno>
@@ -45696,10 +45783,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb338.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb338.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb338.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb338.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb338.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb338.html</idno>
@@ -45781,10 +45868,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hotel_de_France_(Wien)</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb337.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb337.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb337.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb337.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb337.html</idno>
@@ -45869,10 +45956,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb334.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb334.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb334.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb334.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb334.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb334.html</idno>
@@ -46067,10 +46154,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb298.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb298.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb298.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb298.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298.html</idno>
@@ -46365,10 +46452,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb263.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb263.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb263.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb263.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb263.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb263.html</idno>
@@ -46462,10 +46549,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Grand_Hotel_Wien</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb255.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb255.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb255.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb255.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb255.html</idno>
@@ -46550,13 +46637,13 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/index.php?title=Imperialkino</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb253.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q33393850</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb253.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb253.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb253.html</idno>
@@ -46632,10 +46719,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hotel_Esplanade_(Berlin)</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb245.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb245.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb245.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb245.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb245.html</idno>
@@ -46738,6 +46825,9 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb240.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb240.html</idno>
+          
+  
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiener_Konzerthaus</idno>
           
   
@@ -46745,9 +46835,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb240.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb240.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb240.html</idno>
@@ -46838,13 +46925,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb224.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb224.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb224.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb224.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb224.html</idno>
@@ -46971,10 +47058,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb213.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb213.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb213.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb213.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb213.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb213.html</idno>
@@ -47062,10 +47149,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb208.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb208.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb208.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208.html</idno>
@@ -47135,10 +47222,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb205.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb205.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb205.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb205.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb205.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb205.html</idno>
@@ -47275,10 +47362,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Goethes_Wohnhaus</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb191.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb191.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb191.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb191.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb191.html</idno>
@@ -47381,10 +47468,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb189.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb189.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb189.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb189.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb189.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb189.html</idno>
@@ -47508,10 +47595,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb182.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb182.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb182.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb182.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182.html</idno>
@@ -47647,10 +47734,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb168.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168.html</idno>
@@ -47804,10 +47891,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb159.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb159.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb159.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb159.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb159.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb159.html</idno>
@@ -47907,13 +47994,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb146.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb146.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261820/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00239</idno>
@@ -48055,13 +48142,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb140.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb140.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262514/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb140.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb140.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb140.html</idno>
@@ -48152,10 +48239,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Schall_und_Rauch</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb128.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb128.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb128.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb128.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb128.html</idno>
@@ -48234,10 +48321,10 @@
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb126.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb126.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb126.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb126.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb126.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb126.html</idno>
@@ -48313,10 +48400,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb118.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb118.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb118.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118.html</idno>
@@ -48407,6 +48494,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb112.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb112.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q46232</idno>
           
   
@@ -48414,9 +48504,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb112.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb112.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb112.html</idno>
@@ -48489,10 +48576,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb107.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb107.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb107.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb107.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb107.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb107.html</idno>
@@ -48553,10 +48640,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb103.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb103.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb103.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb103.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb103.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb103.html</idno>
@@ -48897,10 +48984,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Staatsoper_Prag</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb91.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb91.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb91.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb91.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb91.html</idno>
@@ -48982,6 +49069,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/83/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb83.html</idno>
+          
+  
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Museum_f%C3%BCr_angewandte_Kunst_(Wien)</idno>
           
   
@@ -48998,9 +49088,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb83.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb83.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb83.html</idno>
@@ -49070,10 +49157,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb77.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb77.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb77.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77.html</idno>
@@ -49188,10 +49275,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb69.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb69.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb69.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb69.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb69.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb69.html</idno>
@@ -49294,10 +49381,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Alsergrund</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb59.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb59.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59.html</idno>
@@ -49397,10 +49484,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Margareten</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb55.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb55.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb55.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb55.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55.html</idno>
@@ -49521,6 +49608,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb52.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q259120</idno>
           
   
@@ -49528,9 +49618,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb52.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52.html</idno>
@@ -49651,6 +49738,9 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb51.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb51.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q267329</idno>
           
   
@@ -49658,9 +49748,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb51.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb51.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb51.html</idno>
@@ -49796,10 +49883,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb50.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb50.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</idno>
@@ -49914,13 +50001,13 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=15996</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb41.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb41.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41.html</idno>
@@ -50017,10 +50104,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb40.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40.html</idno>
@@ -50105,10 +50192,10 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Schwenders_Vergnügungsetablissement</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb39.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb39.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb39.html</idno>
@@ -50175,10 +50262,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb37.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb37.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb37.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb37.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb37.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb37.html</idno>
@@ -50354,13 +50441,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262547/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb30.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30.html</idno>
@@ -50442,6 +50529,9 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb29.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92506/</idno>
           
   
@@ -50449,9 +50539,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb29.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29.html</idno>
@@ -50539,6 +50626,9 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb28.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb28.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb618.html</idno>
           
   
@@ -50549,9 +50639,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb28.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb28.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb28.html</idno>
@@ -50633,6 +50720,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb27.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q521155</idno>
           
   
@@ -50640,9 +50730,6 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb27.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb27.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb27.html</idno>
@@ -50721,10 +50808,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb24.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb24.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb24.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb24.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb24.html</idno>
@@ -50785,10 +50872,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%BCnstlerhaus_Wien</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb21.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb21.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb21.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb21.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb21.html</idno>
@@ -50879,10 +50966,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb20.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb20.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb20.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb20.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb20.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb20.html</idno>
@@ -50982,10 +51069,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb19.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb19.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb19.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb19.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb19.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb19.html</idno>
@@ -51064,10 +51151,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb18.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb18.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb18.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb18.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb18.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb18.html</idno>
@@ -51134,10 +51221,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb15.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb15.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb15.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb15.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb15.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb15.html</idno>
@@ -51213,13 +51300,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb14.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb14.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb14.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q109377820</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb14.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb14.html</idno>
@@ -51325,10 +51412,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hebbel-Theater</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb13.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb13.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb13.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb13.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb13.html</idno>
@@ -51410,10 +51497,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb12.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb12.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb12.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb12.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb12.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb12.html</idno>
@@ -51486,10 +51573,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb11.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb11.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb11.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb11.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb11.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb11.html</idno>
@@ -51650,10 +51737,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb8.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb8.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb8.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb8.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb8.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb8.html</idno>
@@ -51735,10 +51822,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb7.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb7.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb7.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb7.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb7.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb7.html</idno>
@@ -51802,10 +51889,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb4.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb4.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb4.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb4.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb4.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb4.html</idno>
@@ -51884,10 +51971,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb3.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb3.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb3.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb3.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb3.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb3.html</idno>
@@ -51960,10 +52047,10 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Universität_für_Musik_und_darstellende_Kunst_Wien</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb2.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb2.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2.html</idno>
@@ -53641,10 +53728,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1.html</idno>
