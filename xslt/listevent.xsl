@@ -260,7 +260,18 @@
                 <script src="tabulator-js/tabulator_event.js"/>
             </body>
         </html>
-        <xsl:for-each select=".//tei:event[@xml:id]">
+        <!-- Ereignisse chronologisch sortieren, um Vorgänger/Nachfolger zu bestimmen -->
+        <xsl:variable name="sorted-events" as="element()*">
+            <xsl:perform-sort select=".//tei:event[@xml:id]">
+                <xsl:sort
+                    select="string((@when-iso, @from-iso, @notBefore-iso, @to-iso, @notAfter-iso, '9999-12-31')[1])"
+                    data-type="text"/>
+            </xsl:perform-sort>
+        </xsl:variable>
+        <xsl:for-each select="$sorted-events">
+            <xsl:variable name="pos" select="position()"/>
+            <xsl:variable name="prev" select="$sorted-events[$pos - 1]"/>
+            <xsl:variable name="next" select="$sorted-events[$pos + 1]"/>
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
             <xsl:variable name="name"
                 select="normalize-space(string-join(./tei:eventName[1]//text()))"/>
@@ -284,31 +295,90 @@
                     </head>
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
+                        <nav class="event-nav" aria-label="Ereignis-Navigation">
+                            <div class="event-nav-inner">
+                                <xsl:choose>
+                                    <xsl:when test="$prev">
+                                        <xsl:variable name="prevdate"
+                                            select="string(($prev/@when-iso, $prev/@from-iso, $prev/@notBefore-iso, $prev/@to-iso, $prev/@notAfter-iso)[1])"/>
+                                        <a class="event-nav-link event-nav-prev"
+                                            href="{concat($prev/@xml:id, '.html')}"
+                                            title="{normalize-space($prev/tei:eventName[1])}">
+                                            <span class="event-nav-arrow" aria-hidden="true">←</span>
+                                            <span class="event-nav-text">
+                                                <span class="event-nav-kicker">Vorheriges: </span>
+                                                <xsl:value-of
+                                                  select="normalize-space($prev/tei:eventName[1])"/>
+                                            </span>
+                                            <xsl:if test="$prevdate != ''">
+                                                <span class="event-nav-date">
+                                                  <xsl:value-of
+                                                  select="concat(substring($prevdate, 9, 2), '.', substring($prevdate, 6, 2), '.', substring($prevdate, 1, 4))"
+                                                  />
+                                                </span>
+                                            </xsl:if>
+                                        </a>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <span class="event-nav-link event-nav-prev"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                                <a class="event-nav-all" href="listevent.html">Alle
+                                    Veranstaltungen</a>
+                                <xsl:choose>
+                                    <xsl:when test="$next">
+                                        <xsl:variable name="nextdate"
+                                            select="string(($next/@when-iso, $next/@from-iso, $next/@notBefore-iso, $next/@to-iso, $next/@notAfter-iso)[1])"/>
+                                        <a class="event-nav-link event-nav-next"
+                                            href="{concat($next/@xml:id, '.html')}"
+                                            title="{normalize-space($next/tei:eventName[1])}">
+                                            <span class="event-nav-text">
+                                                <span class="event-nav-kicker">Nächstes: </span>
+                                                <xsl:value-of
+                                                  select="normalize-space($next/tei:eventName[1])"/>
+                                            </span>
+                                            <xsl:if test="$nextdate != ''">
+                                                <span class="event-nav-date">
+                                                  <xsl:value-of
+                                                  select="concat(substring($nextdate, 9, 2), '.', substring($nextdate, 6, 2), '.', substring($nextdate, 1, 4))"
+                                                  />
+                                                </span>
+                                            </xsl:if>
+                                            <span class="event-nav-arrow" aria-hidden="true">→</span>
+                                        </a>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <span class="event-nav-link event-nav-next"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </div>
+                        </nav>
                         <main class="flex-shrink-0 flex-grow-1">
                             <div class="container">
-                                <xsl:call-template name="event_detail"/> 
+                                <xsl:call-template name="event_detail"/>
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
                     </body>
-                    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-                        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-                        crossorigin=""/>
-                    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""/>
-                    <script>
+                    <xsl:if test="descendant::tei:location[1]/tei:geo[1]">
+                        <script>
                             var lat = <xsl:value-of select="replace(tokenize(descendant::tei:location[1]/tei:geo[1]/text(), ' ')[1], ',', '.')"/>;
                             var long = <xsl:value-of select="replace(tokenize(descendant::tei:location[1]/tei:geo[1]/text(), ' ')[2], ',', '.')"/>;
-                            $("#map_detail").css("height", "300px");
-                            var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
+                            var mapEl = document.getElementById('map_detail');
+                            if (mapEl &amp;&amp; typeof L !== 'undefined') {
+                            var map = L.map('map_detail', { scrollWheelZoom: false }).setView([Number(lat), Number(long)], 14);
                             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
                             maxZoom: 19,
                             attribution: '&amp;copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &amp;copy; <a href="https://carto.com/attributions">CARTO</a>'
                             }).addTo(map);
-                            var marker = L.marker([Number(lat), Number(long)]).addTo(map);
+                            L.circleMarker([Number(lat), Number(long)], {
+                            radius: 9, color: '#8A2E35', weight: 2,
+                            fillColor: '#8A2E35', fillOpacity: 0.85
+                            }).addTo(map);
+                            }
                         </script>
-                    <link
-                        href="https://unpkg.com/tabulator-tables@6.2.1/dist/css/tabulator_bootstrap5.min.css"
-                        rel="stylesheet"/>
+                    </xsl:if>
+                    <script src="js/citation.js" defer="defer"/>
                 </html>
             </xsl:result-document>
         </xsl:for-each>

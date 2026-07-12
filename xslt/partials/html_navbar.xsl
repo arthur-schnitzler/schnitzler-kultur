@@ -3,13 +3,12 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all" version="2.0">
     <xsl:template match="/" name="nav_bar">
-        <header>
-            <nav aria-label="Primary" class="navbar navbar-expand-lg bg-body-tertiary">
-                <div class="container-fluid">
-                    <a href="index.html" class="navbar-brand custom-logo-link" rel="home"
-                        itemprop="url">
-                        <img src="./images/schnitzler-kultur.svg" class="img-fluid"
-                            title="schnitzler-kultur" alt="schnitzler-kultur" itemprop="logo"/>
+        <header class="site-header">
+            <nav aria-label="Primary" class="navbar navbar-expand-md site-nav">
+                <div class="container-fluid site-nav-inner">
+                    <a href="index.html" class="navbar-brand brand-wordmark" rel="home">
+                        <span class="brand-name">Schnitzler</span>
+                        <span class="brand-sub">Kulturveranstaltungen</span>
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent"
@@ -18,28 +17,7 @@
                         <span class="navbar-toggler-icon"/>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button"
-                                    data-bs-toggle="dropdown" aria-expanded="false">Projekt</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a class="dropdown-item" href="ueber-das-projekt.html">Über das
-                                            Projekt</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="faqs.html">Häufig gestellte Fragen</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item"
-                                            href="https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428689.html"
-                                            target="_blank">A179 Theaterbesuche</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="imprint.html">Impressum</a>
-                                    </li>
-                                </ul>
-                            </li>
+                        <ul class="navbar-nav ms-auto mb-2 mb-md-0 align-items-md-center">
                             <li class="nav-item">
                                 <a class="nav-link" href="listevent.html">Veranstaltungen</a>
                             </li>
@@ -153,16 +131,34 @@
                                     </li>
                                 </ul>
                             </li>
-                            <!--  <li class="nav-item">
-                                <a title="Suche" class="nav-link" href="search.html"><svg
-                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                        viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                        class="feather feather-search">
-                                        <circle cx="11" cy="11" r="8"/>
-                                        <line x1="21" y1="21" x2="16.65" y2="16.65"/>
-                                </svg> SUCHE</a>
-                            </li>-->
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">Projekt</a>
+                                <ul class="dropdown-menu dropdown-menu-md-end">
+                                    <li>
+                                        <a class="dropdown-item" href="ueber-das-projekt.html">Über das
+                                            Projekt</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="faqs.html">Häufig gestellte Fragen</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item"
+                                            href="https://schnitzler-mikrofilme.acdh.oeaw.ac.at/1428689.html"
+                                            target="_blank">A179 Theaterbesuche</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="imprint.html">Impressum</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item nav-item-search">
+                                <a class="search-pill" href="listevent.html"
+                                    title="Veranstaltungen durchsuchen und filtern">
+                                    <i class="bi bi-search" aria-hidden="true"/>
+                                    <span>Suche</span>
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
