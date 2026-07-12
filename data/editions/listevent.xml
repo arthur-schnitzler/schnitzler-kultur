@@ -12,157 +12,13 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2026-06-28">serialized</change>
+          <change when-iso="2026-07-11">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
         <body>
            <p>Some text here.</p>
-           <listEvent><event xml:id="pmb244741" from-iso="1931-01-20" to-iso="1931-01-19">
-        <eventName n="Probe">Probe von Der Gang zum Weiher (3. und 4. Akt), 20.1.1931</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244741/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244741.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
-                <note type="relation-type">ist Probe von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
-                <location>
-                    <geo>48,210333 16,361139</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb237212" from-iso="1906-01-06" to-iso="1906-01-07">
-        <eventName n="Private Lesung">Private Lesung aus Der Weg ins Freie, 6.–7.1.1906</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237212/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237212.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listBibl>
-            <bibl>
-                <title key="pmb29923">Der Weg ins Freie. Roman</title>
-                <note type="relation-type">ist Lesung von</note>
-            </bibl>
-        </listBibl>
-        <listPerson>
-            <person role="hat mitwirkend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2173">Schnitzler, Olga</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb168940">Edmund-Weiß-Gasse 7</placeName>
-                <location>
-                    <geo>48,2304 16,33472</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb200606" from-iso="1898-02-02" to-iso="1898-02-03">
-        <eventName n="Bankett">Bankett für Max Burckhard, 2.2.1898</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200606/</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200606.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb11036">Burckhard, Max Eugen</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb10815">Bahr, Hermann</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12816">Speidel, Ludwig</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11524">Gross, Ferdinand</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12602">Saar, Ferdinand von</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb28054">Frydmann-Prawy, Marcell von</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11447">Glossy, Karl</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2150">Bauer, Julius</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2928">Jauner, Franz von</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2164">Gettke, Ernst</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11533">Grünfeld, Alfred</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2157">Ebermann, Leo</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11441">Girardi, Alexander</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2334">Langmann, Philipp</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2868">Kutschera, Victor</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11981">Kramer, Leopold</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11349">Fournier, August</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11941">Klimt, Gustav</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb3261">Fanto, Leonhard</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb153938">Hofmann, Oscar</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11308">Fellner, Richard</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb2739">Wittmann, Hugo</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb29">Hotel Sacher</placeName>
-                <location>
-                    <geo>48,203889 16,369444</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb195043" from-iso="1886-02-01" to-iso="1886-02-28">
+           <listEvent><event xml:id="pmb195043" from-iso="1886-02-01" to-iso="1886-02-28">
         <eventName n="Hausball">Ball bei Louis Moskovicz de Zemplén, Februar 1886</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195043/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195043.html</idno>
@@ -285,77 +141,6 @@
                 <placeName role="veranstaltet in" key="pmb50">Wien</placeName>
                 <location>
                     <geo>48,208333 16,373056</geo>
-                </location>
-            </place>
-        </listPlace>
-    </event><event xml:id="pmb47517" from-iso="1912-11-17" to-iso="1912-11-18">
-        <eventName n="Bankett">Hauptmann-Bankett der Concordia, 17.11.1912</eventName>
-        <note type="listorg">
-            <listOrg>
-                <org role="veranstaltet von">
-                    <orgName key="pmb29752">Concordia. Journalisten- und Schriftstellerverein</orgName>
-                </org>
-            </listOrg>
-        </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47517/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47517.html</idno>
-    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47517.html</idno>
-    <listBibl>
-    <bibl type="collections" n="24">manually created entity</bibl>
-    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
-</listBibl>
-        <listPerson>
-            <person role="hat teilnehmend">
-                <persName key="pmb2121">Schnitzler, Arthur</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11617">Hauptmann, Gerhart</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb13055">Wassermann, Jakob</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb2167">Salten, Felix</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb7935">Hussarek-Heinlein, Max von</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11447">Glossy, Karl</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12948">Thimig, Hugo</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb11533">Grünfeld, Alfred</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12556">Rosenbaum, Richard</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb13212">Zweig, Stefan</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb10788">Auernheimer, Raoul</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb18651">Hetsey-Holzer, Alice</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb12749">Schönherr, Karl</persName>
-            </person>
-            <person role="hat teilnehmend">
-                <persName key="pmb20723">Löbl, Emil</persName>
-            </person>
-            <person role="hat mitwirkend">
-                <persName key="pmb11441">Girardi, Alexander</persName>
-            </person>
-        </listPerson>
-        <listPlace>
-            <place>
-                <placeName role="veranstaltet in" key="pmb168900">Österreichischer Ingenieur- und Architektenverein</placeName>
-                <location>
-                    <geo>48,20204 16,36338</geo>
                 </location>
             </place>
         </listPlace>
@@ -20320,8 +20105,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208059/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208059.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208059.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208059.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -26762,8 +26547,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208286/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208286.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208286.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208286.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -28085,8 +27870,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63085/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63085.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63085.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63085.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -31688,6 +31473,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88363/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88363.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88363.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -33724,8 +33510,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40995/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40995.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40995.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40995.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -34896,8 +34682,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63078/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63078.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63078.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63078.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -38023,6 +37809,7 @@
         <eventName n="Theateraufführung">Aufführung von Gefallene Engel, 2.10.1892</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41674/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41674.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41674.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -38140,6 +37927,7 @@
         </listPlace>
     </event><event xml:id="pmb336761" when-iso="1892-10-09">
         <eventName n="Private Lesung">Private Lesung von Gestern, 9.10.1892</eventName>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb336761.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/336761/</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -38456,6 +38244,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41110/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41110.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41110.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -38877,6 +38666,7 @@
         </listPlace>
     </event><event xml:id="pmb333801" when-iso="1893-01-07">
         <eventName n="Hausball">Hausball Stein, 7.1.1893</eventName>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb333801.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333801/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333801.html</idno>
     <listBibl>
@@ -38990,6 +38780,7 @@
         </listPlace>
     </event><event xml:id="pmb333805" when-iso="1893-01-11">
         <eventName n="Ball">Juristenball, 11.1.1893</eventName>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb333805.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333805/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333805.html</idno>
     <listBibl>
@@ -40297,8 +40088,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35284/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35284.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35284/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35284.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -40636,6 +40427,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208619/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208619.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208619.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -41559,6 +41351,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192863/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb192863.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb192863.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -41673,6 +41466,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208632/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208632.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208632.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -41743,6 +41537,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192888/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb192888.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb192888.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -41854,8 +41649,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35068/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35068.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35068/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35068.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -41957,8 +41752,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63509/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63509.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63509.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63509.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -42297,8 +42092,8 @@
     </event><event xml:id="pmb41938" when-iso="1894-01-05">
         <eventName n="Theateruraufführung">Uraufführung Das Bild des Signorelli, 5.1.1894</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41938/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41938.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41938.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41938.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -44641,6 +44436,7 @@
         </listPlace>
     </event><event xml:id="pmb298917" when-iso="1894-07-08">
         <eventName n="Hochzeit">Hochzeit von Helene Altmann und Julius Schnitzler, 8.7.1894</eventName>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb298917.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298917/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298917.html</idno>
     <listBibl>
@@ -45041,8 +44837,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208690/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208690.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208690.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208690.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -45865,8 +45661,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88033/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88033.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88033.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88033.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -45937,8 +45733,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88068/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88068.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88068.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88068.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -48049,6 +47845,7 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb298732.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298732/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298732.html</idno>
     <listBibl>
@@ -48254,6 +48051,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/94377/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb94377.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb94377.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -48715,6 +48513,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208751/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208751.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208751.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -49722,8 +49521,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48866/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48866.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb48866.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48866.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -50206,8 +50005,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35203/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35203/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35203.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -50379,8 +50178,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42426/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42426.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42426.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42426.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -50462,8 +50261,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43136/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43136.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43136.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43136.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -50505,6 +50304,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199341/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb199341.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb199341.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -50919,8 +50719,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42446/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42446.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42446.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42446.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -50956,8 +50756,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42439/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42439.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42439.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42439.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -52547,8 +52347,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35206/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35206.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35206/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35206.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -53981,6 +53781,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168391/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168391.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168391.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -54081,6 +53882,7 @@
         <eventName n="Private Lesung">Private Lesung von Freiwild, 18.6.1896</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183891/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183891.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183891.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -54447,6 +54249,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42019/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42019.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42019.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -54844,8 +54647,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42011/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208861/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42011.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42011.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42011.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -54891,6 +54694,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43387/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43387.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43387.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -55390,8 +55194,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35152/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35152.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35152/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35152.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -56119,6 +55923,7 @@
         </listPlace>
     </event><event xml:id="pmb335141" when-iso="1896-12-15">
         <eventName n="Private Lesung">Private Lesung des Prologs zu Mimi, 15.12.1896</eventName>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335141.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/335141/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb335141.html</idno>
     <listBibl>
@@ -56554,6 +56359,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168887/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168887.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb168887.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -56628,6 +56434,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208897/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208897.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208897.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -57173,6 +56980,7 @@
         <eventName n="Private Lesung">Private Lesung von Reigen, 17.3.1897</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142793/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142793.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142793.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -57435,6 +57243,7 @@
         <eventName n="Vorlesung">Lesung von Hirschfeld, Hofmannsthal, Schnitzler und Bahr, 28.3.1897</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59292/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59292.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59292.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -57933,6 +57742,7 @@
         <eventName n="Theateraufführung">Aufführung von La Carrière, 17.4.1897</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208922/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208922.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208922.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -58104,6 +57914,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208927/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208927.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208927.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -58130,6 +57941,7 @@
         <eventName n="Theateraufführung">Aufführung von Snob, 23.4.1897</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208928/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208928.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208928.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -58456,6 +58268,7 @@
         <eventName n="Theateraufführung">Aufführung von Ton sang, 7.5.1897</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208938/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208938.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208938.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -60208,8 +60021,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46600/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46600.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb46600.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46600.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -61294,6 +61107,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45952/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45952.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45952.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -61736,6 +61550,93 @@
                 </location>
             </place>
         </listPlace>
+    </event><event xml:id="pmb200606" when-iso="1898-02-02">
+        <eventName n="Bankett">Bankett für Max Burckhard, 2.2.1898</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200606/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200606.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb11036">Burckhard, Max Eugen</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10815">Bahr, Hermann</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12816">Speidel, Ludwig</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11524">Gross, Ferdinand</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12602">Saar, Ferdinand von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb28054">Frydmann-Prawy, Marcell von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11447">Glossy, Karl</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2150">Bauer, Julius</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2928">Jauner, Franz von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2164">Gettke, Ernst</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11533">Grünfeld, Alfred</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2157">Ebermann, Leo</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11441">Girardi, Alexander</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2334">Langmann, Philipp</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2868">Kutschera, Victor</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11981">Kramer, Leopold</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11349">Fournier, August</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11941">Klimt, Gustav</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb3261">Fanto, Leonhard</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb153938">Hofmann, Oscar</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11308">Fellner, Richard</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2739">Wittmann, Hugo</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb29">Hotel Sacher</placeName>
+                <location>
+                    <geo>48,203889 16,369444</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb200631" when-iso="1898-02-03">
         <eventName n="Generalprobe">Generalprobe von Freiwild, 3.2.1898</eventName>
         <note type="listorg">
@@ -61822,6 +61723,7 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35161.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35161/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35161.html</idno>
     <listBibl>
@@ -62418,8 +62320,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209007/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209007.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209007.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209007.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -62798,6 +62700,7 @@
         <eventName n="Theateraufführung">Aufführung von Liebelei, 3.5.1898</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143121/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143121.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143121.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -62989,8 +62892,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42893/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42893.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42893.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42893.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -64212,8 +64115,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35382/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35382.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35382/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35382.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -65692,6 +65595,7 @@
         <eventName n="Private Lesung">Private Lesung von Pauline, 19.12.1898</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48949/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb48949.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48949.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -65798,6 +65702,7 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb333793.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333793/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333793.html</idno>
     <listBibl>
@@ -66834,8 +66739,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35479/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35479.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35479/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35479.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -67470,6 +67375,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209077/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209077.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209077.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -67541,6 +67447,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209078/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209078.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209078.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -67661,6 +67568,7 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb333837.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333837/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333837.html</idno>
     <listBibl>
@@ -67694,8 +67602,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35482/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35482/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -68159,6 +68067,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209083/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209083.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209083.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -68505,6 +68414,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209090/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209090.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209090.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -68571,6 +68481,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209092/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209092.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209092.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -68640,6 +68551,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209094/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209094.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209094.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -68703,6 +68615,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209095/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209095.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209095.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -68788,6 +68701,7 @@
         <eventName n="Theateraufführung">Aufführung von Paracelsus, Die Gefährtin, Der grüne Kakadu, 14.9.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209098/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209098.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209098.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -68854,6 +68768,7 @@
         <eventName n="Theaterpremiere">Premiere von Das Vermächtnis, 15.9.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209099/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209099.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209099.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -68960,6 +68875,7 @@
         <eventName n="Theateraufführung">Aufführung von Undine, 24.9.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209101/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209101.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209101.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -68986,6 +68902,7 @@
         <eventName n="Theateraufführung">Aufführung von Carmen, 28.9.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209102/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209102.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209102.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -69112,6 +69029,7 @@
         <eventName n="Private Lesung">Private Lesung von Der Schleier der Beatrice, 7.10.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/141501/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141501.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141501.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -69711,6 +69629,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43248/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43248.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43248.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -69743,6 +69662,7 @@
         <eventName n="Private Lesung">Private Lesung von Der Schleier der Beatrice, 26.11.1899</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183921/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183921.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183921.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -69801,6 +69721,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/141446/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141446.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -69891,6 +69812,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43233/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43233.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43233.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -70071,6 +69993,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43208/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43208.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43208.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -70467,6 +70390,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209129/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209129.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209129.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -70630,6 +70554,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145758/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145758.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145758.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -70697,6 +70622,7 @@
         <eventName n="Private Lesung">Private Lesung von Der Gemeine, 2.2.1900</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/141489/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141489.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141489.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -71854,6 +71780,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209159/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209159.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209159.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -72453,6 +72380,7 @@
         <eventName n="Lesung">Lesung aus Also sprach eine Frau! (Elsbeth Meyer-Förster) und von Lieutenant Gustl (Arthur Schnitzler), 23.11.1900</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183233/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183233.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183233.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -72792,8 +72720,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35095/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35095.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35095/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35095.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -72890,6 +72818,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209177/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209177.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209177.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -72970,6 +72899,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/182270/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182270.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb182270.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -73048,6 +72978,7 @@
         <eventName n="Private Lesung">Private Lesung von Marionetten, Hilperich, 3.1.1901</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183933/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183933.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183933.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -73190,6 +73121,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143134/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143134.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143134.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -73364,6 +73296,7 @@
         </listPlace>
     </event><event xml:id="pmb334942" when-iso="1901-02-05">
         <eventName n="Private Lesung">Private Lesung von Die Gedenktafel der Prinzessin Anna, Das Haus Delorme, Marionetten, 5.2.1901</eventName>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb334942.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334942/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb334942.html</idno>
     <listBibl>
@@ -75983,6 +75916,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231772/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231772.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb231772.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -76050,6 +75984,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231784/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231784.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb231784.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -76147,6 +76082,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231794/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231794.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb231794.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -76215,6 +76151,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/231802/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231802.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb231802.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -76247,8 +76184,8 @@
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35104/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35104.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35104/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35104.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -76437,6 +76374,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209233/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209233.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209233.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -77311,6 +77249,7 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35107.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35107/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35107.html</idno>
     <listBibl>
@@ -78305,8 +78244,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41434/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41434.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41434.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41434.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -78848,6 +78787,7 @@
         <eventName n="Private Lesung">Private Lesung des Doppelstücks [Der einsame Weg, Professor Bernhardi], 19.2.1903</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183980/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183980.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183980.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -79417,6 +79357,7 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35098.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35098/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35098.html</idno>
     <listBibl>
@@ -79748,6 +79689,7 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35110.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35110/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35110.html</idno>
     <listBibl>
@@ -79819,6 +79761,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209284/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209284.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209284.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -80504,6 +80447,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44469/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44469.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44469.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -80880,6 +80824,7 @@
         <eventName n="Private Lesung">Private Lesung von Der einsame Weg, 25.10.1903</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183975/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183975.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183975.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -81085,8 +81030,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209302/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296760/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209302.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209302.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209302.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -82266,6 +82211,7 @@
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35272.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35272/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35272.html</idno>
     <listBibl>
@@ -82931,6 +82877,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Private Lesung">Private Lesung Das Schicksal des Freiherrn von Leisenbohg, Ritterlichkeit, 11.4.1904</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47850/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47850.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47850.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -83582,6 +83529,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209334/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209334.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209334.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -83661,6 +83609,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45067/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45067.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45067.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -83879,6 +83828,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209337/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209337.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209337.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -84505,8 +84455,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35379/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35379.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35379/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35379.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -85353,9 +85303,9 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35164.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35164/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209359/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35164.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35164.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -85871,8 +85821,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48470/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48470.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb48470.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48470.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -86405,6 +86355,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Private Lesung">Private Lesung von Zwischenspiel, 18.6.1905</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183995/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183995.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183995.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -86584,6 +86535,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Private Lesung">Private Lesung von Der Ruf des Lebens, 12.8.1905</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184012/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184012.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb184012.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -86623,6 +86575,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Private Lesung">Private Lesung von Zwischenspiel, 12.8.1905</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184006/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184006.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb184006.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -86729,6 +86682,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209374/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209374.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209374.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -86834,6 +86788,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209377/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209377.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209377.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -87365,9 +87320,9 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35173/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209382/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35173.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -87477,6 +87432,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35077.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35077/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209383/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35077.html</idno>
@@ -88174,8 +88130,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35176/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35176.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35176/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35176.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -88725,6 +88681,36 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </location>
             </place>
         </listPlace>
+    </event><event xml:id="pmb237212" when-iso="1906-01-06">
+        <eventName n="Private Lesung">Private Lesung aus Der Weg ins Freie, 6.1.1906</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237212/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237212.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listBibl>
+            <bibl>
+                <title key="pmb29923">Der Weg ins Freie. Roman</title>
+                <note type="relation-type">ist Lesung von</note>
+            </bibl>
+        </listBibl>
+        <listPerson>
+            <person role="hat mitwirkend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb2173">Schnitzler, Olga</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb168940">Edmund-Weiß-Gasse 7</placeName>
+                <location>
+                    <geo>48,2304 16,33472</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb209405" when-iso="1906-01-08">
         <eventName n="Klavierkonzert">Klavierkonzert von Moriz Rosenthal, 8.1.1906</eventName>
         <note type="listorg">
@@ -89053,6 +89039,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPlace>
     </event><event xml:id="pmb299618" when-iso="1906-02-05">
         <eventName n="Feier">Feier des 50. Geburtstages von Otto Brahm</eventName>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb299618.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/299618/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb299618.html</idno>
     <listBibl>
@@ -89112,6 +89099,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237283/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237283.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb237283.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -89158,6 +89146,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237295/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237295.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb237295.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -89597,8 +89586,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237365/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb237365.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237365.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb237365.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -89631,8 +89620,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35179/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35179.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35179/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35179.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -90784,6 +90773,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59624/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59624.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59624.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -90895,6 +90885,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/237582/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237582.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb237582.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -91434,6 +91425,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Theateraufführung">Aufführung von Orpheus in der Unterwelt, 25.8.1906</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209442/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209442.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209442.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -94932,6 +94924,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186202/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186202.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb186202.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -95961,6 +95954,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209496/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209496.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209496.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -97022,6 +97016,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Theateraufführung">Aufführung von Die Förster-Christl, 26.5.1908</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209512/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209512.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209512.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -98215,8 +98210,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209534/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209534.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209534.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209534.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -99044,6 +99039,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47684/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47684.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47684.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -99510,6 +99506,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209550/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209550.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209550.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -99645,6 +99642,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209552/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209552.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209552.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -101336,6 +101334,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46528/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184067/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb46528.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46528.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -102016,6 +102015,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46552/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb46552.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46552.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -102100,6 +102100,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35185.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35185/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35185.html</idno>
     <listBibl>
@@ -102185,6 +102186,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/249556/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb249556.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb249556.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -102596,8 +102598,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPlace>
     </event><event xml:id="pmb35373" when-iso="1910-01-22">
         <eventName n="Theateruraufführung">Uraufführung von Der Schleier der Pierrette, Premiere von Versiegelt, 22.1.1910</eventName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35373/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35373.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35373/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35373.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -103907,6 +103909,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Private Lesung">Private Lesung von Das weite Land, 29.6.1910</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48222/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb48222.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48222.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -104220,8 +104223,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46947/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46947.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb46947.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46947.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -104257,8 +104260,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
     </event><event xml:id="pmb296492" when-iso="1910-10-11">
         <eventName n="Private Lesung">Private Lesung von Die ungleichen Schalen, 11.10.1910</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296492/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296492.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb296492.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296492.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -105228,8 +105231,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35251/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35251.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35251/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35251.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -105350,6 +105353,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/251446/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb251446.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb251446.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -105396,6 +105400,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPlace>
     </event><event xml:id="pmb334014" when-iso="1910-11-29">
         <eventName n="Private Lesung">Private Lesung von Der Rosenkavalier, 29.11.1910</eventName>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb334014.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334014/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb334014.html</idno>
     <listBibl>
@@ -105515,6 +105520,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35247.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35247/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35247.html</idno>
     <listBibl>
@@ -105917,8 +105923,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183571/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183571.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183571.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -106178,8 +106184,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
     </event><event xml:id="pmb167960" when-iso="1911-02-23">
         <eventName n="Liederkonzert">Gesangskonzert von Olga Schnitzler, 23.2.1911</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/167960/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb167960.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb167960.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb167960.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -107791,6 +107797,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/252425/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb252425.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb252425.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -107825,8 +107832,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35364/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88534/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88534.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88534.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88534.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -108466,6 +108473,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142716/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142716.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142716.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -109594,6 +109602,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Theaterpremiere">Premiere von Der Schleier der Pierrette, 16.3.1912</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209635/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209635.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209635.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -111034,8 +111043,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/239133/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb239133.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb239133.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb239133.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -111222,6 +111231,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/253904/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb253904.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb253904.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -111276,6 +111286,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/253919/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb253919.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb253919.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -111329,6 +111340,77 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 <placeName role="veranstaltet in" key="pmb4">Bösendorfer Saal</placeName>
                 <location>
                     <geo>48,209167 16,366111</geo>
+                </location>
+            </place>
+        </listPlace>
+    </event><event xml:id="pmb47517" when-iso="1912-11-17">
+        <eventName n="Bankett">Hauptmann-Bankett der Concordia, 17.11.1912</eventName>
+        <note type="listorg">
+            <listOrg>
+                <org role="veranstaltet von">
+                    <orgName key="pmb29752">Concordia. Journalisten- und Schriftstellerverein</orgName>
+                </org>
+            </listOrg>
+        </note>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47517/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47517.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47517.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11617">Hauptmann, Gerhart</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb13055">Wassermann, Jakob</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb2167">Salten, Felix</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb7935">Hussarek-Heinlein, Max von</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11447">Glossy, Karl</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12948">Thimig, Hugo</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb11533">Grünfeld, Alfred</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12556">Rosenbaum, Richard</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb13212">Zweig, Stefan</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb10788">Auernheimer, Raoul</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb18651">Hetsey-Holzer, Alice</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb12749">Schönherr, Karl</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb20723">Löbl, Emil</persName>
+            </person>
+            <person role="hat mitwirkend">
+                <persName key="pmb11441">Girardi, Alexander</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb168900">Österreichischer Ingenieur- und Architektenverein</placeName>
+                <location>
+                    <geo>48,20204 16,36338</geo>
                 </location>
             </place>
         </listPlace>
@@ -111604,8 +111686,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35355/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35355.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35355/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35355.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -115737,6 +115819,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209717/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209717.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209717.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -116081,8 +116164,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59607/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59607.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -117694,8 +117777,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35254/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35254.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35254/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35254.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -118379,6 +118462,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183655/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183655.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183655.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -119604,6 +119688,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Private Lesung">Private Lesung von Komödie der Worte, 11.4.1915</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/184119/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb184119.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb184119.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -120006,6 +120091,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Konzert">Aufführung von Das Lied von der Erde, 27.4.1915</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209761/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209761.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209761.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -121399,8 +121485,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35412/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35412.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35412/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35412.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -121771,6 +121857,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163044/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb163044.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb163044.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -122316,6 +122403,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263810/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb263810.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb263810.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -124232,6 +124320,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Private Lesung">Private Lesung von Wahnsinnsnovelle [Flucht in die Finsternis], 23.4.1916</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/264603/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb264603.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb264603.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -124314,8 +124403,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183752/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183752.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183752.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183752.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -125375,8 +125464,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
     </event><event xml:id="pmb183765" when-iso="1916-11-18">
         <eventName n="Liederkonzert">Gesangskonzert von Olga Schnitzler, 18.11.1916</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183765/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183765.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183765.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183765.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -128439,8 +128528,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35427/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35427.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35427/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35427.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -132939,8 +133028,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47813/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47813.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47813.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47813.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -135079,8 +135168,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47820/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47820.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47820.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47820.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -137083,6 +137172,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63449/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63449.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63449.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -137620,8 +137710,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35424/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35424.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35424/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35424.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -150270,6 +150360,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210222/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210222.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb210222.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -150966,7 +151057,10 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb265477">[Vortragssaal Politiken]</placeName>
+                <placeName role="veranstaltet in" key="pmb265477">Politikens Hus</placeName>
+                <location>
+                    <geo>55,6769 12,5685</geo>
+                </location>
             </place>
         </listPlace>
     </event><event xml:id="pmb297387" when-iso="1923-05-14">
@@ -151025,7 +151119,10 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </listPerson>
         <listPlace>
             <place>
-                <placeName role="veranstaltet in" key="pmb265477">[Vortragssaal Politiken]</placeName>
+                <placeName role="veranstaltet in" key="pmb265477">Politikens Hus</placeName>
+                <location>
+                    <geo>55,6769 12,5685</geo>
+                </location>
             </place>
         </listPlace>
     </event><event xml:id="pmb58640" when-iso="1923-05-15">
@@ -153451,6 +153548,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Theateraufführung">Aufführung von Mein Vater hat recht gehabt, 16.1.1924</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/256171/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb256171.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb256171.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -158091,6 +158189,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210305/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210305.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb210305.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -158170,8 +158269,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35361/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35361/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35361.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -158315,6 +158414,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Liederkonzert">Konzert von Jean Untermeyer, 17.10.1924</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210307/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210307.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb210307.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -159618,6 +159718,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238872/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238872.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb238872.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -159681,6 +159782,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183497/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183497.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183497.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -159740,6 +159842,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Lesung">Lesung von Das Tagebuch der Redegonda, Die letzten Masken, Weihnachts-Einkäufe, 11.1.1925</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183503/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183503.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183503.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -159775,6 +159878,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Lesung">Lesung von Das Tagebuch der Redegonda, Die letzten Masken, Große Szene, 12.1.1925</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183512/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183512.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183512.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -159817,6 +159921,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183521/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183521.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183521.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -159885,6 +159990,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183530/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183530.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183530.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -159927,6 +160033,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183543/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183543.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183543.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -159969,6 +160076,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183557/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183557.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183557.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -160843,6 +160951,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Theateraufführung">Aufführung von Charley’s Tante, 14.3.1925</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210331/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210331.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb210331.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -161773,6 +161882,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210344/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210344.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb210344.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -161808,8 +161918,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143957/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143957.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -162169,6 +162279,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186139/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186139.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb186139.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -164684,13 +164795,16 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 <persName key="pmb300863">Glasenapp, Kurt Carl von</persName>
             </person>
             <person role="hat teilnehmend">
-                <persName key="pmb353658">no surename provided, Betty</persName>
+                <persName key="pmb353658">[ohne Nachname], Betty</persName>
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb6189">Becker, Carl Heinrich</persName>
             </person>
             <person role="hat teilnehmend">
                 <persName key="pmb353662">Buchhorn, Josef</persName>
+            </person>
+            <person role="hat teilnehmend">
+                <persName key="pmb20733">Löhlein, Heinrich</persName>
             </person>
         </listPerson>
         <listPlace>
@@ -164705,6 +164819,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Lesung">Lesung von Lieutenant Gustl, Fräulein Else, 7.2.1926</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183564/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183564.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb183564.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -166133,6 +166248,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/182012/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb182012.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb182012.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -167636,8 +167752,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210385/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb210385.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210385.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb210385.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -168351,8 +168467,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
     </event><event xml:id="pmb210395" when-iso="1926-12-30">
         <eventName n="Theateraufführung">Aufführung von Volpone, 30.12.1926</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/210395/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb210395.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210395.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb210395.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -181122,8 +181238,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43870/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43870.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43870.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43870.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -181663,8 +181779,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35439/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35439.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35439/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35439.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -183248,8 +183364,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
     </event><event xml:id="pmb238063" when-iso="1930-04-23">
         <eventName n="Theateraufführung">Aufführung von Das Lamm des Armen, 23.4.1930</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/238063/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb238063.html</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238063.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb238063.html</idno>
     <listBibl>
     <bibl type="collections" n="24">manually created entity</bibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
@@ -186514,6 +186630,33 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </location>
             </place>
         </listPlace>
+    </event><event xml:id="pmb244741" when-iso="1931-01-20">
+        <eventName n="Probe">Probe von Der Gang zum Weiher [3. und 4. Akt], 20.1.1931</eventName>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244741/</idno>
+    <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244741.html</idno>
+    <listBibl>
+    <bibl type="collections" n="24">manually created entity</bibl>
+    <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
+</listBibl>
+        <listBibl>
+            <bibl>
+                <title key="pmb30775">Der Gang zum Weiher. Dramatische Dichtung</title>
+                <note type="relation-type">ist Probe von</note>
+            </bibl>
+        </listBibl>
+        <listPerson>
+            <person role="hat teilnehmend">
+                <persName key="pmb2121">Schnitzler, Arthur</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place>
+                <placeName role="veranstaltet in" key="pmb14">Burgtheater</placeName>
+                <location>
+                    <geo>48,210333 16,361139</geo>
+                </location>
+            </place>
+        </listPlace>
     </event><event xml:id="pmb244752" when-iso="1931-01-21">
         <eventName n="Theateraufführung">Aufführung von Bobby weint, Bobby lacht, 21.1.1931</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/244752/</idno>
@@ -187245,8 +187388,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 </org>
             </listOrg>
         </note>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35418/</idno>
     <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35418.html</idno>
+    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35418/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35418.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
