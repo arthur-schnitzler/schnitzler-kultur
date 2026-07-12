@@ -648,6 +648,75 @@ a:focus {
     margin: 0;
 }
 
+/* =========================================================
+   Footer
+   ========================================================= */
+
+.site-footer {
+    margin-top: auto;
+    background: var(--ink);
+    color: #C9C0B4;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.site-footer-inner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 48px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 48px 32px 40px;
+}
+
+.site-footer-title {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+.site-footer p {
+    margin-bottom: 12px;
+}
+
+.site-footer a,
+.site-footer a:visited {
+    color: var(--bg);
+}
+
+.site-footer a:hover,
+.site-footer a:focus {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.site-footer-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.site-footer-links li {
+    margin-bottom: 8px;
+}
+
+.site-footer-bar {
+    border-top: 1px solid #3A3530;
+    text-align: center;
+    font-size: 13px;
+    color: #9A9288;
+    padding: 14px 20px;
+}
+
+@media (max-width: 767.98px) {
+    .site-footer-inner {
+        grid-template-columns: 1fr;
+        gap: 28px;
+        padding: 36px 20px 28px;
+    }
+}
+
 /* ------- Responsiv ------- */
 
 @media (max-width: 999.98px) {
