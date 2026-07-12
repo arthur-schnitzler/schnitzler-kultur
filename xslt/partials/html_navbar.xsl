@@ -6,9 +6,10 @@
         <header class="site-header">
             <nav aria-label="Primary" class="navbar navbar-expand-md site-nav">
                 <div class="container-fluid site-nav-inner">
-                    <a href="index.html" class="navbar-brand brand-wordmark" rel="home">
-                        <span class="brand-name">Schnitzler</span>
-                        <span class="brand-sub">Kulturveranstaltungen</span>
+                    <a href="index.html" class="navbar-brand custom-logo-link" rel="home"
+                        itemprop="url">
+                        <img src="./images/schnitzler-kultur.svg" class="site-logo"
+                            title="schnitzler-kultur" alt="schnitzler-kultur" itemprop="logo"/>
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent"
@@ -151,13 +152,6 @@
                                         <a class="dropdown-item" href="imprint.html">Impressum</a>
                                     </li>
                                 </ul>
-                            </li>
-                            <li class="nav-item nav-item-search">
-                                <a class="search-pill" href="listevent.html"
-                                    title="Veranstaltungen durchsuchen und filtern">
-                                    <i class="bi bi-search" aria-hidden="true"/>
-                                    <span>Suche</span>
-                                </a>
                             </li>
                         </ul>
                     </div>
