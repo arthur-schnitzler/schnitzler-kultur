@@ -28,6 +28,29 @@ div#map {
     background-color: white;
 }
 
+/* Paginierung darf auf schmalen Bildschirmen umbrechen statt zu überlaufen */
+.tabulator-footer .tabulator-footer-contents {
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 4px;
+}
+
+.tabulator-footer .tabulator-paginator {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    row-gap: 4px;
+}
+
+@media (max-width: 575px) {
+    /* "Erste"/"Letzte" auf sehr kleinen Bildschirmen ausblenden */
+    .tabulator-footer .tabulator-page[data-page="first"],
+    .tabulator-footer .tabulator-page[data-page="last"] {
+        display: none;
+    }
+}
+
 
 /** Match bootstrap navlink focus outline color. */
 :focus-visible {
@@ -100,7 +123,7 @@ cite {
 
 .intro {
     background-color: #fff;
-    height: 93vh;
+    min-height: 93vh;
     overflow: hidden;
     border-bottom: 3px solid #6B4C5A;
 }
@@ -310,15 +333,26 @@ div.dataTables_filter {
     padding: 2em 0;
 }
 
+/* Lange URLs/Links (z. B. Impressum) sollen umbrechen statt überlaufen */
+main a, .card-body a, #wrapper-footer-full a, .card-body-normalertext a {
+    overflow-wrap: anywhere;
+}
+
 /**** Font Aweseome ***/
 .far {
     font-family: "Font Awesome 6 Free" !important;
     color: #6B4C5A;
 }
 
-.img-fluid {
+/* Vergrößerung nur für das Navbar-Logo, nicht global für alle Bilder */
+.navbar-brand .img-fluid {
     max-width: 160% !important;
     max-height: 160% !important;
+}
+
+/* Charts u. ä. nie breiter als der Viewport */
+canvas {
+    max-width: 100%;
 }
 
 .card {
@@ -408,33 +442,6 @@ div.dataTables_filter {
     margin-top: 0 !important;
     box-shadow: none !important;
     transition: transform .2s;
-    
-}
-
-.card-body img {
-    border-radius: .35rem .35rem 0 0;
-}
-
-.index-card .card-header {
-    background-color: transparent;
-    border: none;
-    text-align: center;
-    color: #88dbdf;
-}
-
-.index-card .card-body {
-    background-color: transparent;
-    border: none;
-    text-align: center;
-    padding: 0;
-    
-}
-
-.index-card {
-    margin-top: 0 !important;
-    box-shadow: none !important;
-    transition: transform .2s;
-    
 }
 
 .card-body img {
@@ -576,41 +583,17 @@ button#ssDoSearch {
 
 /*
 ####################################
-proposed mobile resolution handling
+mobile resolution handling
 ####################################
 */
 
-/* 
-#########################################
-add rules for HD screen resolution
-#########################################
-*/
-}
-
-
-/* 
-#########################################
-add rules for screen medium to low
-resolution
-#########################################
-*/
-}
-
-
-
 @media (max-width: 1024px) {
-    
-    .img-fluid {
+
+    .navbar-brand .img-fluid {
         max-width: 130% !important;
         max-height: 130% !important;
     }
-    
-/* 
-#########################################
-add rules for smallest tablet high
-resolution or low resolution screens
-#########################################
-*/
+
 }
 
 @media (max-width: 768px) {
@@ -630,26 +613,20 @@ resolution or low resolution screens
         padding: 0;
     }
     .intro {
-        height: 100%;
+        min-height: 0;
     }
     #wrapper-footer-full {
         padding: 1em 0;
     }
-    .img-fluid {
+    .navbar-brand .img-fluid {
         max-width: 120% !important;
         max-height: 120% !important;
     }
-    
+
     .custom-logo-link {
         margin-bottom: 0;
     }
-    
-/* 
-#########################################
-add rules for smallest smartphones 
-high resolution or tablet regular resolution
-#########################################
-*/
+
 }
 
 @media (max-width: 575px) {
@@ -1074,12 +1051,6 @@ tbody {
     border-style: none;
 }
 
-
-.tripleUnderline {
-	border-bottom: 3px double;
-	line-height: 1.9em;
-}
-
 .doubleUnderline {
     text-decoration:underline;
     border-bottom: 1px solid #000;
@@ -1172,10 +1143,6 @@ legend {float: none;
     margin-bottom: 15px;
 }
 
-div#map {
-     height: 50vh;
- } 
-
 .flexContainer{
             display: flex;
             justify-content: space-between;
@@ -1233,50 +1200,6 @@ div#map {
     font-size: 0.9rem;
     text-decoration: none;
 }
-.entry-title {
-    text-decoration: none;
-    font-weight: bold;
-}
-.entry-title:hover {
-    text-decoration: underline;
-}
-.toggle-icon {
-    font-size: 1.2rem;
-    cursor: pointer;
-}
-
-/* Styling for the horizontal list */
-.horizontal-list {
-            display: flex;
-            gap: 8px 20px; /* Abstand zwischen den Einträgen */
-            flex-wrap: wrap;
-            padding: 10px;
-            margin: 0;
-            list-style: none; /* Entfernt Standard-Bullets */
-            margin-bottom: 8px;
-        }
-
-/* Individual list items */
-.horizontal-list li {
-    display: flex;
-    align-items: center; /* Center items vertically */
-    line-height: 1;
-}
-
-/* Colored dot before each item */
-.horizontal-list li::before {
-    content: "";
-    width: 10px;
-    height: 10px;
-    background-color: var(--dot-color); /* Use the inherited color */
-    border-radius: 50%;
-    margin-right: 10px;
-}
-
-.list-container {
-            overflow-x: auto; /* Horizontal scrollen */
-            white-space: nowrap; /* Kein Umbruch für Kinder */
-        }
 
 /* Event Popup Styles */
 .event-popup {

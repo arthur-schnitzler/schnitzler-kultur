@@ -40,7 +40,7 @@
                 </div>
                 
                 <xsl:variable name="xmlid" select="@xml:id"/>
-                <table class="table entity-table mx-auto" style="max-width=800px">
+                <table class="table entity-table mx-auto" style="max-width: 800px;">
                     <tbody>
                         <tr>
                             <th> Datum </th>

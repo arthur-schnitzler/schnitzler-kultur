@@ -204,8 +204,10 @@ function updateChartsForYear(year, data) {
 
   const updatedLabels = chartData.labels.map((label, i) => `${label} (${dataset.data[i]})`);
 
-anaChartCanvasElement.width = 500;
-anaChartCanvasElement.height = 500;
+// Canvas-Größe an den verfügbaren Platz anpassen (mobile Geräte)
+const anaChartMaxSize = Math.min(500, (anaChartCanvasElement.parentElement && anaChartCanvasElement.parentElement.clientWidth) || 500);
+anaChartCanvasElement.width = anaChartMaxSize;
+anaChartCanvasElement.height = anaChartMaxSize;
 
   if (anaChart) anaChart.destroy();
 
@@ -262,8 +264,10 @@ scales: chartType === 'bar' ? {
 const labelCount = chartData.labels.length;
 
     const canvas = document.createElement("canvas");
-canvas.width = 400;
-canvas.height = 400;    canvas.className = "mb-5 d-block mx-auto";
+    const subChartSize = Math.min(400, anaNChartsContainer.clientWidth || 400);
+    canvas.width = subChartSize;
+    canvas.height = subChartSize;
+    canvas.className = "mb-5 d-block mx-auto";
 
     const title = document.createElement("h3");
     title.textContent = `»${anaKey}«: Verteilung`;

@@ -7,14 +7,17 @@ var table = new Tabulator("#tabulator-table-work", {
             paginationCounter:"rows",
             movableColumns:true,
             layout:"fitColumns",
-            responsiveLayout:"hide", // automatisch Spalten ausblenden bei Platzmangel
+            responsiveLayout:"collapse", // Spalten bei Platzmangel einklappen, per Toggle aufklappbar
+            responsiveLayoutCollapseStartOpen:false,
             dataLoader: true,
     columns:[ {
-        title: "Titel", field: "titel", sorter: "string", formatter: "html", responsive: 0, width:550
+        formatter: "responsiveCollapse", width: 30, minWidth: 30, hozAlign: "center", resizable: false, headerSort: false, responsive: 0
     }, {
-        title: "Urheber_in", field: "urheber_in", sorter: "string", formatter: "html", responsive: 0, maxWidth: 700, width:400
-    }, {title:"Datum", field:"datum", headerFilter:"input", formatter:"html", responsive:0, minWidth:100, maxWidth:120},
-{title:"Typ", field:"typ", headerFilter:"input", formatter:"html", responsive:1, width:120, maxWidth:200}],
+        title: "Titel", field: "titel", sorter: "string", formatter: "html", responsive: 0, minWidth: 160
+    }, {
+        title: "Urheber_in", field: "urheber_in", sorter: "string", formatter: "html", responsive: 1, maxWidth: 700, minWidth: 150
+    }, {title:"Datum", field:"datum", headerFilter:"input", formatter:"html", responsive:2, minWidth:100, maxWidth:120},
+{title:"Typ", field:"typ", headerFilter:"input", formatter:"html", responsive:3, width:120, maxWidth:200}],
             initialSort:[
             {column:"titel", dir:"asc"},
                         {column:"urheber_in", dir:"asc"}

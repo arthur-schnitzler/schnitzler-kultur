@@ -52,6 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const currentYearBtn = document.getElementById('ybtn' + calendar.currentYear);
         if (currentYearBtn) {
             currentYearBtn.classList.add("focus");
+            scrollYearIntoView(currentYearBtn);
         }
     }
 });
@@ -84,6 +85,14 @@ function setupSidebar() {
     
     yearsTable.appendChild(yearTitle);
     yearsTable.appendChild(yearsContainer);
+}
+
+// Bei horizontal scrollbarer Jahresliste (mobile Ansicht) das gewählte Jahr sichtbar machen
+function scrollYearIntoView(btn) {
+    const container = btn.closest('.years-list-container');
+    if (container && container.scrollWidth > container.clientWidth) {
+        container.scrollLeft = btn.offsetLeft - (container.clientWidth - btn.offsetWidth) / 2;
+    }
 }
 
 function updateYear(year) {

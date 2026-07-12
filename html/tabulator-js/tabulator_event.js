@@ -6,19 +6,21 @@ var table = new Tabulator("#tabulator-table-event", {
             paginationSize:25,
             paginationCounter:"rows",
             movableColumns:true,
-            layout:"fitDataStretch",
-            responsiveLayout:"hide", // automatisch Spalten ausblenden bei Platzmangel
+            layout:"fitColumns",
+            responsiveLayout:"collapse", // Spalten bei Platzmangel einklappen, per Toggle aufklappbar
+            responsiveLayoutCollapseStartOpen:false,
             dataLoader: true,
-            
+
             columns: [
-            {title:"Datum", field:"datum", headerFilter:"input", formatter:"html", responsive:0, minWidth:100, maxWidth:120},
-            {title:"Ereignis", field:"ereignis", minWidth:200, headerFilter:"input", formatter:"html", responsive:0, width:250},
-            {title:"Werk", field:"werk", minWidth:200, headerFilter:"input", formatter:"html", responsive:2, width:200},
-            {title:"Ort", field:"ort", headerFilter:"input", formatter:"html", responsive:2, width:200, maxWidth:250},
-            {title:"Typ", field:"typ", headerFilter:"input", formatter:"html", responsive:1, width:120},
-            {title:"Mitwirkende", field:"mitwirkende", headerFilter:"input", formatter:"html", responsive:1, width:200},
-            {title:"Teilnehmer_innen", field:"teilnehmer_innen", headerFilter:"input", formatter:"html", responsive:1, width:200},
-            {title:"Organisation", field:"organisation", headerFilter:"input", formatter:"html", responsive:4, width:200, maxWidth:250},
+            {formatter:"responsiveCollapse", width:30, minWidth:30, hozAlign:"center", resizable:false, headerSort:false, responsive:0},
+            {title:"Datum", field:"datum", headerFilter:"input", formatter:"html", responsive:0, minWidth:95, maxWidth:120},
+            {title:"Ereignis", field:"ereignis", minWidth:150, widthGrow:3, headerFilter:"input", formatter:"html", responsive:0},
+            {title:"Werk", field:"werk", minWidth:150, headerFilter:"input", formatter:"html", responsive:2},
+            {title:"Ort", field:"ort", headerFilter:"input", formatter:"html", responsive:2, minWidth:120, maxWidth:250},
+            {title:"Typ", field:"typ", headerFilter:"input", formatter:"html", responsive:1, minWidth:100, maxWidth:160},
+            {title:"Mitwirkende", field:"mitwirkende", headerFilter:"input", formatter:"html", responsive:1, minWidth:150},
+            {title:"Teilnehmer_innen", field:"teilnehmer_innen", headerFilter:"input", formatter:"html", responsive:1, minWidth:150},
+            {title:"Organisation", field:"organisation", headerFilter:"input", formatter:"html", responsive:4, minWidth:150, maxWidth:250},
             ],
             
             initialSort:[

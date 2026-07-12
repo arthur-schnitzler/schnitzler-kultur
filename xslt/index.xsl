@@ -29,7 +29,7 @@
                     <xsl:call-template name="nav_bar"/>
                     <div class="container">
                         <div class="row intro">
-                            <div class="col-md-6 col-lg-6 col-sm-12 wp-intro_left">
+                            <div class="col-12 col-md-6 wp-intro_left">
                                 <div class="intro_left">
                                     <h3 class="mt-3">Arthur Schnitzler</h3>
                                     <h1 class="mt-3" style="text-align: left;"
@@ -37,7 +37,7 @@
                                     <h3 class="mt-3">Konzert-, Theater-, Kinobesuche, Lesungen,
                                         Proben- und weitere Veranstaltungsteilnahmen. 1876–1931</h3>
                                     <h4 style="font-style: italic">Herausgegeben von Martin Anton
-                                        Müller und Laura Untner<lb/>unter Mitarbeit von Katharina
+                                        Müller und Laura Untner unter Mitarbeit von Katharina
                                         Sophie Kühnel</h4>
                                     <div style="text-align: right">
                                         <a href="#body">
@@ -48,17 +48,16 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-lg-6 col-sm-12">
+                            <div class="col-12 col-md-6">
                                 <div class="intro_right wrapper">
                                     <img src="./images/hero.jpg" class="d-block w-100"
-                                        style="max-width=30%;"
                                         alt="Arthur Schnitzer mit Alfred Kerr beim Essen, unappetitlich bunt"
                                     />
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="container-fluid" style="margin:2em auto;" id="body">
+                    <div class="container-fluid" style="margin:2em auto;">
                         <div style="max-width: 650px; margin: auto;">
                             <span style="display: block;
                                 position: relative;
@@ -78,7 +77,7 @@
                                 <button class="btn btn-round">Zur Liste</button>
                             </a>
                             <span>&#160;&#160;&#160;&#160;</span>
-                            <a href="about.html">
+                            <a href="ueber-das-projekt.html">
                                 <button class="btn btn-round">Zum Projekt</button>
                             </a>
                         </div>
@@ -87,8 +86,8 @@
                         <div class="row wrapper img_bottom">
 
 
-                            <div class="col-md-6 col-lg-6 col-sm-12">
-                                <a href="calendar.html" class="index-link">
+                            <div class="col-12 col-md-6">
+                                <a href="kalender.html" class="index-link">
                                     <div class="card index-card">
                                         <div class="card-body">
                                             <img class="d-block w-100"
@@ -103,7 +102,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-md-6 col-lg-6 col-sm-12">
+                            <div class="col-12 col-md-6">
                                 <a href="listperson.html" class="index-link">
                                     <div class="card index-card">
                                         <div class="card-body">
@@ -121,7 +120,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-md-6 col-lg-6 col-sm-12">
+                            <div class="col-12 col-md-6">
                                 <a href="listbibl.html" class="index-link">
                                     <div class="card index-card">
                                         <div class="card-body">
@@ -137,7 +136,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-md-6 col-lg-6 col-sm-12">
+                            <div class="col-12 col-md-6">
                                 <a href="listplace.html" class="index-link">
                                     <div class="card index-card">
                                         <div class="card-body">
@@ -154,7 +153,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-md-6 col-lg-6 col-sm-12">
+                            <div class="col-12 col-md-6">
                                 <a href="listorg.html" class="index-link">
                                     <div class="card index-card">
                                         <div class="card-body">
@@ -170,7 +169,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-md-6 col-lg-6 col-sm-12">
+                            <div class="col-12 col-md-6">
                                 <a href="https://github.com/arthur-schnitzler" class="index-link">
                                     <div class="card index-card">
                                         <div class="card-body">
@@ -185,7 +184,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-md-6 col-lg-6 col-sm-12">
+                            <!--<div class="col-12 col-md-6">
                                 <a href="search.html" class="index-link">
                                     <div class="card index-card">
                                         <div class="card-body">

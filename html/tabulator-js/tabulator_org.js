@@ -7,13 +7,15 @@ var table = new Tabulator("#tabulator-table-org", {
             paginationCounter:"rows",
             movableColumns:true,
             layout:"fitColumns",
-            responsiveLayout:"hide", // automatisch Spalten ausblenden bei Platzmangel
+            responsiveLayout:"collapse", // Spalten bei Platzmangel einklappen, per Toggle aufklappbar
+            responsiveLayoutCollapseStartOpen:false,
             dataLoader: true,
-    columns:[ 
-            { title: "Name", field: "name", sorter: "string" },
-            { title: "Namensvarianten", field: "namensvarianten", sorter: "string" },
-            { title: "Ort", field: "ort", sorter: "string" },
-            { title: "Typ", field: "typ", sorter: "string" }
+    columns:[
+            { formatter: "responsiveCollapse", width: 30, minWidth: 30, hozAlign: "center", resizable: false, headerSort: false, responsive: 0 },
+            { title: "Name", field: "name", sorter: "string", responsive: 0, minWidth: 150 },
+            { title: "Namensvarianten", field: "namensvarianten", sorter: "string", responsive: 3 },
+            { title: "Ort", field: "ort", sorter: "string", responsive: 1, minWidth: 120 },
+            { title: "Typ", field: "typ", sorter: "string", responsive: 2 }
             ],
             initialSort: [
             { column: "ort", dir: "asc" },

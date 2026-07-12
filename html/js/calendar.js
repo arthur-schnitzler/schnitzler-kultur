@@ -916,20 +916,66 @@ class SimpleCalendar {
           flex: 0 0 auto;
         }
         
-        @media (max-width: 768px) {
+        @media (max-width: 991.98px) {
+          /* Kompakte Sidebar auf kleinen Bildschirmen:
+             Jahresliste als horizontal scrollbarer Streifen,
+             Ansicht-Buttons nebeneinander, Kategorien als Pills */
           .sidebar-title {
             font-size: 13px;
             margin-top: 15px;
           }
-          
+
+          .years-list-container {
+            flex-wrap: nowrap;
+            overflow-x: auto;
+            justify-content: flex-start;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: thin;
+            padding: 6px 4px;
+          }
+
+          .years-list-container .yearbtn {
+            font-size: 14px;
+            padding: 6px 10px;
+            white-space: nowrap;
+          }
+
+          .view-controls-sidebar .btn-group-vertical {
+            flex-direction: row;
+            display: flex;
+            gap: 6px;
+          }
+
+          .view-controls-sidebar .btn-group-vertical .btn {
+            flex: 1 1 auto;
+            text-align: center;
+            border-radius: 6px !important;
+          }
+
           .view-controls-sidebar .btn {
             font-size: 13px;
             padding: 6px 10px;
           }
-          
+
+          .legend-items-sidebar {
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 6px;
+          }
+
           .legend-item-sidebar {
             font-size: 12px;
-            padding: 4px 6px;
+            margin-bottom: 0;
+          }
+
+          .legend-item-sidebar .legend-toggle {
+            padding: 5px 10px;
+            gap: 6px;
+          }
+
+          .legend-item-sidebar .legend-color {
+            width: 14px;
+            height: 14px;
           }
         }
       `;

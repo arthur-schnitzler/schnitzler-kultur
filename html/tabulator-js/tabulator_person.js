@@ -7,12 +7,15 @@ var table = new Tabulator("#tabulator-table-person", {
             paginationCounter:"rows",
             movableColumns:true,
             layout:"fitColumns",
-            responsiveLayout:"hide", // automatisch Spalten ausblenden bei Platzmangel
+            responsiveLayout:"collapse", // Spalten bei Platzmangel einklappen, per Toggle aufklappbar
+            responsiveLayoutCollapseStartOpen:false,
             dataLoader: true,
     columns:[ {
-        title: "Vorname", field: "vorname", sorter: "string", formatter: "html", responsive: 0, maxWidth: 250, width:200
+        formatter: "responsiveCollapse", width: 30, minWidth: 30, hozAlign: "center", resizable: false, headerSort: false, responsive: 0
     }, {
-        title: "Nachname", field: "nachname", sorter: "string", formatter: "html", responsive: 0, maxWidth: 450, width:250
+        title: "Vorname", field: "vorname", sorter: "string", formatter: "html", responsive: 0, maxWidth: 250, minWidth: 110
+    }, {
+        title: "Nachname", field: "nachname", sorter: "string", formatter: "html", responsive: 0, maxWidth: 450, minWidth: 130
     }, {
         title: "Namensvarianten", field: "namensvarianten", sorter: "string", formatter: "html", responsive: 2, width:300, maxWidth:500
     }, {
