@@ -284,11 +284,11 @@ optimizedStyles.textContent = `
     
     .yearbtn:hover {
         background: #f8f9fa;
-        color: #007bff;
+        color: var(--accent, #8A2E35);
     }
     
     .yearbtn.focus {
-        background: #007bff;
+        background: var(--accent, #8A2E35);
         color: white;
         font-weight: 600;
     }
