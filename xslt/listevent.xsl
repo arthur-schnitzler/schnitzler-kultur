@@ -342,24 +342,25 @@
                         </main>
                         <xsl:call-template name="html_footer"/>
                     </body>
-                    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-                        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-                        crossorigin=""/>
-                    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""/>
-                    <script>
+                    <xsl:if test="descendant::tei:location[1]/tei:geo[1]">
+                        <script>
                             var lat = <xsl:value-of select="replace(tokenize(descendant::tei:location[1]/tei:geo[1]/text(), ' ')[1], ',', '.')"/>;
                             var long = <xsl:value-of select="replace(tokenize(descendant::tei:location[1]/tei:geo[1]/text(), ' ')[2], ',', '.')"/>;
-                            $("#map_detail").css("height", "300px");
-                            var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
+                            var mapEl = document.getElementById('map_detail');
+                            if (mapEl &amp;&amp; typeof L !== 'undefined') {
+                            var map = L.map('map_detail', { scrollWheelZoom: false }).setView([Number(lat), Number(long)], 14);
                             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
                             maxZoom: 19,
                             attribution: '&amp;copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &amp;copy; <a href="https://carto.com/attributions">CARTO</a>'
                             }).addTo(map);
-                            var marker = L.marker([Number(lat), Number(long)]).addTo(map);
+                            L.circleMarker([Number(lat), Number(long)], {
+                            radius: 9, color: '#8A2E35', weight: 2,
+                            fillColor: '#8A2E35', fillOpacity: 0.85
+                            }).addTo(map);
+                            }
                         </script>
-                    <link
-                        href="https://unpkg.com/tabulator-tables@6.2.1/dist/css/tabulator_bootstrap5.min.css"
-                        rel="stylesheet"/>
+                    </xsl:if>
+                    <script src="js/citation.js" defer="defer"/>
                 </html>
             </xsl:result-document>
         </xsl:for-each>

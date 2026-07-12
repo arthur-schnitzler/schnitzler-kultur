@@ -352,6 +352,304 @@ a:focus {
     white-space: nowrap;
 }
 
+/* =========================================================
+   Ereignisseite: zweispaltiger Inhalt
+   ========================================================= */
+
+.event-body {
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 72px;
+    max-width: 1200px;
+    margin: 24px auto 64px;
+    align-items: start;
+}
+
+/* ------- Hauptspalte ------- */
+
+.event-section {
+    margin-bottom: 48px;
+}
+
+.event-section-title {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-faint);
+    border-bottom: 1px solid var(--line);
+    padding: 0 0 10px;
+    margin-bottom: 20px;
+}
+
+/* Werkliste */
+.work-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.work-item {
+    display: flex;
+    align-items: baseline;
+    gap: 18px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line-soft);
+}
+
+.work-item:last-child {
+    border-bottom: none;
+}
+
+.work-num {
+    flex-shrink: 0;
+    width: 24px;
+    font-size: 14px;
+    color: var(--ink-faint);
+    font-variant-numeric: tabular-nums;
+}
+
+.work-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.work-title {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--ink);
+}
+
+.work-title:hover {
+    color: var(--accent-dark);
+}
+
+.work-meta {
+    font-size: 14px;
+    color: var(--ink-muted);
+    margin: 2px 0 0;
+}
+
+.work-link {
+    flex-shrink: 0;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+/* Personen-Chips */
+.person-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.person-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 6px 16px 6px 6px;
+    color: var(--ink);
+    transition: border-color 0.15s ease;
+}
+
+.person-chip:hover,
+.person-chip:focus {
+    border-color: var(--accent);
+    color: var(--ink);
+    text-decoration: none;
+}
+
+.chip-avatar {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    flex-shrink: 0;
+}
+
+.chip-body {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.25;
+}
+
+.chip-name {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.chip-role {
+    font-size: 12px;
+    color: var(--ink-muted);
+}
+
+/* Zeitungs-Karten */
+.newspaper-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+}
+
+.newspaper-card {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 16px 20px;
+    color: var(--ink);
+    transition: border-color 0.15s ease;
+}
+
+.newspaper-card:hover,
+.newspaper-card:focus {
+    border-color: var(--accent);
+    color: var(--ink);
+    text-decoration: none;
+}
+
+.newspaper-card-title {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.newspaper-card-sub {
+    font-size: 13px;
+    color: var(--ink-muted);
+}
+
+/* ------- Seitenleiste ------- */
+
+.event-side {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.side-card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.side-card-map {
+    height: 220px;
+    width: 100%;
+    border-bottom: 1px solid var(--line);
+    z-index: 0;
+}
+
+.side-card-body {
+    padding: 20px 24px 22px;
+}
+
+.side-card-title {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 0;
+    margin: 0 0 6px;
+}
+
+.side-card-title-small {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-faint);
+    margin-bottom: 14px;
+}
+
+.side-card-sub {
+    font-size: 14px;
+    color: var(--ink-muted);
+    margin: 0 0 4px;
+}
+
+.side-card-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 20px;
+    font-size: 14px;
+    margin: 10px 0 0;
+}
+
+/* Datensatz-Zeilen */
+.record-list {
+    list-style: none;
+    margin: 0 0 16px;
+    padding: 0;
+}
+
+.record-list li {
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    padding: 7px 0;
+    border-bottom: 1px solid var(--line-soft);
+    font-size: 14px;
+}
+
+.record-list li:last-child {
+    border-bottom: none;
+}
+
+.record-label {
+    flex-shrink: 0;
+    width: 72px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-faint);
+}
+
+.copy-citation {
+    width: 100%;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: var(--surface-2);
+    color: var(--ink);
+    font-size: 14px;
+    font-weight: 600;
+    padding: 9px 14px;
+}
+
+.copy-citation:hover {
+    border-color: var(--accent);
+    color: var(--accent-dark);
+}
+
+.copy-citation.copied {
+    border-color: var(--accent);
+    color: var(--accent-dark);
+    background: var(--surface);
+}
+
+/* Kontext-Karte */
+.side-card-context {
+    background: var(--surface-2);
+}
+
+.side-card-context-text {
+    font-size: 15px;
+    color: var(--ink);
+    margin: 0;
+}
+
+/* ------- Responsiv ------- */
+
 @media (max-width: 999.98px) {
     /* Ereignis-Navigation kompakt: nur Pfeile + Liste */
     .event-nav-inner {
@@ -373,5 +671,12 @@ a:focus {
 
     .event-date {
         font-size: 19px;
+    }
+
+    /* Seitenleiste unter die Hauptspalte */
+    .event-body {
+        grid-template-columns: 1fr;
+        gap: 40px;
+        margin-bottom: 48px;
     }
 }
