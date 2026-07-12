@@ -1,0 +1,87 @@
+/* =========================================================
+   schnitzler-kultur – Design-Tokens + Basis-Stile
+   Wird NACH Bootstrap und style.css geladen und
+   überschreibt deren Grundwerte.
+   ========================================================= */
+
+:root {
+    /* Flächen */
+    --bg: #FAF8F5;            /* warmes Weiß */
+    --surface: #FFFFFF;
+    --surface-2: #F4F0EA;
+
+    /* Text */
+    --ink: #211E1C;
+    --ink-muted: #6B645C;
+    --ink-faint: #9A9288;
+
+    /* Linien */
+    --line: #E5DFD6;
+    --line-soft: #F0EBE3;
+
+    /* Akzent */
+    --accent: #8A2E35;        /* Bordeaux */
+    --accent-dark: #5E1F24;
+
+    /* Schrift */
+    --font-sans: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* ------- Basis ------- */
+
+body {
+    background-color: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: var(--font-sans);
+    color: var(--ink);
+}
+
+/* keine Serifenschrift – auch in Editionstexten */
+.card-body-text,
+.editionText,
+.list-for-footnotes {
+    font-family: var(--font-sans);
+}
+
+/* ------- Links ------- */
+
+a,
+a:visited {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: var(--accent-dark);
+    text-decoration: underline;
+}
+
+/* Buttons/Nav-Links nicht unterstreichen */
+.btn:hover,
+.nav-link:hover,
+.navbar-brand:hover,
+.dropdown-item:hover,
+.page-link:hover {
+    text-decoration: none;
+}
+
+/* Bootstrap-Variablen auf die Tokens mappen */
+:root {
+    --bs-body-bg: var(--bg);
+    --bs-body-color: var(--ink);
+    --bs-body-font-family: var(--font-sans);
+    --bs-link-color: var(--accent);
+    --bs-link-hover-color: var(--accent-dark);
+}
+
+/* Fokusring in Akzentfarbe (statt Bootstrap-Blau) */
+:focus-visible {
+    outline: 0;
+    box-shadow: 0 0 0 .25rem rgba(138, 46, 53, .25);
+}
