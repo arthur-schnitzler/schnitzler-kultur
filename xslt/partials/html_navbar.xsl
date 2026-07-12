@@ -4,7 +4,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all" version="2.0">
     <xsl:template match="/" name="nav_bar">
         <header class="site-header">
-            <nav aria-label="Primary" class="navbar navbar-expand-lg site-nav">
+            <nav aria-label="Primary" class="navbar navbar-expand-md site-nav">
                 <div class="container-fluid site-nav-inner">
                     <a href="index.html" class="navbar-brand brand-wordmark" rel="home">
                         <span class="brand-name">Schnitzler</span>
@@ -17,7 +17,7 @@
                         <span class="navbar-toggler-icon"/>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-lg-center">
+                        <ul class="navbar-nav ms-auto mb-2 mb-md-0 align-items-md-center">
                             <li class="nav-item">
                                 <a class="nav-link" href="listevent.html">Veranstaltungen</a>
                             </li>
@@ -134,7 +134,7 @@
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button"
                                     data-bs-toggle="dropdown" aria-expanded="false">Projekt</a>
-                                <ul class="dropdown-menu dropdown-menu-lg-end">
+                                <ul class="dropdown-menu dropdown-menu-md-end">
                                     <li>
                                         <a class="dropdown-item" href="ueber-das-projekt.html">Über das
                                             Projekt</a>

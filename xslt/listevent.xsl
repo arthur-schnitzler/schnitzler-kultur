@@ -299,6 +299,8 @@
                             <div class="event-nav-inner">
                                 <xsl:choose>
                                     <xsl:when test="$prev">
+                                        <xsl:variable name="prevdate"
+                                            select="string(($prev/@when-iso, $prev/@from-iso, $prev/@notBefore-iso, $prev/@to-iso, $prev/@notAfter-iso)[1])"/>
                                         <a class="event-nav-link event-nav-prev"
                                             href="{concat($prev/@xml:id, '.html')}"
                                             title="{normalize-space($prev/tei:eventName[1])}">
@@ -308,6 +310,13 @@
                                                 <xsl:value-of
                                                   select="normalize-space($prev/tei:eventName[1])"/>
                                             </span>
+                                            <xsl:if test="$prevdate != ''">
+                                                <span class="event-nav-date">
+                                                  <xsl:value-of
+                                                  select="concat(substring($prevdate, 9, 2), '.', substring($prevdate, 6, 2), '.', substring($prevdate, 1, 4))"
+                                                  />
+                                                </span>
+                                            </xsl:if>
                                         </a>
                                     </xsl:when>
                                     <xsl:otherwise>
@@ -318,6 +327,8 @@
                                     Veranstaltungen</a>
                                 <xsl:choose>
                                     <xsl:when test="$next">
+                                        <xsl:variable name="nextdate"
+                                            select="string(($next/@when-iso, $next/@from-iso, $next/@notBefore-iso, $next/@to-iso, $next/@notAfter-iso)[1])"/>
                                         <a class="event-nav-link event-nav-next"
                                             href="{concat($next/@xml:id, '.html')}"
                                             title="{normalize-space($next/tei:eventName[1])}">
@@ -326,6 +337,13 @@
                                                 <xsl:value-of
                                                   select="normalize-space($next/tei:eventName[1])"/>
                                             </span>
+                                            <xsl:if test="$nextdate != ''">
+                                                <span class="event-nav-date">
+                                                  <xsl:value-of
+                                                  select="concat(substring($nextdate, 9, 2), '.', substring($nextdate, 6, 2), '.', substring($nextdate, 1, 4))"
+                                                  />
+                                                </span>
+                                            </xsl:if>
                                             <span class="event-nav-arrow" aria-hidden="true">→</span>
                                         </a>
                                     </xsl:when>
