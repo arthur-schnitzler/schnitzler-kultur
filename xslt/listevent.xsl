@@ -260,7 +260,18 @@
                 <script src="tabulator-js/tabulator_event.js"/>
             </body>
         </html>
-        <xsl:for-each select=".//tei:event[@xml:id]">
+        <!-- Ereignisse chronologisch sortieren, um Vorgänger/Nachfolger zu bestimmen -->
+        <xsl:variable name="sorted-events" as="element()*">
+            <xsl:perform-sort select=".//tei:event[@xml:id]">
+                <xsl:sort
+                    select="string((@when-iso, @from-iso, @notBefore-iso, @to-iso, @notAfter-iso, '9999-12-31')[1])"
+                    data-type="text"/>
+            </xsl:perform-sort>
+        </xsl:variable>
+        <xsl:for-each select="$sorted-events">
+            <xsl:variable name="pos" select="position()"/>
+            <xsl:variable name="prev" select="$sorted-events[$pos - 1]"/>
+            <xsl:variable name="next" select="$sorted-events[$pos + 1]"/>
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
             <xsl:variable name="name"
                 select="normalize-space(string-join(./tei:eventName[1]//text()))"/>
@@ -284,9 +295,49 @@
                     </head>
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
+                        <nav class="event-nav" aria-label="Ereignis-Navigation">
+                            <div class="event-nav-inner">
+                                <xsl:choose>
+                                    <xsl:when test="$prev">
+                                        <a class="event-nav-link event-nav-prev"
+                                            href="{concat($prev/@xml:id, '.html')}"
+                                            title="{normalize-space($prev/tei:eventName[1])}">
+                                            <span class="event-nav-arrow" aria-hidden="true">←</span>
+                                            <span class="event-nav-text">
+                                                <span class="event-nav-kicker">Vorheriges: </span>
+                                                <xsl:value-of
+                                                  select="normalize-space($prev/tei:eventName[1])"/>
+                                            </span>
+                                        </a>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <span class="event-nav-link event-nav-prev"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                                <a class="event-nav-all" href="listevent.html">Alle
+                                    Veranstaltungen</a>
+                                <xsl:choose>
+                                    <xsl:when test="$next">
+                                        <a class="event-nav-link event-nav-next"
+                                            href="{concat($next/@xml:id, '.html')}"
+                                            title="{normalize-space($next/tei:eventName[1])}">
+                                            <span class="event-nav-text">
+                                                <span class="event-nav-kicker">Nächstes: </span>
+                                                <xsl:value-of
+                                                  select="normalize-space($next/tei:eventName[1])"/>
+                                            </span>
+                                            <span class="event-nav-arrow" aria-hidden="true">→</span>
+                                        </a>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <span class="event-nav-link event-nav-next"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </div>
+                        </nav>
                         <main class="flex-shrink-0 flex-grow-1">
                             <div class="container">
-                                <xsl:call-template name="event_detail"/> 
+                                <xsl:call-template name="event_detail"/>
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>

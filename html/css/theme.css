@@ -221,3 +221,157 @@ a:focus {
         font-size: 11px;
     }
 }
+
+/* =========================================================
+   Ereignisseite: Prev/Next-Navigation
+   ========================================================= */
+
+.event-nav {
+    background: var(--surface-2);
+    border-bottom: 1px solid var(--line);
+}
+
+.event-nav-inner {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 24px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 32px;
+    height: 48px;
+}
+
+.event-nav-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+    font-size: 14px;
+    color: var(--ink-muted);
+}
+
+.event-nav-next {
+    justify-content: flex-end;
+    text-align: right;
+}
+
+.event-nav-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.event-nav-kicker {
+    color: var(--ink-faint);
+}
+
+.event-nav-arrow {
+    flex-shrink: 0;
+    color: var(--accent);
+}
+
+.event-nav-link:hover,
+.event-nav-link:focus {
+    color: var(--accent-dark);
+    text-decoration: none;
+}
+
+.event-nav-link:hover .event-nav-text {
+    text-decoration: underline;
+}
+
+.event-nav-all {
+    flex-shrink: 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--ink);
+    white-space: nowrap;
+}
+
+.event-nav-all:hover,
+.event-nav-all:focus {
+    color: var(--accent-dark);
+}
+
+/* =========================================================
+   Ereignisseite: Artikelkopf
+   ========================================================= */
+
+.event-article {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.event-head {
+    padding: 48px 0 8px;
+}
+
+.event-kicker {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-faint);
+    margin-bottom: 16px;
+}
+
+.event-kicker-type {
+    color: var(--accent);
+}
+
+.event-title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1.15;
+    max-width: 820px;
+    text-align: left;
+    padding: 0;
+    margin: 0 0 16px;
+}
+
+.event-title em {
+    font-style: italic;
+}
+
+.event-date {
+    font-size: 24px;
+    font-style: italic;
+    color: var(--ink-muted);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 24px;
+    margin-bottom: 8px;
+}
+
+.event-date-link {
+    font-size: 15px;
+    font-style: normal;
+    white-space: nowrap;
+}
+
+@media (max-width: 999.98px) {
+    /* Ereignis-Navigation kompakt: nur Pfeile + Liste */
+    .event-nav-inner {
+        padding: 0 20px;
+        gap: 12px;
+    }
+
+    .event-nav-kicker {
+        display: none;
+    }
+
+    .event-title {
+        font-size: 32px;
+    }
+
+    .event-head {
+        padding: 32px 0 8px;
+    }
+
+    .event-date {
+        font-size: 19px;
+    }
+}

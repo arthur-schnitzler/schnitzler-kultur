@@ -16,12 +16,107 @@
             <xsl:value-of select="concat(data(@xml:id), '.html')"/>
         </xsl:variable>
         <div class="container-fluid">
-            <div class="card-body-index">
-                <xsl:if test="normalize-space(tei:eventName[1])">
-                    <h1 class="text-center">
-                        <xsl:value-of select="normalize-space(tei:eventName[1])"/>
-                    </h1>
-                </xsl:if>
+            <div class="event-article">
+                <header class="event-head">
+                    <p class="event-kicker">
+                        <span class="event-kicker-type">
+                            <xsl:choose>
+                                <xsl:when test="normalize-space(tei:eventName[1]/@n)">
+                                    <xsl:value-of select="tei:eventName[1]/@n"/>
+                                </xsl:when>
+                                <xsl:otherwise>Veranstaltung</xsl:otherwise>
+                            </xsl:choose>
+                        </span>
+                        <span class="event-kicker-sep" aria-hidden="true"> — </span>
+                        <span class="event-kicker-id">
+                            <xsl:text>PMB </xsl:text>
+                            <xsl:value-of select="substring-after(@xml:id, 'pmb')"/>
+                        </span>
+                    </p>
+                    <xsl:if test="normalize-space(tei:eventName[1])">
+                        <xsl:variable name="titletext"
+                            select="normalize-space(tei:eventName[1])"/>
+                        <xsl:variable name="firstwork"
+                            select="normalize-space(tei:listBibl/tei:bibl[not(tei:note[contains(., 'rezensi')])][1]/tei:title)"/>
+                        <h1 class="event-title">
+                            <xsl:choose>
+                                <!-- Werktitel im Ereignisnamen kursiv auszeichnen -->
+                                <xsl:when
+                                    test="$firstwork != '' and contains($titletext, $firstwork)">
+                                    <xsl:value-of
+                                        select="substring-before($titletext, $firstwork)"/>
+                                    <em>
+                                        <xsl:value-of select="$firstwork"/>
+                                    </em>
+                                    <xsl:value-of
+                                        select="substring-after($titletext, $firstwork)"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="$titletext"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </h1>
+                    </xsl:if>
+                    <p class="event-date">
+                        <span class="event-date-text">
+                            <xsl:choose>
+                                <xsl:when test="@from-iso and @to-iso">
+                                    <xsl:value-of select="mam:wochentag(@from-iso)"/>
+                                    <xsl:text>, </xsl:text>
+                                    <xsl:value-of select="format-date(@from-iso, '[D1]. ')"/>
+                                    <xsl:value-of select="mam:monat(@from-iso)"/>
+                                    <xsl:value-of select="format-date(@from-iso, ' [Y]')"/>
+                                    <xsl:text> bis </xsl:text>
+                                    <xsl:value-of select="mam:wochentag(@to-iso)"/>
+                                    <xsl:text>, </xsl:text>
+                                    <xsl:value-of select="format-date(@to-iso, '[D1]. ')"/>
+                                    <xsl:value-of select="mam:monat(@to-iso)"/>
+                                    <xsl:value-of select="format-date(@to-iso, ' [Y]')"/>
+                                </xsl:when>
+                                <xsl:when
+                                    test="(@from-iso = '' or not(@from-iso)) and @to-iso">
+                                    <xsl:text>bis </xsl:text>
+                                    <xsl:value-of select="mam:wochentag(@to-iso)"/>
+                                    <xsl:text>, </xsl:text>
+                                    <xsl:value-of select="format-date(@to-iso, '[D1]. ')"/>
+                                    <xsl:value-of select="mam:monat(@to-iso)"/>
+                                    <xsl:value-of select="format-date(@to-iso, ' [Y]')"/>
+                                </xsl:when>
+                                <xsl:when test="@when-iso">
+                                    <xsl:value-of select="mam:wochentag(@when-iso)"/>
+                                    <xsl:text>, </xsl:text>
+                                    <xsl:value-of select="format-date(@when-iso, '[D1]. ')"/>
+                                    <xsl:value-of select="mam:monat(@when-iso)"/>
+                                    <xsl:value-of select="format-date(@when-iso, ' [Y]')"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:text>Datum unbekannt</xsl:text>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </span>
+                        <xsl:if test="@when-iso">
+                            <a class="event-date-link" target="_blank">
+                                <xsl:attribute name="href">
+                                    <xsl:value-of
+                                        select="concat('https://schnitzler-chronik.acdh.oeaw.ac.at/', @when-iso, '.html')"
+                                    />
+                                </xsl:attribute>
+                                <xsl:text>Dieser Tag in der Chronik →</xsl:text>
+                            </a>
+                            <xsl:variable name="when" select="@when-iso"/>
+                            <xsl:if test="$tb-days/descendant::*:date[. = $when][1]">
+                                <a class="event-date-link" target="_blank">
+                                    <xsl:attribute name="href">
+                                        <xsl:value-of
+                                            select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', $when, '.html')"
+                                        />
+                                    </xsl:attribute>
+                                    <xsl:text>Dieser Tag im Tagebuch →</xsl:text>
+                                </a>
+                            </xsl:if>
+                        </xsl:if>
+                    </p>
+                </header>
                 <div id="mentions">
                     <xsl:if test="key('only-relevant-uris', tei:idno/@subtype, $relevant-uris)[1]">
                         <p class="buttonreihe">
@@ -38,91 +133,10 @@
                         </p>
                     </xsl:if>
                 </div>
-                
+
                 <xsl:variable name="xmlid" select="@xml:id"/>
                 <table class="table entity-table mx-auto" style="max-width: 800px;">
                     <tbody>
-                        <tr>
-                            <th> Datum </th>
-                            <td>
-                                <ul>
-                                    <li>
-                                <xsl:choose>
-                                    <xsl:when test="@from-iso and @to-iso">
-                                        <xsl:value-of select="mam:wochentag(@from-iso)"/>
-                                        <xsl:text>, </xsl:text>
-                                        <xsl:value-of
-                                            select="format-date(@from-iso, '[D1]. ')"/>
-                                        <xsl:value-of select="mam:monat(@from-iso)"/>
-                                        <xsl:value-of
-                                            select="format-date(@from-iso, ' [Y]')"/>
-                                        <xsl:text> bis </xsl:text>
-                                        <xsl:value-of select="mam:wochentag(@to-iso)"/>
-                                        <xsl:text>, </xsl:text>
-                                        <xsl:value-of
-                                            select="format-date(@to-iso, '[D1]. ')"/>
-                                        <xsl:value-of select="mam:monat(@to-iso)"/>
-                                        <xsl:value-of select="format-date(@to-iso, ' [Y]')"
-                                        />
-                                    </xsl:when>
-                                    <xsl:when
-                                        test="(@from-iso = '' or not(@from-iso)) and @to-iso">
-                                        <xsl:text>bis </xsl:text>
-                                        <xsl:value-of select="mam:wochentag(@to-iso)"/>
-                                        <xsl:text>, </xsl:text>
-                                        <xsl:value-of
-                                            select="format-date(@to-iso, '[D1]. ')"/>
-                                        <xsl:value-of select="mam:monat(@to-iso)"/>
-                                        <xsl:value-of select="format-date(@to-iso, ' [Y]')"
-                                        />
-                                    </xsl:when>
-                                    <xsl:otherwise>
-                                        <xsl:value-of select="mam:wochentag(@when-iso)"/>
-                                        <xsl:text>, </xsl:text>
-                                        <xsl:value-of
-                                            select="format-date(@when-iso, '[D1]. ')"/>
-                                        <xsl:value-of select="mam:monat(@when-iso)"/>
-                                        <xsl:value-of
-                                            select="format-date(@when-iso, ' [Y]')"/>
-                                    </xsl:otherwise>
-                                </xsl:choose>
-                                <xsl:text> </xsl:text>
-                                <xsl:element name="a">
-                                    <xsl:attribute name="class">
-                                        <xsl:text>schnitzler-chronik-link ms-3</xsl:text>
-                                    </xsl:attribute>
-                                    <xsl:attribute name="target">
-                                        <xsl:text>_blank</xsl:text>
-                                    </xsl:attribute>
-                                    <xsl:attribute name="href">
-                                        <xsl:value-of
-                                            select="concat('https://schnitzler-chronik.acdh.oeaw.ac.at/', @when-iso, '.html')"
-                                        />
-                                    </xsl:attribute>
-                                    <xsl:text>zur Chronik</xsl:text>
-                                </xsl:element>
-                                <xsl:variable name="when" select="@when-iso"/>
-                                <xsl:text> </xsl:text>
-                                <xsl:if test="$tb-days/descendant::*:date[. = $when][1]">
-                                    <xsl:element name="a">
-                                        <xsl:attribute name="class">
-                                            <xsl:text>schnitzler-tagebuch-link ms-3</xsl:text>
-                                        </xsl:attribute>
-                                        <xsl:attribute name="target">
-                                            <xsl:text>_blank</xsl:text>
-                                        </xsl:attribute>
-                                        <xsl:attribute name="href">
-                                            <xsl:value-of
-                                                select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', $when, '.html')"
-                                            />
-                                        </xsl:attribute>
-                                        <xsl:text>zum Tagebuch</xsl:text>
-                                    </xsl:element>
-                                </xsl:if>
-                                    </li>
-                                </ul>
-                            </td>
-                        </tr>
                         <tr>
                             <th>Veranstaltungsort</th>
                             <td>
