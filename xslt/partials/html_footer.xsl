@@ -21,9 +21,9 @@
                         Mitarbeit von Katharina Sophie Kühnel.</p>
                 </div>
                 <div class="site-footer-col">
-                    <p class="site-footer-title">ACDH-CH</p>
-                    <p>Austrian Centre for Digital Humanities and Cultural
-                        Heritage<br/>Österreichische Akademie der
+                    <p class="site-footer-title">ACDH</p>
+                    <p>Austrian Centre for Digital
+                        Humanities<br/>Österreichische Akademie der
                         Wissenschaften<br/>Bäckerstraße 13<br/>1010 Wien</p>
                     <p>T: +43 1 51581-2200<br/>E: <a
                             href="mailto:acdh-helpdesk@oeaw.ac.at"
