@@ -375,8 +375,8 @@
                             attribution: '&amp;copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &amp;copy; <a href="https://carto.com/attributions">CARTO</a>'
                             }).addTo(map);
                             L.circleMarker([Number(lat), Number(long)], {
-                            radius: 9, color: '#8A2E35', weight: 2,
-                            fillColor: '#8A2E35', fillOpacity: 0.85
+                            radius: 9, color: '#AC7790', weight: 2,
+                            fillColor: '#AC7790', fillOpacity: 0.85
                             }).addTo(map);
                             }
                         </script>

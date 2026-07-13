@@ -106,7 +106,7 @@
                                         select="concat('https://schnitzler-chronik.acdh.oeaw.ac.at/', @when-iso, '.html')"
                                     />
                                 </xsl:attribute>
-                                <xsl:text>Dieser Tag in der Chronik →</xsl:text>
+                                <xsl:text>Dieser Tag in der Schnitzler-Chronik →</xsl:text>
                             </a>
                             <xsl:variable name="when" select="@when-iso"/>
                             <xsl:if test="$tb-days/descendant::*:date[. = $when][1]">
@@ -116,7 +116,7 @@
                                             select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', $when, '.html')"
                                         />
                                     </xsl:attribute>
-                                    <xsl:text>Dieser Tag im Tagebuch →</xsl:text>
+                                    <xsl:text>Dieser Tag im Schnitzler-Tagebuch →</xsl:text>
                                 </a>
                             </xsl:if>
                         </xsl:if>

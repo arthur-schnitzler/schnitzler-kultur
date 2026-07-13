@@ -190,11 +190,12 @@ class SimpleCalendar {
           display: flex;
           justify-content: space-between;
           align-items: center;
-          margin-bottom: 20px;
-          padding: 15px 20px;
-          background: #f8f9fa;
+          margin-bottom: 16px;
+          padding: 4px 8px;
+          background: var(--accent, #AC7790);
           border-radius: 8px;
-          border: 1px solid #dee2e6;
+          border: none;
+          color: #fff;
         }
         
         .nav-controls-left,
@@ -225,41 +226,41 @@ class SimpleCalendar {
         }
         
         .nav-btn {
-          background: #fff;
-          border: 1px solid #dee2e6;
+          background: transparent;
+          border: none;
           border-radius: 6px;
-          padding: 8px 12px;
+          padding: 4px 8px;
           cursor: pointer;
-          font-size: 16px;
-          min-width: 40px;
+          font-size: 14px;
+          min-width: 30px;
           display: flex;
           align-items: center;
           justify-content: center;
           transition: all 0.2s ease;
+          color: #fff;
         }
-        
+
         .nav-btn:hover {
-          background: #e9ecef;
-          border-color: #adb5bd;
-          transform: translateY(-1px);
+          background: rgba(255, 255, 255, 0.2);
         }
         
         .nav-btn.today {
-          background: var(--accent, #8A2E35);
-          border-color: var(--accent, #8A2E35);
+          background: var(--accent, #AC7790);
+          border-color: var(--accent, #AC7790);
           color: white;
         }
         
         .nav-btn.today:hover {
-          background: var(--accent-dark, #5E1F24);
-          border-color: var(--accent-dark, #5E1F24);
+          background: var(--accent-dark, #7D4E63);
+          border-color: var(--accent-dark, #7D4E63);
         }
         
         .period-title {
           margin: 0;
-          font-size: 24px;
+          padding: 0;
+          font-size: 16px;
           font-weight: 600;
-          color: #333;
+          color: #fff;
         }
         
         .view-selector .form-select {
@@ -326,7 +327,7 @@ class SimpleCalendar {
         }
         
         .month-link:hover {
-          color: var(--accent, #8A2E35);
+          color: var(--accent, #AC7790);
           text-decoration: underline;
         }
         
@@ -472,7 +473,7 @@ class SimpleCalendar {
         }
         
         .event-item-large {
-          background: var(--accent, #8A2E35);
+          background: var(--accent, #AC7790);
           color: white;
           padding: 1px 3px;
           border-radius: 2px;
@@ -499,31 +500,21 @@ class SimpleCalendar {
         /* Responsive design */
         @media (max-width: 768px) {
           .calendar-header {
-            flex-direction: column;
-            gap: 15px;
-            padding: 15px;
+            gap: 8px;
+            padding: 4px 6px;
           }
-          
-          .nav-controls-left,
-          .nav-controls-right {
-            order: 2;
-            justify-content: space-between;
-            width: 100%;
-          }
-          
+
           .current-period {
-            order: 1;
-            gap: 10px;
+            gap: 6px;
           }
-          
+
           .period-navigation {
             flex-wrap: wrap;
             justify-content: center;
           }
-          
-          
+
           .period-title {
-            font-size: 20px;
+            font-size: 15px;
           }
         }
         
@@ -815,8 +806,8 @@ class SimpleCalendar {
         }
         
         .view-controls-sidebar .btn.active {
-          background-color: var(--accent, #8A2E35);
-          border-color: var(--accent, #8A2E35);
+          background-color: var(--accent, #AC7790);
+          border-color: var(--accent, #AC7790);
           color: white;
           box-shadow: 0 2px 4px rgba(0,123,255,0.3);
         }
@@ -862,7 +853,7 @@ class SimpleCalendar {
         }
         
         .legend-item-sidebar:not(.disabled) .legend-toggle {
-          background: linear-gradient(135deg, var(--category-color, var(--accent, #8A2E35)) 0%, var(--category-color, var(--accent, #8A2E35)) 100%);
+          background: linear-gradient(135deg, var(--category-color, var(--accent, #AC7790)) 0%, var(--category-color, var(--accent, #AC7790)) 100%);
           color: white;
           font-weight: 500;
         }
