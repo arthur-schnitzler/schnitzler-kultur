@@ -35,14 +35,15 @@
             <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
-                    <div class="container-fluid">
-                        <div class="card">
-                            <div class="card-header" style="text-align:center">
-                                <h1>
-                                    <xsl:value-of select="$doc_title"/>
-                                </h1>
-                            </div>
-                            <div class="card-body">
+                    <div class="container">
+                        <header class="page-head">
+                            <p class="page-kicker">Register</p>
+                            <h1>
+                                <xsl:value-of select="$doc_title"/>
+                            </h1>
+                        </header>
+                        <div>
+                            <div>
                                 <div id="map"/>
                                 <div style="display: flex; justify-content: center;">
                                     <table id="placesTable" style="width:100%; margin: auto;">

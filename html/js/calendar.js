@@ -245,14 +245,14 @@ class SimpleCalendar {
         }
         
         .nav-btn.today {
-          background: #007bff;
-          border-color: #007bff;
+          background: var(--accent, #8A2E35);
+          border-color: var(--accent, #8A2E35);
           color: white;
         }
         
         .nav-btn.today:hover {
-          background: #0056b3;
-          border-color: #0056b3;
+          background: var(--accent-dark, #5E1F24);
+          border-color: var(--accent-dark, #5E1F24);
         }
         
         .period-title {
@@ -326,7 +326,7 @@ class SimpleCalendar {
         }
         
         .month-link:hover {
-          color: #007bff;
+          color: var(--accent, #8A2E35);
           text-decoration: underline;
         }
         
@@ -472,7 +472,7 @@ class SimpleCalendar {
         }
         
         .event-item-large {
-          background: #007bff;
+          background: var(--accent, #8A2E35);
           color: white;
           padding: 1px 3px;
           border-radius: 2px;
@@ -609,10 +609,10 @@ class SimpleCalendar {
     viewControls.innerHTML = `
       <h6 class="sidebar-title">Ansicht</h6>
       <div class="btn-group-vertical w-100" role="group">
-        <button class="btn btn-outline-primary view-btn ${this.currentView === 'year' ? 'active' : ''}" data-view="year">
+        <button class="btn btn-outline-secondary view-btn ${this.currentView === 'year' ? 'active' : ''}" data-view="year">
           <i class="bi bi-calendar3"></i> Jahr
         </button>
-        <button class="btn btn-outline-primary view-btn ${this.currentView === 'month' ? 'active' : ''}" data-view="month">
+        <button class="btn btn-outline-secondary view-btn ${this.currentView === 'month' ? 'active' : ''}" data-view="month">
           <i class="bi bi-calendar-month"></i> Monat
         </button>
       </div>
@@ -815,8 +815,8 @@ class SimpleCalendar {
         }
         
         .view-controls-sidebar .btn.active {
-          background-color: #007bff;
-          border-color: #007bff;
+          background-color: var(--accent, #8A2E35);
+          border-color: var(--accent, #8A2E35);
           color: white;
           box-shadow: 0 2px 4px rgba(0,123,255,0.3);
         }
@@ -862,7 +862,7 @@ class SimpleCalendar {
         }
         
         .legend-item-sidebar:not(.disabled) .legend-toggle {
-          background: linear-gradient(135deg, var(--category-color, #007bff) 0%, var(--category-color, #007bff) 100%);
+          background: linear-gradient(135deg, var(--category-color, var(--accent, #8A2E35)) 0%, var(--category-color, var(--accent, #8A2E35)) 100%);
           color: white;
           font-weight: 500;
         }

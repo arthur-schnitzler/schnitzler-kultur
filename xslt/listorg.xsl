@@ -24,13 +24,14 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     <div class="container">
-                        <div class="card">
-                            <div class="card-header" style="text-align:center">
-                                <h1>
-                                    <xsl:value-of select="$doc_title"/>
-                                </h1>
-                            </div>
-                            <div class="card-body">
+                        <header class="page-head">
+                            <p class="page-kicker">Register</p>
+                            <h1>
+                                <xsl:value-of select="$doc_title"/>
+                            </h1>
+                        </header>
+                        <div>
+                            <div>
                                 <div id="container" class="mb-3"
                                     style="max-width:1200px; margin: 0 auto; width: 100%;">
                                     <table class="table table-sm display" id="tabulator-table-org">

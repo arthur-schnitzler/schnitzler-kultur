@@ -24,7 +24,7 @@
                 </xsl:call-template>
                 <meta name="google-site-verification" content="dc888ZmCroA0_VKEB86Vss7wy4Jbkaro0j2QfM8GOak" />
             </head>
-            <body class="page" style="background-color:#f1f1f1;">
+            <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     <div class="container">
@@ -41,9 +41,7 @@
                                         Sophie Kühnel</h4>
                                     <div style="text-align: right">
                                         <a href="#body">
-                                            <button class="btn btn-round"
-                                                style="background-color: #6B4C5A; color: white;"
-                                                >Weiter</button>
+                                            <button class="btn btn-round">Weiter</button>
                                         </a>
                                     </div>
                                 </div>

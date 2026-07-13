@@ -6,7 +6,7 @@
 
 :root {
     /* Flächen */
-    --bg: #FAF8F5;            /* warmes Weiß */
+    --bg: #FFFFFF;            /* weiß */
     --surface: #FFFFFF;
     --surface-2: #F4F0EA;
 
@@ -116,32 +116,16 @@ a:focus {
     padding-right: 32px;
 }
 
-/* Wortmarke */
-.brand-wordmark {
-    display: flex;
-    align-items: baseline;
-    gap: 10px;
-    text-decoration: none;
+/* Logo (übersteuert die Altregel .navbar .navbar-brand img { height: 5rem }) */
+.site-header .navbar-brand {
+    padding: 6px 0;
 }
 
-.brand-name {
-    font-size: 22px;
-    font-weight: 600;
-    color: var(--ink);
-    line-height: 1;
-}
-
-.brand-sub {
-    font-size: 13px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.14em;
-    color: var(--accent);
-    line-height: 1;
-}
-
-.brand-wordmark:hover .brand-name {
-    color: var(--accent-dark);
+.site-header .navbar-brand img.site-logo {
+    height: 52px;
+    width: auto;
+    max-width: none;
+    max-height: none;
 }
 
 /* Navigationslinks */
@@ -173,27 +157,6 @@ a:focus {
     background-color: var(--surface-2);
 }
 
-/* Such-Pill */
-.search-pill {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    padding: 6px 16px;
-    margin-left: 12px;
-    font-size: 14px;
-    color: var(--ink-muted);
-    background: var(--surface);
-}
-
-.search-pill:hover,
-.search-pill:focus {
-    color: var(--accent-dark);
-    border-color: var(--accent);
-    text-decoration: none;
-}
-
 /* Burger-Menü-Zustand (Bootstrap navbar-expand-md: unter 768 px) */
 @media (max-width: 767.98px) {
     .site-header .navbar {
@@ -205,22 +168,8 @@ a:focus {
         padding-right: 20px;
     }
 
-    .search-pill {
-        margin-left: 0;
-        margin-top: 8px;
-    }
-}
-
-@media (max-width: 575.98px) {
-    /* Wortmarke stapeln, damit der Menü-Button daneben Platz hat */
-    .brand-wordmark {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 3px;
-    }
-
-    .brand-sub {
-        font-size: 11px;
+    .site-header .navbar-brand img.site-logo {
+        height: 44px;
     }
 }
 
@@ -732,6 +681,134 @@ a:focus {
     .site-footer br {
         display: inline;
     }
+}
+
+/* =========================================================
+   Listen-, Register-, Kalender- und Statistikseiten
+   ========================================================= */
+
+/* Seitenkopf in der Formensprache der Ereignisseite */
+.page-head {
+    padding: 40px 0 20px;
+}
+
+.page-kicker {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--accent);
+    margin-bottom: 10px;
+}
+
+.page-head h1 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: left;
+    padding: 0;
+    margin: 0 0 8px;
+}
+
+.page-sub {
+    font-size: 16px;
+    color: var(--ink-muted);
+    margin: 0;
+}
+
+.page-sub a {
+    font-size: 15px;
+}
+
+.page-intro {
+    max-width: 800px;
+    color: var(--ink);
+    margin-bottom: 24px;
+}
+
+/* Tabulator-Tabellen als Karten */
+.tabulator {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+}
+
+.tabulator .tabulator-header,
+.tabulator .tabulator-header .tabulator-col {
+    background: var(--surface-2);
+}
+
+.tabulator .tabulator-header {
+    border-bottom: 1px solid var(--line);
+}
+
+/* Karte auf der Orte-Seite */
+div#map {
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    margin-bottom: 24px;
+    z-index: 0;
+}
+
+/* Download-Bereich unter den Tabellen */
+.dl-section {
+    margin: 28px 0 56px;
+}
+
+.dl-section .btn-outline-secondary {
+    border-color: var(--line);
+    color: var(--ink-muted);
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+.dl-section .btn-outline-secondary:hover,
+.dl-section .btn-outline-secondary:focus {
+    background: var(--surface-2);
+    border-color: var(--accent);
+    color: var(--accent-dark);
+}
+
+/* Formularelemente: Akzent statt Bootstrap-Blau */
+.form-check-input:checked {
+    background-color: var(--accent);
+    border-color: var(--accent);
+}
+
+.btn-check:checked + .btn-outline-secondary {
+    background-color: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+}
+
+/* Bootstrap-Karten (z. B. Statistik) – Startseiten-Kacheln ausgenommen */
+.card:not(.index-card) {
+    border: 1px solid var(--line);
+    border-radius: 8px;
+}
+
+.card:not(.index-card) .card-header {
+    background: var(--surface-2);
+    border-bottom: 1px solid var(--line);
+}
+
+/* Startseiten-Hero: Unterkante in Akzentfarbe statt Alt-Mauve */
+.intro {
+    border-bottom-color: var(--accent);
+}
+
+/* Buttons der Startseite */
+.btn-round {
+    background-color: var(--accent);
+    color: #fff;
+    border: 1px solid var(--accent);
+}
+
+.btn-round:hover,
+.btn-round:focus {
+    background-color: var(--accent-dark);
+    border-color: var(--accent-dark);
+    color: #fff;
 }
 
 /* ------- Responsiv ------- */

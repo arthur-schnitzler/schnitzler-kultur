@@ -24,9 +24,12 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     <div class="container">
-                        <h1>
-                            <xsl:value-of select="$doc_title"/>
-                        </h1>
+                        <header class="page-head">
+                            <p class="page-kicker">Register</p>
+                            <h1>
+                                <xsl:value-of select="$doc_title"/>
+                            </h1>
+                        </header>
                         <div>
                             <div id="container" class="mb-3"
                                 style="max-width:1200px; margin: 0 auto; width: 100%;">

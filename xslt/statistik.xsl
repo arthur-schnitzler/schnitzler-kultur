@@ -27,10 +27,13 @@
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
                     <div class="container">
-                        <h1>
-                            <xsl:text>Statistiken</xsl:text>
-                        </h1>
-                        <div class="mb-4 mx-auto" style="max-width: 800px;">
+                        <header class="page-head">
+                            <p class="page-kicker">Statistik</p>
+                            <h1>
+                                <xsl:text>Statistiken</xsl:text>
+                            </h1>
+                        </header>
+                        <div class="mb-4 page-intro">
                             <p>Auf dieser Seite finden sich die Arten von Veranstaltungen, die
                                 Arthur Schnitzler besuchte, in sechs Kategorien (»Theater«, »Musik«,
                                 »Film«, »Vortrag«, »anderes« und »Privatveranstaltung«) eingeteilt

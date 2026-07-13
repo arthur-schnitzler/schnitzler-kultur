@@ -25,8 +25,11 @@
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
                     <div class="container">
-                        <h1>Zeitachsen-Statistik</h1>
-                        <div class="mb-4 mx-auto" style="max-width: 1200px;">
+                        <header class="page-head">
+                            <p class="page-kicker">Statistik</p>
+                            <h1>Zeitachsen-Statistik</h1>
+                        </header>
+                        <div class="mb-4 page-intro">
                             <p>Diese Statistik zeigt die zeitliche Entwicklung verschiedener Ereignistypen über die gesamte erfasste Zeitspanne von 1876 bis 1931. 
                             Sie können einen oder mehrere Ereignistypen auswählen, um deren Verlauf über die Zeit zu vergleichen.</p>
                             <p>Wählen Sie die Ereignistypen aus, die Sie visualisieren möchten. Die verschiedenen Typen werden in unterschiedlichen Farben dargestellt, 
@@ -41,7 +44,7 @@
                                     </div>
                                     <div class="card-body">
                                         <div class="mb-3">
-                                            <button type="button" class="btn btn-sm btn-outline-primary me-2" id="selectAllBtn" aria-label="Alle Ereignistypen auswählen">Alle auswählen</button>
+                                            <button type="button" class="btn btn-sm btn-outline-secondary me-2" id="selectAllBtn" aria-label="Alle Ereignistypen auswählen">Alle auswählen</button>
                                             <button type="button" class="btn btn-sm btn-outline-secondary" id="deselectAllBtn" aria-label="Alle Ereignistypen abwählen">Alle abwählen</button>
                                         </div>
                                         <div id="eventTypeCheckboxes" role="group" aria-labelledby="eventTypeHeader">

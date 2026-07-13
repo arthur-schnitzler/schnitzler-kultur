@@ -23,20 +23,19 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
 
-                    <div class="container-fluid">
-                        <div class="card">
-                            <div class="card-header" style="text-align:center">
-                                <h1 style="display:inline-block;margin-bottom:0;padding-right:5px;">Kalender</h1>
-                                <a>
-                                    <i class="fas fa-info"
-                                        title="Kulturelle Ereignisse nach Tagen und Kategorien"
-                                        data-bs-toggle="modal" data-target="#calendarModal"/>
-                                </a>
-                                <a style="padding-left:5px;" href="js-data/calendarData.js">
-                                    <i class="fas fa-download" title="Kalenderdaten herunterladen"/>
-                                </a>
-                            </div>
-                            <div class="card-body">
+                    <div class="container">
+                        <header class="page-head">
+                            <p class="page-kicker">Veranstaltungen</p>
+                            <h1>Kalender</h1>
+                            <p class="page-sub">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#calendarModal"
+                                    >Über diese Ansicht</a>
+                                <xsl:text> · </xsl:text>
+                                <a href="js-data/calendarData.js">Kalenderdaten (JS) ↓</a>
+                            </p>
+                        </header>
+                        <div>
+                            <div>
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-12 yearscol">
                                         <div class="row justify-content-md-center" id="years-table"></div>

@@ -232,10 +232,10 @@ function createEventTypeCheckboxes() {
     toggleWrapper.innerHTML = `
         <div class="btn-group w-100" role="group">
             <input type="radio" class="btn-check" name="viewMode" id="mainTypes" autocomplete="off" ${!showSubTypes ? 'checked' : ''}>
-            <label class="btn btn-outline-primary btn-sm" for="mainTypes">Haupttypen</label>
+            <label class="btn btn-outline-secondary btn-sm" for="mainTypes">Haupttypen</label>
             
             <input type="radio" class="btn-check" name="viewMode" id="subTypes" autocomplete="off" ${showSubTypes ? 'checked' : ''}>
-            <label class="btn btn-outline-primary btn-sm" for="subTypes">Untertypen</label>
+            <label class="btn btn-outline-secondary btn-sm" for="subTypes">Untertypen</label>
         </div>
     `;
     eventTypeCheckboxes.appendChild(toggleWrapper);

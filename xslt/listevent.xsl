@@ -28,11 +28,14 @@
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
                     <div class="container">
-                        <h1>
-                            <xsl:text>Verzeichnis der Veranstaltungen</xsl:text>
-                        </h1>
-                        <div class="text-center p-1"><span id="counter1"/> von <span id="counter2"/>
-                            Ereignissen</div>
+                        <header class="page-head">
+                            <p class="page-kicker">Veranstaltungen</p>
+                            <h1>
+                                <xsl:text>Verzeichnis der Veranstaltungen</xsl:text>
+                            </h1>
+                            <p class="page-sub"><span id="counter1"/> von <span id="counter2"/>
+                                Ereignissen</p>
+                        </header>
                         <table class="table table-sm display" id="tabulator-table-event">
                             <thead>
                                 <tr>
