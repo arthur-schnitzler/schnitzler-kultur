@@ -245,14 +245,14 @@ class SimpleCalendar {
         }
         
         .nav-btn.today {
-          background: var(--accent, #8A2E35);
-          border-color: var(--accent, #8A2E35);
+          background: var(--accent, #AC7790);
+          border-color: var(--accent, #AC7790);
           color: white;
         }
         
         .nav-btn.today:hover {
-          background: var(--accent-dark, #5E1F24);
-          border-color: var(--accent-dark, #5E1F24);
+          background: var(--accent-dark, #7D4E63);
+          border-color: var(--accent-dark, #7D4E63);
         }
         
         .period-title {
@@ -326,7 +326,7 @@ class SimpleCalendar {
         }
         
         .month-link:hover {
-          color: var(--accent, #8A2E35);
+          color: var(--accent, #AC7790);
           text-decoration: underline;
         }
         
@@ -472,7 +472,7 @@ class SimpleCalendar {
         }
         
         .event-item-large {
-          background: var(--accent, #8A2E35);
+          background: var(--accent, #AC7790);
           color: white;
           padding: 1px 3px;
           border-radius: 2px;
@@ -815,8 +815,8 @@ class SimpleCalendar {
         }
         
         .view-controls-sidebar .btn.active {
-          background-color: var(--accent, #8A2E35);
-          border-color: var(--accent, #8A2E35);
+          background-color: var(--accent, #AC7790);
+          border-color: var(--accent, #AC7790);
           color: white;
           box-shadow: 0 2px 4px rgba(0,123,255,0.3);
         }
@@ -862,7 +862,7 @@ class SimpleCalendar {
         }
         
         .legend-item-sidebar:not(.disabled) .legend-toggle {
-          background: linear-gradient(135deg, var(--category-color, var(--accent, #8A2E35)) 0%, var(--category-color, var(--accent, #8A2E35)) 100%);
+          background: linear-gradient(135deg, var(--category-color, var(--accent, #AC7790)) 0%, var(--category-color, var(--accent, #AC7790)) 100%);
           color: white;
           font-weight: 500;
         }

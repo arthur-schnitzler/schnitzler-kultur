@@ -20,8 +20,8 @@
     --line-soft: #F0EBE3;
 
     /* Akzent */
-    --accent: #8A2E35;        /* Bordeaux */
-    --accent-dark: #5E1F24;
+    --accent: #AC7790;        /* Projektfarbe */
+    --accent-dark: #7D4E63;   /* dunklere Variante für Hover und kleinen Text */
 
     /* Schrift */
     --font-sans: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -178,8 +178,8 @@ a:focus {
    ========================================================= */
 
 .event-nav {
-    background: var(--surface-2);
-    border-bottom: 1px solid var(--line);
+    background: var(--accent);
+    border-bottom: 1px solid var(--accent-dark);
 }
 
 .event-nav-inner {
@@ -199,7 +199,7 @@ a:focus {
     gap: 8px;
     min-width: 0;
     font-size: 14px;
-    color: var(--ink-muted);
+    color: #fff;
 }
 
 .event-nav-next {
@@ -214,12 +214,12 @@ a:focus {
 }
 
 .event-nav-kicker {
-    color: var(--ink-muted);
+    color: rgba(255, 255, 255, 0.75);
 }
 
 .event-nav-arrow {
     flex-shrink: 0;
-    color: var(--accent);
+    color: #fff;
 }
 
 /* Datum nur in der kompakten (mobilen) Ansicht */
@@ -231,7 +231,7 @@ a:focus {
 
 .event-nav-link:hover,
 .event-nav-link:focus {
-    color: var(--accent-dark);
+    color: #fff;
     text-decoration: none;
 }
 
@@ -243,13 +243,19 @@ a:focus {
     flex-shrink: 0;
     font-size: 14px;
     font-weight: 600;
-    color: var(--ink);
+    color: #fff;
     white-space: nowrap;
 }
 
 .event-nav-all:hover,
 .event-nav-all:focus {
-    color: var(--accent-dark);
+    color: #fff;
+    text-decoration: underline;
+}
+
+/* Fokusring auf der farbigen Leiste weiß, sonst unsichtbar */
+.event-nav :focus-visible {
+    outline-color: #fff;
 }
 
 /* =========================================================
