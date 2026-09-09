@@ -370,7 +370,7 @@
                             var mapEl = document.getElementById('map_detail');
                             if (mapEl &amp;&amp; typeof L !== 'undefined') {
                             var map = L.map('map_detail', { scrollWheelZoom: false }).setView([Number(lat), Number(long)], 14);
-                            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_33gl_1_b29d3b881005df8691857e49', {
                             maxZoom: 19,
                             attribution: '&amp;copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &amp;copy; <a href="https://carto.com/attributions">CARTO</a>'
                             }).addTo(map);
