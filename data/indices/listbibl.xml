@@ -91,6 +91,40 @@
           
 
         </bibl>
+        <bibl xml:id="pmb335223">
+          
+  
+          <title type="main">Jung-Wien bei Bösendorfer</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/223990_0155.html</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[O. V.]: Jung-Wien bei Bösendorfer. In: Illustrirtes Wiener Extrablatt, Jg. 26, Nr. 88, 29. 3. 1897, S. XXXX</title>
+          
+
+          <date when-iso="1897-03-29">1897-03-29</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/335223/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335223.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb334578">
           
   
@@ -178,6 +212,111 @@
           
   
           <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb307528">
+          
+  
+          <title type="main">Burgtheater. Zum erstenmal: »Der Schleier der Beatrice«, Schauspiel in fünf Akten von Artur Schnitzler</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Leopold Jacobson: Burgtheater. Zum erstenmal: »Der Schleier der Beatrice«, Schauspiel in fünf Akten von Artur Schnitzler. In: Neues Wiener Journal, Jg. 33, Nr. 11.317, 24.5.1925, S. 3–4.</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=19250524&amp;seite=3</title>
+          
+  
+          <author key="pmb3579" role="hat-geschaffen">Jacobson, Leopold</author>
+          
+
+          <date>1925-05-24</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/307528/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb307528.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Theaterkritik</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb300236">
+          
+  
+          <title type="main">Das weite Land. Tragikomödie von Artur Schnitzler. (Burgtheater)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">B. Z.: Das weite Land. Tragikomödie von Artur Schnitzler. (Burgtheater). In: Wiener Allgemeine Zeitung, Nr. 10061, 16.10.1911, 6-Uhr-Blatt, S. 2–4.</title>
+          
+  
+          <author key="pmb2312" role="hat-geschaffen">Zuckerkandl, Berta</author>
+          
+
+          <date>1911-10-16</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300236/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Zeitungsbericht</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb300097">
+          
+  
+          <title type="main">Courrier des Théatres. Au jour le jour. [Shakespeare disait…]</title>
+          
+  
+          <title type="werk_link">https://gallica.bnf.fr/ark:/12148/bpt6k289386r/f6.item</title>
+          
+  
+          <title type="werk_bibliografische-angabe">O.V. [=Berta Zuckerkandl|: Courrier des Théatres. Au jour le jour. [Shakespeare disait…]. In: Le Figaro, Jg. 57, Serie 3, Nr. 304, 31.10.1911, S. 6.</title>
+          
+  
+          <author key="pmb2312" role="hat-anonym-veroffentlicht">Zuckerkandl, Berta</author>
+          
+
+          <date>1911-10-31</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300097/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300097.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Theaterkritik</note>
           
 
         </bibl>
@@ -342,6 +481,80 @@
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb293663">
+          
+  
+          <title type="main">Lessing Theater. Zum ersten Male: »Der Ruf des Lebens«, Schauspiel in drei Akten von Arthur Schnitzler</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Rudolf Herzog: Lessing Theater. Zum ersten Male: »Der Ruf des Lebens«, Schauspiel in drei Akten von Arthur Schnitzler. In: Berliner Neueste Nachrichten, Jg. 26, Nr. 94, 25. 2. 1906, S. 3</title>
+          
+  
+          <author key="pmb7827" role="hat-geschaffen">Herzog, Rudolf</author>
+          
+
+          <date>1906-02-25</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/293663/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb293663.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb293658">
+          
+  
+          <title type="main">Lessing Theater. Zum ersten Mal: »Der Ruf des Lebens«, Schauspiel in drei Akten von Arthur Schnitzler</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">M. J.</title>
+          
+  
+          <title type="werk_link">https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&amp;tx_dlf%5Bid%5D=https%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP27646518-19060225-2-0-0-0.xml&amp;tx_dlf%5Bpage%5D=2&amp;cHash=017ad80ff2c406a87e27874fa2d23674</title>
+          
+  
+          <title type="werk_bibliografische-angabe">M. J. [=Monty Jacobs]: Lessing Theater. Zum ersten Mal: »Der Ruf des Lebens«, Schauspiel in drei Akten von Arthur Schnitzler. In: Berliner Tageblatt, Jg. 35, Nr. 102, 25. 2. 1906, S. 2–3</title>
+          
+  
+          <author key="pmb18721" role="hat-geschaffen">Jacobs, Monty</author>
+          
+
+          <date when-iso="1906-02-25">1906-02-25</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/293658/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb293658.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -13808,6 +14021,40 @@
           
 
         </bibl>
+        <bibl xml:id="pmb169453">
+          
+  
+          <title type="main">»Schleier der Beatrice.« Man telegraphirt uns aus Berlin, 7. d.</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=zei&amp;datum=19030308&amp;seite=5</title>
+          
+  
+          <author key="pmb11813" role="hat-anonym-veroffentlicht">Jacobsohn, Siegfried</author>
+          
+
+          <date when-iso="1903-03-08">1903-03-08</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/169453/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb169453.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Notiz</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb169122">
           
   
@@ -14006,6 +14253,31 @@
           
   
           <note type="work_kind">Erzählung</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb167676">
+          
+  
+          <title type="main">Theater und Kunst [Liebelei am Deutschen Theater]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[O. V.]: Theater und Kunst. In: Neues Wiener Abendblatt. Abend-Ausgabe des »Neuen Wiener Tagblatt«, Jg. 30, Nr. 35, 5. 2. 1896, S. 3</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18960205&amp;seite=27&amp;zoom=33</title>
+          
+
+          <date>1896-02-05</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/167676/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb167676.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -14775,6 +15047,53 @@
           
 
         </bibl>
+        <bibl xml:id="pmb162680">
+          
+  
+          <title type="main">»Professor Bernhardi« von Arthur Schnitzler</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Paul Goldmann: »Professor Bernhardi« von Arthur Schnitzler. In: Neue Freie Presse, Nr. 17374, 4. 1. 1913, Morgenblatt, S. 1–4</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19130104&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <author key="pmb11485" role="hat-geschaffen">Goldmann, Paul</author>
+          
+
+          <date>1913-01-04</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/162680/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb148448">
+          
+  
+          <title type="main">Schnitzlers »Lebendige Stunden«</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Max Burckhard: Schnitzlers »Lebendige Stunden«. In: Die Zeit. Wiener Wochenschrift, Bd. 31, Nr. 397, 10.5.1902, S. 90–91.</title>
+          
+  
+          <author key="pmb11036" role="hat-geschaffen">Burckhard, Max Eugen</author>
+          
+
+          <date when-iso="1902-05-10">1902-05-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148448/</idno>
+          
+  
+          <note type="work_kind">Theaterkritik</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb148402">
           
   
@@ -14843,6 +15162,34 @@
           
 
         </bibl>
+        <bibl xml:id="pmb147964">
+          
+  
+          <title type="main">Theater, Kunst und Literatur [Vorstellung des Konservatoriums]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">H. B. [=Hermann Bahr]: Theater, Kunst und Literatur. In: Neues Wiener Tagblatt, Jg. 35, Nr. 118, 1. 5. 1901, S. 7</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=19010501&amp;seite=7</title>
+          
+  
+          <author key="pmb10815" role="hat-unter-einem-kurzel-veroffentlicht">Bahr, Hermann</author>
+          
+
+          <date>1901-05-01</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147964/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147964.html</idno>
+          
+  
+          <note type="work_kind">Notiz</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb147688">
           
   
@@ -14892,6 +15239,34 @@
           
   
           <note type="references">  </note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb147572">
+          
+  
+          <title type="main">Faust bei Reinhardt</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Rudolf Lothar: Faust bei Reinhardt. In: Pester Lloyd, Jg. 46, Nr. 95, 22. 4. 1909, Morgenblatt, S. 1–2</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=pel&amp;datum=19090422&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <author key="pmb2570" role="hat-geschaffen">Lothar, Rudolf</author>
+          
+
+          <date>1909-04-22</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147572/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147572.html</idno>
+          
+  
+          <note type="work_kind">Feuilleton</note>
           
 
         </bibl>
@@ -15112,6 +15487,28 @@
           
 
         </bibl>
+        <bibl xml:id="pmb145291">
+          
+  
+          <title type="main">?? [Kritik zu Lebendige Stunden]</title>
+          
+  
+          <author key="pmb11952" role="hat-geschaffen">Koch, Max</author>
+          
+
+          <date>zwischen 5. 1. und 24. 2. 1902</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145291/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145291.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb145076">
           
   
@@ -15134,6 +15531,34 @@
           
 
         </bibl>
+        <bibl xml:id="pmb144562">
+          
+  
+          <title type="main">Theater- und Kunstnachrichten [Uraufführung von Lebendige Stunden]</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19020105&amp;seite=8&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[O. V.] [=Paul Goldmann]: Theater- und Kunstnachrichten. [Zur Uraufführung von Lebendige Stunden]. In: Neue Freie Presse, Nr. 13422, 5. 1. 1902, Morgenblatt, S. 8–9</title>
+          
+  
+          <author key="pmb11485" role="hat-anonym-veroffentlicht">Goldmann, Paul</author>
+          
+
+          <date>1902-01-05</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144562/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144562.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb144337">
           
   
@@ -15153,6 +15578,190 @@
           
   
           <note type="work_kind">Unveröffentlichte Erzählung</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb144241">
+          
+  
+          <title type="main">Wiener Leben</title>
+          
+  
+          <title type="werk_link">https://sammlungen.ub.uni-frankfurt.de/periodika/periodical/pageview/13352151</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Robert Hirschfeld: Wiener Leben. In: Frankfurter Zeitung, Jg. 46, Nr. 333, 1. 12. 1901, Erstes Morgenblatt, S. 1–2.</title>
+          
+  
+          <author key="pmb11707" role="hat-geschaffen">Hirschfeld, Robert</author>
+          
+
+          <date when-iso="1901-12-01">1901-12-01</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144241/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144241.html</idno>
+          
+  
+          <note type="work_kind">Feuilleton</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb144201">
+          
+  
+          <title type="main">Theater- und Kunstnachrichten. Jung-Wiener-Theater »Zum lieben Augustin«</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">-da</title>
+          
+  
+          <title type="werk_bibliografische-angabe">–da [=Moriz Neuda]: Theater- und Kunstnachrichten. Jung-Wiener-Theater »Zum lieben Augustin«. In: Neue Freie Presse, Nr. 13.374, 17.11.1901, Morgenblatt, S. 8–9</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19011117&amp;seite=7</title>
+          
+  
+          <author key="pmb115482" role="hat-unter-einem-kurzel-veroffentlicht">Neuda, Moriz</author>
+          
+
+          <date>1901-11-17</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144201/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144201.html</idno>
+          
+  
+          <note type="work_kind">Theaterkritik</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb144122">
+          
+  
+          <title type="main">Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.)</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19020122&amp;seite=1</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Paul Goldmann: Berliner Theater. (»Lebendige Stunden« von Arthur Schnitzler.). In: Neue Freie Presse, Nr. 13438, 22. 1. 1902, Morgenblatt, S. 1–4</title>
+          
+  
+          <author key="pmb11485" role="hat-geschaffen">Goldmann, Paul</author>
+          
+
+          <date>1902-01-22</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144122/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144122.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb144087">
+          
+  
+          <title type="main">Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.)</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19030319&amp;seite=1</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Paul Goldmann: Berliner Theater. (»Der Schleier der Beatrice« von Arthur Schnitzler.). In: Neue Freie Presse, Nr. 13.851, 19. 3. 1903, Morgenblatt, S. 1–5</title>
+          
+  
+          <author key="pmb11485" role="hat-geschaffen">Goldmann, Paul</author>
+          
+
+          <date>1903-03-19</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144087/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144087.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb144082">
+          
+  
+          <title type="main">Aus Berlin wird uns berichtet [Der Schleier der Beatrice]</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19030308</title>
+          
+  
+          <author key="pmb11485" role="hat-anonym-veroffentlicht">Goldmann, Paul</author>
+          
+
+          <date when-iso="1903-03-08">1903-03-08</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144082/</idno>
+          
+  
+          <note type="work_kind">Nachtkritik</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb143996">
+          
+  
+          <title type="main">»Der Schleier der Beatrice«. (Zum erstenmale aufgeführt im Lobe-Theater zu Breslau)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Felix Salten: »Der Schleier der Beatrice«. (Zum erstenmale aufgeführt im Lobe-Theater zu Breslau). In: Wiener Allgemeine Zeitung. 6 Uhr-Blatt, Nr. 6.832, 16. 12. 1900, S. 10</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19001216&amp;seite=10</title>
+          
+  
+          <author key="pmb2167" role="hat-geschaffen">Salten, Felix</author>
+          
+
+          <date when-iso="1900-12-16">1900-12-16</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143996/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143996.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb143992">
+          
+  
+          <title type="main">Echo der Bühnen. Breslau [Der Schleier der Beatrice]</title>
+          
+  
+          <author key="pmb3554" role="hat-geschaffen">Freund, Erich</author>
+          
+
+          <date notBefore-iso="1900-01-01" when-iso="1900-01-01">1900</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143992/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -15231,6 +15840,34 @@
           
 
         </bibl>
+        <bibl xml:id="pmb142702">
+          
+  
+          <title type="main">Burgtheater. »Das weite Land.« Tragikomödie von Arthur Schnitzler</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=pel&amp;datum=19111017&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Felix Salten: Burgtheater. »Das weite Land.« Tragikomödie von Arthur Schnitzler. In: Pester Lloyd, Jg. 58, Nr. 246, 17. 11. 1911, Morgenblatt, S. 1–2</title>
+          
+  
+          <author key="pmb2167" role="hat-geschaffen">Salten, Felix</author>
+          
+
+          <date when-iso="1911-11-17">1911-11-17</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142702.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142702/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb142698">
           
   
@@ -15268,6 +15905,421 @@
           
 
         </bibl>
+        <bibl xml:id="pmb142663">
+          
+  
+          <title type="main">Vor den Coulissen [Schleier der Beatrice]</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">F.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">F. [ = Erich Freund]: Vor den Coulissen. In: Berliner Börsen-Courier, Jg. 33, Nr. 566, 4. 12. 1900, Morgen-Ausgabe, 1. Beilage, S. 4</title>
+          
+  
+          <author key="pmb3554" role="hat-unter-einem-kurzel-veroffentlicht">Freund, Erich</author>
+          
+
+          <date>1900-12-04</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142663.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142663/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb142604">
+          
+  
+          <title type="main">Theater und Musik [Schleier der Beatrice]</title>
+          
+  
+          <title type="werk_link">https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&amp;tx_dlf%5Bid%5D=https%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP27112366-19001203-0-0-0-0.xml&amp;tx_dlf%5Bpage%5D=7&amp;cHash=3b08b3b474d3e34d900eaaae025df23e</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[O. V.]: Theater und Musik. In: Vossische Zeitung, Nr. 565, 3. 12. 1900, Abend-Ausgabe, S. [7]</title>
+          
+
+          <date>1900-12-03</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142604.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142604/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb142599">
+          
+  
+          <title type="main">[Man telegraphirt uns aus Breslau…]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[Erich Freund]: [Man telegraphirt uns aus Breslau]. In: Neue Freie Presse, Nr. 13031, 2. 12. 1900, Morgenblatt, S. 10</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19001202&amp;seite=10&amp;zoom=33</title>
+          
+  
+          <author key="pmb3554" role="hat-anonym-veroffentlicht">Freund, Erich</author>
+          
+
+          <date>1900-12-02</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142599.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142599/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb141413">
+          
+  
+          <title type="main">Wiener Brief. [Der Verschwender]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">FZ, 44. Jg., Nr. 353, 21.12.1899, Abendblatt, S. 2</title>
+          
+  
+          <author key="pmb2121" role="hat-unter-einem-kurzel-veroffentlicht">Schnitzler, Arthur</author>
+          
+
+          <date when-iso="1899-12-21">1899-12-21</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/141413/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb141413.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb140839">
+          
+  
+          <title type="main">Wiener Burgtheater. (»Agnes Jordan« von Georg Hirschfeld.)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">–rm– [=Arthur Schnitzler]: Wiener Burgtheater. (»Agnes Jordan« von Georg Hirschfeld.). In: Frankfurter Zeitung, Jg. 44, Nr. 296, 25. 10. 1899, Zweites Morgenblatt, S. 1</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">–rm–</title>
+          
+  
+          <author key="pmb2121" role="hat-unter-einem-kurzel-veroffentlicht">Schnitzler, Arthur</author>
+          
+
+          <date>1899-10-25</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb140839.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/140839/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb140839.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb135048">
+          
+  
+          <title type="main">Burgtheater. (»Paracelsus«, Schauspiel in einem Act. – »Die Gefährtin«, Schauspiel in einem Act. – »Der grüne Kakadu«, Groteske in einem Act von Arthur Schnitzler. Erste Aufführung am 1. März 1899.)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">L. A. Terne [=Robert Hirschfeld]: Burgtheater [...]. In: Wiener Sonn- und Montags-Zeitung, Jg. 37, Nr. 10, 6. 3. 1899, S. 1–2</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=wsz&amp;datum=18990306&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <author key="pmb11707" role="hat-unter-pseudonym-geschrieben">Hirschfeld, Robert</author>
+          
+
+          <date>1899-03-06</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb135048.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/135048/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb133731">
+          
+  
+          <title type="main">Schattenspiel. (Schauspiel in vier Acten von Henry A. Jones; deutsch von Carl Lindau. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 1. Februar 1895)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Schattenspiel. (Schauspiel in vier Acten von Henry A. Jones; deutsch von Carl Lindau. Zum ersten Mal aufgeführt im Deutschen Volkstheater am 1. Februar 1895). In: Die Zeit, Jg. 2, 9.2.1895, S. 92–93.</title>
+          
+  
+          <title type="werk_link">https://bahr.univie.ac.at/sites/all/txt/die-zeit/19-92.pdf</title>
+          
+  
+          <title type="werk_link">https://bahr.univie.ac.at/sites/all/txt/die-zeit/19-93.pdf</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date when-iso="1895-02-09">9.2.1895</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133731/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133731.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb133639">
+          
+  
+          <title type="main">Die rothe Fahne. (Zur Première von »Der Dornenweg« von Felix Philippi im Burgtheater am 11. Februar 1896)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Die rothe Fahne. (Zur Première von »Der Dornenweg« von Felix Philippi im Burgtheater am 11. Februar 1896). In: Wiener Theater. (1892–1898). Berlin: S. Fischer 1899, S. 93–98.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Die rothe Fahne. (Zur Première von »Der Dornenweg« von Felix Philippi im Burgtheater am 11. Februar 1896). In: Die Zeit, Jg. 6, 15.2.1896, S. 112.</title>
+          
+  
+          <title type="werk_link">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1896-6/72-112.pdf</title>
+          
+  
+          <title type="legacy-name-merge">Die rothe Fahne. (Zur Première von »Der Dornenweg« von Felix Philippi im Burgtheater am 11. Februar 1896)</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date when-iso="1896-02-15">15.2.1896</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133187/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133639/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133639.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133187.html</idno>
+          
+  
+          <note type="work_kind">Theaterkritik</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb133395">
+          
+  
+          <title type="main">Das neue Ghetto. (Schauspiel in vier Acten von Theodor Herzl. Zum ersten Mal aufgeführt im Carltheater am 5. Jänner 1898)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Das neue Ghetto. (Schauspiel in vier Acten von Theodor Herzl. Zum ersten Mal aufgeführt im Carltheater am 5. Januar 1898). In: Wiener Theater. (1892–1898). Berlin: S. Fischer 1899, S. 495–500.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Das neue Ghetto. (Schauspiel in vier Acten von Theodor Herzl. Zum ersten Mal aufgeführt im Carltheater am 5. Jänner 1898). In: Die Zeit, Jg. 14, 8.1.1898, S. 28.</title>
+          
+  
+          <title type="werk_link">https://bahr.univie.ac.at/sites/all/txt/die-zeit/1898-14/171-28.pdf</title>
+          
+  
+          <title type="legacy-name-merge">Das neue Ghetto. (Schauspiel in vier Acten von Theodor Herzl. Zum ersten Mal aufgeführt im Carltheater am 5. Januar 1898)</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date when-iso="1898-01-08">8.1.1898</date>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133069.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133069/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133395/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133395.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb132275">
+          
+  
+          <title type="main">Novella d’Andrea. (Schauspiel in vier Aufzügen von Ludwig Fulda. Zum erstenmal aufgeführt im Burgtheater am 21. November 1903)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Novella d’Andrea. (Schauspiel in vier Aufzügen von Ludwig Fulda. Zum erstenmal aufgeführt im Burgtheater am 21. November 1903). In: Österreichische Volks-Zeitung, Jg. 49, 22.11.1903, S. 2 (2 Kreuzer–Ausgabe: 8 und 25).</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date when-iso="1903-11-22">22.11.1903</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/132275/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132275.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb131767">
+          
+  
+          <title type="main">Spätfrühling. (Lustspiel in drei Akten von Georg Hirschfeld. Zum erstenmal aufgeführt im Burgtheater am 10. Februar 1906)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Spätfrühling. (Lustspiel in drei Akten von Georg Hirschfeld. Zum erstenmal aufgeführt im Burgtheater am 10. Februar 1906). In: Österreichische Volks-Zeitung, Jg. 52, 11.2.1906, S. 2.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Spätfrühling. (Lustspiel in drei Akten von Georg Hirschfeld. Zum erstenmal aufgeführt im Burgtheater am 10. Februar 1906). In: Kleine Österreichische Volks-Zeitung, Jg. 52, 11.2.1906, S. 25.</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+  
+          <author key="pmb10815" role="hat-anonym-veroffentlicht">Bahr, Hermann</author>
+          
+
+          <date when-iso="1906-02-11">11.2.1906</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/134893/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/131767/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb131767.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb134893.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb123179">
+          
+  
+          <title type="main">Alleluja. (Drama in drei Acten von Marco Praga. Zum ersten Mal aufgeführt im Raimund-Theater am 18. April 1901)</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">H. B.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">H. B.: Alleluja. (Drama in drei Acten von Marco Praga. Zum ersten Mal aufgeführt im Raimund-Theater am 18. April 1901). In: Neues Wiener Tagblatt Jg. 35, 18.4.1901, S. 1–2.</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</title>
+          
+  
+          <title type="legacy-name-merge">Novelli. Zweites Gastspiel. 6. »Alleluja« (Drama in drei Akten von Marco Praga. Zum ersten Male aufgeführt im Raimundtheater am 18. April 1901)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Novelli. Zweites Gastspiel. 6. »Alleluja« (Drama in drei Akten von Marco Praga. Zum ersten Male aufgeführt im Raimundtheater am 18. April 1901). In: Premièren. Winter 1900 bis Sommer 1901. München: Albert Langen 1902, S. 187–191.</title>
+          
+  
+          <author key="pmb10815" role="hat-unter-pseudonym-geschrieben">Bahr, Hermann</author>
+          
+
+          <date when-iso="1901-04-18">18.4.1901</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/123179/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb123179.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132427.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/132427/</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb123107">
+          
+  
+          <title type="main">Theater, Kunst und Literatur. Theater an der Wien</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">H. B.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">H. B.: Theater, Kunst und Literatur. Theater an der Wien. In: Neues Wiener Tagblatt Jg. 35, 17.11.1901, S. 8–9.</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: [1. Abend des Jung-Wiener-Theaters zum lieben Augustin]. 17. November 1901. In: Rezensionen. Wiener Theater 1901 bis 1903. Berlin: S. Fischer 1903, S. 191–194.</title>
+          
+  
+          <author key="pmb10815" role="hat-unter-pseudonym-geschrieben">Bahr, Hermann</author>
+          
+
+          <date when-iso="1901-11-17">17.11.1901</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/123107/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/132199/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb123107.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132199.html</idno>
+          
+  
+          <note type="work_kind">Theaterkritik</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb122435">
           
   
@@ -15296,6 +16348,34 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb122435.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb118771">
+          
+  
+          <title type="main">Theaterzeitung. Carltheater [Freiwild]</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223990/211</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[O. V.]: Theaterzeitung. Carltheater. In: Illustrirtes Wiener Extrablatt, Jg. 27, Nr. 35, 5. 2. 1898, S. 5</title>
+          
+  
+          <title type="werk_link">https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ297423507</title>
+          
+
+          <date>1898-02-05</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118771.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/118771/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -15398,6 +16478,867 @@
           
 
         </bibl>
+        <bibl xml:id="pmb118011">
+          
+  
+          <title type="main">Courrier des Théâtres [Freiwild in Berlin und Liebelei]</title>
+          
+  
+          <title type="werk_link">https://gallica.bnf.fr/ark:/12148/bpt6k283823f/f4.item</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[Berliner Korrespondent des Figaro]: [Telegramm im Courrier des Théâtres]. In: Le Figaro, Jg. 42, Nr. 312, 7. 11. 1896, S. 4</title>
+          
+  
+          <author key="pmb118038" role="hat-geschaffen">?? [Berliner Korrespondent des Figaro]</author>
+          
+
+          <date>1896-11-07</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118011.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/118011/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93556">
+          
+  
+          <title type="main">Courrier des Théâtres [Liebelei-Premiere Berlin]</title>
+          
+  
+          <title type="werk_link">https://gallica.bnf.fr/ark:/12148/bpt6k283547q/f4.item.zoom</title>
+          
+  
+          <title type="werk_bibliografische-angabe">o. V. [=Jules Huret]: Courrier des Théâtres. In: Le Figaro, Jg. 42, Nr. 37, 6. 2. 1896, S. 4.</title>
+          
+  
+          <author key="pmb93549" role="hat-anonym-veroffentlicht">Huret, Jules</author>
+          
+
+          <date>1896-02-06</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93556.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93556/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93362">
+          
+  
+          <title type="main">Das junge Österreich</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Neue Freie Presse, Nr. 10.975, 14.3.1895, Morgenausgabe, S. 5.</title>
+          
+  
+          <author key="pmb28523" role="hat-anonym-veroffentlicht">Necker, Moritz</author>
+          
+
+          <date>1895-03-14</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93362.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93362/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93343">
+          
+  
+          <title type="main">Burgtheater. »Rechte der Seele«, Schauspiel in einem Acte von Giuseppe Giacosa: deutsch von Otto Eisenschitz. »Liebelei«, Schauspiel in drei Acten von Arthur Schnitzler. Beide zum erstenmale aufgeführt am 9. October 1895</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223992/5</title>
+          
+  
+          <title type="werk_bibliografische-angabe">L [=Julius von Gans-Ludassy]: Burgtheater [...]. In: Wiener Allgemeine Zeitung, Nr. 5282, 11. 10. 1895, S. 2–3.</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=18951011&amp;seite=2&amp;zoom=33</title>
+          
+  
+          <author key="pmb11406" role="hat-unter-einem-kurzel-veroffentlicht">Gans-Ludassy, Julius von</author>
+          
+
+          <date>1895-10-11</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93343.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93343/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93304">
+          
+  
+          <title type="main">Theater- und Kunstnachrichten. [Deutsches Volkstheater.] [Ein Regentag]</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18951013&amp;seite=7&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">O. V.: Theater- und Kunstnachrichten. [Deutsches Volkstheater.]. In: Neue Freie Presse, Nr. 1184, 13. 10. 1895, Morgenblatt, S. 7</title>
+          
+
+          <date>1895-10-13</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93304.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93304/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93300">
+          
+  
+          <title type="main">Deutsches Volkstheater. (»Ein Regentag«, Charakterbild von J. J. David.)</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18951015&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Emil Granichstaedten: Deutsches Volkstheater. (»Ein Regentag«, Charakterbild von J. J. David.). In: Die Presse, Jg. 48, Nr. 283, 15. 10. 1895, S. 1–2</title>
+          
+  
+          <author key="pmb2586" role="hat-geschaffen">Granichstaedten, Emil</author>
+          
+
+          <date>1895-10-15</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93300.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93300/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93294">
+          
+  
+          <title type="main">Burgtheater. [Rechte der Seele, Liebelei]</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">e. w.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Arbeiter-Zeitung, Jg. 7, Nr. 279, 11.10.1895, Morgenblatt, S. 5</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=18951011&amp;query=%22Liebelei%22&amp;ref=anno-search&amp;seite=5</title>
+          
+  
+          <author key="pmb13088" role="hat-unter-einem-kurzel-veroffentlicht">Wengraf, Edmund</author>
+          
+
+          <date>1895-10-11</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93294.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93294/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93285">
+          
+  
+          <title type="main">K. k. Hofburgtheater: »Rechte der Seele«, Schauspiel in einem Acte von Giuseppe Giacosa. – »Liebelei«, Schauspiel in drei Acten von Arthur Schnitzler. Zum ersten Male aufgeführt am 9. October</title>
+          
+  
+          <title type="werk_bibliografische-angabe">In: Wiener Abendpost, Nr. 234, 10.10.1895, S. 1–2</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18951010&amp;seite=13&amp;zoom=33&amp;query=%22liebelei%22&amp;ref=anno-search</title>
+          
+  
+          <author key="pmb12987" role="hat-anonym-veroffentlicht">Uhl, Friedrich</author>
+          
+
+          <date>1895-10-10</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93285.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93285/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93279">
+          
+  
+          <title type="main">Hofburgtheater [Rechte der Seele, Liebelei]</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223992/12</title>
+          
+  
+          <author key="pmb2150" role="hat-anonym-veroffentlicht">Bauer, Julius</author>
+          
+
+          <date>1895-10-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93279/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93279.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93273">
+          
+  
+          <title type="main">Burgtheater. (»Liebelei«, Schauspiel in drei Aufzügen von Arthur Schnitzler. – »Rechte der Seele«, Schauspiel in einem Act von Giuseppe Giacosa, deutsch von Otto Eisenschitz.)</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">L. Sp.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">L. Sp. [=Ludwig Speidel]: Burgtheater. (»Liebelei«, Schauspiel in drei Aufzügen von Arthur Schnitzler. – »Rechte der Seele«, Schauspiel in einem Act von Giuseppe Giacosa [...]. In: Neue Freie Presse, Nr. 11184, 13. 10. 1895, Morgenblatt, S. 1–3</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18951013&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <author key="pmb12816" role="hat-unter-einem-kurzel-veroffentlicht">Speidel, Ludwig</author>
+          
+
+          <date>1895-10-13</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93273/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93273.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93264">
+          
+  
+          <title type="main">Burgtheater. »Rechte der Seele«, Schauspiel in einem Akt von Giuseppe Giacosa. Deutsch von Otto Eisenschütz. – »Liebelei«, Schauspiel in drei Akten von Arthur Schnitzler. Zum erstenmale aufgeführt am 9. Oktober</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223992/26</title>
+          
+  
+          <author key="pmb14694" role="hat-geschaffen">Bunzl, Arthur</author>
+          
+
+          <date when-iso="1895-10-11">1895-10-11</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93264/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93264.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93258">
+          
+  
+          <title type="main">Burgtheater. (»Rechte der Seele«, Schauspiel in einem Akt von Giuseppe Giacosa. – »Liebelei«, Schauspiel in drei Aufzügen von Arthur Schnitzler.)</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">L. H–i</title>
+          
+  
+          <title type="werk_bibliografische-angabe">L. H–i: Burgtheater. (»Rechte der Seele«, Schauspiel in einem Akt von Giuseppe Giacosa. – »Liebelei«, Schauspiel in drei Aufzügen von Arthur Schnitzler.) In: Fremden-Blatt, Jg. 51, Nr. 279, 11.10.1895, S. 13–14.</title>
+          
+  
+          <author key="pmb11687" role="hat-unter-einem-kurzel-veroffentlicht">Hevesi, Ludwig</author>
+          
+
+          <date when-iso="1895-10-11">1895-10-11</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93258/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93258.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93253">
+          
+  
+          <title type="main">Burgtheater. (Herr Mitterwurzer als König Philipp. – »Rechte der Seele«, von Guiseppe Giacosa. – »Liebelei«, von Arthur Schnitzler.)</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">L. H–i</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223992/22</title>
+          
+  
+          <author key="pmb11687" role="hat-unter-einem-kurzel-veroffentlicht">Hevesi, Ludwig</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93253/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93253.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93246">
+          
+  
+          <title type="main">Burgtheater. (»Liebelei« von Arthur Schnitzler. – »Rechte der Seele« von Giacosa.)</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">L. A. Terne</title>
+          
+  
+          <title type="werk_bibliografische-angabe">L. A. Terne: Burgtheater. (»Liebelei« von Arthur Schnitzler. – »Rechte der Seele« von Giacosa.) In: Wiener Sonn- und Montags-Zeitung, Jg. 33, Nr. 41, 14.10.1895, S. 1–3</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=wsz&amp;datum=18951014&amp;seite=1&amp;zoom=65&amp;query=%22schnitzler%22&amp;ref=anno-search</title>
+          
+  
+          <author key="pmb11707" role="hat-unter-pseudonym-geschrieben">Hirschfeld, Robert</author>
+          
+
+          <date when-iso="1895-10-14">1895-10-14</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93246/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93246.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93235">
+          
+  
+          <title type="main">Hofburgtheater. (»Rechte der Seele«, Schauspiel in einem Akte von Guiseppe Giacosa. – »Liebelei«, Schauspiel in drei Akten von Arthur Schnitzler. – Erstaufführung am 9. Oktober 1895.)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Alpha: Hofburgtheater. (»Rechte der Seele«, Schauspiel in einem Akte von Guiseppe Giacosa. – »Liebelei«, Schauspiel in drei Akten von Arthur Schnitzler. – Erstaufführung am 9. Oktober 1895.). In: Neuigkeits-Welt-Blatt, Jg. 22, Nr. 235, 12.10.1895, S. 10.</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nwb&amp;datum=18951012&amp;query=%22schnitzler%22&amp;ref=anno-search&amp;seite=10</title>
+          
+  
+          <author key="pmb93234" role="hat-unter-pseudonym-geschrieben">Alpha</author>
+          
+
+          <date>1895-10-12</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93235/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93235.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93227">
+          
+  
+          <title type="main">k. k. Hofburgtheater [Rechte der Seele, Liebelei]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">r. p.: k. k. Hofburgtheater. In: Reichspost, 2. Jg., Nr. 235, 12.10.1895, S. 1</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=18951012&amp;query=%22schnitzler%22&amp;ref=anno-search&amp;seite=1</title>
+          
+  
+          <author key="pmb93225" role="hat-unter-einem-kurzel-veroffentlicht">r. p.</author>
+          
+
+          <date when-iso="1895-10-12">1895-10-12</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93227/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93227.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93174">
+          
+  
+          <title type="main">[Wien, 9. Oktober] [Liebelei]</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223992/13</title>
+          
+  
+          <title type="werk_bibliografische-angabe">o. V. [ = Julius Konried]: [Wien, 9. Oktober]. In: Das Kleine Journal, Jg. 17, Nr. 278, 10. 10. 1895, S. [4]</title>
+          
+  
+          <author key="pmb8057" role="hat-anonym-veroffentlicht">Konried, Julius</author>
+          
+
+          <date>1895-10-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93174/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93174.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93155">
+          
+  
+          <title type="main">»Liebelei« [Telegramm zur Uraufführung]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Berliner Lokal-Anzeiger, Jg. 13, Nr. 475, 10. 10. 1895, Morgenblatt, 1. Ausgabe, S. 3</title>
+          
+
+          <date>1895-10-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93155/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93155.html</idno>
+          
+  
+          <note type="work_kind">Theaterkritik</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93147">
+          
+  
+          <title type="main">[Aus Wien, 9. Oktober] [Liebelei]</title>
+          
+  
+          <title type="werk_link">https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&amp;tx_dlf%5Bid%5D=https%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP27646518-18951010-1-0-0-0.xml&amp;tx_dlf%5Bpage%5D=3&amp;cHash=706a38f33a7207b1a67aaa2a6f8cb64d</title>
+          
+  
+          <title type="werk_bibliografische-angabe">N. N.: [Aus Wien, 9. Oktober]. In: Berliner Tageblatt, Jg. 24, Nr. 516, 10. 10. 1895, Abend-Ausgabe, S. 3</title>
+          
+
+          <date>1895-10-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93147/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93147.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93146">
+          
+  
+          <title type="main">»Das Märchen.« (Schauspiel in 3 Aufzügen von Arthur Schnitzler. Zum erstenmale im Deutschen Volkstheater aufgeführt am 1. Dezember.)</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/224002/14</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Marco Brociner: »Das Märchen.« (Schauspiel in 3 Aufzügen von Arthur Schnitzler. Zum erstenmale im Deutschen Volkstheater aufgeführt am 1. Dezember.). In: Wiener Tagblatt, Jg. 43, Nr. 333, 2. 12. 1893, S. 1–2</title>
+          
+  
+          <author key="pmb3442" role="hat-geschaffen">Brociner, Marco</author>
+          
+
+          <date>1893-12-02</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93146/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93146.html</idno>
+          
+  
+          <note type="work_kind">Feuilleton</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93141">
+          
+  
+          <title type="main">Wiener Brief. [Liebelei, Rechte der Seele]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[Friedrich Uhl]: Wiener Brief. In: Frankfurter Zeitung, Jg. 40, Nr. 282, 11.10.1895, Abendblatt, S.1</title>
+          
+  
+          <author key="pmb12987" role="hat-anonym-veroffentlicht">Uhl, Friedrich</author>
+          
+
+          <date>1895-10-11</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93141/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93141.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93136">
+          
+  
+          <title type="main">Burgtheater. Zwei Schauspiele: »Rechte der Seele« von Giuseppe Giacosa. – »Liebelei« von Arthur Schnitzler</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18951011&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Emil Granichstaedten: Burgtheater. In: Die Presse, Jg. 48, Nr. 279, 11. 10. 1895, S. 1–2</title>
+          
+  
+          <author key="pmb2586" role="hat-geschaffen">Granichstaedten, Emil</author>
+          
+
+          <date>1895-10-11</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93136/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93136.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93131">
+          
+  
+          <title type="main">Theater und Kunst. (Burgtheater.) [Liebelei, Rechte der Seele]</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=18951010&amp;seite=5&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">–v– [=Jakob Julius David]: Theater und Kunst. (Burgtheater.). In: Neues Wiener Journal, Jg. 3, Nr. 704, 10. 10. 1895, S. 5</title>
+          
+  
+          <author key="pmb2416" role="hat-unter-einem-kurzel-veroffentlicht">David, Jakob Julius</author>
+          
+
+          <date>1895-10-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93131/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93131.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93126">
+          
+  
+          <title type="main">Theater, Kunst und Literatur. (Burgtheater.) [Liebelei]</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223992/8</title>
+          
+  
+          <title type="werk_bibliografische-angabe">p. v. s. [=Paul von Schönthan-Pernwald]: Theater, Kunst und Literatur. (Burgtheater.). In: Wiener Tagblatt, Jg. 45, Nr. 278, 10. 10. 1895, S. 5–6</title>
+          
+  
+          <author key="pmb24705" role="hat-unter-einem-kurzel-veroffentlicht">Schönthan-Pernwald, Paul von</author>
+          
+
+          <date>1895-10-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93126/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93126.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93121">
+          
+  
+          <title type="main">Burgtheater. »Liebelei«, Schauspiel in drei Acten von Arthur Schnitzler. – »Rechte der Seele«, Schauspiel in einem Acte von Guiseppe Giacosa; deutsch von Otto Eisenschitz</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18951011&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Max Kalbeck: Burgtheater. In: Neues Wiener Tagblatt, Jg. 29, Nr. 279, 11. 10. 1895, S. 1–3</title>
+          
+  
+          <author key="pmb11857" role="hat-geschaffen">Kalbeck, Max</author>
+          
+
+          <date>1895-10-11</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93121/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93121.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93116">
+          
+  
+          <title type="main">Theater, Kunst und Literatur. Burgtheater [Liebelei, Rechte der Seele]</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18951010&amp;seite=7&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">M. K. [=Max Kalbeck]: Theater, Kunst und Literatur. Burgtheater. In: Neues Wiener Tagblatt, Jg. 29, Nr. 278, 10. 10. 1895, S. 7</title>
+          
+  
+          <author key="pmb11857" role="hat-unter-einem-kurzel-veroffentlicht">Kalbeck, Max</author>
+          
+
+          <date>1895-10-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93116/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93116.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93096">
+          
+  
+          <title type="main">Courrier des Théâtres [Liebelei]</title>
+          
+  
+          <title type="werk_link">https://gallica.bnf.fr/ark:/12148/bpt6k4680764/f3</title>
+          
+  
+          <title type="werk_bibliografische-angabe">N. N. [=Hippolyte Fierens-Gevaert]: Courrier des Théâtres. In: Journal des débats politiques et littéraires, Jg. 107, 12. 10. 1895, S. 3</title>
+          
+  
+          <author key="pmb93109" role="hat-anonym-veroffentlicht">Fierens-Gevaert, Hippolyte</author>
+          
+
+          <date>1895-10-12</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93096.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93096/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93080">
+          
+  
+          <title type="main">Deutsches Theater</title>
+          
+  
+          <title type="werk_link">https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&amp;tx_dlf%5Bid%5D=https%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP27646518-18960205-0-0-0-0.xml&amp;tx_dlf%5Bpage%5D=2&amp;cHash=8766837f0a0e5b13bed8e0b548166366</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Fr. M. [=Fritz Mauthner]: Deutsches Theater. In: Berliner Tageblatt, Jg. 25, Nr. 64, 5. 2. 1896, Morgen-Ausgabe, S. 2–3</title>
+          
+  
+          <author key="pmb3386" role="hat-geschaffen">Mauthner, Fritz</author>
+          
+
+          <date>1896-02-05</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93080/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93080.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93074">
+          
+  
+          <title type="main">Der zerbrochene Krug im Deutschen Theater</title>
+          
+  
+          <title type="werk_link">https://dfg-viewer.de/show/?set%5Bmets%5D=https://content.staatsbibliothek-berlin.de/zefys/SNP27646518-18960205-1-0-0-0.xml</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Fritz Mauthner: Der zerbrochene Krug im Deutschen Theater. In: Berliner Tageblatt, Jg. 25, Nr. 65, 5. 2. 1896, Abend-Ausgabe, S. 1–2</title>
+          
+  
+          <author key="pmb3386" role="hat-geschaffen">Mauthner, Fritz</author>
+          
+
+          <date>1896-02-05</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93074/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93074.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb93049">
+          
+  
+          <title type="main">Théâtres. [Notre correspondant de Vienne]</title>
+          
+  
+          <title type="werk_link">https://gallica.bnf.fr/ark:/12148/bpt6k47904826/f3</title>
+          
+  
+          <title type="werk_bibliografische-angabe">N. N. [=Aubry]: Théâtres. [Notre correspondant de Vienne]. In: La Liberté, Jg. 30, Nr. 11289, 12. 10. 1895, S. 3</title>
+          
+  
+          <author key="pmb13561" role="hat-geschaffen">Aubry, Georges</author>
+          
+
+          <date>1895-10-12</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93049.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93049/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb92955">
           
   
@@ -15417,6 +17358,37 @@
           
   
           <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb92950">
+          
+  
+          <title type="main">Schauspielhaus. [Premiere von Liebelei]</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">m.</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223992/140</title>
+          
+  
+          <title type="werk_bibliografische-angabe">m. [=Fedor Mamroth]: Schauspielhaus. In: Frankfurter Zeitung, Jg. 40, Nr. 12, 12. 1. 1896, Zweites Morgenblatt, S. 1.</title>
+          
+  
+          <author key="pmb4986" role="hat-unter-einem-kurzel-veroffentlicht">Mamroth, Fedor</author>
+          
+
+          <date>1896-01-12</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92950.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92950/</idno>
+          
+  
+          <note type="work_kind">Theaterkritik</note>
           
 
         </bibl>
@@ -15464,6 +17436,90 @@
           
   
           <note type="work_kind">Vortrag</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb90005">
+          
+  
+          <title type="main">Feuilleton. Theater [Uraufführung Das Märchen]</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18931202&amp;seite=17</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[Friedrich Uhl]: Feuilleton. Theater. In: Wiener Abendpost. Beilage zur Wiener Zeitung, Jg. 190, Nr. 276, 2. 12. 1893, S. 1–2</title>
+          
+  
+          <author key="pmb12987" role="hat-anonym-veroffentlicht">Uhl, Friedrich</author>
+          
+
+          <date>1893-12-02</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/90005/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb90005.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb89996">
+          
+  
+          <title type="main">Theater, Kunst und Literatur [Uraufführung Das Märchen]</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=dvb&amp;datum=18931202&amp;seite=6&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">H. P.: Theater, Kunst und Literatur. In: Deutsches Volksblatt, Jg. 5, Nr. 1768, 2. 12. 1893, S. 6–7</title>
+          
+  
+          <author key="pmb89999" role="hat-unter-einem-kurzel-veroffentlicht">P., H.</author>
+          
+
+          <date>1893-12-02</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89996/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89996.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb89985">
+          
+  
+          <title type="main">Theater, Kunst und Literatur [Uraufführung Das Märchen]</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18931202&amp;seite=8&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">l. b.: Theater, Kunst und Literatur. In: Neues Wiener Tagblatt, Jg. 27, Nr. 333, 2. 12. 1893, S. 8</title>
+          
+  
+          <author key="pmb89987" role="hat-unter-einem-kurzel-veroffentlicht">Held, Ludwig</author>
+          
+
+          <date>1893-12-02</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89985/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89985.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -15655,6 +17711,37 @@
           
 
         </bibl>
+        <bibl xml:id="pmb89567">
+          
+  
+          <title type="main">»Freie Bühne«</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">h. k.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">h. k. [=Hugo Klein]: »Freie Bühne«. In: Die Presse, Jg. 44, Nr. 298, 30. 10. 1891, S. 9</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18911030&amp;ref=anno-search&amp;seite=9</title>
+          
+  
+          <author key="pmb8236" role="hat-unter-einem-kurzel-veroffentlicht">Klein, Hugo</author>
+          
+
+          <date>1891-10-30</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89567/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89567.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb89563">
           
   
@@ -15721,6 +17808,34 @@
           
 
         </bibl>
+        <bibl xml:id="pmb89545">
+          
+  
+          <title type="main">Wiener Brief</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Freie Bühne, Jg. 3, H. 2, Februar 1892, 197–201</title>
+          
+  
+          <title type="werk_link">https://babel.hathitrust.org/cgi/pt?id=coo.31924069262966&amp;view=1up&amp;seq=204&amp;skin=2021</title>
+          
+  
+          <author key="pmb2450" role="hat-geschaffen">Fels, Friedrich Michael</author>
+          
+
+          <date when-iso="1892-02-01">1892-02-01</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89545/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89545.html</idno>
+          
+  
+          <note type="work_kind">Theaterkritik</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb89352">
           
   
@@ -15765,6 +17880,159 @@
           
   
           <note type="work_kind">Unveröffentlichtes dramatisches Werk</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb88941">
+          
+  
+          <title type="main">(Burgtheater.) [Rezension des Gastspiels von Anna Hochenburger]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[Arthur Schnitzler:] (Burgtheater.). In: Wiener Sonn- und Montags-Zeitung, Jg. 29, Nr. 2, 12. 1. 1891, S. 3</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=wsz&amp;datum=18910112&amp;seite=3&amp;zoom=33</title>
+          
+  
+          <author key="pmb2121" role="hat-anonym-veroffentlicht">Schnitzler, Arthur</author>
+          
+
+          <date>1891-01-12</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88941/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88941.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb88856">
+          
+  
+          <title type="main">Die »freie Bühne«</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18911030&amp;seite=5&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Die »freie Bühne«. In: Neues Wiener Tagblatt, Jg. 25, Nr. 298, 30. 10. 1891, S. 5</title>
+          
+
+          <date>1891-10-30</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88856/</idno>
+          
+  
+          <note type="work_kind">Zeitungsbericht</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb88513">
+          
+  
+          <title type="main">[Im Deutschen Theater soll »Der Schleier der Beatrice«]</title>
+          
+  
+          <title type="werk_link">https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=1&amp;tx_dlf%5Bid%5D=https%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP27646518-19030205-2-0-0-0.xml&amp;tx_dlf%5Bpage%5D=3&amp;tx_dlf%5Bpagegrid%5D=0&amp;cHash=384d4d6077642d6225e8ca43dc485295</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Berliner Tageblatt, Jg. 32, Nr. 65, 5.2.1904, Abendblatt, S. 3.</title>
+          
+
+          <date when-iso="1903-02-05">1903-02-05</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88513/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88513.html</idno>
+          
+  
+          <note type="work_kind">Notiz</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb88030">
+          
+  
+          <title type="main">Kunst und Leben. [Raimundtheater.] [Die Eder-Mitzi]</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">H. B.</title>
+          
+  
+          <author key="pmb10815" role="hat-unter-einem-kurzel-veroffentlicht">Bahr, Hermann</author>
+          
+
+          <date when-iso="1894-11-17">1894-11-17</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88030/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88030.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb88030.html</idno>
+          
+  
+          <note type="work_kind">Nachtkritik</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb87906">
+          
+  
+          <title type="main">Novyj Šnitsler. (Pis’mo iz Veny)</title>
+          
+  
+          <title type="namensvariante">Der neue Schnitzler. (Ein Brief aus Wien)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Novyj Šnitsler. (Pis’mo iz Veny) [Der neue Schnitzler. (Ein Brief aus Wien)]. In: Рампа и жизнь [Rampe und Leben], Nr. 48, 28.11.1910, S. 792–793.</title>
+          
+  
+          <author key="pmb7193" role="hat-geschaffen">Fontana, Oskar Maurus</author>
+          
+
+          <date when-iso="1910-11-28">1910-11-28</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87906/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb87901">
+          
+  
+          <title type="main">[Der junge Medardus von A. Schnitzler, russisch]</title>
+          
+  
+          <title type="namensvariante">Юный Медардус А. Шницлера</title>
+          
+  
+          <title type="werk_bibliografische-angabe">P. Zvezdich: Юный Медардус А. Шницлера. In: Russkije Vedomosti, Nr. 272, 25.11.1910, С. 3</title>
+          
+  
+          <author key="pmb2992" role="hat-geschaffen">Rotenstern, Peter</author>
+          
+
+          <date when-iso="1910-11-25">1910-11-25</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87901/</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -71330,6 +73598,28 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
 
         </bibl>
+        <bibl xml:id="pmb52544">
+          
+  
+          <title type="main">Das Echo des Lebens</title>
+          
+  
+          <author key="pmb10863" role="hat-geschaffen">Beer-Hofmann, Richard</author>
+          
+
+          <date>1909-12-13</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52544/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52544.html</idno>
+          
+  
+          <note type="work_kind">Parodie</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb52009">
           
   
@@ -71358,6 +73648,62 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Einakter</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb50599">
+          
+  
+          <title type="main">Burgtheater. [Zwischenspiel]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Neue Freie Presse, Nr. 14778, 13.10.1905, S. 9.</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19051013&amp;seite=9&amp;zoom=33</title>
+          
+  
+          <author key="pmb2739" role="hat-anonym-veroffentlicht">Wittmann, Hugo</author>
+          
+
+          <date>1905-10-13</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50599/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50599.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb46509">
+          
+  
+          <title type="main">Gastspiel Suzanne Després</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Neue Freie Presse, Nr. 16040, 17.4.1909, S. 12</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19090417&amp;seite=12&amp;zoom=46</title>
+          
+  
+          <author key="pmb10788" role="hat-anonym-veroffentlicht">Auernheimer, Raoul</author>
+          
+
+          <date when-iso="1909-04-17">1909-04-17</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46509/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46509.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -71414,6 +73760,68 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
 
         </bibl>
+        <bibl xml:id="pmb46196">
+          
+  
+          <title type="main">Schnitzlers »Weites Land«. Erste Aufführung im Burgtheater</title>
+          
+  
+          <title type="person_pseudonym">st. gr.</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19111015&amp;seite=3&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">st. gr.: Schnitzlers »Weites Land«. Erste Aufführung im Burgtheater. In: Arbeiter-Zeitung, Jg. 23, Nr. 284, 15.10.1910, S. 3–4.</title>
+          
+  
+          <author key="pmb11527" role="hat-unter-pseudonym-geschrieben">Großmann, Stefan</author>
+          
+
+          <date when-iso="1911-10-15">1911-10-15</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46196/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46196.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb46153">
+          
+  
+          <title type="main">Arthur Schnitzler: Der Ruf des Lebens. Zur ersten Aufführung im Deutschen Volkstheater</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19091217&amp;seite=1&amp;zoom=33&amp;query=%22ruf%2Bdes%2Blebens%22&amp;ref=anno-search</title>
+          
+  
+          <title type="person_pseudonym">st. gr.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">st. gr.: Arthur Schnitzler: Der Ruf des Lebens. Zur ersten Aufführung im Deutschen Volkstheater. In: Arbeiter-Zeitung, Jg. 21, Nr. 346, 17.12.1909, Morgenblatt, S. 1–2.</title>
+          
+  
+          <author key="pmb11527" role="hat-unter-pseudonym-geschrieben">Großmann, Stefan</author>
+          
+
+          <date>1909-12-17</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46153/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46153.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb46127">
           
   
@@ -71467,6 +73875,34 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Oper</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb44774">
+          
+  
+          <title type="main">Aus ungleichen Tagen</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Neues Wiener Journal, Jg. 7, Nr. 1925, .2.3.1899, S. 1–2</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nwj&amp;datum=18990302&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <author key="pmb2416" role="hat-geschaffen">David, Jakob Julius</author>
+          
+
+          <date>1899-03-02</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44774/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44774.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -71981,6 +74417,34 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
 
         </bibl>
+        <bibl xml:id="pmb42512">
+          
+  
+          <title type="main">Theater- und Kunstnachrichten. [Burgtheater] [Liebelei, Rechte der Seele]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">[O.V. =Ludwig Speidel]: Theater- und Kunstnachrichten. [Burgtheater]. In: Neue Freie Presse, Nr. 11181, 10. 10. 1895, S. 7</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18951010&amp;query=text:%22liebelei%22&amp;ref=anno-search&amp;seite=7</title>
+          
+  
+          <author key="pmb12816" role="hat-anonym-veroffentlicht">Speidel, Ludwig</author>
+          
+
+          <date>1895-10-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42512/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42512.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb42459">
           
   
@@ -72211,6 +74675,34 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Operette</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb42207">
+          
+  
+          <title type="main">Die Saison in Ischl</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Jg. 43, Nr. 206, 28.7.1893, S. 4.</title>
+          
+  
+          <title type="legacy-name-merge">??[Kritik an Schnitzler]</title>
+          
+
+          <date>1893-07-28</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42145/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42207/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42207.html</idno>
+          
+  
+          <note type="work_kind">Zeitungsbericht</note>
           
 
         </bibl>
@@ -72696,6 +75188,34 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
 
         </bibl>
+        <bibl xml:id="pmb41191">
+          
+  
+          <title type="main">Aus Ischl</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18930721&amp;query=%22schnitzler%22&amp;ref=anno-search&amp;seite=11</title>
+          
+  
+          <title type="person_pseudonym">e.l.</title>
+          
+  
+          <author key="pmb20723" role="hat-unter-pseudonym-geschrieben">Löbl, Emil</author>
+          
+
+          <date>1893-07-21</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41191/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41191.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb41143">
           
   
@@ -73144,6 +75664,46 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Gedicht</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb39481">
+          
+  
+          <title type="main">Lebendige Stunden (Vier Einacter von Arthur Schnitzler: »Lebendige Stunden«, »Die Frau mit dem Dolche«, »Die letzten Masken« und »Literatur«. Zum ersten Male aufgeführt im Carl-Theater am 6. Mai 1902. Erste Vorstellung des Berliner Deutschen Theaters)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Lebendige Stunden. (Vier Einakter von Arthur Schnitzler: »Lebendige Stunden«, »Die Frau mit dem Dolche«, »Die letzten Masken« und »Literatur«. Zum erstenmal aufgeführt im Carl-Theater am 6. Mai 1902. Erste Vorstellung des Berliner Deuts</title>
+          
+  
+          <title type="legacy-name-merge">Lebendige Stunden. (Vier Einakter von Arthur Schnitzler: »Lebendige Stunden«, »Die Frau mit dem Dolche«, »Die letzten Masken« und »Literatur«. Zum erstenmal aufgeführt im Carl-Theater am 6. Mai 1902. Erste Vorstellung des Berliner Deutschen Theaters</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date>1902-05-07</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb39481.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39481/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/132167/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39481.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb39481.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132167.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -74462,6 +77022,68 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Schwank</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb33969">
+          
+  
+          <title type="main">Jung-Wiener Dichter. (Zur Burgtheater-Première.)</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=wmj&amp;datum=18951014&amp;seite=1&amp;zoom=33</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Der Reporter: Jung-Wiener Dichter. (Zur Burgtheater-Première.) In: Extrapost, Jg. 14, Nr. 717, 14.10.1895, S. 1–2</title>
+          
+  
+          <author key="pmb33970" role="hat-unter-pseudonym-geschrieben">Der Reporter</author>
+          
+
+          <date>1895-10-14</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33969/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33969.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+  
+          <note type="references">Der Reporter: Jung-Wiener Dichter (Zur Burgtheater-Première). In: Extrapost, 14. 10. 1895</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb33965">
+          
+  
+          <title type="main">Burgtheater [Rechte der Seele, Liebelei]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Alfred Freiherr von Berger: Burgtheater. In: Montags-Revue, Jg. 26, Nr. 41, 14. 10. 1895, S. 1–4</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223992/52</title>
+          
+  
+          <author key="pmb10883" role="hat-geschaffen">Berger, Alfred von</author>
+          
+
+          <date>1895-10-14</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33965/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33965.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+  
+          <note type="references">Neue Revue, 14. 10. 1895</note>
           
 
         </bibl>
@@ -75803,6 +78425,28 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb33470">
+          
+  
+          <title type="main">[Man schreibt uns aus Ischl]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Berliner Börsen-Courier, Nr. 343, 25.7.1893, Morgen-Ausgabe, S. 4</title>
+          
+
+          <date>1893-07-25</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33470/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33470.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb33450">
           
   
@@ -75828,6 +78472,62 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb33442">
+          
+  
+          <title type="main">Ischler Brief</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Wiener Allgemeine Zeitung, 18. 7. 1893</title>
+          
+  
+          <title type="person_pseudonym">Stefan</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=18930718&amp;query=%22arthur+schnitzler%22&amp;ref=anno-search&amp;seite=2</title>
+          
+  
+          <author key="pmb12796" role="hat-unter-pseudonym-geschrieben">Skrein, Stefan</author>
+          
+
+          <date>1893-07-18</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33442/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33442.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb33440">
+          
+  
+          <title type="main">[Abschiedsouper in Ischl]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Illustrirtes Wiener Extrablatt, Jg. 22, Nr. 196, 18. 7. 1893, S. 5</title>
+          
+  
+          <author key="pmb2150" role="hat-anonym-veroffentlicht">Bauer, Julius</author>
+          
+
+          <date when-iso="1893-07-18">1893-07-18</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33440/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33440.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -76042,6 +78742,31 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb33352">
+          
+  
+          <title type="main">»Der Ruf des Lebens.« Schauspiel von Artur Schnitzler. Erste Aufführung im Lessingtheater</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Der Tag, Nr. 105, Ausgabe A, 27.2.1906, Erster Teil, S.  1–2</title>
+          
+  
+          <author key="pmb3390" role="hat-geschaffen">Schönhoff, Leopold</author>
+          
+
+          <date>1906-02-27 – 27.21906</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33352/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33352.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb33273">
           
   
@@ -76146,6 +78871,37 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb33251">
+          
+  
+          <title type="main">Theater und Kunst [Uraufführung Das Märchen]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">–r–: Theater und Kunst. In: Das Vaterland, Jg. 34, Nr. 333, 2. 12. 1893, S. 7</title>
+          
+  
+          <title type="person_pseudonym">–r–</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=vtl&amp;datum=18931202&amp;seite=7&amp;zoom=33</title>
+          
+  
+          <author key="pmb29099" role="hat-unter-pseudonym-geschrieben">–r–</author>
+          
+
+          <date>1893-12-01</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33251/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33251.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -77054,6 +79810,34 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb32824">
+          
+  
+          <title type="main">Theater (»Komödianten« von Edouard Pailleron. Zum ersten Male im Deutschen Volkstheater am 20. October. »Es war einmal« von Holger Drachmann. Zum ersten Male im Raimundtheater am 27. October)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Die Zeit, Bd. 1, H. 4, 27. 10. 1894</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date when-iso="1894-10-27">1894-10-27</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32824.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32824/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb32824.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb32808">
           
   
@@ -77753,6 +80537,43 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb32518">
+          
+  
+          <title type="main">Theater</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Die Zukunft, Bd. 54, H. 9, 3. 3. 1906, S. 346–356.</title>
+          
+  
+          <title type="werk_link">https://archive.org/details/diezukunft46hardgoog/page/n363</title>
+          
+  
+          <title type="person_pseudonym">M. H.</title>
+          
+  
+          <author key="pmb11581" role="hat-unter-einem-kurzel-veroffentlicht">Harden, Maximilian</author>
+          
+
+          <date>1906-03-03</date>
+          
+  
+          <idno type="URL" subtype="exemplar">https://archive.org/stream/diezukunft46hardgoog#page/n363/mode/2up</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32518.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32518/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32518.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -79902,6 +82723,34 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Film</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb32027">
+          
+  
+          <title type="main">Aus Ischl, 14. Juli, schreibt man uns: …</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Neue Freie Presse, Nr. 10381, 18. 7. 1893, S. 6</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18930718&amp;seite=6&amp;zoom=33</title>
+          
+
+          <date>1893-07-18</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32027.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32027/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32027.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -83012,6 +85861,101 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb31565">
+          
+  
+          <title type="main">Burgtheater (Liebelei, Schauspiel in drei Acten von Arthur Schnitzler. Rechte der Seele, Schauspiel in einem Act von Guiseppe Giacosa. Zum ersten Mal aufgeführt am 9. October)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Burgtheater (Liebelei, Schauspiel in drei Acten von Arthur Schnitzler. Rechte der Seele, Schauspiel in einem Act von Guiseppe Giacosa. Zum ersten Mal aufgeführt am 9. October). In: Die Zeit, Bd. 5, Nr. 54, 12. 10. 1895, S. 27–28</title>
+          
+  
+          <title type="werk_link">https://schnitzler-zeitungen.acdh.oeaw.ac.at/transkribus/page/50217/223992/41</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Liebelei. (Schauspiel in drei Acten von Arthur Schnitzler. Rechte der Seele, Schauspiel in einem Act von Giuseppe Giacosa. Zum ersten Mal aufgeführt am 9. October). In: Wiener Theater. (1892–1898). Berlin: S. Fischer 1899, S. 81–87.</title>
+          
+  
+          <title type="legacy-name-merge">Liebelei. (Schauspiel in drei Acten von Arthur Schnitzler. Rechte der Seele, Schauspiel in einem Act von Giuseppe Giacosa. Zum ersten Mal aufgeführt am 9. October)</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date>1895-10-12</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31565.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31565/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133191/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31565.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb31565.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133191.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb31563">
+          
+  
+          <title type="main">Das Märchen (Schauspiel in drei Aufzügen von Arthur Schnitzler)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Deutsche Zeitung, 2. 12. 1893</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Das Märchen (Schauspiel in drei Aufzügen von Arthur Schnitzler. Zum ersten Male aufgeführt am Deutschen Volkstheater den 1. December). In: Deutsche Zeitung, Jg. 23, Nr. 7879, 2. 12. 1893, Morgen-Ausgabe, S. 1–3</title>
+          
+  
+          <title type="werk_link">https://bahr.univie.ac.at/textdownload</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Das Märchen. (Schauspiel in drei Aufzügen von Arthur Schnitzler. Zum ersten Male aufgeführt den 1. December). In: Wiener Theater. (1892–1898). Berlin: S. Fischer 1899, S. 242–252.</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date>1893-12-02</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31563.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31563/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/133147/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31563.html</idno>
+          
+  
+          <idno type="URL">https://this.will-change/HB-tv_2884</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb31563.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133147.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb31557">
           
   
@@ -84950,6 +87894,37 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb31281">
+          
+  
+          <title type="main">Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Paul Goldmann: Berliner Theater. »Der einsame Weg«. Von Arthur Schnitzler. In: Neue Freie Presse, Nr. 14.187, 23. 2. 1904, Morgenblatt, S. 1–3</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19040223&amp;seite=1</title>
+          
+  
+          <author key="pmb11485" role="hat-geschaffen">Goldmann, Paul</author>
+          
+
+          <date>1904-02-23</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31281.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31281/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31281.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb31279">
           
   
@@ -85051,6 +88026,37 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Posse</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb31257">
+          
+  
+          <title type="main">Artur Schnitzler-Abend</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Felix Salten: Artur Schnitzler-Abend. In: Die Zeit, Jg. 3, Nr. 796, Morgenblatt, 13. 12. 1904 , S. 3.</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=zei&amp;datum=19041213&amp;seite=3&amp;zoom=33</title>
+          
+  
+          <author key="pmb2167" role="hat-geschaffen">Salten, Felix</author>
+          
+
+          <date when-iso="1904-12-13">1904-12-13</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31257.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31257/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31257.html</idno>
+          
+  
+          <note type="work_kind">Feuilleton</note>
           
 
         </bibl>
@@ -85557,6 +88563,49 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references"> </note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb31177">
+          
+  
+          <title type="main">Der Puppenspieler. (Studie in einem Aufzuge von Arthur Schnitzler. Zum ersten Mal aufgeführt im Carl-Theater am 12. Dezember 1904)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Neues Wiener Tagblatt, 13. 12. 1904</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Der Puppenspieler. (Studie in einem Aufzuge von Arthur Schnitzler. Zum ersten Mal aufgeführt im Carl-Theater am 12. Dezember 1904). In: Glossen. Zum Wiener Theater (1903 bis 1906). Berlin: S. Fischer 1907, S. 440–449.</title>
+          
+  
+          <title type="legacy-name-merge">Der Puppenspieler. (Studie in einem Aufzuge von Arthur Schnitzler. Zum ersten Mal aufgeführt im Carl-Theater am 12. Dezember 1904)</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date when-iso="1904-12-13">1904-12-13</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31177.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31177/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/131653/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31177.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb31177.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb131653.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -89969,6 +93018,40 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
+        <bibl xml:id="pmb30463">
+          
+  
+          <title type="main">Theater- und Kunstnachrichten [Uraufführung Das Märchen]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Neue Freie Presse, 2. 12. 1893</title>
+          
+  
+          <title type="werk_bibliografische-angabe">N. N.: Theater- und Kunstnachrichten. In: Neue Freie Presse, Jg. 30, Nr. 10518, 2. 12. 1893, S. 7</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18931202&amp;seite=7&amp;zoom=33</title>
+          
+  
+          <author key="pmb2583" role="hat-anonym-veroffentlicht">Schütz, Friedrich</author>
+          
+
+          <date>1893-12-02</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30463.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30463/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30463.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb30461">
           
   
@@ -90163,6 +93246,37 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Musikstück</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb30449">
+          
+  
+          <title type="main">Theater- und Kunstnachrichten [Uraufführung Das Märchen]</title>
+          
+  
+          <title type="werk_bibliografische-angabe">g. [=Emil Granichstaedten]: Theater- und Kunstnachrichten. In: Die Presse, Jg. 46, Nr. 333, 2. 12. 1893, S. 11</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18931202&amp;seite=11&amp;zoom=33</title>
+          
+  
+          <author key="pmb2586" role="hat-unter-einem-kurzel-veroffentlicht">Granichstaedten, Emil</author>
+          
+
+          <date>1893-12-02</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30449.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30449/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30449.html</idno>
+          
+  
+          <note type="work_kind">Sammlung von Rezensionen</note>
           
 
         </bibl>
