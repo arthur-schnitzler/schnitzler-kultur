@@ -285,7 +285,7 @@ var calendarData = [
     "name": "Aufführung von Der Kuß, 7.10.1878", "startDate": "1878-10-07", "id": "pmb207452.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 26.10.1878", "startDate": "1878-10-26", "id": "pmb207453.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Fledermaus, 26.10.1878", "startDate": "1878-10-26", "id": "pmb207453.html", "type": "Operettenaufführung"
   },
   {
     "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 3.11.1878", "startDate": "1878-11-03", "id": "pmb207454.html", "type": "Philharmonisches Konzert"
@@ -1740,7 +1740,7 @@ var calendarData = [
     "name": "Konzert von Leopoldine Kutzel, 2.8.1885", "startDate": "1885-08-02", "id": "pmb207931.html", "type": "Volksgesang"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 11.8.1885", "startDate": "1885-08-11", "id": "pmb207933.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Fledermaus, 11.8.1885", "startDate": "1885-08-11", "id": "pmb207933.html", "type": "Operettenaufführung"
   },
   {
     "name": "Aufführung von Eine Kleinigkeit, 13.8.1885", "startDate": "1885-08-13", "id": "pmb207934.html", "type": "Theateraufführung"
@@ -1950,7 +1950,7 @@ var calendarData = [
     "name": "Maskenball, 16.1.1886", "startDate": "1886-01-16", "id": "pmb208001.html", "type": "Maskenball"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 20.1.1886", "startDate": "1886-01-20", "id": "pmb208002.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Fledermaus, 20.1.1886", "startDate": "1886-01-20", "id": "pmb208002.html", "type": "Operettenaufführung"
   },
   {
     "name": "Premiere von Die Novize, 21.1.1886", "startDate": "1886-01-21", "id": "pmb208003.html", "type": "Theaterpremiere"
@@ -2292,7 +2292,7 @@ var calendarData = [
     "name": "Ball in den Sofiensälen, 24.2.1887", "startDate": "1887-02-24", "id": "pmb208115.html", "type": "Ball"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 25.2.1887", "startDate": "1887-02-25", "id": "pmb208116.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Fledermaus, 25.2.1887", "startDate": "1887-02-25", "id": "pmb208116.html", "type": "Operettenaufführung"
   },
   {
     "name": "Premiere von Bellman, 26.2.1887", "startDate": "1887-02-26", "id": "pmb208117.html", "type": "Theaterpremiere"
@@ -2394,7 +2394,7 @@ var calendarData = [
     "name": "Aufführung von Krieg im Frieden, 28.6.1887", "startDate": "1887-06-28", "id": "pmb208149.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 13.7.1887", "startDate": "1887-07-13", "id": "pmb208150.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Fledermaus, 13.7.1887", "startDate": "1887-07-13", "id": "pmb208150.html", "type": "Operettenaufführung"
   },
   {
     "name": "Aufführung von Die Glocke von Corneville, 20.7.1887", "startDate": "1887-07-20", "id": "pmb208151.html", "type": "Theateraufführung"
@@ -3342,7 +3342,7 @@ var calendarData = [
     "name": "Aufführung von Boccaccio, 8.1.1891", "startDate": "1891-01-08", "id": "pmb88376.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 9.1.1891", "startDate": "1891-01-09", "id": "pmb208442.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Fledermaus, 9.1.1891", "startDate": "1891-01-09", "id": "pmb208442.html", "type": "Operettenaufführung"
   },
   {
     "name": "Hausball bei Ignaz Pserhofer, 10.1.1891", "startDate": "1891-01-10", "id": "pmb208444.html", "type": "Hausball"
@@ -3681,7 +3681,7 @@ var calendarData = [
     "name": "Aufführung von Sodoms Ende, 11.1.1892", "startDate": "1892-01-11", "id": "pmb208521.html", "type": "Theateraufführung"
   },
   {
-    "name": "Orchesterkonzert von Josef Joachim, 13.1.1892", "startDate": "1892-01-13", "id": "pmb208522.html", "type": "Orchesterkonzert"
+    "name": "Orchesterkonzert von Joseph Joachim, 13.1.1892", "startDate": "1892-01-13", "id": "pmb208522.html", "type": "Orchesterkonzert"
   },
   {
     "name": "Letzte Generalversammlung der Freien Bühne, 18.1.1892", "startDate": "1892-01-18", "id": "pmb89316.html", "type": "Vereinstreffen"
@@ -4740,7 +4740,7 @@ var calendarData = [
     "name": "Ballett im Oper, 25.1.1895", "startDate": "1895-01-25", "id": "pmb208720.html", "type": "Ballett"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 27.1.1895", "startDate": "1895-01-27", "id": "pmb208721.html", "type": "Opernaufführung"
+    "name": "Aufführung von Die Fledermaus, 27.1.1895", "startDate": "1895-01-27", "id": "pmb208721.html", "type": "Operettenaufführung"
   },
   {
     "name": "Volkstümliches Konzert, 27.1.1895", "startDate": "1895-01-27", "id": "pmb195995.html", "type": "Konzert"
@@ -4884,7 +4884,7 @@ var calendarData = [
     "name": "Aufführung von Hänsel und Grethel, 8.7.1895", "startDate": "1895-07-08", "id": "pmb208748.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 12.7.1895", "startDate": "1895-07-12", "id": "pmb208749.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Fledermaus, 12.7.1895", "startDate": "1895-07-12", "id": "pmb208749.html", "type": "Operettenaufführung"
   },
   {
     "name": "Aufführung von Fernands Ehecontract, 13.7.1895", "startDate": "1895-07-13", "id": "pmb199192.html", "type": "Theateraufführung"
@@ -4935,7 +4935,7 @@ var calendarData = [
     "name": "Zwei glückliche Tage, Ischl, 5.8.1895", "startDate": "1895-08-05", "id": "pmb42475.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 6.8.1895", "startDate": "1895-08-06", "id": "pmb208763.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Fledermaus, 6.8.1895", "startDate": "1895-08-06", "id": "pmb208763.html", "type": "Operettenaufführung"
   },
   {
     "name": "Aufführung von Das Stiftungsfest, 9.8.1895", "startDate": "1895-08-09", "id": "pmb208764.html", "type": "Theateraufführung"
@@ -4950,7 +4950,7 @@ var calendarData = [
     "name": "Aufführung von Die Chansonette. Operette in 3 Acten, 16.8.1895", "startDate": "1895-08-16", "id": "pmb208767.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 17.8.1895", "startDate": "1895-08-17", "id": "pmb208768.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Fledermaus, 17.8.1895", "startDate": "1895-08-17", "id": "pmb208768.html", "type": "Operettenaufführung"
   },
   {
     "name": "Aufführung von Die Meistersinger von Nürnberg, 27.8.1895", "startDate": "1895-08-27", "id": "pmb208769.html", "type": "Theateraufführung"
@@ -6858,7 +6858,7 @@ var calendarData = [
     "name": "Aufführung von Mignon, 31.12.1899", "startDate": "1899-12-31", "id": "pmb209123.html", "type": "Opernaufführung"
   },
   {
-    "name": "Aufführung von Die Fledermaus, 6.1.1900", "startDate": "1900-01-06", "id": "pmb209124.html", "type": "Opernaufführung"
+    "name": "Aufführung von Die Fledermaus, 6.1.1900", "startDate": "1900-01-06", "id": "pmb209124.html", "type": "Operettenaufführung"
   },
   {
     "name": "Aufführung von Onkel Toni, 8.1.1900", "startDate": "1900-01-08", "id": "pmb209125.html", "type": "Theateraufführung"
@@ -15705,7 +15705,7 @@ var calendarData = [
     "name": "Filmvorführung, 7.4.1925", "startDate": "1925-04-07", "id": "pmb210748.html", "type": "Filmvorführung"
   },
   {
-    "name": "Vortrag »Das heutige Europa« von Georg Brandes, 8.4.1925", "startDate": "1925-04-08", "id": "pmb210338.html", "type": "Vortrag"
+    "name": "Vortrag von Das heutige Europa, 8.4.1925", "startDate": "1925-04-08", "id": "pmb37735.html", "type": "Vortrag"
   },
   {
     "name": "Konzert des Tonkünstlerorchesters, 16.4.1925", "startDate": "1925-04-16", "id": "pmb210339.html", "type": "Konzert"
