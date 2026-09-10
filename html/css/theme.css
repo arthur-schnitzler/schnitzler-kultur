@@ -329,6 +329,10 @@ a:focus {
     white-space: nowrap;
 }
 
+.resource-btn:visited {
+    color: #fff;
+}
+
 .resource-btn:hover,
 .resource-btn:focus {
     color: #fff;
