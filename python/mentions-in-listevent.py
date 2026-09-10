@@ -32,17 +32,8 @@ for tag_name, output_filename, xpath in targets:
     keys = set()
 
     if tag_name == "work":
-        # Sonderbehandlung für Werke
+        # Sonderbehandlung für Werke (inkl. Rezensionen, z.B. <note>wird rezensiert in</note>)
         for bibl in root.findall(".//tei:bibl", namespaces=NS):
-            # Wenn ein <note>wird rezensiert in</note> vorkommt, überspringen
-            is_review = any(
-                note.text == "wird rezensiert in"
-                for note in bibl.findall("tei:note", namespaces=NS)
-            )
-            if is_review:
-                continue  # überspringe Rezensionen
-
-            # Dann <title> extrahieren
             title = bibl.find("tei:title", namespaces=NS)
             if title is not None:
                 key = title.get("key")

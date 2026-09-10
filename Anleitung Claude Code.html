@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Anleitung: Umsetzung mit Claude Code</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #8A2E35; display: flex; align-items: center; justify-content: center; min-height: 100vh; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+    #__bundler_loading { position: fixed; bottom: 20px; right: 20px; font: 13px/1.4 -apple-system, BlinkMacSystemFont, sans-serif; color: #666; background: #fff; padding: 8px 14px; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.12); z-index: 10000; }
+    #__bundler_thumbnail { position: fixed; inset: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: #8A2E35; z-index: 9999; }
+    #__bundler_thumbnail svg { width: 100%; height: 100%; object-fit: contain; }
+    #__bundler_placeholder { color: #999; font-size: 14px; }
+  </style>
+  <noscript>
+    <style>#__bundler_loading { display: none; }</style>
+    <div style="position:fixed;bottom:12px;left:12px;font:13px/1.4 -apple-system,BlinkMacSystemFont,sans-serif;color:#999;background:rgba(255,255,255,0.9);padding:6px 12px;border-radius:6px;box-shadow:0 1px 4px rgba(0,0,0,0.08);z-index:10000;">
+      This page requires JavaScript to display.
+    </div>
+  </noscript>
+</head>
+<body>
+  <div id="__bundler_thumbnail">
+  <svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="80" fill="#8A2E35"></rect>
+    <text x="60" y="50" text-anchor="middle" font-family="Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#FAF8F5">CC</text>
+  </svg>
+</div>
+  <div id="__bundler_loading">Unpacking...</div>
+
+  <script>
+    
+document.addEventListener('DOMContentLoaded', async function() {
+  const loading = document.getElementById('__bundler_loading');
+  function setStatus(msg) { if (loading) loading.textContent = msg; }
+
+  const FONT_MIME = /^(font[/]|application[/](x-)?font-|application[/]vnd\.ms-fontobject)/i;
+  const MIME_TOKEN = /^[\w.+-]+[/][\w.+-]+$/;
+  function toBase64(bytes) {
+    let bin = '';
+    for (let i = 0; i < bytes.length; i += 0x8000) {
+      bin += String.fromCharCode.apply(null, bytes.subarray(i, i + 0x8000));
+    }
+    return btoa(bin);
+  }
+
+  // Error sink persists across replaceWith since it's on window, not the DOM.
+  window.addEventListener('error', function(e) {
+    // Failed resource loads (CSP-blocked links, scripts, images) fire plain
+    // events at the element — warn only; real JS errors carry message/error.
+    if (!e.message && !e.error && e.target && e.target !== window) {
+      console.warn('[bundle] resource failed to load:',
+        e.target.tagName, String(e.target.src || e.target.href || ''));
+      return;
+    }
+    var p = document.body || document.documentElement;
+    var d = document.getElementById('__bundler_err') || p.appendChild(document.createElement('div'));
+    d.id = '__bundler_err';
+    d.style.cssText = 'position:fixed;bottom:12px;left:12px;right:12px;font:12px/1.4 ui-monospace,monospace;background:#2a1215;color:#ff8a80;padding:10px 14px;border-radius:8px;border:1px solid #5c2b2e;z-index:99999;white-space:pre-wrap;max-height:40vh;overflow:auto';
+    d.textContent = (d.textContent ? d.textContent + String.fromCharCode(10) : '') +
+      '[bundle] ' + (e.message || e.type) +
+      (e.filename ? ' (' + e.filename.slice(0, 60) + ':' + e.lineno + ')' : '');
+  }, true);
+
+  try {
+    const manifestEl = document.querySelector('script[type="__bundler/manifest"]');
+    const templateEl = document.querySelector('script[type="__bundler/template"]');
+    if (!manifestEl || !templateEl) {
+      setStatus('Error: missing bundle data');
+      console.error('[bundler] Missing script tags — manifestEl:', !!manifestEl, 'templateEl:', !!templateEl);
+      return;
+    }
+
+    const manifest = JSON.parse(manifestEl.textContent);
+    let template = JSON.parse(templateEl.textContent);
+
+    const uuids = Object.keys(manifest);
+    setStatus('Unpacking ' + uuids.length + ' assets...');
+
+    const blobUrls = {};
+    const resourceBlobs = {};
+    await Promise.all(uuids.map(async (uuid) => {
+      const entry = manifest[uuid];
+      try {
+        const binaryStr = atob(entry.data);
+        const bytes = new Uint8Array(binaryStr.length);
+        for (let i = 0; i < binaryStr.length; i++) bytes[i] = binaryStr.charCodeAt(i);
+
+        let finalBytes = bytes;
+        if (entry.compressed) {
+          if (typeof DecompressionStream !== 'undefined') {
+            const ds = new DecompressionStream('gzip');
+            const writer = ds.writable.getWriter();
+            const reader = ds.readable.getReader();
+            writer.write(bytes);
+            writer.close();
+            const chunks = [];
+            let totalLen = 0;
+            while (true) {
+              const { done, value } = await reader.read();
+              if (done) break;
+              chunks.push(value);
+              totalLen += value.length;
+            }
+            finalBytes = new Uint8Array(totalLen);
+            let offset = 0;
+            for (const chunk of chunks) { finalBytes.set(chunk, offset); offset += chunk.length; }
+          } else {
+            console.warn('DecompressionStream not available, asset ' + uuid + ' may not render');
+          }
+        }
+
+        if (FONT_MIME.test(entry.mime) && MIME_TOKEN.test(entry.mime)) {
+          // Strict artifact hosts allow font-src data: but not blob:.
+          blobUrls[uuid] = 'data:' + entry.mime + ';base64,' +
+            (entry.compressed ? toBase64(finalBytes) : entry.data);
+        } else {
+          const blob = new Blob([finalBytes], { type: entry.mime });
+          blobUrls[uuid] = URL.createObjectURL(blob);
+          resourceBlobs[blobUrls[uuid]] = blob;
+        }
+      } catch (err) {
+        console.error('Failed to decode asset ' + uuid + ':', err);
+        const blob = new Blob([], { type: entry.mime });
+        blobUrls[uuid] = URL.createObjectURL(blob);
+        resourceBlobs[blobUrls[uuid]] = blob;
+      }
+    }));
+
+    const extResEl = document.querySelector('script[type="__bundler/ext_resources"]');
+    const extResources = extResEl ? JSON.parse(extResEl.textContent) : [];
+    const resourceMap = {};
+    for (const entry of extResources) {
+      if (blobUrls[entry.uuid]) resourceMap[entry.id] = blobUrls[entry.uuid];
+    }
+
+    // Artifact-host CSP (connect-src 'self') refuses fetch() of blob: URLs —
+    // consumers read these Blobs directly. Survives the swap like the error sink.
+    window.__resourceBlobs = resourceBlobs;
+
+    setStatus('Rendering...');
+    for (const uuid of uuids) template = template.split(uuid).join(blobUrls[uuid]);
+
+    // Strip integrity + crossorigin — blob URLs from a file:// document inherit
+    // a null origin, so crossorigin forces a CORS fetch that SRI then rejects.
+    // The manifest bytes are ours; SRI protects against CDN compromise, not this.
+    template = template.replace(/\s+integrity="[^"]*"/gi, '').replace(/\s+crossorigin="[^"]*"/gi, '');
+
+    const resourceScript = '<script>window.__resources = ' +
+      JSON.stringify(resourceMap).replace(/<\//g, '<\\/') +
+      ';</' + 'script>';
+    // Inject after <head> so the DOCTYPE stays first; prepending the script
+    // would push the parser into quirks mode. DOMParser always emits a <head>
+    // (synthesizing one if the source HTML omitted it) but may carry
+    // attributes through, so match the full opening tag. slice() rather than
+    // replace() keeps us clear of $-pattern substitution in resourceScript.
+    const headOpen = template.match(/<head[^>]*>/i);
+    if (headOpen) {
+      const i = headOpen.index + headOpen[0].length;
+      template = template.slice(0, i) + resourceScript + template.slice(i);
+    }
+
+    // Parse the template and swap the root element. Scripts inserted via
+    // DOMParser/replaceWith are inert per spec — re-create each with
+    // createElement so they execute, awaiting onload for src scripts to
+    // preserve ordering (React before ReactDOM before Babel before text/babel).
+    const doc = new DOMParser().parseFromString(template, 'text/html');
+    document.documentElement.replaceWith(doc.documentElement);
+    const dead = Array.from(document.scripts);
+    for (const old of dead) {
+      const s = document.createElement('script');
+      for (const a of old.attributes) s.setAttribute(a.name, a.value);
+      s.textContent = old.textContent;
+      // text/babel scripts with a src: read and inline. transformScriptTags
+      // does XHR against the src, but blob:null/ from a file:// origin is
+      // silently dropped. Inlining makes it a plain inline babel script,
+      // which transformScriptTags handles unconditionally.
+      if ((s.type === 'text/babel' || s.type === 'text/jsx') && s.src) {
+        const pre = resourceBlobs[s.src.split('#')[0]];
+        s.textContent = pre ? await pre.text() : await (await fetch(s.src)).text();
+        s.removeAttribute('src');
+      }
+      const p = s.src ? new Promise(function(r) { s.onload = s.onerror = r; }) : null;
+      old.replaceWith(s);
+      if (p) await p;
+    }
+    // Babel standalone auto-transforms type=text/babel on DOMContentLoaded,
+    // which fired before we swapped the document. Trigger manually if present.
+    if (window.Babel && typeof window.Babel.transformScriptTags === 'function') {
+      window.Babel.transformScriptTags();
+    }
+  } catch (err) {
+    setStatus('Error unpacking: ' + err.message);
+    console.error('Bundle unpack error:', err);
+  }
+});
+
+  </script>
+
+  <script type="__bundler/manifest">
+{}
+  </script>
+
+  <script type="__bundler/ext_resources">
+[]
+  </script>
+
+  <script type="__bundler/template">
+"<!DOCTYPE html>\n<html lang=\"de\"><head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>Anleitung: Umsetzung mit Claude Code<\u002Ftitle>\n\n<style>\n  body { margin:0; background:#FAF8F5; color:#211E1C; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; line-height:1.6; }\n  main { max-width:760px; margin:0 auto; padding:64px 28px 96px; }\n  h1 { font-size:32px; line-height:1.2; letter-spacing:-0.01em; margin:0 0 16px; }\n  h2 { font-size:21px; margin:40px 0 12px; color:#8A2E35; }\n  p { margin:0 0 14px; }\n  hr { border:none; border-top:1px solid #E5DFD6; margin:36px 0; }\n  ul { margin:0 0 14px; padding-left:22px; }\n  li { margin-bottom:5px; }\n  code { background:#F0EBE3; padding:1px 6px; border-radius:3px; font-size:0.9em; font-family:ui-monospace, Menlo, Consolas, monospace; }\n  pre { background:#211E1C; color:#EDE7DD; padding:16px 20px; overflow-x:auto; font-size:13.5px; line-height:1.55; font-family:ui-monospace, Menlo, Consolas, monospace; border-radius:4px; }\n  blockquote { margin:0 0 14px; padding:14px 20px; border-left:3px solid #8A2E35; background:#F4F0EA; color:#3d3833; }\n  blockquote code { background:#E9E2D6; }\n  a { color:#8A2E35; }\n  strong { color:#211E1C; }\n<\u002Fstyle>\n<\u002Fhead>\n<body>\n<main>\n<h1>Umsetzung des neuen Layouts mit Claude Code<\u002Fh1>\n<p>Anleitung in Etappen für das Repository <code>arthur-schnitzler/schnitzler-kultur<\u002Fcode> (DSE-Static-Cookiecutter: XSLT erzeugt statische HTML-Seiten; Templates in <code>xslt/<\u002Fcode>, Assets in <code>html/css/<\u002Fcode> bzw. <code>html/js/<\u002Fcode>). <strong>Referenz:<\u002Fstrong> Der Entwurf liegt in diesem Projekt als <code>Ereignisseite.dc.html<\u002Fcode>. Gib Claude Code am besten die gerenderte Seite als Screenshot UND die wichtigsten Design-Werte (unten, Etappe 1) mit.<\u002Fp>\n<hr>\n<h2>Vorbereitung<\u002Fh2>\n<pre>git checkout -b redesign-ereignisseite<\u002Fpre>\n<p>Sag Claude Code zu Beginn jeder Session:<\u002Fp>\n<blockquote>Wir gestalten schnitzler-kultur neu. Die HTML-Seiten werden per XSLT aus<br>TEI-XML erzeugt – ändere die XSLT-Templates (v. a. <code>xslt/event.xsl<\u002Fcode> bzw. die<br>Partials in <code>xslt/partials/<\u002Fcode>) und das CSS, nicht die generierten HTML-Dateien.<br>Baue nach jeder Änderung eine Beispielseite (pmb207360) und zeig sie mir.<\u002Fblockquote>\n<hr>\n<h2>Etappe 1 — Design-Grundlagen (Tokens + Basis-CSS)<\u002Fh2>\n<p><strong>Prompt:<\u002Fstrong><\u002Fp>\n<blockquote>Lege in <code>html/css/<\u002Fcode> ein neues Stylesheet mit CSS-Custom-Properties an und binde<br>es nach Bootstrap ein, sodass es dessen Stile überschreibt:<br><br>- <code>--bg: #FAF8F5<\u002Fcode> (warmes Weiß), <code>--surface: #FFFFFF<\u002Fcode>, <code>--surface-2: #F4F0EA<\u002Fcode><br>- <code>--ink: #211E1C<\u002Fcode>, <code>--ink-muted: #6B645C<\u002Fcode>, <code>--ink-faint: #9A9288<\u002Fcode><br>- <code>--line: #E5DFD6<\u002Fcode>, <code>--line-soft: #F0EBE3<\u002Fcode><br>- <code>--accent: #8A2E35<\u002Fcode> (Bordeaux), <code>--accent-dark: #5E1F24<\u002Fcode><br>- Schrift: „Source Sans 3\" (Google Fonts) für alles; keine Serifenschrift.<br>- Links: Farbe <code>--accent<\u002Fcode>, ohne Unterstreichung; Hover: <code>--accent-dark<\u002Fcode>, unterstrichen.<br>- Body-Hintergrund <code>--bg<\u002Fcode>, Textfarbe <code>--ink<\u002Fcode>.<br><br>Ändere sonst noch nichts an den Templates.<\u002Fblockquote>\n<p><strong>Prüfen:<\u002Fstrong> Seite lädt, Farben/Schrift global geändert, nichts kaputt. Commit: <code>feat: design tokens + basis-css<\u002Fcode><\u002Fp>\n<hr>\n<h2>Etappe 2 — Header/Navigation<\u002Fh2>\n<p><strong>Prompt:<\u002Fstrong><\u002Fp>\n<blockquote>Gestalte die Hauptnavigation neu (XSLT-Partial für den Header):<br>schlanke, sticky Leiste (64 px hoch, Hintergrund <code>--bg<\u002Fcode>, 1 px Unterkante <code>--line<\u002Fcode>).<br>Links: Wortmarke „Schnitzler\" (22 px, 600) + daneben „KULTURVERANSTALTUNGEN\"<br>in 13 px Versalien, letter-spacing 0.14em, Farbe <code>--accent<\u002Fcode>.<br>Rechts: Veranstaltungen · Kalender · Register · Statistik · Projekt (Dropdowns<br>beibehalten) + Such-Pill mit Rahmen <code>--line<\u002Fcode>, border-radius 999px.<br>Max-Breite des Inhalts 1200 px, seitliches Padding 32 px.<\u002Fblockquote>\n<p>Commit: <code>feat: neuer header<\u002Fcode><\u002Fp>\n<hr>\n<h2>Etappe 3 — Ereignisseite: Kopf + Ereignis-Navigation<\u002Fh2>\n<p>Das Herzstück. <strong>Prompt:<\u002Fstrong><\u002Fp>\n<blockquote>Baue das Template der Ereignis-Detailseiten (pmbXXXXX.html) um:<br><br>1. <strong>Ereignis-Navigation<\u002Fstrong> direkt unter dem Header: 48 px hohe Leiste,<br>   Hintergrund <code>--surface-2<\u002Fcode>, 3-spaltiges Grid: links „← Vorheriges: {Titel, Datum}\",<br>   Mitte „Alle Veranstaltungen\", rechts „Nächstes: {Titel, Datum} →\".<br>   Vorgänger/Nachfolger = chronologisch benachbarte Ereignisse (stehen in den<br>   TEI-Daten bzw. sind aus der sortierten Eventliste ableitbar). Lange Titel<br>   mit text-overflow: ellipsis kürzen.<br>2. <strong>Artikelkopf<\u002Fstrong> statt der bisherigen Tabelle: Kicker-Zeile<br>   „{VERANSTALTUNGSTYP} — PMB {ID}\" (13 px Versalien, Typ in <code>--accent<\u002Fcode>),<br>   darunter der Titel als H1 (48 px, 700, max. 820 px breit; Werktitel kursiv),<br>   darunter das Datum ausgeschrieben („Montag, 8. Mai 1876\", 24 px kursiv)<br>   mit Link „Dieser Tag in der Schnitzler-Chronik →\".<\u002Fblockquote>\n<p>Commit: <code>feat: ereigniskopf + prev/next<\u002Fcode><\u002Fp>\n<hr>\n<h2>Etappe 4 — Ereignisseite: zweispaltiger Inhalt<\u002Fh2>\n<p><strong>Prompt:<\u002Fstrong><\u002Fp>\n<blockquote>Ersetze die Meta-Tabelle durch ein Grid <code>1fr 380px<\u002Fcode>, gap 72 px (max. 1200 px):<br><br><strong>Hauptspalte<\u002Fstrong> – Abschnitte mit Versalien-Überschrift (13 px, <code>--ink-faint<\u002Fcode>,<br>Unterkante <code>--line<\u002Fcode>):<br>1. „Aufgeführte Werke\": pro Werk eine Zeile mit laufender Nummer, Werktitel<br>   (22 px), darunter Autor/Gattung klein, rechts Link „Werkseite →\".<br>2. „Teilnehmende\": Personen-Chips (Pill, weißer Hintergrund, Rahmen <code>--line<\u002Fcode>,<br>   runder Initialen-Avatar in <code>--accent<\u002Fcode>, Name + Rolle). Hover: Rahmen <code>--accent<\u002Fcode>.<br>3. „Zeitgenössische Tageszeitungen\": zwei Karten „ANNO – Österreich\" und<br>   „DDB – Deutschland\" mit dem jeweiligen Tagesdatum, externe Links.<br><br><strong>Seitenleiste<\u002Fstrong> – drei Karten (weiß, Rahmen <code>--line<\u002Fcode>):<br>1. <strong>Ort<\u002Fstrong>: oben eingebettete OpenStreetMap-Karte (Leaflet liegt vermutlich<br>   schon in <code>html/vendor/<\u002Fcode>; Koordinaten aus den TEI-Daten), Höhe 220 px,<br>   Marker in <code>--accent<\u002Fcode>; darunter Ortsname (24 px), Adresse, Links<br>   „Ortsseite →\" und „OpenStreetMap ↗\".<br>2. <strong>Datensatz<\u002Fstrong>: Zeilen PMB / Chronik / XML-TEI-Download + Button<br>   „Zitiervorschlag kopieren\" (kopiert Zitation in die Zwischenablage,<br>   Feedback „Zitation kopiert ✓\" für 2 s).<br>3. <strong>Kontext<\u002Fstrong>: Karte auf <code>--surface-2<\u002Fcode>: „Im {Ort}: Schnitzler besuchte<br>   N weitere Veranstaltungen an diesem Ort\" + Link. N aus den Daten zählen.<br><br>Felder ohne Daten (kein Ort, keine Werke …) komplett weglassen, keine leeren<br>Abschnitte.<\u002Fblockquote>\n<p><strong>Prüfen:<\u002Fstrong> mehrere sehr unterschiedliche Ereignisse bauen (mit/ohne Ort, mehrere Werke, viele Teilnehmende). Commit: <code>feat: zweispaltige ereignisseite<\u002Fcode><\u002Fp>\n<hr>\n<h2>Etappe 5 — Footer<\u002Fh2>\n<p><strong>Prompt:<\u002Fstrong><\u002Fp>\n<blockquote>Footer neu: Hintergrund <code>--ink<\u002Fcode>, Text <code>#C9C0B4<\u002Fcode>, 3 Spalten (max. 1200 px):<br>1. Projektname + Kurzbeschreibung (6.232 Ereignisse, 1876–1931, Herausgeber),<br>2. ACDH-Adresse, 3. Kontakt / GitHub / Impressum (Links in <code>--bg<\u002Fcode>).<br>Darunter schmale Zeile „© ÖAW · CC BY 4.0\", Oberkante <code>#3A3530<\u002Fcode>.<\u002Fblockquote>\n<p>Commit: <code>feat: neuer footer<\u002Fcode><\u002Fp>\n<hr>\n<h2>Etappe 6 — Responsiv + Feinschliff<\u002Fh2>\n<p><strong>Prompt:<\u002Fstrong><\u002Fp>\n<blockquote>1. Unter 1000 px: Seitenleiste unter die Hauptspalte, eine Spalte;<br>   Ereignis-Navigation nur noch Pfeile + Datum; Titel 32 px.<br>2. Unter 720 px: Navigation als Burger-Menü (bestehendes Bootstrap-Pattern<br>   weiterverwenden), Padding 20 px.<br>3. Prüfe Tastaturfokus (sichtbarer Fokusring in <code>--accent<\u002Fcode>) und<br>   Farbkontraste (WCAG AA).<\u002Fblockquote>\n<p>Commit: <code>feat: responsive + a11y<\u002Fcode><\u002Fp>\n<hr>\n<h2>Etappe 7 — Ausrollen auf Listen-/Registerseiten (optional)<\u002Fh2>\n<p>Erst wenn die Ereignisseite abgenommen ist, dieselbe Formensprache auf <code>listevent.html<\u002Fcode>, Kalender und Register übertragen — jeweils als eigene Etappe mit eigenem Prompt und Commit.<\u002Fp>\n<hr>\n<h2>Tipps<\u002Fh2>\n<ul>\n<li><strong>Eine Etappe pro Session/Prompt<\u002Fstrong> – nicht alles auf einmal anfordern.<\u002Fli>\n<li>Nach jeder Etappe Build laufen lassen und <code>pmb207360.html<\u002Fcode> als Referenz prüfen.<\u002Fli>\n<li>Screenshot des Entwurfs (<code>Ereignisseite.dc.html<\u002Fcode>) an jede Session anhängen:<\u002Fli>\n<\u002Ful>\n<p>  „Setze das exakt so um.\"<\u002Fp>\n<ul>\n<li>Wenn Claude Code Bootstrap-Klassen bekämpft: lieber Bootstrap-Komponenten<\u002Fli>\n<\u002Ful>\n<p>  gezielt durch eigenes Markup ersetzen als mit <code>!important<\u002Fcode> überschreiben.<\u002Fp>\n<\u002Fmain>\n\n<\u002Fbody><\u002Fhtml>"
+  </script>
+</body>
+</html>
