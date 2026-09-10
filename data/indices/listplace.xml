@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-07-11">serialized</change>
+      <change when-iso="2026-09-09">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,61 @@
       
            
       <listPlace>
+        <place xml:id="pmb364056">
+          
+  
+          <placeName>Sommertheater in Mödling</placeName>
+          
+  
+          <desc type="entity_type">Theater (K.THE)</desc>
+          
+  
+          <desc type="entity_type_id">4</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,083892 16,27948</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb968">Mödling</placeName>
+            
+  
+            <geo>48,08605 16,28921</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364056/</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date from-iso="1875-01-01" to-iso="1913-01-01">1875 – 1913</date>
+            
+
+          </note>
+          
+
+        </place>
         <place xml:id="pmb340669">
           
   
@@ -139,10 +194,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300338.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300338/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/300338/</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300338.html</idno>
           
 
           <listBibl>
@@ -2685,10 +2740,10 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294370.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb294370.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333689/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333689/</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb294370.html</idno>
           
 
           <listBibl>
@@ -3608,10 +3663,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -3888,10 +3943,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -4570,10 +4625,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -4932,10 +4987,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -5142,10 +5197,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -5340,10 +5395,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -5473,14 +5528,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb264904.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb264904.html</idno>
+          
 
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -5562,10 +5620,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -5644,10 +5702,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -5784,10 +5842,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -6347,10 +6405,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -8149,10 +8207,10 @@
             <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
     
-            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -9931,10 +9989,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -10445,14 +10503,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238193.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb238193.html</idno>
+          
 
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -12069,10 +12130,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -12142,10 +12203,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -12483,10 +12544,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -12833,10 +12894,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -13497,10 +13558,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -13761,6 +13822,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231514.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb231514.html</idno>
+          
 
           <listBibl>
             
@@ -13899,10 +13963,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -14694,10 +14758,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -14828,10 +14892,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -15282,10 +15346,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -15544,10 +15608,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -15605,10 +15669,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -16782,10 +16846,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -17254,10 +17318,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -17551,10 +17615,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -17830,10 +17894,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -18015,10 +18079,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -18215,10 +18279,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -18306,10 +18370,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -18491,10 +18555,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -18685,10 +18749,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -18988,10 +19052,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -19267,10 +19331,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -19367,10 +19431,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -20280,10 +20344,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -20477,10 +20541,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -21508,10 +21572,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -21974,10 +22038,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -22178,10 +22242,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -22875,10 +22939,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -23448,10 +23512,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -23640,10 +23704,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -23704,10 +23768,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -23902,10 +23966,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -24051,10 +24115,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -24188,10 +24252,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -24456,10 +24520,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -24581,10 +24645,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -24645,10 +24709,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -24773,10 +24837,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -25020,10 +25084,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -25081,10 +25145,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -25142,10 +25206,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -25732,10 +25796,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -25820,10 +25884,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -25881,10 +25945,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26006,10 +26070,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26067,10 +26131,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26250,10 +26314,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26314,10 +26378,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26375,10 +26439,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26436,10 +26500,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26564,10 +26628,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26689,10 +26753,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26817,10 +26881,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -26878,10 +26942,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -27207,13 +27271,13 @@
           <listBibl>
             
     
+            <bibl type="collections" n="86">Arthur Schnitzler (DLA-Marbach)</bibl>
+            
+    
             <bibl type="collections" n="24">manually created entity</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="86">DLA-Schnitzler</bibl>
             
 
           </listBibl>
@@ -27338,10 +27402,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -28005,10 +28069,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -28078,10 +28142,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -28334,10 +28398,10 @@
             <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
     
-            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -28425,10 +28489,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -28781,10 +28845,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -30505,10 +30569,10 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147893.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147893.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1140265</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1140265</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147893.html</idno>
           
 
           <listBibl>
@@ -31168,6 +31232,9 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142545.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142545/</idno>
           
   
@@ -31186,19 +31253,16 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142545.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142545.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb142545</idno>
           
 
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
             
     
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -31305,6 +31369,9 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118612.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/118612/</idno>
           
   
@@ -31321,9 +31388,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118612.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118612.html</idno>
           
 
           <listBibl>
@@ -31372,6 +31436,9 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118474.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/118474/</idno>
           
   
@@ -31379,9 +31446,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118474.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118474.html</idno>
           
 
           <listBibl>
@@ -31439,6 +31503,9 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118440.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/118440/</idno>
           
   
@@ -31455,9 +31522,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118440.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118440.html</idno>
           
 
           <listBibl>
@@ -31512,6 +31576,9 @@
           </location>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93533.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93533/</idno>
           
   
@@ -31519,9 +31586,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93533.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93533.html</idno>
           
 
           <listBibl>
@@ -31874,10 +31938,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -32372,13 +32436,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92337.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92337.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92337.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb92337.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92337.html</idno>
           
 
           <listBibl>
@@ -32503,10 +32567,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -32619,10 +32683,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92180.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92180.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92180.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92180.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92180.html</idno>
           
 
           <listBibl>
@@ -32999,6 +33063,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb90188.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb90188.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q68994</idno>
           
   
@@ -33009,9 +33076,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb90188.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb90188.html</idno>
           
 
           <listBibl>
@@ -33148,13 +33212,13 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb60854.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb60854.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb60854.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb60854.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb60854.html</idno>
           
 
           <listBibl>
@@ -33254,10 +33318,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -33351,6 +33415,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb58810.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb58810.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb58810.html</idno>
           
   
@@ -33363,9 +33430,6 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003156</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb58810.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb58810</idno>
           
   
@@ -33375,19 +33439,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -33734,10 +33798,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -33822,6 +33886,9 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Apollo-Theater_(Wien)</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52023.html</idno>
+          
+  
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Apollokino</idno>
           
   
@@ -33829,9 +33896,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52023.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52023.html</idno>
           
 
           <listBibl>
@@ -34047,13 +34111,13 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Accademia_di_Belle_Arti_(Florenz)</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50785.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb50785.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50785.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50785.html</idno>
           
 
           <listBibl>
@@ -34245,13 +34309,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47660/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47660.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb47660.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47660.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47660.html</idno>
           
 
           <listBibl>
@@ -34321,6 +34385,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb47414.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47414.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb47414.html</idno>
           
   
@@ -34335,20 +34402,17 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005207</idno>
           
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47414.html</idno>
-          
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="13">No WikiData-ID found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </listBibl>
@@ -34379,6 +34443,12 @@
           <placeName type="legacy-name">Brioni</placeName>
           
   
+          <placeName type="legacy-name-merge">Veliki Brijun</placeName>
+          
+  
+          <placeName type="ort_fruherer-name">Brioni</placeName>
+          
+  
           <desc type="entity_type">P.PPL</desc>
           
   
@@ -34386,6 +34456,30 @@
           
 
           <location type="coords">
+            
+  
+            <geo>44,91417 13,76222</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb568">Adriatisches Meer</placeName>
+            
+  
+            <geo>43,0 16,0</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb45260">Brijuni</placeName>
             
   
             <geo>44,91417 13,76222</geo>
@@ -34421,31 +34515,46 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45260.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45260.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb45260.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45260.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45260.html</idno>
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45260</idno>
           
   
-          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45260</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Veli_Brijun</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364031/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2572091</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3188105/</idno>
           
 
           <listBibl>
             
     
-            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
-            
 
           </listBibl>
+          
+  
+          <note type="references">None </note>
           
 
           <note type="image">
@@ -34492,6 +34601,9 @@
           
   
           <placeName type="legacy-name-merge">München?</placeName>
+          
+  
+          <placeName type="legacy-name-merge">München</placeName>
           
   
           <desc type="entity_type">P.PPLA</desc>
@@ -34560,6 +34672,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45258.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263246/</idno>
           
   
@@ -34578,25 +34693,31 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000329</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45258.html</idno>
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45258</idno>
           
   
-          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45258</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341184/</idno>
+          
+  
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.24</idno>
           
 
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -34660,13 +34781,13 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Maison_Bonaparte</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45229.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb45229.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45229.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45229.html</idno>
           
 
           <listBibl>
@@ -34742,6 +34863,9 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Internationales_Ausstellungstheater</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45128.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q46092813</idno>
           
   
@@ -34749,9 +34873,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb45128.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45128.html</idno>
           
 
           <listBibl>
@@ -34833,13 +34954,13 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb44649.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44649.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44649.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44649.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44649.html</idno>
           
 
           <listBibl>
@@ -34954,6 +35075,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb44374.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44374.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/291993/</idno>
           
   
@@ -34978,9 +35102,6 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004914</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44374.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44374</idno>
           
   
@@ -34990,16 +35111,16 @@
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -35087,6 +35208,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb44303.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44303.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44303.html</idno>
           
   
@@ -35096,22 +35220,19 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003600</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44303.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44303</idno>
           
 
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -35184,6 +35305,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb44248.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44248.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44248.html</idno>
           
   
@@ -35192,20 +35316,17 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004368</idno>
           
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44248.html</idno>
-          
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="13">No WikiData-ID found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
             
 
           </listBibl>
@@ -35296,6 +35417,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb44176.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44176.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44176.html</idno>
           
   
@@ -35311,9 +35435,6 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001457</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44176.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44176</idno>
           
   
@@ -35323,16 +35444,16 @@
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -35420,6 +35541,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb44172.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44172.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44172.html</idno>
           
   
@@ -35435,25 +35559,22 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004684</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44172.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb44172</idno>
           
 
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -35553,6 +35674,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb44153.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44153.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb44153.html</idno>
           
   
@@ -35561,17 +35685,14 @@
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001452</idno>
           
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44153.html</idno>
-          
 
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -35656,6 +35777,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43528/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43528.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb43528.html</idno>
           
   
@@ -35663,9 +35787,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43528.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43528.html</idno>
           
 
           <listBibl>
@@ -35765,6 +35886,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb43520.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43520.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb43520.html</idno>
           
   
@@ -35777,22 +35901,19 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003126</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43520.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb43520</idno>
           
 
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -35853,13 +35974,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43280/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43280.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb43280.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43280.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43280.html</idno>
           
 
           <listBibl>
@@ -35923,6 +36044,9 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Accademia_(Venedig)</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43220.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb43220.html</idno>
           
   
@@ -35951,7 +36075,7 @@
         <place xml:id="pmb42626">
           
   
-          <placeName>Residenztheater Berlin</placeName>
+          <placeName>Residenz-Theater Berlin</placeName>
           
   
           <desc type="entity_type">Theater (K.THE)</desc>
@@ -35984,6 +36108,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42626/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42626.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb42626.html</idno>
           
   
@@ -35991,9 +36118,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42626.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42626.html</idno>
           
 
           <listBibl>
@@ -36057,13 +36181,13 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Engelsburg</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41949.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb41949.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41949.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41949.html</idno>
           
 
           <listBibl>
@@ -36130,13 +36254,13 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb41376.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41376.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb41376.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41376.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41376.html</idno>
           
 
           <listBibl>
@@ -36200,13 +36324,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb40992.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40992.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40992.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40992.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40992.html</idno>
           
 
           <listBibl>
@@ -36276,6 +36400,9 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3212462</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40757.html</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186016/</idno>
           
   
@@ -36284,17 +36411,14 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40757.html</idno>
           
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40757.html</idno>
-          
 
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -36361,13 +36485,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb40725.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40725.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40725.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40725.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40725.html</idno>
           
 
           <listBibl>
@@ -36467,13 +36591,13 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hofmannsthal-Schl%C3%B6ssl</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40297.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40297.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40297.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40297.html</idno>
           
 
           <listBibl>
@@ -36552,6 +36676,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb40260.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40260.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40260.html</idno>
           
   
@@ -36564,22 +36691,19 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001753</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40260.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb40260</idno>
           
 
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -36637,13 +36761,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39678/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39678.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb39678.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb39678.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39678.html</idno>
           
 
           <listBibl>
@@ -36731,6 +36855,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb39615.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39615.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb39615.html</idno>
           
   
@@ -36743,9 +36870,6 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001001</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39615.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb39615</idno>
           
   
@@ -36755,19 +36879,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -36849,9 +36973,6 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb38096.html</idno>
-          
-  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3194097/</idno>
           
   
@@ -36865,6 +36986,9 @@
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Opatija</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb38096.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb38096.html</idno>
@@ -36888,10 +37012,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -36964,9 +37088,6 @@
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1748</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb36300.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb36300.html</idno>
           
   
@@ -36997,6 +37118,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb36300.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb36300.html</idno>
           
   
@@ -37021,19 +37145,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -37170,9 +37294,6 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34401.html</idno>
-          
-  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/7872434/</idno>
           
   
@@ -37200,6 +37321,9 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb34401.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34401.html</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb34401.html</idno>
           
   
@@ -37215,16 +37339,16 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="24">manually created entity</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -37264,10 +37388,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34399.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34399/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34399/</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34399.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb34399.html</idno>
@@ -37340,10 +37464,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34392.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34392/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34392/</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34392.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb34392.html</idno>
@@ -37398,9 +37522,6 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34213.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34213/</idno>
           
   
@@ -37408,6 +37529,9 @@
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Stadttheater_Gmunden</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34213.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb34213.html</idno>
@@ -37510,10 +37634,10 @@
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -37589,10 +37713,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
             
     
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -37683,13 +37807,13 @@
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -37768,13 +37892,13 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -37999,19 +38123,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -38257,13 +38381,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1180/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1180.html</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q46632319</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wallner-Theater</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1180.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1180.html</idno>
@@ -38561,10 +38685,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1119.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/152193/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/152193/</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1119.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb1119.html</idno>
@@ -38588,16 +38712,16 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -39138,10 +39262,10 @@
             <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
     
-            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -39525,133 +39649,6 @@
           
 
         </place>
-        <place xml:id="pmb968">
-          
-  
-          <placeName>Mödling</placeName>
-          
-  
-          <placeName type="alternative-name">Mödling</placeName>
-          
-  
-          <placeName type="legacy-name-merge">Mödling</placeName>
-          
-  
-          <placeName type="legacy-name-merge">Mödling</placeName>
-          
-  
-          <desc type="entity_type">P.PPLA3</desc>
-          
-  
-          <desc type="entity_type_id">1128</desc>
-          
-
-          <location type="coords">
-            
-  
-            <geo>48,08605 16,28921</geo>
-            
-
-          </location>
-          
-
-          <location type="located_in_place">
-            
-  
-            <placeName key="pmb41240">Österreich</placeName>
-            
-  
-            <geo>47,33333 13,33333</geo>
-            
-
-          </location>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q277965</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb968.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/968/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64227/</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2771335/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/96517/</idno>
-          
-  
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4039880-8</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/M%C3%B6dling</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb968.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb968.html</idno>
-          
-  
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb968.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb968.html</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00340</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004930</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000354</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000985</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004188</idno>
-          
-  
-          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.4</idno>
-          
-
-          <listBibl>
-            
-    
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
-            
-
-          </listBibl>
-          
-
-          <note type="image">
-            
-  
-            <figure>
-              
-    
-              <graphic url="https://iiif.onb.ac.at/images/AKON/AK005_352/352/full/,600/0/native.jpg"/>
-              
-  
-            </figure>
-            
-
-          </note>
-          
-
-        </place>
         <place xml:id="pmb967">
           
   
@@ -39724,13 +39721,13 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -40027,16 +40024,16 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -40212,10 +40209,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ostende</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb911.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q12996</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q12996</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb911.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb911.html</idno>
@@ -40230,10 +40227,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -40324,16 +40321,16 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -40460,19 +40457,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -40590,13 +40587,13 @@
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -40714,19 +40711,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -40859,16 +40856,16 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -41110,19 +41107,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -41392,6 +41389,18 @@
 
           </location>
           
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb363819">Gendarmenmarkt</placeName>
+            
+  
+            <geo>52,51361111111111 13,392777777777777</geo>
+            
+
+          </location>
+          
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb143.html</idno>
           
@@ -41541,19 +41550,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -41992,19 +42001,7 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb483">Reichenau an der Rax</placeName>
-            
-  
-            <geo>47,7 15,83333</geo>
-            
-
-          </location>
-          
-
-          <location type="located_in_place">
-            
-  
-            <placeName key="pmb470">Edlach</placeName>
+            <placeName key="pmb470">Edlach an der Rax</placeName>
             
   
             <geo>47,69255 15,80915</geo>
@@ -42019,10 +42016,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/714/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb714.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q132938395</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q132938395</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb714.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb714.html</idno>
@@ -42034,10 +42031,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -42526,19 +42523,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -42700,9 +42697,6 @@
           <placeName type="alternative-name">Baden</placeName>
           
   
-          <placeName type="legacy-name">Baden bei Wien?</placeName>
-          
-  
           <placeName type="legacy-name-merge">Baden</placeName>
           
   
@@ -42814,10 +42808,10 @@
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -42962,19 +42956,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -43178,13 +43172,13 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb633.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb633.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43303/</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb43303.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb633.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb633.html</idno>
@@ -43327,10 +43321,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/612/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb612.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2292251</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2292251</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb612.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb612.html</idno>
@@ -43998,10 +43992,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -44096,10 +44090,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/525/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb525.html</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb525.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb525.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb525.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb525.html</idno>
@@ -44128,6 +44122,9 @@
           
   
           <placeName type="alternative-name">Badgastein</placeName>
+          
+  
+          <placeName type="legacy-name-merge">Bad Gastein</placeName>
           
   
           <placeName type="legacy-name-merge">Bad Gastein</placeName>
@@ -44167,6 +44164,18 @@
             
   
             <geo>47,41667 13,25</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb364214">Bezirk St. Johann im Pongau</placeName>
+            
+  
+            <geo>47,35 13,233</geo>
             
 
           </location>
@@ -44213,20 +44222,29 @@
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb521</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341574/</idno>
+          
+  
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.16</idno>
+          
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
             
     
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -44317,13 +44335,13 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2033589-1</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb520.html</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q113470466</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Akademietheater_(Wien)</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb520.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q414538</idno>
@@ -44518,9 +44536,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb497.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/194975/</idno>
           
   
@@ -44531,6 +44546,9 @@
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Glaspalast_(M%C3%BCnchen)</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb497.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb497.html</idno>
@@ -44758,10 +44776,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb484.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb484.html</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb484.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb484.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb484.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb484.html</idno>
@@ -44788,19 +44806,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -44888,10 +44906,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb483.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb483.html</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb483.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb483.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb483.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb483.html</idno>
@@ -44909,13 +44927,13 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -45039,19 +45057,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -46473,13 +46491,13 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -46637,10 +46655,10 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/index.php?title=Imperialkino</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb253.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q33393850</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q33393850</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb253.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb253.html</idno>
@@ -46652,10 +46670,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -46734,13 +46752,13 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="24">manually created entity</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -46825,13 +46843,13 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb240.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb240.html</idno>
-          
-  
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiener_Konzerthaus</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q695126</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb240.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb240.html</idno>
@@ -46925,10 +46943,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb224.html</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb224.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb224.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb224.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb224.html</idno>
@@ -46955,19 +46973,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -47076,16 +47094,16 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -47414,6 +47432,9 @@
           <placeName type="legacy-name-merge">Semmering</placeName>
           
   
+          <placeName type="legacy-name-merge">Semmering</placeName>
+          
+  
           <desc type="entity_type">A.ADM3</desc>
           
   
@@ -47485,17 +47506,26 @@
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb189</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341577/</idno>
+          
+  
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.18</idno>
+          
 
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -47622,19 +47652,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -47767,19 +47797,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -47891,10 +47921,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb159.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb159.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb159.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb159.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb159.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb159.html</idno>
@@ -47994,10 +48024,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb146.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb146.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb146.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261820/</idno>
@@ -48033,19 +48063,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -48142,10 +48172,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb140.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb140.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262514/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262514/</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb140.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb140.html</idno>
@@ -48169,10 +48199,10 @@
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -48239,10 +48269,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Schall_und_Rauch</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb128.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb128.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb128.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb128.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb128.html</idno>
@@ -48321,10 +48351,10 @@
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb126.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb126.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb126.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb126.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb126.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb126.html</idno>
@@ -48400,10 +48430,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb118.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb118.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb118.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118.html</idno>
@@ -48494,9 +48524,6 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb112.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb112.html</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q46232</idno>
           
   
@@ -48504,6 +48531,9 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb112.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb112.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb112.html</idno>
@@ -48576,10 +48606,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb107.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb107.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb107.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb107.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb107.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb107.html</idno>
@@ -48640,10 +48670,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb103.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb103.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb103.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb103.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb103.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb103.html</idno>
@@ -48984,10 +49014,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Staatsoper_Prag</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb91.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb91.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb91.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb91.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb91.html</idno>
@@ -49069,9 +49099,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/83/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb83.html</idno>
-          
-  
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Museum_f%C3%BCr_angewandte_Kunst_(Wien)</idno>
           
   
@@ -49088,6 +49115,9 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb83.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb83.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb83.html</idno>
@@ -49157,10 +49187,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb77.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb77.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb77.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77.html</idno>
@@ -49195,9 +49225,6 @@
           
   
           <placeName type="legacy-name-merge">Wien-Döbling</placeName>
-          
-  
-          <placeName type="legacy-name-merge">Döbling</placeName>
           
   
           <desc type="entity_type">A.ADM3</desc>
@@ -49275,10 +49302,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb69.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb69.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb69.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb69.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb69.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb69.html</idno>
@@ -49290,10 +49317,10 @@
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -49381,10 +49408,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Alsergrund</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb59.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb59.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59.html</idno>
@@ -49408,10 +49435,10 @@
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
     
-            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -49484,10 +49511,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Margareten</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb55.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb55.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb55.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb55.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55.html</idno>
@@ -49608,9 +49635,6 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb52.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52.html</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q259120</idno>
           
   
@@ -49618,6 +49642,9 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb52.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52.html</idno>
@@ -49632,10 +49659,10 @@
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
     
-            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -49738,9 +49765,6 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb51.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb51.html</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q267329</idno>
           
   
@@ -49748,6 +49772,9 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb51.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb51.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb51.html</idno>
@@ -49759,10 +49786,10 @@
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -49883,10 +49910,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb50.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb50.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50.html</idno>
@@ -49910,19 +49937,19 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
             <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -50001,13 +50028,13 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=15996</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb41.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb41.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41.html</idno>
@@ -50104,10 +50131,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb40.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40.html</idno>
@@ -50192,10 +50219,10 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Schwenders_Vergnügungsetablissement</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb39.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb39.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb39.html</idno>
@@ -50262,10 +50289,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb37.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb37.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb37.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb37.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb37.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb37.html</idno>
@@ -50441,13 +50468,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262547/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb30.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30.html</idno>
@@ -50468,16 +50495,16 @@
           <listBibl>
             
     
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+    
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="77">SemanticKraus</bibl>
-            
-    
-            <bibl type="collections" n="85">S-Fischer</bibl>
             
 
           </listBibl>
@@ -50529,9 +50556,6 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb29.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92506/</idno>
           
   
@@ -50539,6 +50563,9 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb29.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29.html</idno>
@@ -50550,10 +50577,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
             
     
-            <bibl type="collections" n="85">S-Fischer</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -50626,9 +50653,6 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb28.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb28.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb618.html</idno>
           
   
@@ -50639,6 +50663,9 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb28.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb28.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb28.html</idno>
@@ -50720,9 +50747,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb27.html</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q521155</idno>
           
   
@@ -50730,6 +50754,9 @@
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb27.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb27.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb27.html</idno>
@@ -50808,10 +50835,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb24.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb24.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb24.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb24.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb24.html</idno>
@@ -50872,10 +50899,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%BCnstlerhaus_Wien</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb21.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb21.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb21.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb21.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb21.html</idno>
@@ -50966,10 +50993,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb20.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb20.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb20.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb20.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb20.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb20.html</idno>
@@ -50981,13 +51008,13 @@
           <listBibl>
             
     
+            <bibl type="collections" n="86">Arthur Schnitzler (DLA-Marbach)</bibl>
+            
+    
             <bibl type="collections" n="5">Karl Kraus: Rechtsakten</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
-            
-    
-            <bibl type="collections" n="86">DLA-Schnitzler</bibl>
             
 
           </listBibl>
@@ -51069,10 +51096,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb19.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb19.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb19.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb19.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb19.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb19.html</idno>
@@ -51151,10 +51178,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb18.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb18.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb18.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb18.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb18.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb18.html</idno>
@@ -51221,10 +51248,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb15.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb15.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb15.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb15.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb15.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb15.html</idno>
@@ -51300,13 +51327,13 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb14.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb14.html</idno>
-          
-  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb14.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q109377820</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb14.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb14.html</idno>
@@ -51315,10 +51342,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -51412,10 +51439,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hebbel-Theater</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb13.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb13.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb13.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb13.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb13.html</idno>
@@ -51497,10 +51524,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb12.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb12.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb12.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb12.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb12.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb12.html</idno>
@@ -51573,10 +51600,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb11.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb11.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb11.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb11.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb11.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb11.html</idno>
@@ -51737,10 +51764,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb8.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb8.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb8.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb8.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb8.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb8.html</idno>
@@ -51822,10 +51849,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb7.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb7.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb7.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb7.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb7.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb7.html</idno>
@@ -51889,10 +51916,10 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb4.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb4.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb4.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb4.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb4.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb4.html</idno>
@@ -51971,10 +51998,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb3.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb3.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb3.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb3.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb3.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb3.html</idno>
@@ -52047,10 +52074,10 @@
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Universität_für_Musik_und_darstellende_Kunst_Wien</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb2.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb2.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2.html</idno>
@@ -53658,10 +53685,10 @@
           <listBibl>
             
     
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
             
     
-            <bibl type="collections" n="77">SemanticKraus</bibl>
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
@@ -53728,10 +53755,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1.html</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1.html</idno>
