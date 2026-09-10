@@ -20,8 +20,9 @@
     --line-soft: #F0EBE3;
 
     /* Akzent */
-    --accent: #AC7790;        /* Projektfarbe */
-    --accent-dark: #7D4E63;   /* dunklere Variante für Hover und kleinen Text */
+    --accent: #AC7790;        /* Projektfarbe – nur für Ränder/Flächen/Fokusring (3:1 non-text) */
+    --accent-dark: #7D4E63;   /* dunklere Variante – Standard für Text/Links (AA, 4.5:1) */
+    --accent-darker: #6A4254; /* Hover/Focus auf bereits accent-dark eingefärbten Elementen */
 
     /* Schrift */
     --font-sans: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -52,13 +53,13 @@ h1, h2, h3, h4, h5, h6,
 
 a,
 a:visited {
-    color: var(--accent);
+    color: var(--accent-dark);
     text-decoration: none;
 }
 
 a:hover,
 a:focus {
-    color: var(--accent-dark);
+    color: var(--accent-darker);
     text-decoration: underline;
 }
 
@@ -76,8 +77,8 @@ a:focus {
     --bs-body-bg: var(--bg);
     --bs-body-color: var(--ink);
     --bs-body-font-family: var(--font-sans);
-    --bs-link-color: var(--accent);
-    --bs-link-hover-color: var(--accent-dark);
+    --bs-link-color: var(--accent-dark);
+    --bs-link-hover-color: var(--accent-darker);
 }
 
 /* Sichtbarer Tastatur-Fokusring in Akzentfarbe (statt Bootstrap-Blau) */
@@ -178,8 +179,8 @@ a:focus {
    ========================================================= */
 
 .event-nav {
-    background: var(--accent);
-    border-bottom: 1px solid var(--accent-dark);
+    background: var(--accent-dark);
+    border-bottom: 1px solid var(--accent-darker);
 }
 
 .event-nav-inner {
@@ -282,7 +283,7 @@ a:focus {
 }
 
 .event-kicker-type {
-    color: var(--accent);
+    color: var(--accent-dark);
 }
 
 .event-title {
@@ -310,10 +311,46 @@ a:focus {
     margin-bottom: 8px;
 }
 
-.event-date-link {
-    font-size: 15px;
+/* Bunte Buttons zu externen Ressourcen (PMB, Chronik, Tagebuch) –
+   Farben entsprechen den Projektfarben der jeweiligen Edition
+   (vgl. .schnitzler-chronik-link / .schnitzler-tagebuch-link in style.css). */
+.resource-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 14px;
+    border-radius: 999px;
+    font-size: 14px;
     font-style: normal;
+    font-weight: 600;
+    line-height: 1.4;
+    color: #fff;
+    text-decoration: none;
     white-space: nowrap;
+}
+
+.resource-btn:hover,
+.resource-btn:focus {
+    color: #fff;
+    text-decoration: none;
+    filter: brightness(0.88);
+}
+
+.resource-btn--pmb {
+    background-color: #9B5F98;
+}
+
+.resource-btn--chronik {
+    /* leicht abgedunkelt gegenüber #008B8B, damit weiße Schrift AA-Kontrast (4.5:1) erreicht */
+    background-color: #008080;
+}
+
+.resource-btn--tagebuch {
+    background-color: #037A33;
+}
+
+.resource-btn--briefe {
+    background-color: #A63437;
 }
 
 /* =========================================================
@@ -434,7 +471,7 @@ a:focus {
     width: 34px;
     height: 34px;
     border-radius: 50%;
-    background: var(--accent);
+    background: var(--accent-dark);
     color: #fff;
     font-size: 13px;
     font-weight: 600;
@@ -703,7 +740,7 @@ a:focus {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: var(--accent);
+    color: var(--accent-dark);
     margin-bottom: 10px;
 }
 
@@ -782,8 +819,8 @@ div#map {
 }
 
 .btn-check:checked + .btn-outline-secondary {
-    background-color: var(--accent);
-    border-color: var(--accent);
+    background-color: var(--accent-dark);
+    border-color: var(--accent-dark);
     color: #fff;
 }
 
@@ -805,15 +842,15 @@ div#map {
 
 /* Buttons der Startseite */
 .btn-round {
-    background-color: var(--accent);
+    background-color: var(--accent-dark);
     color: #fff;
-    border: 1px solid var(--accent);
+    border: 1px solid var(--accent-dark);
 }
 
 .btn-round:hover,
 .btn-round:focus {
-    background-color: var(--accent-dark);
-    border-color: var(--accent-dark);
+    background-color: var(--accent-darker);
+    border-color: var(--accent-darker);
     color: #fff;
 }
 
