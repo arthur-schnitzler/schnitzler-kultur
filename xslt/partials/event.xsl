@@ -99,26 +99,42 @@
                                 </xsl:otherwise>
                             </xsl:choose>
                         </span>
+                        <xsl:variable name="pmb-idno"
+                            select="tei:idno[@subtype = 'pmb' and normalize-space(.)][1]"/>
+                        <xsl:if test="$pmb-idno">
+                            <a class="resource-btn resource-btn--pmb" target="_blank"
+                                href="{normalize-space($pmb-idno)}">
+                                <xsl:text>PMB-Eintrag ↗</xsl:text>
+                            </a>
+                        </xsl:if>
                         <xsl:if test="@when-iso">
-                            <a class="event-date-link" target="_blank">
+                            <a class="resource-btn resource-btn--chronik" target="_blank">
                                 <xsl:attribute name="href">
                                     <xsl:value-of
                                         select="concat('https://schnitzler-chronik.acdh.oeaw.ac.at/', @when-iso, '.html')"
                                     />
                                 </xsl:attribute>
-                                <xsl:text>Dieser Tag in der Schnitzler-Chronik →</xsl:text>
+                                <xsl:text>Schnitzler-Chronik ↗</xsl:text>
                             </a>
                             <xsl:variable name="when" select="@when-iso"/>
                             <xsl:if test="$tb-days/descendant::*:date[. = $when][1]">
-                                <a class="event-date-link" target="_blank">
+                                <a class="resource-btn resource-btn--tagebuch" target="_blank">
                                     <xsl:attribute name="href">
                                         <xsl:value-of
                                             select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', $when, '.html')"
                                         />
                                     </xsl:attribute>
-                                    <xsl:text>Dieser Tag im Schnitzler-Tagebuch →</xsl:text>
+                                    <xsl:text>Schnitzler-Tagebuch ↗</xsl:text>
                                 </a>
                             </xsl:if>
+                        </xsl:if>
+                        <xsl:variable name="briefe-idno"
+                            select="tei:idno[@subtype = 'schnitzler-briefe' and normalize-space(.)][1]"/>
+                        <xsl:if test="$briefe-idno">
+                            <a class="resource-btn resource-btn--briefe" target="_blank"
+                                href="{normalize-space($briefe-idno)}">
+                                <xsl:text>Schnitzler-Briefe ↗</xsl:text>
+                            </a>
                         </xsl:if>
                     </p>
                 </header>

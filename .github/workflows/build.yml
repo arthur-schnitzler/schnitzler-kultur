@@ -35,7 +35,7 @@ jobs:
       IMAGE_NAME: ${{ github.repository }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Sync entity assets from schnitzler-chronik-static
         run: |
           python3 check_entities_xsl.py
@@ -61,9 +61,9 @@ jobs:
       - name: Show output directory
         run: ls -R html
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           # Upload entire repository
           path: './html'
