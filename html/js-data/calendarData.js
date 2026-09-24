@@ -2991,7 +2991,7 @@ var calendarData = [
     "name": "Aufführung von Die Meistersinger von Nürnberg, 4.9.1889", "startDate": "1889-09-04", "id": "pmb208339.html", "type": "Opernaufführung"
   },
   {
-    "name": "Generalprobe von Der Fleck auf der Ehr', 12.9.1889", "startDate": "1889-09-12", "id": "pmb208340.html", "type": "Generalprobe"
+    "name": "Generalprobe von Der Fleck auf der Ehr’, 12.9.1889", "startDate": "1889-09-12", "id": "pmb208340.html", "type": "Generalprobe"
   },
   {
     "name": "Aufführung von Der Verschwender, 13.9.1889", "startDate": "1889-09-13", "id": "pmb208341.html", "type": "Theateraufführung"
@@ -3672,6 +3672,9 @@ var calendarData = [
     "name": "Premiere von Ritter Pasman, 1.1.1892", "startDate": "1892-01-01", "id": "pmb208518.html", "type": "Theaterpremiere"
   },
   {
+    "name": "Private Lesung von Sensationen, 2.1.1892", "startDate": "1892-01-02", "id": "pmb364753.html", "type": "Private Lesung"
+  },
+  {
     "name": "Aufführung von Lilly, 3.1.1892", "startDate": "1892-01-03", "id": "pmb208519.html", "type": "Theateraufführung"
   },
   {
@@ -4035,6 +4038,9 @@ var calendarData = [
     "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 29.1.1893", "startDate": "1893-01-29", "id": "pmb208601.html", "type": "Philharmonisches Konzert"
   },
   {
+    "name": "Opernredoute, 1.2.1893", "startDate": "1893-02-01", "id": "pmb364861.html", "type": "Maskenball"
+  },
+  {
     "name": "Premiere von Madame Mongodin, 1.2.1893", "startDate": "1893-02-01", "id": "pmb208602.html", "type": "Theaterpremiere"
   },
   {
@@ -4155,7 +4161,7 @@ var calendarData = [
     "name": "Aufführung von Ein armes Mädel, 12.10.1893", "startDate": "1893-10-12", "id": "pmb208620.html", "type": "Theateraufführung"
   },
   {
-    "name": "Wiener Premiere von Eine Palastrevolution", "startDate": "1893-10-14", "id": "pmb90033.html", "type": "Theaterpremiere"
+    "name": "Premiere von Eine Palastrevolution, 14.10.1893", "startDate": "1893-10-14", "id": "pmb90033.html", "type": "Theaterpremiere"
   },
   {
     "name": "Private Lesung von Die kleine Komödie, Der Thor und der Tod, 15.10.1893", "startDate": "1893-10-15", "id": "pmb183808.html", "type": "Private Lesung"
@@ -4557,9 +4563,6 @@ var calendarData = [
     "name": "Aufführung von Madame Sans-Gêne, 27.9.1894", "startDate": "1894-09-27", "id": "pmb208692.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Toto-Tata, 28.9.1894", "startDate": "1894-09-28", "id": "pmb195169.html", "type": "Theateraufführung"
-  },
-  {
     "name": "Wohltätigkeitsaufführung von Tata-Toto, 28.9.1894", "startDate": "1894-09-28", "id": "pmb38885.html", "type": "Theateraufführung"
   },
   {
@@ -4803,7 +4806,7 @@ var calendarData = [
     "name": "Aufführung von Julius Cäsar, 9.3.1895", "startDate": "1895-03-09", "id": "pmb42285.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Chansonette. Operette in 3 Acten, 10.3.1895", "startDate": "1895-03-10", "id": "pmb208734.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Chansonette, 10.3.1895", "startDate": "1895-03-10", "id": "pmb208734.html", "type": "Theateraufführung"
   },
   {
     "name": "Vortrag von Das junge Österreich", "startDate": "1895-03-13", "id": "pmb92775.html", "type": "Vortrag"
@@ -4911,13 +4914,13 @@ var calendarData = [
     "name": "Aufführung von Mam’zelle Nitouche, 23.7.1895", "startDate": "1895-07-23", "id": "pmb208755.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Tata-Toto. Vaudeville in drei Akten, 24.7.1895", "startDate": "1895-07-24", "id": "pmb208756.html", "type": "Theateraufführung"
+    "name": "Aufführung von Tata-Toto, 24.7.1895", "startDate": "1895-07-24", "id": "pmb208756.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Die Dragoner. Schwank in drei Akten, 25.7.1895", "startDate": "1895-07-25", "id": "pmb208757.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Tata-Toto. Vaudeville in drei Akten, 30.7.1895", "startDate": "1895-07-30", "id": "pmb208758.html", "type": "Theateraufführung"
+    "name": "Aufführung von Tata-Toto, 30.7.1895", "startDate": "1895-07-30", "id": "pmb208758.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Boccaccio. Komische Operette in 3 Acten, 1.8.1895", "startDate": "1895-08-01", "id": "pmb208759.html", "type": "Theateraufführung"
@@ -4947,7 +4950,7 @@ var calendarData = [
     "name": "Aufführung von Mam’zelle Nitouche, 15.8.1895", "startDate": "1895-08-15", "id": "pmb208766.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Chansonette. Operette in 3 Acten, 16.8.1895", "startDate": "1895-08-16", "id": "pmb208767.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Chansonette, 16.8.1895", "startDate": "1895-08-16", "id": "pmb208767.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Die Fledermaus, 17.8.1895", "startDate": "1895-08-17", "id": "pmb208768.html", "type": "Operettenaufführung"
@@ -5700,7 +5703,7 @@ var calendarData = [
     "name": "Besuch der Neuen Pinakothek, 9.4.1897", "startDate": "1897-04-09", "id": "pmb297084.html", "type": "Museumsbesuch"
   },
   {
-    "name": "Aufführung von Liebelei, 9.4.1897", "startDate": "1897-04-09", "id": "pmb40618.html", "type": "Theateraufführung"
+    "name": "Aufführung von Freiwild, 9.4.1897", "startDate": "1897-04-09", "id": "pmb40618.html", "type": "Theateraufführung"
   },
   {
     "name": "Besuch des Musée du Louvre, 15.4.1897", "startDate": "1897-04-15", "id": "pmb297171.html", "type": "Museumsbesuch"
@@ -5934,6 +5937,9 @@ var calendarData = [
     "name": "Symphonieorchester, 5.11.1897", "startDate": "1897-11-05", "id": "pmb208973.html", "type": "Sinfoniekonzert"
   },
   {
+    "name": "1. Abonnement-Concert des k.k. Hofopernorchesters unter der Leitung von Hans Richter, 7.11.1897", "startDate": "1897-11-07", "id": "pmb365145.html", "type": "Philharmonisches Konzert"
+  },
+  {
     "name": "Erstes Rosé-Quartett, 9.11.1897", "startDate": "1897-11-09", "id": "pmb208974.html", "type": "Quartett"
   },
   {
@@ -6030,7 +6036,7 @@ var calendarData = [
     "name": "Probe von Abschiedssouper, 10.1.1898", "startDate": "1898-01-10", "id": "pmb200515.html", "type": "Probe"
   },
   {
-    "name": "2. Aufführung von Bartel Turaser. Drama in drei Akten, 12.1.1898", "startDate": "1898-01-12", "id": "pmb208993.html", "type": "Theateraufführung"
+    "name": "Aufführung von Bartel Turaser, 12.1.1898", "startDate": "1898-01-12", "id": "pmb208993.html", "type": "Theateraufführung"
   },
   {
     "name": "Probe von Abschiedssouper, Weihnachts-Einkäufe, 13.1.1898", "startDate": "1898-01-13", "id": "pmb200524.html", "type": "Probe"

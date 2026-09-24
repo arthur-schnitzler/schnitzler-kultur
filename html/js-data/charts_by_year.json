@@ -1716,18 +1716,18 @@
     "ana_chart": {
       "labels": [
         "Theater",
+        "Vortrag",
         "Musik",
-        "anderes",
-        "Vortrag"
+        "anderes"
       ],
       "datasets": [
         {
           "label": "Veranstaltungstypen im Jahr 1892",
           "data": [
             60,
+            17,
             19,
-            8,
-            16
+            8
           ]
         }
       ]
@@ -1747,6 +1747,23 @@
               15,
               40,
               3,
+              2
+            ]
+          }
+        ]
+      },
+      "Vortrag": {
+        "labels": [
+          "Private Lesung",
+          "Lesung",
+          "Vortrag"
+        ],
+        "datasets": [
+          {
+            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1892",
+            "data": [
+              14,
+              1,
               2
             ]
           }
@@ -1797,23 +1814,6 @@
             ]
           }
         ]
-      },
-      "Vortrag": {
-        "labels": [
-          "Private Lesung",
-          "Lesung",
-          "Vortrag"
-        ],
-        "datasets": [
-          {
-            "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1892",
-            "data": [
-              13,
-              1,
-              2
-            ]
-          }
-        ]
       }
     }
   },
@@ -1832,7 +1832,7 @@
           "data": [
             17,
             49,
-            2,
+            3,
             22,
             10
           ]
@@ -1889,12 +1889,14 @@
       "Privatveranstaltung": {
         "labels": [
           "Hausball",
-          "Ball"
+          "Ball",
+          "Maskenball"
         ],
         "datasets": [
           {
             "label": "Verteilung innerhalb von 'Privatveranstaltung' im Jahr 1893",
             "data": [
+              1,
               1,
               1
             ]
@@ -1953,7 +1955,7 @@
           "label": "Veranstaltungstypen im Jahr 1894",
           "data": [
             26,
-            76,
+            75,
             19,
             14,
             1
@@ -1989,7 +1991,7 @@
             "data": [
               29,
               4,
-              43
+              42
             ]
           }
         ]
@@ -2313,7 +2315,7 @@
             89,
             13,
             1,
-            26,
+            27,
             21
           ]
         }
@@ -2393,7 +2395,7 @@
               10,
               4,
               5,
-              1,
+              2,
               3,
               1,
               1,
