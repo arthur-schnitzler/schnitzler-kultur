@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-09-24">serialized</change>
+      <change when-iso="2026-09-25">serialized</change>
       
        
     </revisionDesc>
@@ -352544,6 +352544,24 @@
             </event>
             
     
+            <event n="Theateruraufführung" key="208894" when-iso="1897-01-09">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Uraufführung von Meerleuchten, 9.1.1897</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208894/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208894.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Privates Treffen" key="342875">
               
         
@@ -357990,6 +358008,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb62339.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="365200" when-iso="1898-11-06">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Private Lesung von Der Abenteurer und die Sängerin, 6.11.1898</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/365200/</idno>
               
     
             </event>
@@ -383393,6 +383426,24 @@
             </event>
             
     
+            <event n="Theateruraufführung" key="208894" when-iso="1897-01-09">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Uraufführung von Meerleuchten, 9.1.1897</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208894/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208894.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Privates Treffen" key="363617">
               
         
@@ -390181,6 +390232,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb62339.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="365200" when-iso="1898-11-06">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Private Lesung von Der Abenteurer und die Sängerin, 6.11.1898</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/365200/</idno>
               
     
             </event>
@@ -567453,13 +567519,13 @@
             </event>
             
     
-            <event n="Theaterpremiere" key="208894" when-iso="1897-01-09">
+            <event n="Theateruraufführung" key="208894" when-iso="1897-01-09">
               
         
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Premiere von Meerleuchten, 9.1.1897</label>
+              <label>Uraufführung von Meerleuchten, 9.1.1897</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208894/</idno>
@@ -572272,6 +572338,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209040.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Private Lesung" key="365200" when-iso="1898-11-06">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Private Lesung von Der Abenteurer und die Sängerin, 6.11.1898</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/365200/</idno>
               
     
             </event>

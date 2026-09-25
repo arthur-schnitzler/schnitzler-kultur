@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-09-24">serialized</change>
+      <change when-iso="2026-09-25">serialized</change>
       
        
     </revisionDesc>
@@ -1686,7 +1686,7 @@
           </note>
           
   
-          <note type="work_kind">Symphonische Dichtung</note>
+          <note type="work_kind">Sinfonische Dichtung</note>
           
 
         </bibl>
@@ -3153,13 +3153,13 @@
           <title type="werk_namensvariante">Orpheus in der Unterwelt</title>
           
   
-          <author key="pmb9131" role="hat-geschaffen-vertonung">Offenbach, Jacques</author>
+          <author key="pmb9131" role="hat-geschaffen">Offenbach, Jacques</author>
           
   
-          <author key="pmb4197" role="hat-geschaffen">Halévy, Ludovic</author>
+          <author key="pmb4197" role="hat-geschaffen-textgrundlage-von">Halévy, Ludovic</author>
           
   
-          <author key="pmb114449" role="hat-geschaffen">Crémieux, Hector Jonathan</author>
+          <author key="pmb114449" role="hat-geschaffen-textgrundlage-von">Crémieux, Hector Jonathan</author>
           
 
           <date notBefore-iso="1858-01-01" when-iso="1858-01-01">1858</date>
@@ -62310,6 +62310,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <author key="pmb11402" role="hat-geschaffen">Ganghofer, Ludwig</author>
           
+
+          <date notBefore-iso="1897-01-01" when-iso="1897-01-01">1897</date>
+          
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77510/</idno>
           
@@ -62318,6 +62321,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77510.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Drama</note>
@@ -76928,10 +76940,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb11857" role="hat-ubersetzt">Kalbeck, Max</author>
           
   
-          <author key="pmb360808" role="hat-einen-beitrag-geschaffen-zu">Moline, Pierre-Louis</author>
+          <author key="pmb360808" role="hat-geschaffen-textgrundlage-von">Moline, Pierre-Louis</author>
           
   
-          <author key="pmb355525" role="hat-geschaffen">de' Calzabigi, Ranieri</author>
+          <author key="pmb355525" role="hat-geschaffen-textgrundlage-von">de' Calzabigi, Ranieri</author>
           
 
           <date when-iso="1762-10-05">1762-10-05</date>
