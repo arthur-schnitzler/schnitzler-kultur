@@ -34,41 +34,7 @@
                                 <a href="js-data/calendarData.js">Kalenderdaten (JS) ↓</a>
                             </p>
                         </header>
-                        <div>
-                            <div>
-                                <div class="row">
-                                    <div class="col-lg-2 col-md-3 col-sm-12 yearscol">
-                                        <div class="row justify-content-md-center" id="years-table"></div>
-                                    </div>
-                                    <div class="col-lg-10 col-md-9 col-sm-12">
-                                        <div id="calendar-container"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Event Popup Modal - Bootstrap 5 optimized -->
-                    <div class="modal fade" id="eventPopup" tabindex="-1" aria-labelledby="eventPopupTitle" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="eventPopupTitle">Ereignisse</h5>
-                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Schließen" onclick="closeEventModal()"></button>
-                                </div>
-                                <div class="modal-body p-0" id="eventPopupBody">
-                                    <!-- Events will be inserted here dynamically -->
-                                    <div class="text-center p-4">
-                                        <div class="spinner-border text-primary" role="status">
-                                            <span class="visually-hidden">Lädt...</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="closeEventModal()">Schließen</button>
-                                </div>
-                            </div>
-                        </div>
+                        <div id="calendar-container"></div>
                     </div>
 
                     <!-- Info Modal -->
@@ -90,10 +56,11 @@
                                     <h6 class="fw-bold">Funktionen:</h6>
                                     <ul>
                                         <li>Farbkodierte Ereignistypen (Theater, Musik, Film, etc.)</li>
-                                        <li>Interaktive Filterung nach Kategorien</li>
+                                        <li>Interaktive Filterung nach Kategorien über die Schalter im Kalenderkopf</li>
                                         <li>Responsive Design für alle Geräte</li>
-                                        <li>Schnelle Navigation zwischen Zeitperioden</li>
-                                        <li>Detaillierte Event-Informationen per Klick</li>
+                                        <li>Schnelle Navigation über Pfeile und Auswahllisten für Jahr, Monat und Woche</li>
+                                        <li>Klick auf einen Tag mit genau einem Ereignis führt direkt zur Ereignisseite,
+                                            bei mehreren Ereignissen öffnet sich eine Detailübersicht am Bildschirmrand</li>
                                     </ul>
                                 </div>
                                 <div class="modal-footer">
