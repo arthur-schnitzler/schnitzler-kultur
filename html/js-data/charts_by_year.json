@@ -2326,22 +2326,22 @@
         "labels": [
           "Theaterpremiere",
           "Theateraufführung",
+          "Theateruraufführung",
           "Probe",
           "Puppenspiel",
           "Schulaufführung",
-          "Theateruraufführung",
           "Generalprobe"
         ],
         "datasets": [
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1897",
             "data": [
-              25,
+              24,
               55,
+              3,
               4,
               1,
               1,
-              2,
               1
             ]
           }
@@ -2442,7 +2442,7 @@
             17,
             21,
             3,
-            11
+            12
           ]
         }
       ]
@@ -2532,7 +2532,7 @@
             "label": "Verteilung innerhalb von 'Vortrag' im Jahr 1898",
             "data": [
               1,
-              10
+              11
             ]
           }
         ]

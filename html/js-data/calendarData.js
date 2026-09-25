@@ -5574,7 +5574,7 @@ var calendarData = [
     "name": "Aufführung von Medea. Trauerspiel in fünf Aufzügen, 5.1.1897", "startDate": "1897-01-05", "id": "pmb208893.html", "type": "Theateraufführung"
   },
   {
-    "name": "Premiere von Meerleuchten, 9.1.1897", "startDate": "1897-01-09", "id": "pmb208894.html", "type": "Theaterpremiere"
+    "name": "Uraufführung von Meerleuchten, 9.1.1897", "startDate": "1897-01-09", "id": "pmb208894.html", "type": "Theateruraufführung"
   },
   {
     "name": "Private Lesung von Halb zwei, Der Empfindsame, 10.1.1897", "startDate": "1897-01-10", "id": "pmb200001.html", "type": "Private Lesung"
@@ -6364,6 +6364,9 @@ var calendarData = [
   },
   {
     "name": "Aufführung von Die gute Partie, 5.11.1898", "startDate": "1898-11-05", "id": "pmb209039.html", "type": "Theateraufführung"
+  },
+  {
+    "name": "Private Lesung von Der Abenteurer und die Sängerin, 6.11.1898", "startDate": "1898-11-06", "id": "pmb365200.html", "type": "Private Lesung"
   },
   {
     "name": "Erstes Abonnementkonzert der Wiener Philharmoniker, 6.11.1898", "startDate": "1898-11-06", "id": "pmb209040.html", "type": "Philharmonisches Konzert"
