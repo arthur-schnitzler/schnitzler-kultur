@@ -1340,7 +1340,7 @@
           "label": "Veranstaltungstypen im Jahr 1889",
           "data": [
             15,
-            13,
+            12,
             31,
             17,
             3
@@ -1387,7 +1387,7 @@
               1,
               5,
               2,
-              4,
+              3,
               1
             ]
           }
@@ -1724,10 +1724,10 @@
         {
           "label": "Veranstaltungstypen im Jahr 1892",
           "data": [
-            60,
+            62,
             17,
-            19,
-            8
+            20,
+            9
           ]
         }
       ]
@@ -1745,7 +1745,7 @@
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1892",
             "data": [
               15,
-              40,
+              42,
               3,
               2
             ]
@@ -1788,7 +1788,7 @@
               5,
               6,
               1,
-              2,
+              3,
               2,
               1,
               1
@@ -1807,7 +1807,7 @@
           {
             "label": "Verteilung innerhalb von 'anderes' im Jahr 1892",
             "data": [
-              3,
+              4,
               1,
               2,
               2

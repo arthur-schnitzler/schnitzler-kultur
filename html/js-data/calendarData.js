@@ -3024,9 +3024,6 @@ var calendarData = [
     "name": "Aufführung von Der dumme August, 26.10.1889", "startDate": "1889-10-26", "id": "pmb208349.html", "type": "Theateraufführung"
   },
   {
-    "name": "Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889", "startDate": "1889-11-02", "id": "pmb208350.html", "type": "Schulvortragsabend"
-  },
-  {
     "name": "Zweiter Vortragsabend des Konservatoriums der Gesellschaft der Musikfreunde, 2.11.1889", "startDate": "1889-11-02", "id": "pmb186720.html", "type": "Schulvortragsabend"
   },
   {
@@ -3789,6 +3786,9 @@ var calendarData = [
     "name": "Generalprobe von Freund Fritz. Lyrische Oper in 3 Akten, 29.3.1892", "startDate": "1892-03-29", "id": "pmb208546.html", "type": "Generalprobe"
   },
   {
+    "name": "Vereinsabend Verein für modernes Leben, 29.3.1892", "startDate": "1892-03-29", "id": "pmb89338.html", "type": "Vereinstreffen"
+  },
+  {
     "name": "Premiere von Die Ehre, 2.4.1892", "startDate": "1892-04-02", "id": "pmb208548.html", "type": "Theaterpremiere"
   },
   {
@@ -3945,7 +3945,7 @@ var calendarData = [
     "name": "Private Lesung von Sterben, 30.10.1892", "startDate": "1892-10-30", "id": "pmb142765.html", "type": "Private Lesung"
   },
   {
-    "name": "Premiere von Die Orientreise. Schwank in drei Akten, 31.10.1892", "startDate": "1892-10-31", "id": "pmb208582.html", "type": "Theaterpremiere"
+    "name": "Premiere von Die Orientreise, 31.10.1892", "startDate": "1892-10-31", "id": "pmb208582.html", "type": "Theaterpremiere"
   },
   {
     "name": "Premiere von Musotte, 12.11.1892", "startDate": "1892-11-12", "id": "pmb41110.html", "type": "Theaterpremiere"
@@ -3969,6 +3969,9 @@ var calendarData = [
     "name": "Matzleinsdorfertheater, 1.12.1892", "startDate": "1892-12-01", "id": "pmb208586.html", "type": "Theateraufführung"
   },
   {
+    "name": "3. Abonnementkonzert, 4.12.1892", "startDate": "1892-12-04", "id": "pmb405507.html", "type": "Philharmonisches Konzert"
+  },
+  {
     "name": "Aufführung von Don Giovanni, 5.12.1892", "startDate": "1892-12-05", "id": "pmb208587.html", "type": "Opernaufführung"
   },
   {
@@ -3978,7 +3981,13 @@ var calendarData = [
     "name": "Danzer’s Orpheum, 11.12.1892", "startDate": "1892-12-11", "id": "pmb208588.html", "type": "Vergnügungsabend"
   },
   {
+    "name": "Aufführung von Die Jüdin von Toledo, 14.12.1892", "startDate": "1892-12-14", "id": "pmb405512.html", "type": "Theateraufführung"
+  },
+  {
     "name": "Private Lesung von Episode, 20.12.1892", "startDate": "1892-12-20", "id": "pmb192651.html", "type": "Private Lesung"
+  },
+  {
+    "name": "?? [Theaterbesuch], 29.12.1892", "startDate": "1892-12-29", "id": "pmb405519.html", "type": "Theateraufführung"
   },
   {
     "name": "Dritter Kammermusikabend des Rosé-Quartetts, 3.1.1893", "startDate": "1893-01-03", "id": "pmb208589.html", "type": "Quartett"
