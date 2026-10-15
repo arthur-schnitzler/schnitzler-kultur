@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-10-09">serialized</change>
+      <change when-iso="2026-10-15">serialized</change>
       
        
     </revisionDesc>
@@ -28371,6 +28371,21 @@
           
   
           <desc type="entity_type_id">972</desc>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb405585">Pelikangasse 4</placeName>
+            
+  
+            <geo>48,215712 16,348279</geo>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405585/</note>
+            
+
+          </location>
           
 
           <location type="located_in_place">

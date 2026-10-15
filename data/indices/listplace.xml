@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-10-09">serialized</change>
+      <change when-iso="2026-10-15">serialized</change>
       
        
     </revisionDesc>
@@ -30269,6 +30269,67 @@
           
 
         </place>
+        <place xml:id="pmb168273">
+          
+  
+          <placeName>Marionettentheater</placeName>
+          
+  
+          <desc type="entity_type">Theater (K.THE)</desc>
+          
+  
+          <desc type="entity_type_id">4</desc>
+          
+
+          <location type="coords">
+            
+  
+            <geo>48,21753 16,39469</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb422">Venedig in Wien</placeName>
+            
+  
+            <geo>48,21699 16,39467</geo>
+            
+
+          </location>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168273/</idno>
+          
+  
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb168273.html</idno>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            
+
+          </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1895-01-01" when-iso="1895-01-01">1895</date>
+            
+
+          </note>
+          
+
+        </place>
         <place xml:id="pmb168183">
           
   
@@ -32924,22 +32985,28 @@
           
 
         </place>
-        <place xml:id="pmb90713">
+        <place xml:id="pmb90711">
           
   
-          <placeName>Giardini pubblici Indro Montanelli</placeName>
+          <placeName>Giardini Napoleonici</placeName>
           
   
-          <desc type="entity_type">S.GDN</desc>
+          <placeName type="ort_namensvariante">Giardini Pubblici</placeName>
           
   
-          <desc type="entity_type_id">2025</desc>
+          <placeName type="ort_namensvariante">Giardini della Biennale</placeName>
+          
+  
+          <desc type="entity_type">L.PRK</desc>
+          
+  
+          <desc type="entity_type_id">1728</desc>
           
 
           <location type="coords">
             
   
-            <geo>45,47446 9,19983</geo>
+            <geo>45,42953 12,35645</geo>
             
 
           </location>
@@ -32948,46 +33015,34 @@
           <location type="located_in_place">
             
   
-            <placeName key="pmb40306">Italien</placeName>
+            <placeName key="pmb462">Venedig</placeName>
             
   
-            <geo>42,83333 12,83333</geo>
-            
-
-          </location>
-          
-
-          <location type="located_in_place">
-            
-  
-            <placeName key="pmb886">Mailand</placeName>
-            
-  
-            <geo>45,46427 9,18951</geo>
+            <geo>45,43713 12,33265</geo>
             
 
           </location>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/90713/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/90711/</idno>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/11822431/</idno>
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/7910755/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb90713.html</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb90711.html</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q169090</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q724170</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb90713.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb90713.html</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb90711.html</idno>
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="24">manually created entity</bibl>
             
     
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
