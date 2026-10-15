@@ -2065,7 +2065,7 @@
           "label": "Veranstaltungstypen im Jahr 1895",
           "data": [
             18,
-            102,
+            103,
             32,
             5,
             6
@@ -2093,6 +2093,7 @@
         "labels": [
           "Theaterpremiere",
           "Theateraufführung",
+          "Marionettentheater",
           "Leseprobe",
           "Theateruraufführung",
           "Probe",
@@ -2105,6 +2106,7 @@
             "data": [
               21,
               66,
+              1,
               1,
               7,
               5,

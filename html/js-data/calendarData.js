@@ -4953,6 +4953,9 @@ var calendarData = [
     "name": "Aufführung von Das Stiftungsfest, 9.8.1895", "startDate": "1895-08-09", "id": "pmb208764.html", "type": "Theateraufführung"
   },
   {
+    "name": "Aufführung eines Marionettentheaters, 11.8.1895", "startDate": "1895-08-11", "id": "pmb405561.html", "type": "Marionettentheater"
+  },
+  {
     "name": "Aufführung von Hänsel und Grethel, 12.8.1895", "startDate": "1895-08-12", "id": "pmb208765.html", "type": "Opernaufführung"
   },
   {
