@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-10-15">serialized</change>
+      <change when-iso="2026-10-21">serialized</change>
       
        
     </revisionDesc>
@@ -67298,7 +67298,16 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb77023">
           
   
-          <title type="main">Hoffmanns Erzählungen</title>
+          <title type="main">Les Contes d’Hoffmann</title>
+          
+  
+          <title type="werk_namensvariante">Hoffmanns Erzählungen</title>
+          
+  
+          <author key="pmb112796" role="hat-geschaffen-textgrundlage-von">Barbier, Jules</author>
+          
+  
+          <author key="pmb202624" role="hat-geschaffen-textgrundlage-von">Carré [Librettist], Michel</author>
           
   
           <author key="pmb9131" role="hat-geschaffen">Offenbach, Jacques</author>
@@ -67325,7 +67334,16 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_893.html</idno>
           
   
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1135588503</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77023.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202622/</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_897.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77023.html</idno>

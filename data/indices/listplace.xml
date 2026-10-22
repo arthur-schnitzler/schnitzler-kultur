@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-10-15">serialized</change>
+      <change when-iso="2026-10-21">serialized</change>
       
        
     </revisionDesc>
@@ -4154,13 +4154,22 @@
         <place xml:id="pmb289053">
           
   
-          <placeName>Kammersaal der Gesellschaft der Musikfreunde</placeName>
+          <placeName>Kleiner Musikvereinssaal</placeName>
           
   
-          <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
+          <placeName type="ort_namensvariante">Brahms-Saal</placeName>
           
   
-          <desc type="entity_type_id">5</desc>
+          <placeName type="ort_namensvariante">Kammersaal der Gesellschaft der Musikfreunde</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Kammermusik-Saal der Gesellschaft der Musikfreunde</placeName>
+          
+  
+          <desc type="entity_type">Konzertsaal (K.KNZ)</desc>
+          
+  
+          <desc type="entity_type_id">45</desc>
           
 
           <location type="coords">
@@ -4220,13 +4229,25 @@
           <listBibl>
             
     
-            <bibl type="collections" n="24">manually created entity</bibl>
-            
-    
-            <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
+            <bibl type="collections" n="120">Max Kalbeck: Tagebücher</bibl>
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/35/Wien_-_Musikverein%2C_Brahms-Saal.JPG?utm_source=de.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -6129,6 +6150,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb263384.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb263384.html</idno>
           
 
           <listBibl>
@@ -12466,6 +12490,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb234454.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb234454.html</idno>
           
 
           <listBibl>
@@ -25234,10 +25261,16 @@
           <placeName>St James’s Hall</placeName>
           
   
-          <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
+          <placeName type="ort_namensvariante">St James Hall</placeName>
           
   
-          <desc type="entity_type_id">5</desc>
+          <placeName type="ort_namensvariante">St. James Hall</placeName>
+          
+  
+          <desc type="entity_type">Konzerthaus</desc>
+          
+  
+          <desc type="entity_type_id">5114</desc>
           
 
           <location type="coords">
@@ -25286,6 +25319,30 @@
             
 
           </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date to-iso="1905-02-28">1858-03-25 – Februar 1905</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/98/St_James%27s_Hall.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -26586,7 +26643,13 @@
         <place xml:id="pmb185249">
           
   
-          <placeName>The Crystal Palace</placeName>
+          <placeName>Crystal Palace</placeName>
+          
+  
+          <placeName type="ort_namensvariante">The Crystal Palace</placeName>
+          
+  
+          <placeName type="legacy-name-merge">Crystal Palace</placeName>
           
   
           <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
@@ -26633,8 +26696,14 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185249.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407080/</idno>
+          
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -26644,6 +26713,30 @@
             
 
           </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1854-01-01" when-iso="1854-01-01">1854</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Crystal_Palace_General_view_from_Water_Temple.jpg?utm_source=www.wikidata.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -28715,6 +28808,9 @@
           <placeName>Volksheim</placeName>
           
   
+          <placeName type="legacy-name-merge">Volksheim</placeName>
+          
+  
           <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
           
   
@@ -28745,6 +28841,18 @@
           <location type="located_in_place">
             
   
+            <placeName key="pmb50">Wien</placeName>
+            
+  
+            <geo>48,208333 16,373056</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
             <placeName key="pmb183255">Urban-Loritz-Platz, Vienna</placeName>
             
   
@@ -28762,8 +28870,14 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183253.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407232/</idno>
+          
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -31184,6 +31298,9 @@
           <placeName>Kaufmännischer Verein</placeName>
           
   
+          <placeName type="legacy-name-merge">Festsaal des kaufmännischen Vereins</placeName>
+          
+  
           <desc type="entity_type">Vereinslokal (K.VRN)</desc>
           
   
@@ -31214,6 +31331,18 @@
           <location type="located_in_place">
             
   
+            <placeName key="pmb332">Linz</placeName>
+            
+  
+            <geo>48,3 14,28333</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
             <placeName key="pmb42213">Johannesgasse</placeName>
             
   
@@ -31232,10 +31361,16 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143138.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407226/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143138.html</idno>
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -32717,25 +32852,28 @@
         <place xml:id="pmb92224">
           
   
-          <placeName>Ehrbarsaal</placeName>
+          <placeName>Ehrbar-Saal</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Palais Ehrbar</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Salon Ehrbar</placeName>
+          
+  
+          <placeName type="legacy-name-merge">Ehrbarsaal</placeName>
+          
+  
+          <desc type="entity_type">Konzertsaal (K.KNZ)</desc>
+          
+  
+          <desc type="entity_type_id">45</desc>
           
 
           <location type="coords">
             
   
             <geo>48,196913 16,362923</geo>
-            
-
-          </location>
-          
-
-          <location type="located_in_place">
-            
-  
-            <placeName key="pmb54">IV., Wieden</placeName>
-            
-  
-            <geo>48,19198 16,36714</geo>
             
 
           </location>
@@ -32752,6 +32890,18 @@
 
           </location>
           
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb54">IV., Wieden</placeName>
+            
+  
+            <geo>48,19198 16,36714</geo>
+            
+
+          </location>
+          
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92224/</idno>
           
@@ -32764,14 +32914,56 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb92224.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405796/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1241047</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1295759896</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Palais_Ehrbar</idno>
+          
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="120">Max Kalbeck: Tagebücher</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
             
 
           </listBibl>
+          
+  
+          <note type="references"> </note>
+          
+
+          <note type="apis_dates">
+            
+
+            <date notBefore-iso="1877-01-01" when-iso="1877-01-01">1877</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/7/71/Ehrbar_Saal_-_Galerie%2C_Wien_%28Tudoi61%292.jpg?utm_source=de.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -33465,16 +33657,7 @@
           <placeName>Den Haag</placeName>
           
   
-          <placeName type="legacy-name-merge">Den Haag</placeName>
-          
-  
-          <placeName type="legacy-name-merge">'s-Gravenhage</placeName>
-          
-  
-          <placeName type="alternative-name">Hague</placeName>
-          
-  
-          <placeName type="alternative-name">Den Haag</placeName>
+          <placeName type="ort_namensvariante">’s-Gravenhage</placeName>
           
   
           <desc type="entity_type">P.PPLG</desc>
@@ -33556,6 +33739,9 @@
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.8.2</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261689/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb58810.html</idno>
@@ -34270,13 +34456,13 @@
         <place xml:id="pmb48198">
           
   
-          <placeName>Redoutensaal</placeName>
+          <placeName>Redoutensäle</placeName>
           
   
-          <desc type="entity_type">Theater (K.THE)</desc>
+          <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
           
   
-          <desc type="entity_type_id">4</desc>
+          <desc type="entity_type_id">5</desc>
           
 
           <location type="coords">
@@ -38616,6 +38802,9 @@
           <placeName>Hotel Savoy [Wien]</placeName>
           
   
+          <placeName type="legacy-name-merge">Hotel Savoy</placeName>
+          
+  
           <desc type="entity_type">Hotel (K.HTL)</desc>
           
   
@@ -38652,10 +38841,16 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1164.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407230/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1164.html</idno>
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -39239,6 +39434,9 @@
           <placeName type="legacy-name-merge">Hoftheater Dresden</placeName>
           
   
+          <placeName type="legacy-name-merge">Königliches Hoftheater</placeName>
+          
+  
           <desc type="entity_type">Oper (K.OPR)</desc>
           
   
@@ -39286,8 +39484,14 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1034.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407092/</idno>
+          
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -40879,6 +41083,9 @@
           <placeName type="ort_fruherer-name">Karlsbad</placeName>
           
   
+          <placeName type="legacy-name-merge">Karlsbad</placeName>
+          
+  
           <desc type="entity_type">P.PPLA</desc>
           
   
@@ -40958,6 +41165,9 @@
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb842</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406727/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb842.html</idno>
@@ -41558,13 +41768,10 @@
         <place xml:id="pmb772">
           
   
-          <placeName>Marienbad</placeName>
+          <placeName>Mariánské Lázně</placeName>
           
   
           <placeName type="alternative-name">Mariánské Lázně</placeName>
-          
-  
-          <placeName type="legacy-name-merge">Marienbad</placeName>
           
   
           <placeName type="alternative-name">Marienbad</placeName>
@@ -41574,6 +41781,9 @@
           
   
           <placeName type="legacy-name-merge">Výhledy [Mariánské Lázně-Úšovice]</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Marienbad</placeName>
           
   
           <desc type="entity_type">P.PPL</desc>
@@ -41868,9 +42078,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb730.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb730.html</idno>
           
 
           <listBibl>
@@ -44494,10 +44701,10 @@
           <placeName type="legacy-name-merge">Gesellschaft der Musikfreunde</placeName>
           
   
-          <desc type="entity_type">Konzertsaal (K.KNZ)</desc>
+          <desc type="entity_type">Konzerthaus</desc>
           
   
-          <desc type="entity_type_id">45</desc>
+          <desc type="entity_type_id">5114</desc>
           
 
           <location type="coords">
@@ -44516,6 +44723,18 @@
             
   
             <geo>48,20769 16,37049</geo>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb341460">Musikvereinsplatz</placeName>
+            
+  
+            <geo>48,20055833535649 16,37235641160724</geo>
             
 
           </location>
@@ -44549,6 +44768,30 @@
             
 
           </listBibl>
+          
+
+          <note type="apis_dates">
+            
+
+            <date when-iso="1870-01-06">1870-01-06</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Wien_-_Haus_des_Wiener_Musikvereins_%281%29.JPG?utm_source=www.wikidata.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -47150,7 +47393,7 @@
           <placeName type="legacy-name-merge">Bad Ischl</placeName>
           
   
-          <placeName type="legacy-name-merge">Bad Ischl</placeName>
+          <placeName type="legacy-name-merge">Ischl</placeName>
           
   
           <desc type="entity_type">P.PPL</desc>
@@ -47220,6 +47463,9 @@
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb213</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410626/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb213.html</idno>
@@ -48089,6 +48335,9 @@
           <placeName type="ort_namensvariante">Frankfurt/Main</placeName>
           
   
+          <placeName type="legacy-name-merge">Frankfurt</placeName>
+          
+  
           <desc type="entity_type">P.PPLA3</desc>
           
   
@@ -48192,6 +48441,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410582/</idno>
           
 
           <listBibl>
@@ -48701,7 +48953,22 @@
         <place xml:id="pmb107">
           
   
-          <placeName>Sofiensäle</placeName>
+          <placeName>Sophiensäle</placeName>
+          
+  
+          <placeName type="legacy-name-merge">Sophiensäle</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Sofiensäle</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Sophienbadsaal</placeName>
+          
+  
+          <placeName type="legacy-name-merge">Sophiensäle</placeName>
+          
+  
+          <placeName type="legacy-name-merge">Sophienbadsaal</placeName>
           
   
           <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
@@ -48746,10 +49013,34 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb107.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405828/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q876053</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4804606-1</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Sofiens%C3%A4le</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407158/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407035/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb107.html</idno>
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
+            
+    
+            <bibl type="collections" n="120">Max Kalbeck: Tagebücher</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -49479,6 +49770,9 @@
           <placeName type="legacy-name-merge">Wien-Alsergrund</placeName>
           
   
+          <placeName type="legacy-name-merge">Alsergrund (heute Wien)</placeName>
+          
+  
           <desc type="entity_type">A.ADM3</desc>
           
   
@@ -49549,6 +49843,9 @@
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/10040416-9</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406767/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59.html</idno>
@@ -52023,7 +52320,10 @@
         <place xml:id="pmb4">
           
   
-          <placeName>Bösendorfer Saal</placeName>
+          <placeName>Bösendorfer-Saal</placeName>
+          
+  
+          <placeName type="ort_namensvariante">Saal Bösendorfer</placeName>
           
   
           <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
