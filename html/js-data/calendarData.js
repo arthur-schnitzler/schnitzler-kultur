@@ -2709,7 +2709,7 @@ var calendarData = [
     "name": "Besuch des Musée du Louvre, 22.5.1888", "startDate": "1888-05-22", "id": "pmb297168.html", "type": "Museumsbesuch"
   },
   {
-    "name": "Konzert im St. James Hall, 28.5.1888", "startDate": "1888-05-28", "id": "pmb208250.html", "type": "Konzert"
+    "name": "Konzert in der St. James Hall, 28.5.1888", "startDate": "1888-05-28", "id": "pmb208250.html", "type": "Konzert"
   },
   {
     "name": "Soirée Cronbach, 29.5.1888", "startDate": "1888-05-29", "id": "pmb208251.html", "type": "Soirée"
@@ -5463,7 +5463,7 @@ var calendarData = [
     "name": "Aufführung von Nathan der Weise, 22.10.1896", "startDate": "1896-10-22", "id": "pmb208863.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung Zu ebener Erde und erster Stock, 24.10.1896", "startDate": "1896-10-24", "id": "pmb43270.html", "type": "Theateraufführung"
+    "name": "Aufführung von Zu ebener Erde und erster Stock, 24.10.1896", "startDate": "1896-10-24", "id": "pmb43270.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Die Mütter, 27.10.1896", "startDate": "1896-10-27", "id": "pmb208864.html", "type": "Theateraufführung"
