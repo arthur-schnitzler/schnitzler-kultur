@@ -107,14 +107,16 @@ a:focus {
     box-shadow: none;
     display: flex;
     font-size: 1rem;
-    min-height: 64px;
+    min-height: 88px;
     padding: 0;
 }
 
+/* Navbar über die volle Breite: Logo links außen, Menü rechtsbündig;
+   nur der Seiteninhalt ist auf 1200px begrenzt. */
 .site-header .navbar .container-fluid {
-    max-width: 1200px;
-    padding-left: 32px;
-    padding-right: 32px;
+    max-width: none;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 /* Logo (übersteuert die Altregel .navbar .navbar-brand img { height: 5rem }) */
@@ -123,7 +125,7 @@ a:focus {
 }
 
 .site-header .navbar-brand img.site-logo {
-    height: 52px;
+    height: 72px;
     width: auto;
     max-width: none;
     max-height: none;
@@ -165,12 +167,12 @@ a:focus {
     }
 
     .site-header .navbar .container-fluid {
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 16px;
+        padding-right: 16px;
     }
 
     .site-header .navbar-brand img.site-logo {
-        height: 44px;
+        height: 52px;
     }
 }
 
