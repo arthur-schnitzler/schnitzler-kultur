@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-10-21">serialized</change>
+      <change when-iso="2026-10-23">serialized</change>
       
        
     </revisionDesc>
@@ -81194,20 +81194,23 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Huch, William</persName>
+          
+  
           <birth>
             
     
             <date when-iso="1857-09-28">1857-09-28</date>
             
       
-            <settlement key="120421">
+            <settlement key="35572">
               
         
-              <placeName type="pref">Ballenstedt</placeName>
+              <placeName type="pref">Braunschweig</placeName>
               
         
               <location>
-                <geo>51,718888 11,2325</geo>
+                <geo>52,26594 10,52673</geo>
               </location>
               
       
@@ -81222,6 +81225,15 @@
     
             <date when-iso="1950-09-27">1950-09-27</date>
             
+      
+            <settlement key="406316">
+              
+        
+              <placeName type="pref">Berlin-Steglitz</placeName>
+              
+      
+            </settlement>
+            
   
           </death>
           
@@ -81230,6 +81242,9 @@
           
   
           <occupation key="105">Schauspieler/Schauspielerin</occupation>
+          
+  
+          <occupation key="107">Sänger/Sängerin</occupation>
           
   
           <occupation key="145">Fotograf/Fotografin</occupation>
@@ -81258,11 +81273,44 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb120420.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406314/</idno>
+          
+  
+          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/personenregister-id-0121.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Konzert" key="408202" when-iso="1886-02-27">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Konzertaufführung im Bösendorfer-Saal, 27.2.1886</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/408202/</idno>
+              
+        
+              <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-000622.html</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="15">Arthur Schnitzler: Kinobesuche von Clara Katharina Pollaczek und Arthur Schnitzler</bibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
             
 
           </listBibl>
@@ -127572,6 +127620,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -127589,6 +127640,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
               
     
             </event>
@@ -132172,6 +132226,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -134926,6 +134983,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208059.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a9fd3ced60fbe1cf48c</idno>
               
     
             </event>
@@ -143371,6 +143431,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88363.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6666e786cd334071f79a060f</idno>
+              
     
             </event>
             
@@ -146539,6 +146602,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186330/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b53d3ced60fbe1f8ace</idno>
               
     
             </event>
@@ -152541,6 +152607,12 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
               
     
             </event>
@@ -161608,6 +161680,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
+              
     
             </event>
             
@@ -161697,6 +161772,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186252.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667955b9cd334071f710bfce</idno>
               
     
             </event>
@@ -161900,6 +161978,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335166.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e82fcd334071f77870e1</idno>
+              
     
             </event>
             
@@ -161924,6 +162005,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
+              
     
             </event>
             
@@ -161941,6 +162025,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186252.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667955b9cd334071f710bfce</idno>
               
     
             </event>
@@ -161962,6 +162049,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
               
     
             </event>
@@ -168560,6 +168650,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
               
     
             </event>
@@ -180509,6 +180602,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -181335,6 +181431,12 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
               
     
             </event>
@@ -183811,6 +183913,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -186894,6 +186999,24 @@
             </event>
             
     
+            <event n="Generalprobe" key="47048" when-iso="1910-11-23">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Generalprobe Der junge Medardus, 23.11.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47048/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47048.html</idno>
+              
+    
+            </event>
+            
+    
             <event n="Theateraufführung" key="251446" when-iso="1910-11-27">
               
         
@@ -187016,6 +187139,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
+              
     
             </event>
             
@@ -187048,6 +187174,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186330/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b53d3ced60fbe1f8ace</idno>
               
     
             </event>
@@ -187183,6 +187312,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
               
     
             </event>
@@ -188368,6 +188500,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
+              
     
             </event>
             
@@ -188382,6 +188517,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39987/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b2dd3ced60fbe1f0803</idno>
               
     
             </event>
@@ -191758,6 +191896,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
+              
     
             </event>
             
@@ -191829,6 +191970,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142572.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="419096" when-iso="1903-11-01">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Aufführung von Der Müller und sein Kind, 1.11.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419096/</idno>
               
     
             </event>
@@ -193332,6 +193488,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -197848,6 +198007,9 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Riedel, Hermann</persName>
+          
+  
           <birth>
             
     
@@ -197897,6 +198059,9 @@
           <sex value="male"/>
           
   
+          <occupation key="181">Pianist/Pianistin</occupation>
+          
+  
           <occupation key="768">Hofmusikdirektor/Hofmusikdirektorin</occupation>
           
   
@@ -197923,11 +198088,44 @@
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb23384.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406694/</idno>
+          
+  
+          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/personenregister-id-0440.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Konzert" key="411174" when-iso="1874-02-03">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Konzertaufführung in Wien, 3.2.1874</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/411174/</idno>
+              
+        
+              <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-000164.html</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="86">Arthur Schnitzler (DLA-Marbach)</bibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
             
     
             <bibl type="collections" n="83">Conrad Ansorge 1862–1930. Ein Pianist des Fin de siècle</bibl>
@@ -201021,6 +201219,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
+              
     
             </event>
             
@@ -201549,6 +201750,9 @@
           </persName>
           
   
+          <persName type="legacy-name-merge">Pollak, Theodor</persName>
+          
+  
           <birth>
             
     
@@ -201615,8 +201819,32 @@
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb22754.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406647/</idno>
+          
+  
+          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/personenregister-id-0675.html</idno>
+          
 
           <listEvent>
+            
+    
+            <event n="Konzert" key="410878" when-iso="1889-11-13">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Konzertaufführung in Wien, 13.11.1889</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410878/</idno>
+              
+        
+              <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-000821.html</idno>
+              
+    
+            </event>
             
     
             <event n="Konzert" key="208511" when-iso="1891-12-10">
@@ -201641,6 +201869,9 @@
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
             
     
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
@@ -214955,6 +215186,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
+              
     
             </event>
             
@@ -223373,6 +223607,179 @@
           
 
         </person>
+        <person xml:id="pmb20373">
+          
+  
+          <persName>
+            
+      
+            <forename>Olga</forename>
+            
+      
+            <surname>Lewinsky</surname>
+            
+  
+          </persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Precheisen</persName>
+          
+  
+          <persName type="legacy-name-merge">Lewinski, Olga</persName>
+          
+  
+          <persName type="legacy-name-merge">Lewinsky, Olga</persName>
+          
+  
+          <birth>
+            
+    
+            <date when-iso="1853-07-07">1853-07-07</date>
+            
+      
+            <settlement key="860">
+              
+        
+              <placeName type="pref">Graz</placeName>
+              
+        
+              <location>
+                <geo>47,06667 15,43333</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </birth>
+            
+  
+          <death>
+            
+    
+            <date when-iso="1935-07-26">1935-07-26</date>
+            
+      
+            <settlement key="50">
+              
+        
+              <placeName type="pref">Wien</placeName>
+              
+        
+              <location>
+                <geo>48,208333 16,373056</geo>
+              </location>
+              
+      
+            </settlement>
+            
+  
+          </death>
+          
+  
+          <sex value="female"/>
+          
+  
+          <occupation key="105">Schauspieler/Schauspielerin</occupation>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb20373.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20373/</idno>
+          
+  
+          <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp50815</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/99180/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116972238</idno>
+          
+  
+          <idno type="URL" subtype="oebl">https://doi.org/10.1553/0x00282e4d</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1708419</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Olga_Lewinsky</idno>
+          
+  
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=14473</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/161060/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb20373.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb20373</idno>
+          
+  
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/person/6504166ba47588ad6024abca</idno>
+          
+  
+          <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/person/6504166ba47588ad6024adf5</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb20373.html</idno>
+          
+
+          <listEvent>
+            
+    
+            <event n="Generalprobe" key="47048" when-iso="1910-11-23">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Generalprobe Der junge Medardus, 23.11.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47048/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47048.html</idno>
+              
+    
+            </event>
+            
+
+          </listEvent>
+          
+
+          <listBibl>
+            
+    
+            <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
+            
+    
+            <bibl type="collections" n="12">Karl Kraus: Die Fackel</bibl>
+            
+    
+            <bibl type="collections" n="11">ÖBL (geboren nach 1850)</bibl>
+            
+
+          </listBibl>
+          
+  
+          <note type="references">None </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Olga_Lewinsky_%28Wiener_Bilder_1909%29.png/250px-Olga_Lewinsky_%28Wiener_Bilder_1909%29.png"/>
+            
+
+          </figure>
+          
+
+        </person>
         <person xml:id="pmb20370">
           
   
@@ -223474,6 +223881,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
               
     
             </event>
@@ -243576,6 +243986,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -244787,6 +245200,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168382.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61adcd3ced60fbe1dda49</idno>
               
     
             </event>
@@ -251665,6 +252081,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
+              
     
             </event>
             
@@ -257192,6 +257611,12 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
+              
     
             </event>
             
@@ -261951,6 +262376,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335166.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e82fcd334071f77870e1</idno>
               
     
             </event>
@@ -271993,6 +272421,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
+              
     
             </event>
             
@@ -272314,6 +272745,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -294781,6 +295215,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
+              
     
             </event>
             
@@ -294801,6 +295238,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
               
     
             </event>
@@ -295718,6 +296158,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364460.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b53d3ced60fbe1f8955</idno>
+              
     
             </event>
             
@@ -295759,6 +296202,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
               
     
             </event>
@@ -296346,6 +296792,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
               
     
             </event>
@@ -297112,6 +297561,12 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
+              
     
             </event>
             
@@ -297150,6 +297605,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
               
     
             </event>
@@ -297211,6 +297669,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
+              
     
             </event>
             
@@ -297252,6 +297713,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -301262,6 +301726,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209413.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0fd3ced60fbe1e9a26</idno>
+              
     
             </event>
             
@@ -304718,6 +305185,12 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
+              
     
             </event>
             
@@ -307538,6 +308011,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -307576,6 +308052,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
               
     
             </event>
@@ -307616,6 +308095,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335166.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e82fcd334071f77870e1</idno>
+              
     
             </event>
             
@@ -307637,6 +308119,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
+              
     
             </event>
             
@@ -307654,6 +308139,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
               
     
             </event>
@@ -307696,6 +308184,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
               
     
             </event>
@@ -307750,6 +308241,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186252.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667955b9cd334071f710bfce</idno>
               
     
             </event>
@@ -308070,6 +308564,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209413.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0fd3ced60fbe1e9a26</idno>
               
     
             </event>
@@ -308567,6 +309064,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
+              
     
             </event>
             
@@ -308609,6 +309109,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
+              
     
             </event>
             
@@ -308623,6 +309126,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55527/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bbbd3ced60fbe211070</idno>
               
     
             </event>
@@ -308641,6 +309147,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -308980,6 +309489,9 @@
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63372/</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b03d3ced60fbe1e6f0d</idno>
+              
     
             </event>
             
@@ -309003,6 +309515,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
               
     
             </event>
@@ -314706,6 +315221,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335166.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e82fcd334071f77870e1</idno>
+              
     
             </event>
             
@@ -314726,6 +315244,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
               
     
             </event>
@@ -314762,6 +315283,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb53252.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="421440" when-iso="1904-11-07">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Aufführung von Die Verschwörung des Fiesko zu Genua, 7.11.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421440/</idno>
               
     
             </event>
@@ -316190,6 +316726,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -317297,6 +317836,12 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
               
     
             </event>
@@ -319502,6 +320047,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -320113,6 +320661,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
               
     
             </event>
@@ -320758,6 +321309,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
+              
     
             </event>
             
@@ -320790,6 +321344,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186330/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b53d3ced60fbe1f8ace</idno>
               
     
             </event>
@@ -320889,6 +321446,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
               
     
             </event>
@@ -321915,6 +322475,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55221/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b5ad3ced60fbe1fa6b6</idno>
               
     
             </event>
@@ -324837,6 +325400,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200663.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666fd3f2cd334071f74db3c9</idno>
+              
     
             </event>
             
@@ -327186,6 +327752,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208727.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ac11fcd334071f7e837d1</idno>
+              
     
             </event>
             
@@ -327266,6 +327835,12 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
               
     
             </event>
@@ -327384,6 +327959,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -327401,6 +327979,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208915.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae1d3ced60fbe1df0c7</idno>
               
     
             </event>
@@ -329113,6 +329694,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -329130,6 +329714,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
               
     
             </event>
@@ -335493,6 +336080,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
+              
     
             </event>
             
@@ -335507,6 +336097,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63372/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b03d3ced60fbe1e6f0d</idno>
               
     
             </event>
@@ -335573,6 +336166,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
               
     
             </event>
@@ -335827,6 +336423,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48776.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ac6d3ced60fbe1d87aa</idno>
               
     
             </event>
@@ -341713,6 +342312,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238893.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fadb26af2b0e29f07b35f</idno>
+              
     
             </event>
             
@@ -342823,6 +343425,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb232739.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66917e666af2b0e29f2dc379</idno>
+              
     
             </event>
             
@@ -343038,6 +343643,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb233025.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669280b66af2b0e29f419762</idno>
               
     
             </event>
@@ -343471,6 +344079,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235107.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66939cac6af2b0e29f5760d4</idno>
+              
     
             </event>
             
@@ -343704,6 +344315,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235236.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669154526af2b0e29f2a600e</idno>
               
     
             </event>
@@ -347101,6 +347715,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238988.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66976f6c6af2b0e29fa681c2</idno>
+              
     
             </event>
             
@@ -348570,6 +349187,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
+              
     
             </event>
             
@@ -348612,6 +349232,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
+              
     
             </event>
             
@@ -348630,6 +349253,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
+              
     
             </event>
             
@@ -348644,6 +349270,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39987/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b2dd3ced60fbe1f0803</idno>
               
     
             </event>
@@ -348710,6 +349339,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
               
     
             </event>
@@ -352910,6 +353542,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63085.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aafd3ced60fbe1d2ce2</idno>
+              
     
             </event>
             
@@ -353006,6 +353641,12 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
+              
     
             </event>
             
@@ -353101,6 +353742,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
               
     
             </event>
@@ -354866,6 +355510,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
+              
     
             </event>
             
@@ -354880,6 +355527,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55527/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bbbd3ced60fbe211070</idno>
               
     
             </event>
@@ -354898,6 +355548,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -355459,6 +356112,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
               
     
             </event>
@@ -356603,13 +357259,16 @@
             </event>
             
     
-            <event n="Theateruraufführung" key="148404" when-iso="1910-09-12">
+            <event n="Konzert" key="148398" when-iso="1910-09-12">
               
         
               <desc n="1256">mitwirkend</desc>
               
         
-              <label>Uraufführung 8. Sinfonie, 12.9.1910</label>
+              <label>Uraufführung von 8. Sinfonie, 12.9.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148398/</idno>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148404/</idno>
@@ -358101,6 +358760,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
+              
     
             </event>
             
@@ -358901,6 +359563,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -358922,6 +359587,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
+              
     
             </event>
             
@@ -358939,6 +359607,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
               
     
             </event>
@@ -365353,6 +366024,12 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
+              
     
             </event>
             
@@ -365413,6 +366090,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -365455,6 +366135,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
+              
     
             </event>
             
@@ -365472,6 +366155,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186252.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667955b9cd334071f710bfce</idno>
               
     
             </event>
@@ -366143,6 +366829,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208964.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ede5ecd334071f73a6d77</idno>
+              
     
             </event>
             
@@ -366163,6 +366852,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208965.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666edebacd334071f73a76ce</idno>
               
     
             </event>
@@ -366245,6 +366937,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335166.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e82fcd334071f77870e1</idno>
+              
     
             </event>
             
@@ -366266,6 +366961,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
+              
     
             </event>
             
@@ -366283,6 +366981,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
               
     
             </event>
@@ -366305,6 +367006,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43208.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66718b72cd334071f7711825</idno>
+              
     
             </event>
             
@@ -366322,6 +367026,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb231202.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="421440" when-iso="1904-11-07">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Aufführung von Die Verschwörung des Fiesko zu Genua, 7.11.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421440/</idno>
               
     
             </event>
@@ -366364,6 +367083,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
               
     
             </event>
@@ -366461,6 +367183,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209491.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6677581ccd334071f7e8da03</idno>
+              
     
             </event>
             
@@ -366514,6 +367239,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186252.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667955b9cd334071f710bfce</idno>
               
     
             </event>
@@ -368262,6 +368990,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89365/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61abfd3ced60fbe1d68ed</idno>
               
     
             </event>
@@ -371273,6 +372004,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208965.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666edebacd334071f73a76ce</idno>
               
     
             </event>
@@ -376137,6 +376871,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
+              
     
             </event>
             
@@ -376154,6 +376891,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238808.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668076a34801253dbd2ffaf8</idno>
               
     
             </event>
@@ -376193,6 +376933,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
               
     
             </event>
@@ -376441,6 +377184,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
               
     
             </event>
@@ -377713,6 +378459,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43865.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bcdd3ced60fbe215841</idno>
+              
     
             </event>
             
@@ -377957,6 +378706,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
               
     
             </event>
@@ -380691,6 +381443,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209413.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0fd3ced60fbe1e9a26</idno>
+              
     
             </event>
             
@@ -382300,6 +383055,9 @@
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55527/</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bbbd3ced60fbe211070</idno>
+              
     
             </event>
             
@@ -382317,6 +383075,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -384362,6 +385123,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -384403,6 +385167,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
               
     
             </event>
@@ -384720,6 +385487,9 @@
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39987/</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b2dd3ced60fbe1f0803</idno>
+              
     
             </event>
             
@@ -384785,6 +385555,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
               
     
             </event>
@@ -388008,13 +388781,16 @@
             </event>
             
     
-            <event n="Theateruraufführung" key="148404" when-iso="1910-09-12">
+            <event n="Konzert" key="148398" when-iso="1910-09-12">
               
         
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Uraufführung 8. Sinfonie, 12.9.1910</label>
+              <label>Uraufführung von 8. Sinfonie, 12.9.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148398/</idno>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148404/</idno>
@@ -396613,6 +397389,24 @@
     
             </event>
             
+    
+            <event n="Generalprobe" key="47048" when-iso="1910-11-23">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Generalprobe Der junge Medardus, 23.11.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47048/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47048.html</idno>
+              
+    
+            </event>
+            
 
           </listEvent>
           
@@ -402034,6 +402828,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208965.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666edebacd334071f73a76ce</idno>
+              
     
             </event>
             
@@ -402111,6 +402908,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43926.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae7d3ced60fbe1e07a9</idno>
               
     
             </event>
@@ -402530,7 +403330,7 @@
           <figure>
             
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Otto_brahm_critic_1905.jpg/250px-Otto_brahm_critic_1905.jpg"/>
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Otto_Brahm.jpg/250px-Otto_Brahm.jpg"/>
             
 
           </figure>
@@ -403033,6 +403833,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
+              
     
             </event>
             
@@ -403075,6 +403878,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
+              
     
             </event>
             
@@ -403089,6 +403895,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63372/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b03d3ced60fbe1e6f0d</idno>
               
     
             </event>
@@ -403125,6 +403934,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46933.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6679a234cd334071f717b6b6</idno>
               
     
             </event>
@@ -403191,6 +404003,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
               
     
             </event>
@@ -405681,6 +406496,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
+              
     
             </event>
             
@@ -408034,6 +408852,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42318.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ad68bcd334071f7e9efe2</idno>
+              
     
             </event>
             
@@ -408090,6 +408911,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42232.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666a8f97cd334071f7e42797</idno>
               
     
             </event>
@@ -408942,6 +409766,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145196.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="421447" when-iso="1907-11-10">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>2. Aufführung von Vom anderen Ufer, 10.11.1907</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421447/</idno>
               
     
             </event>
@@ -409943,6 +410782,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb236620.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="421447" when-iso="1907-11-10">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>2. Aufführung von Vom anderen Ufer, 10.11.1907</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421447/</idno>
               
     
             </event>
@@ -411856,6 +412710,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
+              
     
             </event>
             
@@ -412333,6 +413190,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235107.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66939cac6af2b0e29f5760d4</idno>
+              
     
             </event>
             
@@ -412607,6 +413467,21 @@
           
 
           <listEvent>
+            
+    
+            <event n="Opernaufführung" key="421429" when-iso="1904-12-23">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Aufführung von Tristan und Isolde, 23.12.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421429/</idno>
+              
+    
+            </event>
             
     
             <event n="Theateraufführung" key="46246" when-iso="1906-03-24">
@@ -413468,6 +414343,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb94318.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad4d3ced60fbe1dbd97</idno>
+              
     
             </event>
             
@@ -413855,6 +414733,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209302.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b02d3ced60fbe1e6ab8</idno>
+              
     
             </event>
             
@@ -413914,6 +414795,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209413.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0fd3ced60fbe1e9a26</idno>
               
     
             </event>
@@ -415421,6 +416305,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210145.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66742b76cd334071f7a775a7</idno>
+              
     
             </event>
             
@@ -415459,6 +416346,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
               
     
             </event>
@@ -415971,6 +416861,12 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
+              
     
             </event>
             
@@ -416230,6 +417126,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42232.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666a8f97cd334071f7e42797</idno>
               
     
             </event>
@@ -416604,6 +417503,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
               
     
             </event>
@@ -419190,6 +420092,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209835.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b4fd3ced60fbe1f780c</idno>
               
     
             </event>
@@ -422929,6 +423834,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209599.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667a6995cd334071f7277152</idno>
               
     
             </event>
@@ -430421,6 +431329,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235236.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669154526af2b0e29f2a600e</idno>
+              
     
             </event>
             
@@ -436020,6 +436931,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb207041.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66700ecdcd334071f752d114</idno>
               
     
             </event>
@@ -448156,6 +449070,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
+              
     
             </event>
             
@@ -454331,6 +455248,9 @@
           <persName type="person_namensvariante_nachname">Halban-Kurz</persName>
           
   
+          <persName type="legacy-name-merge">Kurz, Selma</persName>
+          
+  
           <birth>
             
     
@@ -454421,8 +455341,50 @@
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb8382.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406440/</idno>
+          
+  
+          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/personenregister-id-0432.html</idno>
+          
 
           <listEvent>
+            
+    
+            <event n="Konzert" key="410074" when-iso="1900-02-09">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Konzertaufführung im Großen Musikvereinssaal, 9.2.1900</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410074/</idno>
+              
+        
+              <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-001775.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Konzert" key="408670" when-iso="1900-03-09">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Konzertaufführung im Bösendorfer-Saal, 9.3.1900</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/408670/</idno>
+              
+        
+              <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/EA-001792.html</idno>
+              
+    
+            </event>
             
     
             <event n="Opernaufführung" key="209687" when-iso="1913-09-21">
@@ -454483,6 +455445,9 @@
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="28">Brahms Online</bibl>
             
     
             <bibl type="collections" n="83">Conrad Ansorge 1862–1930. Ein Pianist des Fin de siècle</bibl>
@@ -455586,6 +456551,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335166.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e82fcd334071f77870e1</idno>
+              
     
             </event>
             
@@ -455603,6 +456571,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209239.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6673008ecd334071f78f1d93</idno>
               
     
             </event>
@@ -460324,6 +461295,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210428.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66904f406af2b0e29f155e1d</idno>
+              
     
             </event>
             
@@ -461215,6 +462189,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
+              
     
             </event>
             
@@ -461229,6 +462206,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55527/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bbbd3ced60fbe211070</idno>
               
     
             </event>
@@ -461247,6 +462227,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -468562,6 +469545,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
               
     
             </event>
@@ -489148,6 +490134,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
+              
     
             </event>
             
@@ -489725,6 +490714,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186252.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667955b9cd334071f710bfce</idno>
               
     
             </event>
@@ -493213,6 +494205,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb364460.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b53d3ced60fbe1f8955</idno>
+              
     
             </event>
             
@@ -495906,6 +496901,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
               
     
             </event>
@@ -502910,6 +503908,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335166.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e82fcd334071f77870e1</idno>
+              
     
             </event>
             
@@ -508329,6 +509330,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
               
     
             </event>
@@ -514666,6 +515670,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
+              
     
             </event>
             
@@ -515765,6 +516772,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
               
     
             </event>
@@ -519703,6 +520713,9 @@
           <persName type="person_geburtsname_vorname">Peretz</persName>
           
   
+          <persName type="legacy-name-merge">Rotenstern-Swesditsch, Peter</persName>
+          
+  
           <birth>
             
     
@@ -519762,7 +520775,13 @@
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb2992</idno>
           
   
+          <idno type="URL" subtype="dla-marbach">https://www.dla-marbach.de/find/opac/id/PE00081535</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb2992.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/338594/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb2992.html</idno>
@@ -519793,6 +520812,9 @@
           
 
           <listBibl>
+            
+    
+            <bibl type="collections" n="86">Arthur Schnitzler (DLA-Marbach)</bibl>
             
     
             <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
@@ -519984,6 +521006,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209413.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0fd3ced60fbe1e9a26</idno>
               
     
             </event>
@@ -522622,6 +523647,12 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
               
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
+              
     
             </event>
             
@@ -522681,6 +523712,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
               
     
             </event>
@@ -523736,6 +524770,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
               
     
             </event>
@@ -526114,6 +527151,9 @@
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39987/</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b2dd3ced60fbe1f0803</idno>
+              
     
             </event>
             
@@ -526218,6 +527258,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
               
     
             </event>
@@ -527522,6 +528565,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
+              
     
             </event>
             
@@ -527560,6 +528606,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
               
     
             </event>
@@ -528225,13 +529274,16 @@
             </event>
             
     
-            <event n="Theateruraufführung" key="148404" when-iso="1910-09-12">
+            <event n="Konzert" key="148398" when-iso="1910-09-12">
               
         
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Uraufführung 8. Sinfonie, 12.9.1910</label>
+              <label>Uraufführung von 8. Sinfonie, 12.9.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148398/</idno>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148404/</idno>
@@ -528935,6 +529987,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
+              
     
             </event>
             
@@ -528989,6 +530044,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186252.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667955b9cd334071f710bfce</idno>
+              
     
             </event>
             
@@ -529027,6 +530085,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
               
     
             </event>
@@ -534900,6 +535961,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -534917,6 +535981,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
               
     
             </event>
@@ -534972,6 +536039,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335166.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e82fcd334071f77870e1</idno>
+              
     
             </event>
             
@@ -534989,6 +536059,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
               
     
             </event>
@@ -535025,6 +536098,21 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300186.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="421440" when-iso="1904-11-07">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Aufführung von Die Verschwörung des Fiesko zu Genua, 7.11.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421440/</idno>
               
     
             </event>
@@ -535128,6 +536216,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
+              
     
             </event>
             
@@ -535203,6 +536294,9 @@
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55527/</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bbbd3ced60fbe211070</idno>
+              
     
             </event>
             
@@ -535220,6 +536314,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -540011,6 +541108,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
+              
     
             </event>
             
@@ -542477,6 +543577,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
+              
     
             </event>
             
@@ -542513,6 +543616,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335166.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e82fcd334071f77870e1</idno>
+              
     
             </event>
             
@@ -542534,6 +543640,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
+              
     
             </event>
             
@@ -542551,6 +543660,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
               
     
             </event>
@@ -542587,6 +543699,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46933.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6679a234cd334071f717b6b6</idno>
               
     
             </event>
@@ -542928,6 +544043,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
               
     
             </event>
@@ -543755,6 +544873,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238808.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668076a34801253dbd2ffaf8</idno>
+              
     
             </event>
             
@@ -544027,6 +545148,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
               
     
             </event>
@@ -546911,6 +548035,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41441.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66744b1acd334071f7aa4073</idno>
+              
     
             </event>
             
@@ -547258,6 +548385,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
               
     
             </event>
@@ -548138,6 +549268,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186252.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667955b9cd334071f710bfce</idno>
+              
     
             </event>
             
@@ -548374,6 +549507,24 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43911.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Generalprobe" key="47048" when-iso="1910-11-23">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Generalprobe Der junge Medardus, 23.11.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47048/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47048.html</idno>
               
     
             </event>
@@ -549055,6 +550206,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
               
     
             </event>
@@ -549742,6 +550896,9 @@
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186330/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b53d3ced60fbe1f8ace</idno>
               
     
             </event>
@@ -552682,6 +553839,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168382.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61adcd3ced60fbe1dda49</idno>
+              
     
             </event>
             
@@ -552735,6 +553895,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
               
     
             </event>
@@ -552876,6 +554039,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208965.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666edebacd334071f73a76ce</idno>
               
     
             </event>
@@ -553198,6 +554364,9 @@
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/169342/</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61af8d3ced60fbe1e4831</idno>
+              
     
             </event>
             
@@ -553266,6 +554435,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb169424.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theateraufführung" key="419096" when-iso="1903-11-01">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Aufführung von Der Müller und sein Kind, 1.11.1903</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419096/</idno>
               
     
             </event>
@@ -553668,6 +554852,24 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296492.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Generalprobe" key="47048" when-iso="1910-11-23">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Generalprobe Der junge Medardus, 23.11.1910</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47048/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47048.html</idno>
               
     
             </event>
@@ -555529,6 +556731,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42019.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61addd3ced60fbe1de0ca</idno>
               
     
             </event>
@@ -557504,6 +558709,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207362.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665648e04e11902147429ff2</idno>
               
     
             </event>
@@ -560193,6 +561401,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207511.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658d2224e11902147763658</idno>
+              
     
             </event>
             
@@ -560283,6 +561494,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207516.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6658ecc74e11902147787143</idno>
+              
     
             </event>
             
@@ -560300,6 +561514,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207517.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665981f04e1190214783c56e</idno>
               
     
             </event>
@@ -561207,6 +562424,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207567.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a85d3ced60fbe1c90d3</idno>
+              
     
             </event>
             
@@ -561483,6 +562703,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207582.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a00644e119021478dd03c</idno>
+              
     
             </event>
             
@@ -561591,6 +562814,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207588.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a08754e119021478e7af2</idno>
+              
     
             </event>
             
@@ -561650,6 +562876,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207591.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a0b594e119021478eb7c3</idno>
               
     
             </event>
@@ -561740,6 +562969,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207596.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a0ec44e119021478f00a6</idno>
               
     
             </event>
@@ -561902,6 +563134,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207605.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665a17c54e119021478fb7e7</idno>
               
     
             </event>
@@ -563499,6 +564734,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207691.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665b18514e11902147a393b2</idno>
+              
     
             </event>
             
@@ -563624,6 +564862,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207698.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665b1ef54e11902147a41a00</idno>
               
     
             </event>
@@ -563907,6 +565148,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207713.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665b523d4e11902147a83866</idno>
+              
     
             </event>
             
@@ -563925,6 +565169,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207714.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666febc8cd334071f74fb462</idno>
+              
     
             </event>
             
@@ -563942,6 +565189,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207715.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665b55984e11902147a87e9a</idno>
               
     
             </event>
@@ -563978,6 +565228,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207717.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665b58a84e11902147a8bec2</idno>
               
     
             </event>
@@ -564681,6 +565934,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207755.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a8fd3ced60fbe1cb5dd</idno>
+              
     
             </event>
             
@@ -564698,6 +565954,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207756.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665c7da34e11902147bf5861</idno>
               
     
             </event>
@@ -564806,6 +566065,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207762.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665c87c24e11902147c027bd</idno>
               
     
             </event>
@@ -565779,6 +567041,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207815.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665d8aa14e11902147d45c06</idno>
+              
     
             </event>
             
@@ -566246,6 +567511,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207839.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665db48d4e11902147d81171</idno>
               
     
             </event>
@@ -566841,6 +568109,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207871.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665dcee84e11902147da3b23</idno>
+              
     
             </event>
             
@@ -566859,6 +568130,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207872.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665dd1bd4e11902147da77ff</idno>
+              
     
             </event>
             
@@ -566876,6 +568150,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207873.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665dd2344e11902147da8254</idno>
               
     
             </event>
@@ -566912,6 +568189,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207875.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665ddf034e11902147db8dd3</idno>
               
     
             </event>
@@ -566984,6 +568264,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207879.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665de1b74e11902147dbc7a0</idno>
               
     
             </event>
@@ -568143,6 +569426,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207943.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665eee5f4e11902147f0e69d</idno>
+              
     
             </event>
             
@@ -568298,6 +569584,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207951.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/665ef6564e11902147f19530</idno>
               
     
             </event>
@@ -570006,6 +571295,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208039.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66601ba94e1190214708aa67</idno>
+              
     
             </event>
             
@@ -570192,6 +571484,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208049.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66602fa54e119021470a5add</idno>
+              
     
             </event>
             
@@ -570281,6 +571576,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208054.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666031cc4e119021470a8b8f</idno>
               
     
             </event>
@@ -570374,6 +571672,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208059.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a9fd3ced60fbe1cf48c</idno>
               
     
             </event>
@@ -571329,6 +572630,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208112.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aa2d3ced60fbe1cff7c</idno>
+              
     
             </event>
             
@@ -571905,6 +573209,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208144.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666182d04e1190214724af30</idno>
+              
     
             </event>
             
@@ -571922,6 +573229,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208145.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6661838b4e1190214724bfd7</idno>
               
     
             </event>
@@ -571941,6 +573251,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208146.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666185e04e1190214724f0d1</idno>
+              
     
             </event>
             
@@ -571958,6 +573271,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208147.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666186c44e1190214725043e</idno>
               
     
             </event>
@@ -571994,6 +573310,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208149.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666189844e11902147253fbc</idno>
               
     
             </event>
@@ -572121,6 +573440,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208156.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66618caf4e11902147258cc3</idno>
+              
     
             </event>
             
@@ -572174,6 +573496,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208159.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aa6d3ced60fbe1d0e0d</idno>
               
     
             </event>
@@ -572247,6 +573572,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208163.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6661fb5dcd334071f73855e5</idno>
+              
     
             </event>
             
@@ -572318,6 +573646,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208167.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666313a5cd334071f74e41a7</idno>
               
     
             </event>
@@ -572498,6 +573829,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208177.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66635513cd334071f7534173</idno>
               
     
             </event>
@@ -572876,6 +574210,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208196.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6662d56ecd334071f74941ef</idno>
               
     
             </event>
@@ -573272,6 +574609,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208217.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6662da86cd334071f749b5d3</idno>
               
     
             </event>
@@ -574335,6 +575675,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208273.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6661cd8a4e119021472b0a8e</idno>
+              
     
             </event>
             
@@ -574370,6 +575713,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208275.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6662a1a7cd334071f744dbb1</idno>
               
     
             </event>
@@ -574514,6 +575860,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208283.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6663fa16cd334071f75fd1b6</idno>
               
     
             </event>
@@ -574913,6 +576262,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208304.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6662e4c9cd334071f74a97f3</idno>
               
     
             </event>
@@ -575454,6 +576806,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63085.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aafd3ced60fbe1d2ce2</idno>
+              
     
             </event>
             
@@ -575507,6 +576862,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208335.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66646a88cd334071f76883aa</idno>
               
     
             </event>
@@ -575891,6 +577249,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208354.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6665d774cd334071f7845aae</idno>
               
     
             </event>
@@ -577236,6 +578597,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208419.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61abad3ced60fbe1d58c5</idno>
+              
     
             </event>
             
@@ -577488,6 +578852,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208433.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6666c754cd334071f7973c7f</idno>
+              
     
             </event>
             
@@ -577541,6 +578908,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208436.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6666c89ccd334071f797589c</idno>
               
     
             </event>
@@ -577632,6 +579002,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208440.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6666e6a4cd334071f799f2fb</idno>
+              
     
             </event>
             
@@ -577670,6 +579043,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88363.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6666e786cd334071f79a060f</idno>
               
     
             </event>
@@ -577764,6 +579140,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208445.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61abcd3ced60fbe1d5e11</idno>
+              
     
             </event>
             
@@ -577835,6 +579214,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208449.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6666f4e6cd334071f79b23de</idno>
               
     
             </event>
@@ -578286,6 +579668,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208472.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6666c1b3cd334071f796c3cc</idno>
+              
     
             </event>
             
@@ -578717,6 +580102,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208484.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6666e165cd334071f799703d</idno>
               
     
             </event>
@@ -579260,6 +580648,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208502.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ac3d3ced60fbe1d7a81</idno>
               
     
             </event>
@@ -579938,6 +581329,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48776.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ac6d3ced60fbe1d87aa</idno>
               
     
             </event>
@@ -581598,6 +582992,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405512.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66683f1fcd334071f7b571be</idno>
+              
     
             </event>
             
@@ -581964,6 +583361,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208600.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6667f21bcd334071f7af291b</idno>
+              
     
             </event>
             
@@ -582258,6 +583658,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208611.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61acad3ced60fbe1d99f1</idno>
+              
     
             </event>
             
@@ -582383,6 +583786,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208615.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61acdd3ced60fbe1da4ec</idno>
               
     
             </event>
@@ -583041,6 +584447,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208628.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad0d3ced60fbe1dafd4</idno>
+              
     
             </event>
             
@@ -583563,6 +584972,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208639.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad0d3ced60fbe1daeb4</idno>
+              
     
             </event>
             
@@ -583598,6 +585010,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208640.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66698798cd334071f7cf2b34</idno>
               
     
             </event>
@@ -583877,6 +585292,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208649.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad3d3ced60fbe1dba69</idno>
               
     
             </event>
@@ -584453,6 +585871,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208667.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad3d3ced60fbe1db981</idno>
               
     
             </event>
@@ -585354,6 +586775,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb94322.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6669e283cd334071f7d6dc8c</idno>
+              
     
             </event>
             
@@ -585836,6 +587260,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208706.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666a0919cd334071f7d9f8ca</idno>
               
     
             </event>
@@ -586359,6 +587786,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208722.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dcfd6</idno>
+              
     
             </event>
             
@@ -586469,6 +587899,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208727.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ac11fcd334071f7e837d1</idno>
               
     
             </event>
@@ -586599,6 +588032,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208731.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ad3fdcd334071f7e9b87e</idno>
+              
     
             </event>
             
@@ -586634,6 +588070,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208733.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dceba</idno>
               
     
             </event>
@@ -586748,6 +588187,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42318.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ad68bcd334071f7e9efe2</idno>
               
     
             </event>
@@ -586953,6 +588395,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208739.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad7d3ced60fbe1dc811</idno>
+              
     
             </event>
             
@@ -587063,6 +588508,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42232.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666a8f97cd334071f7e42797</idno>
               
     
             </event>
@@ -587950,6 +589398,9 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb48875.html</idno>
               
         
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666afa00cd334071f7eccbfc</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48875.html</idno>
               
     
@@ -588081,6 +589532,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208781.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666aedf7cd334071f7ebcc31</idno>
+              
     
             </event>
             
@@ -588155,6 +589609,12 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
               
     
             </event>
@@ -588308,6 +589768,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208783.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666af9f9cd334071f7eccb7c</idno>
               
     
             </event>
@@ -589038,6 +590501,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208811.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666b61eacd334071f7f51ac0</idno>
+              
     
             </event>
             
@@ -589452,6 +590918,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168382.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61adcd3ced60fbe1dda49</idno>
+              
     
             </event>
             
@@ -589577,6 +591046,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208829.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666c1719cd334071f70319bd</idno>
               
     
             </event>
@@ -589794,6 +591266,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208837.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666b1820cd334071f7ef3fb5</idno>
+              
     
             </event>
             
@@ -589829,6 +591304,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208839.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61adcd3ced60fbe1ddd11</idno>
               
     
             </event>
@@ -590016,6 +591494,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208848.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666c3e42cd334071f7063b39</idno>
+              
     
             </event>
             
@@ -590088,6 +591569,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208849.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666c8812cd334071f70c0a5c</idno>
+              
     
             </event>
             
@@ -590123,6 +591607,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208850.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666c8a0dcd334071f70c31d9</idno>
               
     
             </event>
@@ -590388,6 +591875,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42019.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61addd3ced60fbe1de0ca</idno>
+              
     
             </event>
             
@@ -590495,6 +591985,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208857.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61addd3ced60fbe1de1e7</idno>
               
     
             </event>
@@ -591042,6 +592535,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb168841.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666d3e7ccd334071f71a3632</idno>
+              
     
             </event>
             
@@ -591239,6 +592735,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208885.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61adfd3ced60fbe1de841</idno>
               
     
             </event>
@@ -591441,6 +592940,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208893.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666dcd3fcd334071f7255e5b</idno>
+              
     
             </event>
             
@@ -591515,6 +593017,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208895.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61adfd3ced60fbe1de9c4</idno>
               
     
             </event>
@@ -591846,6 +593351,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208909.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae1d3ced60fbe1defca</idno>
+              
     
             </event>
             
@@ -592058,6 +593566,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208915.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae1d3ced60fbe1df0c7</idno>
               
     
             </event>
@@ -593481,6 +594992,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208964.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ede5ecd334071f73a6d77</idno>
+              
     
             </event>
             
@@ -593501,6 +595015,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208965.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666edebacd334071f73a76ce</idno>
               
     
             </event>
@@ -593615,6 +595132,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208970.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61adfd3ced60fbe1deb5c</idno>
               
     
             </event>
@@ -593757,6 +595277,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200418.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae0d3ced60fbe1dec97</idno>
+              
     
             </event>
             
@@ -593831,6 +595354,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208978.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ee571cd334071f73b1496</idno>
               
     
             </event>
@@ -594615,6 +596141,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208998.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666f3062cd334071f741098b</idno>
+              
     
             </event>
             
@@ -594743,6 +596272,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200663.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666fd3f2cd334071f74db3c9</idno>
               
     
             </event>
@@ -594891,6 +596423,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42807.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666f3601cd334071f7418755</idno>
+              
     
             </event>
             
@@ -594966,6 +596501,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209007.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae2d3ced60fbe1df306</idno>
+              
     
             </event>
             
@@ -594983,6 +596521,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209008.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae2d3ced60fbe1df423</idno>
               
     
             </event>
@@ -595074,6 +596615,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209011.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666bf28acd334071f7002ed2</idno>
+              
     
             </event>
             
@@ -595163,6 +596707,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209016.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666c13d3cd334071f702cfe2</idno>
               
     
             </event>
@@ -595800,6 +597347,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209025.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666fe5b4cd334071f74f2a3e</idno>
+              
     
             </event>
             
@@ -595818,6 +597368,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb169107.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666fe671cd334071f74f3acf</idno>
+              
     
             </event>
             
@@ -595835,6 +597388,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209026.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66700d6ccd334071f752b24d</idno>
               
     
             </event>
@@ -596112,6 +597668,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209035.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ffd5dcd334071f75146ec</idno>
+              
     
             </event>
             
@@ -596201,6 +597760,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209037.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae4d3ced60fbe1dfc64</idno>
               
     
             </event>
@@ -596330,6 +597892,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209041.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1e0100</idno>
               
     
             </event>
@@ -596682,6 +598247,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35385.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfe8c</idno>
+              
     
             </event>
             
@@ -596792,6 +598360,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209050.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dff76</idno>
               
     
             </event>
@@ -596904,6 +598475,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209054.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ff5aecd334071f7509c74</idno>
+              
     
             </event>
             
@@ -597003,6 +598577,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209056.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ff9b8cd334071f750f510</idno>
+              
     
             </event>
             
@@ -597074,6 +598651,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209058.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae5d3ced60fbe1dfd3a</idno>
               
     
             </event>
@@ -597182,6 +598762,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209062.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae7d3ced60fbe1e066b</idno>
               
     
             </event>
@@ -597570,6 +599153,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209067.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66701a78cd334071f753d416</idno>
+              
     
             </event>
             
@@ -597696,6 +599282,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209072.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66701d4dcd334071f7541161</idno>
+              
     
             </event>
             
@@ -597771,6 +599360,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209075.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666febf6cd334071f74fb8e9</idno>
+              
     
             </event>
             
@@ -597788,6 +599380,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209076.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666fee78cd334071f74ff3cb</idno>
               
     
             </event>
@@ -598112,6 +599707,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb207041.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66700ecdcd334071f752d114</idno>
               
     
             </event>
@@ -598887,6 +600485,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209108.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae9d3ced60fbe1e0f92</idno>
+              
     
             </event>
             
@@ -598904,6 +600505,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb140844.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671e641cd334071f77848f7</idno>
               
     
             </event>
@@ -598976,6 +600580,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209110.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66708afacd334071f75d04ab</idno>
               
     
             </event>
@@ -599166,6 +600773,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
+              
     
             </event>
             
@@ -599259,6 +600869,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141417.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1339</idno>
+              
     
             </event>
             
@@ -599297,6 +600910,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43208.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66718b72cd334071f7711825</idno>
               
     
             </event>
@@ -599462,6 +601078,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209126.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aebd3ced60fbe1e160e</idno>
               
     
             </event>
@@ -599724,6 +601343,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209138.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671cf55cd334071f776759a</idno>
+              
     
             </event>
             
@@ -599849,6 +601471,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209144.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6671ee14cd334071f778ead5</idno>
               
     
             </event>
@@ -601094,6 +602719,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209184.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672c764cd334071f78a034b</idno>
               
     
             </event>
@@ -603090,6 +604718,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209239.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6673008ecd334071f78f1d93</idno>
+              
     
             </event>
             
@@ -603197,6 +604828,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209245.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667303eecd334071f78f6a0f</idno>
               
     
             </event>
@@ -603420,6 +605054,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209253.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6672fb35cd334071f78ea947</idno>
+              
     
             </event>
             
@@ -603569,6 +605206,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209257.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66730c7acd334071f7902382</idno>
               
     
             </event>
@@ -603755,6 +605395,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50882.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66731f20cd334071f791c85b</idno>
               
     
             </event>
@@ -604064,6 +605707,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41434.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61afdd3ced60fbe1e5819</idno>
               
     
             </event>
@@ -605622,6 +607268,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209302.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b02d3ced60fbe1e6ab8</idno>
+              
     
             </event>
             
@@ -607092,6 +608741,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209332.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66742366cd334071f7a6c65b</idno>
+              
     
             </event>
             
@@ -607319,6 +608971,9 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41441.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66744b1acd334071f7aa4073</idno>
               
     
             </event>
@@ -609294,6 +610949,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
+              
     
             </event>
             
@@ -609354,6 +611012,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209384.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667546a7cd334071f7be278f</idno>
+              
     
             </event>
             
@@ -609371,6 +611032,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209385.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6675477fcd334071f7be40b5</idno>
               
     
             </event>
@@ -610305,6 +611969,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209413.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0fd3ced60fbe1e9a26</idno>
+              
     
             </event>
             
@@ -610976,6 +612643,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209428.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667567b7cd334071f7c1106f</idno>
               
     
             </event>
@@ -611723,6 +613393,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209447.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6675d009cd334071f7c9cdc7</idno>
               
     
             </event>
@@ -613458,6 +615131,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb246580.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667722c5cd334071f7e47bd5</idno>
+              
     
             </event>
             
@@ -613928,6 +615604,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209491.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6677581ccd334071f7e8da03</idno>
               
     
             </event>
@@ -615356,6 +617035,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209521.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66783e7dcd334071f7fac554</idno>
               
     
             </event>
@@ -617016,6 +618698,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209561.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66793315cd334071f70dcd38</idno>
+              
     
             </event>
             
@@ -617253,6 +618938,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb186252.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667955b9cd334071f710bfce</idno>
+              
     
             </event>
             
@@ -617471,6 +619159,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209574.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66795ce3cd334071f7115d58</idno>
               
     
             </event>
@@ -618678,6 +620369,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb249912.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667992bdcd334071f7163ad9</idno>
+              
     
             </event>
             
@@ -619058,6 +620752,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb250365.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66799ed5cd334071f717670f</idno>
               
     
             </event>
@@ -620423,6 +622120,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209599.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667a6995cd334071f7277152</idno>
               
     
             </event>
@@ -623679,6 +625379,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238586.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667b308ccd334071f73898a5</idno>
+              
     
             </event>
             
@@ -625914,6 +627617,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
+              
     
             </event>
             
@@ -627503,6 +629209,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209743.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667c8b01cd334071f7556d46</idno>
               
     
             </event>
@@ -631067,6 +632776,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209835.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b4fd3ced60fbe1f780c</idno>
               
     
             </event>
@@ -640950,6 +642662,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238808.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668076a34801253dbd2ffaf8</idno>
+              
     
             </event>
             
@@ -643041,6 +644756,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210137.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b6fd3ced60fbe1ff5b6</idno>
+              
     
             </event>
             
@@ -643332,6 +645050,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210145.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66742b76cd334071f7a775a7</idno>
+              
     
             </event>
             
@@ -643439,6 +645160,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb268144.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b71d3ced60fbe1ffd42</idno>
               
     
             </event>
@@ -644351,6 +646075,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238822.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66845c754801253dbd7e34c1</idno>
               
     
             </event>
@@ -646478,6 +648205,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210225.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66ab6d1b6af2b0e29f408f2d</idno>
               
     
             </event>
@@ -649914,6 +651644,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210294.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b8fd3ced60fbe207436</idno>
+              
     
             </event>
             
@@ -650201,6 +651934,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210299.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668e8e8f6af2b0e29ff0d891</idno>
               
     
             </event>
@@ -651162,6 +652898,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
+              
     
             </event>
             
@@ -651215,6 +652954,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb264147.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/667a8f3acd334071f72ac243</idno>
               
     
             </event>
@@ -651617,6 +653359,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210316.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668e5ee06af2b0e29fecb43d</idno>
               
     
             </event>
@@ -653364,6 +655109,9 @@
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
+              
     
             </event>
             
@@ -653489,6 +655237,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210347.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6683dc5e4801253dbd73f0b3</idno>
               
     
             </event>
@@ -654212,6 +655963,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210357.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9ed3ced60fbe20a8cd</idno>
               
     
             </event>
@@ -657840,6 +659594,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210406.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fbeda6af2b0e29f095c66</idno>
+              
     
             </event>
             
@@ -657965,6 +659722,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb247220.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61bb2d3ced60fbe20f0ce</idno>
               
     
             </event>
@@ -659232,6 +660992,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238893.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/668fadb26af2b0e29f07b35f</idno>
+              
     
             </event>
             
@@ -659826,6 +661589,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210428.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66904f406af2b0e29f155e1d</idno>
+              
     
             </event>
             
@@ -660185,6 +661951,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb55542.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6690f5336af2b0e29f225597</idno>
               
     
             </event>
@@ -660960,6 +662729,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb210448.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669233476af2b0e29f3b503a</idno>
+              
     
             </event>
             
@@ -661356,6 +663128,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb232739.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66917e666af2b0e29f2dc379</idno>
+              
     
             </event>
             
@@ -661607,6 +663382,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb233025.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669280b66af2b0e29f419762</idno>
               
     
             </event>
@@ -662256,6 +664034,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235107.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66939cac6af2b0e29f5760d4</idno>
+              
     
             </event>
             
@@ -662561,6 +664342,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235236.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669154526af2b0e29f2a600e</idno>
               
     
             </event>
@@ -662903,6 +664687,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb235822.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6693bd1e6af2b0e29f5a7068</idno>
               
     
             </event>
@@ -663623,6 +665410,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb236117.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6693f4656af2b0e29f5f2798</idno>
               
     
             </event>
@@ -665970,6 +667760,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb237975.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669524526af2b0e29f773834</idno>
+              
     
             </event>
             
@@ -667521,6 +669314,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244486.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66961ddd6af2b0e29f8b2927</idno>
+              
     
             </event>
             
@@ -668115,6 +669911,9 @@
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244669.html</idno>
               
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6696463c6af2b0e29f8eaf3e</idno>
+              
     
             </event>
             
@@ -668204,6 +670003,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244681.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/669551ca6af2b0e29f7b4981</idno>
               
     
             </event>
@@ -669617,6 +671419,9 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb238988.html</idno>
+              
+        
+              <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66976f6c6af2b0e29fa681c2</idno>
               
     
             </event>

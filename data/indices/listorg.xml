@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-10-21">serialized</change>
+      <change when-iso="2026-10-23">serialized</change>
       
        
     </revisionDesc>
@@ -17539,6 +17539,9 @@
   
             <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/organisations/org.265</note>
             
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407180/</note>
+            
 
           </location>
           
@@ -19416,6 +19419,9 @@
             <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.7</note>
             
   
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406456/</note>
+            
+  
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb58.html</note>
             
 
@@ -21261,6 +21267,9 @@
             
   
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb91.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407212/</note>
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb91.html</note>

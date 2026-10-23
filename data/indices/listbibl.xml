@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-10-21">serialized</change>
+      <change when-iso="2026-10-23">serialized</change>
       
        
     </revisionDesc>
@@ -60,6 +60,22 @@
       
            
       <listBibl>
+        <bibl xml:id="pmb420889">
+          
+  
+          <title type="main">Liebelei</title>
+          
+  
+          <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420889/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_071f0b4a8a</idno>
+          
+
+        </bibl>
         <bibl xml:id="pmb353201">
           
   
@@ -444,6 +460,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294463.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0cd2120cca</idno>
           
 
           <note type="collections">
@@ -1373,6 +1392,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb257475.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f94c471bc9</idno>
           
 
           <note type="collections">
@@ -2637,6 +2659,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb234480.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_cb29354568</idno>
+          
 
           <note type="collections">
             
@@ -2667,6 +2692,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb232694.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_92bee5ca0d</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_aa012f0659</idno>
           
 
           <note type="collections">
@@ -6337,6 +6368,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195828.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d24a8649ca</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195827">
@@ -6613,6 +6647,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195795.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3e4b972317</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195794">
@@ -6656,6 +6693,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195793.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_874472efeb</idno>
           
 
         </bibl>
@@ -6789,6 +6829,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195779.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6496491c48</idno>
           
 
           <note type="collections">
@@ -7155,6 +7198,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195763.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b31ad28cb5</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -7434,6 +7480,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195741.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2171a03c8a</idno>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -7508,6 +7557,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195732.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_511ec5c129</idno>
           
 
         </bibl>
@@ -7938,6 +7990,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195708.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ce10b11319</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb195708.html</idno>
           
 
@@ -8074,6 +8129,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195701.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_dad9099954</idno>
           
 
           <note type="collections">
@@ -8899,6 +8957,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195648.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_92b3e5f3a5</idno>
+          
 
           <note type="collections">
             
@@ -8945,6 +9006,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195639.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_7cb1e72700</idno>
           
 
         </bibl>
@@ -9191,6 +9255,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195626.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_7754d5c3e7</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195624">
@@ -9391,6 +9458,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195613.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_73509461ca</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195612">
@@ -9425,6 +9495,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195611.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_df2fe7bbbe</idno>
           
 
           <note type="collections">
@@ -9607,6 +9680,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195593.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c474cc0ab7</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb195593.html</idno>
           
 
@@ -9624,6 +9700,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195592.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_134c5f3cd0</idno>
           
 
           <note type="collections">
@@ -9652,6 +9731,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195591.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f1c85a41fe</idno>
           
 
         </bibl>
@@ -9685,6 +9767,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195589.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_06c50ce07d</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195587">
@@ -9716,6 +9801,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195586.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_785bb8618d</idno>
           
 
         </bibl>
@@ -9889,6 +9977,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195575.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_dbe5dbfb79</idno>
+          
 
           <note type="collections">
             
@@ -10019,6 +10110,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195568.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8812ee92df</idno>
+          
 
           <note type="collections">
             
@@ -10068,6 +10162,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195566.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_91632b6772</idno>
           
 
         </bibl>
@@ -10365,6 +10462,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195546.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_718457eef4</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195545">
@@ -10646,6 +10746,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195533.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_7f9b6d6d36</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195532">
@@ -10661,6 +10764,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195532.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6e1684bff2</idno>
           
 
         </bibl>
@@ -10699,6 +10805,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195528.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_94ee1650cf</idno>
           
 
         </bibl>
@@ -10787,6 +10896,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195522.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_14513dc919</idno>
           
 
         </bibl>
@@ -10975,6 +11087,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195508.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_142f20c9d5</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195506">
@@ -11007,6 +11122,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195503.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9c34db41e0</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195502">
@@ -11025,6 +11143,9 @@
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q111802880</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6ac2fb1f7a</idno>
           
 
           <note type="collections">
@@ -11128,6 +11249,9 @@
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079994</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ab787e5931</idno>
+          
 
           <note type="collections">
             
@@ -11227,6 +11351,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195493.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_998df435be</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb195492">
@@ -11270,6 +11397,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195491.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_01655ade7b</idno>
           
 
         </bibl>
@@ -11533,6 +11663,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195471.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ba9770cec0</idno>
           
 
           <note type="collections">
@@ -13142,6 +13275,12 @@
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11394901</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e527c44459</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9c61759acb</idno>
+          
 
           <note type="collections">
             
@@ -13187,6 +13326,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195345.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ad607632ba</idno>
           
 
           <note type="collections">
@@ -13510,6 +13652,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185832.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5bc93618e2</idno>
+          
 
           <note type="collections">
             
@@ -13574,6 +13719,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185814.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f241c01384</idno>
           
 
           <note type="collections">
@@ -13719,6 +13867,12 @@
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10862001</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d10b0268a8</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_38a3677a2b</idno>
           
 
           <note type="collections">
@@ -14075,6 +14229,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb169122.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5df2a76b10</idno>
+          
 
           <note type="collections">
             
@@ -14133,6 +14290,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb169102.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_612233d88e</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb169102.html</idno>
@@ -14309,6 +14469,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb165130.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ff9b21d6e9</idno>
           
 
           <note type="collections">
@@ -14511,6 +14674,9 @@
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Das_Glas_Wasser</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_91034f4ffb</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb164820">
@@ -14554,6 +14720,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79614.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ec3e33ca19</idno>
+          
 
           <note type="collections">
             
@@ -14587,6 +14756,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb164557.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_56042a407f</idno>
           
 
         </bibl>
@@ -14772,6 +14944,9 @@
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Das_K%C3%A4thchen_von_Heilbronn</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_038a58be76</idno>
           
 
           <note type="collections">
@@ -15050,6 +15225,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb163219.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5a7ab4590d</idno>
           
 
         </bibl>
@@ -15790,6 +15968,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143236.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4a3f93ebdf</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143236.html</idno>
@@ -17363,6 +17544,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb92955.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_df96890227</idno>
+          
+  
           <note type="work_kind">Einakter</note>
           
 
@@ -18086,6 +18270,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81537.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_51d39e9ce0</idno>
           
 
           <note type="collections">
@@ -18989,6 +19176,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81505.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4860386ab5</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -19662,6 +19852,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81485.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e161f605a7</idno>
           
   
           <note type="work_kind">Schwank</note>
@@ -20574,6 +20767,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81444.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_bad5bf38d3</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -21590,6 +21786,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81397.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_da6a02b9b8</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -23549,6 +23748,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81311.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_746a29b5a6</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb81308">
@@ -24916,6 +25118,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81251.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5e3b5067cb</idno>
           
 
           <note type="collections">
@@ -29504,6 +29709,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81055.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0e16708b13</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -30696,6 +30904,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81022.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e568d9c442</idno>
           
 
         </bibl>
@@ -32118,6 +32329,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80940.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_017f341a74</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
   
@@ -32617,6 +32831,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80930.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_7a605097f2</idno>
           
 
           <note type="collections">
@@ -33184,6 +33401,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80916.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_311891b63c</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -35324,6 +35544,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80821.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_7d9ca34e6b</idno>
           
   
           <note type="work_kind">Schwank</note>
@@ -38143,6 +38366,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80667.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b4128abab6</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb80665">
@@ -38773,6 +38999,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80638.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_86e1791635</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -38802,6 +39031,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/329209/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_13d1f788e7</idno>
           
 
           <note type="collections">
@@ -39185,6 +39417,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80614.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ef4a669620</idno>
+          
 
           <note type="collections">
             
@@ -39267,6 +39502,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80611.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3ad2605f06</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -39413,6 +39651,9 @@
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb80603</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a9fd060694</idno>
           
 
           <note type="collections">
@@ -41271,6 +41512,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80521.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_674388fc4d</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -41291,6 +41535,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80520.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_54da9ba1ab</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -41461,6 +41708,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80515.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2edede6edb</idno>
           
 
           <note type="collections">
@@ -43845,6 +44095,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80434.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_1b796878bc</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -45590,6 +45843,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80387.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a519c6f4ef</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb80387.html</idno>
           
 
@@ -45873,6 +46129,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80377.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d25cbf5e52</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -45924,6 +46183,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80371.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_418c2ab3c3</idno>
           
 
           <note type="collections">
@@ -45980,6 +46242,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80368.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fad5d9e102</idno>
           
 
           <note type="collections">
@@ -47406,6 +47671,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80318.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2c99de17b0</idno>
           
 
           <note type="collections">
@@ -48922,6 +49190,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80247.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_09e8e80393</idno>
           
   
           <note type="work_kind">Oper</note>
@@ -51495,6 +51766,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80156.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4bfce30c7e</idno>
+          
 
           <note type="collections">
             
@@ -52713,6 +52987,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80087.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6880d1b54a</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -53056,6 +53333,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80030.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_678502d5b3</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -53260,6 +53540,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79606.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f07897043f</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -53480,6 +53763,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79470.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8021766d90</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -53509,6 +53795,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79459.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_1203e7d2a8</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -53608,6 +53897,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79328.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_005f9287d6</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -53628,6 +53920,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79321.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_210d5bef2d</idno>
           
 
           <note type="collections">
@@ -53662,6 +53957,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79299.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_70f5e58cb3</idno>
           
   
           <note type="work_kind">Einakter</note>
@@ -53891,6 +54189,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79235.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_dca786cb84</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb79218">
@@ -53997,6 +54298,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79150.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ca2f5fb3f5</idno>
+          
 
           <note type="collections">
             
@@ -54046,6 +54350,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79026.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b1e385cce0</idno>
           
 
         </bibl>
@@ -54252,6 +54559,9 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78928.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2a4b0a38b4</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -54419,6 +54729,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78885.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8fe8e46571</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -54492,6 +54805,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78854.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ba4040b865</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -54586,6 +54902,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78795.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c09a9455e9</idno>
           
 
           <note type="collections">
@@ -55821,6 +56140,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78422.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_36402f9764</idno>
+          
 
           <note type="collections">
             
@@ -55960,6 +56282,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78370.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_450dd9858b</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -56275,6 +56600,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78341.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6135e42e65</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -56532,6 +56860,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78261.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8ff42384ab</idno>
+          
 
           <note type="collections">
             
@@ -56562,6 +56893,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78260.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_29afec1472</idno>
           
 
         </bibl>
@@ -57227,6 +57561,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78078.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_19bd4a1dc9</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb78056">
@@ -57286,6 +57623,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78019.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5fe6d8e1c8</idno>
           
   
           <note type="work_kind">Erzählung</note>
@@ -57676,6 +58016,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77999.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0810c6db79</idno>
+          
 
           <note type="collections">
             
@@ -57713,6 +58056,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77998.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ca25c55e35</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb77997">
@@ -57738,6 +58084,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77997.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_103b1a823f</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb77996">
@@ -57756,6 +58105,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77996.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c783825956</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -57778,6 +58130,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77994.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fcb11202d3</idno>
           
 
           <note type="collections">
@@ -57816,6 +58171,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77993.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f421ae4fd1</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb77992">
@@ -57834,6 +58192,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77992.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b87ebafa6b</idno>
           
 
           <note type="collections">
@@ -57888,6 +58249,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77988.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_38b148801a</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb77987">
@@ -57906,6 +58270,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77987.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0113027513</idno>
           
 
         </bibl>
@@ -57992,6 +58359,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77983.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_52f79e063c</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb77982">
@@ -58066,6 +58436,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77979.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_db51a1f6c0</idno>
           
 
           <note type="collections">
@@ -58403,6 +58776,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77945.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b84b3bc9ab</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -58919,6 +59295,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77877.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e529a6e760</idno>
+          
 
           <note type="collections">
             
@@ -58949,6 +59328,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77876.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_43901b2edf</idno>
           
 
           <note type="collections">
@@ -58982,6 +59364,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77875.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_344e937f36</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -59010,6 +59395,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77874.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_152e0f1c83</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -59030,6 +59418,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77851.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_42b462d4cb</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -59454,6 +59845,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77828.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_20bd3bdb7d</idno>
+          
 
           <note type="collections">
             
@@ -59687,6 +60081,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77800.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c22d837e86</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -60984,6 +61381,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77596.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3c30acbe63</idno>
+          
 
           <note type="collections">
             
@@ -61019,6 +61419,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77595.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2bc06846e0</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77595.html</idno>
           
   
@@ -61042,6 +61445,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77593.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8a41120d6f</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -61183,6 +61589,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77577.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_30fa62d669</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -61770,6 +62179,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9937851</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_1bb51acf8c</idno>
+          
 
           <note type="collections">
             
@@ -61963,6 +62375,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77531.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d4c7db36d4</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
   
@@ -62009,6 +62424,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77529.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_904790a91b</idno>
+          
 
           <note type="collections">
             
@@ -62039,6 +62457,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77527.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d5a993a064</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -62151,6 +62572,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77517.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_21401f4813</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -62290,6 +62714,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77511.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_756d79bbf7</idno>
           
 
           <note type="collections">
@@ -62517,6 +62944,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77487.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d596d9b756</idno>
+          
 
           <note type="collections">
             
@@ -62566,6 +62996,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77484.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_edd421ced0</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -62708,6 +63141,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77468.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e8e5c897f3</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -62780,6 +63216,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77459.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8d3efcc827</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -62800,6 +63239,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77458.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ab849102b3</idno>
           
 
           <note type="collections">
@@ -62831,6 +63273,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77456.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_934fbb96d6</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -62884,6 +63329,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77452.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_18ad79924e</idno>
           
 
         </bibl>
@@ -63035,6 +63483,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77437.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_79cc8990a8</idno>
+          
+  
           <note type="references">None </note>
           
 
@@ -63057,6 +63508,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77435.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5077ddd249</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -63077,6 +63531,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77434.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_7541ce10d6</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -63206,6 +63663,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10834951</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4209a1c0a3</idno>
+          
 
           <note type="collections">
             
@@ -63242,6 +63702,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77428.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d76041cabc</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -63298,6 +63761,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77424.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4541c8d5cc</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -63654,6 +64120,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77408.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fbdf56bc7e</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77408.html</idno>
           
 
@@ -63704,6 +64173,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77407.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_69c8b25727</idno>
           
 
           <note type="collections">
@@ -63885,6 +64357,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4179881</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3a43c93d5d</idno>
+          
 
           <note type="collections">
             
@@ -63923,6 +64398,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77381.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e7def42a34</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -63943,6 +64421,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77380.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_337b22f4a6</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -64246,6 +64727,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77357.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_495fb81114</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77357.html</idno>
           
 
@@ -64343,6 +64827,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77344.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d2f4073da1</idno>
           
 
           <note type="collections">
@@ -64675,6 +65162,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77338.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8d5b974891</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -64695,6 +65185,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77336.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c60bd172c4</idno>
           
 
         </bibl>
@@ -64775,6 +65268,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77332.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2d93f16011</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77332.html</idno>
           
   
@@ -64798,6 +65294,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77331.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_247ca5a6e5</idno>
           
 
         </bibl>
@@ -65028,6 +65527,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77323.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_dd1093283f</idno>
+          
+  
           <note type="work_kind">Film</note>
           
 
@@ -65095,6 +65597,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77318.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0f5a974174</idno>
+          
 
           <note type="collections">
             
@@ -65143,6 +65648,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77316.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f2f345e996</idno>
           
 
           <note type="collections">
@@ -65223,6 +65731,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77301.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d4bf558a57</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -65246,6 +65757,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77270.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b459f2461d</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -65530,6 +66044,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77231.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_86ff27993a</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -65839,6 +66356,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77137.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_80e3dd4d05</idno>
           
 
           <note type="collections">
@@ -66246,6 +66766,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10849351</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9759cd1886</idno>
+          
 
           <note type="collections">
             
@@ -66279,6 +66802,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77109.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8d1e67e6ee</idno>
           
 
           <note type="collections">
@@ -66332,6 +66858,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77105.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_df98c6047f</idno>
           
 
           <note type="collections">
@@ -66423,6 +66952,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb77100</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_79c4b297bb</idno>
+          
 
           <note type="collections">
             
@@ -66487,6 +67019,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77095.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_77277e0420</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -66566,6 +67101,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77092.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6d723c9c1d</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77092.html</idno>
           
   
@@ -66592,6 +67130,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77091.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_34e6e46a0d</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -66722,6 +67263,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77076.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4ee669027b</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -66764,6 +67308,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb77072</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_419607a11a</idno>
           
 
           <note type="collections">
@@ -66880,6 +67427,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77058.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ebfee09283</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -67161,6 +67711,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10986903</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_69fe99357e</idno>
           
 
           <note type="collections">
@@ -67546,6 +68099,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164127</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_951ddb8817</idno>
+          
 
           <note type="collections">
             
@@ -67603,6 +68159,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76998.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b5a070a141</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -67654,6 +68213,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Weh_dem,_der_l%C3%BCgt!</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_df24bb4f83</idno>
           
 
           <note type="collections">
@@ -67712,6 +68274,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10832453</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_bc22f0e75d</idno>
           
 
           <note type="collections">
@@ -67774,6 +68339,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_Traum_ein_Leben</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_48f3d1f249</idno>
+          
 
           <note type="collections">
             
@@ -67819,6 +68387,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164172</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f2f132ec36</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76985.html</idno>
@@ -67931,6 +68502,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76982.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_210aeee406</idno>
+          
 
           <note type="collections">
             
@@ -67967,6 +68541,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q51506918</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d18a5c5293</idno>
           
 
           <note type="collections">
@@ -68193,6 +68770,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76928.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_dc71cea94e</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb76926">
@@ -68317,6 +68897,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76914.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fa899a026f</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb76913">
@@ -68395,6 +68978,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76902.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_30fdd2809d</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb76891">
@@ -68437,6 +69023,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76888.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a77e3a29f5</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -68465,6 +69054,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76887.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b6accc8e4b</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -68488,6 +69080,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb76884</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0c5dfe0451</idno>
           
 
           <note type="collections">
@@ -68553,6 +69148,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76861.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b23166795a</idno>
           
 
           <note type="collections">
@@ -69046,6 +69644,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76822.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_cd4712d675</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
   
@@ -69069,6 +69670,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76820.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f8e78a91ce</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -69141,6 +69745,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76803.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5dd0c9c56d</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -69290,6 +69897,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10771654</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2f5ebd4b2b</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76794.html</idno>
           
 
@@ -69433,6 +70043,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76777.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e5841f50a5</idno>
           
 
           <note type="collections">
@@ -69602,6 +70215,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76765.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ef6fb43a9a</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76765.html</idno>
           
 
@@ -69634,6 +70250,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76763.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a544b50b07</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -69894,6 +70513,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76750.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a1bc40b188</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb76749">
@@ -69962,6 +70584,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76741.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_090368734b</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -70211,6 +70836,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10572303</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9663c42765</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76689.html</idno>
           
 
@@ -70332,6 +70960,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76676.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5adb8851fd</idno>
+          
+  
           <note type="work_kind">Schwank</note>
           
 
@@ -70401,6 +71032,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76670.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3910d5916d</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -70421,6 +71055,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76668.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e145c87ffb</idno>
           
   
           <note type="work_kind">Einakter</note>
@@ -70446,6 +71083,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76662.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4c549b1eab</idno>
           
 
           <note type="collections">
@@ -70508,6 +71148,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76660.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8163016162</idno>
           
   
           <note type="references">None </note>
@@ -70590,6 +71233,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76644.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_aa68ed1eee</idno>
+          
 
           <note type="collections">
             
@@ -70656,6 +71302,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76642.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3096ed307f</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -70676,6 +71325,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76639.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_87dbb227ac</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -70699,6 +71351,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76638.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3c906e59dc</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb76636">
@@ -70717,6 +71372,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76636.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_809a927e36</idno>
           
 
         </bibl>
@@ -70756,6 +71414,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76634.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_090c5bc0eb</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb76633">
@@ -70777,6 +71438,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76633.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_78676e7a47</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76633.html</idno>
@@ -71021,6 +71685,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76616.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2fa3c1153f</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -71041,6 +71708,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76615.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_52793d3f47</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -71218,6 +71888,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76584.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f766722c2a</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -71299,6 +71972,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76580.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8ac487c467</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -71320,6 +71996,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76579.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_601d7bb371</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb76576">
@@ -71338,6 +72017,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76576.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_52e955ff2c</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -71362,6 +72044,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76574.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d7747923b3</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -71383,6 +72068,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76571.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2897387df1</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb76565">
@@ -71401,6 +72089,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76565.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6130339c89</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -71616,6 +72307,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76529.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_079d15c545</idno>
+          
+  
           <note type="work_kind">Drama</note>
           
 
@@ -71746,6 +72440,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10791202</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_236d7da0a7</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76503.html</idno>
           
 
@@ -71784,6 +72481,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76502.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_42e71dfc91</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76502.html</idno>
@@ -72522,6 +73222,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63181.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_696b6db539</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -72542,6 +73245,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63098.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_158d6ea5ba</idno>
           
   
           <note type="work_kind">Einakter</note>
@@ -72567,6 +73273,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63090.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6f4e841e04</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -72629,6 +73338,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63073.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_071b55ca19</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63073.html</idno>
@@ -72709,6 +73421,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb62349</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_55d4e1ab86</idno>
           
 
           <note type="collections">
@@ -72817,6 +73532,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164287</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fbe4662538</idno>
+          
 
           <note type="collections">
             
@@ -72865,6 +73583,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb61285.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4b8a24dae3</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb61285.html</idno>
@@ -74083,6 +74804,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43863.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b91a5046d1</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43863.html</idno>
           
   
@@ -74501,6 +75225,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_498.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_34946840f4</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42545.html</idno>
           
 
@@ -74830,6 +75557,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42186.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_2c01be084a</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42186.html</idno>
           
   
@@ -75081,6 +75811,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41412.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_27a75736fc</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41412.html</idno>
@@ -75389,6 +76122,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41136.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_79b2e76dcc</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41136.html</idno>
           
   
@@ -75412,6 +76148,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40910.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a6338a2809</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40910.html</idno>
@@ -75522,6 +76261,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40211.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ca09ca55d8</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40211.html</idno>
           
   
@@ -75622,6 +76364,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb39985.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_bc69c175c0</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39985.html</idno>
@@ -76878,6 +77623,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb34332.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4ef181eb2b</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34332.html</idno>
           
 
@@ -76925,6 +77673,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Die_J%C3%BCdin_von_Toledo_(B%C3%BChnenst%C3%BCck)</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d06e9f1e8a</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34284.html</idno>
@@ -77051,6 +77802,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10880053</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d2c345e895</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34239.html</idno>
@@ -77241,6 +77995,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33933.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e7c1b15532</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33933.html</idno>
           
 
@@ -77282,6 +78039,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33925.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0997e3bea6</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33925.html</idno>
@@ -78095,6 +78855,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33724.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_703beab572</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33724.html</idno>
           
   
@@ -78670,6 +79433,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33426.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_419ccc75ee</idno>
+          
+  
           <note type="work_kind">Text</note>
           
 
@@ -78768,6 +79534,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9930951</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_19dc6bd5e9</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33386.html</idno>
           
 
@@ -78833,6 +79602,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Macbeth_(Shakespeare)</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fef539d1c3</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33366.html</idno>
@@ -79333,6 +80105,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33055.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0368003778</idno>
+          
+  
           <note type="work_kind">Text</note>
           
 
@@ -79377,6 +80152,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10196501</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_227f37f316</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33043.html</idno>
@@ -79438,6 +80216,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10574751</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_99a3b5a4e7</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33037.html</idno>
@@ -79589,6 +80370,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10877651</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8968bd0e91</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33023.html</idno>
           
 
@@ -79663,6 +80447,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/203661/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_44a231f464</idno>
           
 
           <note type="collections">
@@ -79748,6 +80535,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10808851</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5044f5745e</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32951.html</idno>
@@ -80351,6 +81141,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32702.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a13bf91279</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32702.html</idno>
           
   
@@ -80505,6 +81298,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32604.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_87a048b739</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
   
@@ -80609,6 +81405,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32554.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9386eb87ad</idno>
+          
 
           <note type="collections">
             
@@ -80694,6 +81493,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32526.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_356be279e1</idno>
           
 
           <note type="collections">
@@ -80863,6 +81665,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32494.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_717602be5d</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -80898,6 +81703,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32492.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a8475594d5</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -81024,6 +81832,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32446.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_bb6ffc2e07</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -81053,6 +81864,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb32444</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_7645895a6a</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32444.html</idno>
@@ -81392,6 +82206,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32326.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b484ec9bf1</idno>
+          
 
           <note type="collections">
             
@@ -81456,6 +82273,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32312.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f7c4ca0235</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32312.html</idno>
@@ -81553,6 +82373,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32294.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8b0e558abf</idno>
+          
+  
           <note type="work_kind">Film</note>
           
 
@@ -81640,6 +82463,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32260.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_34ccb7436f</idno>
           
   
           <note type="work_kind">Text</note>
@@ -81943,6 +82769,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32163.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4e91c861a3</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32163.html</idno>
@@ -82295,6 +83124,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32101.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5be2921de6</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32101.html</idno>
@@ -82968,6 +83800,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32017.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_821202f424</idno>
+          
 
           <note type="collections">
             
@@ -83300,6 +84135,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31957.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_24ff1fea9d</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31957.html</idno>
           
   
@@ -83404,6 +84242,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10573101</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b0d50c6cee</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31943.html</idno>
           
 
@@ -83445,6 +84286,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31941.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6bf282c687</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31941.html</idno>
@@ -83558,6 +84402,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31933.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_bcb6823cfc</idno>
           
 
           <note type="collections">
@@ -83674,6 +84521,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31927.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_07acc318ce</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31927.html</idno>
@@ -83823,6 +84673,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_Widerspenstigen_Z%C3%A4hmung</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c0f3c8306b</idno>
+          
 
           <note type="collections">
             
@@ -83859,6 +84712,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31893.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9159849f88</idno>
           
 
           <note type="collections">
@@ -84029,6 +84885,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Demetrius_(Schiller)</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d5d2211d3c</idno>
+          
 
           <note type="collections">
             
@@ -84074,6 +84933,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31861.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3fa36b3770</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31861.html</idno>
@@ -84193,6 +85055,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31787.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_29d388918c</idno>
+          
+  
           <note type="work_kind">Text</note>
           
 
@@ -84296,6 +85161,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31767.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fb318a18b8</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31767.html</idno>
@@ -84509,6 +85377,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10608551</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6e8bbd5032</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31737.html</idno>
           
 
@@ -84559,6 +85430,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31735</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0742807629</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31735.html</idno>
@@ -84652,6 +85526,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31729</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_eb536aa2c0</idno>
+          
 
           <note type="collections">
             
@@ -84695,6 +85572,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31725.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a8a7d0f178</idno>
+          
 
           <note type="collections">
             
@@ -84731,6 +85611,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31723.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_25d807ae36</idno>
           
 
           <note type="collections">
@@ -84914,6 +85797,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31671</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_431ce6f632</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_070aca5adc</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31671.html</idno>
           
 
@@ -85006,6 +85895,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31659.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5aebf17c4d</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31659.html</idno>
           
   
@@ -85092,6 +85984,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31635.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_afe1924ad5</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -85145,6 +86040,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%B6nig_Ottokars_Gl%C3%BCck_und_Ende</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6450cd9763</idno>
           
 
           <note type="collections">
@@ -85217,6 +86115,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10964256</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_be081142a0</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31631.html</idno>
           
 
@@ -85258,6 +86159,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31629.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5cab3831bb</idno>
           
 
           <note type="collections">
@@ -85316,6 +86220,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10869351</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_719ad76e20</idno>
           
 
           <note type="collections">
@@ -85398,6 +86305,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb31623</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fb86c32ac2</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31623.html</idno>
           
 
@@ -85440,6 +86350,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31621.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8553a4dbd3</idno>
+          
 
           <note type="collections">
             
@@ -85476,6 +86389,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31619.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3db6b69419</idno>
           
 
           <note type="collections">
@@ -85582,6 +86498,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31611.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_37cf3db874</idno>
+          
 
           <note type="collections">
             
@@ -85619,6 +86538,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31609.html</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_09744ec752</idno>
+          
 
           <note type="collections">
             
@@ -85655,6 +86577,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31607.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_34f1fd4788</idno>
           
   
           <note type="work_kind">Text</note>
@@ -85746,6 +86671,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9280351</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_80ec74b0b7</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31599.html</idno>
           
 
@@ -85789,6 +86717,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31597.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_303eb2a425</idno>
+          
+  
           <note type="work_kind">Text</note>
           
 
@@ -85815,6 +86746,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31595.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3afa2db194</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31595.html</idno>
@@ -85949,6 +86883,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10827201</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_34a3dd2a37</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31585.html</idno>
           
 
@@ -86024,6 +86961,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31573.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_43bfec8e75</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -86180,6 +87120,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10797954</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b506890049</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31557.html</idno>
@@ -86939,6 +87882,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10869352</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e87fdccdcd</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31431.html</idno>
           
 
@@ -87248,6 +88194,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31403.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_31c0e18c34</idno>
           
 
           <note type="collections">
@@ -87871,6 +88820,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31321.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_42f046f17c</idno>
+          
+  
           <note type="work_kind">Text</note>
           
 
@@ -87918,6 +88870,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10885653</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_56c8d2f578</idno>
           
 
           <note type="collections">
@@ -87998,6 +88953,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31303.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_51a19c4aff</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31303.html</idno>
@@ -88134,6 +89092,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10721352</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8e379b50a6</idno>
           
 
           <note type="collections">
@@ -88354,6 +89315,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10964259</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_51ba3be2a2</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31225.html</idno>
           
 
@@ -88477,6 +89441,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079962</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8355c5b591</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31213.html</idno>
@@ -88647,16 +89614,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb31181">
           
   
-          <title type="main">Die Verschwörung des Fiesko zu Genua</title>
+          <title type="main">Die Verschwörung des Fiesko zu Genua. Ein republikanisches Trauerspiel</title>
           
   
-          <title type="legacy-name-merge">Die Verschwörung des Fiesco zu Genua</title>
-          
-  
-          <title type="legacy-name-merge">Die Verschwörung des Fiesko zu Genua</title>
-          
-  
-          <author key="pmb12654" role="hat-geschaffen">Schiller, Friedrich von</author>
+          <title type="werk_namensvariante">Die Verschwörung des Fiesco zu Genua</title>
           
   
           <author key="pmb12654" role="hat-geschaffen">Schiller, Friedrich von</author>
@@ -88707,6 +89668,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31181</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3c03192c9f</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420553/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_798b9399c2</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31181.html</idno>
           
 
@@ -88729,9 +89699,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
-          
-  
-          <note type="references"> </note>
           
 
         </bibl>
@@ -88848,6 +89815,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10885654</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_1fac7af950</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31165.html</idno>
           
 
@@ -88889,6 +89859,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31161.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_be9b17734c</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -88940,6 +89913,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10828701</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_807667439e</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31157.html</idno>
           
 
@@ -88984,6 +89960,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31155.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d83441bf57</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31155.html</idno>
@@ -89039,6 +90018,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31099.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_cc17e5f26f</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31099.html</idno>
@@ -89192,6 +90174,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10791204</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b460f292fc</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d3fa1b4a5c</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31071.html</idno>
@@ -90051,6 +91039,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_Weibsteufel</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_95e628b41a</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30887.html</idno>
           
 
@@ -90533,6 +91524,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30839.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c33e9d59ef</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30839.html</idno>
           
   
@@ -90608,6 +91602,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30827.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a345decbcb</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30827.html</idno>
@@ -90879,6 +91876,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30791.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_72f8d460e1</idno>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
           
 
@@ -91109,6 +92109,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10573558</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_28ffd2750e</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30755.html</idno>
@@ -91539,6 +92542,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30693</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8e48c21825</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30693.html</idno>
           
 
@@ -91585,6 +92591,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30691.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_65cb8b3531</idno>
+          
+  
           <note type="work_kind">Text</note>
           
 
@@ -91623,6 +92632,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30689.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5af199132c</idno>
           
 
           <note type="collections">
@@ -91742,6 +92754,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30675.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_844557c482</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30675.html</idno>
@@ -92250,6 +93265,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30633</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a0d153e1c3</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30633.html</idno>
@@ -92898,6 +93916,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb30595.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_dc1bebf564</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30595.html</idno>
           
 
@@ -92971,6 +93992,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11179401</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a26e66bed9</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30593.html</idno>
           
 
@@ -93015,6 +94039,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30484.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c20e72a6c4</idno>
           
   
           <note type="work_kind">Text</note>
@@ -93114,6 +94141,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30474.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_945a266bf7</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30474.html</idno>
@@ -93280,6 +94310,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30457.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_258d484201</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30457.html</idno>
@@ -93632,6 +94665,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30433.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3279552108</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30433.html</idno>
           
   
@@ -93855,6 +94891,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30417.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_13db9f4af6</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30417.html</idno>
           
 
@@ -93896,6 +94935,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30415.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c20beab6c0</idno>
           
 
           <note type="collections">
@@ -94204,6 +95246,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10871902</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0806fd12eb</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30397.html</idno>
@@ -94551,6 +95596,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30357.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_84a81372b6</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30357.html</idno>
@@ -94943,6 +95991,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30279.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5f6b97d7a1</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30279.html</idno>
           
   
@@ -95178,6 +96229,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10564451</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fae80cb40a</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30247.html</idno>
           
 
@@ -95222,6 +96276,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30235.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_096b5b10cc</idno>
           
   
           <note type="work_kind">Text</note>
@@ -95364,6 +96421,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11186901</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_a6eed6625d</idno>
+          
 
           <note type="collections">
             
@@ -95433,6 +96493,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30219</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_bffa35faca</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30219.html</idno>
@@ -95858,6 +96921,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30205</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_890f15bc0b</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30205.html</idno>
           
 
@@ -96131,6 +97197,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30193.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_db1ee10c74</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -97199,6 +98268,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10797956</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d4c5aec3ab</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30081.html</idno>
           
 
@@ -97754,6 +98826,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10823651</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_422c33e01e</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30031.html</idno>
           
 
@@ -97819,6 +98894,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30029.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_41a3c1b0d7</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30029.html</idno>
@@ -98068,6 +99146,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305994/</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5c89bc9144</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_20e96dfe68</idno>
+          
+  
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=9936201</idno>
           
   
@@ -98296,6 +99380,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29985</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ba44780a3c</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29985.html</idno>
           
 
@@ -98372,6 +99459,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29983.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ba52a7a7d6</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29983.html</idno>
           
   
@@ -98419,6 +99509,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29981.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_75048265c7</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29981.html</idno>
@@ -98486,6 +99579,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306425/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_7af5db0e02</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29971.html</idno>
@@ -98682,6 +99778,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10576103</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_23e754f00f</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29955.html</idno>
@@ -99118,6 +100217,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29935</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_3fce60343a</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29935.html</idno>
           
 
@@ -99510,6 +100612,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10573561</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_66142e0319</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29915.html</idno>
           
 
@@ -99704,6 +100809,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29903</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9cd5bf16f6</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29903.html</idno>
           
 
@@ -99848,6 +100956,21 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Tristan und Isolde</title>
           
   
+          <title type="legacy-name-merge">Tristan und Isolde</title>
+          
+  
+          <title type="legacy-name-merge">Tristan und Isolde</title>
+          
+  
+          <title type="legacy-name-merge">Tristan und Isolde</title>
+          
+  
+          <author key="pmb13024" role="hat-geschaffen">Wagner, Richard</author>
+          
+  
+          <author key="pmb13024" role="hat-geschaffen">Wagner, Richard</author>
+          
+  
           <author key="pmb13024" role="hat-geschaffen">Wagner, Richard</author>
           
 
@@ -99866,13 +100989,61 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb29897.html</idno>
           
   
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165086</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29897.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306436/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/165086/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201872/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300170483</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1324254</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_417.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Tristan_und_Isolde_(Oper)</idno>
+          
+  
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11094071</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb306436</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29897.html</idno>
           
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+  
+            <bibl type="collections" n="82">Frank Wedekinds Korrespondenz</bibl>
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+
+          </note>
+          
   
           <note type="work_kind">Oper</note>
+          
+  
+          <note type="references">None </note>
           
 
         </bibl>
@@ -100069,6 +101240,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29881.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_07c6257702</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29881.html</idno>
@@ -100313,6 +101487,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29869</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ed0302ed51</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29869.html</idno>
@@ -100607,6 +101784,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29857</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_aae0ef6218</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29857.html</idno>
           
 
@@ -100876,6 +102056,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29849.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e383b012e9</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29849.html</idno>
