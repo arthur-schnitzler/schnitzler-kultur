@@ -4152,7 +4152,7 @@ var calendarData = [
     "name": "Private Lesung von Agonie, Gedichten, Anatols Hochzeitsmorgen und Abschiedssouper, Kompositionen, 26.9.1893", "startDate": "1893-09-26", "id": "pmb93057.html", "type": "Private Lesung"
   },
   {
-    "name": "Festmahl zu Ehren Ferdinand von Saars. 2.10.1893", "startDate": "1893-10-02", "id": "pmb184703.html", "type": "Feier"
+    "name": "Festmahl zu Ehren Ferdinand von Saars, 2.10.1893", "startDate": "1893-10-02", "id": "pmb184703.html", "type": "Feier"
   },
   {
     "name": "Vereinstreffen Saubermänner, 4.10.1893", "startDate": "1893-10-04", "id": "pmb184434.html", "type": "Vereinstreffen"
@@ -7671,7 +7671,7 @@ var calendarData = [
     "name": "Russisches Symphonie-Konzert, 9.1.1903", "startDate": "1903-01-09", "id": "pmb209276.html", "type": "Konzert"
   },
   {
-    "name": "Aufführung von Pique Dame op. 68, 24.1.1903", "startDate": "1903-01-24", "id": "pmb209277.html", "type": "Opernaufführung"
+    "name": "Aufführung von Pique Dame, 24.1.1903", "startDate": "1903-01-24", "id": "pmb209277.html", "type": "Opernaufführung"
   },
   {
     "name": "Nicolai-Konzert der Wiener Philharmoniker, 25.1.1903", "startDate": "1903-01-25", "id": "pmb209278.html", "type": "Sinfoniekonzert"
@@ -8334,7 +8334,7 @@ var calendarData = [
     "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 7.2.1905", "startDate": "1905-02-07", "id": "pmb297627.html", "type": "Panoramabesuch"
   },
   {
-    "name": "Aufführung von Pique Dame op. 68, 8.2.1905", "startDate": "1905-02-08", "id": "pmb209361.html", "type": "Opernaufführung"
+    "name": "Aufführung von Pique Dame, 8.2.1905", "startDate": "1905-02-08", "id": "pmb209361.html", "type": "Opernaufführung"
   },
   {
     "name": "Symphoniekonzert, 15.2.1905", "startDate": "1905-02-15", "id": "pmb209362.html", "type": "Sinfoniekonzert"
@@ -11970,7 +11970,7 @@ var calendarData = [
     "name": "Filmvorführung von Das Mirakel, 26.2.1916", "startDate": "1916-02-26", "id": "pmb210512.html", "type": "Filmvorführung"
   },
   {
-    "name": "Konzert von Symphonie D-Moll, Manfred, 27.2.1916", "startDate": "1916-02-27", "id": "pmb264351.html", "type": "Konzert"
+    "name": "Orchesterkonzert im Musikverein, 27.2.1916", "startDate": "1916-02-27", "id": "pmb264351.html", "type": "Konzert"
   },
   {
     "name": "Veranstaltung bei Ludwig Kárpáth, 27.2.1916", "startDate": "1916-02-27", "id": "pmb264345.html", "type": "Veranstaltung"
@@ -12729,7 +12729,7 @@ var calendarData = [
     "name": "1. Symphoniekonzert des Berliner philharmonischen Orchesters, 25.5.1918", "startDate": "1918-05-25", "id": "pmb209949.html", "type": "Sinfoniekonzert"
   },
   {
-    "name": "2. Symphoniekonzert des Berliner philharmonischen Orchesters, 26.5.1918", "startDate": "1918-05-26", "id": "pmb209950.html", "type": "Sinfoniekonzert"
+    "name": "2. Symphoniekonzert des Berliner Philharmonischen Orchesters, 26.5.1918", "startDate": "1918-05-26", "id": "pmb209950.html", "type": "Sinfoniekonzert"
   },
   {
     "name": "3. Symphoniekonzert des Berliner philharmonischen Orchesters, 27.5.1918", "startDate": "1918-05-27", "id": "pmb209951.html", "type": "Sinfoniekonzert"
@@ -16524,7 +16524,7 @@ var calendarData = [
     "name": "Aufführung von Spiel im Schloß, 15.3.1927", "startDate": "1927-03-15", "id": "pmb210406.html", "type": "Theateraufführung"
   },
   {
-    "name": "Privates Konzert der Musik zu Der weiße Fächer, 17.3.1927", "startDate": "1927-03-17", "id": "pmb247178.html", "type": "Privates Konzert"
+    "name": "Privates Konzert der Musik zu »Der weiße Fächer«, 17.3.1927", "startDate": "1927-03-17", "id": "pmb247178.html", "type": "Privates Konzert"
   },
   {
     "name": "Filmvorführung von Die lebende Maske, 17.3.1927", "startDate": "1927-03-17", "id": "pmb210886.html", "type": "Filmvorführung"
