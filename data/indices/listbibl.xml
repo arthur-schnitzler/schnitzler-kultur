@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-10-23">serialized</change>
+      <change when-iso="2026-11-03">serialized</change>
       
        
     </revisionDesc>
@@ -644,6 +644,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Still_from_Charles_Chaplin_-_A_Dog%27s_Life_-_1918_-_First_National_Pictures_-_EYE_FOT291514.jpg/250px-Still_from_Charles_Chaplin_-_A_Dog%27s_Life_-_1918_-_First_National_Pictures_-_EYE_FOT291514.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb292855">
           
@@ -747,6 +756,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Richard_Lund-Mary_Johnson.jpg/250px-Richard_Lund-Mary_Johnson.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -891,6 +909,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flame_of_the_Desert_(1919)_-_1.jpg/250px-Flame_of_the_Desert_(1919)_-_1.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb266227">
           
@@ -991,7 +1018,7 @@
         <bibl xml:id="pmb264442">
           
   
-          <title type="main">6. Sinfonie in a-Moll</title>
+          <title type="main">Sinfonie Nr. 6 a-Moll</title>
           
   
           <title type="legacy-name-merge">6. Symphonie</title>
@@ -1085,6 +1112,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SisterBeatrix01.jpg/250px-SisterBeatrix01.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb264267">
           
@@ -1120,7 +1156,7 @@
         <bibl xml:id="pmb264141">
           
   
-          <title type="main">10. Sinfonie</title>
+          <title type="main">Sinfonie Nr. 10</title>
           
   
           <author key="pmb12163" role="hat-geschaffen">Mahler, Gustav</author>
@@ -1268,13 +1304,13 @@
         <bibl xml:id="pmb263796">
           
   
-          <title type="main">Klavierquintett [op. 54]</title>
+          <title type="main">Klavierquintett cis-Moll, op. 54</title>
           
   
           <author key="pmb17172" role="hat-geschaffen">Goldmark, Karl</author>
           
 
-          <date>1915-11-21</date>
+          <date notBefore-iso="1914-01-01" when-iso="1914-01-01">1914</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263796/</idno>
@@ -1292,7 +1328,7 @@
           </note>
           
   
-          <note type="work_kind">Quintett</note>
+          <note type="work_kind">Kammermusik (Streicher)</note>
           
 
         </bibl>
@@ -1597,6 +1633,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bryllupsaften_p%C3%A5_Hotel.png/250px-Bryllupsaften_p%C3%A5_Hotel.png"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb254616">
           
@@ -1635,6 +1680,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/D%C3%B8dsangstens_Maskespil.jpg/250px-D%C3%B8dsangstens_Maskespil.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -1677,11 +1731,20 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hustruens_ret.jpg/250px-Hustruens_ret.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb254338">
           
   
-          <title type="main">Kammersymphonie Nr. 1 E-Dur op. 9</title>
+          <title type="main">Kammersinfonie Nr. 1 E-Dur, op. 9</title>
           
   
           <author key="pmb12743" role="hat-geschaffen-vertonung">Schönberg, Arnold</author>
@@ -1711,7 +1774,7 @@
           </note>
           
   
-          <note type="work_kind">Sinfonische Dichtung</note>
+          <note type="work_kind">Orchesterwerk</note>
           
 
         </bibl>
@@ -1842,13 +1905,13 @@
         <bibl xml:id="pmb253753">
           
   
-          <title type="main">Bal costumé</title>
+          <title type="main">Bal costumé, op. 103</title>
           
   
-          <author key="pmb23705" role="hat-geschaffen-vertonung">Rubinstein, Anton</author>
+          <author key="pmb23705" role="hat-geschaffen">Rubinstein, Anton</author>
           
 
-          <date>1880</date>
+          <date notBefore-iso="1880-01-01" when-iso="1880-01-01">1880</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/253753/</idno>
@@ -1866,7 +1929,7 @@
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Kammermusik (mit Klavier)</note>
           
 
         </bibl>
@@ -1907,6 +1970,15 @@
           
   
           <note type="work_kind">Ballett</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mozart_Family_Croce.jpg/250px-Mozart_Family_Croce.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -1978,6 +2050,15 @@
           
   
           <note type="work_kind">Wandfries</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stoclet_Frieze_left.jpg/250px-Stoclet_Frieze_left.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -2307,7 +2388,7 @@
         <bibl xml:id="pmb247750">
           
   
-          <title type="main">Missa solemnis in D-dur</title>
+          <title type="main">Missa solemnis D-Dur</title>
           
   
           <author key="pmb247746" role="hat-geschaffen-vertonung">Filke, Max</author>
@@ -2328,14 +2409,14 @@
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Messe</note>
           
 
         </bibl>
         <bibl xml:id="pmb247179">
           
   
-          <title type="main">[Musik zu Der weiße Fächer]</title>
+          <title type="main">Musik zum Schauspiel »Der weiße Fächer«</title>
           
   
           <author key="pmb7704" role="hat-geschaffen">Hartmann, Friedrich</author>
@@ -2356,7 +2437,7 @@
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Orchesterwerk</note>
           
 
         </bibl>
@@ -2954,6 +3035,15 @@
           </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schiller_Musenalmanach_1799_176.jpg/250px-Schiller_Musenalmanach_1799_176.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb203322">
           
@@ -3030,6 +3120,15 @@
           <note type="references"> None </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Waltraute_confronts.jpg/250px-Waltraute_confronts.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb202739">
           
@@ -3065,49 +3164,6 @@
           
   
           <note type="work_kind">Oper</note>
-          
-
-        </bibl>
-        <bibl xml:id="pmb202465">
-          
-  
-          <title type="main">4. Sinfonie, op. 120 (d-Moll)</title>
-          
-  
-          <author key="pmb12733" role="hat-geschaffen">Schumann, Robert</author>
-          
-
-          <date notBefore-iso="1841-01-01" when-iso="1841-01-01">1841</date>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202465/</idno>
-          
-  
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300146493</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q231263</idno>
-          
-  
-          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_799.html</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/4._Sinfonie_(Schumann)</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202465.html</idno>
-          
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="30">Hanslick Online</bibl>
-            
-
-          </note>
-          
-  
-          <note type="work_kind">Sinfonie</note>
           
 
         </bibl>
@@ -3177,6 +3233,15 @@
           <note type="references">None None</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schott%27s_1899_Walkure_title.jpg/250px-Schott%27s_1899_Walkure_title.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb201672">
           
@@ -3238,17 +3303,23 @@
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Orphee_adv.jpg/250px-Orphee_adv.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb201411">
           
   
-          <title type="main">La damnation de Faust op. 24</title>
+          <title type="main">La damnation de Faust, op. 24</title>
           
   
           <title type="werk_namensvariante">Fausts Verdammnis op. 24</title>
-          
-  
-          <author key="pmb6263" role="hat-geschaffen">Berlioz, Hector</author>
           
   
           <author key="pmb6263" role="hat-geschaffen">Berlioz, Hector</author>
@@ -3291,6 +3362,15 @@
           
   
           <note type="work_kind">Komposition</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Margherita_Palli_-_bozzetto_per_La_dannazione_di_Faust_di_Hector_Berlioz_(1992)_-_Archivio_Storico_Teatro_Regio_Torino_WIKITRT1008.jpg/250px-Margherita_Palli_-_bozzetto_per_La_dannazione_di_Faust_di_Hector_Berlioz_(1992)_-_Archivio_Storico_Teatro_Regio_Torino_WIKITRT1008.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -4211,6 +4291,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Laura_La_Plante_in_The_Cat_and_the_Canary_(1927_publicity_photo_4550-76).jpg/250px-Laura_La_Plante_in_The_Cat_and_the_Canary_(1927_publicity_photo_4550-76).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb200262">
           
@@ -4248,7 +4337,7 @@
           <author key="pmb120318" role="hat-einen-beitrag-geschaffen-zu">Kennedy, Merna</author>
           
 
-          <date to-iso="1928-01-01">1928-01-29 – 1928</date>
+          <date when-iso="1928-01-29">1928-01-29</date>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb80295.html</idno>
@@ -4340,6 +4429,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ForHeavensSakePoster.jpg/250px-ForHeavensSakePoster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -4845,6 +4943,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/The_Greater_Glory_ad_from_Picture-Play_Magazine_(March_1926_to_August_1926)_(page_516_crop).jpg/250px-The_Greater_Glory_ad_from_Picture-Play_Magazine_(March_1926_to_August_1926)_(page_516_crop).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb195924">
           
@@ -5238,6 +5345,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/East_of_Suez_poster.jpg/250px-East_of_Suez_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb195916">
           
@@ -5354,6 +5470,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flaming_Youth_lobby_card.jpg/250px-Flaming_Youth_lobby_card.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb195913">
           
@@ -5422,6 +5547,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/He_Who_Gets_Slapped.jpg/250px-He_Who_Gets_Slapped.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -5526,6 +5660,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/SunnysideCC.jpg/250px-SunnysideCC.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -5678,6 +5821,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TenCommandments-bigposter-1923.jpg/250px-TenCommandments-bigposter-1923.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -5928,6 +6080,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Three_Must_get_Theres.jpg/250px-The_Three_Must_get_Theres.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb195891">
           
@@ -5981,6 +6142,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Skyhigh1922-filmshot1.png/250px-Skyhigh1922-filmshot1.png"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -6051,7 +6221,7 @@
         <bibl xml:id="pmb195868">
           
   
-          <title type="main">1. Sinfonie in D-Dur</title>
+          <title type="main">Sinfonie Nr. 1 D-Dur</title>
           
   
           <author key="pmb12163" role="hat-geschaffen">Mahler, Gustav</author>
@@ -6067,6 +6237,15 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195868.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Sinfonie</note>
@@ -7107,6 +7286,15 @@
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pietro_Mascagni_L%27amico_Fritz.jpg/250px-Pietro_Mascagni_L%27amico_Fritz.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb195767">
           
@@ -7663,6 +7851,15 @@
             
 
           </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Souvenir_program_for_the_premi%C3%A8re_production_of_Gilbert_and_Sullivan%27s_Patience_-_Cover.jpg/250px-Souvenir_program_for_the_premi%C3%A8re_production_of_Gilbert_and_Sullivan%27s_Patience_-_Cover.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -8852,11 +9049,20 @@
           </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Fanny_Tacchinardi_Persiani_(retouched).jpg/250px-Fanny_Tacchinardi_Persiani_(retouched).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb195652">
           
   
-          <title type="main">Manfred. Dramatisches Gedicht in drei Abteilungen op. 115</title>
+          <title type="main">Manfred. Dramatisches Gedicht, op. 115</title>
           
   
           <title type="legacy-name-merge">Manfred</title>
@@ -8907,7 +9113,7 @@
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Orchesterwerk</note>
           
 
         </bibl>
@@ -11308,6 +11514,15 @@
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disegno_per_copertina_di_libretto%2C_disegno_di_Peter_Hoffer_per_Fra_Diavolo_(s.d.)_-_Archivio_Storico_Ricordi_ICON012439.jpg/250px-Disegno_per_copertina_di_libretto%2C_disegno_di_Peter_Hoffer_per_Fra_Diavolo_(s.d.)_-_Archivio_Storico_Ricordi_ICON012439.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb195494">
           
@@ -11852,6 +12067,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alles_f%C3%BCr_Geld_(1923)_poster.jpg/250px-Alles_f%C3%BCr_Geld_(1923)_poster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -13012,6 +13236,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paul_Wegener_als_Student_von_Prag%2C_Filmplakat_1913.jpg/250px-Paul_Wegener_als_Student_von_Prag%2C_Filmplakat_1913.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb195399">
           
@@ -13151,6 +13384,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195360.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb195360.html</idno>
           
 
           <note type="collections">
@@ -14538,6 +14774,15 @@
           </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Una_riva_circondata_da_rocce%2C_bozzetto_di_Tito_Azzolini_per_L%27Olandese_Volante_(1878)_-_Archivio_Storico_Ricordi_ICON002164.jpg/250px-Una_riva_circondata_da_rocce%2C_bozzetto_di_Tito_Azzolini_per_L%27Olandese_Volante_(1878)_-_Archivio_Storico_Ricordi_ICON002164.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb165081">
           
@@ -14598,6 +14843,15 @@
             
 
           </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Giroust_Oedipus_at_Colonus.JPG/250px-Giroust_Oedipus_at_Colonus.JPG"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -14833,7 +15087,7 @@
         <bibl xml:id="pmb164360">
           
   
-          <title type="main">5. Sinfonie</title>
+          <title type="main">Sinfonie Nr. 5</title>
           
   
           <author key="pmb12163" role="hat-geschaffen">Mahler, Gustav</author>
@@ -14864,6 +15118,15 @@
           
   
           <note type="work_kind">Sinfonie</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gustav_Mahler_1909_2.jpg/250px-Gustav_Mahler_1909_2.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -14959,6 +15222,15 @@
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kleist-das_k%C3%A4thchen_von_heilbronn_erstausgabe_1810.jpg/250px-Kleist-das_k%C3%A4thchen_von_heilbronn_erstausgabe_1810.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -15281,7 +15553,7 @@
         <bibl xml:id="pmb148402">
           
   
-          <title type="main">8. Sinfonie in Es-Dur</title>
+          <title type="main">Sinfonie Nr. 8 Es-Dur</title>
           
   
           <author key="pmb12163" role="hat-geschaffen">Mahler, Gustav</author>
@@ -16637,6 +16909,15 @@
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dom_juan.jpg/250px-Dom_juan.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -18287,6 +18568,15 @@
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Zuckmayer_Der_Hauptmann_von_K%C3%B6penick_-Halbleinen-.jpg/250px-Zuckmayer_Der_Hauptmann_von_K%C3%B6penick_-Halbleinen-.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81532">
           
@@ -18325,6 +18615,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Die_Weber_1897_by_Emil_Orlik.jpeg/250px-Die_Weber_1897_by_Emil_Orlik.jpeg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -18908,6 +19207,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Her_Gilded_Cage_(1922)_-_Swanson.jpg/250px-Her_Gilded_Cage_(1922)_-_Swanson.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81514">
           
@@ -18958,6 +19266,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bluebeards-eighth-wife.jpg/250px-Bluebeards-eighth-wife.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -19379,6 +19696,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%D0%A0%D1%83%D0%BA%D0%B8_%D0%9E%D1%80%D0%BB%D0%B0%D0%BA%D0%B0.jpg/250px-%D0%A0%D1%83%D0%BA%D0%B8_%D0%9E%D1%80%D0%BB%D0%B0%D0%BA%D0%B0.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81496">
           
@@ -19679,6 +20005,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Divine_Woman_Lobby_Card.jpg/250px-The_Divine_Woman_Lobby_Card.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81490">
           
@@ -19720,6 +20055,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Das_Cabinet_des_Dr._Caligari.JPG/250px-Das_Cabinet_des_Dr._Caligari.JPG"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -19950,6 +20294,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wings_(1927)_poster.jpg/250px-Wings_(1927)_poster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -20354,6 +20707,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_Red_Dance_(SAYRE_14237).jpg/250px-The_Red_Dance_(SAYRE_14237).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81456">
           
@@ -20407,6 +20769,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Thethiefofbagdad-lobbycard-1924.jpg/250px-Thethiefofbagdad-lobbycard-1924.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -20647,6 +21018,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Boh%C3%A8me_(1926)_1.jpg/250px-La_Boh%C3%A8me_(1926)_1.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -21109,6 +21489,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Michel_Strogoff-film-1926-la_une_de_l%27Illustration-01.jpg/250px-Michel_Strogoff-film-1926-la_une_de_l%27Illustration-01.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81424">
           
@@ -21294,6 +21683,15 @@
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mignon_(opera)_1866_poster_NGO3p383.jpg/250px-Mignon_(opera)_1866_poster_NGO3p383.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81416">
           
@@ -21341,6 +21739,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Matejko%2C_Liebeswalzer%2C_1930.jpg/250px-Matejko%2C_Liebeswalzer%2C_1930.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -22062,6 +22469,15 @@
           <note type="work_kind">Operette</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SulksPir.jpg/250px-SulksPir.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81385">
           
@@ -22379,6 +22795,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Last_Command_(1928_film)_poster.jpg/250px-The_Last_Command_(1928_film)_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81361">
           
@@ -22417,6 +22842,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Morocco1930.jpg/250px-Morocco1930.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -22463,6 +22897,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dishonored_lobby_card.jpg/250px-Dishonored_lobby_card.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -22581,6 +23024,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The-Blue-Angel-Dietrich.jpg/250px-The-Blue-Angel-Dietrich.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81357">
           
@@ -22646,6 +23098,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Underworld-1927.jpg/250px-Underworld-1927.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -23086,6 +23547,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gaydeceiver-lobbycard-1926.jpg/250px-Gaydeceiver-lobbycard-1926.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -23711,6 +24181,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Plakat_Voruntersuchung_1931.jpg/250px-Plakat_Voruntersuchung_1931.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81312">
           
@@ -24177,6 +24656,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/What_Happened_to_Jones_(SAYRE_14150).jpg/250px-What_Happened_to_Jones_(SAYRE_14150).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81292">
           
@@ -24246,6 +24734,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Cameraman_(Keaton)_poster.jpg/250px-The_Cameraman_(Keaton)_poster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -26463,6 +26960,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Scene_from_Bed_and_Sofa.jpg/250px-Scene_from_Bed_and_Sofa.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81199">
           
@@ -26851,6 +27357,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sensation_im_Wintergarten_(1929)_poster.jpg/250px-Sensation_im_Wintergarten_(1929)_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81189">
           
@@ -27214,6 +27729,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Just_Tony_poster.jpg/250px-Just_Tony_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81177">
           
@@ -27311,6 +27835,15 @@
           
   
           <note type="work_kind">Operette</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Strauss-Reiterer_Fr%C3%BChlingsluft-12.jpg/250px-Strauss-Reiterer_Fr%C3%BChlingsluft-12.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -27990,6 +28523,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82_%D0%BA_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%83_%C2%AB%D0%9C%D0%B0%D1%82%D1%8C%C2%BB.jpg/250px-%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82_%D0%BA_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%83_%C2%AB%D0%9C%D0%B0%D1%82%D1%8C%C2%BB.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81140">
           
@@ -28022,6 +28564,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/End_spb.jpg/250px-End_spb.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -28531,6 +29082,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gassenhauer_1931%2C_Albert_Haermann%2C_Wolfgang_Staudte%2C_Hans_Deppe%2C_Martin_Jacob%2C_Ernst_Busch%2C_Willi_Schaeffers.jpg/250px-Gassenhauer_1931%2C_Albert_Haermann%2C_Wolfgang_Staudte%2C_Hans_Deppe%2C_Martin_Jacob%2C_Ernst_Busch%2C_Willi_Schaeffers.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81110">
           
@@ -28737,6 +29297,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Madame_Sans-Gene_(SAYRE_14792).jpg/250px-Madame_Sans-Gene_(SAYRE_14792).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -29136,6 +29705,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zemlya-v-plenu-1927.jpg/250px-Zemlya-v-plenu-1927.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81079">
           
@@ -29245,6 +29823,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Monsieur_Beaucaire_(1924)_-_1.jpg/250px-Monsieur_Beaucaire_(1924)_-_1.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -29789,6 +30376,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Temptress_poster.jpg/250px-The_Temptress_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81052">
           
@@ -29863,6 +30459,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ben-Hur-1925.jpg/250px-Ben-Hur-1925.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -30001,6 +30606,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Doctor_Jack_(1922)_Still.jpg/250px-Doctor_Jack_(1922)_Still.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -30445,6 +31059,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tabu_(1931)_Lobby_Card.jpg/250px-Tabu_(1931)_Lobby_Card.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81035">
           
@@ -30527,6 +31150,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Janet_Gaynor_-_Sunrise_(1927).jpg/250px-Janet_Gaynor_-_Sunrise_(1927).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81034">
           
@@ -30600,6 +31232,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Film%2C_SFA022827628.jpg/250px-Film%2C_SFA022827628.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb81033">
           
@@ -30647,6 +31288,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/4_Devils_ad_in_The_Film_Daily%2C_Jan-Jun_1929_(page_1452_crop).jpg/250px-4_Devils_ad_in_The_Film_Daily%2C_Jan-Jun_1929_(page_1452_crop).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -30778,6 +31428,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Last_Laugh_(SAYRE_14726).jpg/250px-The_Last_Laugh_(SAYRE_14726).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -31871,6 +32530,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Betty_Amann.jpg/250px-Betty_Amann.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80971">
           
@@ -32421,6 +33089,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sumurum-1920.jpg/250px-Sumurum-1920.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80936">
           
@@ -32471,6 +33148,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/So_This_is_Paris_poster.jpg/250px-So_This_is_Paris_poster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -32726,6 +33412,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Madame_DuBarry_(1919)_-_1.jpg/250px-Madame_DuBarry_(1919)_-_1.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80931">
           
@@ -32779,6 +33474,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Love_Parade_poster.jpg/250px-Love_Parade_poster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -32848,6 +33552,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lady_Windermere%27s_Fan_(1925)_-_7.jpg/250px-Lady_Windermere%27s_Fan_(1925)_-_7.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80929">
           
@@ -32904,6 +33617,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kiss_Me_Again_lobby_card.jpg/250px-Kiss_Me_Again_lobby_card.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -33047,6 +33769,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Robert_L._Leonard_-_Filmplakat_Ernst_Lubitsch_-_Die_Flamme%2C_1923.jpg/250px-Robert_L._Leonard_-_Filmplakat_Ernst_Lubitsch_-_Die_Flamme%2C_1923.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80925">
           
@@ -33093,6 +33824,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Patriot_(1928)_Poster.jpg/250px-The_Patriot_(1928)_Poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80924">
           
@@ -33137,6 +33877,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/The_smiling_lieutenant.jpg/250px-The_smiling_lieutenant.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -33194,6 +33943,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Loves_of_Pharaoh_1922_newspaperad.jpg/250px-The_Loves_of_Pharaoh_1922_newspaperad.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80922">
           
@@ -33243,6 +34001,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Anna_Boleyn_(1920)_poster.jpg/250px-Anna_Boleyn_(1920)_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80921">
           
@@ -33290,6 +34057,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Student_Prince_in_Old_Heidelberg_lobby_card.jpg/250px-Student_Prince_in_Old_Heidelberg_lobby_card.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -33667,6 +34443,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/The_Divine_Lady_(1929_film)_poster.jpg/250px-The_Divine_Lady_(1929_film)_poster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -34410,6 +35195,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Acteur_Emil_Jannings_in_1924_in_de_film_%27Tragedie_der_liefde%27%2C_SFA022001729.jpg/250px-Acteur_Emil_Jannings_in_1924_in_de_film_%27Tragedie_der_liefde%27%2C_SFA022001729.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80864">
           
@@ -34498,6 +35292,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Man_Who_Laughs_-_Conrad_Veidt_as_Gwynplaine.jpg/250px-The_Man_Who_Laughs_-_Conrad_Veidt_as_Gwynplaine.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80862">
           
@@ -34551,6 +35354,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/The_Last_Warning_(1929)_master_poster.jpg/250px-The_Last_Warning_(1929)_master_poster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -34642,6 +35454,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wachsfigurenkabinett_-_crew.jpg/250px-Wachsfigurenkabinett_-_crew.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80856">
           
@@ -34677,6 +35498,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Charles_Lane%2C_Pola_Negri%2C_and_Clive_Brook_in_Barbed_Wire.jpg/250px-Charles_Lane%2C_Pola_Negri%2C_and_Clive_Brook_in_Barbed_Wire.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -35033,6 +35863,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Spies_1928.jpg/250px-Spies_1928.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80833">
           
@@ -35080,6 +35919,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Horst_von_Harbou_-_Metropolis_set_photograph_05.jpg/250px-Horst_von_Harbou_-_Metropolis_set_photograph_05.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -35131,6 +35979,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Frau_im_Mond.jpg/250px-Frau_im_Mond.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80831">
           
@@ -35157,6 +36014,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dr._Mabuse%2C_der_Spieler.jpg/250px-Dr._Mabuse%2C_der_Spieler.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -35233,6 +36099,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Siegfrieds_death.jpg/250px-Siegfrieds_death.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -36718,6 +37593,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Phantom_of_the_opera_1925_poster.jpg/250px-Phantom_of_the_opera_1925_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80755">
           
@@ -36820,6 +37704,15 @@
           
   
           <note type="work_kind">Operette</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cover_of_the_Vocal_Score_of_Sidney_Jones%27_The_Geisha.jpg/250px-Cover_of_the_Vocal_Score_of_Sidney_Jones%27_The_Geisha.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -37544,6 +38437,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lobby_card_for_the_Buster_Keaton_film_College_(1927).jpg/250px-Lobby_card_for_the_Buster_Keaton_film_College_(1927).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80719">
           
@@ -37769,6 +38671,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/The_Pleasure_Garden_(1925)_Alfred_Hitchcock_intertitles.jpg/250px-The_Pleasure_Garden_(1925)_Alfred_Hitchcock_intertitles.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80705">
           
@@ -37970,6 +38881,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flying_Fleet_lobby_card_2.jpg/250px-Flying_Fleet_lobby_card_2.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -38233,6 +39153,15 @@
           <note type="work_kind">Vaudeville</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mam%27zelle_Nitouche_01.png/250px-Mam%27zelle_Nitouche_01.png"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80690">
           
@@ -38321,6 +39250,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/1925_-_Strand_Theater_-_24_Dec_MC_-_Allentown_PA.jpg/250px-1925_-_Strand_Theater_-_24_Dec_MC_-_Allentown_PA.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -39349,6 +40287,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Love_(1927_film).jpg/250px-Love_(1927_film).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80617">
           
@@ -39483,6 +40430,15 @@
           
   
           <note type="references">None</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Constantin_Stanislavski_in_Goldoni%27s_Locandiera_in_1898.jpg/250px-Constantin_Stanislavski_in_Goldoni%27s_Locandiera_in_1898.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -39988,6 +40944,15 @@
           
   
           <note type="work_kind">Oper</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mala_Vita%2C_Giordano_opera._Act_1.jpg/250px-Mala_Vita%2C_Giordano_opera._Act_1.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -41290,6 +42255,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Garbo_wild_orchids.jpg/250px-Garbo_wild_orchids.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80533">
           
@@ -41343,6 +42317,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Norma_Shearer_Irving_Thalberg_1928.JPG/250px-Norma_Shearer_Irving_Thalberg_1928.JPG"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -41669,6 +42652,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Iron_Horse_(1924)_still_2.jpg/250px-The_Iron_Horse_(1924)_still_2.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80516">
           
@@ -41814,6 +42806,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The-way-of-all-flesh-1927.jpg/250px-The-way-of-all-flesh-1927.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80511">
           
@@ -41906,6 +42907,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BarkerMackaillSills.jpg/250px-BarkerMackaillSills.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80508">
           
@@ -41973,6 +42983,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lilac_Time_lobby_card.jpg/250px-Lilac_Time_lobby_card.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80507">
           
@@ -42017,6 +43036,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/B%C3%A1nky_Vilma_%C3%A9s_Rudolph_Valentino-A_sejk_fia.jpg/250px-B%C3%A1nky_Vilma_%C3%A9s_Rudolph_Valentino-A_sejk_fia.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -42135,6 +43163,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cheat_lobby_card.jpg/250px-Cheat_lobby_card.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80502">
           
@@ -42201,6 +43238,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Judex.jpg/250px-Judex.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -43046,6 +44092,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Westfront_1918_Weber_poster.jpg/250px-Westfront_1918_Weber_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80471">
           
@@ -43296,6 +44351,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Greta_Garbo05.jpg/250px-Greta_Garbo05.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80467">
           
@@ -43404,6 +44468,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Louise_Brooks_in_Pandora%27s_Box.jpg/250px-Louise_Brooks_in_Pandora%27s_Box.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -43576,6 +44649,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bundesarchiv_Bild_102-13954%2C_Filmplakat_%22Die_wei%C3%9Fe_H%C3%B6lle_vom_Piz_Pal%C3%BC%22.jpg/250px-Bundesarchiv_Bild_102-13954%2C_Filmplakat_%22Die_wei%C3%9Fe_H%C3%B6lle_vom_Piz_Pal%C3%BC%22.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -44363,6 +45445,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Battleship_Potemkin-Ship_portrait.jpg/250px-Battleship_Potemkin-Ship_portrait.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -45338,6 +46429,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fast_Mail_poster.jpg/250px-Fast_Mail_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80397">
           
@@ -45455,6 +46555,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%22Variety%22_1926_film_advertisement_in_Motion_Picture_News_(March_6%2C_1926_to_April_24%2C_1926)_(page_666_crop).jpg/250px-%22Variety%22_1926_film_advertisement_in_Motion_Picture_News_(March_6%2C_1926_to_April_24%2C_1926)_(page_666_crop).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -46927,6 +48036,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Old_Ironsides_poster.jpg/250px-Old_Ironsides_poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80340">
           
@@ -47003,6 +48121,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hollywood-1923-Poster-2.jpg/250px-Hollywood-1923-Poster-2.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80339">
           
@@ -47041,6 +48168,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Great_Gabbo_(1929).png/250px-The_Great_Gabbo_(1929).png"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -47169,6 +48305,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Don_Juan_ad_in_1926_Film_Fun_(IA_filmfun446lesl)_(page_11_crop).jpg/250px-Don_Juan_ad_in_1926_Film_Fun_(IA_filmfun446lesl)_(page_11_crop).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80335">
           
@@ -47219,6 +48364,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Jazz_Singer_1927_Poster.jpg/250px-The_Jazz_Singer_1927_Poster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -47314,6 +48468,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/When-a-man-loves-1927.jpg/250px-When-a-man-loves-1927.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -47412,6 +48575,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Poster_-_Navigator%2C_The_02.jpg/250px-Poster_-_Navigator%2C_The_02.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -47953,6 +49125,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Willy_Fritsch_and_Otto_Wallburg_-_Der_Kongress_tanzt_(1931)_(53686359128).jpg/250px-Willy_Fritsch_and_Otto_Wallburg_-_Der_Kongress_tanzt_(1931)_(53686359128).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80300">
           
@@ -48051,6 +49232,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chaplin_the_gold_rush_boot.jpg/250px-Chaplin_the_gold_rush_boot.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80298">
           
@@ -48089,6 +49279,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Pilgrim_FilmPoster.jpeg/250px-The_Pilgrim_FilmPoster.jpeg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -48159,6 +49358,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/City_Lights_(1931_theatrical_poster_-_retouched).jpg/250px-City_Lights_(1931_theatrical_poster_-_retouched).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80293">
           
@@ -48185,6 +49393,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alkohol_(1919)_poster.jpg/250px-Alkohol_(1919)_poster.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -48422,6 +49639,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eye_for_eye_-_lobbycard_1918.jpg/250px-Eye_for_eye_-_lobbycard_1918.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -48977,6 +50203,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Das_Karussell_des_Lebens_(1919)_-_1.jpg/250px-Das_Karussell_des_Lebens_(1919)_-_1.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80255">
           
@@ -49402,6 +50637,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Don%27t_Marry_for_Money_(1923)_-_1.jpg/250px-Don%27t_Marry_for_Money_(1923)_-_1.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80240">
           
@@ -49472,6 +50716,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flesh_and_the_Devil_with_John_Gilbert.jpg/250px-Flesh_and_the_Devil_with_John_Gilbert.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80239">
           
@@ -49519,6 +50772,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/A_Woman_of_Affairs_(1928).jpg/250px-A_Woman_of_Affairs_(1928).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -49613,6 +50875,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/The-Eagle-1925-Rudolph-Valentino.jpg/250px-The-Eagle-1925-Rudolph-Valentino.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80236">
           
@@ -49663,6 +50934,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Signal_Tower_lobby_card.JPG/250px-Signal_Tower_lobby_card.JPG"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -51227,6 +52507,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Waaghalzerij_volwassenen_Waaghalzerij_tbv%2C_SFA022007712.jpg/250px-Waaghalzerij_volwassenen_Waaghalzerij_tbv%2C_SFA022007712.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80169">
           
@@ -51746,6 +53035,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Swedish_poster_for_The_Burning_Heart_(1929_film).jpg/250px-Swedish_poster_for_The_Burning_Heart_(1929_film).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -52626,6 +53924,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/My-Boy-1921-Poster.jpg/250px-My-Boy-1921-Poster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80101">
           
@@ -52864,6 +54171,15 @@
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Manhattan_1928.jpg/250px-Manhattan_1928.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -53193,6 +54509,15 @@
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/King_of_Jazz_trailer_Screenshot.jpg/250px-King_of_Jazz_trailer_Screenshot.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb80078">
           
@@ -53271,6 +54596,15 @@
           
   
           <note type="references"> </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Eugen_d_Albert.png/250px-Eugen_d_Albert.png"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -54082,7 +55416,7 @@
         <bibl xml:id="pmb79247">
           
   
-          <title type="main">Requiem op. 5</title>
+          <title type="main">Requiem, op. 5</title>
           
   
           <title type="werk_namensvariante">Grande Messe des Morts</title>
@@ -54118,7 +55452,7 @@
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Messe</note>
           
 
         </bibl>
@@ -55745,6 +57079,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/THE-VOLGA-BOATMEN-PROGRAM.jpg/250px-THE-VOLGA-BOATMEN-PROGRAM.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb78468">
           
@@ -55797,6 +57140,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kingofkings_poster.gif/250px-Kingofkings_poster.gif"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb78466">
           
@@ -55835,6 +57187,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%22The_Godless_Girl%22_ad_from_The_Film_Daily%2C_Jan-Jun_1929_(page_188_crop).jpg/250px-%22The_Godless_Girl%22_ad_from_The_Film_Daily%2C_Jan-Jun_1929_(page_188_crop).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -55891,6 +57252,61 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
 
         </bibl>
+        <bibl xml:id="pmb78462">
+          
+  
+          <title type="main">Sinfonie Nr. 4 d-Moll, op. 120</title>
+          
+  
+          <title type="legacy-name-merge">4. Sinfonie, op. 120 (d-Moll)</title>
+          
+  
+          <author key="pmb12733" role="hat-geschaffen">Schumann, Robert</author>
+          
+
+          <date notBefore-iso="1841-01-01" when-iso="1841-01-01">1841</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/78462/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78462.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/4._Sinfonie_(Schumann)</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202465/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300146493</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q231263</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_799.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202465.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Sinfonie</note>
+          
+  
+          <note type="references">None</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb78456">
           
   
@@ -55898,9 +57314,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <title type="legacy-name-merge">Szenen aus Goethes Faust</title>
-          
-  
-          <author key="pmb12733" role="hat-geschaffen">Schumann, Robert</author>
           
   
           <author key="pmb12733" role="hat-geschaffen">Schumann, Robert</author>
@@ -55939,7 +57352,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Orchesterwerk</note>
           
 
         </bibl>
@@ -56004,6 +57417,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Maria_Corda_Argentinean_Magazine_AD.jpg/250px-Maria_Corda_Argentinean_Magazine_AD.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -57056,38 +58478,49 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb78225">
           
   
-          <title type="main">Variationen über ein Thema von Joseph Haydn op. 56a</title>
+          <title type="main">Variationen über ein Thema von Joseph Haydn, op. 56a</title>
+          
+  
+          <title type="legacy-name-merge">Variationen für Orchester B-Dur über ein Thema von Joseph Haydn, op. 56a</title>
           
   
           <author key="pmb10989" role="hat-geschaffen">Brahms, Johannes</author>
+          
+
+          <date notBefore-iso="1873-01-01" when-iso="1873-01-01">1873</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/78225/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78225.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78225.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/411532/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/411534/</idno>
+          
+  
+          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/JBWV_0058 - op. 56a - Variationen für Orchester B-Dur über ein Thema von Joseph Haydn.html</idno>
+          
 
-        </bibl>
-        <bibl xml:id="pmb78220">
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="28">Brahms Online</bibl>
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
-          <title type="main">Streichsextett Nr. 2 G-Dur op. 36</title>
+          <note type="work_kind">Orchesterwerk</note>
           
   
-          <author key="pmb10989" role="hat-geschaffen">Brahms, Johannes</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/78220/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78220.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78220.html</idno>
+          <note type="references"> </note>
           
 
         </bibl>
@@ -57110,10 +58543,86 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
 
         </bibl>
+        <bibl xml:id="pmb78216">
+          
+  
+          <title type="main">Streichsextett Nr. 2 G-Dur, op. 36</title>
+          
+  
+          <title type="legacy-name-merge">Streichsextett Nr. 2 G-Dur op. 36</title>
+          
+  
+          <title type="legacy-name-merge">Sextette, Violine (2), Viola (2), Violoncello (2), Nr. 2, op. 36 (G-Dur)</title>
+          
+  
+          <title type="legacy-name-merge">Streichsextett Nr. 2 G-Dur, op. 36</title>
+          
+  
+          <author key="pmb10989" role="hat-geschaffen">Brahms, Johannes</author>
+          
+
+          <date notBefore-iso="1866-01-01" when-iso="1866-01-01">1866</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/78216/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/78220/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78216.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78220.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300026846</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_2419.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/411490/</idno>
+          
+  
+          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/JBWV_0037 - op. 36 - Streichsextett Nr. 2 G-Dur.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78220.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/204880/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="28">Brahms Online</bibl>
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Kammermusik (Streicher)</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb78198">
           
   
-          <title type="main">Ein deutsches Requiem op. 45</title>
+          <title type="main">Ein deutsches Requiem, op. 45</title>
+          
+  
+          <title type="legacy-name-merge">Ein deutsches Requiem, op. 45</title>
           
   
           <author key="pmb10989" role="hat-geschaffen">Brahms, Johannes</author>
@@ -57126,6 +58635,24 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78198.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/411508/</idno>
+          
+  
+          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/JBWV_0046 - op. 45 - Ein deutsches Requiem.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="28">Brahms Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Messe</note>
           
 
         </bibl>
@@ -58508,6 +60035,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hotel_Imperial_advertisement_in_Moving_Picture_World_on_January_1%2C_1927.jpg/250px-Hotel_Imperial_advertisement_in_Moving_Picture_World_on_January_1%2C_1927.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb77966">
           
@@ -58575,6 +60111,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Greta_Garbo_in_G%C3%B6sta_Berlings_Saga_1924.jpg/250px-Greta_Garbo_in_G%C3%B6sta_Berlings_Saga_1924.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb77965">
           
@@ -58634,6 +60179,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gunnar_Hedes_saga_(1923)_-_1.jpg/250px-Gunnar_Hedes_saga_(1923)_-_1.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -59073,7 +60627,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb77904">
           
   
-          <title type="main">Dimitri op. 64</title>
+          <title type="main">Dimitri, op. 64</title>
           
   
           <author key="pmb4816" role="hat-geschaffen">Dvořák, Antonín</author>
@@ -59088,11 +60642,23 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77904.html</idno>
           
 
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
+          
+
         </bibl>
         <bibl xml:id="pmb77903">
           
   
-          <title type="main">Die heilige Ludmila op. 71</title>
+          <title type="main">Die heilige Ludmila, op. 71</title>
           
   
           <author key="pmb4816" role="hat-geschaffen">Dvořák, Antonín</author>
@@ -59105,6 +60671,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77903.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oratorium</note>
           
 
         </bibl>
@@ -59166,6 +60744,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Title_page_first_editions_of_Lysistrata_of_Aristophanes%2C_1516.jpg/250px-Title_page_first_editions_of_Lysistrata_of_Aristophanes%2C_1516.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -61113,16 +62700,16 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb77662">
           
   
-          <title type="main">Winterreise [op. 89 D 911]</title>
+          <title type="main">Winterreise D 911</title>
           
   
           <title type="legacy-name-merge">Winterreise</title>
           
   
-          <author key="pmb12729" role="hat-geschaffen">Schubert, Franz Peter</author>
+          <author key="pmb12729" role="hat-geschaffen-vertonung">Schubert, Franz</author>
           
   
-          <author key="pmb193481" role="hat-geschaffen">Müller, Wilhelm</author>
+          <author key="pmb193481" role="hat-geschaffen-textgrundlage-von">Müller, Wilhelm</author>
           
 
           <date notBefore-iso="1828-01-01" when-iso="1828-01-01">1828</date>
@@ -61165,6 +62752,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Lieder</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Winterreise-cover.jpg/250px-Winterreise-cover.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -61327,6 +62923,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BarberSeville.jpg/250px-BarberSeville.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -61730,6 +63335,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Illustration_of_the_last_scene_of_Act3_of_%27Rienzi%27_by_Wagner_at_the_Th%C3%A9%C3%A2tre_Lyrique_1869_-_Bauer_1983p31.jpg/250px-Illustration_of_the_last_scene_of_Act3_of_%27Rienzi%27_by_Wagner_at_the_Th%C3%A9%C3%A2tre_Lyrique_1869_-_Bauer_1983p31.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb77559">
           
@@ -61758,7 +63372,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Ouvertüre</note>
           
 
         </bibl>
@@ -62323,10 +63937,13 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb77539">
           
   
-          <title type="main">Pique Dame op. 68</title>
+          <title type="main">Pique Dame, op. 68</title>
           
   
           <author key="pmb2540" role="hat-geschaffen">Tschaikowski, Pjotr Iljitsch</author>
+          
+
+          <date notBefore-iso="1890-01-01" when-iso="1890-01-01">1890</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77539/</idno>
@@ -62336,6 +63953,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77539.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -64016,6 +65642,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pagliacci_Original_Score_Cover.jpg/250px-Pagliacci_Original_Score_Cover.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb77415">
           
@@ -64336,6 +65971,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Scene_from_The_Power_of_Darkness.jpg/250px-Scene_from_The_Power_of_Darkness.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb77386">
           
@@ -64371,6 +66015,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Prince_Abrezkov_in_Tolstoy%27s_The_Living_Corpse_1911.jpg/250px-Prince_Abrezkov_in_Tolstoy%27s_The_Living_Corpse_1911.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -64622,6 +66275,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Film</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Kiss_Lobby_Card.jpg/250px-The_Kiss_Lobby_Card.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb77375">
           
@@ -64666,6 +66328,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Greta_Garbo_in_a_publicity_image_for_%22Anna_Christie%22.jpg/250px-Greta_Garbo_in_a_publicity_image_for_%22Anna_Christie%22.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -66160,7 +67831,16 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Messe</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/K626_Requiem_Mozart.jpg/250px-K626_Requiem_Mozart.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -66236,7 +67916,10 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb77191">
           
   
-          <title type="main">Symphonie Nr. 9 d-Moll op. 125</title>
+          <title type="main">Sinfonie Nr. 9 d-Moll, op. 125</title>
+          
+  
+          <title type="legacy-name-merge">Symphonie Nr. 9 d-Moll</title>
           
   
           <author key="pmb10866" role="hat-geschaffen">Beethoven, Ludwig van</author>
@@ -66250,15 +67933,45 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77191.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163270/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163270</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Sinfonie</note>
+          
+  
+          <note type="references"> </note>
+          
 
         </bibl>
         <bibl xml:id="pmb77165">
           
   
-          <title type="main">Missa solemnis D-Dur op. 123</title>
+          <title type="main">Missa solemnis D-Dur, op. 123</title>
+          
+  
+          <title type="legacy-name-merge">Messen, op. 123 (D-Dur)</title>
+          
+  
+          <title type="legacy-name-merge">Messen, op. 123 (D-Dur)</title>
           
   
           <author key="pmb10866" role="hat-geschaffen">Beethoven, Ludwig van</author>
+          
+
+          <date notBefore-iso="1824-01-01" when-iso="1824-01-01">1824</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77165/</idno>
@@ -66267,17 +67980,47 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77165.html</idno>
           
   
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Missa_solemnis_(Beethoven)</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77165.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/201336/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300015798</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q723790</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_87.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+
+          </note>
           
 
         </bibl>
         <bibl xml:id="pmb77164">
           
   
-          <title type="main">Messe C-Dur op. 86</title>
+          <title type="main">Messe C-Dur, op. 86</title>
+          
+  
+          <title type="legacy-name-merge">Messen, op. 86 (C-Dur)</title>
           
   
           <author key="pmb10866" role="hat-geschaffen">Beethoven, Ludwig van</author>
+          
+
+          <date notBefore-iso="1807-01-01" when-iso="1807-01-01">1807</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77164/</idno>
@@ -66286,17 +68029,50 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77164.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/204686/</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Messe_in_C-Dur_(Beethoven)</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77164.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/30001578X</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1760871</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_2244.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Messe</note>
           
 
         </bibl>
         <bibl xml:id="pmb77150">
           
   
-          <title type="main">Klavierkonzert Nr. 5 Es-Dur op. 73</title>
+          <title type="main">Klavierkonzert Nr. 5 Es-Dur, op. 73</title>
+          
+  
+          <title type="legacy-name-merge">Konzerte, Klavier, Orchester, Nr. 5, op. 73 (Es-Dur)</title>
           
   
           <author key="pmb10866" role="hat-geschaffen">Beethoven, Ludwig van</author>
+          
+
+          <date notBefore-iso="1809-01-01" when-iso="1809-01-01">1809</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77150/</idno>
@@ -66305,14 +68081,44 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77150.html</idno>
           
   
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/30001550X</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/5._Klavierkonzert_(Beethoven)</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77150.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202594/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q239700</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_879.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Instrumentalkonzert</note>
           
 
         </bibl>
         <bibl xml:id="pmb77142">
           
   
-          <title type="main">Die Geschöpfe des Prometheus, Ouvertüre C-Dur op. 43</title>
+          <title type="main">Die Geschöpfe des Prometheus, Ouvertüre C-Dur, op. 43</title>
           
   
           <author key="pmb10866" role="hat-geschaffen">Beethoven, Ludwig van</author>
@@ -66325,6 +68131,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77142.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Ouvertüre</note>
           
 
         </bibl>
@@ -67734,6 +69552,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="references">None</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wilhelm_Tell_(4).jpg/250px-Wilhelm_Tell_(4).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb77030">
           
@@ -67847,6 +69674,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Operette</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jules_Ch%C3%A9ret_-_Poster_for_Jacques_Offenbach%27s_La_Vie_parisienne_(1866).jpg/250px-Jules_Ch%C3%A9ret_-_Poster_for_Jacques_Offenbach%27s_La_Vie_parisienne_(1866).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb77023">
           
@@ -67912,6 +69748,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Oper</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Les_Contes_d%27Hoffmann.jpg/250px-Les_Contes_d%27Hoffmann.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -68039,6 +69884,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Operette</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Draner_-_La_Princesse_de_Tr%C3%A9bizonde%2C_Sparadrap.jpeg/250px-Draner_-_La_Princesse_de_Tr%C3%A9bizonde%2C_Sparadrap.jpeg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -69275,11 +71129,20 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="references"> </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Figaro.jpg/250px-Figaro.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb76846">
           
   
-          <title type="main">Schlagobers op. 70</title>
+          <title type="main">Schlagobers, op. 70</title>
           
   
           <author key="pmb12870" role="hat-geschaffen">Strauss, Richard</author>
@@ -69293,6 +71156,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76846.html</idno>
           
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
   
           <note type="work_kind">Ballett</note>
           
@@ -69301,7 +71173,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb76845">
           
   
-          <title type="main">Salome [op. 54]</title>
+          <title type="main">Salome, op. 54</title>
           
   
           <title type="legacy-name-merge">Salome</title>
@@ -69361,11 +71233,20 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Salome_by_Richard_Strauss_playbill_of_1905_premiere.jpg/250px-Salome_by_Richard_Strauss_playbill_of_1905_premiere.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb76842">
           
   
-          <title type="main">Intermezzo op. 72</title>
+          <title type="main">Intermezzo, op. 72</title>
           
   
           <author key="pmb12870" role="hat-geschaffen">Strauss, Richard</author>
@@ -69378,6 +71259,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76842.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -69421,7 +71311,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb76840">
           
   
-          <title type="main">Eine Alpensymphonie op. 64</title>
+          <title type="main">Eine Alpensinfonie, op. 64</title>
           
   
           <author key="pmb12870" role="hat-geschaffen">Strauss, Richard</author>
@@ -69436,11 +71326,23 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76840.html</idno>
           
 
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Sinfonie</note>
+          
+
         </bibl>
         <bibl xml:id="pmb76837">
           
   
-          <title type="main">Der Bürger als Edelmann [op. 60]</title>
+          <title type="main">Der Bürger als Edelmann, op. 60</title>
           
   
           <author key="pmb12870" role="hat-geschaffen">Strauss, Richard</author>
@@ -69582,6 +71484,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Much_Ado_Quarto.JPG/250px-Much_Ado_Quarto.JPG"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb76823">
           
@@ -69701,7 +71612,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb76806">
           
   
-          <title type="main">Griselidis. Symphonische Dichtung für Mezzosopran, Frauenchor, Orgel und Orchester</title>
+          <title type="main">Griselidis, Sinfonische Dichtung</title>
           
   
           <author key="pmb20914" role="hat-geschaffen">Mandl, Richard</author>
@@ -69725,7 +71636,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Sinfonische Dichtung</note>
           
 
         </bibl>
@@ -69787,6 +71698,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Dramenfragment</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fotothek_df_pk_0000024_a_016_Szenenbilder_%22Urfaust%22_mit_Otto_Eduard_Hasse_als_Mephisto.jpg/250px-Fotothek_df_pk_0000024_a_016_Szenenbilder_%22Urfaust%22_mit_Otto_Eduard_Hasse_als_Mephisto.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb76795">
           
@@ -69823,6 +71743,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10882904</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76795.html</idno>
+          
 
           <note type="collections">
             
@@ -69837,6 +71760,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Titelblatt_Faust_II_1832.jpg/250px-Titelblatt_Faust_II_1832.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -69919,6 +71851,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="references">None</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/EgmontUndKlaerchenZeichnungVonAngelikasKauffmannFuerKupferInGoetheSchriftenS123.jpg/250px-EgmontUndKlaerchenZeichnungVonAngelikasKauffmannFuerKupferInGoetheSchriftenS123.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -70064,6 +72005,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="references">  </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aganit.jpg/250px-Aganit.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -70650,6 +72600,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rigoletto_premiere_poster-res.jpg/250px-Rigoletto_premiere_poster-res.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb76697">
           
@@ -70690,8 +72649,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76696.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Musikstück</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Messe</note>
           
 
         </bibl>
@@ -71773,10 +73741,16 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb76606">
           
   
-          <title type="main">Symphonie Nr. 3 d-Moll WAB 103</title>
+          <title type="main">Sinfonie Nr. 3 d-Moll WAB 103</title>
+          
+  
+          <title type="legacy-name-merge">Sinfonien, WAB 103 (d-Moll)</title>
           
   
           <author key="pmb11024" role="hat-geschaffen">Bruckner, Anton</author>
+          
+
+          <date notBefore-iso="1873-01-01" when-iso="1873-01-01">1873</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76606/</idno>
@@ -71785,7 +73759,34 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76606.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202761/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300029969</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76606.html</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_969.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Sinfonie</note>
           
 
         </bibl>
@@ -73126,6 +75127,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Giuseppe_Verdi%2C_Simon_Boccanegra_first_edition_libretto_for_the_1881_revision_of_the_opera_-_Restoration.jpg/250px-Giuseppe_Verdi%2C_Simon_Boccanegra_first_edition_libretto_for_the_1881_revision_of_the_opera_-_Restoration.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb63600">
           
@@ -73441,6 +75451,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Die_Hermannsschlacht.jpg/250px-Die_Hermannsschlacht.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb62328">
           
@@ -73696,6 +75715,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Three_Sisters_cover_1901.jpg/250px-Three_Sisters_cover_1901.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb59338">
           
@@ -73734,6 +75762,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Uncle_Vanya_MAT.jpg/250px-Uncle_Vanya_MAT.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -74023,6 +76060,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zauberfl%C3%B6te-Theaterzettel1791.jpg/250px-Zauberfl%C3%B6te-Theaterzettel1791.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb56659">
           
@@ -74205,6 +76251,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bertolt_Brecht_-_Die_Dreigroschenoper_(The_Beggar%27s_Opera)%2C_Wien%2C_Universal-Edition%2C_(1928).jpg/250px-Bertolt_Brecht_-_Die_Dreigroschenoper_(The_Beggar%27s_Opera)%2C_Wien%2C_Universal-Edition%2C_(1928).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -74410,6 +76465,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Operette</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Johann_Strauss_operetta_Der_Zigeunerbaron_1885.png/250px-Johann_Strauss_operetta_Der_Zigeunerbaron_1885.png"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -74850,7 +76914,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Lieder</note>
           
 
         </bibl>
@@ -74948,6 +77012,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="references"> </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Siegfried_awakens_Brunhild.jpg/250px-Siegfried_awakens_Brunhild.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb43226">
           
@@ -74989,6 +77062,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Oper</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Siegfried_(tenore)%2C_figurino_di_Carl_Emil_Doepler_per_Siegfried_(1876)_-_Archivio_Storico_Ricordi_ICON004001.jpg/250px-Siegfried_(tenore)%2C_figurino_di_Carl_Emil_Doepler_per_Siegfried_(1876)_-_Archivio_Storico_Ricordi_ICON004001.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -75439,6 +77521,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="references">  </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fr%C3%BChlings_Erwachen.jpg/250px-Fr%C3%BChlings_Erwachen.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb42293">
           
@@ -75782,6 +77873,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <note type="work_kind">Roman</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LadyoftheCamellias.jpg/250px-LadyoftheCamellias.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb41412">
           
@@ -75996,6 +78096,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Ballett</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Josef_Bayer_The_Fairy_Doll_Die_Puppenfee_sm.jpg/250px-Josef_Bayer_The_Fairy_Doll_Die_Puppenfee_sm.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -76237,6 +78346,15 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Oper</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Die_Frau_ohne_Schatten_(Richard_Strauss).jpg/250px-Die_Frau_ohne_Schatten_(Richard_Strauss).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -77647,6 +79765,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">None </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/LeMisanthrope.jpg/250px-LeMisanthrope.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb34284">
           
@@ -77828,6 +79955,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references"> </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Midsommer_nights_dreame_1600_Quarto_title_page.jpg/250px-Midsommer_nights_dreame_1600_Quarto_title_page.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb34233">
           
@@ -77857,6 +79993,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Calder%C3%B3n_de_la_Barca_-_Comedias_Sueltas_-_La_dama_duende.jpg/250px-Calder%C3%B3n_de_la_Barca_-_Comedias_Sueltas_-_La_dama_duende.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -78931,6 +81076,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/La_vida_es_sue%C3%B1o%2C_en_el_35_Festival_Internacional_del_Teatro_Cl%C3%A1sico_03.jpg/250px-La_vida_es_sue%C3%B1o%2C_en_el_35_Festival_Internacional_del_Teatro_Cl%C3%A1sico_03.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb33704">
           
@@ -79192,6 +81346,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Lower_Depths_MAT_1902.jpg/250px-The_Lower_Depths_MAT_1902.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -79558,6 +81721,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">  </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tartuffe1739EnglishEdition.jpg/250px-Tartuffe1739EnglishEdition.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb33366">
           
@@ -79629,6 +81801,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references"> </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sir_Nathaniel_Dance-Holland_The_Daggers_Being_Given_to_Lady_Macbeth_nd.jpg/250px-Sir_Nathaniel_Dance-Holland_The_Daggers_Being_Given_to_Lady_Macbeth_nd.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -80318,6 +82499,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">None </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Parsifal_(1882_retuschiert).jpg/250px-Parsifal_(1882_retuschiert).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb33023">
           
@@ -80389,6 +82579,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dom_Carlos_1787.jpg/250px-Dom_Carlos_1787.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -80565,6 +82764,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references">  </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DBPB_1949_61_Johann_Wolfgang_von_Goethe.jpg/250px-DBPB_1949_61_Johann_Wolfgang_von_Goethe.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -80768,6 +82976,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Faust_2006_NZO_01_(cropped).jpg/250px-Faust_2006_NZO_01_(cropped).jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb32824">
           
@@ -80870,6 +83087,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Film</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Affairs_of_Anatol_1921_lobbycardposter.jpg/250px-The_Affairs_of_Anatol_1921_lobbycardposter.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -82784,7 +85010,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb32155">
           
   
-          <title type="main">9. Sinfonie</title>
+          <title type="main">Sinfonie Nr. 9</title>
           
   
           <author key="pmb12163" role="hat-geschaffen">Mahler, Gustav</author>
@@ -82818,6 +85044,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Sinfonie</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/RMF_Gustav_Mahler_Jugendorchester.jpg/250px-RMF_Gustav_Mahler_Jugendorchester.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -83059,6 +85294,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references">  </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Amphitryon.jpg/250px-Amphitryon.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -83631,6 +85875,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merchant_venice_tp.jpg/250px-Merchant_venice_tp.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb32045">
           
@@ -83820,7 +86073,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb32011">
           
   
-          <title type="main">Fidelio op. 72</title>
+          <title type="main">Fidelio, op. 72</title>
           
   
           <title type="legacy-name-merge">Fidelio op. 72</title>
@@ -83896,6 +86149,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references">None</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fidelio18140523.jpg/250px-Fidelio18140523.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -84196,6 +86458,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references"> </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D1%8C_%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C_%D1%88%D0%B0%D1%80%D0%B6_1889_%D0%B3%D0%BE%D0%B4.jpg/250px-%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D1%8C_%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C_%D1%88%D0%B0%D1%80%D0%B6_1889_%D0%B3%D0%BE%D0%B4.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31943">
           
@@ -84364,6 +86635,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">None</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gerhart_Hauptmann_Vor_Sonnenaufgang_1889.jpg/250px-Gerhart_Hauptmann_Vor_Sonnenaufgang_1889.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31933">
           
@@ -84493,6 +86773,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references"> </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RUB_10_(Leipzig%2C_1968%2C_19.Auflage)_-_Lessing%2C_Minna_von_Barnhelm.jpg/250px-RUB_10_(Leipzig%2C_1968%2C_19.Auflage)_-_Lessing%2C_Minna_von_Barnhelm.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -84687,6 +86976,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Taming_of_the_Shrew.jpg/250px-Taming_of_the_Shrew.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -85830,11 +88128,20 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thomas_Keene_in_Othello_1884_Poster.JPG/250px-Thomas_Keene_in_Othello_1884_Poster.JPG"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31663">
           
   
-          <title type="main">7. Sinfonie</title>
+          <title type="main">Sinfonie Nr. 7</title>
           
   
           <author key="pmb12163" role="hat-geschaffen">Mahler, Gustav</author>
@@ -85868,6 +88175,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Sinfonie</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mahler_Symphony_No._7%2C_opening_02.png/250px-Mahler_Symphony_No._7%2C_opening_02.png"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -86060,6 +88376,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">None</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Max_Devrient_Zawisch.jpg/250px-Max_Devrient_Zawisch.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31631">
           
@@ -86238,6 +88563,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Ballett</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Le_Malade_imaginaire_frontispice.jpg/250px-Le_Malade_imaginaire_frontispice.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -86692,6 +89026,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Friedrich_Schiller_-_Kabale_und_Liebe_1784.jpg/250px-Friedrich_Schiller_-_Kabale_und_Liebe_1784.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31597">
           
@@ -86803,6 +89146,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lytras_nikiforos_antigone_polynices.jpeg/250px-Lytras_nikiforos_antigone_polynices.jpeg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31589">
           
@@ -86902,6 +89254,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references">  </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Goethe_Die_nat%C3%BCrliche_Tochter_1804.jpg/250px-Goethe_Die_nat%C3%BCrliche_Tochter_1804.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -87144,6 +89505,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Henrik-Klausen-Peer-Gynt-1876.jpg/250px-Henrik-Klausen-Peer-Gynt-1876.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -87631,6 +90001,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Greta_Pfeil-Sigurd_Wallen-Gamla_Heidelberg.jpg/250px-Greta_Pfeil-Sigurd_Wallen-Gamla_Heidelberg.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31491">
           
@@ -87906,6 +90285,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references"> </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Schiller_Die_R%C3%A4uber_1781.jpg/250px-Schiller_Die_R%C3%A4uber_1781.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31429">
           
@@ -88022,6 +90410,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wagner_Tannh%C3%A4user_1845.jpg/250px-Wagner_Tannh%C3%A4user_1845.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31417">
           
@@ -88096,6 +90493,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Brutus_and_the_Ghost_of_Caesar_1802.jpg/250px-Brutus_and_the_Ghost_of_Caesar_1802.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -89467,6 +91873,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references"> </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Romeo_and_juliet_brown.jpg/250px-Romeo_and_juliet_brown.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31189">
           
@@ -89610,6 +92025,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">None</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Murder_Of_Agamemnon_-_Project_Gutenberg_eText_14994.png/250px-The_Murder_Of_Agamemnon_-_Project_Gutenberg_eText_14994.png"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31181">
           
@@ -89699,6 +92123,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fiesco_1783.jpg/250px-Fiesco_1783.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -90038,6 +92471,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Clavigo._Ein_Trauerspiel_(Goethe)_1774_-_001.jpg/250px-Clavigo._Ein_Trauerspiel_(Goethe)_1774_-_001.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb31091">
           
@@ -90200,11 +92642,20 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scene_from_Goethe%27s_%27G%C3%B6tz%27_(G%C3%B6tz_von_Berlichingen_Writing_his_Memoirs)_MET_DT3270.jpg/250px-Scene_from_Goethe%27s_%27G%C3%B6tz%27_(G%C3%B6tz_von_Berlichingen_Writing_his_Memoirs)_MET_DT3270.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30977">
           
   
-          <title type="main">4. Sinfonie in G-Dur</title>
+          <title type="main">Sinfonie Nr. 4 G-Dur</title>
           
   
           <title type="legacy-name-merge">4. Sinfonie in G-Dur</title>
@@ -90247,6 +92698,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Sinfonie</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mahler_4_1st_movt_Fig_5.png/250px-Mahler_4_1st_movt_Fig_5.png"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -90649,6 +93109,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TheMarriageofFigaroOriginalPoster.jpg/250px-TheMarriageofFigaroOriginalPoster.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30935">
           
@@ -90681,16 +93150,16 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30933">
           
   
-          <title type="main">Der Wegweiser [g-Moll D 911]</title>
+          <title type="main">Der Wegweiser. Winterreise D 911</title>
           
   
           <title type="legacy-name-merge">Winterreise. Der Wegweiser</title>
           
   
-          <author key="pmb193481" role="hat-geschaffen">Müller, Wilhelm</author>
+          <author key="pmb193481" role="hat-geschaffen-textgrundlage-von">Müller, Wilhelm</author>
           
   
-          <author key="pmb12729" role="hat-geschaffen">Schubert, Franz Peter</author>
+          <author key="pmb12729" role="hat-geschaffen-vertonung">Schubert, Franz</author>
           
 
           <date notBefore-iso="1827-01-01" when-iso="1827-01-01">1827</date>
@@ -91325,6 +93794,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Erzählung</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Traumnovelle-Titelbild.gif/250px-Traumnovelle-Titelbild.gif"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30849">
           
@@ -91372,6 +93850,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Romanfragment</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/1954_(3)_Felix_Krull_Commons.jpg/250px-1954_(3)_Felix_Krull_Commons.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -91447,6 +93934,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">None</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Traviata.jpg/250px-Traviata.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30845">
           
@@ -91491,6 +93987,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Oper</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Locandina_Manon_Lescaut.jpg/250px-Locandina_Manon_Lescaut.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -91886,7 +94391,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30777">
           
   
-          <title type="main">2. Sinfonie in c-Moll</title>
+          <title type="main">Sinfonie Nr. 2 c-Moll</title>
           
   
           <title type="legacy-name-merge">2. Sinfonie in c-Moll</title>
@@ -91938,9 +94443,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Sinfonie</note>
-          
-  
-          <note type="references">  </note>
           
 
         </bibl>
@@ -92029,7 +94531,13 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30757">
           
   
-          <title type="main">Symphonie Nr. 1 C-Moll op. 68</title>
+          <title type="main">Sinfonie Nr. 1 c-Moll, op. 68</title>
+          
+  
+          <title type="legacy-name-merge">Symphonie Nr. 1 c-Moll, op. 68</title>
+          
+  
+          <title type="legacy-name-merge">Sinfonien, Nr. 1, op. 68 (c-Moll)</title>
           
   
           <author key="pmb10989" role="hat-geschaffen">Brahms, Johannes</author>
@@ -92047,7 +94555,43 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30757.html</idno>
           
   
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300026862</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q163512</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_1575.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30757.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/411560/</idno>
+          
+  
+          <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/JBWV_0072 - op. 68 - Symphonie Nr. 1 c-Moll.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/203681/</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/1._Sinfonie_(Brahms)</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="28">Brahms Online</bibl>
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Sinfonie</note>
@@ -92133,6 +94677,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references"> </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Schiller_Theaterzettel_Jungfrau_von_Orl%C3%A9ans_1801.jpg/250px-Schiller_Theaterzettel_Jungfrau_von_Orl%C3%A9ans_1801.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -92478,7 +95031,16 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30701">
           
   
-          <title type="main">Symphonie Nr. 8 c-Moll WAB 108</title>
+          <title type="main">Sinfonie Nr. 8 c-Moll WAB 108</title>
+          
+  
+          <title type="legacy-name-merge">8. Symphonie (c-Moll)</title>
+          
+  
+          <title type="legacy-name-merge">Sinfonien, WAB 108 (c-Moll)</title>
+          
+  
+          <title type="legacy-name-merge">8. Sinfonie in c-Moll (WAB 108)</title>
           
   
           <author key="pmb11024" role="hat-geschaffen">Bruckner, Anton</author>
@@ -92496,7 +95058,46 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30701.html</idno>
           
   
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300030010</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_2241.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/8._Sinfonie_(Bruckner)</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30701.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163380/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163380</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/204680/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q270798</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31421.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/31421/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Sinfonie</note>
@@ -92774,6 +95375,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Mehraktiges Drama</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Theaterzettel_Weimar_2._M%C3%A4rz_1808.jpg/250px-Theaterzettel_Weimar_2._M%C3%A4rz_1808.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30673">
           
@@ -92812,7 +95422,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30665">
           
   
-          <title type="main">Symphonie Nr. 6 h-Moll op. 74 »Pathétique«</title>
+          <title type="main">Sinfonie Nr. 6 h-Moll, op. 74 »Pathétique«</title>
           
   
           <author key="pmb2540" role="hat-geschaffen">Tschaikowski, Pjotr Iljitsch</author>
@@ -92832,6 +95442,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30665.html</idno>
           
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
   
           <note type="work_kind">Sinfonie</note>
           
@@ -92840,7 +95459,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30663">
           
   
-          <title type="main">Coriolan, Ouvertüre c-moll, op. 62</title>
+          <title type="main">Coriolan, Ouvertüre c-Moll, op. 62</title>
           
   
           <title type="legacy-name-merge">Ouvertüre zum Trauerspiel &quot;Coriolan&quot;</title>
@@ -92891,7 +95510,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           </note>
           
   
-          <note type="work_kind">Musikstück</note>
+          <note type="work_kind">Ouvertüre</note>
           
 
         </bibl>
@@ -92962,6 +95581,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references">None </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wagner_-_Die_Meistersinger_von_N%C3%BCrnberg%2C_act_I_-_Walter%27s_trial_-_The_Victrola_book_of_the_opera.jpg/250px-Wagner_-_Die_Meistersinger_von_N%C3%BCrnberg%2C_act_I_-_Walter%27s_trial_-_The_Victrola_book_of_the_opera.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -93142,6 +95770,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cornell-de-Cordoba-Candida-1924.jpg/250px-Cornell-de-Cordoba-Candida-1924.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -93438,6 +96075,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Carmen_-_illustration_by_Luc_for_Journal_Amusant_1911.jpg/250px-Carmen_-_illustration_by_Luc_for_Journal_Amusant_1911.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30625">
           
@@ -93606,6 +96252,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">None  </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/DON_GIOVANNI_1%C3%A8re_page.jpg/250px-DON_GIOVANNI_1%C3%A8re_page.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30607">
           
@@ -93769,6 +96424,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Oper</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cavalleria_Rusticana_Illustration_Circa_1880.jpg/250px-Cavalleria_Rusticana_Illustration_Circa_1880.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -94446,8 +97110,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30451.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Musikstück</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Klavier solo</note>
           
 
         </bibl>
@@ -94543,6 +97216,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Oper</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hansel_and_Gretel_by_Engelbert_Humperdinck_(theatre_adaptation).jpg/250px-Hansel_and_Gretel_by_Engelbert_Humperdinck_(theatre_adaptation).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -94852,6 +97534,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references">None</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Opera_in_the_Heights%2C_Die_Fledermaus_-_0442.jpg/250px-Opera_in_the_Heights%2C_Die_Fledermaus_-_0442.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -95763,6 +98454,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Oper</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Robert_Sterl_Schuch_dirigiert_Rosenkavalier.jpg/250px-Robert_Sterl_Schuch_dirigiert_Rosenkavalier.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30311">
           
@@ -96253,6 +98953,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">  </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Auerbachs_Keller.JPG/250px-Auerbachs_Keller.JPG"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30235">
           
@@ -96438,6 +99147,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Achilles_och_Penthesilea.jpg/250px-Achilles_och_Penthesilea.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -97260,6 +99978,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">None</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Daniel_Chodowiecki_Stella.jpg/250px-Daniel_Chodowiecki_Stella.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30187">
           
@@ -98024,6 +100751,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">  </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jedermann_Michelides_52.jpeg/250px-Jedermann_Michelides_52.jpeg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30127">
           
@@ -98080,7 +100816,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30123">
           
   
-          <title type="main">3. Sinfonie in d-Moll</title>
+          <title type="main">Sinfonie Nr. 3 d-Moll</title>
           
   
           <title type="legacy-name-merge">Symphonie Nr. 3 d-Moll</title>
@@ -98127,8 +100863,14 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <note type="work_kind">Sinfonie</note>
           
-  
-          <note type="references"> </note>
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gustav_Mahler_1909.jpg/250px-Gustav_Mahler_1909.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -98290,6 +101032,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references"> </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Michal_Weinberg_and_Shiri_Golan_in_Mary_Stuart_by_Gadi_Dagon.jpg/250px-Michal_Weinberg_and_Shiri_Golan_in_Mary_Stuart_by_Gadi_Dagon.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -98853,6 +101604,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references"> </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Goethe_Torquato_Tasso_1790.jpg/250px-Goethe_Torquato_Tasso_1790.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb30029">
           
@@ -98906,6 +101666,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references"> </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Salzburger_Festspiele_2012_-_Prinz_Friedrich_von_Homburg.jpg/250px-Salzburger_Festspiele_2012_-_Prinz_Friedrich_von_Homburg.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -99180,6 +101949,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references"> </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hamlet_Q2_TP_1604.jpg/250px-Hamlet_Q2_TP_1604.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -100032,6 +102810,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="work_kind">Erzählung</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DE_Schnitzler_Else_005.png/250px-DE_Schnitzler_Else_005.png"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb29937">
           
@@ -100238,6 +103025,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references"> </note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Arthur_Schnitzler_-_Anatol%2C_Berlin_1893.jpg/250px-Arthur_Schnitzler_-_Anatol%2C_Berlin_1893.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb29931">
           
@@ -100321,7 +103117,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb29925">
           
   
-          <title type="main">Elektra [op. 58]</title>
+          <title type="main">Elektra, op. 58</title>
           
   
           <title type="legacy-name-merge">Elektra</title>
@@ -100333,7 +103129,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb12870" role="hat-geschaffen-vertonung">Strauss, Richard</author>
           
   
-          <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
+          <author key="pmb11740" role="hat-geschaffen-textgrundlage-von">Hofmannsthal, Hugo von</author>
           
 
           <date>1909-01-25</date>
@@ -100382,6 +103178,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Oper</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Richard_Strauss_-_Elektra_-_titlepage_of_the_libretto_-_drawing_by_Lovis_Corinth_-_1909.png/250px-Richard_Strauss_-_Elektra_-_titlepage_of_the_libretto_-_drawing_by_Lovis_Corinth_-_1909.png"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -100470,6 +103275,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references"> </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/De_Gesammelte_Werke_III_(Schnitzler)_001.jpg/250px-De_Gesammelte_Werke_III_(Schnitzler)_001.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -100634,6 +103448,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references"> </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hedda_Gabler.jpg/250px-Hedda_Gabler.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -101044,6 +103867,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references">None </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Joseph_Albert_-_Ludwig_und_Malwine_Schnorr_von_Carolsfeld_-_Tristan_und_Isolde%2C_1865f.jpg/250px-Joseph_Albert_-_Ludwig_und_Malwine_Schnorr_von_Carolsfeld_-_Tristan_und_Isolde%2C_1865f.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -101893,6 +104725,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <note type="references">None</note>
           
 
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Artur_Schnitzler_1900_Reigen.jpg/250px-Artur_Schnitzler_1900_Reigen.jpg"/>
+            
+
+          </figure>
+          
+
         </bibl>
         <bibl xml:id="pmb29853">
           
@@ -101973,6 +104814,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Novelle</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Arthur_Schnitzler_Lieutenant_Gustl_(1901).jpg/250px-Arthur_Schnitzler_Lieutenant_Gustl_(1901).jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -102613,6 +105463,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="references">  </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Die_Weber_1897_by_Emil_Orlik.jpeg/250px-Die_Weber_1897_by_Emil_Orlik.jpeg"/>
+            
+
+          </figure>
           
 
         </bibl>

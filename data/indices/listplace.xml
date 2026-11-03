@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-10-23">serialized</change>
+      <change when-iso="2026-11-03">serialized</change>
       
        
     </revisionDesc>
@@ -104,6 +104,9 @@
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1029364710</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405742.html</idno>
+          
 
           <listBibl>
             
@@ -123,7 +126,7 @@
             <figure>
               
     
-              <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Wien_-_Musikverein%2C_gro%C3%9Fer_Saal.JPG?utm_source=www.wikidata.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wien_-_Musikverein%2C_gro%C3%9Fer_Saal.JPG/250px-Wien_-_Musikverein%2C_gro%C3%9Fer_Saal.JPG"/>
               
   
             </figure>
@@ -593,6 +596,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Synagoge_Turnergasse_1900.jpg/250px-Synagoge_Turnergasse_1900.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb296613">
           
@@ -829,6 +847,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wien_02_Praterstra%C3%9Fe_34_a.jpg/250px-Wien_02_Praterstra%C3%9Fe_34_a.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -2116,6 +2149,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rudolf_Ritter_von_Alt_006.jpg/250px-Rudolf_Ritter_von_Alt_006.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -3611,6 +3659,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Baden_bei_Wien_Beethovenhaus.JPG/250px-Baden_bei_Wien_Beethovenhaus.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb292334">
           
@@ -3807,6 +3870,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Schulgasse_1_W%C3%A4hring_III.png/250px-Schulgasse_1_W%C3%A4hring_III.png"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -4223,6 +4301,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Winterpalais_Prinz_Eugen.jpg/250px-Winterpalais_Prinz_Eugen.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb289053">
           
@@ -4298,6 +4391,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb289053.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb289053.html</idno>
+          
 
           <listBibl>
             
@@ -4314,7 +4410,7 @@
             <figure>
               
     
-              <graphic url="https://upload.wikimedia.org/wikipedia/commons/3/35/Wien_-_Musikverein%2C_Brahms-Saal.JPG?utm_source=de.wikipedia.org&amp;utm_campaign=index&amp;utm_content=original"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wien_-_Musikverein%2C_Brahms-Saal.JPG/250px-Wien_-_Musikverein%2C_Brahms-Saal.JPG"/>
               
   
             </figure>
@@ -4470,6 +4566,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Graz_-_Opernhaus_(a).JPG/250px-Graz_-_Opernhaus_(a).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -4717,6 +4828,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AT-13768_Palmenhaus_Burggarten_05.JPG/250px-AT-13768_Palmenhaus_Burggarten_05.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -5069,6 +5195,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gardekirche.jpg/250px-Gardekirche.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb266792">
           
@@ -5230,6 +5371,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Wien_-_Palais_Auersperg_(4).JPG/250px-Wien_-_Palais_Auersperg_(4).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb266383">
           
@@ -5303,6 +5459,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sascha-Film_Wien_Ansicht_2009.jpg/250px-Sascha-Film_Wien_Ansicht_2009.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb266207">
           
@@ -5368,6 +5539,21 @@
             
 
             <date to-iso="1960-08-01">1912-04-17 – 1960-08</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bio_Piccadilly_1950-tal_(1).jpg/250px-Bio_Piccadilly_1950-tal_(1).jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -5562,6 +5748,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Politikens_Hus_02.jpg/250px-Politikens_Hus_02.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb265076">
           
@@ -5700,6 +5901,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hotel_Seevilla_Altaussee.jpg/250px-Hotel_Seevilla_Altaussee.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -6304,6 +6520,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bayerisches_Armeemuseum_Eingang_hoch.jpg/250px-Bayerisches_Armeemuseum_Eingang_hoch.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb256478">
           
@@ -6511,6 +6742,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/STS059-238-074_Strait_of_Gibraltar.jpg/250px-STS059-238-074_Strait_of_Gibraltar.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb256363">
           
@@ -6573,6 +6819,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Une_fontaine_en_plein_centre_du_jardin_d%27essai_%C3%A0_Alger_5.JPG/250px-Une_fontaine_en_plein_centre_du_jardin_d%27essai_%C3%A0_Alger_5.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -6707,6 +6968,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wien_-_Schloss_Belvedere%2C_oberes_(1).JPG/250px-Wien_-_Schloss_Belvedere%2C_oberes_(1).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -6984,6 +7260,21 @@
             
 
             <date to-iso="1913-10-05">1913-05-03 – 1913-10-05</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Adria_Ausstellung_von_oben.jpg/250px-Adria_Ausstellung_von_oben.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -7367,6 +7658,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Marmorhaus.jpg/250px-Marmorhaus.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb253222">
           
@@ -7659,6 +7965,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/K%C3%BCnstlerhaus_Dresden-Loschwitz_2016_-002.JPG/250px-K%C3%BCnstlerhaus_Dresden-Loschwitz_2016_-002.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb252513">
           
@@ -7854,6 +8175,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Musiksaal_im_Stadtcasino_Basel.jpg/250px-Musiksaal_im_Stadtcasino_Basel.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb251766">
           
@@ -7925,6 +8261,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Liederhalle_Stuttgart_pjt4.jpg/250px-Liederhalle_Stuttgart_pjt4.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -8082,6 +8433,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Berlin_Theater_am_Kurfuerstendamm.jpg/250px-Berlin_Theater_am_Kurfuerstendamm.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb251241">
           
@@ -8225,6 +8591,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Franz%C3%B6sische_Botschaft_Wien.jpg/250px-Franz%C3%B6sische_Botschaft_Wien.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb250999">
           
@@ -8302,6 +8683,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wien_Museum_Neu.jpg/250px-Wien_Museum_Neu.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -8387,6 +8783,21 @@
             
 
             <date when-iso="1944-01-01" notAfter-iso="1944-12-31">1944</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/250px-Alte_Oper_Frankfurt_2019.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -8992,6 +9403,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Poessenbacher_Str._21_Muenchen-1.jpg/250px-Poessenbacher_Str._21_Muenchen-1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb248975">
           
@@ -9111,6 +9537,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vittoriale_1.jpg/250px-Vittoriale_1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb247932">
           
@@ -9184,6 +9625,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MuseumsQuartier_Wien_Sept_2020_1.jpg/250px-MuseumsQuartier_Wien_Sept_2020_1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb247869">
           
@@ -9249,6 +9705,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Budapest%2C_Royal_Palace_Complex%2C_Hungarian_National_Gallery_%22B%22_Wing_from_the_Hunyadi_Courtyard_and_the_Horse_Wrangler_Statue.jpg/250px-Budapest%2C_Royal_Palace_Complex%2C_Hungarian_National_Gallery_%22B%22_Wing_from_the_Hunyadi_Courtyard_and_the_Horse_Wrangler_Statue.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -9324,6 +9795,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wien_Dominikanerkirche.jpg/250px-Wien_Dominikanerkirche.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb247612">
           
@@ -9388,6 +9874,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Dinner_and_Ball_in_the_Teatro_San_Benedetto_Venice%2C_in_Honour_of_the_Conti_Del_Nord%2C_22nd_January_1782.jpg/250px-The_Dinner_and_Ball_in_the_Teatro_San_Benedetto_Venice%2C_in_Honour_of_the_Conti_Del_Nord%2C_22nd_January_1782.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb247577">
           
@@ -9449,6 +9950,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ausstellung_M%C3%BCnchen_1908_K%C3%BCnstlertheater_(Erbauer_Heilmann_%26_Littmann).jpg/250px-Ausstellung_M%C3%BCnchen_1908_K%C3%BCnstlertheater_(Erbauer_Heilmann_%26_Littmann).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb247530">
           
@@ -9508,6 +10024,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/250px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -9721,6 +10252,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/250px-Theater_Baden-Baden.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -9985,6 +10531,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Evangelische_Kirche_Wien_Dorotheergasse.JPG/250px-Evangelische_Kirche_Wien_Dorotheergasse.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb246139">
           
@@ -10047,6 +10608,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/M%C3%BCnchen_Marionettentheater.JPG/250px-M%C3%BCnchen_Marionettentheater.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -10168,6 +10744,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Middenpartij_-_Amsterdam_-_20015678_-_RCE.jpg/250px-Middenpartij_-_Amsterdam_-_20015678_-_RCE.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb245758">
           
@@ -10230,6 +10821,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Panorama_Mesdag_08.jpg/250px-Panorama_Mesdag_08.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -10427,6 +11033,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wien_-_Theseustempel.JPG/250px-Wien_-_Theseustempel.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb244962">
           
@@ -10480,6 +11101,9 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb244962.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb244962.html</idno>
           
 
           <listBibl>
@@ -10689,6 +11313,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ilmenau_Goethehaeuschen.jpg/250px-Ilmenau_Goethehaeuschen.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb238177">
           
@@ -10756,6 +11395,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar%2C_Museum_Neues_Weimar.jpg/250px-Weimar%2C_Museum_Neues_Weimar.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb238174">
           
@@ -10818,6 +11472,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coudr_05.jpg/250px-Coudr_05.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -10894,6 +11563,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berlin_Ufa-Palast_am_Zoo_191-0463.jpg/250px-Berlin_Ufa-Palast_am_Zoo_191-0463.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -11154,6 +11838,9 @@
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb237370.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb237370.html</idno>
+          
 
           <listBibl>
             
@@ -11293,6 +11980,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschlo%C3%9F_Gr%C3%BCnes_Gew%C3%B6lbe.jpg/250px-20080711030DR_Dresden_Residenzschlo%C3%9F_Gr%C3%BCnes_Gew%C3%B6lbe.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -11549,6 +12251,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mus%C3%A9e_de_Montreux%2C_entr%C3%A9e%2C_c%C3%B4t%C3%A9_nord-est.jpg/250px-Mus%C3%A9e_de_Montreux%2C_entr%C3%A9e%2C_c%C3%B4t%C3%A9_nord-est.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -11823,6 +12540,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bundesarchiv_B_145_Bild-P049294%2C_Berlin%2C_Akademie_der_K%C3%BCnste.jpg/250px-Bundesarchiv_B_145_Bild-P049294%2C_Berlin%2C_Akademie_der_K%C3%BCnste.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -12169,6 +12901,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berlin-Mitte_Kronprinzenpalais_UdL_asv2023-10_img1.jpg/250px-Berlin-Mitte_Kronprinzenpalais_UdL_asv2023-10_img1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb235251">
           
@@ -12383,6 +13130,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Facciata_Villa_Pallavicini.JPG/250px-Facciata_Villa_Pallavicini.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -12654,6 +13416,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/StazionezoologicaAntonDohrnNapoli19-12-10_1512.jpg/250px-StazionezoologicaAntonDohrnNapoli19-12-10_1512.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -13006,6 +13783,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mueprinzregstrbnatmus20012018c85.jpg/250px-Mueprinzregstrbnatmus20012018c85.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb233118">
           
@@ -13079,6 +13871,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Friedhof_San_Michele_Venedig_Aug_2020_1.jpg/250px-Friedhof_San_Michele_Venedig_Aug_2020_1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb233016">
           
@@ -13150,6 +13957,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Stadttempel_Vienna_September_2006_010.jpg/250px-Stadttempel_Vienna_September_2006_010.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -13283,6 +14105,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fondaco_dei_Turchi.jpg/250px-Fondaco_dei_Turchi.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb232830">
           
@@ -13342,6 +14179,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ca%27_d%27Oro_facciata.jpg/250px-Ca%27_d%27Oro_facciata.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -13487,6 +14339,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/W%C3%A4hringer_Tempel_Vienna_Sept_2006_001.jpg/250px-W%C3%A4hringer_Tempel_Vienna_Sept_2006_001.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb232611">
           
@@ -13613,6 +14480,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gebr%C3%BCder-Herrnfeld-Theater_Zuschauerraum.jpg/250px-Gebr%C3%BCder-Herrnfeld-Theater_Zuschauerraum.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -14017,6 +14899,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Palazzo_del_bargello_visto_da_piazza_san_firenze.JPG/250px-Palazzo_del_bargello_visto_da_piazza_san_firenze.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb231451">
           
@@ -14079,6 +14976,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Palazzo_Doria_Pamphilj.jpg/250px-Palazzo_Doria_Pamphilj.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -14154,6 +15066,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Roma_Museo_Borghese.jpg/250px-Roma_Museo_Borghese.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb231425">
           
@@ -14216,6 +15143,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Palazzo_dei_Conservatori_in_Rome_(2).jpg/250px-Palazzo_dei_Conservatori_in_Rome_(2).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -14282,6 +15224,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Raffael_Stanza_della_Segnatura.jpg/250px-Raffael_Stanza_della_Segnatura.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb231385">
           
@@ -14346,6 +15303,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Palazzo_Bianco_02.jpg/250px-Palazzo_Bianco_02.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb231363">
           
@@ -14405,6 +15377,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Berlin_Gloria-Palast_124047a.jpg/250px-Berlin_Gloria-Palast_124047a.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -14675,6 +15662,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ernst_Graner_Wiener_Stadttheater.jpg/250px-Ernst_Graner_Wiener_Stadttheater.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb211337">
           
@@ -14816,6 +15818,9 @@
           <placeName>Strauchgasse 1</placeName>
           
   
+          <placeName type="legacy-name-merge">Strauchgasse 1</placeName>
+          
+  
           <desc type="entity_type">Wohngebäude (K.WHS)</desc>
           
   
@@ -14863,11 +15868,20 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207076.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341484/</idno>
+          
+  
+          <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.6.38</idno>
+          
 
           <listBibl>
             
     
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+    
+            <bibl type="collections" n="87">Schönberg-Briefe: Universal-Edition und Dreililien</bibl>
             
     
             <bibl type="collections" n="43">Wiener Schnitzler – Schnitzlers Wien</bibl>
@@ -15147,6 +16161,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Parma%2C_palazzo_della_pilotta_01.jpg/250px-Parma%2C_palazzo_della_pilotta_01.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb200959">
           
@@ -15209,6 +16238,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luzern_Gletschergarten_4.04.02_04.jpg/250px-Luzern_Gletschergarten_4.04.02_04.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -15275,6 +16319,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Basel_Barf%C3%BCsserkirche_Inneres_11-05-2008.jpg/250px-Basel_Barf%C3%BCsserkirche_Inneres_11-05-2008.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb200939">
           
@@ -15334,6 +16393,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Basel_Museum_Augustinergasse_SE_13-05-2008.jpg/250px-Basel_Museum_Augustinergasse_SE_13-05-2008.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -15403,6 +16477,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Austria_august2010_0135.jpg/250px-Austria_august2010_0135.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb200910">
           
@@ -15462,6 +16551,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Graz_altes_Joanneum_Raubergasse_2025-04-11.jpg/250px-Graz_altes_Joanneum_Raubergasse_2025-04-11.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -15674,6 +16778,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Poster_%27The_Lions_-_Nouveau_Cirque%27_by_PAL_-_M%C3%A9diath%C3%A8que_de_Chaumont.jpg/250px-Poster_%27The_Lions_-_Nouveau_Cirque%27_by_PAL_-_M%C3%A9diath%C3%A8que_de_Chaumont.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb200131">
           
@@ -15733,6 +16852,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Le_mus%C3%A9e_Guimet_November_20%2C_2011.jpg/250px-Le_mus%C3%A9e_Guimet_November_20%2C_2011.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -15797,6 +16931,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tiergarten_am_Sch%C3%BCttel_%C3%BCber_Donaukanal.jpg/250px-Tiergarten_am_Sch%C3%BCttel_%C3%BCber_Donaukanal.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -15925,6 +17074,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hanseatic_museum_Murtasken_Bergen.jpg/250px-Hanseatic_museum_Murtasken_Bergen.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -16378,6 +17542,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/M%C3%BCnchen_Museum_f%C3%BCr_Abg%C3%BCsse_klassischer_Bildwerke_(Geb%C3%A4uder%C3%BCckseite).JPG/250px-M%C3%BCnchen_Museum_f%C3%BCr_Abg%C3%BCsse_klassischer_Bildwerke_(Geb%C3%A4uder%C3%BCckseite).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb199200">
           
@@ -16440,6 +17619,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nuernberg_gnm_haupteingang_menschenrechte_v_nnw.jpg/250px-Nuernberg_gnm_haupteingang_menschenrechte_v_nnw.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -16842,6 +18036,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/M%C3%BCnchen%2C_Bayern_-_Brienerstra%C3%9Fe%2C_Schack-Galerie_(Zeno_Ansichtskarten).jpg/250px-M%C3%BCnchen%2C_Bayern_-_Brienerstra%C3%9Fe%2C_Schack-Galerie_(Zeno_Ansichtskarten).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb194841">
           
@@ -17037,6 +18246,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Casa_Tiziano2.jpg/250px-Casa_Tiziano2.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb192714">
           
@@ -17108,6 +18332,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vivariumprater.jpg/250px-Vivariumprater.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -17443,6 +18682,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Stadttheater_Baden.jpg/250px-Stadttheater_Baden.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -18094,6 +19348,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ehem._W%C3%A4hringer_B%C3%BCrgertheater.JPG/250px-Ehem._W%C3%A4hringer_B%C3%BCrgertheater.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb190698">
           
@@ -18479,6 +19748,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Votiv_Kino_Eingang.jpeg/250px-Votiv_Kino_Eingang.jpeg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb190675">
           
@@ -18565,6 +19849,21 @@
             
 
             <date notBefore-iso="1910-01-01" when-iso="1910-01-01">1910</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Vis_urania_kino.jpg/250px-Vis_urania_kino.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -19252,6 +20551,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kleine_B%C3%BChne_-_Elite-Kino_1910_by_Charles_Scolik.jpg/250px-Kleine_B%C3%BChne_-_Elite-Kino_1910_by_Charles_Scolik.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb190587">
           
@@ -19531,6 +20845,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wien_Tuchlauben_Kino.jpg/250px-Wien_Tuchlauben_Kino.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb190574">
           
@@ -19626,6 +20955,21 @@
             
 
             <date notBefore-iso="1912-01-01" when-iso="1912-01-01">1912</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Kino_Vienna.jpg/250px-Burg_Kino_Vienna.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -20741,6 +22085,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Haydn_Cinema_Vienna.jpg/250px-Haydn_Cinema_Vienna.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb190494">
           
@@ -21215,6 +22574,21 @@
             
 
             <date from-iso="1925-01-01" to-iso="2002-03-02">1925 – 2002-03-02</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wiener_Colosseum_AK1.jpg/250px-Wiener_Colosseum_AK1.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -21772,6 +23146,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Admiralkino_Vienna.jpg/250px-Admiralkino_Vienna.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb190427">
           
@@ -22229,6 +23618,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cabaret_des_Quat%27z%27Arts.jpg/250px-Cabaret_des_Quat%27z%27Arts.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb186059">
           
@@ -22291,6 +23695,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin_Admiralspalast_asv2023-10_img1.jpg/250px-Berlin_Admiralspalast_asv2023-10_img1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -23578,6 +24997,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/250px-Berlin_Scala_Anfahrt_007802.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185953">
           
@@ -23767,6 +25201,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arbeiterheim_Favoriten_1.jpg/250px-Arbeiterheim_Favoriten_1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185937">
           
@@ -23895,6 +25344,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Muenchner_Kammerspiele.jpg/250px-Muenchner_Kammerspiele.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185931">
           
@@ -23957,6 +25421,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ausstellung_M%C3%BCnchen_1908_K%C3%BCnstlertheater_(Erbauer_Heilmann_%26_Littmann).jpg/250px-Ausstellung_M%C3%BCnchen_1908_K%C3%BCnstlertheater_(Erbauer_Heilmann_%26_Littmann).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -24033,6 +25512,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Johann_Strau%C3%9F-Theater_Wien_(um_1910)_OeNB_10245021.jpg/250px-Johann_Strau%C3%9F-Theater_Wien_(um_1910)_OeNB_10245021.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -24315,6 +25809,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ludwig_Hofbauer_-_Der_Zirkus_Busch_in_Wien_1911.jpg/250px-Ludwig_Hofbauer_-_Der_Zirkus_Busch_in_Wien_1911.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185912">
           
@@ -24382,6 +25891,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Conseil_d%27Etat_Paris_WA.jpg/250px-Conseil_d%27Etat_Paris_WA.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185910">
           
@@ -24443,6 +25967,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Paris_9_-_Conservatoire_d%27art_dramatique_-018.JPG/250px-Paris_9_-_Conservatoire_d%27art_dramatique_-018.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185908">
           
@@ -24502,6 +26041,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ludovic_Vall%C3%A9e_-_Le_jardin_du_bal_Bullier%2C_la_nuit_-_P1883_-_Mus%C3%A9e_Carnavalet.jpg/250px-Ludovic_Vall%C3%A9e_-_Le_jardin_du_bal_Bullier%2C_la_nuit_-_P1883_-_Mus%C3%A9e_Carnavalet.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -24568,6 +26122,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Grand-Guignol-1890.jpg/250px-Grand-Guignol-1890.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185904">
           
@@ -24630,6 +26199,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Folies_Berg%C3%A8re%2C_Paris_6_February_2016.jpg/250px-Folies_Berg%C3%A8re%2C_Paris_6_February_2016.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -24711,6 +26295,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Casino-de-Paris.jpg/250px-Casino-de-Paris.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185899">
           
@@ -24775,6 +26374,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ambigutheatre.jpg/250px-Ambigutheatre.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185897">
           
@@ -24834,6 +26448,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Paris_Theatre_de_Cluny_seating_plan.jpg/250px-Paris_Theatre_de_Cluny_seating_plan.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -24900,6 +26529,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Th%C3%A9%C3%A2tre_National_Op%C3%A9ra_Comique_-_Paris_II_(FR75)_-_2021-06-14_-_1.jpg/250px-Th%C3%A9%C3%A2tre_National_Op%C3%A9ra_Comique_-_Paris_II_(FR75)_-_2021-06-14_-_1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185891">
           
@@ -24962,6 +26606,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Paris_Theatre_des_Varietes.jpg/250px-Paris_Theatre_des_Varietes.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -25028,6 +26687,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bodini%C3%A8re-Expo_Gerbault-1900.jpg/250px-Bodini%C3%A8re-Expo_Gerbault-1900.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185887">
           
@@ -25089,6 +26763,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Th%C3%A9%C3%A2tre_de_la_Ga%C3%AEt%C3%A9_02.jpg/250px-Th%C3%A9%C3%A2tre_de_la_Ga%C3%AEt%C3%A9_02.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185885">
           
@@ -25148,6 +26837,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Th%C3%A9%C3%A2tre_du_Gymnase_Marie-Bell_-_2017.jpg/250px-Th%C3%A9%C3%A2tre_du_Gymnase_Marie-Bell_-_2017.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -25214,6 +26918,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Th%C3%A9%C3%A2tre_du_Ch%C3%A2telet_Fa%C3%A7ade_(cropped).jpg/250px-Th%C3%A9%C3%A2tre_du_Ch%C3%A2telet_Fa%C3%A7ade_(cropped).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185880">
           
@@ -25273,6 +26992,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/1875_Oxford_Music_Hall.jpg/250px-1875_Oxford_Music_Hall.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -25418,7 +27152,7 @@
             <figure>
               
     
-              <graphic url="https://upload.wikimedia.org/wikipedia/commons/9/98/St_James%27s_Hall.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St_James%27s_Hall.jpg/250px-St_James%27s_Hall.jpg"/>
               
   
             </figure>
@@ -25509,6 +27243,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hotel_Metropol_Vienna.jpg/250px-Hotel_Metropol_Vienna.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185868">
           
@@ -25573,6 +27322,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Palais_Schwarzenberg.jpg/250px-Palais_Schwarzenberg.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185866">
           
@@ -25632,6 +27396,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Friedrich_Ohmann_Trakt%2C_Kurhaus_Meran_1.jpg/250px-Friedrich_Ohmann_Trakt%2C_Kurhaus_Meran_1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -25714,6 +27493,21 @@
             
 
             <date from-iso="1874-01-01" to-iso="1881-01-01">1874 – 1881</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ringtheater_vor1881.jpg/250px-Ringtheater_vor1881.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -26105,6 +27899,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bruxelles_rue_Auguste_Orts_20-24_902.jpg/250px-Bruxelles_rue_Auguste_Orts_20-24_902.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185547">
           
@@ -26227,6 +28036,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Queen%27s_Hall_London.jpg/250px-Queen%27s_Hall_London.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185422">
           
@@ -26291,6 +28115,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tivoli_Music_Hall%2C_London.jpg/250px-Tivoli_Music_Hall%2C_London.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185377">
           
@@ -26350,6 +28189,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Daly%27s_Theatre_and_Leicester_Square%2C_London.jpg/250px-Daly%27s_Theatre_and_Leicester_Square%2C_London.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -26414,6 +28268,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/MadameTussaudMuseumLondon.JPG/250px-MadameTussaudMuseumLondon.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -26535,6 +28404,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Vaudeville_Theatre_London.jpg/250px-Vaudeville_Theatre_London.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185278">
           
@@ -26599,6 +28483,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Leicester_Square%2C_London.jpg/250px-Leicester_Square%2C_London.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185256">
           
@@ -26660,6 +28559,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/London_Pavilion.jpg/250px-London_Pavilion.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185252">
           
@@ -26719,6 +28633,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canterbury_Hall_circa_1856.jpg/250px-Canterbury_Hall_circa_1856.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -26812,7 +28741,7 @@
             <figure>
               
     
-              <graphic url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Crystal_Palace_General_view_from_Water_Temple.jpg?utm_source=www.wikidata.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Crystal_Palace_General_view_from_Water_Temple.jpg/250px-Crystal_Palace_General_view_from_Water_Temple.jpg"/>
               
   
             </figure>
@@ -26885,6 +28814,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/MyNameIsRachelCorriePlayhouseTheatre20060329.jpg/250px-MyNameIsRachelCorriePlayhouseTheatre20060329.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185235">
           
@@ -26949,6 +28893,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Royal_Aquarium_Westminster_from_The_Queen%27s_London_1900.jpg/250px-Royal_Aquarium_Westminster_from_The_Queen%27s_London_1900.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185232">
           
@@ -27008,6 +28967,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hunterian_Collection.jpg/250px-Hunterian_Collection.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -27074,6 +29048,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/1881_Savoy_Theatre.jpg/250px-1881_Savoy_Theatre.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185189">
           
@@ -27136,6 +29125,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Leicester_Square_with_the_Alhambra_formerly_the_Royal_Panopticon_ILN_1874.jpg/250px-Leicester_Square_with_the_Alhambra_formerly_the_Royal_Panopticon_ILN_1874.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -27333,6 +29337,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg/250px-Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185090">
           
@@ -27455,6 +29474,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_146-1988-035-15%2C_Berlin%2C_Wintergarten.jpg/250px-Bundesarchiv_Bild_146-1988-035-15%2C_Berlin%2C_Wintergarten.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185077">
           
@@ -27532,6 +29566,21 @@
             
 
             <date from-iso="1874-01-01" to-iso="1890-01-01">1874 – 1890</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Apollo-Theater_Eingang_im_Jahr_1900.jpg/250px-Apollo-Theater_Eingang_im_Jahr_1900.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -27659,6 +29708,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Plan_du_cirque_Krembser%2C_Berlin_(1886).png/250px-Plan_du_cirque_Krembser%2C_Berlin_(1886).png"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb185031">
           
@@ -27730,6 +29794,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Berlin_victoriatheater_1895.jpg/250px-Berlin_victoriatheater_1895.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -27806,6 +29885,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/M%C3%BCnchner_K%C3%BCnstlerhaus_am_Lenbachplatz.jpg/250px-M%C3%BCnchner_K%C3%BCnstlerhaus_am_Lenbachplatz.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -28070,6 +30164,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/StGallen_asv2022-10_Tonhalle.jpg/250px-StGallen_asv2022-10_Tonhalle.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb183536">
           
@@ -28138,6 +30247,21 @@
             
 
             <date notBefore-iso="1909-01-01" when-iso="1909-01-01">1909</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bern_Casino_1.jpg/250px-Bern_Casino_1.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -28260,6 +30384,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Baden_baden_2016_0010.jpg/250px-Baden_baden_2016_0010.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -28652,6 +30791,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Concertgebouw_in_Amsterdam_April_2015.jpg/250px-Concertgebouw_in_Amsterdam_April_2015.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb183389">
           
@@ -28820,6 +30974,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Reduta_Theatre_-_Brno.jpg/250px-Reduta_Theatre_-_Brno.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -29136,6 +31305,21 @@
           
   
           <note type="references"> </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Medical_University_of_Vienna_001.JPG/250px-Medical_University_of_Vienna_001.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -30850,6 +33034,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rotunde_vienna_kramer.png/250px-Rotunde_vienna_kramer.png"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb147893">
           
@@ -30938,6 +33137,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Royal_Dramatic_Theatre_in_Stockholm.jpg/250px-The_Royal_Dramatic_Theatre_in_Stockholm.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb147771">
           
@@ -31003,6 +33217,21 @@
             
 
             <date notBefore-iso="1802-01-01" when-iso="1802-01-01">1802</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pinacoteca_nazionale_di_bologna_00.JPG/250px-Pinacoteca_nazionale_di_bologna_00.JPG"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -31163,6 +33392,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berlin-Kreuzberg_Postkarte_067_cropped.jpg/250px-Berlin-Kreuzberg_Postkarte_067_cropped.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb145860">
           
@@ -31234,6 +33478,21 @@
             
 
             <date notBefore-iso="1900-01-01" when-iso="1900-01-01">1900</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budape%C5%A1%C5%A5_1357.jpg/250px-Budape%C5%A1%C5%A5_1357.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -31316,6 +33575,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_-_Staatsoper_Unter_den_Linden.jpg/250px-Berlin_-_Staatsoper_Unter_den_Linden.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -31628,6 +33902,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg/250px-Reichstagsgeb%C3%A4ude_von_Westen.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb141786">
           
@@ -31760,6 +34049,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Na_p%C5%99%C3%ADkop%C4%9B_859_(Prague).jpg/250px-Na_p%C5%99%C3%ADkop%C4%9B_859_(Prague).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -31897,6 +34201,21 @@
             
 
             <date notBefore-iso="1875-01-01" when-iso="1875-01-01">1875</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Paris_Palais_Garnier_2010-04-06_16.55.07.jpg/250px-Paris_Palais_Garnier_2010-04-06_16.55.07.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -32080,6 +34399,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Thorvaldsens_Museum_back_01.jpg/250px-Thorvaldsens_Museum_back_01.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -33051,7 +35385,7 @@
             <figure>
               
     
-              <graphic url="https://upload.wikimedia.org/wikipedia/commons/7/71/Ehrbar_Saal_-_Galerie%2C_Wien_%28Tudoi61%292.jpg?utm_source=de.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ehrbar_Saal_-_Galerie%2C_Wien_%28Tudoi61%292.jpg/250px-Ehrbar_Saal_-_Galerie%2C_Wien_%28Tudoi61%292.jpg"/>
               
   
             </figure>
@@ -33180,6 +35514,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wien_01_Babenbergerstra%C3%9Fe_a.jpg/250px-Wien_01_Babenbergerstra%C3%9Fe_a.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -33338,6 +35687,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Giardini_2007.jpg/250px-Giardini_2007.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -33583,6 +35947,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Drottlingham2.jpg/250px-Drottlingham2.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb60854">
           
@@ -33744,6 +36123,21 @@
           <note type="references"> </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wien_-_Bundeskanzleramt_(b).JPG/250px-Wien_-_Bundeskanzleramt_(b).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb58810">
           
@@ -33862,6 +36256,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Hague_Montage_2021.png/250px-The_Hague_Montage_2021.png"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb56521">
           
@@ -33924,6 +36333,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Magyar_theatre_budapest.jpg/250px-Magyar_theatre_budapest.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -34064,6 +36488,21 @@
             
 
             <date from-iso="1925-01-01" to-iso="1943-01-01">1925 – 1943</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Berlin_Capitol_am_Zoo_001524.jpg/250px-Berlin_Capitol_am_Zoo_001524.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -34324,6 +36763,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ApolloVienna.jpg/250px-ApolloVienna.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb51272">
           
@@ -34541,6 +36995,21 @@
             
 
             <date notBefore-iso="1563-01-01" when-iso="1563-01-01">1563</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Florence_13_09_07_817000.jpeg/250px-Florence_13_09_07_817000.jpeg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -35204,6 +37673,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ajaccio_MN1JPG.jpg/250px-Ajaccio_MN1JPG.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb45128">
           
@@ -35381,6 +37865,21 @@
             
 
             <date from-iso="1919-01-01" to-iso="1924-01-01">1919 – 1924</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sch%C3%B6nbrunner_Schlosstheater.jpg/250px-Sch%C3%B6nbrunner_Schlosstheater.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -36476,6 +38975,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Accademia_(Venice).jpg/250px-Accademia_(Venice).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb42626">
           
@@ -36607,6 +39121,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Castel_Sant%27Angelo_at_Night.jpg/250px-Castel_Sant%27Angelo_at_Night.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb41376">
           
@@ -36684,6 +39213,21 @@
             
 
             <date notBefore-iso="1874-01-01" when-iso="1874-01-01">1874</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Simmering_(Wien)_-_Luegerkirche_(1).JPG/250px-Simmering_(Wien)_-_Luegerkirche_(1).JPG"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -37012,6 +39556,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hofmannsthalschloessl071030b.jpg/250px-Hofmannsthalschloessl071030b.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -37759,6 +40318,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Altaussee_vom_Loser.JPG/250px-Altaussee_vom_Loser.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb34399">
           
@@ -37957,6 +40531,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stadttheater_Gmunden.jpg/250px-Stadttheater_Gmunden.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb21799">
           
@@ -38046,6 +40635,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wien_-_Schloss_Sch%C3%B6nbrunn.JPG/250px-Wien_-_Schloss_Sch%C3%B6nbrunn.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -38446,6 +41050,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Beethovenplatz_1.jpg/250px-Beethovenplatz_1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb1223">
           
@@ -38740,6 +41359,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jantsch_Theater.jpg/250px-Jantsch_Theater.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb1180">
           
@@ -38819,6 +41453,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Die_Gartenlaube_(1864)_b_821.jpg/250px-Die_Gartenlaube_(1864)_b_821.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb1179">
           
@@ -38887,6 +41536,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bad_Ischl_Leh%C3%A1rovo_divadlo_1.jpg/250px-Bad_Ischl_Leh%C3%A1rovo_divadlo_1.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -39024,6 +41688,21 @@
             
 
             <date notBefore-iso="1895-01-01" when-iso="1895-01-01">1895</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kongresshaus_-_General-Guisan-Quai_-_Werd_-_ZSG_Helvetia_2011-08-06_17-09-58.JPG/250px-Kongresshaus_-_General-Guisan-Quai_-_Werd_-_ZSG_Helvetia_2011-08-06_17-09-58.JPG"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -39220,6 +41899,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Royal_Danish_Theatre%2C_Copenhagen.jpg/250px-Royal_Danish_Theatre%2C_Copenhagen.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb1069">
           
@@ -39296,6 +41990,21 @@
           <note type="references">None</note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fotothek_df_pk_0000032_044_Sommer_1947.jpg/250px-Fotothek_df_pk_0000032_044_Sommer_1947.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb1068">
           
@@ -39366,6 +42075,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305%2C_Berlin%2C_Friedrichstadtpalast.jpg/250px-Bundesarchiv_Bild_183-L1109-0305%2C_Berlin%2C_Friedrichstadtpalast.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb1058">
           
@@ -39431,6 +42155,21 @@
             
 
             <date from-iso="1919-01-01" to-iso="2011-01-01">1919 – 2011</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Berlin_Trib%C3%BCne_3.jpg/250px-Berlin_Trib%C3%BCne_3.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -39518,6 +42257,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Krematorium_Wedding_1_(cropped).jpg/250px-Krematorium_Wedding_1_(cropped).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb1034">
           
@@ -39598,6 +42352,21 @@
             
 
             <date notBefore-iso="1878-01-01" when-iso="1878-01-01">1878</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dresden_-_Semperoper_-_2013.jpg/250px-Dresden_-_Semperoper_-_2013.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -39695,6 +42464,21 @@
           
   
           <note type="references"> </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/GuentherZ_2007-04-12_0232_Wien03_Krankenhaus_Rudolfstiftung_Vorderseite.jpg/250px-GuentherZ_2007-04-12_0232_Wien03_Krankenhaus_Rudolfstiftung_Vorderseite.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -39847,6 +42631,21 @@
             
 
             <date notBefore-iso="1885-01-01" when-iso="1885-01-01">1885</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/K%C3%BCnstlerhaus_Salzburg.JPG/250px-K%C3%BCnstlerhaus_Salzburg.JPG"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -40071,6 +42870,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Florence%2C_Italy_-_panoramio_(125).jpg/250px-Florence%2C_Italy_-_panoramio_(125).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb967">
           
@@ -40265,6 +43079,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Helsingoer_Schloss_Marienlyst.jpg/250px-Helsingoer_Schloss_Marienlyst.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb958">
           
@@ -40336,6 +43165,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Skodsborg_station.JPG/250px-Skodsborg_station.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -40657,6 +43501,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Oostende_Europacentrum_01.jpg/250px-Oostende_Europacentrum_01.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -41379,6 +44238,21 @@
           <note type="references">None</note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D%C3%B6blinger_Friedhof_-_Kreuz.JPG/250px-D%C3%B6blinger_Friedhof_-_Kreuz.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb833">
           
@@ -41764,6 +44638,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Th%C3%A9%C3%A2tre_de_l%27Od%C3%A9on_-_facade_-_photo_Thierry_Depagne.jpg/250px-Th%C3%A9%C3%A2tre_de_l%27Od%C3%A9on_-_facade_-_photo_Thierry_Depagne.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb784">
           
@@ -41856,6 +44745,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/150418_Konzerthaus_Berlin.jpg/250px-150418_Konzerthaus_Berlin.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -42524,6 +45428,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Prinzregententheater.jpg/250px-Prinzregententheater.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb700">
           
@@ -42952,6 +45871,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rynek_Starego_Miasta_We_Wroclawiu_(152991773).jpeg/250px-Rynek_Starego_Miasta_We_Wroclawiu_(152991773).jpeg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb669">
           
@@ -43026,6 +45960,21 @@
           
   
           <note type="references"> </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/03.08.2022_Bayerisches_Nationaltheater_08.jpg/250px-03.08.2022_Bayerisches_Nationaltheater_08.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -43383,6 +46332,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pet%C5%99%C3%ADn_Tower_View_IMG_3020.JPG/250px-Pet%C5%99%C3%ADn_Tower_View_IMG_3020.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -43765,6 +46729,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Th%C3%A9%C3%A2tre_de_l%27%C5%92uvre%2C_Paris.jpg/250px-Th%C3%A9%C3%A2tre_de_l%27%C5%92uvre%2C_Paris.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb599">
           
@@ -43848,6 +46827,21 @@
             
 
             <date when-iso="1905-11-06">1905-11-06</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Volkshochschule_Ottakring_01.jpg/250px-Volkshochschule_Ottakring_01.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -44090,6 +47084,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Adriatic_Sea_2003.jpg/250px-Adriatic_Sea_2003.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb567">
           
@@ -44176,6 +47185,21 @@
             
 
             <date notBefore-iso="1365-01-01" when-iso="1365-01-01">1365</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wien_-_Stephansdom_(1).JPG/250px-Wien_-_Stephansdom_(1).JPG"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -44340,6 +47364,21 @@
             
 
             <date notBefore-iso="1680-01-01" when-iso="1680-01-01">1680</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Com%C3%A9die-Fran%C3%A7aise_-_west_facade.JPG/250px-Com%C3%A9die-Fran%C3%A7aise_-_west_facade.JPG"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -44785,6 +47824,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wien_-_Akademietheater_(1).JPG/250px-Wien_-_Akademietheater_(1).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb516">
           
@@ -44879,7 +47933,7 @@
             <figure>
               
     
-              <graphic url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Wien_-_Haus_des_Wiener_Musikvereins_%281%29.JPG?utm_source=www.wikidata.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Wien_-_Haus_des_Wiener_Musikvereins_%281%29.JPG/250px-Wien_-_Haus_des_Wiener_Musikvereins_%281%29.JPG"/>
               
   
             </figure>
@@ -44950,6 +48004,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/250px-Alte_Pinakothek.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -45035,6 +48104,21 @@
             
 
             <date from-iso="1854-01-01" to-iso="1931-01-01">1854 – 1931</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Glaspalast_Muenchen.jpg/250px-Glaspalast_Muenchen.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -45163,6 +48247,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hotel_Vier_Jahreszeiten_Kempinski_M%C3%BCnchen_0453.jpg/250px-Hotel_Vier_Jahreszeiten_Kempinski_M%C3%BCnchen_0453.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -45701,6 +48800,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Brno%2C_N%C4%9Bmeck%C3%BD_d%C5%AFm_a_pomn%C3%ADk_(1900).jpg/250px-Brno%2C_N%C4%9Bmeck%C3%BD_d%C5%AFm_a_pomn%C3%ADk_(1900).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb428">
           
@@ -45992,6 +49106,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Semmering_-_S%C3%BCdbahnhotel.JPG/250px-Semmering_-_S%C3%BCdbahnhotel.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb394">
           
@@ -46214,6 +49343,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mura_vaticane_-_ingresso_ai_Musei_00410.JPG/250px-Mura_vaticane_-_ingresso_ai_Musei_00410.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb338">
           
@@ -46378,7 +49522,7 @@
             <figure>
               
     
-              <graphic url="https://upload.wikimedia.org/wikipedia/de/6/63/Hotel-de-France-Wien.jpg?utm_source=de.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/de/thumb/6/63/Hotel-de-France-Wien.jpg/250px-Hotel-de-France-Wien.jpg"/>
               
   
             </figure>
@@ -46536,6 +49680,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wien_-_Albertina_(b).JPG/250px-Wien_-_Albertina_(b).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb320">
           
@@ -46601,6 +49760,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wien_-_Neue_Hofburg.JPG/250px-Wien_-_Neue_Hofburg.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -47068,6 +50242,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wien_K%C3%A4rntner_Ring_9_Schneider%27sches_Haus_Grand_Hotel_(1866).jpg/250px-Wien_K%C3%A4rntner_Ring_9_Schneider%27sches_Haus_Grand_Hotel_(1866).jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb253">
           
@@ -47162,6 +50351,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Imperial-Kino%2C_Bauernmarkt_22_04.jpg/250px-Imperial-Kino%2C_Bauernmarkt_22_04.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb245">
           
@@ -47239,6 +50443,21 @@
             
 
             <date from-iso="1907-01-01" to-iso="1944-01-01">1907 – 1944</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bundesarchiv_Bild_146-1989-028-23%2C_Berlin%2C_Hotel_Esplanade.jpg/250px-Bundesarchiv_Bild_146-1989-028-23%2C_Berlin%2C_Hotel_Esplanade.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -47339,6 +50558,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wien_-_Konzerthaus_(a).JPG/250px-Wien_-_Konzerthaus_(a).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -47744,6 +50978,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wien_Hotel_Bristol_K%C3%A4rntnerring.jpg/250px-Wien_Hotel_Bristol_K%C3%A4rntnerring.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb192">
           
@@ -47806,6 +51055,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/250px-Schiller_Weimar.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -47873,6 +51137,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/030430-goethehaus.jpg/250px-030430-goethehaus.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -48416,6 +51695,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pfarrplatz3.jpg/250px-Pfarrplatz3.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb146">
           
@@ -48534,10 +51828,10 @@
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.13</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410582/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410582/</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</idno>
           
 
           <listBibl>
@@ -48937,6 +52231,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Carltheater_Wien.jpg/250px-Carltheater_Wien.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb112">
           
@@ -49143,6 +52452,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wien_-_Sofiens%C3%A4le_(1).JPG/250px-Wien_-_Sofiens%C3%A4le_(1).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb103">
           
@@ -49286,6 +52610,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_M%C3%BCnchen%2C_April_2023.jpg/250px-Glyptothek_M%C3%BCnchen%2C_April_2023.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb101">
           
@@ -49345,6 +52684,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ausstellungsraum_Neue_Pinakothek.JPG/250px-Ausstellungsraum_Neue_Pinakothek.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -49487,6 +52841,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Prague_07-2016_View_from_Petrinska_Tower_img4.jpg/250px-Prague_07-2016_View_from_Petrinska_Tower_img4.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb91">
           
@@ -49567,6 +52936,21 @@
             
 
             <date from-iso="1888-01-01" to-iso="1938-01-01">1888 – 1938</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/St%C3%A1tn%C3%AD_opera_in_Prague%2C_2010.jpg/250px-St%C3%A1tn%C3%AD_opera_in_Prague%2C_2010.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -50335,6 +53719,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Rathaus_Vienna_June_2006_165.jpg/250px-Rathaus_Vienna_June_2006_165.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb50">
           
@@ -50693,6 +54092,21 @@
             
 
             <date notBefore-iso="1788-01-01" when-iso="1788-01-01">1788</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Theater_in_der_Josefstadt3.jpg/250px-Theater_in_der_Josefstadt3.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -51062,6 +54476,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Salzburg_Altstadt_vom_M%C3%B6nchsberg.jpg/250px-Salzburg_Altstadt_vom_M%C3%B6nchsberg.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb29">
           
@@ -51244,6 +54673,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wien_-_Volksoper.JPG/250px-Wien_-_Volksoper.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb27">
           
@@ -51327,6 +54771,21 @@
             
 
             <date notBefore-iso="1783-01-01" when-iso="1783-01-01">1783</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Praha_Stavovsk%C3%A9_divadlo_5.jpg/250px-Praha_Stavovsk%C3%A9_divadlo_5.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -51478,6 +54937,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wien_-_Museum_%E2%80%9EAlbertina_modern%E2%80%9C_bzw._K%C3%BCnstlerhaus_(3).JPG/250px-Wien_-_Museum_%E2%80%9EAlbertina_modern%E2%80%9C_bzw._K%C3%BCnstlerhaus_(3).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb20">
           
@@ -51570,6 +55044,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wien_-_Volkstheater_(2).JPG/250px-Wien_-_Volkstheater_(2).JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
@@ -51670,6 +55159,21 @@
             
 
             <date notBefore-iso="1871-01-01" when-iso="1871-01-01">1871</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ronacher_Seilerst%C3%A4tte_9.jpg/250px-Ronacher_Seilerst%C3%A4tte_9.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -51818,6 +55322,21 @@
           </listBibl>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Staatsoper_Wien_DSC_5273w.jpg/250px-Staatsoper_Wien_DSC_5273w.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb14">
           
@@ -51921,7 +55440,7 @@
             <figure>
               
     
-              <graphic url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Burgtheater-Wien-M%C3%A4rz-2008.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burgtheater-Wien-M%C3%A4rz-2008.jpg/250px-Burgtheater-Wien-M%C3%A4rz-2008.jpg"/>
               
   
             </figure>
@@ -52018,6 +55537,21 @@
           </note>
           
 
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hebbel-Theater%2C_Berlin.jpg/250px-Hebbel-Theater%2C_Berlin.jpg"/>
+              
+  
+            </figure>
+            
+
+          </note>
+          
+
         </place>
         <place xml:id="pmb12">
           
@@ -52101,6 +55635,21 @@
             
 
             <date notBefore-iso="1906-01-01" when-iso="1906-01-01">1906</date>
+            
+
+          </note>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DT_Kammerspiele.jpg/250px-DT_Kammerspiele.jpg"/>
+              
+  
+            </figure>
             
 
           </note>
@@ -52420,6 +55969,21 @@
             
 
           </listBibl>
+          
+
+          <note type="image">
+            
+  
+            <figure>
+              
+    
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Wien_-_Secessionsgeb%C3%A4ude.JPG/250px-Wien_-_Secessionsgeb%C3%A4ude.JPG"/>
+              
+  
+            </figure>
+            
+
+          </note>
           
 
         </place>
