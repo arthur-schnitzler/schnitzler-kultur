@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2026-10-23">serialized</change>
+          <change when-iso="2026-11-03">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -2849,7 +2849,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32011">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio, op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -15788,7 +15788,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195652">Manfred. Dramatisches Gedicht in drei Abteilungen op. 115</title>
+                <title key="pmb195652">Manfred. Dramatisches Gedicht, op. 115</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -18975,7 +18975,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb201411">La damnation de Faust op. 24</title>
+                <title key="pmb201411">La damnation de Faust, op. 24</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -19339,7 +19339,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77165">Missa solemnis D-Dur op. 123</title>
+                <title key="pmb77165">Missa solemnis D-Dur, op. 123</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -20174,8 +20174,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208059/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208059.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208059.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61a9fd3ced60fbe1cf48c</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208059.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -27975,8 +27975,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63085/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb63085.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63085.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aafd3ced60fbe1d2ce2</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb63085.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -31567,8 +31567,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88363/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88363.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88363.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6666e786cd334071f79a060f</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88363.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -35809,8 +35809,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/48776/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb48776.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48776.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ac6d3ced60fbe1d87aa</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb48776.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -36866,7 +36866,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77165">Missa solemnis D-Dur op. 123</title>
+                <title key="pmb77165">Missa solemnis D-Dur, op. 123</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -37473,7 +37473,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77904">Dimitri op. 64</title>
+                <title key="pmb77904">Dimitri, op. 64</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -38792,8 +38792,8 @@
             </listOrg>
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405512/</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405512.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66683f1fcd334071f7b571be</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405512.html</idno>
     <listBibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -40610,7 +40610,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb184703" when-iso="1893-10-02">
-        <eventName n="Feier">Festmahl zu Ehren Ferdinand von Saars. 2.10.1893</eventName>
+        <eventName n="Feier">Festmahl zu Ehren Ferdinand von Saars, 2.10.1893</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -42656,7 +42656,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb201411">La damnation de Faust op. 24</title>
+                <title key="pmb201411">La damnation de Faust, op. 24</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -43273,7 +43273,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32011">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio, op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -43672,7 +43672,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb78198">Ein deutsches Requiem op. 45</title>
+                <title key="pmb78198">Ein deutsches Requiem, op. 45</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -45589,8 +45589,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/94322/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb94322.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb94322.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/6669e283cd334071f7d6dc8c</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb94322.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -47492,8 +47492,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208727/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208727.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208727.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666ac11fcd334071f7e837d1</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208727.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -48662,7 +48662,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77904">Dimitri op. 64</title>
+                <title key="pmb77904">Dimitri, op. 64</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -50384,9 +50384,9 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35203/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35203.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/457551/</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ad9d3ced60fbe1dd1df</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35203.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -54667,8 +54667,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42019/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42019.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42019.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61addd3ced60fbe1de0ca</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42019.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -59969,8 +59969,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208965/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb208965.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208965.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666edebacd334071f73a76ce</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb208965.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -60386,7 +60386,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77903">Die heilige Ludmila op. 71</title>
+                <title key="pmb77903">Die heilige Ludmila, op. 71</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -62705,8 +62705,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/42807/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42807.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42807.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/666f3601cd334071f7418755</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42807.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -62825,8 +62825,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209007/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209007.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209007.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61ae2d3ced60fbe1df306</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209007.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -68547,8 +68547,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207041/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207041.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb207041.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66700ecdcd334071f752d114</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb207041.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -69884,7 +69884,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb78198">Ein deutsches Requiem op. 45</title>
+                <title key="pmb78198">Ein deutsches Requiem, op. 45</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -70134,6 +70134,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142390/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142390.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142390.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -70318,8 +70319,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/141446/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141446.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61aead3ced60fbe1e1106</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb141446.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -70594,8 +70595,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43208/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43208.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43208.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66718b72cd334071f7711825</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43208.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -71448,7 +71449,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77191">Symphonie Nr. 9 d-Moll op. 125</title>
+                <title key="pmb77191">Sinfonie Nr. 9 d-Moll, op. 125</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -77537,6 +77538,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145884/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145884.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145884.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -77686,6 +77688,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209252/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209252.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209252.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -77712,6 +77715,7 @@
         <eventName n="Hochzeit">Eheschließung von Ottilie Metzl und Felix Salten, 13.4.1902</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/142572/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142572.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142572.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -78383,8 +78387,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50882/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50882.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50882.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66731f20cd334071f791c85b</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50882.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -78902,8 +78906,8 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41434/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41434.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41434.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61afdd3ced60fbe1e5819</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41434.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -79209,7 +79213,7 @@
             </place>
         </listPlace>
     </event><event xml:id="pmb209277" when-iso="1903-01-24">
-        <eventName n="Opernaufführung">Aufführung von Pique Dame op. 68, 24.1.1903</eventName>
+        <eventName n="Opernaufführung">Aufführung von Pique Dame, 24.1.1903</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -79224,7 +79228,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77539">Pique Dame op. 68</title>
+                <title key="pmb77539">Pique Dame, op. 68</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -79250,7 +79254,7 @@
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77191">Symphonie Nr. 9 d-Moll op. 125</title>
+                <title key="pmb77191">Sinfonie Nr. 9 d-Moll, op. 125</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -81425,6 +81429,7 @@
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46261/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb46261.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46261.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -81694,8 +81699,8 @@
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209302/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296760/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209302.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209302.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b02d3ced60fbe1e6ab8</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209302.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -84358,8 +84363,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41441/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41441.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41441.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/66744b1acd334071f7aa4073</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41441.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -85456,7 +85461,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30123">3. Sinfonie in d-Moll</title>
+                <title key="pmb30123">Sinfonie Nr. 3 d-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -85504,12 +85509,13 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Konzert">Aufführung von Symphonie Nr. 3 in d-Moll, 22.12.1904</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147234/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147234.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147234.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76606">Symphonie Nr. 3 d-Moll WAB 103</title>
+                <title key="pmb76606">Sinfonie Nr. 3 d-Moll WAB 103</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -85745,7 +85751,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32011">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio, op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -86132,7 +86138,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </place>
         </listPlace>
     </event><event xml:id="pmb209361" when-iso="1905-02-08">
-        <eventName n="Opernaufführung">Aufführung von Pique Dame op. 68, 8.2.1905</eventName>
+        <eventName n="Opernaufführung">Aufführung von Pique Dame, 8.2.1905</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -86147,7 +86153,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77539">Pique Dame op. 68</title>
+                <title key="pmb77539">Pique Dame, op. 68</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -88002,8 +88008,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35173/</idno>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209382/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35173.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b0ed3ced60fbe1e951a</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35173.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -89020,7 +89026,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb164360">5. Sinfonie</title>
+                <title key="pmb164360">Sinfonie Nr. 5</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -89979,7 +89985,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76845">Salome [op. 54]</title>
+                <title key="pmb76845">Salome, op. 54</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -93213,7 +93219,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb264442">6. Sinfonie in a-Moll</title>
+                <title key="pmb264442">Sinfonie Nr. 6 a-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -95168,7 +95174,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76845">Salome [op. 54]</title>
+                <title key="pmb76845">Salome, op. 54</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -95831,6 +95837,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143439/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143439.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143439.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -96097,6 +96104,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145196/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145196.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145196.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -96343,7 +96351,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30777">2. Sinfonie in c-Moll</title>
+                <title key="pmb30777">Sinfonie Nr. 2 c-Moll</title>
                 <note type="relation-type">ist Generalprobe von</note>
             </bibl>
         </listBibl>
@@ -98577,7 +98585,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb247750">Missa solemnis in D-dur</title>
+                <title key="pmb247750">Missa solemnis D-Dur</title>
                 <note type="relation-type">ist Generalprobe von</note>
             </bibl>
         </listBibl>
@@ -99045,7 +99053,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76806">Griselidis. Symphonische Dichtung für Mezzosopran, Frauenchor, Orgel und Orchester</title>
+                <title key="pmb76806">Griselidis, Sinfonische Dichtung</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -100294,7 +100302,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb164360">5. Sinfonie</title>
+                <title key="pmb164360">Sinfonie Nr. 5</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -100619,7 +100627,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29925">Elektra [op. 58]</title>
+                <title key="pmb29925">Elektra, op. 58</title>
                 <note type="relation-type">ist Generalprobe von</note>
             </bibl>
         </listBibl>
@@ -100688,7 +100696,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29925">Elektra [op. 58]</title>
+                <title key="pmb29925">Elektra, op. 58</title>
                 <note type="relation-type">ist Premiere von</note>
             </bibl>
         </listBibl>
@@ -102020,7 +102028,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30123">3. Sinfonie in d-Moll</title>
+                <title key="pmb30123">Sinfonie Nr. 3 d-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -102139,7 +102147,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31663">7. Sinfonie</title>
+                <title key="pmb31663">Sinfonie Nr. 7</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -103124,11 +103132,11 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77164">Messe C-Dur op. 86</title>
+                <title key="pmb77164">Messe C-Dur, op. 86</title>
                 <note type="relation-type">ist Generalprobe von</note>
             </bibl>
             <bibl>
-                <title key="pmb77150">Klavierkonzert Nr. 5 Es-Dur op. 73</title>
+                <title key="pmb77150">Klavierkonzert Nr. 5 Es-Dur, op. 73</title>
                 <note type="relation-type">ist Generalprobe von</note>
             </bibl>
         </listBibl>
@@ -105922,6 +105930,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47048/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47048.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47048.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -109010,6 +109019,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Theateraufführung">Aufführung von Das weite Land, 6.11.1911</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209615/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209615.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209615.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -109043,6 +109053,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143981/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143981.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143981.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -109084,6 +109095,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         <eventName n="Theateraufführung">Aufführung von Anatol, 8.11.1911</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209616/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209616.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb209616.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -109185,7 +109197,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30777">2. Sinfonie in c-Moll</title>
+                <title key="pmb30777">Sinfonie Nr. 2 c-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -109306,7 +109318,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30123">3. Sinfonie in d-Moll</title>
+                <title key="pmb30123">Sinfonie Nr. 3 d-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -110245,7 +110257,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb148402">8. Sinfonie in Es-Dur</title>
+                <title key="pmb148402">Sinfonie Nr. 8 Es-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -111550,6 +111562,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/181888/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb181888.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb181888.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="24">manually created entity</bibl>
@@ -113511,7 +113524,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb254338">Kammersymphonie Nr. 1 E-Dur op. 9</title>
+                <title key="pmb254338">Kammersinfonie Nr. 1 E-Dur, op. 9</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -115104,7 +115117,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77662">Winterreise [op. 89 D 911]</title>
+                <title key="pmb77662">Winterreise D 911</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -115386,7 +115399,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb201411">La damnation de Faust op. 24</title>
+                <title key="pmb201411">La damnation de Faust, op. 24</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -116501,7 +116514,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76845">Salome [op. 54]</title>
+                <title key="pmb76845">Salome, op. 54</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -116909,8 +116922,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59607/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb59607.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b40d3ced60fbe1f48c5</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59607.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -117624,7 +117637,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb148402">8. Sinfonie in Es-Dur</title>
+                <title key="pmb148402">Sinfonie Nr. 8 Es-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -118081,7 +118094,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29925">Elektra [op. 58]</title>
+                <title key="pmb29925">Elektra, op. 58</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -119215,7 +119228,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30933">Der Wegweiser [g-Moll D 911]</title>
+                <title key="pmb30933">Der Wegweiser. Winterreise D 911</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -120707,11 +120720,11 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb78225">Variationen über ein Thema von Joseph Haydn op. 56a</title>
+                <title key="pmb78225">Variationen über ein Thema von Joseph Haydn, op. 56a</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb30757">Symphonie Nr. 1 C-Moll op. 68</title>
+                <title key="pmb30757">Sinfonie Nr. 1 c-Moll, op. 68</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -120812,7 +120825,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77191">Symphonie Nr. 9 d-Moll op. 125</title>
+                <title key="pmb77191">Sinfonie Nr. 9 d-Moll, op. 125</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -123063,7 +123076,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb263796">Klavierquintett [op. 54]</title>
+                <title key="pmb263796">Klavierquintett cis-Moll, op. 54</title>
                 <note type="relation-type">ist Uraufführung von</note>
             </bibl>
         </listBibl>
@@ -123271,7 +123284,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76840">Eine Alpensymphonie op. 64</title>
+                <title key="pmb76840">Eine Alpensinfonie, op. 64</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -123370,7 +123383,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30977">4. Sinfonie in G-Dur</title>
+                <title key="pmb30977">Sinfonie Nr. 4 G-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -124255,7 +124268,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </place>
         </listPlace>
     </event><event xml:id="pmb264351" when-iso="1916-02-27">
-        <eventName n="Konzert">Konzert von Symphonie D-Moll, Manfred, 27.2.1916</eventName>
+        <eventName n="Konzert">Orchesterkonzert im Musikverein, 27.2.1916</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -124277,11 +124290,11 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195652">Manfred. Dramatisches Gedicht in drei Abteilungen op. 115</title>
+                <title key="pmb195652">Manfred. Dramatisches Gedicht, op. 115</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb202465">4. Sinfonie, op. 120 (d-Moll)</title>
+                <title key="pmb78462">Sinfonie Nr. 4 d-Moll, op. 120</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -124448,11 +124461,11 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb30663">Coriolan, Ouvertüre c-moll, op. 62</title>
+                <title key="pmb30663">Coriolan, Ouvertüre c-Moll, op. 62</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb30777">2. Sinfonie in c-Moll</title>
+                <title key="pmb30777">Sinfonie Nr. 2 c-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -126571,7 +126584,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77191">Symphonie Nr. 9 d-Moll op. 125</title>
+                <title key="pmb77191">Sinfonie Nr. 9 d-Moll, op. 125</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -126855,7 +126868,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76840">Eine Alpensymphonie op. 64</title>
+                <title key="pmb76840">Eine Alpensinfonie, op. 64</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -126957,7 +126970,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195868">1. Sinfonie in D-Dur</title>
+                <title key="pmb195868">Sinfonie Nr. 1 D-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -127476,7 +127489,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30123">3. Sinfonie in d-Moll</title>
+                <title key="pmb30123">Sinfonie Nr. 3 d-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -127617,7 +127630,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb79247">Requiem op. 5</title>
+                <title key="pmb79247">Requiem, op. 5</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -128258,7 +128271,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76845">Salome [op. 54]</title>
+                <title key="pmb76845">Salome, op. 54</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -130415,7 +130428,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb201411">La damnation de Faust op. 24</title>
+                <title key="pmb201411">La damnation de Faust, op. 24</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -131384,7 +131397,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb29925">Elektra [op. 58]</title>
+                <title key="pmb29925">Elektra, op. 58</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -131875,7 +131888,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </place>
         </listPlace>
     </event><event xml:id="pmb209950" when-iso="1918-05-26">
-        <eventName n="Sinfoniekonzert">2. Symphoniekonzert des Berliner philharmonischen Orchesters, 26.5.1918</eventName>
+        <eventName n="Sinfoniekonzert">2. Symphoniekonzert des Berliner Philharmonischen Orchesters, 26.5.1918</eventName>
         <note type="listorg">
             <listOrg>
                 <org role="veranstaltet von">
@@ -131890,7 +131903,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30665">Symphonie Nr. 6 h-Moll op. 74 »Pathétique«</title>
+                <title key="pmb30665">Sinfonie Nr. 6 h-Moll, op. 74 »Pathétique«</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
@@ -133818,7 +133831,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195868">1. Sinfonie in D-Dur</title>
+                <title key="pmb195868">Sinfonie Nr. 1 D-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -134200,7 +134213,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32155">9. Sinfonie</title>
+                <title key="pmb32155">Sinfonie Nr. 9</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -134433,7 +134446,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32155">9. Sinfonie</title>
+                <title key="pmb32155">Sinfonie Nr. 9</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -134733,7 +134746,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30777">2. Sinfonie in c-Moll</title>
+                <title key="pmb30777">Sinfonie Nr. 2 c-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -135162,7 +135175,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb148402">8. Sinfonie in Es-Dur</title>
+                <title key="pmb148402">Sinfonie Nr. 8 Es-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -135308,7 +135321,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32155">9. Sinfonie</title>
+                <title key="pmb32155">Sinfonie Nr. 9</title>
                 <note type="relation-type">ist Generalprobe von</note>
             </bibl>
         </listBibl>
@@ -135472,7 +135485,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30777">2. Sinfonie in c-Moll</title>
+                <title key="pmb30777">Sinfonie Nr. 2 c-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
@@ -135782,7 +135795,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32155">9. Sinfonie</title>
+                <title key="pmb32155">Sinfonie Nr. 9</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -136043,7 +136056,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb264442">6. Sinfonie in a-Moll</title>
+                <title key="pmb264442">Sinfonie Nr. 6 a-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -136691,7 +136704,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30123">3. Sinfonie in d-Moll</title>
+                <title key="pmb30123">Sinfonie Nr. 3 d-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -136792,7 +136805,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb195868">1. Sinfonie in D-Dur</title>
+                <title key="pmb195868">Sinfonie Nr. 1 D-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -137059,7 +137072,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76837">Der Bürger als Edelmann [op. 60]</title>
+                <title key="pmb76837">Der Bürger als Edelmann, op. 60</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -137161,7 +137174,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb164360">5. Sinfonie</title>
+                <title key="pmb164360">Sinfonie Nr. 5</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
@@ -137737,7 +137750,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31663">7. Sinfonie</title>
+                <title key="pmb31663">Sinfonie Nr. 7</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -139317,7 +139330,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30777">2. Sinfonie in c-Moll</title>
+                <title key="pmb30777">Sinfonie Nr. 2 c-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -139374,11 +139387,11 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30977">4. Sinfonie in G-Dur</title>
+                <title key="pmb30977">Sinfonie Nr. 4 G-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb195868">1. Sinfonie in D-Dur</title>
+                <title key="pmb195868">Sinfonie Nr. 1 D-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -139440,7 +139453,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30123">3. Sinfonie in d-Moll</title>
+                <title key="pmb30123">Sinfonie Nr. 3 d-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -139560,7 +139573,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb164360">5. Sinfonie</title>
+                <title key="pmb164360">Sinfonie Nr. 5</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
@@ -139650,7 +139663,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb264442">6. Sinfonie in a-Moll</title>
+                <title key="pmb264442">Sinfonie Nr. 6 a-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -139740,7 +139753,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb31663">7. Sinfonie</title>
+                <title key="pmb31663">Sinfonie Nr. 7</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
@@ -139871,7 +139884,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32155">9. Sinfonie</title>
+                <title key="pmb32155">Sinfonie Nr. 9</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -142089,7 +142102,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30777">2. Sinfonie in c-Moll</title>
+                <title key="pmb30777">Sinfonie Nr. 2 c-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -142153,6 +142166,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148325/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb148325.html</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb148325.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
 </listBibl>
@@ -144081,7 +144095,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb148402">8. Sinfonie in Es-Dur</title>
+                <title key="pmb148402">Sinfonie Nr. 8 Es-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -144143,7 +144157,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb148402">8. Sinfonie in Es-Dur</title>
+                <title key="pmb148402">Sinfonie Nr. 8 Es-Dur</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -145061,7 +145075,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30701">Symphonie Nr. 8 c-Moll WAB 108</title>
+                <title key="pmb30701">Sinfonie Nr. 8 c-Moll WAB 108</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -146249,7 +146263,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb78220">Streichsextett Nr. 2 G-Dur op. 36</title>
+                <title key="pmb78216">Streichsextett Nr. 2 G-Dur, op. 36</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -148694,7 +148708,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76845">Salome [op. 54]</title>
+                <title key="pmb76845">Salome, op. 54</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -148748,7 +148762,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32011">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio, op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -158738,7 +158752,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb78198">Ein deutsches Requiem op. 45</title>
+                <title key="pmb78198">Ein deutsches Requiem, op. 45</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -159051,8 +159065,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35361/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35361.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b92d3ced60fbe207d10</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35361.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -159148,7 +159162,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb264141">10. Sinfonie</title>
+                <title key="pmb264141">Sinfonie Nr. 10</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -160120,7 +160134,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30777">2. Sinfonie in c-Moll</title>
+                <title key="pmb30777">Sinfonie Nr. 2 c-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -162645,7 +162659,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb253753">Bal costumé</title>
+                <title key="pmb253753">Bal costumé, op. 103</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
@@ -162714,8 +162728,8 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
         </note>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143957/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143957.html</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
     <idno type="URL" subtype="burgtheater">https://kulturerbe.burgtheater.at/event/65c61b9bd3ced60fbe209bea</idno>
+    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143957.html</idno>
     <listBibl>
     <bibl type="collections" n="44">Arthur Schnitzler – Kulturveranstaltungen</bibl>
     <bibl type="collections" n="84">Aufführungen des Burgtheaters 1850–1945</bibl>
@@ -164075,7 +164089,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30777">2. Sinfonie in c-Moll</title>
+                <title key="pmb30777">Sinfonie Nr. 2 c-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -164500,7 +164514,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb30123">3. Sinfonie in d-Moll</title>
+                <title key="pmb30123">Sinfonie Nr. 3 d-Moll</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -166108,11 +166122,11 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb77142">Die Geschöpfe des Prometheus, Ouvertüre C-Dur op. 43</title>
+                <title key="pmb77142">Die Geschöpfe des Prometheus, Ouvertüre C-Dur, op. 43</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
-                <title key="pmb76846">Schlagobers op. 70</title>
+                <title key="pmb76846">Schlagobers, op. 70</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -166437,7 +166451,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32155">9. Sinfonie</title>
+                <title key="pmb32155">Sinfonie Nr. 9</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -169545,7 +169559,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb76842">Intermezzo op. 72</title>
+                <title key="pmb76842">Intermezzo, op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -170106,7 +170120,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
             </place>
         </listPlace>
     </event><event xml:id="pmb247178" when-iso="1927-03-17">
-        <eventName n="Privates Konzert">Privates Konzert der Musik zu Der weiße Fächer, 17.3.1927</eventName>
+        <eventName n="Privates Konzert">Privates Konzert der Musik zu »Der weiße Fächer«, 17.3.1927</eventName>
     <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/247178/</idno>
     <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb247178.html</idno>
     <listBibl>
@@ -170115,7 +170129,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb247179">[Musik zu Der weiße Fächer]</title>
+                <title key="pmb247179">Musik zum Schauspiel »Der weiße Fächer«</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -170551,7 +170565,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb32011">Fidelio op. 72</title>
+                <title key="pmb32011">Fidelio, op. 72</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
         </listBibl>
@@ -190356,7 +190370,7 @@ https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19040309&amp;query=%22
 </listBibl>
         <listBibl>
             <bibl>
-                <title key="pmb77142">Die Geschöpfe des Prometheus, Ouvertüre C-Dur op. 43</title>
+                <title key="pmb77142">Die Geschöpfe des Prometheus, Ouvertüre C-Dur, op. 43</title>
                 <note type="relation-type">ist Aufführung von</note>
             </bibl>
             <bibl>
