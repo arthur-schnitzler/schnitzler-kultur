@@ -1,0 +1,8 @@
+{
+  "domain": "schnitzler-kultur",
+  "uri_template": "https://schnitzler-kultur.acdh.oeaw.ac.at/{xml_id}.html",
+  "index_glob": "data/*/list*.xml",
+  "exclude": [],
+  "id_pattern": "^pmb(\\d+)$",
+  "output": "csv/pmb_uris-in-use.csv"
+}
