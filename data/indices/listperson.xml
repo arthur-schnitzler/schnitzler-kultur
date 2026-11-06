@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-11-03">serialized</change>
+      <change when-iso="2026-11-06">serialized</change>
       
        
     </revisionDesc>
@@ -423177,6 +423177,36 @@
           <listEvent>
             
     
+            <event n="Opernaufführung" key="510890" when-iso="1904-12-03">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Aufführung von Tannhäuser, 3.12.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510890/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Opernaufführung" key="510896" when-iso="1904-12-13">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Aufführung von Die Walküre, 13.12.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510896/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Opernaufführung" key="421429" when-iso="1904-12-23">
               
         
@@ -424464,6 +424494,57 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35263.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="35113" when-iso="1904-12-12">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Premiere von Literatur, Die letzten Masken, Der Puppenspieler, 12.12.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35113/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35113.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Opernaufführung" key="510896" when-iso="1904-12-13">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Aufführung von Die Walküre, 13.12.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510896/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Gesellschaftskonzert" key="209351" when-iso="1904-12-14">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Aufführung von Symphonie Nr. 3 D-Moll, 14.12.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209351/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209351.html</idno>
               
     
             </event>
@@ -564548,6 +564629,24 @@
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb169475.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Theaterpremiere" key="35113" when-iso="1904-12-12">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Premiere von Literatur, Die letzten Masken, Der Puppenspieler, 12.12.1904</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35113/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35113.html</idno>
               
     
             </event>
