@@ -112,7 +112,6 @@ pmb_id,entity_type,uri,domain
 30287,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30287.html,schnitzler-kultur
 30289,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30289.html,schnitzler-kultur
 30307,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30307.html,schnitzler-kultur
-30311,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30311.html,schnitzler-kultur
 30341,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30341.html,schnitzler-kultur
 30349,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30349.html,schnitzler-kultur
 30351,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30351.html,schnitzler-kultur
@@ -207,6 +206,7 @@ pmb_id,entity_type,uri,domain
 30851,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30851.html,schnitzler-kultur
 30863,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30863.html,schnitzler-kultur
 30873,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30873.html,schnitzler-kultur
+30877,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30877.html,schnitzler-kultur
 30881,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30881.html,schnitzler-kultur
 30887,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30887.html,schnitzler-kultur
 30893,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30893.html,schnitzler-kultur
@@ -628,10 +628,8 @@ pmb_id,entity_type,uri,domain
 76464,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76464.html,schnitzler-kultur
 76466,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76466.html,schnitzler-kultur
 76467,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76467.html,schnitzler-kultur
-76473,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76473.html,schnitzler-kultur
 76479,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76479.html,schnitzler-kultur
 76482,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76482.html,schnitzler-kultur
-76489,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76489.html,schnitzler-kultur
 76497,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76497.html,schnitzler-kultur
 76499,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76499.html,schnitzler-kultur
 76500,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76500.html,schnitzler-kultur
@@ -2638,6 +2636,7 @@ pmb_id,entity_type,uri,domain
 200478,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb200478.html,schnitzler-kultur
 201036,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb201036.html,schnitzler-kultur
 201411,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb201411.html,schnitzler-kultur
+201611,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb201611.html,schnitzler-kultur
 201672,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb201672.html,schnitzler-kultur
 202199,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202199.html,schnitzler-kultur
 202739,bibl,https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202739.html,schnitzler-kultur

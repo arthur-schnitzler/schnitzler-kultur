@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-11-06">serialized</change>
+      <change when-iso="2026-11-09">serialized</change>
       
        
     </revisionDesc>
@@ -153997,6 +153997,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -155212,6 +155218,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -206348,6 +206360,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -215988,6 +216006,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -224946,6 +224970,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -236139,6 +236169,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -264626,20 +264662,6 @@
       
             </settlement>
             
-      
-            <settlement key="304404">
-              
-        
-              <placeName type="pref">Kaliningrad</placeName>
-              
-        
-              <location>
-                <geo>54,733333 20,483333</geo>
-              </location>
-              
-      
-            </settlement>
-            
   
           </birth>
             
@@ -266706,6 +266728,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -271900,7 +271928,7 @@
               <desc n="1256">mitwirkend</desc>
               
         
-              <label>Aufführung von Symphonie Nr. 9 d-Moll op. 125, 26.4.1915</label>
+              <label>Aufführung von Sinfonie Nr. 9 d-Moll op. 125, 26.4.1915</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209760/</idno>
@@ -273218,6 +273246,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -278148,6 +278182,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -308177,6 +308217,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -326758,7 +326804,7 @@
               <desc n="1256">mitwirkend</desc>
               
         
-              <label>Aufführung von Symphonie Nr. 9 d-Moll op. 125, 26.4.1915</label>
+              <label>Aufführung von Sinfonie Nr. 9 d-Moll op. 125, 26.4.1915</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209760/</idno>
@@ -342584,6 +342630,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -344652,6 +344704,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -376532,6 +376590,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -387002,6 +387066,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -401943,6 +402013,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -412603,6 +412679,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -414627,6 +414709,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -423297,6 +423385,21 @@
             </event>
             
     
+            <event n="Opernaufführung" key="510957" when-iso="1913-04-13">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Aufführung von Götterdämmerung, 13.4.1913</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510957/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Konzert" key="185348" when-iso="1913-05-02">
               
         
@@ -423310,6 +423413,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185348.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Opernaufführung" key="510963" when-iso="1913-05-05">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Aufführung von Tristan und Isolde, 5.5.1913</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510963/</idno>
               
     
             </event>
@@ -424667,6 +424785,21 @@
             </event>
             
     
+            <event n="Opernuraufführung" key="510945" when-iso="1909-01-25">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Uraufführung von Elektra, 25.1.1909</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510945/</idno>
+              
+    
+            </event>
+            
+    
             <event n="Generalprobe" key="50222" when-iso="1909-10-15">
               
         
@@ -424698,6 +424831,36 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209641.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Opernaufführung" key="510957" when-iso="1913-04-13">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Aufführung von Götterdämmerung, 13.4.1913</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510957/</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Opernaufführung" key="510963" when-iso="1913-05-05">
+              
+        
+              <desc n="1370">teilnehmend</desc>
+              
+        
+              <label>Aufführung von Tristan und Isolde, 5.5.1913</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510963/</idno>
               
     
             </event>
@@ -431600,13 +431763,16 @@
           <persName>
             
       
-            <forename>August Daniel</forename>
+            <forename>August</forename>
             
       
             <surname>Wilhelmj</surname>
             
   
           </persName>
+          
+  
+          <persName type="person_geburtsname_vorname">August Daniel</persName>
           
   
           <birth>
@@ -441941,6 +442107,21 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb209425.html</idno>
+              
+    
+            </event>
+            
+    
+            <event n="Opernuraufführung" key="510945" when-iso="1909-01-25">
+              
+        
+              <desc n="1256">mitwirkend</desc>
+              
+        
+              <label>Uraufführung von Elektra, 25.1.1909</label>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/510945/</idno>
               
     
             </event>
@@ -456801,6 +456982,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -459586,7 +459773,13 @@
           </persName>
           
   
-          <persName type="namensvariante">Beda-Löhner</persName>
+          <persName type="namensvariante">Löhner-Beda</persName>
+          
+  
+          <persName type="person_geburtsname_vorname">Bedřich</persName>
+          
+  
+          <persName type="person_geburtsname_nachname">Löwy</persName>
           
   
           <birth>
@@ -459642,6 +459835,9 @@
           
   
           <occupation key="99">Journalist/Journalistin</occupation>
+          
+  
+          <occupation key="1535">Librettist/Librettistin</occupation>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/12183557X</idno>
@@ -513699,6 +513895,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -532410,6 +532612,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -555742,6 +555950,12 @@
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
               
         
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
+              
+        
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
               
     
@@ -569478,13 +569692,13 @@
             </event>
             
     
-            <event n="Opernaufführung" key="207395" when-iso="1877-06-16">
+            <event n="Opernaufführung" key="207395" when-iso="1877-06-15">
               
         
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Aufführung von Robert der Teufel, 16.6.1877</label>
+              <label>Aufführung von Robert der Teufel, 15.6.1877</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207395/</idno>
@@ -579333,13 +579547,13 @@
             </event>
             
     
-            <event n="Opernaufführung" key="207928" when-iso="1885-07-28">
+            <event n="Opernaufführung" key="207928" when-iso="1885-07-29">
               
         
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Aufführung von Carmen, 28.7.1885</label>
+              <label>Aufführung von Carmen, 29.7.1885</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207928/</idno>
@@ -581322,13 +581536,13 @@
             </event>
             
     
-            <event n="Opernaufführung" key="208031" when-iso="1886-04-18">
+            <event n="Opernaufführung" key="208031" when-iso="1886-04-17">
               
         
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Aufführung von Carmen, 18.4.1886</label>
+              <label>Aufführung von Carmen, 17.4.1886</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208031/</idno>
@@ -583581,13 +583795,13 @@
             </event>
             
     
-            <event n="Opernaufführung" key="208154" when-iso="1887-08-31">
+            <event n="Opernaufführung" key="208154" when-iso="1887-08-30">
               
         
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Aufführung von Faust. Opéra en cinq actes, 31.8.1887</label>
+              <label>Aufführung von Faust, 30.8.1887</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208154/</idno>
@@ -586641,13 +586855,13 @@
             </event>
             
     
-            <event n="Opernaufführung" key="208315" when-iso="1889-02-26">
+            <event n="Opernaufführung" key="208315" when-iso="1889-02-27">
               
         
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Aufführung von Faust. Opéra en cinq actes, 26.2.1889</label>
+              <label>Aufführung von Faust, 27.2.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208315/</idno>
@@ -586890,13 +587104,13 @@
             </event>
             
     
-            <event n="Opernaufführung" key="208328" when-iso="1889-04-09">
+            <event n="Opernaufführung" key="208328" when-iso="1889-04-10">
               
         
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Aufführung von Figaros Hochzeit, 9.4.1889</label>
+              <label>Aufführung von Figaros Hochzeit, 10.4.1889</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208328/</idno>
@@ -609727,6 +609941,12 @@
               
         
               <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35482.html</idno>
+              
+        
+              <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296527/</idno>
+              
+        
+              <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb296527.html</idno>
               
         
               <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35482.html</idno>
@@ -633528,7 +633748,7 @@
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Aufführung von Tiefland, Die Jahreszeiten der Liebe, 9.12.1911</label>
+              <label>Aufführung von Tiefland und Die Jahreszeiten der Liebe, 9.12.1911</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209622/</idno>
@@ -640212,7 +640432,7 @@
               <desc n="1370">teilnehmend</desc>
               
         
-              <label>Aufführung von Symphonie Nr. 9 d-Moll op. 125, 26.4.1915</label>
+              <label>Aufführung von Sinfonie Nr. 9 d-Moll op. 125, 26.4.1915</label>
               
         
               <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/209760/</idno>

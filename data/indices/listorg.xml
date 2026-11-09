@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-11-06">serialized</change>
+      <change when-iso="2026-11-09">serialized</change>
       
        
     </revisionDesc>
@@ -23630,6 +23630,21 @@
             
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb15.html</note>
+            
+
+          </location>
+          
+
+          <location type="located_in_place">
+            
+  
+            <placeName key="pmb511006">Kärntnertor-Theater</placeName>
+            
+  
+            <geo>48,203889 16,369444</geo>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511006/</note>
             
 
           </location>
