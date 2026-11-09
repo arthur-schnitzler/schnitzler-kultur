@@ -111,7 +111,7 @@ var calendarData = [
     "name": "Aufführung von Der Courier des Czar, 30.5.1877", "startDate": "1877-05-30", "id": "pmb207394.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Robert der Teufel, 16.6.1877", "startDate": "1877-06-16", "id": "pmb207395.html", "type": "Opernaufführung"
+    "name": "Aufführung von Robert der Teufel, 15.6.1877", "startDate": "1877-06-15", "id": "pmb207395.html", "type": "Opernaufführung"
   },
   {
     "name": "Aufführung von Coppelia. Ballett in 1 Akt (2 Abtheilungen), Oberon, Der häusliche Krieg, 30.6.1877", "startDate": "1877-06-30", "id": "pmb207396.html", "type": "Opernaufführung"
@@ -1725,7 +1725,7 @@ var calendarData = [
     "name": "Soirée mit Mirzl Hager, 2.7.1885", "startDate": "1885-07-02", "id": "pmb207927.html", "type": "Volksgesang"
   },
   {
-    "name": "Aufführung von Carmen, 28.7.1885", "startDate": "1885-07-28", "id": "pmb207928.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 29.7.1885", "startDate": "1885-07-29", "id": "pmb207928.html", "type": "Opernaufführung"
   },
   {
     "name": "Aufführung von Die Zauberflöte, 30.7.1885", "startDate": "1885-07-30", "id": "pmb207929.html", "type": "Opernaufführung"
@@ -2037,7 +2037,7 @@ var calendarData = [
     "name": "Aufführung von Angot, 15.4.1886", "startDate": "1886-04-15", "id": "pmb208030.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Carmen, 18.4.1886", "startDate": "1886-04-18", "id": "pmb208031.html", "type": "Opernaufführung"
+    "name": "Aufführung von Carmen, 17.4.1886", "startDate": "1886-04-17", "id": "pmb208031.html", "type": "Opernaufführung"
   },
   {
     "name": "Aufführung von Die schöne Helena, 20.4.1886", "startDate": "1886-04-20", "id": "pmb208033.html", "type": "Theateraufführung"
@@ -2406,7 +2406,7 @@ var calendarData = [
     "name": "Aufführung von Die Kindsfrau, 12.8.1887", "startDate": "1887-08-12", "id": "pmb208153.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Faust. Opéra en cinq actes, 31.8.1887", "startDate": "1887-08-31", "id": "pmb208154.html", "type": "Opernaufführung"
+    "name": "Aufführung von Faust, 30.8.1887", "startDate": "1887-08-30", "id": "pmb208154.html", "type": "Opernaufführung"
   },
   {
     "name": "Premiere von Durand und Durand. Posse in drei Acten, 3.9.1887", "startDate": "1887-09-03", "id": "pmb208155.html", "type": "Theaterpremiere"
@@ -2910,7 +2910,7 @@ var calendarData = [
     "name": "Aufführung von Capitän Wilson, 25.2.1889", "startDate": "1889-02-25", "id": "pmb208314.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Faust. Opéra en cinq actes, 26.2.1889", "startDate": "1889-02-26", "id": "pmb208315.html", "type": "Opernaufführung"
+    "name": "Aufführung von Faust, 27.2.1889", "startDate": "1889-02-27", "id": "pmb208315.html", "type": "Opernaufführung"
   },
   {
     "name": "Besuch einer Kegelbahn, 7.3.1889", "startDate": "1889-03-07", "id": "pmb208316.html", "type": "Vereinstreffen"
@@ -2952,7 +2952,7 @@ var calendarData = [
     "name": "Achtes und letztes Abonnementkonzert der Wiener Philharmoniker, 7.4.1889", "startDate": "1889-04-07", "id": "pmb208327.html", "type": "Philharmonisches Konzert"
   },
   {
-    "name": "Aufführung von Figaros Hochzeit, 9.4.1889", "startDate": "1889-04-09", "id": "pmb208328.html", "type": "Opernaufführung"
+    "name": "Aufführung von Figaros Hochzeit, 10.4.1889", "startDate": "1889-04-10", "id": "pmb208328.html", "type": "Opernaufführung"
   },
   {
     "name": "Soirée bei Innozenz Kohnberger, 21.4.1889", "startDate": "1889-04-21", "id": "pmb208329.html", "type": "Soirée"
@@ -10521,7 +10521,7 @@ var calendarData = [
     "name": "Gesellschaftskonzert, Aufführung von Symphonie Nr. 3 D-Moll, 8.12.1911", "startDate": "1911-12-08", "id": "pmb209621.html", "type": "Konzert"
   },
   {
-    "name": "Aufführung von Tiefland, Die Jahreszeiten der Liebe, 9.12.1911", "startDate": "1911-12-09", "id": "pmb209622.html", "type": "Opernaufführung"
+    "name": "Aufführung von Tiefland und Die Jahreszeiten der Liebe, 9.12.1911", "startDate": "1911-12-09", "id": "pmb209622.html", "type": "Opernaufführung"
   },
   {
     "name": "Cellokonzert im Musikverein, 11.12.1911", "startDate": "1911-12-11", "id": "pmb209623.html", "type": "Cellokonzert"
@@ -11625,7 +11625,7 @@ var calendarData = [
     "name": "Filmvorführung von La mia vita per la tua!, 26.4.1915", "startDate": "1915-04-26", "id": "pmb210504.html", "type": "Filmvorführung"
   },
   {
-    "name": "Aufführung von Symphonie Nr. 9 d-Moll op. 125, 26.4.1915", "startDate": "1915-04-26", "id": "pmb209760.html", "type": "Orchesterkonzert"
+    "name": "Aufführung von Sinfonie Nr. 9 d-Moll op. 125, 26.4.1915", "startDate": "1915-04-26", "id": "pmb209760.html", "type": "Orchesterkonzert"
   },
   {
     "name": "Aufführung von Das Lied von der Erde, 27.4.1915", "startDate": "1915-04-27", "id": "pmb209761.html", "type": "Konzert"
