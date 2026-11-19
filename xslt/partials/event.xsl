@@ -99,43 +99,6 @@
                                 </xsl:otherwise>
                             </xsl:choose>
                         </span>
-                        <xsl:variable name="pmb-idno"
-                            select="tei:idno[@subtype = 'pmb' and normalize-space(.)][1]"/>
-                        <xsl:if test="$pmb-idno">
-                            <a class="resource-btn resource-btn--pmb" target="_blank"
-                                href="{normalize-space($pmb-idno)}">
-                                <xsl:text>PMB-Eintrag ↗</xsl:text>
-                            </a>
-                        </xsl:if>
-                        <xsl:if test="@when-iso">
-                            <a class="resource-btn resource-btn--chronik" target="_blank">
-                                <xsl:attribute name="href">
-                                    <xsl:value-of
-                                        select="concat('https://schnitzler-chronik.acdh.oeaw.ac.at/', @when-iso, '.html')"
-                                    />
-                                </xsl:attribute>
-                                <xsl:text>Schnitzler-Chronik ↗</xsl:text>
-                            </a>
-                            <xsl:variable name="when" select="@when-iso"/>
-                            <xsl:if test="$tb-days/descendant::*:date[. = $when][1]">
-                                <a class="resource-btn resource-btn--tagebuch" target="_blank">
-                                    <xsl:attribute name="href">
-                                        <xsl:value-of
-                                            select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', $when, '.html')"
-                                        />
-                                    </xsl:attribute>
-                                    <xsl:text>Schnitzler-Tagebuch ↗</xsl:text>
-                                </a>
-                            </xsl:if>
-                        </xsl:if>
-                        <xsl:variable name="briefe-idno"
-                            select="tei:idno[@subtype = 'schnitzler-briefe' and normalize-space(.)][1]"/>
-                        <xsl:if test="$briefe-idno">
-                            <a class="resource-btn resource-btn--briefe" target="_blank"
-                                href="{normalize-space($briefe-idno)}">
-                                <xsl:text>Schnitzler-Briefe ↗</xsl:text>
-                            </a>
-                        </xsl:if>
                     </p>
                 </header>
 
@@ -309,34 +272,6 @@
                                             <xsl:text> ↗</xsl:text>
                                         </span>
                                     </a>
-                                    <!-- Theaterzettel für Burgtheater/Hofoper -->
-                                    <xsl:if
-                                        test="(descendant::tei:placeName/@key = 'pmb14' or descendant::tei:placeName/@key = 'pmb185621') and not(contains(tei:eventName/@n, 'robe'))">
-                                        <a class="newspaper-card" target="_blank">
-                                            <xsl:attribute name="href">
-                                                <xsl:choose>
-                                                  <xsl:when
-                                                  test="year-from-date(@when-iso) &lt; 1899">
-                                                  <xsl:value-of
-                                                  select="concat('https://anno.onb.ac.at/cgi-content/anno?aid=wtz&amp;datum=', replace(@when-iso, '-', ''))"
-                                                  />
-                                                  </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of
-                                                  select="concat('https://anno.onb.ac.at/cgi-content/anno?aid=bth&amp;datum=', replace(@when-iso, '-', ''))"
-                                                  />
-                                                  </xsl:otherwise>
-                                                </xsl:choose>
-                                            </xsl:attribute>
-                                            <span class="newspaper-card-title">Theaterzettel</span>
-                                            <span class="newspaper-card-sub">
-                                                <xsl:text>ANNO, </xsl:text>
-                                                <xsl:value-of
-                                                  select="format-date(@when-iso, '[D01].[M01].[Y]')"/>
-                                                <xsl:text> ↗</xsl:text>
-                                            </span>
-                                        </a>
-                                    </xsl:if>
                                 </div>
                             </section>
                         </xsl:if>
@@ -377,6 +312,46 @@
                                                 >OpenStreetMap ↗</a>
                                         </xsl:if>
                                     </p>
+                                </div>
+                            </div>
+                        </xsl:if>
+
+                        <!-- Ressourcen: alle Links aus list-of-relevant-uris
+                             (idnos des Ereignisses + Chronik/Tagebuch des Tages) -->
+                        <xsl:variable name="when" select="@when-iso"/>
+                        <xsl:variable name="res-idnos" as="node()">
+                            <xsl:element name="idnos">
+                                <xsl:copy-of
+                                    select="tei:idno[normalize-space(.) and not(@subtype = $current-edition)]"/>
+                                <xsl:if test="$when">
+                                    <xsl:if test="not(tei:idno[@subtype = 'schnitzler-chronik'])">
+                                        <tei:idno type="URL" subtype="schnitzler-chronik">
+                                            <xsl:value-of
+                                                select="concat('https://schnitzler-chronik.acdh.oeaw.ac.at/', $when, '.html')"/>
+                                        </tei:idno>
+                                    </xsl:if>
+                                    <xsl:if
+                                        test="not(tei:idno[@subtype = 'schnitzler-tagebuch']) and $tb-days/descendant::*:date[. = $when][1]">
+                                        <tei:idno type="URL" subtype="schnitzler-tagebuch">
+                                            <xsl:value-of
+                                                select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', $when, '.html')"/>
+                                        </tei:idno>
+                                    </xsl:if>
+                                </xsl:if>
+                            </xsl:element>
+                        </xsl:variable>
+                        <xsl:if
+                            test="key('only-relevant-uris', $res-idnos/tei:idno/@subtype, $relevant-uris)[1]">
+                            <div class="side-card">
+                                <div class="side-card-body">
+                                    <h2 class="side-card-title side-card-title-small"
+                                        >Ressourcen</h2>
+                                    <div class="buttonreihe">
+                                        <xsl:call-template name="mam:idnosToLinks">
+                                            <xsl:with-param name="idnos-of-current"
+                                                select="$res-idnos"/>
+                                        </xsl:call-template>
+                                    </div>
                                 </div>
                             </div>
                         </xsl:if>
