@@ -21,6 +21,11 @@
         </xsl:attribute>
     </xsl:template>
 
+    <!-- ANNO-Theaterzettel: Fragment nach "#" (z. B. #oper-fidelio) entfernen -->
+    <xsl:template match="tei:idno[@subtype = ('anno', 'anno-theaterzettel')]/text()[contains(., '#')]">
+        <xsl:value-of select="substring-before(., '#')"/>
+    </xsl:template>
+
     <!-- Sortiert die event-Elemente chronologisch nach @when-iso -->
     <xsl:template match="tei:listEvent">
         <xsl:copy>
