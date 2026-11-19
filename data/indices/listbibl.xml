@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-11-09">serialized</change>
+      <change when-iso="2026-11-18">serialized</change>
       
        
     </revisionDesc>
@@ -74,6 +74,53 @@
   
           <idno type="URL" subtype="tmp-burgtheater">bt_work_071f0b4a8a</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb420889.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb420221">
+          
+  
+          <title type="main">Die Widerspänstige</title>
+          
+  
+          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420221/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9aa521173c</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb420205">
+          
+  
+          <title type="main">Die Verlassenen</title>
+          
+  
+          <author key="pmb10854" role="hat-geschaffen">Bauernfeld, Eduard von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420205/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_49da04851c</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb353201">
@@ -92,6 +139,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353201/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353201.html</idno>
           
 
           <note type="collections">
@@ -127,6 +177,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb335223.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb335223.html</idno>
+          
 
           <note type="collections">
             
@@ -157,6 +210,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334578/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb334578.html</idno>
           
 
           <note type="collections">
@@ -189,6 +245,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb333940.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333940.html</idno>
+          
 
           <note type="collections">
             
@@ -216,6 +275,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333842/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333842.html</idno>
           
 
           <note type="collections">
@@ -254,6 +316,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb307528.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb307528.html</idno>
+          
 
           <note type="collections">
             
@@ -287,6 +352,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300236.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb300236.html</idno>
           
 
           <note type="collections">
@@ -325,6 +393,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb300097.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb300097.html</idno>
+          
 
           <note type="collections">
             
@@ -355,6 +426,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298993/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298993.html</idno>
           
 
           <note type="collections">
@@ -387,6 +461,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb298968.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298968.html</idno>
+          
 
           <note type="collections">
             
@@ -417,9 +494,6 @@
           
   
           <author key="pmb55048" role="hat-ubersetzt">Hopp, Julius</author>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77026.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/296020/</idno>
@@ -526,6 +600,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb293663.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb293663.html</idno>
+          
 
           <note type="collections">
             
@@ -565,6 +642,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb293658.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb293658.html</idno>
           
 
           <note type="collections">
@@ -1421,9 +1501,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/257475/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb31489.html</idno>
-          
-  
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164110</idno>
           
   
@@ -1801,11 +1878,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb254306.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/311</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -1919,11 +2002,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb253753.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/45</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -1956,6 +2045,9 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb253749.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/385</idno>
+          
 
           <note type="collections">
             
@@ -1964,6 +2056,9 @@
             
   
             <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -2661,7 +2756,7 @@
         <bibl xml:id="pmb237779">
           
   
-          <title type="main">5. Brandenburgisches Konzert</title>
+          <title type="main">Brandenburgisches Konzert Nr. 5 D-Dur BWV 1050</title>
           
   
           <author key="pmb10806" role="hat-geschaffen">Bach, Johann Sebastian</author>
@@ -2691,7 +2786,7 @@
           </note>
           
   
-          <note type="work_kind">Konzert</note>
+          <note type="work_kind">Orchesterwerk</note>
           
 
         </bibl>
@@ -3090,9 +3185,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29987/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29987.html</idno>
-          
-  
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165076</idno>
           
   
@@ -3100,6 +3192,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb203322.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/145</idno>
           
 
           <note type="collections">
@@ -3109,6 +3204,9 @@
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -3150,6 +3248,12 @@
   
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_953.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/496</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202739.html</idno>
+          
 
           <note type="collections">
             
@@ -3158,6 +3262,9 @@
             
   
             <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -3203,9 +3310,6 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Die_Walk%C3%BCre</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30063.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30063.html</idno>
           
   
@@ -3217,6 +3321,12 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb202199.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/143</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202199.html</idno>
+          
 
           <note type="collections">
             
@@ -3225,6 +3335,9 @@
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -3282,9 +3395,6 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Orpheus_in_der_Unterwelt</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77025.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77025/</idno>
           
   
@@ -3293,11 +3403,20 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb201672.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/372</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb201672.html</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -3342,11 +3461,20 @@
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Armide_(Gluck)</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/34</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb201611.html</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -6417,6 +6545,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195853.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/123</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Dramatisierung</note>
           
 
@@ -6532,6 +6672,18 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195836.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/531</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb195831">
@@ -6583,6 +6735,18 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195829.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/382</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb195828">
@@ -6614,6 +6778,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195827/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195827.html</idno>
           
 
         </bibl>
@@ -7182,6 +7349,18 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195774.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/520</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb195773">
@@ -7204,11 +7383,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195773.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/401</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -7970,6 +8155,18 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195725.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/516</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb195724">
@@ -7992,11 +8189,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195724.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/316</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -8067,6 +8270,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195719.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/63</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
 
         </bibl>
@@ -8300,11 +8515,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195706.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/181</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -8689,6 +8910,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195676.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/485</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
 
         </bibl>
@@ -9100,11 +9333,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195653.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/306</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -10487,6 +10726,18 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195562.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/207</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb195559">
@@ -10506,6 +10757,18 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195559.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/327</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb195558">
@@ -10524,6 +10787,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195558.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/407</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
 
         </bibl>
@@ -10547,11 +10822,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195557.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/300</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -10800,11 +11081,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195544.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/353</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -11562,11 +11849,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195496.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/184</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -11693,11 +11986,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195489.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/527</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -11819,6 +12118,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195480.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/408</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
 
         </bibl>
@@ -13497,6 +13808,15 @@
           <title type="main">Die Piccolomini. Dramatisches Gedicht in fünf Aufzügen</title>
           
   
+          <title type="legacy-name-merge">2. Die Piccolomini</title>
+          
+  
+          <title type="legacy-name-merge">Die Piccolomini</title>
+          
+  
+          <author key="pmb12654" role="hat-geschaffen">Schiller, Friedrich von</author>
+          
+  
           <author key="pmb12654" role="hat-geschaffen">Schiller, Friedrich von</author>
           
 
@@ -13519,6 +13839,18 @@
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10888901</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_66282cc65c</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420085/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fabdc2faab</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419110/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb195353.html</idno>
@@ -13693,9 +14025,6 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190883/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb35816.html#3</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190883.html</idno>
           
 
@@ -13725,9 +14054,6 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190880/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb35816.html#2</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb190880.html</idno>
@@ -14498,6 +14824,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb169453.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb169453.html</idno>
+          
 
           <note type="collections">
             
@@ -14740,6 +15069,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb167676.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb167676.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -14822,6 +15154,9 @@
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079974</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/137</idno>
+          
 
           <note type="collections">
             
@@ -14830,6 +15165,9 @@
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -14883,11 +15221,17 @@
   
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_238.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/142</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -15063,10 +15407,10 @@
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164819</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/79614/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb164820.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79614.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/79614/</idno>
           
   
           <idno type="URL" subtype="tmp-burgtheater">bt_work_ec3e33ca19</idno>
@@ -15128,9 +15472,6 @@
           <date notBefore-iso="1912-01-01" when-iso="1912-01-01">1912</date>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76776.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164473/</idno>
           
   
@@ -15175,6 +15516,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb164450.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/396</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
 
         </bibl>
@@ -15422,6 +15775,9 @@
           <title type="legacy-name-merge">Der Sohn der Wildnis</title>
           
   
+          <title type="legacy-name-merge">Der Sohn der Wildnis</title>
+          
+  
           <author key="pmb5591" role="hat-geschaffen">Halm, Friedrich</author>
           
   
@@ -15438,6 +15794,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb163928.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419748/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ed7bc78465</idno>
           
 
           <note type="collections">
@@ -15618,6 +15980,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/162680/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb162680.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -15638,6 +16003,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/148448/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb148448.html</idno>
           
   
           <note type="work_kind">Theaterkritik</note>
@@ -15736,6 +16104,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147964.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147964.html</idno>
+          
+  
           <note type="work_kind">Notiz</note>
           
 
@@ -15816,6 +16187,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147572.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147572.html</idno>
+          
+  
           <note type="work_kind">Feuilleton</note>
           
 
@@ -15823,16 +16197,19 @@
         <bibl xml:id="pmb147280">
           
   
-          <title type="main">Ein Sommernachtstraum. Komödie in fünf Aufzügen</title>
+          <title type="main">Ein Sommernachtstraum</title>
           
   
-          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
+          <title type="legacy-name-merge">Musik zu Ein Sommernachtstraum</title>
           
   
-          <author key="pmb4132" role="hat-ubersetzt">Tieck, Ludwig</author>
+          <author key="pmb2412" role="hat-geschaffen-textgrundlage-von">Shakespeare, William</author>
           
   
           <author key="pmb12228" role="hat-geschaffen-vertonung">Mendelssohn Bartholdy, Felix</author>
+          
+  
+          <author key="pmb4132" role="hat-ubersetzt">Tieck, Ludwig</author>
           
 
           <date notBefore-iso="1843-01-01" when-iso="1843-01-01">1843</date>
@@ -15841,13 +16218,37 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147280/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/204396/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300102682</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q42192954</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_2047.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147280.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147280.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Mehraktiges Drama</note>
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="22">No german Wikipedia-Site found</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Schauspielmusik</note>
           
 
         </bibl>
@@ -16055,6 +16456,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145291.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145291.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -16103,6 +16507,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144562.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144562.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -16155,6 +16562,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144241.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144241.html</idno>
+          
+  
           <note type="work_kind">Feuilleton</note>
           
 
@@ -16186,6 +16596,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144201.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144201.html</idno>
+          
+  
           <note type="work_kind">Theaterkritik</note>
           
 
@@ -16212,6 +16625,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144122.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144122.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -16242,6 +16658,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb144087.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144087.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -16262,6 +16681,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/144082/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb144082.html</idno>
           
   
           <note type="work_kind">Nachtkritik</note>
@@ -16292,6 +16714,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143996.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143996.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -16309,6 +16734,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143992/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143992.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -16417,6 +16845,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142702.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142702.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -16481,6 +16912,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142663.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142663.html</idno>
+          
 
           <note type="collections">
             
@@ -16516,6 +16950,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142604.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142604.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -16544,6 +16981,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb142599.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb142599.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -16567,6 +17007,9 @@
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb141413.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb141413.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -16600,6 +17043,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb140839.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb140839.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -16626,6 +17072,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb135048.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb135048.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -16657,6 +17106,9 @@
           
   
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133731.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb133731.html</idno>
           
 
         </bibl>
@@ -16694,6 +17146,9 @@
           
   
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133187.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb133639.html</idno>
           
   
           <note type="work_kind">Theaterkritik</note>
@@ -16735,6 +17190,9 @@
   
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb133395.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb133395.html</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb132275">
@@ -16756,6 +17214,9 @@
           
   
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132275.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb132275.html</idno>
           
 
         </bibl>
@@ -16790,6 +17251,9 @@
           
   
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb134893.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb131767.html</idno>
           
 
         </bibl>
@@ -16831,6 +17295,9 @@
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/132427/</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb123179.html</idno>
+          
 
         </bibl>
         <bibl xml:id="pmb123107">
@@ -16867,6 +17334,9 @@
           
   
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132199.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb123107.html</idno>
           
   
           <note type="work_kind">Theaterkritik</note>
@@ -16928,6 +17398,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118771.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118771.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -16948,6 +17421,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118670.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118670.html</idno>
           
   
           <note type="work_kind">Vorwort</note>
@@ -16991,6 +17467,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118619.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76776.html</idno>
           
 
           <note type="collections">
@@ -17063,6 +17542,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb118011.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb118011.html</idno>
+          
 
           <note type="collections">
             
@@ -17100,6 +17582,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93556.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93556.html</idno>
+          
 
           <note type="collections">
             
@@ -17135,6 +17620,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93362.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93362.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17166,6 +17654,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93343.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93343.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17189,6 +17680,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93304.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93304.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17217,6 +17711,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93300.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93300.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17250,6 +17747,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93294.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93294.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17278,6 +17778,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93285.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93285.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17301,6 +17804,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93279.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93279.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17334,6 +17840,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93273.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93273.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17357,6 +17866,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93264.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93264.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17387,6 +17899,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93258.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93258.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17410,6 +17925,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93253.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93253.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17443,6 +17961,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93246.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93246.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17469,6 +17990,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93235.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93235.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17499,6 +18023,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93227.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93227.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17527,6 +18054,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93174.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93174.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17547,6 +18077,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93155.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93155.html</idno>
           
   
           <note type="work_kind">Theaterkritik</note>
@@ -17572,6 +18105,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93147.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93147.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17602,6 +18138,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93146.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93146.html</idno>
+          
+  
           <note type="work_kind">Feuilleton</note>
           
 
@@ -17625,6 +18164,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93141.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93141.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17655,6 +18197,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93136.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93136.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17681,6 +18226,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93131.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93131.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17711,6 +18259,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93126.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93126.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17737,6 +18288,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93121.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93121.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -17767,6 +18321,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93116.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93116.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17793,6 +18350,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93096.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93096.html</idno>
           
 
           <note type="collections">
@@ -17832,6 +18392,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93080.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93080.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17860,6 +18423,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93074.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93074.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -17886,6 +18452,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb93049.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb93049.html</idno>
           
 
           <note type="collections">
@@ -17951,6 +18520,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92950.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb92950.html</idno>
           
   
           <note type="work_kind">Theaterkritik</note>
@@ -18028,6 +18600,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb90005.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb90005.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -18056,6 +18631,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89996.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89996.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -18082,6 +18660,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89985.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89985.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -18136,11 +18717,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89927.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/524</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -18303,6 +18890,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89567.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89567.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -18397,6 +18987,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb89545.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb89545.html</idno>
+          
+  
           <note type="work_kind">Theaterkritik</note>
           
 
@@ -18472,6 +19065,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88941.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88941.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -18492,6 +19088,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88856/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88856.html</idno>
           
   
           <note type="work_kind">Zeitungsbericht</note>
@@ -18517,6 +19116,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88513.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88513.html</idno>
           
   
           <note type="work_kind">Notiz</note>
@@ -18547,6 +19149,9 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb88030.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb88030.html</idno>
+          
+  
           <note type="work_kind">Nachtkritik</note>
           
 
@@ -18572,6 +19177,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87906/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb87906.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -18595,6 +19203,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87901/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb87901.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -18953,6 +19564,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81528.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/523</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Operette</note>
@@ -20458,6 +21081,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81474.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/44</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -20479,11 +21114,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81473.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/445</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -21773,11 +22414,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81418.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/343</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -22520,6 +23167,18 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb81387.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/71</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Operette</note>
           
 
@@ -22713,6 +23372,18 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81377.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/397</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb81375">
@@ -22731,6 +23402,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81375.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/368</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
 
         </bibl>
@@ -23999,6 +24682,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81327.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/147</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -24019,6 +24714,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81325.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/288</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -24043,6 +24750,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81324.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/102</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -24063,6 +24782,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81323.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/505</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -25263,6 +25994,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81277.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/200</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -25283,6 +26026,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81276.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/435</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -25549,11 +26304,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81265.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/364</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -26627,6 +27388,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81228.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/481</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Ballett</note>
@@ -28462,11 +29235,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81151.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/250</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -28695,6 +29474,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81131.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/231</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -29520,6 +30311,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81096.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/317</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -30367,11 +31170,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81056.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/308</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -31098,10 +31907,19 @@
         <bibl xml:id="pmb81037">
           
   
-          <title type="main">Boris Godunow</title>
+          <title type="main">Борис Годунов</title>
           
   
-          <author key="pmb21681" role="hat-geschaffen">Mussorgskij, Modest P.</author>
+          <title type="legacy-name-merge">Борис Годунов</title>
+          
+  
+          <title type="werk_namensvariante">Boris Godunow</title>
+          
+  
+          <author key="pmb21681" role="hat-geschaffen-textgrundlage-von">Mussorgskij, Modest P.</author>
+          
+
+          <date notBefore-iso="1874-01-01" when-iso="1874-01-01">1874</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/81037/</idno>
@@ -31111,6 +31929,33 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81037.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q386846</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Boris_Godunow_(Oper)</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511745/</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/75</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Oper</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
@@ -31888,6 +32733,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81012.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/238</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -31908,6 +32765,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81011.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/13</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -32828,6 +33697,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80959.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/218</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -32848,6 +33729,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80958.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/504</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -32932,11 +33825,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80953.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/159</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -32990,6 +33889,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80945.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/422</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Ballett</note>
@@ -34210,11 +35121,17 @@
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300096615</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/542</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -34274,6 +35191,9 @@
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb80917.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/501</idno>
+          
 
           <note type="collections">
             
@@ -34285,6 +35205,9 @@
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -36579,6 +37502,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80815.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/132</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -36599,6 +37534,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80811.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/19</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
 
         </bibl>
@@ -37083,6 +38030,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80791.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/158</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -39084,6 +40043,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80696.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/370</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Operette</note>
           
 
@@ -39717,6 +40688,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80654.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/265</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -40617,6 +41600,18 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80608.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/342</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb80606">
@@ -40635,6 +41630,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80606.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/127</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -40657,6 +41664,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80605.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/224</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -40777,6 +41796,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80601.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/530</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -41105,6 +42136,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80587.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/24</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -42689,11 +43732,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80519.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/458</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -45155,6 +46204,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80443.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/392</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -47314,11 +48375,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80381.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/340</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -47351,11 +48418,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80380.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/118</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -47599,11 +48672,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80363.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/97</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -48789,11 +49868,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80328.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/52</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -49195,6 +50280,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80302.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/476</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -50574,11 +51671,17 @@
   
           <idno type="URL" subtype="tmp-burgtheater">bt_work_09e8e80393</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/213</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -50604,6 +51707,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80246.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/209</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
 
         </bibl>
@@ -51193,6 +52308,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80226.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/330</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Pantomime</note>
@@ -51951,6 +53078,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80199.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/341</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -53315,6 +54454,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80152.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/537</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -54175,6 +55326,18 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80098.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/447</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -54195,6 +55358,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80097.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/465</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -54745,6 +55920,9 @@
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10810352</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/488</idno>
+          
 
           <note type="collections">
             
@@ -54753,6 +55931,9 @@
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -55891,6 +57072,9 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb79011.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79011.html</idno>
           
 
           <note type="collections">
@@ -57074,6 +58258,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78512.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/129</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
 
         </bibl>
         <bibl xml:id="pmb78511">
@@ -57138,6 +58334,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78509.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/290</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Operette</note>
           
 
@@ -57162,11 +58370,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78487.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/29</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -57451,7 +58665,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_799.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb202465.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78462.html</idno>
           
 
           <note type="collections">
@@ -57815,11 +59029,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78408.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/320</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -57845,6 +59065,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78407.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/314</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -58584,6 +59816,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78249.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/499</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -58591,7 +59835,10 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb78247">
           
   
-          <title type="main">Das Triptychon</title>
+          <title type="main">Il trittico</title>
+          
+  
+          <title type="werk_namensvariante">Das Triptychon</title>
           
   
           <author key="pmb12457" role="hat-geschaffen">Puccini, Giacomo</author>
@@ -58606,7 +59853,22 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78247.html</idno>
           
   
-          <note type="work_kind">Oper</note>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Il_trittico</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q899738</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Opernzyklus</note>
           
 
         </bibl>
@@ -58717,9 +59979,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78216.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78220.html</idno>
-          
-  
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300026846</idno>
           
   
@@ -58732,10 +59991,10 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/JBWV_0037 - op. 36 - Streichsextett Nr. 2 G-Dur.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78220.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/204880/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/204880/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78216.html</idno>
           
 
           <note type="collections">
@@ -58805,16 +60064,13 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/1._Streichsextett_(Brahms)</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78219.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/411452/</idno>
           
   
           <idno type="URL" subtype="brahms-online">https://brahms-online.oeaw.ac.at/JBWV_0018 - op. 18 - Streichsextett Nr. 1 B-Dur.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78219.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78215.html</idno>
           
 
           <note type="collections">
@@ -58914,6 +60170,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78169.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/116</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Ballett</note>
@@ -59078,6 +60346,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78136.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/346</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -59201,11 +60481,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78129.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/420</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -59231,6 +60517,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78127.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/351</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -60018,6 +61316,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77989.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/495</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -61299,11 +62609,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77849.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/424</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -61333,11 +62649,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77848.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/359</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -61367,11 +62689,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77847.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/77</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -61405,7 +62733,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77841.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb43165.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77841.html</idno>
           
 
           <note type="collections">
@@ -62034,11 +63362,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77772.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/383</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -62854,6 +64188,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77671.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/406</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Libretto</note>
           
 
@@ -62915,6 +64261,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77668.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/352</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Operette</note>
@@ -63519,11 +64877,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77568.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/522</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -63553,11 +64917,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77566.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/492</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -63605,6 +64975,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11079993</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/136</idno>
+          
 
           <note type="collections">
             
@@ -63613,6 +64986,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -64240,11 +65616,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77539.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/390</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -64499,6 +65881,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">Die alten Junggesellen. Pariser Sittengemälde in 5 Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Die alten Junggesellen</title>
+          
+  
           <author key="pmb12624" role="hat-geschaffen">Sardou, Victorien</author>
           
 
@@ -64514,7 +65899,13 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77516.html</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_655b52c13d</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77516.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419847/</idno>
           
 
           <note type="collections">
@@ -65328,6 +66719,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77442.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/124</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -67260,7 +68663,10 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb77330">
           
   
-          <title type="main">Der Kampf. Vivat academia! (Herr Doktor, haben Sie zu essen?)</title>
+          <title type="main">Herr Doktor, haben Sie zu essen? Komödie in drei Akten</title>
+          
+  
+          <title type="legacy-name-merge">Herr Doktor, haben Sie zu essen?</title>
           
   
           <author key="pmb12749" role="hat-geschaffen">Schönherr, Karl</author>
@@ -67273,6 +68679,24 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77330.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5df79aee59</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420703/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -67949,11 +69373,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb77248</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/280</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="85">Arthur Schnitzler und der S. Fischer Verlag, Briefdatenbank</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -68148,6 +69578,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77207.html</idno>
           
 
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Instrumentalkonzert</note>
+          
+
         </bibl>
         <bibl xml:id="pmb77206">
           
@@ -68165,6 +69607,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77206.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Instrumentalkonzert</note>
           
 
         </bibl>
@@ -68185,11 +69639,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77199.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/151</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -69653,6 +71113,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77051.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/415</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -70074,11 +71546,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77023.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/236</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -70157,6 +71635,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77020.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/444</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Operette</note>
@@ -71177,7 +72667,10 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb76891">
           
   
-          <title type="main">Die Feuerglocke</title>
+          <title type="main">Drei Damen im Kongreß oder: Die Feuerglocke</title>
+          
+  
+          <title type="legacy-name-merge">Drei Damen im Kongreß</title>
           
   
           <author key="pmb10788" role="hat-geschaffen">Auernheimer, Raoul</author>
@@ -71192,7 +72685,22 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76891.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420286/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c39402c616</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -71444,6 +72952,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11055252</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/53</idno>
+          
 
           <note type="collections">
             
@@ -71455,6 +72966,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -71493,11 +73007,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76846.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/438</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -71554,6 +73074,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10729651</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/128</idno>
+          
 
           <note type="collections">
             
@@ -71562,6 +73085,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -71597,11 +73123,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76842.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/244</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -71652,6 +73184,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202542/</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/171</idno>
+          
 
           <note type="collections">
             
@@ -71660,6 +73195,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -71726,11 +73264,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76837.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/79</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -71777,7 +73321,13 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">Pelleas und Melisande</title>
           
   
+          <title type="legacy-name-merge">Pelléas und Mélisande</title>
+          
+  
           <author key="pmb12156" role="hat-geschaffen">Maeterlinck, Maurice</author>
+          
+
+          <date notBefore-iso="1893-01-01" when-iso="1893-01-01">1893</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76835/</idno>
@@ -71787,6 +73337,27 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76835.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164351/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164351</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Drama</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
@@ -71809,61 +73380,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <note type="work_kind">Drama</note>
-          
-
-        </bibl>
-        <bibl xml:id="pmb76825">
-          
-  
-          <title type="main">Much Ado About Nothing</title>
-          
-  
-          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
-          
-
-          <date notBefore-iso="1599-01-01" when-iso="1599-01-01">1599</date>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76825/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76825.html</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q130851</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Viel_L%C3%A4rm_um_nichts</idno>
-          
-  
-          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_83.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76825.html</idno>
-          
-
-          <note type="collections">
-            
-  
-            <bibl type="collections" n="30">Hanslick Online</bibl>
-            
-  
-            <bibl type="collections" n="24">manually created entity</bibl>
-            
-
-          </note>
-          
-  
-          <note type="work_kind">Mehraktiges Drama</note>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Much_Ado_Quarto.JPG/250px-Much_Ado_Quarto.JPG"/>
-            
-
-          </figure>
           
 
         </bibl>
@@ -72957,6 +74473,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10671952</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/404</idno>
+          
 
           <note type="collections">
             
@@ -72965,6 +74484,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -72999,6 +74521,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76697.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/374</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -73065,11 +74599,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76694.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/333</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -73098,6 +74638,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76692.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/310</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -73130,11 +74682,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76691.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/497</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -74776,6 +76334,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76511.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76511.html</idno>
+          
 
           <note type="collections">
             
@@ -75440,6 +77001,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb63885</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/453</idno>
+          
 
           <note type="collections">
             
@@ -75451,6 +77015,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             
   
             <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -76379,11 +77946,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb56668.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/543</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -76780,6 +78353,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb52902</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/547</idno>
+          
 
           <note type="collections">
             
@@ -76791,6 +78367,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
             
   
             <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -76825,6 +78404,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52544.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52544.html</idno>
           
   
           <note type="work_kind">Parodie</note>
@@ -76886,6 +78468,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb50599.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb50599.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -76912,6 +78497,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46509.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb46509.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -76998,6 +78586,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46196.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb46196.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -77027,6 +78618,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb46153.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb46153.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -77113,6 +78707,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44774.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb44774.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -77139,6 +78736,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb44525.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/514</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -77383,11 +78992,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb43226.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/144</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -77685,6 +79300,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42512.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42512.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -77953,6 +79571,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42207.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42207.html</idno>
           
   
           <note type="work_kind">Zeitungsbericht</note>
@@ -78417,11 +80038,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41222.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/398</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -78487,6 +80114,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb41191.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb41191.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -78675,6 +80305,18 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40638.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/130</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -79001,6 +80643,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb39481.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb39481.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -79079,6 +80724,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb37723.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb37723.html</idno>
           
   
           <note type="work_kind">Vortrag</note>
@@ -79513,6 +81161,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb35986.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35986.html</idno>
+          
+  
           <note type="work_kind">Unveröffentlichtes Werk</note>
           
 
@@ -79530,6 +81181,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb35982.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb35982.html</idno>
           
   
           <note type="work_kind">Unveröffentlichtes Werk</note>
@@ -80186,6 +81840,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34253.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/373</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -80212,6 +81878,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb34251.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/363</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -80389,6 +82067,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33969.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33969.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
   
@@ -80418,6 +82099,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33965.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33965.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -80566,11 +82250,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33914.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/33</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -81453,11 +83143,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33704.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/12</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -81819,6 +83515,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33470.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33470.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -81878,6 +83577,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33442.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33442.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -81901,6 +83603,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33440.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33440.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -82166,6 +83871,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33352.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33352.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -82302,6 +84010,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33251.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33251.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -82812,6 +84523,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33031.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/146</idno>
+          
 
           <note type="collections">
             
@@ -82820,6 +84534,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -83292,6 +85009,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=50906</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/326</idno>
+          
 
           <note type="collections">
             
@@ -83300,6 +85020,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -83340,6 +85063,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb32824.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32824.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -83781,6 +85507,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32646/</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32646.html</idno>
+          
 
           <note type="collections">
             
@@ -83900,6 +85629,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32592.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/64</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Operette</note>
@@ -84100,6 +85841,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32518.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32518.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -84677,9 +86421,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb80461.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80461.html</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -86336,6 +88077,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32027.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32027.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -86450,9 +88194,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77145.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77145.html</idno>
-          
-  
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163264</idno>
           
   
@@ -86464,6 +88205,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32011.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/174</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32011.html</idno>
+          
 
           <note type="collections">
             
@@ -86472,6 +88219,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -87384,6 +89134,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31883.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/100</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -88114,6 +89876,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31731.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/187</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -88358,6 +90132,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31681.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/377</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -89705,6 +91491,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31565.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31565.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -89752,6 +91541,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31563.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31563.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -90373,9 +92165,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb81429.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81429.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31491.html</idno>
           
   
@@ -90685,16 +92474,22 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb31425">
           
   
-          <title type="main">Tannhäuser und der Sängerkrieg auf Wartburg. Große romantische Oper in drei Akten</title>
+          <title type="main">Tannhäuser und der Sängerkrieg auf Wartburg</title>
           
   
           <title type="legacy-name-merge">Tannhäuser und der Sängerkrieg auf Wartburg</title>
           
   
+          <title type="legacy-name-merge">Tannhäuser und der Sängerkrieg auf Wartburg. Große romantische Oper in drei Akten</title>
+          
+  
+          <title type="legacy-name-merge">Tannhäuser</title>
+          
+  
           <author key="pmb13024" role="hat-geschaffen">Wagner, Richard</author>
           
 
-          <date>1845</date>
+          <date notBefore-iso="1845-01-01" when-iso="1845-01-01">1845</date>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb31425.html</idno>
@@ -90704,6 +92499,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb31425.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/165085/</idno>
           
   
           <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_40.html</idno>
@@ -90724,13 +92522,31 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31425.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/306435/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31425.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/138</idno>
+          
+  
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10717101</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb165085</idno>
           
 
           <note type="collections">
             
   
+            <bibl type="collections" n="82">Frank Wedekinds Korrespondenz</bibl>
+            
+  
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -91457,9 +93273,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164963</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77269.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77269/</idno>
           
   
@@ -91470,6 +93283,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31327.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31327.html</idno>
           
 
           <note type="collections">
@@ -91674,6 +93490,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <author key="pmb12371" role="hat-geschaffen">Ohnet, Georges</author>
           
+  
+          <author key="pmb89923" role="hat-ubersetzt">Mautner, Eduard</author>
+          
 
           <date notBefore-iso="1882-01-01" when-iso="1882-01-01">1882</date>
           
@@ -91752,6 +93571,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31285.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/73</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Text</note>
           
 
@@ -91781,6 +93612,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31281.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31281.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -91919,6 +93753,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31257.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31257.html</idno>
           
   
           <note type="work_kind">Feuilleton</note>
@@ -92115,6 +93952,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31217.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/245</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -92501,6 +94350,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31177.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31177.html</idno>
           
   
           <note type="work_kind">Rezension</note>
@@ -93425,11 +95277,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30937.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/230</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -93472,6 +95330,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30935.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/160</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Text</note>
           
 
@@ -93510,6 +95380,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30933.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30933.html</idno>
           
 
           <note type="collections">
@@ -93579,9 +95452,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30921.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77350.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163436/</idno>
           
   
@@ -93632,6 +95502,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb30919.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30919.html</idno>
           
   
           <note type="work_kind">Unveröffentlichtes Werk</note>
@@ -93705,25 +95578,25 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30907.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76473.html</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30907.html</idno>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10692853</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76473.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30907.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30907.html</idno>
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/31</idno>
           
 
           <note type="collections">
             
   
             <bibl type="collections" n="82">Frank Wedekinds Korrespondenz</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -93759,11 +95632,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30903.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/405</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -94007,16 +95886,19 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76489/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb76489.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30877.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76489.html</idno>
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/263</idno>
           
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -94335,11 +96217,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30847.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/494</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -94393,11 +96281,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30845.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/321</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -94567,6 +96461,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30823.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/139</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Oper</note>
@@ -95984,11 +97890,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30661.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/141</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -96434,6 +98346,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30629.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/534</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -96479,11 +98403,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30627.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/87</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -96653,11 +98583,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30613.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/117</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -96709,7 +98645,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78359.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78359.html</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30607.html</idno>
           
 
           <note type="collections">
@@ -96748,11 +98684,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30605.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/43</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -96827,6 +98769,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30603.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/90</idno>
+          
 
           <note type="collections">
             
@@ -96835,6 +98780,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -97328,6 +99276,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30463.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30463.html</idno>
+          
+  
           <note type="work_kind">Rezension</note>
           
 
@@ -97568,6 +99519,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30449.html</idno>
           
   
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30449.html</idno>
+          
+  
           <note type="work_kind">Sammlung von Rezensionen</note>
           
 
@@ -97619,6 +99573,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30447.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/216</idno>
+          
 
           <note type="collections">
             
@@ -97627,6 +99584,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -97931,6 +99891,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30421.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/177</idno>
+          
 
           <note type="collections">
             
@@ -97942,6 +99905,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="77">Karl Kraus: SemanticKraus</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -98669,6 +100635,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30365.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/14</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -98858,11 +100836,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30341.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/418</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="82">Frank Wedekinds Korrespondenz</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -99747,6 +101731,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30215.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/439</idno>
+          
 
           <note type="collections">
             
@@ -99755,6 +101742,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -100220,6 +102210,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30197.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/491</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Oper</note>
           
 
@@ -100484,6 +102486,18 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30179.html</idno>
           
   
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/529</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Text</note>
           
 
@@ -100513,6 +102527,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30171.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30171.html</idno>
           
   
           <note type="work_kind">Gedichtsammlung</note>
@@ -100740,7 +102757,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb30157">
           
   
-          <title type="main">Wie es euch gefällt</title>
+          <title type="main">As You Like It</title>
+          
+  
+          <title type="werk_namensvariante">Wie es euch gefällt</title>
           
   
           <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
@@ -100758,13 +102778,55 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30157.html</idno>
           
   
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q237572</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_317.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30157.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8b3bcc15bf</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30157.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421354/</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wie_es_euch_gef%C3%A4llt</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164871/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164871</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4099346-2</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Deverell_Walter_Howard_A_Scene_from_As_You_Like_It.jpg/250px-Deverell_Walter_Howard_A_Scene_from_As_You_Like_It.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -103084,9 +105146,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36093.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb29951.html</idno>
-          
-  
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Zum_gro%C3%9Fen_Wurstel</idno>
           
   
@@ -103556,11 +105615,17 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29925.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/149</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -104221,6 +106286,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29897.html</idno>
           
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/140</idno>
+          
 
           <note type="collections">
             
@@ -104232,6 +106300,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
             
   
             <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
             
 
           </note>
@@ -104320,6 +106391,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="legacy-name-merge">Wienerinnen. Lustspiel in drei Akten</title>
           
   
+          <title type="legacy-name-merge">Wienerinnen</title>
+          
+  
+          <title type="legacy-name-merge">Wienerinnen</title>
+          
+  
+          <title type="legacy-name-merge">Wienerinnen</title>
+          
+  
           <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
           
 
@@ -104344,13 +106424,34 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb140794.html</idno>
           
   
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163203</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29885.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421362/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_11d3eb7919</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163203/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163171/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163171</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29885.html</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references">  </note>
           
 
         </bibl>
@@ -105801,9 +107902,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q741606</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76925.html</idno>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10784501</idno>
