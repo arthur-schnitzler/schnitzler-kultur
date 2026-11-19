@@ -2064,7 +2064,7 @@
         {
           "label": "Veranstaltungstypen im Jahr 1895",
           "data": [
-            18,
+            19,
             103,
             32,
             5,
@@ -2077,14 +2077,16 @@
       "anderes": {
         "labels": [
           "Museumsbesuch",
-          "Vereinstreffen"
+          "Vereinstreffen",
+          "Veranstaltung"
         ],
         "datasets": [
           {
             "label": "Verteilung innerhalb von 'anderes' im Jahr 1895",
             "data": [
               16,
-              2
+              2,
+              1
             ]
           }
         ]
@@ -4216,8 +4218,9 @@
           "Orchesterkonzert",
           "Tanzaufführung",
           "Trio",
-          "Opernaufführung",
+          "Sinfoniekonzert",
           "Quartett",
+          "Opernaufführung",
           "Varieté",
           "Operettenaufführung",
           "Konzert",
@@ -4231,8 +4234,9 @@
               1,
               1,
               1,
-              6,
+              1,
               2,
+              5,
               1,
               1,
               4,

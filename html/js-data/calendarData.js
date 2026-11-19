@@ -201,7 +201,7 @@ var calendarData = [
     "name": "Aufführung von Armida, 17.2.1878", "startDate": "1878-02-17", "id": "pmb207424.html", "type": "Opernaufführung"
   },
   {
-    "name": "Aufführung von Faust. Eine Tragödie, 27.2.1878", "startDate": "1878-02-27", "id": "pmb207425.html", "type": "Theateraufführung"
+    "name": "Aufführung von Faust, 27.2.1878", "startDate": "1878-02-27", "id": "pmb207425.html", "type": "Theateraufführung"
   },
   {
     "name": "Vortrag von Josip Čižman: Der letzte byzantinische Kaiser, 2.3.1878", "startDate": "1878-03-02", "id": "pmb207426.html", "type": "Vortrag"
@@ -252,7 +252,7 @@ var calendarData = [
     "name": "Konzert im Bösendorfer-Saal, 23.5.1878", "startDate": "1878-05-23", "id": "pmb207441.html", "type": "Konzert"
   },
   {
-    "name": "Aufführung von Uriel Acosta. Trauerspiel in fünf Aufzügen, 25.5.1878", "startDate": "1878-05-25", "id": "pmb207442.html", "type": "Theateraufführung"
+    "name": "Aufführung von Uriel Acosta, 25.5.1878", "startDate": "1878-05-25", "id": "pmb207442.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Der Prophet, 2.6.1878", "startDate": "1878-06-02", "id": "pmb207443.html", "type": "Opernaufführung"
@@ -336,7 +336,7 @@ var calendarData = [
     "name": "Drittes Abonnementkonzert der Wiener Philharmoniker, 26.1.1879", "startDate": "1879-01-26", "id": "pmb207469.html", "type": "Philharmonisches Konzert"
   },
   {
-    "name": "Aufführung von Die Journalisten. Lustspiel in vier Akten, 1.2.1879", "startDate": "1879-02-01", "id": "pmb207470.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Journalisten, 1.2.1879", "startDate": "1879-02-01", "id": "pmb207470.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Violetta [= La Traviata], 5.2.1879", "startDate": "1879-02-05", "id": "pmb207471.html", "type": "Opernaufführung"
@@ -483,10 +483,10 @@ var calendarData = [
     "name": "Aufführung von Wilhelm Tell, 23.10.1879", "startDate": "1879-10-23", "id": "pmb207519.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Hofball, Wenn man nicht tanzt, 26.10.1879", "startDate": "1879-10-26", "id": "pmb207521.html", "type": "Theateraufführung"
+    "name": "Aufführung von Marsolé, 26.10.1879", "startDate": "1879-10-26", "id": "pmb207520.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Marsolé, 26.10.1879", "startDate": "1879-10-26", "id": "pmb207520.html", "type": "Theateraufführung"
+    "name": "Aufführung von Hofball, Wenn man nicht tanzt, 31.10.1879", "startDate": "1879-10-31", "id": "pmb207521.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Hausherrnfreuden, 7.11.1879", "startDate": "1879-11-07", "id": "pmb207522.html", "type": "Theateraufführung"
@@ -1692,7 +1692,7 @@ var calendarData = [
     "name": "Aufführung von Einen Jux will er sich machen, Die schlimmen Buben in der Schule, 20.5.1885", "startDate": "1885-05-20", "id": "pmb207916.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Journalisten. Lustspiel in vier Akten, 31.5.1885", "startDate": "1885-05-31", "id": "pmb207917.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die Journalisten, 30.5.1885", "startDate": "1885-05-30", "id": "pmb207917.html", "type": "Theateraufführung"
   },
   {
     "name": "Gesangskonzert von Mirzl Hager, 1.6.1885", "startDate": "1885-06-01", "id": "pmb207918.html", "type": "Volksgesang"
@@ -2067,7 +2067,7 @@ var calendarData = [
     "name": "Aufführung von Die Journalisten. Lustspiel in vier Akten, 10.6.1886", "startDate": "1886-06-10", "id": "pmb208040.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die alten Junggesellen, 14.6.1886", "startDate": "1886-06-14", "id": "pmb208041.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die alten Junggesellen, 15.6.1886", "startDate": "1886-06-15", "id": "pmb208041.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Die Maler, 18.6.1886", "startDate": "1886-06-18", "id": "pmb208042.html", "type": "Theateraufführung"
@@ -4944,7 +4944,7 @@ var calendarData = [
     "name": "Aufführung von Carneval in Rom, 4.8.1895", "startDate": "1895-08-04", "id": "pmb208762.html", "type": "Theateraufführung"
   },
   {
-    "name": "Zwei glückliche Tage, Ischl, 5.8.1895", "startDate": "1895-08-05", "id": "pmb42475.html", "type": "Theateraufführung"
+    "name": "Zwei glückliche Tage, 5.8.1895", "startDate": "1895-08-05", "id": "pmb42475.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Die Fledermaus, 6.8.1895", "startDate": "1895-08-06", "id": "pmb208763.html", "type": "Operettenaufführung"
@@ -5029,6 +5029,9 @@ var calendarData = [
   },
   {
     "name": "Probe von Liebelei, 30.9.1895", "startDate": "1895-09-30", "id": "pmb199277.html", "type": "Probe"
+  },
+  {
+    "name": "Veranstaltungsbesuch im Ronacher, 1.10.1895", "startDate": "1895-10-01", "id": "pmb585719.html", "type": "Veranstaltung"
   },
   {
     "name": "Probe von Liebelei, 1.10.1895", "startDate": "1895-10-01", "id": "pmb199282.html", "type": "Probe"
@@ -10602,7 +10605,7 @@ var calendarData = [
     "name": "Probe von Der tapfere Kassian. Singspiel, 14.3.1912", "startDate": "1912-03-14", "id": "pmb252928.html", "type": "Probe"
   },
   {
-    "name": "Aufführung von 8. Sinfonie, 14.3.1912", "startDate": "1912-03-14", "id": "pmb209631.html", "type": "Opernaufführung"
+    "name": "Premiere von 8. Sinfonie, 14.3.1912", "startDate": "1912-03-14", "id": "pmb209631.html", "type": "Sinfoniekonzert"
   },
   {
     "name": "Probe von Der tapfere Kassian. Singspiel, 15.3.1912", "startDate": "1912-03-15", "id": "pmb252938.html", "type": "Probe"
@@ -17301,7 +17304,7 @@ var calendarData = [
     "name": "Filmvorführung von Der Präsident, 1.12.1928", "startDate": "1928-12-01", "id": "pmb211039.html", "type": "Filmvorführung"
   },
   {
-    "name": "Privates Klavierkonzert von Klavierkonzert Nr. 20 d-Moll KV 466, 4.12.1928", "startDate": "1928-12-04", "id": "pmb235224.html", "type": "Privates Konzert"
+    "name": "Privates Konzert von Klavierkonzert Nr. 20 d-Moll KV 466, 4.12.1928", "startDate": "1928-12-04", "id": "pmb235224.html", "type": "Privates Konzert"
   },
   {
     "name": "Filmvorführung von Die Rekord- und Herzensbrecherin, 5.12.1928", "startDate": "1928-12-05", "id": "pmb211040.html", "type": "Filmvorführung"
@@ -17862,7 +17865,7 @@ var calendarData = [
     "name": "Filmvorführung von Hochzeit in Hollywood, 23.2.1930", "startDate": "1930-02-23", "id": "pmb211135.html", "type": "Filmvorführung"
   },
   {
-    "name": "Aufführung von Die Feuerglocke, 26.2.1930", "startDate": "1930-02-26", "id": "pmb237955.html", "type": "Theateraufführung"
+    "name": "Aufführung von Drei Damen im Kongreß oder Die Feuerglocke, 26.2.1930", "startDate": "1930-02-26", "id": "pmb237955.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Reklame, 2.3.1930", "startDate": "1930-03-02", "id": "pmb237961.html", "type": "Theateraufführung"
@@ -17910,7 +17913,7 @@ var calendarData = [
     "name": "Aufführung von Wozzeck, 4.4.1930", "startDate": "1930-04-04", "id": "pmb238010.html", "type": "Opernaufführung"
   },
   {
-    "name": "Aufführung von Der Kampf. Vivat academia! (Herr Doktor, haben Sie zu essen?), 6.4.1930", "startDate": "1930-04-06", "id": "pmb238015.html", "type": "Theateraufführung"
+    "name": "Aufführung von Herr Doktor, haben Sie zu essen?, 6.4.1930", "startDate": "1930-04-06", "id": "pmb238015.html", "type": "Theateraufführung"
   },
   {
     "name": "Filmvorführung von Der Hochstapler, 7.4.1930", "startDate": "1930-04-07", "id": "pmb211146.html", "type": "Filmvorführung"
