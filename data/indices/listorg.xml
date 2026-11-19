@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-11-09">serialized</change>
+      <change when-iso="2026-11-18">serialized</change>
       
        
     </revisionDesc>
@@ -73,6 +73,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353245/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb353245.html</idno>
           
 
           <listBibl>
@@ -180,6 +183,9 @@
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q140003426</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb342822.html</idno>
+          
 
           <listBibl>
             
@@ -217,6 +223,9 @@
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Barrison_Sisters</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb336723.html</idno>
+          
 
           <listBibl>
             
@@ -236,22 +245,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Alfred_Choubrac_-_Les_Sisters_Barrison.jpg/250px-Alfred_Choubrac_-_Les_Sisters_Barrison.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Alfred_Choubrac_-_Les_Sisters_Barrison.jpg/250px-Alfred_Choubrac_-_Les_Sisters_Barrison.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Alfred_Choubrac_-_Les_Sisters_Barrison.jpg/250px-Alfred_Choubrac_-_Les_Sisters_Barrison.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -268,6 +274,9 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333937/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb333937.html</idno>
           
 
           <listBibl>
@@ -392,6 +401,9 @@
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb298265.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb298265.html</idno>
           
 
           <listBibl>
@@ -837,6 +849,9 @@
   
           <idno type="URL" subtype="ansorge">https://conrad-ansorge.github.io/ansorge-static/ansorge_o_3.html</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294057.html</idno>
+          
 
           <listBibl>
             
@@ -1053,22 +1068,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Petrolini_-_Un_po%27_per_celia_e_un_po%27_per_non_morir%2C_Roma%2C_Signorelli%2C_1936_(page_213_crop_2).jpg/250px-Petrolini_-_Un_po%27_per_celia_e_un_po%27_per_non_morir%2C_Roma%2C_Signorelli%2C_1936_(page_213_crop_2).jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Petrolini_-_Un_po%27_per_celia_e_un_po%27_per_non_morir%2C_Roma%2C_Signorelli%2C_1936_(page_213_crop_2).jpg/250px-Petrolini_-_Un_po%27_per_celia_e_un_po%27_per_non_morir%2C_Roma%2C_Signorelli%2C_1936_(page_213_crop_2).jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Petrolini_-_Un_po%27_per_celia_e_un_po%27_per_non_morir%2C_Roma%2C_Signorelli%2C_1936_(page_213_crop_2).jpg/250px-Petrolini_-_Un_po%27_per_celia_e_un_po%27_per_non_morir%2C_Roma%2C_Signorelli%2C_1936_(page_213_crop_2).jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -1522,22 +1534,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kleykamp_aan_de_Scheveningseweg_10%2C_Den_Haag%2C_ca._1942%2C_bijgesneden.jpg/250px-Kleykamp_aan_de_Scheveningseweg_10%2C_Den_Haag%2C_ca._1942%2C_bijgesneden.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kleykamp_aan_de_Scheveningseweg_10%2C_Den_Haag%2C_ca._1942%2C_bijgesneden.jpg/250px-Kleykamp_aan_de_Scheveningseweg_10%2C_Den_Haag%2C_ca._1942%2C_bijgesneden.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kleykamp_aan_de_Scheveningseweg_10%2C_Den_Haag%2C_ca._1942%2C_bijgesneden.jpg/250px-Kleykamp_aan_de_Scheveningseweg_10%2C_Den_Haag%2C_ca._1942%2C_bijgesneden.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -2104,22 +2113,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PerosiSistina.jpg/250px-PerosiSistina.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PerosiSistina.jpg/250px-PerosiSistina.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PerosiSistina.jpg/250px-PerosiSistina.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -2298,22 +2304,19 @@
           </listBibl>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Opernhaus_-_Sechsel%C3%A4utenplatz_2012-09-27_17-53-05.jpg/250px-Opernhaus_-_Sechsel%C3%A4utenplatz_2012-09-27_17-53-05.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Opernhaus_-_Sechsel%C3%A4utenplatz_2012-09-27_17-53-05.jpg/250px-Opernhaus_-_Sechsel%C3%A4utenplatz_2012-09-27_17-53-05.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Opernhaus_-_Sechsel%C3%A4utenplatz_2012-09-27_17-53-05.jpg/250px-Opernhaus_-_Sechsel%C3%A4utenplatz_2012-09-27_17-53-05.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -3561,22 +3564,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Habima_Theatre_(cropped).jpg/250px-Habima_Theatre_(cropped).jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Habima_Theatre_(cropped).jpg/250px-Habima_Theatre_(cropped).jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Habima_Theatre_(cropped).jpg/250px-Habima_Theatre_(cropped).jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -4343,22 +4343,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hagenbeck-Wallace_circus.jpg/250px-Hagenbeck-Wallace_circus.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hagenbeck-Wallace_circus.jpg/250px-Hagenbeck-Wallace_circus.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hagenbeck-Wallace_circus.jpg/250px-Hagenbeck-Wallace_circus.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -5427,22 +5424,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Belvedere_(Vienna)%2C_2021-06-06%2C_Ode_an_die_Freude%2C_Beethoven%2C_2.png/250px-Belvedere_(Vienna)%2C_2021-06-06%2C_Ode_an_die_Freude%2C_Beethoven%2C_2.png"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Belvedere_(Vienna)%2C_2021-06-06%2C_Ode_an_die_Freude%2C_Beethoven%2C_2.png/250px-Belvedere_(Vienna)%2C_2021-06-06%2C_Ode_an_die_Freude%2C_Beethoven%2C_2.png"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Belvedere_(Vienna)%2C_2021-06-06%2C_Ode_an_die_Freude%2C_Beethoven%2C_2.png/250px-Belvedere_(Vienna)%2C_2021-06-06%2C_Ode_an_die_Freude%2C_Beethoven%2C_2.png"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -5849,22 +5843,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Curcus_in_SPB.jpg/250px-Curcus_in_SPB.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Curcus_in_SPB.jpg/250px-Curcus_in_SPB.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Curcus_in_SPB.jpg/250px-Curcus_in_SPB.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -6859,22 +6850,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gymnasium_Stubenbastei.jpg/250px-Gymnasium_Stubenbastei.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gymnasium_Stubenbastei.jpg/250px-Gymnasium_Stubenbastei.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gymnasium_Stubenbastei.jpg/250px-Gymnasium_Stubenbastei.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -7465,22 +7453,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Der_Blaue_Vogel.jpg/250px-Logo_Der_Blaue_Vogel.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Der_Blaue_Vogel.jpg/250px-Logo_Der_Blaue_Vogel.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Der_Blaue_Vogel.jpg/250px-Logo_Der_Blaue_Vogel.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -7783,6 +7768,15 @@
             <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb69.html</note>
             
   
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341393/</note>
+            
+  
+            <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.3</note>
+            
+  
+            <note type="IDNO" subtype="geonames">https://sws.geonames.org/3324498/</note>
+            
+  
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb69.html</note>
             
 
@@ -7822,22 +7816,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wien_19_D%C3%B6blinger_Gymnasium_a.jpg/250px-Wien_19_D%C3%B6blinger_Gymnasium_a.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wien_19_D%C3%B6blinger_Gymnasium_a.jpg/250px-Wien_19_D%C3%B6blinger_Gymnasium_a.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wien_19_D%C3%B6blinger_Gymnasium_a.jpg/250px-Wien_19_D%C3%B6blinger_Gymnasium_a.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -8013,22 +8004,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/M%C3%BCnchner_Philharmoniker_im_Gasteig.jpg/250px-M%C3%BCnchner_Philharmoniker_im_Gasteig.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/M%C3%BCnchner_Philharmoniker_im_Gasteig.jpg/250px-M%C3%BCnchner_Philharmoniker_im_Gasteig.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/M%C3%BCnchner_Philharmoniker_im_Gasteig.jpg/250px-M%C3%BCnchner_Philharmoniker_im_Gasteig.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -8104,22 +8092,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Berlin_Philharmonie_asv2018-05_img1.jpg/250px-Berlin_Philharmonie_asv2018-05_img1.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Berlin_Philharmonie_asv2018-05_img1.jpg/250px-Berlin_Philharmonie_asv2018-05_img1.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Berlin_Philharmonie_asv2018-05_img1.jpg/250px-Berlin_Philharmonie_asv2018-05_img1.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -8666,22 +8651,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hellmesberger-Quartett.jpg/250px-Hellmesberger-Quartett.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hellmesberger-Quartett.jpg/250px-Hellmesberger-Quartett.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hellmesberger-Quartett.jpg/250px-Hellmesberger-Quartett.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -9873,22 +9855,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moscow%2CTverskoy_23%2C25.jpg/250px-Moscow%2CTverskoy_23%2C25.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moscow%2CTverskoy_23%2C25.jpg/250px-Moscow%2CTverskoy_23%2C25.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moscow%2CTverskoy_23%2C25.jpg/250px-Moscow%2CTverskoy_23%2C25.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -11327,22 +11306,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polycollege071029.jpg/250px-Polycollege071029.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polycollege071029.jpg/250px-Polycollege071029.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polycollege071029.jpg/250px-Polycollege071029.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -11639,22 +11615,19 @@
           </listBibl>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Salzburg_Landestheater.jpg/250px-Salzburg_Landestheater.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Salzburg_Landestheater.jpg/250px-Salzburg_Landestheater.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Salzburg_Landestheater.jpg/250px-Salzburg_Landestheater.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -12223,22 +12196,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mitte_Deutsch-Amerikanisches_Theater.jpg/250px-Mitte_Deutsch-Amerikanisches_Theater.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mitte_Deutsch-Amerikanisches_Theater.jpg/250px-Mitte_Deutsch-Amerikanisches_Theater.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mitte_Deutsch-Amerikanisches_Theater.jpg/250px-Mitte_Deutsch-Amerikanisches_Theater.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -12656,9 +12626,6 @@
             <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40694.html</note>
             
   
-            <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40694.html</note>
-            
-  
             <note type="IDNO" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb40694.html</note>
             
   
@@ -12985,22 +12952,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Le_Chat_noir_1929.jpg/250px-Le_Chat_noir_1929.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Le_Chat_noir_1929.jpg/250px-Le_Chat_noir_1929.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Le_Chat_noir_1929.jpg/250px-Le_Chat_noir_1929.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -13242,22 +13206,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/37_bis_rue-vivienne.jpg/250px-37_bis_rue-vivienne.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/37_bis_rue-vivienne.jpg/250px-37_bis_rue-vivienne.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/37_bis_rue-vivienne.jpg/250px-37_bis_rue-vivienne.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -13822,22 +13783,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Frankfurt_Comoedienhaus_1902.jpg/250px-Frankfurt_Comoedienhaus_1902.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Frankfurt_Comoedienhaus_1902.jpg/250px-Frankfurt_Comoedienhaus_1902.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Frankfurt_Comoedienhaus_1902.jpg/250px-Frankfurt_Comoedienhaus_1902.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -13967,22 +13925,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg/250px-Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg/250px-Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg/250px-Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -14241,22 +14196,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wien_-_Volksoper.JPG/250px-Wien_-_Volksoper.JPG"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wien_-_Volksoper.JPG/250px-Wien_-_Volksoper.JPG"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wien_-_Volksoper.JPG/250px-Wien_-_Volksoper.JPG"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -14561,22 +14513,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lobetheater_Breslau.jpg/250px-Lobetheater_Breslau.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lobetheater_Breslau.jpg/250px-Lobetheater_Breslau.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lobetheater_Breslau.jpg/250px-Lobetheater_Breslau.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -14833,22 +14782,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/KMA_hus.fr_Nybroviken.jpg/250px-KMA_hus.fr_Nybroviken.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/KMA_hus.fr_Nybroviken.jpg/250px-KMA_hus.fr_Nybroviken.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/KMA_hus.fr_Nybroviken.jpg/250px-KMA_hus.fr_Nybroviken.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -15014,22 +14960,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin_Komische_Oper_Fassade_1912.jpg/250px-Berlin_Komische_Oper_Fassade_1912.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin_Komische_Oper_Fassade_1912.jpg/250px-Berlin_Komische_Oper_Fassade_1912.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin_Komische_Oper_Fassade_1912.jpg/250px-Berlin_Komische_Oper_Fassade_1912.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -15147,22 +15090,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Moscow_Art_Theatre_LCCN2014715470.jpg/250px-Moscow_Art_Theatre_LCCN2014715470.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Moscow_Art_Theatre_LCCN2014715470.jpg/250px-Moscow_Art_Theatre_LCCN2014715470.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Moscow_Art_Theatre_LCCN2014715470.jpg/250px-Moscow_Art_Theatre_LCCN2014715470.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -15431,22 +15371,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Das_Staatstheater_am_G%C3%A4rtnerplatz_04.jpg/250px-Das_Staatstheater_am_G%C3%A4rtnerplatz_04.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Das_Staatstheater_am_G%C3%A4rtnerplatz_04.jpg/250px-Das_Staatstheater_am_G%C3%A4rtnerplatz_04.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Das_Staatstheater_am_G%C3%A4rtnerplatz_04.jpg/250px-Das_Staatstheater_am_G%C3%A4rtnerplatz_04.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -15745,22 +15682,19 @@
           <note type="references"> </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schillertheater_Berlin_02-14.jpg/250px-Schillertheater_Berlin_02-14.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schillertheater_Berlin_02-14.jpg/250px-Schillertheater_Berlin_02-14.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schillertheater_Berlin_02-14.jpg/250px-Schillertheater_Berlin_02-14.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -15818,22 +15752,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/AKH_Wien_MedUniWien.JPG/250px-AKH_Wien_MedUniWien.JPG"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/AKH_Wien_MedUniWien.JPG/250px-AKH_Wien_MedUniWien.JPG"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/AKH_Wien_MedUniWien.JPG/250px-AKH_Wien_MedUniWien.JPG"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -15993,22 +15924,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/National_Theatre_Budapest.jpg/250px-National_Theatre_Budapest.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/National_Theatre_Budapest.jpg/250px-National_Theatre_Budapest.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/National_Theatre_Budapest.jpg/250px-National_Theatre_Budapest.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -16841,22 +16769,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Wien_-_Secessionsgeb%C3%A4ude.JPG/250px-Wien_-_Secessionsgeb%C3%A4ude.JPG"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Wien_-_Secessionsgeb%C3%A4ude.JPG/250px-Wien_-_Secessionsgeb%C3%A4ude.JPG"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Wien_-_Secessionsgeb%C3%A4ude.JPG/250px-Wien_-_Secessionsgeb%C3%A4ude.JPG"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -17039,6 +16964,9 @@
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/802138-7</idno>
           
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb52098.html</idno>
+          
 
           <listBibl>
             
@@ -17191,22 +17119,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ros%C3%A9-Quartett_1895-1896.jpg/250px-Ros%C3%A9-Quartett_1895-1896.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ros%C3%A9-Quartett_1895-1896.jpg/250px-Ros%C3%A9-Quartett_1895-1896.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ros%C3%A9-Quartett_1895-1896.jpg/250px-Ros%C3%A9-Quartett_1895-1896.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -18013,22 +17938,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/M%C3%BCnchner_Kammerspiele.jpg/250px-M%C3%BCnchner_Kammerspiele.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/M%C3%BCnchner_Kammerspiele.jpg/250px-M%C3%BCnchner_Kammerspiele.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/M%C3%BCnchner_Kammerspiele.jpg/250px-M%C3%BCnchner_Kammerspiele.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -18635,22 +18557,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus%2C_Kirchenallee%2C_Hamburg.jpg/250px-Deutsches_Schauspielhaus%2C_Kirchenallee%2C_Hamburg.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus%2C_Kirchenallee%2C_Hamburg.jpg/250px-Deutsches_Schauspielhaus%2C_Kirchenallee%2C_Hamburg.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus%2C_Kirchenallee%2C_Hamburg.jpg/250px-Deutsches_Schauspielhaus%2C_Kirchenallee%2C_Hamburg.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -19308,7 +19227,19 @@
             <note type="IDNO" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.15</note>
             
   
+            <note type="IDNO" subtype="wikidata">http://www.wikidata.org/entity/Q1749983</note>
+            
+  
+            <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4078991-3</note>
+            
+  
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb68.html</note>
+            
+  
+            <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/345948/</note>
+            
+  
+            <note type="IDNO" subtype="wikipedia">https://de.wikipedia.org/wiki/W%C3%A4hring_(Wiener_Bezirksteil)</note>
             
 
           </location>
@@ -20006,22 +19937,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Allgemeine_Poliklinik%2C_Vienna%2C_2019.jpg/250px-Allgemeine_Poliklinik%2C_Vienna%2C_2019.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Allgemeine_Poliklinik%2C_Vienna%2C_2019.jpg/250px-Allgemeine_Poliklinik%2C_Vienna%2C_2019.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Allgemeine_Poliklinik%2C_Vienna%2C_2019.jpg/250px-Allgemeine_Poliklinik%2C_Vienna%2C_2019.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -20208,22 +20136,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Theater_in_der_Josefstadt3.jpg/250px-Theater_in_der_Josefstadt3.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Theater_in_der_Josefstadt3.jpg/250px-Theater_in_der_Josefstadt3.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Theater_in_der_Josefstadt3.jpg/250px-Theater_in_der_Josefstadt3.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -20374,22 +20299,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/WienRaimundtheater.jpg/250px-WienRaimundtheater.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/WienRaimundtheater.jpg/250px-WienRaimundtheater.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/WienRaimundtheater.jpg/250px-WienRaimundtheater.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -20821,22 +20743,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/GuentherZ_0018_Wien_Buergertheater.jpg/250px-GuentherZ_0018_Wien_Buergertheater.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/GuentherZ_0018_Wien_Buergertheater.jpg/250px-GuentherZ_0018_Wien_Buergertheater.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/GuentherZ_0018_Wien_Buergertheater.jpg/250px-GuentherZ_0018_Wien_Buergertheater.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -21728,22 +21647,19 @@
           </listBibl>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bundesarchiv_Bild_102-09067%2C_Berlin%2C_Kroll-Oper.jpg/250px-Bundesarchiv_Bild_102-09067%2C_Berlin%2C_Kroll-Oper.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bundesarchiv_Bild_102-09067%2C_Berlin%2C_Kroll-Oper.jpg/250px-Bundesarchiv_Bild_102-09067%2C_Berlin%2C_Kroll-Oper.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bundesarchiv_Bild_102-09067%2C_Berlin%2C_Kroll-Oper.jpg/250px-Bundesarchiv_Bild_102-09067%2C_Berlin%2C_Kroll-Oper.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -21961,22 +21877,19 @@
           </listBibl>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Renaissancetheater_01.jpg/250px-Renaissancetheater_01.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Renaissancetheater_01.jpg/250px-Renaissancetheater_01.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Renaissancetheater_01.jpg/250px-Renaissancetheater_01.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -22679,22 +22592,19 @@
           </listBibl>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Berlin_DeutscheOper_asv2021-03_img1.jpg/250px-Berlin_DeutscheOper_asv2021-03_img1.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Berlin_DeutscheOper_asv2021-03_img1.jpg/250px-Berlin_DeutscheOper_asv2021-03_img1.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Berlin_DeutscheOper_asv2021-03_img1.jpg/250px-Berlin_DeutscheOper_asv2021-03_img1.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -22785,22 +22695,19 @@
           </listBibl>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin%2C_Mitte%2C_Bertolt-Brecht-Platz_1%2C_Theater_am_Schiffbauerdamm.jpg/250px-Berlin%2C_Mitte%2C_Bertolt-Brecht-Platz_1%2C_Theater_am_Schiffbauerdamm.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin%2C_Mitte%2C_Bertolt-Brecht-Platz_1%2C_Theater_am_Schiffbauerdamm.jpg/250px-Berlin%2C_Mitte%2C_Bertolt-Brecht-Platz_1%2C_Theater_am_Schiffbauerdamm.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin%2C_Mitte%2C_Bertolt-Brecht-Platz_1%2C_Theater_am_Schiffbauerdamm.jpg/250px-Berlin%2C_Mitte%2C_Bertolt-Brecht-Platz_1%2C_Theater_am_Schiffbauerdamm.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -23215,22 +23122,19 @@
           </listBibl>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bundesarchiv_Bild_183-1987-0429-018%2C_Berlin%2C_Friedrichstra%C3%9Fe%2C_Metropol_Theater.jpg/250px-Bundesarchiv_Bild_183-1987-0429-018%2C_Berlin%2C_Friedrichstra%C3%9Fe%2C_Metropol_Theater.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bundesarchiv_Bild_183-1987-0429-018%2C_Berlin%2C_Friedrichstra%C3%9Fe%2C_Metropol_Theater.jpg/250px-Bundesarchiv_Bild_183-1987-0429-018%2C_Berlin%2C_Friedrichstra%C3%9Fe%2C_Metropol_Theater.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bundesarchiv_Bild_183-1987-0429-018%2C_Berlin%2C_Friedrichstra%C3%9Fe%2C_Metropol_Theater.jpg/250px-Bundesarchiv_Bild_183-1987-0429-018%2C_Berlin%2C_Friedrichstra%C3%9Fe%2C_Metropol_Theater.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -24470,22 +24374,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wien_-_Burgtheater.JPG/250px-Wien_-_Burgtheater.JPG"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wien_-_Burgtheater.JPG/250px-Wien_-_Burgtheater.JPG"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wien_-_Burgtheater.JPG/250px-Wien_-_Burgtheater.JPG"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -24660,22 +24561,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin%2C_Mitte%2C_Schumannstrasse_12-13A%2C_Deutsches_Theater_und_Kammerspiele_04.jpg/250px-Berlin%2C_Mitte%2C_Schumannstrasse_12-13A%2C_Deutsches_Theater_und_Kammerspiele_04.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin%2C_Mitte%2C_Schumannstrasse_12-13A%2C_Deutsches_Theater_und_Kammerspiele_04.jpg/250px-Berlin%2C_Mitte%2C_Schumannstrasse_12-13A%2C_Deutsches_Theater_und_Kammerspiele_04.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin%2C_Mitte%2C_Schumannstrasse_12-13A%2C_Deutsches_Theater_und_Kammerspiele_04.jpg/250px-Berlin%2C_Mitte%2C_Schumannstrasse_12-13A%2C_Deutsches_Theater_und_Kammerspiele_04.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -24799,22 +24697,19 @@
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb35546.html</idno>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/250px-Deutsches_Theater_Muenchen_2004.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/250px-Deutsches_Theater_Muenchen_2004.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/250px-Deutsches_Theater_Muenchen_2004.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -25019,22 +24914,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Berlin_Lessingtheater.jpg/250px-Berlin_Lessingtheater.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Berlin_Lessingtheater.jpg/250px-Berlin_Lessingtheater.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Berlin_Lessingtheater.jpg/250px-Berlin_Lessingtheater.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -27548,6 +27440,9 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb92180.html</note>
             
+  
+            <note type="IDNO" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb92180.html</note>
+            
 
           </location>
           
@@ -29284,6 +29179,9 @@
   
             <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb405585.html</note>
             
+  
+            <note type="IDNO" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb405585.html</note>
+            
 
           </location>
           
@@ -29829,22 +29727,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW%2C_Charlottenstra%C3%9Fe_90-92%2C_Bestuhlung_1912.jpg/250px-Berliner_Theater_in_Berlin_SW%2C_Charlottenstra%C3%9Fe_90-92%2C_Bestuhlung_1912.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW%2C_Charlottenstra%C3%9Fe_90-92%2C_Bestuhlung_1912.jpg/250px-Berliner_Theater_in_Berlin_SW%2C_Charlottenstra%C3%9Fe_90-92%2C_Bestuhlung_1912.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW%2C_Charlottenstra%C3%9Fe_90-92%2C_Bestuhlung_1912.jpg/250px-Berliner_Theater_in_Berlin_SW%2C_Charlottenstra%C3%9Fe_90-92%2C_Bestuhlung_1912.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -30074,22 +29969,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wien_Kunsthistorisches_Museum.jpg/250px-Wien_Kunsthistorisches_Museum.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wien_Kunsthistorisches_Museum.jpg/250px-Wien_Kunsthistorisches_Museum.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wien_Kunsthistorisches_Museum.jpg/250px-Wien_Kunsthistorisches_Museum.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -30300,22 +30192,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Neue_Freie_Presse_1_September_1864_%E2%84%961.jpg/250px-Neue_Freie_Presse_1_September_1864_%E2%84%961.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Neue_Freie_Presse_1_September_1864_%E2%84%961.jpg/250px-Neue_Freie_Presse_1_September_1864_%E2%84%961.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Neue_Freie_Presse_1_September_1864_%E2%84%961.jpg/250px-Neue_Freie_Presse_1_September_1864_%E2%84%961.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
@@ -30542,22 +30431,19 @@
           </note>
           
 
-          <figure>
+          <note type="image">
             
+  
+            <figure>
+              
     
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Salzburger_Festspiele_2012_-_Jedermann.jpg/250px-Salzburger_Festspiele_2012_-_Jedermann.jpg"/>
+              <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Salzburger_Festspiele_2012_-_Jedermann.jpg/250px-Salzburger_Festspiele_2012_-_Jedermann.jpg"/>
+              
+  
+            </figure>
             
 
-          </figure>
-          
-
-          <figure>
-            
-    
-            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Salzburger_Festspiele_2012_-_Jedermann.jpg/250px-Salzburger_Festspiele_2012_-_Jedermann.jpg"/>
-            
-
-          </figure>
+          </note>
           
 
         </org>
