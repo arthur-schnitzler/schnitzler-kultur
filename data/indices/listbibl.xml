@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-11-18">serialized</change>
+      <change when-iso="2026-11-22">serialized</change>
       
        
     </revisionDesc>
@@ -60,22 +60,230 @@
       
            
       <listBibl>
-        <bibl xml:id="pmb420889">
+        <bibl xml:id="pmb623927">
           
   
-          <title type="main">Liebelei</title>
+          <title type="main">Die Hochzeitsreise. Lustspiel in zwei Aufzügen</title>
           
   
-          <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
+          <author key="pmb13999" role="hat-geschaffen">Benedix, Julius Roderich</author>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420889/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/623927/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
-          <idno type="URL" subtype="tmp-burgtheater">bt_work_071f0b4a8a</idno>
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb623924">
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb420889.html</idno>
+          <title type="main">Der junge Medardus [Film]</title>
+          
+  
+          <author key="pmb19288" role="hat-geschaffen">Kertész, Michael</author>
+          
+  
+          <author key="pmb2121" role="hat-einen-beitrag-geschaffen-zu">Schnitzler, Arthur</author>
+          
+  
+          <author key="pmb26351" role="hat-einen-beitrag-geschaffen-zu">Vajda, Ladislaus</author>
+          
+  
+          <author key="pmb121853" role="hat-einen-beitrag-geschaffen-zu">Várkonyi, [Michael] Victor</author>
+          
+  
+          <author key="pmb122037" role="hat-einen-beitrag-geschaffen-zu">Hornigk, Anny</author>
+          
+  
+          <author key="pmb121536" role="hat-einen-beitrag-geschaffen-zu">Stone, Mary Hanlon</author>
+          
+  
+          <author key="pmb121535" role="hat-einen-beitrag-geschaffen-zu">Hegyesi, Maria</author>
+          
+  
+          <author key="pmb12378" role="hat-einen-beitrag-geschaffen-zu">Onno, Ferdinand</author>
+          
+  
+          <author key="pmb96205" role="hat-einen-beitrag-geschaffen-zu">Glawatsch, Franz</author>
+          
+
+          <date notBefore-iso="1923-01-01" when-iso="1923-01-01">1923</date>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32294.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/623924/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32294.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32294/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb32294.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3223624</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_junge_Medardus_(Film)</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32294.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Film</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb420966">
+          
+  
+          <title type="main">Mittagswende</title>
+          
+  
+          <author key="pmb6660" role="hat-geschaffen">Claudel, Paul</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420966/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c6679e8e9a</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb420804">
+          
+  
+          <title type="main">Julius Cäsar</title>
+          
+  
+          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
+          
+  
+          <author key="pmb12668" role="hat-ubersetzt">Schlegel, Friedrich von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420804/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_63be3cc679</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb420669">
+          
+  
+          <title type="main">Hans-Sachs-Feier</title>
+          
+  
+          <author key="pmb11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420669/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_eb37709899</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb420593">
+          
+  
+          <title type="main">Galeotto</title>
+          
+  
+          <author key="pmb154573" role="hat-geschaffen">Echegaray, Johann</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420593/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c504650fcd</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb420408">
+          
+  
+          <title type="main">Ein Volksfeind</title>
+          
+  
+          <author key="pmb11798" role="hat-geschaffen">Ibsen, Henrik</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420408/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_07d60bda87</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb420238">
+          
+  
+          <title type="main">Die öffentliche Meinung. Schauspiel in fünf Aufzügen</title>
+          
+  
+          <title type="werk_namensvariante">Die Unverschämten</title>
+          
+  
+          <author key="pmb2815" role="hat-geschaffen">Augier, Émile</author>
+          
+  
+          <author key="pmb185693" role="hat-ubersetzt">Neumann, Emil</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420238/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0da671216c</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -120,6 +328,70 @@
           
   
           <idno type="URL" subtype="tmp-burgtheater">bt_work_49da04851c</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb420079">
+          
+  
+          <title type="main">Die Orestie, I. Teil: Agamemnon</title>
+          
+  
+          <author key="pmb3648" role="hat-geschaffen">Aischylos</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420079/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_471e7eaeab</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb419695">
+          
+  
+          <title type="main">Der Richter von Zalamea</title>
+          
+  
+          <author key="pmb418808" role="hat-geschaffen">Calderon de La Barca, Pedro</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419695/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_7c939fdff9</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb419502">
+          
+  
+          <title type="main">Der Erbförster</title>
+          
+  
+          <author key="pmb418938" role="hat-geschaffen">Ludwig, Otto</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419502/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f91a964481</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb419316">
+          
+  
+          <title type="main">Das Glück im Winkel</title>
+          
+  
+          <author key="pmb12899" role="hat-geschaffen">Sudermann, Hermann</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419316/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5ff75e4151</idno>
           
 
         </bibl>
@@ -558,6 +830,9 @@
           <title type="main">König Heinrich der Sechste (Zweiter Teil)</title>
           
   
+          <title type="legacy-name-merge">König Heinrich der Sechste (2. Teil)</title>
+          
+  
           <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
           
   
@@ -565,6 +840,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294458.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420849/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c20f48e156</idno>
           
 
           <note type="collections">
@@ -1156,7 +1437,7 @@
           <author key="pmb12504" role="hat-geschaffen">Reinhardt, Max</author>
           
   
-          <author key="pmb3207" role="hat-geschaffen">Carré, Michel</author>
+          <author key="pmb3207" role="hat-geschaffen">Carré [Regisseur], Michel</author>
           
   
           <author key="pmb13014" role="hat-einen-beitrag-geschaffen-zu">Vollmoeller, Karl Gustav</author>
@@ -3091,6 +3372,55 @@
           
 
         </bibl>
+        <bibl xml:id="pmb205139">
+          
+  
+          <title type="main">Le carillon. Ballett en 1 acte</title>
+          
+  
+          <author key="pmb2467" role="hat-geschaffen-vertonung">Massenet, Jules</author>
+          
+  
+          <author key="pmb43762" role="hat-geschaffen-textgrundlage-von">Dyck, Ernest Marie Hubert van</author>
+          
+  
+          <author key="pmb357485" role="hat-geschaffen-textgrundlage-von">Roddaz, Camille de</author>
+          
+
+          <date notBefore-iso="1891-01-01" when-iso="1891-01-01">1891</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/205139/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1175579769</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_2602.html</idno>
+          
+  
+          <idno type="URL" subtype="spielplan-oper_18691945">https://www.mdw.ac.at/imi/operapolitics/spielplan-wiener-oper/web/opus/206</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
+            
+  
+            <bibl type="collections" n="122">Spielplan Oper 1850–1945</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Ballett</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb203394">
           
   
@@ -3271,6 +3601,55 @@
           
   
           <note type="work_kind">Oper</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb202346">
+          
+  
+          <title type="main">Nathan der Weise</title>
+          
+  
+          <author key="pmb12053" role="hat-geschaffen">Lessing, Gotthold Ephraim</author>
+          
+
+          <date notBefore-iso="1779-01-01" when-iso="1779-01-01">1779</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202346/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4099292-5</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q286611</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_744.html</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Nathan_der_Weise</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_325a5ade86</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+
+          </note>
+          
+
+          <figure>
+            
+    
+            <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lessing_Nathan_der_Weise_1779.jpg/250px-Lessing_Nathan_der_Weise_1779.jpg"/>
+            
+
+          </figure>
           
 
         </bibl>
@@ -8410,6 +8789,9 @@
           <title type="main">Schach dem König. Lustspiel in vier Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Schach dem König</title>
+          
+  
           <author key="pmb43671" role="hat-geschaffen">Schaufert, Hippolyt August</author>
           
   
@@ -8417,6 +8799,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195710.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8429acc929</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421146/</idno>
           
 
           <note type="collections">
@@ -8582,7 +8970,7 @@
         <bibl xml:id="pmb195703">
           
   
-          <title type="main">Der Marquis von Willemer</title>
+          <title type="main">Der Marquis von Villemer. Schauspiel in vier Akten</title>
           
   
           <author key="pmb9643" role="hat-geschaffen">Sand, George</author>
@@ -8592,6 +8980,18 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195703.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -9008,6 +9408,9 @@
           <title type="main">König Koloman. Historisches Trauerspiel in fünf Akten</title>
           
   
+          <title type="legacy-name-merge">König Koloman</title>
+          
+  
           <author key="pmb18956" role="hat-geschaffen">Jókai, Maurus</author>
           
   
@@ -9015,6 +9418,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195669.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0dd269ead5</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420859/</idno>
           
 
         </bibl>
@@ -9521,7 +9930,10 @@
         <bibl xml:id="pmb195637">
           
   
-          <title type="main">Geheimer Agent</title>
+          <title type="main">Der geheime Agent. Lustspiel in vier Aufzügen</title>
+          
+  
+          <title type="legacy-name-merge">Der geheime Agent</title>
           
   
           <author key="pmb7641" role="hat-geschaffen">Hackländer, Friedrich Wilhelm von</author>
@@ -9532,12 +9944,33 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195637.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419540/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4aaadee95e</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
 
         </bibl>
         <bibl xml:id="pmb195636">
           
   
           <title type="main">Prinz Eugen</title>
+          
+  
+          <title type="legacy-name-merge">Prinz Eugen (Greif)</title>
           
   
           <author key="pmb114270" role="hat-geschaffen">Greif, Martin</author>
@@ -9547,6 +9980,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195636.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421075/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_bf8d6cea63</idno>
           
 
         </bibl>
@@ -9572,6 +10011,12 @@
           <title type="main">Der Bibliothekar. Schwank in vier Akten</title>
           
   
+          <title type="legacy-name-merge">Der Bibliothekar</title>
+          
+  
+          <author key="pmb12296" role="hat-geschaffen">Moser, Gustav von</author>
+          
+  
           <author key="pmb12296" role="hat-geschaffen">Moser, Gustav von</author>
           
   
@@ -9579,6 +10024,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195634.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419471/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4b48414b42</idno>
           
 
           <note type="collections">
@@ -10677,10 +11128,13 @@
         <bibl xml:id="pmb195565">
           
   
-          <title type="main">Der verarmte Edelmann</title>
+          <title type="main">Ein verarmter Edelmann. Schauspiel in fünf Akten und einem Vorspiel</title>
           
   
           <title type="legacy-name-merge">Der verarmte Edelmann</title>
+          
+  
+          <title type="legacy-name-merge">Ein verarmter Edelmann</title>
           
   
           <author key="pmb11315" role="hat-geschaffen">Feuillet, Octave</author>
@@ -10694,21 +11148,23 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195565.html</idno>
           
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420404/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_725957feb1</idno>
+          
 
-        </bibl>
-        <bibl xml:id="pmb195563">
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
-          <title type="main">Gute Freunde</title>
-          
-  
-          <author key="pmb12624" role="hat-geschaffen">Sardou, Victorien</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195563/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195563.html</idno>
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -13749,6 +14205,9 @@
           <title type="main">Die Stützen der Gesellschaft. Schauspiel in vier Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Die Stützen der Gesellschaft</title>
+          
+  
           <author key="pmb11798" role="hat-geschaffen">Ibsen, Henrik</author>
           
   
@@ -13756,6 +14215,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb195360.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0dc0f22dec</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420180/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb195360.html</idno>
@@ -14193,6 +14658,40 @@
           
 
         </bibl>
+        <bibl xml:id="pmb186023">
+          
+  
+          <title type="main">Le carillon. Féerie-opérette en quatre actes</title>
+          
+  
+          <author key="pmb14318" role="hat-geschaffen">Blum, Ernest</author>
+          
+  
+          <author key="pmb186025" role="hat-geschaffen">Ferrier, Paul</author>
+          
+  
+          <author key="pmb186030" role="hat-geschaffen-vertonung">Serpette, Gaston</author>
+          
+
+          <date notBefore-iso="1897-01-01" when-iso="1897-01-01">1897</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186023/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Operette</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb185849">
           
   
@@ -14403,7 +14902,7 @@
           <author key="pmb112796" role="hat-geschaffen">Barbier, Jules</author>
           
   
-          <author key="pmb3207" role="hat-geschaffen">Carré, Michel</author>
+          <author key="pmb3207" role="hat-geschaffen">Carré [Regisseur], Michel</author>
           
   
           <author key="pmb185766" role="hat-ubersetzt">Gollmick, Carl</author>
@@ -14974,6 +15473,46 @@
           
 
         </bibl>
+        <bibl xml:id="pmb169007">
+          
+  
+          <title type="main">Deutsches Volkstheater. (»Der letzte Knopf.« Volksstück in drei Aufzügen von J. v. Gans-Ludassy)</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">f. s.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">f. s.: Deutsches Volkstheater. (»Der letzte Knopf.« Volksstück in drei Aufzügen von J. v. Gans-Ludassy). In: Wiener Allgemeinen Zeitung. 6 Uhr-Blatt, Nr. 6.628, 10. 4. 1900, S. 2–3</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=waz&amp;datum=19000410&amp;seite=2</title>
+          
+  
+          <author key="pmb2167" role="hat-unter-einem-kurzel-veroffentlicht">Salten, Felix</author>
+          
+
+          <date when-iso="1900-04-10">1900-04-10</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/169007/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb169007.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Feuilleton</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb168896">
           
   
@@ -15312,10 +15851,50 @@
           
 
         </bibl>
+        <bibl xml:id="pmb164859">
+          
+  
+          <title type="main">Der Kaufmann von Venedig</title>
+          
+  
+          <title type="legacy-name-merge">Der Kaufmann von Venedig</title>
+          
+  
+          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164859/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164859</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419594/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6feba93f92</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="references"> </note>
+          
+
+        </bibl>
         <bibl xml:id="pmb164857">
           
   
           <title type="main">König Heinrich der Sechste (Erster Teil). In fünf Aufzügen</title>
+          
+  
+          <title type="legacy-name-merge">König Heinrich der Sechste (1. Teil)</title>
           
   
           <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
@@ -15328,6 +15907,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb164857.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420847/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_34c9ef36d3</idno>
           
 
           <note type="collections">
@@ -15840,6 +16425,9 @@
           <title type="main">Der Kuß</title>
           
   
+          <title type="legacy-name-merge">Der Kuss</title>
+          
+  
           <author key="pmb15597" role="hat-geschaffen">Dóczi, Ludwig von</author>
           
   
@@ -15850,6 +16438,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb163572.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419613/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_da300ccb3d</idno>
           
 
         </bibl>
@@ -16258,6 +16852,9 @@
           <title type="main">Der Müller und sein Kind. Volksdrama in fünf Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Der Müller und sein Kind</title>
+          
+  
           <author key="pmb64875" role="hat-geschaffen">Raupach, Ernst</author>
           
 
@@ -16268,6 +16865,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb146020.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_eecf961fd0</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419656/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146020.html</idno>
@@ -16407,6 +17010,12 @@
           <title type="werk_namensvariante">Boubouroche. Tragische Posse in zwei Akten</title>
           
   
+          <title type="legacy-name-merge">Boubouroche</title>
+          
+  
+          <title type="legacy-name-merge">Boubouroche</title>
+          
+  
           <author key="pmb4865" role="hat-geschaffen">Courteline, Georges</author>
           
   
@@ -16422,10 +17031,25 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb145754.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/305850/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_16b3f31949</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145754.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419208/</idno>
+          
+  
+          <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10774303</idno>
           
 
           <note type="collections">
+            
+  
+            <bibl type="collections" n="82">Frank Wedekinds Korrespondenz</bibl>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -16435,6 +17059,37 @@
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+
+        </bibl>
+        <bibl xml:id="pmb145363">
+          
+  
+          <title type="main">Theater- und Kunstnachrichten. [Lustspieltheater, literarischer Einakterabend.]</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">R.A.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">R. A. [= Raoul Auernheimer]: Theater- und Kunstnachrichten. [Lustspieltheater, literarischer Einakterabend.]. In: Neue Freie Presse, Nr. 14930, 17. 3. 1906, Morgenblatt, S. 13</title>
+          
+  
+          <title type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19060317&amp;seite=13&amp;zoom=33</title>
+          
+  
+          <author key="pmb10788" role="hat-unter-einem-kurzel-veroffentlicht">Auernheimer, Raoul</author>
+          
+
+          <date>1906-03-17</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145363/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb145363.html</idno>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -17220,6 +17875,55 @@
           
 
         </bibl>
+        <bibl xml:id="pmb131969">
+          
+  
+          <title type="main">Der Graf von Charolais. (Ein Trauerspiel von Richard Beer-Hofmann. Zum ersten Mal aufgeführt von der Truppe des Berliner Kleinen und Neuen Theaters im Theater an der Wien am 15. Mai 1905)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Der Graf von Charolais. (Ein Trauerspiel von Richard Beer-Hofmann. Zum ersten Mal aufgeführt von der Truppe des Berliner Kleinen und Neuen Theaters im Theater an der Wien am 15. Mai 1905). In: Glossen. Zum Wiener Theater (1903 bis 1906)</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Der Graf von Charolais. (Ein Trauerspiel von Richard Beer-Hofmann. Zum ersten Mal aufgeführt von der Truppe des Berliner Kleinen und Neuen Theaters im Theater an der Wien am 15. Mai 1905). In: Neues Wiener Tagblatt Jg. 39, 16.5.1905, S.</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</title>
+          
+  
+          <title type="legacy-name-merge">Der Graf von Charolais. (Ein Trauerspiel von Richard Beer-Hofmann. Zum ersten Mal aufgeführt von der Truppe des Berliner Kleinen und Neuen Theaters im Theater an der Wien am 15. Mai 1905)</title>
+          
+  
+          <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
+          
+
+          <date when-iso="1905-05-16">1905-05-16</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/131579/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/131969/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb131969.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb131579.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
+          
+
+        </bibl>
         <bibl xml:id="pmb131767">
           
   
@@ -17254,6 +17958,58 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb131767.html</idno>
+          
+
+        </bibl>
+        <bibl xml:id="pmb123343">
+          
+  
+          <title type="main">Theater, Kunst und Literatur. Deutsches Volkstheater</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">H. B.</title>
+          
+  
+          <title type="werk_bibliografische-angabe">H. B.: Theater, Kunst und Literatur. Deutsches Volkstheater. In: Neues Wiener Tagblatt Jg. 34, 8.4.1900, S. 6.</title>
+          
+  
+          <title type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=nwg</title>
+          
+  
+          <title type="legacy-name-merge">Der letzte Knopf. Von Julius v. Gans-Ludassy. Zum ersten Male aufgeführt am 8. April 1900</title>
+          
+  
+          <title type="werk_bibliografische-angabe">Hermann Bahr: Der letzte Knopf. Von Julius v. Gans-Ludassy. Zum ersten Male aufgeführt am 8. April 1900. In: Premièren. Winter 1900 bis Sommer 1901. München: Albert Langen 1902, S. 58–61.</title>
+          
+  
+          <author key="pmb10815" role="hat-unter-einem-kurzel-veroffentlicht">Bahr, Hermann</author>
+          
+
+          <date when-iso="1900-04-08">8.4.1900</date>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/123343/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/132531/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb123343.html</idno>
+          
+  
+          <idno type="URL" subtype="bahr-textverzeichnis">https://bahr-textverzeichnis.acdh.oeaw.ac.at/pmb132531.html</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Rezension</note>
           
 
         </bibl>
@@ -22930,7 +23686,7 @@
         <bibl xml:id="pmb81397">
           
   
-          <title type="main">Meister Manole</title>
+          <title type="main">Meister Manole. Trauerspiel in vier Aufzügen</title>
           
   
           <author key="pmb10168" role="hat-geschaffen">Sylva, Carmen</author>
@@ -22947,8 +23703,17 @@
   
           <idno type="URL" subtype="tmp-burgtheater">bt_work_da6a02b9b8</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -23011,10 +23776,16 @@
         <bibl xml:id="pmb81393">
           
   
-          <title type="main">Dorothys Rettung</title>
+          <title type="main">Dorothy’s Rettung. Schauspiel in vier Akten</title>
+          
+  
+          <title type="legacy-name-merge">Dorothy’s Rettung</title>
           
   
           <author key="pmb25755" role="hat-geschaffen">Sutro, Alfred</author>
+          
+  
+          <author key="pmb24624" role="hat-ubersetzt">Schwarz, Karl Johannes</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/81393/</idno>
@@ -23024,6 +23795,24 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81393.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420280/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9bdf43150f</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -30791,6 +31580,9 @@
           <title type="main">Hochzeitsreise</title>
           
   
+          <title type="legacy-name-merge">Die Hochzeitsreise (Traversi)</title>
+          
+  
           <author key="pmb122046" role="hat-geschaffen">Opal, Max</author>
           
   
@@ -30831,6 +31623,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb81068.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fc36caee90</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419989/</idno>
           
   
           <note type="work_kind">Film</note>
@@ -33965,7 +34763,13 @@
         <bibl xml:id="pmb80942">
           
   
-          <title type="main">Leutnant Komma</title>
+          <title type="main">Leutnant Komma. Satirisches Spiel in 13 Szenen</title>
+          
+  
+          <title type="legacy-name-merge">Leutnant Komma</title>
+          
+  
+          <title type="werk_unter-diesem-namen-oder-kurzel-veroffentlicht">Frank Maar</title>
           
   
           <author key="pmb8895" role="hat-geschaffen">Meller, Rose</author>
@@ -33980,7 +34784,22 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80942.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420881/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_64bbebb4d6</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -35837,10 +36656,13 @@
           <title type="main">Weiberfeinde. Lustspiel in drei Akten</title>
           
   
-          <author key="pmb20361" role="hat-geschaffen">Levy, Benn Wolpe</author>
+          <title type="legacy-name-merge">Weiberfeinde</title>
           
   
           <author key="pmb27207" role="hat-ubersetzt">Winter, Hans</author>
+          
+  
+          <author key="pmb20361" role="hat-geschaffen">Levy, Benn Wolpe</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/80883/</idno>
@@ -35850,6 +36672,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80883.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421330/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_36ea4ba1a6</idno>
           
 
           <note type="collections">
@@ -36100,6 +36928,9 @@
           <title type="main">Stimmen aus dem Dunkel. Ein Don Juan-Spiel in 16 Bildern</title>
           
   
+          <title type="legacy-name-merge">Stimmen aus dem Dunkel</title>
+          
+  
           <author key="pmb8576" role="hat-geschaffen">Lenormand, Henri-René</author>
           
   
@@ -36113,6 +36944,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80870.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421205/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c8f89008c1</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb80870.html</idno>
@@ -37871,6 +38708,9 @@
           <title type="main">X. Y. Z. Spiel zu Dreien in drei Akten</title>
           
   
+          <title type="legacy-name-merge">XYZ</title>
+          
+  
           <author key="pmb18125" role="hat-geschaffen">Klabund</author>
           
   
@@ -37881,6 +38721,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80798.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421372/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ff22d0273f</idno>
           
 
           <note type="collections">
@@ -46027,7 +46873,13 @@
           <title type="main">Ewige Liebe. Schauspiel in drei Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Ewige Liebe</title>
+          
+  
           <author key="pmb7054" role="hat-geschaffen">Faber, Hermann</author>
+          
+  
+          <author key="pmb418847" role="hat-geschaffen">Faber, Hermann</author>
           
 
           <date>1898-09-21</date>
@@ -46040,6 +46892,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80450.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420522/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_1f42c5f70e</idno>
           
 
           <note type="collections">
@@ -46396,6 +47254,9 @@
           <title type="main">Haus Rothschild. Historisches Schauspiel in fünf Akten (sieben Bildern)</title>
           
   
+          <title type="legacy-name-merge">Haus Rothschild</title>
+          
+  
           <author key="pmb23985" role="hat-geschaffen">Sassmann, Hanns</author>
           
   
@@ -46406,6 +47267,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80433.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420683/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ab57e368e8</idno>
           
 
           <note type="collections">
@@ -48698,7 +49565,13 @@
           <title type="main">Gönnerschaften. Lustspiel in fünf Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Die Gönnerschaften</title>
+          
+  
           <author key="pmb6779" role="hat-geschaffen">Deinhardstein, Johann Ludwig</author>
+          
+  
+          <author key="pmb12756" role="hat-geschaffen">Scribe, Eugène</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/80362/</idno>
@@ -48708,6 +49581,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80362.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419977/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5e2d29cc2f</idno>
           
 
           <note type="collections">
@@ -48726,7 +49605,10 @@
         <bibl xml:id="pmb80360">
           
   
-          <title type="main">Deux gosses (Zwei kleine Vagabunden)</title>
+          <title type="main">Zwei kleine Vagabunden</title>
+          
+  
+          <title type="werk_namensvariante">Deux gosses</title>
           
   
           <author key="pmb15263" role="hat-geschaffen">Decourcelle, Pierre</author>
@@ -48740,8 +49622,17 @@
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80360.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -52341,6 +53232,9 @@
           <title type="legacy-name-merge">Narziß</title>
           
   
+          <title type="legacy-name-merge">Narziß (Brachvogel)</title>
+          
+  
           <author key="pmb6398" role="hat-geschaffen">Brachvogel, Albert Emil</author>
           
   
@@ -52375,6 +53269,12 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80221.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421006/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0f59d0a799</idno>
           
 
           <note type="collections">
@@ -53708,7 +54608,10 @@
         <bibl xml:id="pmb80176">
           
   
-          <title type="main">Der Herr Ministerialdirector</title>
+          <title type="main">Der Herr Ministerialdirector. Lustspiel in drei Akten</title>
+          
+  
+          <title type="legacy-name-merge">Der Herr Ministerialdirektor. Lustspiel in drei Akten</title>
           
   
           <author key="pmb6315" role="hat-geschaffen">Bisson, Alexandre</author>
@@ -53726,7 +54629,25 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb80176.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_37dc4388c3</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419566/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references">None</note>
           
 
         </bibl>
@@ -56644,35 +57565,19 @@
           
 
         </bibl>
-        <bibl xml:id="pmb79272">
-          
-  
-          <title type="main">Mittagswende</title>
-          
-  
-          <author key="pmb6660" role="hat-geschaffen">Claudel, Paul</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/79272/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb79272.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79272.html</idno>
-          
-  
-          <note type="work_kind">Drama</note>
-          
-
-        </bibl>
         <bibl xml:id="pmb79256">
           
   
-          <title type="main">Die rothe Robe</title>
+          <title type="main">Die rothe Robe. Drama in vier Akten</title>
+          
+  
+          <title type="legacy-name-merge">Die rote Robe</title>
           
   
           <author key="pmb4791" role="hat-geschaffen">Brieux, Eugène</author>
+          
+  
+          <author key="pmb156573" role="hat-ubersetzt">Rosenthal, Anna</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/79256/</idno>
@@ -56684,7 +57589,22 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb79256.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420123/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_efe9e5a2b0</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -58604,16 +59524,19 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb78464">
           
   
-          <title type="main">Die Damen Lebardieu</title>
+          <title type="main">Die Damen Lebardieu. Lustspiel in drei Akten</title>
           
   
-          <author key="pmb14211" role="hat-geschaffen">Bilhaud, Paul</author>
+          <title type="legacy-name-merge">Die Damen Lebardieu</title>
+          
+  
+          <author key="pmb3256" role="hat-ubersetzt">Block, Paul</author>
           
   
           <author key="pmb14879" role="hat-geschaffen">Carré, Fabrice</author>
           
   
-          <author key="pmb3256" role="hat-ubersetzt">Block, Paul</author>
+          <author key="pmb14211" role="hat-geschaffen">Bilhaud, Paul</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/78464/</idno>
@@ -58625,7 +59548,22 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78464.html</idno>
           
   
-          <note type="work_kind">Drama</note>
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c85c876672</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419887/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -60600,6 +61538,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="legacy-name-merge">Die Neuvermählten</title>
           
   
+          <title type="legacy-name-merge">Die Neuvermählten (Björnson)</title>
+          
+  
           <author key="pmb2400" role="hat-geschaffen">Bjørnson, Bjørnstjerne</author>
           
   
@@ -60616,6 +61557,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb78085.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420073/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_502873ee04</idno>
           
 
           <note type="collections">
@@ -61926,6 +62873,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="legacy-name-merge">Das Gefängniß. Lustspiel in vier Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Das Gefängnis</title>
+          
+  
           <author key="pmb13999" role="hat-geschaffen">Benedix, Julius Roderich</author>
           
 
@@ -61945,6 +62895,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=11113205</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_1d2c403b61</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419307/</idno>
           
 
           <note type="collections">
@@ -62177,28 +63133,6 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
 
         </bibl>
-        <bibl xml:id="pmb77917">
-          
-  
-          <title type="main">Nathan der Weise</title>
-          
-  
-          <author key="pmb12053" role="hat-geschaffen">Lessing, Gotthold Ephraim</author>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77917/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb77917.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77917.html</idno>
-          
-  
-          <note type="work_kind">Drama</note>
-          
-
-        </bibl>
         <bibl xml:id="pmb77904">
           
   
@@ -62371,6 +63305,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb11168" role="hat-geschaffen">Donnay, Maurice</author>
           
   
+          <author key="pmb156573" role="hat-ubersetzt">Rosenthal, Anna</author>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77884/</idno>
           
   
@@ -62379,8 +63316,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77884.html</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -65685,6 +66631,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">Die Maler</title>
           
   
+          <title type="legacy-name-merge">Die Maler (Wilbrandt)</title>
+          
+  
+          <author key="pmb5208" role="hat-geschaffen">Wilbrandt, Adolf von</author>
+          
+  
           <author key="pmb5208" role="hat-geschaffen">Wilbrandt, Adolf von</author>
           
   
@@ -65695,6 +66647,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77530.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420053/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d0ded03f43</idno>
           
   
           <note type="work_kind">Drama</note>
@@ -66314,6 +67272,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">Cornelius Voß. Lustspiel in vier Akten</title>
           
   
+          <title type="legacy-name-merge">Cornelius Voss</title>
+          
+  
           <author key="pmb24702" role="hat-geschaffen">Schönthan-Pernwald, Franz von</author>
           
   
@@ -66324,6 +67285,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77483.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419247/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6e319012c0</idno>
           
 
           <note type="collections">
@@ -67543,6 +68510,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title>
           
   
+          <title type="legacy-name-merge">Der Bauer als Millionär</title>
+          
+  
           <author key="pmb12468" role="hat-geschaffen">Raimund, Ferdinand</author>
           
 
@@ -67562,6 +68532,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Das_M%C3%A4dchen_aus_der_Feenwelt_oder_Der_Bauer_als_Million%C3%A4r</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419467/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_eab5ba3e2f</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77405.html</idno>
@@ -69449,6 +70425,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="legacy-name-merge">Cyrano de Bergerac</title>
           
   
+          <title type="legacy-name-merge">Cyrano von Bergerac</title>
+          
+  
           <author key="pmb11391" role="hat-ubersetzt">Fulda, Ludwig</author>
           
   
@@ -69471,6 +70450,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164715</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419258/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_1695b29b7f</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb77230.html</idno>
@@ -71383,10 +72368,13 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="legacy-name-merge">Die Karlsschüler. Schauspiel in fünf Akten</title>
           
   
-          <author key="pmb2702" role="hat-geschaffen">Laube, Heinrich</author>
+          <title type="legacy-name-merge">Die Karlsschüler</title>
           
   
           <author key="pmb2702" role="hat-geschaffen">Laube, Heinrich</author>
+          
+
+          <date notBefore-iso="1846-01-01" when-iso="1846-01-01">1846</date>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77030/</idno>
@@ -71401,6 +72389,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164256</idno>
           
   
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1201780098</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb77030.html</idno>
           
   
@@ -71409,11 +72400,23 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10876551</idno>
           
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ebb4a6c519</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/362470/</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_4874.html</idno>
+          
 
           <note type="collections">
             
   
             <bibl type="collections" n="82">Frank Wedekinds Korrespondenz</bibl>
+            
+  
+            <bibl type="collections" n="30">Hanslick Online</bibl>
             
   
             <bibl type="collections" n="24">manually created entity</bibl>
@@ -71505,7 +72508,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <author key="pmb112796" role="hat-geschaffen-textgrundlage-von">Barbier, Jules</author>
           
   
-          <author key="pmb202624" role="hat-geschaffen-textgrundlage-von">Carré [Librettist], Michel</author>
+          <author key="pmb202624" role="hat-geschaffen-textgrundlage-von">Carré, Michel</author>
           
   
           <author key="pmb9131" role="hat-geschaffen">Offenbach, Jacques</author>
@@ -73389,10 +74392,13 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">König Richard der Dritte. In fünf Aufzügen</title>
           
   
-          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
+          <title type="legacy-name-merge">König Richard III.</title>
           
   
           <author key="pmb24212" role="hat-ubersetzt">Schlegel, August Wilhelm von</author>
+          
+  
+          <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/76823/</idno>
@@ -73402,6 +74408,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76823.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420867/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_af362a9978</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76823.html</idno>
@@ -73606,6 +74618,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="namensvariante">Faust II</title>
           
   
+          <title type="legacy-name-merge">Faust II. Teil</title>
+          
+  
           <author key="pmb11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
           
 
@@ -73631,6 +74646,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10882904</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420541/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_e0a1dbe975</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76795.html</idno>
@@ -73996,6 +75017,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">Das Lamm des Armen. Tragikomödie in drei Akten</title>
           
   
+          <title type="legacy-name-merge">Das Lamm des Armen</title>
+          
+  
+          <author key="pmb13212" role="hat-geschaffen">Zweig, Stefan</author>
+          
+  
           <author key="pmb13212" role="hat-geschaffen">Zweig, Stefan</author>
           
 
@@ -74012,6 +75039,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb76766.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_dbd8d40648</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419359/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76766.html</idno>
@@ -74224,6 +75257,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="legacy-name-merge">Der G'wissenswurm</title>
           
   
+          <title type="legacy-name-merge">Der G'wissenswurm</title>
+          
+  
           <author key="pmb10772" role="hat-geschaffen">Anzengruber, Ludwig</author>
           
 
@@ -74258,6 +75294,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_G%E2%80%99wissenswurm</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419531/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_00115db3ac</idno>
           
 
           <note type="collections">
@@ -75594,7 +76636,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
         <bibl xml:id="pmb76615">
           
   
-          <title type="main">Der Probepfeil</title>
+          <title type="main">Der Probepfeil. Lustspiel in vier Akten</title>
           
   
           <author key="pmb14328" role="hat-geschaffen">Blumenthal, Oskar</author>
@@ -75611,8 +76653,17 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
   
           <idno type="URL" subtype="tmp-burgtheater">bt_work_52793d3f47</idno>
           
+
+          <note type="collections">
+            
   
-          <note type="work_kind">Drama</note>
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
+          
+  
+          <note type="work_kind">Mehraktiges Drama</note>
           
 
         </bibl>
@@ -76449,7 +77500,13 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="legacy-name-merge">Tabarin</title>
           
   
+          <title type="legacy-name-merge">Tabarin</title>
+          
+  
           <author key="pmb11673" role="hat-geschaffen">Herzl, Theodor</author>
+          
+  
+          <author key="pmb21317" role="hat-geschaffen">Mendès, Catulle</author>
           
 
           <date notBefore-iso="1884-01-01" when-iso="1884-01-01">1884</date>
@@ -76474,6 +77531,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164026</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_99c85be2f8</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421221/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76501.html</idno>
@@ -76859,6 +77922,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="legacy-name-merge">Der Kammersänger</title>
           
   
+          <title type="legacy-name-merge">Der Kammersänger</title>
+          
+  
           <author key="pmb13068" role="hat-geschaffen">Wedekind, Frank</author>
           
 
@@ -76889,6 +77955,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb76460</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419586/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ca237b360e</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb76460.html</idno>
           
 
@@ -76907,7 +77979,7 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           </note>
           
   
-          <note type="work_kind">Einakter</note>
+          <note type="work_kind">Einakterzyklus</note>
           
   
           <note type="references">None</note>
@@ -78232,6 +79304,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">Vater und Sohn</title>
           
   
+          <title type="legacy-name-merge">Vater und Sohn (Dumas Sohn)</title>
+          
+  
           <author key="pmb15512" role="hat-geschaffen">Dumas, Alexandre fils</author>
           
 
@@ -78245,6 +79320,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb53251.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c7349db9fe</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/421274/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb53251.html</idno>
@@ -79070,6 +80151,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="main">Mädchentraum. Spiel in 3 Acten</title>
           
   
+          <title type="legacy-name-merge">Mädchentraum</title>
+          
+  
           <author key="pmb10905" role="hat-geschaffen">Bernstein, Max</author>
           
 
@@ -79083,6 +80167,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb42891.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6ca20864a3</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420991/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb42891.html</idno>
@@ -80400,6 +81490,9 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           <title type="legacy-name-merge">Die Frau vom Meer</title>
           
   
+          <title type="legacy-name-merge">Die Frau vom Meere</title>
+          
+  
           <author key="pmb11798" role="hat-geschaffen">Ibsen, Henrik</author>
           
 
@@ -80419,6 +81512,12 @@ Deutscher Bühnenschriftsteller 1918. (81 S.)</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb40061.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419937/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_6182ae6ee0</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb40061.html</idno>
@@ -83432,6 +84531,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Kriemhilde. Schauspiel in fünf Aufzügen</title>
           
   
+          <title type="legacy-name-merge">Kriemhilde (Wilhelm Meyer)</title>
+          
+  
           <author key="pmb12240" role="hat-unter-pseudonym-geschrieben">Meyer-Förster, Wilhelm</author>
           
 
@@ -83445,6 +84547,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb33528.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420837/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_1516af5a99</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb33528.html</idno>
@@ -84971,7 +86079,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <author key="pmb112796" role="hat-geschaffen">Barbier, Jules</author>
           
   
-          <author key="pmb3207" role="hat-geschaffen">Carré, Michel</author>
+          <author key="pmb3207" role="hat-geschaffen">Carré [Regisseur], Michel</author>
           
 
           <date notBefore-iso="1859-01-01" when-iso="1859-01-01">1859</date>
@@ -85887,6 +86995,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Der Abenteurer und die Sängerin oder Die Geschenke des Lebens</title>
           
   
+          <title type="legacy-name-merge">Der Abenteurer und die Sängerin</title>
+          
+  
           <author key="pmb11740" role="hat-geschaffen">Hofmannsthal, Hugo von</author>
           
 
@@ -85903,6 +87014,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32512.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_0da669cd06</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419445/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb32512.html</idno>
@@ -86525,7 +87642,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb32314">
           
   
-          <title type="main">Der Sohn des Khalifen. Dramatisches Märchen in vier Aufzügen</title>
+          <title type="main">Der Sohn des Kalifen. Dramatisches Märchen in vier Aufzügen</title>
+          
+  
+          <title type="legacy-name-merge">Der Sohn des Kalifen</title>
           
   
           <author key="pmb11391" role="hat-geschaffen">Fulda, Ludwig</author>
@@ -86544,6 +87664,21 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32314.html</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_61ba188736</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419750/</idno>
+          
+
+          <note type="collections">
+            
+  
+            <bibl type="collections" n="24">manually created entity</bibl>
+            
+
+          </note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -86612,70 +87747,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
-          
-
-        </bibl>
-        <bibl xml:id="pmb32294">
-          
-  
-          <title type="main">Der junge Medardus</title>
-          
-  
-          <author key="pmb19288" role="hat-geschaffen">Kertész, Michael</author>
-          
-  
-          <author key="pmb2121" role="hat-einen-beitrag-geschaffen-zu">Schnitzler, Arthur</author>
-          
-  
-          <author key="pmb26351" role="hat-einen-beitrag-geschaffen-zu">Vajda, Ladislaus</author>
-          
-  
-          <author key="pmb121853" role="hat-einen-beitrag-geschaffen-zu">Várkonyi, [Michael] Victor</author>
-          
-  
-          <author key="pmb122037" role="hat-einen-beitrag-geschaffen-zu">Hornigk, Anny</author>
-          
-  
-          <author key="pmb121536" role="hat-einen-beitrag-geschaffen-zu">Stone, Mary Hanlon</author>
-          
-  
-          <author key="pmb121535" role="hat-einen-beitrag-geschaffen-zu">Hegyesi, Maria</author>
-          
-  
-          <author key="pmb12378" role="hat-einen-beitrag-geschaffen-zu">Onno, Ferdinand</author>
-          
-  
-          <author key="pmb96205" role="hat-einen-beitrag-geschaffen-zu">Glawatsch, Franz</author>
-          
-
-          <date notBefore-iso="1923-01-01" when-iso="1923-01-01">1923</date>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb32294.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/32294/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32294.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb32294.html</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3223624</idno>
-          
-  
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Der_junge_Medardus_(Film)</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb32294.html</idno>
-          
-  
-          <idno type="URL" subtype="tmp-burgtheater">bt_work_8b0e558abf</idno>
-          
-  
-          <note type="work_kind">Film</note>
           
 
         </bibl>
@@ -89996,7 +91067,10 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
         <bibl xml:id="pmb31723">
           
   
-          <title type="main">Die guten Freunde</title>
+          <title type="main">Die guten Freunde. Lustspiel in vier Akten</title>
+          
+  
+          <title type="legacy-name-merge">Gute Freunde</title>
           
   
           <author key="pmb12624" role="hat-geschaffen">Sardou, Victorien</author>
@@ -90012,6 +91086,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb31723.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195563/</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31723.html</idno>
@@ -90868,6 +91945,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="legacy-name-merge">Der Raub der Sabinerinnen</title>
           
   
+          <title type="legacy-name-merge">Der Raub der Sabinerinnen</title>
+          
+  
           <author key="pmb24705" role="hat-geschaffen">Schönthan-Pernwald, Paul von</author>
           
   
@@ -90893,6 +91973,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb31615.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419680/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d4c6046609</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -92013,6 +93099,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_namensvariante">Hannele. Bühnendichtung in zwei Teilen</title>
           
   
+          <title type="legacy-name-merge">Hannele</title>
+          
+  
           <author key="pmb11617" role="hat-geschaffen">Hauptmann, Gerhart</author>
           
   
@@ -92046,6 +93135,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb31511</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420661/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_fc88ce2d0e</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31511.html</idno>
           
 
@@ -92075,6 +93170,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <title type="legacy-name-merge">Alt-Heidelberg. Ein Schauspiel in fünf Aufzügen</title>
+          
+  
+          <title type="legacy-name-merge">Alt-Heidelberg</title>
           
   
           <author key="pmb12240" role="hat-geschaffen">Meyer-Förster, Wilhelm</author>
@@ -92110,6 +93208,15 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="wedekind-korrespondenz">https://briefedition.wedekind.h-da.de/view/work/single.xhtml?id=10914801</idno>
           
   
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb164447</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/164447/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_5c0baaf9ad</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb31505.html</idno>
           
 
@@ -92123,6 +93230,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references"> </note>
           
 
           <figure>
@@ -95080,6 +96190,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">König Richard der Zweite. In fünf Aufzügen</title>
           
   
+          <title type="legacy-name-merge">König Richard II.</title>
+          
+  
           <author key="pmb2412" role="hat-geschaffen">Shakespeare, William</author>
           
 
@@ -95096,6 +96209,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30951.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420865/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_f2951e1a81</idno>
           
 
           <note type="collections">
@@ -95422,7 +96541,7 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="legacy-name-merge">Der verlorene Sohn</title>
           
   
-          <author key="pmb3207" role="hat-geschaffen">Carré, Michel</author>
+          <author key="pmb3207" role="hat-geschaffen">Carré [Regisseur], Michel</author>
           
   
           <author key="pmb3210" role="hat-geschaffen-vertonung">Wormser, André</author>
@@ -96500,6 +97619,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_link">https://www.schnitzler-edition.net/genetisch</title>
           
   
+          <title type="legacy-name-merge">Die Schwestern</title>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
@@ -96546,6 +97668,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30819</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ae32e9da8e</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420149/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30819.html</idno>
@@ -96781,6 +97909,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_arbeitstitel">Der Weiher</title>
           
   
+          <title type="legacy-name-merge">Der Gang zum Weiher</title>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
@@ -96830,6 +97961,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30775</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c590cc253b</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419536/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30775.html</idno>
@@ -97217,6 +98354,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_arbeitstitel">Komödianten</title>
           
   
+          <title type="legacy-name-merge">Komödie der Worte</title>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
@@ -97251,6 +98391,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30717</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_4518b140bb</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420831/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30717.html</idno>
@@ -97748,6 +98894,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Sinfonie Nr. 6 h-Moll, op. 74 »Pathétique«</title>
           
   
+          <title type="legacy-name-merge">Sinfonie Nr. 6 h-Moll</title>
+          
+  
           <author key="pmb2540" role="hat-geschaffen">Tschaikowski, Pjotr Iljitsch</author>
           
 
@@ -97763,19 +98912,37 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30665.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/202064/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/300033842</idno>
+          
+  
+          <idno type="URL" subtype="hanslick-online">https://hanslick.acdh.oeaw.ac.at/hsl_work_id_579.html</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30665.html</idno>
           
 
           <note type="collections">
             
   
+            <bibl type="collections" n="30">Hanslick Online</bibl>
+            
+  
             <bibl type="collections" n="24">manually created entity</bibl>
+            
+  
+            <bibl type="collections" n="13">No WikiData-ID found</bibl>
             
 
           </note>
           
   
           <note type="work_kind">Sinfonie</note>
+          
+  
+          <note type="references"> </note>
           
 
         </bibl>
@@ -99363,37 +100530,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
-        <bibl xml:id="pmb30455">
-          
-  
-          <title type="main">Das Glück im Winkel</title>
-          
-  
-          <author key="pmb12899" role="hat-geschaffen">Sudermann, Hermann</author>
-          
-
-          <date notBefore-iso="1895-01-01" when-iso="1895-01-01">1895</date>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30455.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30455/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30455.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30455.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30455.html</idno>
-          
-  
-          <note type="work_kind">Mehraktiges Drama</note>
-          
-
-        </bibl>
         <bibl xml:id="pmb30453">
           
   
@@ -100341,34 +101477,6 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
 
         </bibl>
-        <bibl xml:id="pmb30395">
-          
-  
-          <title type="main">Die Unverschämten</title>
-          
-  
-          <author key="pmb2815" role="hat-geschaffen">Augier, Émile</author>
-          
-
-          <date notBefore-iso="1861-01-01" when-iso="1861-01-01">1861</date>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30395.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30395/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30395.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30395.html</idno>
-          
-  
-          <note type="work_kind">Text</note>
-          
-
-        </bibl>
         <bibl xml:id="pmb30391">
           
   
@@ -101098,6 +102206,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="legacy-name-merge">Die Kinder. Komödie</title>
           
   
+          <title type="legacy-name-merge">Die Kinder</title>
+          
+  
           <author key="pmb10815" role="hat-geschaffen">Bahr, Hermann</author>
           
 
@@ -101129,6 +102240,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb30269.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420007/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_ca3416c036</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
@@ -101260,6 +102377,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="namensvariante">Faust I</title>
           
   
+          <title type="legacy-name-merge">Faust</title>
+          
+  
           <author key="pmb11461" role="hat-geschaffen">Goethe, Johann Wolfgang von</author>
           
 
@@ -101303,6 +102423,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="tmp-burgtheater">bt_work_fae80cb40a</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_9e70ace51a</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420537/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30247.html</idno>
@@ -101876,6 +103002,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_arbeitstitel">Frieberg</title>
           
   
+          <title type="legacy-name-merge">Das weite Land</title>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
@@ -101931,6 +103060,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30207</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/419441/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_c18ecb74c9</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb30207.html</idno>
@@ -105040,6 +106175,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="legacy-name-merge">Maria Magdalena</title>
           
   
+          <title type="werk_namensvariante">Maria Magdalene</title>
+          
+  
           <author key="pmb2404" role="hat-geschaffen">Hebbel, Friedrich</author>
           
 
@@ -105071,6 +106209,12 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29953.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420924/</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_b6c8229337</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29953.html</idno>
@@ -105283,6 +106427,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_arbeitstitel">Doppelselbstmord</title>
           
   
+          <title type="legacy-name-merge">Der junge Medardus</title>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
@@ -105356,6 +106503,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29937</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_8b0e558abf</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29937.html</idno>
@@ -105753,6 +106903,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="werk_arbeitstitel">Das arme Mädl</title>
           
   
+          <title type="legacy-name-merge">Liebelei</title>
+          
+  
           <author key="pmb2121" role="hat-geschaffen">Schnitzler, Arthur</author>
           
 
@@ -105807,7 +106960,16 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb29917</idno>
           
   
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_071f0b4a8a</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29917.html</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/420889/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb420889.html</idno>
           
 
           <note type="collections">
@@ -106565,6 +107727,9 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <title type="main">Einsame Menschen. Drama</title>
           
   
+          <title type="legacy-name-merge">Einsame Menschen</title>
+          
+  
           <author key="pmb11617" role="hat-geschaffen">Hauptmann, Gerhart</author>
           
 
@@ -106589,10 +107754,22 @@ https://babel.hathitrust.org/cgi/pt?id=uva.x001064963;view=1up;seq=181</note>
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb29879.html</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/163965/</idno>
+          
+  
+          <idno type="URL" subtype="bahr-tsn">https://bahr-textverzeichnis.acdh.oeaw.ac.at/TSN-listperson.html#pmb163965</idno>
+          
+  
+          <idno type="URL" subtype="tmp-burgtheater">bt_work_d62265c4b1</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb29879.html</idno>
           
   
           <note type="work_kind">Mehraktiges Drama</note>
+          
+  
+          <note type="references"> </note>
           
 
         </bibl>
