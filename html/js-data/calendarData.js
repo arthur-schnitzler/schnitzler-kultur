@@ -414,13 +414,13 @@ var calendarData = [
     "name": "Zirkus Oroszy, 18.5.1879", "startDate": "1879-05-18", "id": "pmb207496.html", "type": "Zirkusvorstellung"
   },
   {
-    "name": "Aufführung von Götz von Berlichingen, 23.5.1879", "startDate": "1879-05-23", "id": "pmb207497.html", "type": "Theateraufführung"
+    "name": "Aufführung von Götz von Berlichingen mit der eisernen Hand, 23.5.1879", "startDate": "1879-05-23", "id": "pmb207497.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Siegfried, 28.5.1879", "startDate": "1879-05-28", "id": "pmb207498.html", "type": "Opernaufführung"
   },
   {
-    "name": "Aufführung von Familie nach der Mode, 15.6.1879", "startDate": "1879-06-15", "id": "pmb207499.html", "type": "Theateraufführung"
+    "name": "Aufführung von Eine Familie nach der Mode, 15.6.1879", "startDate": "1879-06-15", "id": "pmb207499.html", "type": "Theateraufführung"
   },
   {
     "name": "Akademisches Gymnasium, 20.6.1879", "startDate": "1879-06-20", "id": "pmb207500.html", "type": "Feier"
@@ -447,7 +447,7 @@ var calendarData = [
     "name": "Aufführung von Götterdämmerung, 19.9.1879", "startDate": "1879-09-19", "id": "pmb207507.html", "type": "Opernaufführung"
   },
   {
-    "name": "Aufführung von Götz von Berlichingen, 23.9.1879", "startDate": "1879-09-23", "id": "pmb207508.html", "type": "Theateraufführung"
+    "name": "Aufführung von Götz von Berlichingen mit der eisernen Hand, 23.9.1879", "startDate": "1879-09-23", "id": "pmb207508.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von The Tragedy of Othello, the Moor of Venice, 24.9.1879", "startDate": "1879-09-24", "id": "pmb207509.html", "type": "Theateraufführung"
@@ -498,7 +498,7 @@ var calendarData = [
     "name": "Aufführung von Haus Fourchambault, 14.11.1879", "startDate": "1879-11-14", "id": "pmb207524.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Tannhäuser und der Sängerkrieg, 16.11.1879", "startDate": "1879-11-16", "id": "pmb207525.html", "type": "Konzert"
+    "name": "Aufführung von Tannhäuser und der Sängerkrieg auf der Wartburg, 16.11.1879", "startDate": "1879-11-16", "id": "pmb207525.html", "type": "Konzert"
   },
   {
     "name": "Erstes Hellmesberger-Quartett, 20.11.1879", "startDate": "1879-11-20", "id": "pmb207526.html", "type": "Quartett"
@@ -675,7 +675,7 @@ var calendarData = [
     "name": "Aufführung von Aida, 14.5.1880", "startDate": "1880-05-14", "id": "pmb207583.html", "type": "Opernaufführung"
   },
   {
-    "name": "Aufführung von Moderne Jugend, 15.5.1880", "startDate": "1880-05-15", "id": "pmb207584.html", "type": "Theateraufführung"
+    "name": "Aufführung von Moderne Jugend, 18.5.1880", "startDate": "1880-05-18", "id": "pmb207584.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Der Herr Gemeinderath, Die Kritik der reinen Vernunft, 21.5.1880", "startDate": "1880-05-21", "id": "pmb207585.html", "type": "Theateraufführung"
@@ -1026,13 +1026,13 @@ var calendarData = [
     "name": "Premiere von Die deutschen Kleinstädter, 31.5.1881", "startDate": "1881-05-31", "id": "pmb207699.html", "type": "Theaterpremiere"
   },
   {
-    "name": "Aufführung von Marquis von Villemer, 1.6.1881", "startDate": "1881-06-01", "id": "pmb207700.html", "type": "Theateraufführung"
+    "name": "Aufführung von Der Marquis von Villemer, 1.6.1881", "startDate": "1881-06-01", "id": "pmb207700.html", "type": "Theateraufführung"
   },
   {
     "name": "Premiere von Die beiden Klingsberg, 7.6.1881", "startDate": "1881-06-07", "id": "pmb207701.html", "type": "Theaterpremiere"
   },
   {
-    "name": "Aufführung von The Merchant of Venice, 8.6.1881", "startDate": "1881-06-08", "id": "pmb207702.html", "type": "Theateraufführung"
+    "name": "Aufführung von Der Kaufmann von Venedig, 8.6.1881", "startDate": "1881-06-08", "id": "pmb207702.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Die Eine weint, die Andere lacht, Hector, 12.6.1881", "startDate": "1881-06-12", "id": "pmb207703.html", "type": "Theateraufführung"
@@ -1593,10 +1593,10 @@ var calendarData = [
     "name": "Aufführung von Defizit, 7.1.1885", "startDate": "1885-01-07", "id": "pmb207883.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Der Probepfeil, 9.1.1885", "startDate": "1885-01-09", "id": "pmb207885.html", "type": "Theateraufführung"
+    "name": "Erster Liederabend von Gustav Walter, 9.1.1885", "startDate": "1885-01-09", "id": "pmb207884.html", "type": "Liederkonzert"
   },
   {
-    "name": "Erster Liederabend von Gustav Walter, 9.1.1885", "startDate": "1885-01-09", "id": "pmb207884.html", "type": "Liederkonzert"
+    "name": "Aufführung von Der Probepfeil, 10.1.1885", "startDate": "1885-01-10", "id": "pmb207885.html", "type": "Theateraufführung"
   },
   {
     "name": "Hausball bei Alexander Scharf, 11.1.1885", "startDate": "1885-01-11", "id": "pmb207886.html", "type": "Hausball"
@@ -1626,7 +1626,7 @@ var calendarData = [
     "name": "Studentenball, 13.2.1885", "startDate": "1885-02-13", "id": "pmb207894.html", "type": "Ball"
   },
   {
-    "name": "Aufführung von Les Doigts de fée, 18.2.1885", "startDate": "1885-02-18", "id": "pmb207895.html", "type": "Theateraufführung"
+    "name": "Aufführung von Feenhände [Les Doigt de fée], 18.2.1885", "startDate": "1885-02-18", "id": "pmb207895.html", "type": "Theateraufführung"
   },
   {
     "name": "Viertes Hellmesberger-Quartett, 19.2.1885", "startDate": "1885-02-19", "id": "pmb207896.html", "type": "Quartett"
@@ -2100,7 +2100,7 @@ var calendarData = [
     "name": "Aufführung von Im Schwurgericht, Der Mikado, oder: Ein Tag in Titipu, 23.9.1886", "startDate": "1886-09-23", "id": "pmb208051.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Der Marquis von Willemer, 24.9.1886", "startDate": "1886-09-24", "id": "pmb208052.html", "type": "Theateraufführung"
+    "name": "Aufführung von Der Marquis von Villemer, 24.9.1886", "startDate": "1886-09-24", "id": "pmb208052.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Humbug, der Geist des Schwindels, 27.9.1886", "startDate": "1886-09-27", "id": "pmb208053.html", "type": "Theateraufführung"
@@ -3486,7 +3486,7 @@ var calendarData = [
     "name": "Aufführung von Cavalleria rusticana, 30.4.1891", "startDate": "1891-04-30", "id": "pmb208479.html", "type": "Opernaufführung"
   },
   {
-    "name": "Premiere von Meister Manole, 3.5.1891", "startDate": "1891-05-03", "id": "pmb208480.html", "type": "Theaterpremiere"
+    "name": "Premiere von Meister Manole, 3.5.1891", "startDate": "1891-05-03", "id": "pmb208480.html", "type": "Opernpremiere"
   },
   {
     "name": "Zusammenkunft von Jung Wien, 5.5.1891", "startDate": "1891-05-05", "id": "pmb89199.html", "type": "Vereinstreffen"
@@ -4548,7 +4548,7 @@ var calendarData = [
     "name": "Aufführung von Minna von Barnhelm, 13.9.1894", "startDate": "1894-09-13", "id": "pmb208687.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung von Die Unverschämten, 14.9.1894", "startDate": "1894-09-14", "id": "pmb208688.html", "type": "Theateraufführung"
+    "name": "Aufführung von Die öffentliche Meinung, 14.9.1894", "startDate": "1894-09-14", "id": "pmb208688.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Der Bajazzo, 17.9.1894", "startDate": "1894-09-17", "id": "pmb195157.html", "type": "Theateraufführung"
@@ -4860,7 +4860,7 @@ var calendarData = [
     "name": "Gesellschaftskonzert im Musikverein, 9.4.1895", "startDate": "1895-04-09", "id": "pmb208740.html", "type": "Gesellschaftskonzert"
   },
   {
-    "name": "Aufführung von Götz von Berlichingen, 20.4.1895", "startDate": "1895-04-20", "id": "pmb208741.html", "type": "Theateraufführung"
+    "name": "Aufführung von Götz von Berlichingen mit der eisernen Hand, 20.4.1895", "startDate": "1895-04-20", "id": "pmb208741.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Tabarin, Die Wespe, 7.5.1895", "startDate": "1895-05-07", "id": "pmb94377.html", "type": "Theateraufführung"
@@ -5397,7 +5397,7 @@ var calendarData = [
     "name": "Private Lesung von Freiwild, 23.8.1896", "startDate": "1896-08-23", "id": "pmb199815.html", "type": "Private Lesung"
   },
   {
-    "name": "Aufführung von Götz von Berlichingen, 29.8.1896", "startDate": "1896-08-29", "id": "pmb208851.html", "type": "Theateraufführung"
+    "name": "Aufführung von Götz von Berlichingen mit der eisernen Hand, 29.8.1896", "startDate": "1896-08-29", "id": "pmb208851.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Das Mädchen aus der Feenwelt oder Der Bauer als Millionär, 5.9.1896", "startDate": "1896-09-05", "id": "pmb167749.html", "type": "Theateraufführung"
@@ -5529,7 +5529,7 @@ var calendarData = [
     "name": "Aufführung von Die Meistersinger von Nürnberg, 19.11.1896", "startDate": "1896-11-19", "id": "pmb208877.html", "type": "Opernaufführung"
   },
   {
-    "name": "Premiere von Der Sohn des Khalifen, 21.11.1896", "startDate": "1896-11-21", "id": "pmb208878.html", "type": "Theaterpremiere"
+    "name": "Premiere von Der Sohn des Kalifen, 21.11.1896", "startDate": "1896-11-21", "id": "pmb208878.html", "type": "Theaterpremiere"
   },
   {
     "name": "Zweites Rosé-Quartett, 24.11.1896", "startDate": "1896-11-24", "id": "pmb208879.html", "type": "Quartett"
@@ -5643,7 +5643,7 @@ var calendarData = [
     "name": "Premiere von Das rothe Paraplui, 26.2.1897", "startDate": "1897-02-26", "id": "pmb208906.html", "type": "Theaterpremiere"
   },
   {
-    "name": "Premiere von Das Tschaperl, 27.2.1897", "startDate": "1897-02-27", "id": "pmb208907.html", "type": "Theaterpremiere"
+    "name": "Uraufführung von Das Tschaperl 27.2.1897", "startDate": "1897-02-27", "id": "pmb35071.html", "type": "Theateruraufführung"
   },
   {
     "name": "Siebtes Abonnementkonzert der Wiener Philharmoniker, 7.3.1897", "startDate": "1897-03-07", "id": "pmb208908.html", "type": "Philharmonisches Konzert"
@@ -5784,7 +5784,7 @@ var calendarData = [
     "name": "Besuch des Musée du Louvre, 1.5.1897", "startDate": "1897-05-01", "id": "pmb297180.html", "type": "Museumsbesuch"
   },
   {
-    "name": "Aufführung von La carillon, 1.5.1897", "startDate": "1897-05-01", "id": "pmb208935.html", "type": "Theateraufführung"
+    "name": "Aufführung von Le carillon, 1.5.1897", "startDate": "1897-05-01", "id": "pmb208935.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Les noces de Jeanette, Orpheus und Eurydike, 3.5.1897", "startDate": "1897-05-03", "id": "pmb208936.html", "type": "Theateraufführung"
@@ -6115,9 +6115,6 @@ var calendarData = [
   },
   {
     "name": "Premiere von Freiwild, 4.2.1898", "startDate": "1898-02-04", "id": "pmb35161.html", "type": "Theaterpremiere"
-  },
-  {
-    "name": "Aufführung von Freiwild, 5.2.1898", "startDate": "1898-02-05", "id": "pmb208999.html", "type": "Theateraufführung"
   },
   {
     "name": "2. Aufführung von Freiwild, 5.2.1898", "startDate": "1898-02-05", "id": "pmb200646.html", "type": "Theateraufführung"
@@ -6972,7 +6969,7 @@ var calendarData = [
     "name": "Vierte (letzte) Soirée des Prill-Quartetts, 21.3.1900", "startDate": "1900-03-21", "id": "pmb209146.html", "type": "Quartett"
   },
   {
-    "name": "Aufführung von Der letzte Knopf, 8.4.1900", "startDate": "1900-04-08", "id": "pmb209147.html", "type": "Theateraufführung"
+    "name": "Premiere von Der letzte Knopf, 8.4.1900", "startDate": "1900-04-08", "id": "pmb141745.html", "type": "Theaterpremiere"
   },
   {
     "name": "Bankett für Ludwig Speidel, 15.4.1900", "startDate": "1900-04-15", "id": "pmb143820.html", "type": "Bankett"
@@ -7176,7 +7173,7 @@ var calendarData = [
     "name": "Symphonisches Konzert, 20.2.1901", "startDate": "1901-02-20", "id": "pmb231305.html", "type": "Sinfoniekonzert"
   },
   {
-    "name": "Aufführung von Episode, Zuhause. Drama in einem Akt, Das Streichholzmädchen, Der Herr Kommissär, 22.2.1901", "startDate": "1901-02-22", "id": "pmb209187.html", "type": "Theateraufführung"
+    "name": "Aufführung von Episode, Zuhause. Drama in einem Akt, Das Streichholzmädchen, Der Herr Kommissär, 22.2.1901", "startDate": "1901-02-22", "id": "pmb35445.html", "type": "Theateraufführung"
   },
   {
     "name": "Sechstes Abonnementkonzert der Wiener Philharmoniker, 24.2.1901", "startDate": "1901-02-24", "id": "pmb209188.html", "type": "Philharmonisches Konzert"
@@ -8733,13 +8730,13 @@ var calendarData = [
     "name": "Generalprobe von Die Fahrt über den Stix, Mamzelle Courasche, Zum großen Wurstel, 15.3.1906", "startDate": "1906-03-15", "id": "pmb186183.html", "type": "Generalprobe"
   },
   {
-    "name": "Premiere von Zum großen Wurstel, Die Fahrt über den Stix, Mamzell Courasche, 16.3.1906", "startDate": "1906-03-16", "id": "pmb237477.html", "type": "Theaterpremiere"
-  },
-  {
     "name": "Generalprobe von Der verlorene Vater, 16.3.1906", "startDate": "1906-03-16", "id": "pmb237464.html", "type": "Generalprobe"
   },
   {
     "name": "Aufführung von Die Jüdin, 16.3.1906", "startDate": "1906-03-16", "id": "pmb209421.html", "type": "Opernaufführung"
+  },
+  {
+    "name": "Premiere von Die Fahrt über den Stix, Mamzelle Courasche, Zum großen Wurstel, 16.3.1906", "startDate": "1906-03-16", "id": "pmb35260.html", "type": "Theaterpremiere"
   },
   {
     "name": "Schubert-Loewe-Abend von Julia Culp, 19.3.1906", "startDate": "1906-03-19", "id": "pmb209422.html", "type": "Liederkonzert"
@@ -9948,7 +9945,7 @@ var calendarData = [
     "name": "4. Beethoven-Abonnenent-Abend von Quartett Rosé, 18.12.1909", "startDate": "1909-12-18", "id": "pmb209587.html", "type": "Quartett"
   },
   {
-    "name": "Aufführung von Der G'wissenswurm, 22.12.1909", "startDate": "1909-12-22", "id": "pmb209588.html", "type": "Theateraufführung"
+    "name": "Aufführung von Der G’wissenswurm, 22.12.1909", "startDate": "1909-12-22", "id": "pmb209588.html", "type": "Theateraufführung"
   },
   {
     "name": "Generalprobe von Reiche Mädchen. Operette in drei Akten, 29.12.1909", "startDate": "1909-12-29", "id": "pmb209589.html", "type": "Generalprobe"
@@ -11277,7 +11274,7 @@ var calendarData = [
     "name": "Schulvorstellung der Schule Jacques Dalcroze, 13.3.1914", "startDate": "1914-03-13", "id": "pmb256030.html", "type": "Schulaufführung"
   },
   {
-    "name": "Aufführung von Auferstehung, Vagabunden, 13.3.1914", "startDate": "1914-03-13", "id": "pmb209727.html", "type": "Theateraufführung"
+    "name": "Generalprobe von Auferstehung, Vagabunden, 13.3.1914", "startDate": "1914-03-13", "id": "pmb209727.html", "type": "Generalprobe"
   },
   {
     "name": "Aufführung von Das dumme Glück, 18.3.1914", "startDate": "1914-03-18", "id": "pmb256039.html", "type": "Theateraufführung"
@@ -12621,10 +12618,7 @@ var calendarData = [
     "name": "Kostümprobe Liebelei, Literatur, 28.2.1918", "startDate": "1918-02-28", "id": "pmb186361.html", "type": "Kostümprobe"
   },
   {
-    "name": "Neueinstudierung von Liebelei, Literatur, 1.3.1918", "startDate": "1918-03-01", "id": "pmb238739.html", "type": "Theaterpremiere"
-  },
-  {
-    "name": "Aufführung von Liebelei. Schauspiel in drei Akten, Literatur, 3.3.1918", "startDate": "1918-03-03", "id": "pmb209934.html", "type": "Theateraufführung"
+    "name": "Neueinstudierung von Liebelei. Schauspiel in drei Akten, Literatur, 1.3.1918", "startDate": "1918-03-01", "id": "pmb209934.html", "type": "Theateraufführung"
   },
   {
     "name": "Besuch des Kaiserpanoramas [Wien, Schubertring 4], 5.3.1918", "startDate": "1918-03-05", "id": "pmb298089.html", "type": "Panoramabesuch"
@@ -14775,9 +14769,6 @@ var calendarData = [
     "name": "Filmvorführung, 25.9.1923", "startDate": "1923-09-25", "id": "pmb210623.html", "type": "Filmvorführung"
   },
   {
-    "name": "Filmvorführung von Fiat Lux! (…und es ward Licht!), 27.9.1923", "startDate": "1923-09-27", "id": "pmb210624.html", "type": "Filmvorführung"
-  },
-  {
     "name": "Generalprobe von Richard der Zweite, 27.9.1923", "startDate": "1923-09-27", "id": "pmb210238.html", "type": "Generalprobe"
   },
   {
@@ -16602,7 +16593,7 @@ var calendarData = [
     "name": "Filmvorführung von Der Riese der Dolomiten, 9.5.1927", "startDate": "1927-05-09", "id": "pmb210899.html", "type": "Filmvorführung"
   },
   {
-    "name": "Aufführung von Weiberfeinde. Lustspiel in drei Akten, 10.5.1927", "startDate": "1927-05-10", "id": "pmb210414.html", "type": "Theateraufführung"
+    "name": "Aufführung von Weiberfeinde, 10.5.1927", "startDate": "1927-05-10", "id": "pmb210414.html", "type": "Theateraufführung"
   },
   {
     "name": "Filmvorführung von Ledige Töchter, 12.5.1927", "startDate": "1927-05-12", "id": "pmb210900.html", "type": "Filmvorführung"

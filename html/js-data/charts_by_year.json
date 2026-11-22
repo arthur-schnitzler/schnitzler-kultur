@@ -1600,7 +1600,7 @@
           "label": "Veranstaltungstypen im Jahr 1891",
           "data": [
             25,
-            49,
+            48,
             8,
             18,
             12
@@ -1652,7 +1652,7 @@
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1891",
             "data": [
               39,
-              4,
+              3,
               1,
               2,
               2,
@@ -2340,9 +2340,9 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1897",
             "data": [
-              24,
+              23,
               55,
-              3,
+              4,
               4,
               1,
               1,
@@ -2442,7 +2442,7 @@
         {
           "label": "Veranstaltungstypen im Jahr 1898",
           "data": [
-            95,
+            94,
             17,
             21,
             3,
@@ -2466,7 +2466,7 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1898",
             "data": [
-              47,
+              46,
               11,
               25,
               4,
@@ -2720,9 +2720,9 @@
           {
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1900",
             "data": [
-              29,
+              28,
               2,
-              6,
+              7,
               4,
               1,
               1
@@ -4446,9 +4446,9 @@
             "label": "Verteilung innerhalb von 'Theater' im Jahr 1914",
             "data": [
               10,
-              15,
+              14,
               1,
-              4,
+              5,
               2,
               2,
               1
@@ -4946,7 +4946,7 @@
           "label": "Veranstaltungstypen im Jahr 1918",
           "data": [
             34,
-            51,
+            50,
             13,
             5,
             5,
@@ -5007,7 +5007,7 @@
               12,
               16,
               2,
-              3
+              2
             ]
           }
         ]
@@ -5624,7 +5624,7 @@
         {
           "label": "Veranstaltungstypen im Jahr 1923",
           "data": [
-            44,
+            43,
             10,
             51,
             15,
@@ -5645,7 +5645,7 @@
           {
             "label": "Verteilung innerhalb von 'Film' im Jahr 1923",
             "data": [
-              42,
+              41,
               1,
               1
             ]
