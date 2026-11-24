@@ -6096,7 +6096,7 @@ var calendarData = [
     "name": "Probe von Freiwild, 31.1.1898", "startDate": "1898-01-31", "id": "pmb200595.html", "type": "Probe"
   },
   {
-    "name": "Aufführung von Heimkehr. Dramatische Studie in einem Aufzug, Schlingen, 1.2.1898", "startDate": "1898-02-01", "id": "pmb208997.html", "type": "Theateraufführung"
+    "name": "Aufführung von Heimkehr; Schlingen, 1.2.1898", "startDate": "1898-02-01", "id": "pmb208997.html", "type": "Theateraufführung"
   },
   {
     "name": "Probe von Freiwild, 1.2.1898", "startDate": "1898-02-01", "id": "pmb200600.html", "type": "Probe"
@@ -6423,9 +6423,6 @@ var calendarData = [
     "name": "Zweites Abonnementkonzert der Wiener Philharmoniker, 20.11.1898", "startDate": "1898-11-20", "id": "pmb209044.html", "type": "Philharmonisches Konzert"
   },
   {
-    "name": "Aufführung von Juana, Abschiedssouper, 20.11.1898", "startDate": "1898-11-20", "id": "pmb201109.html", "type": "Theateraufführung"
-  },
-  {
     "name": "Aufführung von Die Räuber, 22.11.1898", "startDate": "1898-11-22", "id": "pmb209045.html", "type": "Theateraufführung"
   },
   {
@@ -6531,7 +6528,7 @@ var calendarData = [
     "name": "Aufführung von Die Kreuzelschreiber, 9.2.1899", "startDate": "1899-02-09", "id": "pmb209063.html", "type": "Theateraufführung"
   },
   {
-    "name": "Aufführung Unser Käthchen, 10.2.1899", "startDate": "1899-02-10", "id": "pmb43275.html", "type": "Theateraufführung"
+    "name": "Aufführung von Unser Käthchen, 10.2.1899", "startDate": "1899-02-10", "id": "pmb43275.html", "type": "Theateraufführung"
   },
   {
     "name": "Aufführung von Die guten Freunde, 14.2.1899", "startDate": "1899-02-14", "id": "pmb209064.html", "type": "Theateraufführung"
