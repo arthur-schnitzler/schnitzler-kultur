@@ -41,7 +41,7 @@
     <revisionDesc>
       
           
-      <change when-iso="2026-11-22">serialized</change>
+      <change when-iso="2026-11-24">serialized</change>
       
        
     </revisionDesc>
@@ -3069,13 +3069,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/294370/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333689/</idno>
+          
+  
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Drittes_Kaffeehaus</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb294370.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333689/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb294370.html</idno>
@@ -5877,19 +5877,19 @@
           </location>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353713/</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q97444113</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/265477/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/353713/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb265477.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb265477.html</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q97444113</idno>
           
 
           <listBibl>
@@ -8094,9 +8094,6 @@
           </location>
           
   
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%BCnstlerhaus_Dresden-Loschwitz</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/252547/</idno>
           
   
@@ -8104,6 +8101,9 @@
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/7508982-8</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%BCnstlerhaus_Dresden-Loschwitz</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb252547.html</idno>
@@ -8899,6 +8899,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/250841/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407180/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q436079</idno>
           
   
@@ -8915,9 +8918,6 @@
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/organisations/org.265</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407180/</idno>
           
 
           <listBibl>
@@ -16031,13 +16031,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/207076/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341484/</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb207076.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb207076.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341484/</idno>
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.6.38</idno>
@@ -17214,9 +17214,6 @@
           </location>
           
   
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hanseatisches_Museum_und_Sch%C3%B6tstuben</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199721/</idno>
           
   
@@ -17224,6 +17221,9 @@
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16106745-1</idno>
+          
+  
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hanseatisches_Museum_und_Sch%C3%B6tstuben</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb199721.html</idno>
@@ -19480,10 +19480,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190702/</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q38031629</idno>
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/W%C3%A4hringer_B%C3%BCrgertheater</idno>
           
   
-          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/W%C3%A4hringer_B%C3%BCrgertheater</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q38031629</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb190702.html</idno>
@@ -20874,10 +20874,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb292.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190582/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/190582/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb292.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb190582.html</idno>
@@ -25935,13 +25935,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185914/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199604/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q98109954</idno>
           
   
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Zirkus_Busch_Kino</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199604/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb185914.html</idno>
@@ -28858,6 +28858,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185249/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407080/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q202902</idno>
           
   
@@ -28871,9 +28874,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb185249.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407080/</idno>
           
 
           <listBibl>
@@ -31035,10 +31035,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183389/</idno>
           
   
-          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Militärkasino</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/257390/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/257390/</idno>
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Militärkasino</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q133251320</idno>
@@ -31111,6 +31111,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183303/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407033/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q660777</idno>
           
   
@@ -31121,9 +31124,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183303.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407033/</idno>
           
 
           <listBibl>
@@ -31293,13 +31293,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183253/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407232/</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb183253.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb183253.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407232/</idno>
           
 
           <listBibl>
@@ -31439,10 +31439,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183224/</idno>
           
   
-          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Anatomisches_Institut</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200707/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200707/</idno>
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Anatomisches_Institut</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q37760137</idno>
@@ -33263,22 +33263,22 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/147893/</idno>
           
   
-          <idno type="URL" subtype="geonames">https://www.geonames.org/6944469/kungliga-dramatiska-teatern.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185946/</idno>
           
   
-          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb147893.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1140265</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/K%C3%B6nigliches_Dramatisches_Theater</idno>
           
   
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147893.html</idno>
+          <idno type="URL" subtype="geonames">https://www.geonames.org/6944469/kungliga-dramatiska-teatern.html</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1140265</idno>
+          <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb147893.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb147893.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb147893.html</idno>
@@ -33718,13 +33718,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145351/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q312576</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Staatsoper_Unter_den_Linden</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/145351/</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/6944100/</idno>
@@ -33894,13 +33894,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143138/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407226/</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb143138.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb143138.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407226/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb143138.html</idno>
@@ -34879,10 +34879,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92534/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92534.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/250352/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/250352/</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92534.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92534.html</idno>
@@ -35076,10 +35076,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92514/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92514.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/232674/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/232674/</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92514.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb92514.html</idno>
@@ -35414,10 +35414,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92249/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92249.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200789/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/200789/</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92249.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q130640762</idno>
@@ -35505,6 +35505,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92224/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405796/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92224.html</idno>
           
   
@@ -35512,9 +35515,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb92224.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405796/</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1241047</idno>
@@ -36264,10 +36264,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60142/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb60142.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/293084/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/293084/</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb60142.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q24192165</idno>
@@ -36352,13 +36352,7 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q36600</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2747372/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb974.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58810/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/974/</idno>
@@ -36370,10 +36364,19 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54853/</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4011446-6</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261689/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58810/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q36600</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2747372/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb974.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4011446-6</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2747373/</idno>
@@ -36404,9 +36407,6 @@
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.8.2</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261689/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb58810.html</idno>
@@ -36625,10 +36625,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55633/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb55633.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/235911/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/235911/</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb55633.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q19962127</idno>
@@ -37062,19 +37062,19 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50933/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb50933.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92306/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92460/</idno>
           
   
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb50933.html</idno>
+          
+  
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Praterstraße</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92306.html</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50933.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2107895</idno>
@@ -37421,10 +37421,10 @@
           </location>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34343/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47414/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/47414/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34343/</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2770778/</idno>
@@ -37439,13 +37439,13 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb47414.html</idno>
           
   
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005207</idno>
+          
+  
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004176</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005418</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005207</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb47414.html</idno>
@@ -37548,10 +37548,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45260/</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19862/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45260/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364031/</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3203301/</idno>
@@ -37572,22 +37575,16 @@
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45260</idno>
           
   
-          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Veli_Brijun</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/364031/</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2572091</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3188105/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45260.html</idno>
+          <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Veli_Brijun</idno>
           
   
-          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb19862.html</idno>
+          <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb45260.html</idno>
           
 
           <listBibl>
@@ -37696,13 +37693,19 @@
           </location>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4127793-4</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38129/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45258/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263246/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341184/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4127793-4</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2867714/</idno>
@@ -37723,9 +37726,6 @@
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263246/</idno>
-          
-  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb45258.html</idno>
           
   
@@ -37742,9 +37742,6 @@
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb45258</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341184/</idno>
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.24</idno>
@@ -38138,13 +38135,16 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44374/</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1059/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24276/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44374/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/291993/</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2658813/</idno>
@@ -38154,9 +38154,6 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb44374.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/291993/</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q68986</idno>
@@ -38265,16 +38262,16 @@
           </location>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1146/</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44303/</idno>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2747891/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1146/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/119692/</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2747891/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4050739-7</idno>
@@ -38374,10 +38371,10 @@
           </location>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1169/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44248/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44248/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1169/</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3176674/</idno>
@@ -38471,22 +38468,22 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44176/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/217/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/94619/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q81137</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb217.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/217/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44176/</idno>
-          
-  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3069011/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/94619/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4075643-9</idno>
@@ -38598,10 +38595,10 @@
           </location>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4042742-0</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44172/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44172/</idno>
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4042742-0</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2861650/</idno>
@@ -38722,28 +38719,28 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44153/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/900/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64339/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/94524/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2028</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb900.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/900/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44153/</idno>
-          
-  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3164527/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64339/</idno>
-          
-  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/6541865/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/94524/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4063110-2</idno>
@@ -38937,13 +38934,7 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q131605</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb887.html</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/3173577/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43520/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/887/</idno>
@@ -38952,10 +38943,16 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38694/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43520/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/97977/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/97977/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q131605</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb887.html</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3173577/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4038688-0</idno>
@@ -39359,10 +39356,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiener_Zentralfriedhof</idno>
           
   
-          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=9327</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb41376.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb41376.html</idno>
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=9327</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb41376.html</idno>
@@ -39523,10 +39520,10 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40757/</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3212462</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186016/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/186016/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3212462</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb40757.html</idno>
@@ -39602,10 +39599,10 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2749503/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40725/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40725/</idno>
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2749503/</idno>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb40725.html</idno>
@@ -39787,13 +39784,10 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q6526</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40260/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/6937/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40260/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40263/</idno>
@@ -39802,10 +39796,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50819/</idno>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/3181913/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60315/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60315/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q6526</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3181913/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4007901-6</idno>
@@ -39969,6 +39966,12 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39615/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43746/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1780</idno>
           
   
@@ -39976,12 +39979,6 @@
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4076329-8</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39615/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43746/</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb39615.html</idno>
@@ -40114,16 +40111,22 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38096/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35647/</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3194097/</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb38096.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/38096/</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb38096.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb38096.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q223353</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Opatija</idno>
@@ -40139,12 +40142,6 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00003591</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35647/</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q223353</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb38096.html</idno>
@@ -40226,22 +40223,22 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1748</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb36300.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36300/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58083/</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4032399-7</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64393/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64393/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1748</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb36300.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4032399-7</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2618425/</idno>
@@ -40435,12 +40432,6 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/7872434/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb34401.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/34401/</idno>
           
   
@@ -40448,6 +40439,12 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/100179/</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/7872434/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb34401.html</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4464879-0</idno>
@@ -40769,6 +40766,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21799/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/146436/</idno>
+          
+  
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb21799.html</idno>
           
   
@@ -40779,9 +40779,6 @@
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Schloss_Sch%C3%B6nbrunn</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/146436/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4318901-5</idno>
@@ -40866,6 +40863,9 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12589/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q64964</idno>
           
   
@@ -40873,9 +40873,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb586.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12589/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Celerina/Schlarigna</idno>
@@ -41054,10 +41051,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2318.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2318/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2318/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2318.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb2318.html</idno>
@@ -41127,13 +41124,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb223.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1282/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/223/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1282/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb223.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1282.html</idno>
@@ -41279,6 +41276,9 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1223/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q70</idno>
           
   
@@ -41286,9 +41286,6 @@
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4005762-8</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1223/</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb1223.html</idno>
@@ -41770,13 +41767,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1164/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407230/</idno>
+          
+  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1164.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1164.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407230/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb1164.html</idno>
@@ -41937,10 +41934,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64053/</idno>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2673730/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/100625/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/100625/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/152193/</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2673730/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4057648-6</idno>
@@ -41952,13 +41952,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Stockholm</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/152193/</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb1119.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1119.html</idno>
@@ -42134,13 +42131,13 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1069/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185123/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb1069.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2637488</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185123/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Albert-Theater_(Dresden)</idno>
@@ -42492,6 +42489,12 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1034/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185927/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407092/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q127097</idno>
           
   
@@ -42501,16 +42504,10 @@
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb1034.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185927/</idno>
-          
-  
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1034.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb1034.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407092/</idno>
           
 
           <listBibl>
@@ -42601,6 +42598,9 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1025/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183713/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb1025.html</idno>
           
   
@@ -42608,9 +42608,6 @@
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4448007-6</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/183713/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Klinik_Landstra%C3%9Fe</idno>
@@ -42707,10 +42704,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb1023.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1023/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1023/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb1023.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1023.html</idno>
@@ -42774,10 +42771,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb1021.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1021/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1021/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb1021.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1797144</idno>
@@ -42862,10 +42859,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb1013.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1013/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1013/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb1013.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1013.html</idno>
@@ -42932,6 +42929,9 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/988/</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3166483/</idno>
           
   
@@ -42939,9 +42939,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb988.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/988/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Seis_am_Schlern</idno>
@@ -43017,13 +43014,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/970/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q51252</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb970.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/970/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Uffizien</idno>
@@ -43096,6 +43093,9 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/967/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4191</idno>
           
   
@@ -43103,9 +43103,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb967.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/967/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Luzern</idno>
@@ -43211,19 +43208,19 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/959/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91213/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q359027</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb959.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/959/</idno>
-          
-  
           <idno type="URL" subtype="geonames">https://www.geonames.org/2617052/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91213/</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2617052/</idno>
@@ -43305,6 +43302,9 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/958/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q7061201</idno>
           
   
@@ -43312,9 +43312,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb958.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/958/</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb958.html</idno>
@@ -43411,12 +43408,6 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q146342</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb955.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/955/</idno>
           
   
@@ -43426,13 +43417,22 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/53377/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/98088/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/302298/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q146342</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb955.html</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3064288/</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb955.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/98088/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4059481-6</idno>
@@ -43454,9 +43454,6 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004572</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/302298/</idno>
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb955</idno>
@@ -43532,13 +43529,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/946/</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3164691/</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb946.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/946/</idno>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb946.html</idno>
@@ -43626,25 +43623,25 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2789788/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91417/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91417.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb911.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/911/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15354/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91417/</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/112844/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q12996</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2789788/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb911.html</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4116805-7</idno>
@@ -43653,7 +43650,7 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ostende</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q12996</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb911.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb911.html</idno>
@@ -43732,6 +43729,12 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/886/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/96665/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q490</idno>
           
   
@@ -43741,13 +43744,7 @@
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb886.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/886/</idno>
-          
-  
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb886.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/96665/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4037100-1</idno>
@@ -43859,15 +43856,6 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1721</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2809346/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb883.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/883/</idno>
           
   
@@ -43875,6 +43863,15 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62734/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1721</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2809346/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb883.html</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066043-6</idno>
@@ -43998,6 +43995,12 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/874/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/97815/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q430449</idno>
           
   
@@ -44005,12 +44008,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb874.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/874/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/97815/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4021376-6</idno>
@@ -44113,6 +44110,12 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/864/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44885/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2079</idno>
           
   
@@ -44120,12 +44123,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb864.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/864/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44885/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4035206-7</idno>
@@ -44137,10 +44134,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Leipzig</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb864.html</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb864.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb864.html</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb864.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb864.html</idno>
@@ -44246,15 +44243,6 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q384544</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb842.html</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/3073803/</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/842/</idno>
           
   
@@ -44264,10 +44252,22 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43429/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb842.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/95418/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/95418/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406727/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q384544</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb842.html</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3073803/</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb842.html</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4029705-6</idno>
@@ -44276,10 +44276,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Karlsbad</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb842.html</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb842.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb842.html</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb842.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb842.html</idno>
@@ -44291,16 +44291,13 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00246</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005474</idno>
-          
-  
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb842</idno>
           
   
-          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb842</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00005474</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406727/</idno>
+          <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb842</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb842.html</idno>
@@ -44379,22 +44376,22 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb841.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/841/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/195214/</idno>
           
   
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb841.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb841.html</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1270909</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/D%C3%B6blinger_Friedhof</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb841.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb841.html</idno>
@@ -44506,12 +44503,6 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q14960</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb833.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/833/</idno>
           
   
@@ -44521,10 +44512,19 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88110/</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4008456-5</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88117/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88117/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261421/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q14960</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb833.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4008456-5</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3078610/</idno>
@@ -44537,9 +44537,6 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261421/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb833.html</idno>
@@ -44642,10 +44639,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb830.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/830/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/830/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb830.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb830.html</idno>
@@ -44776,10 +44773,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb792.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/792/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/792/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb792.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1133501</idno>
@@ -44885,19 +44882,19 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb143.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb784.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/784/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/784/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1155/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1155/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb143.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb784.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q702548</idno>
@@ -44991,19 +44988,19 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/772/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91211/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q523469</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb772.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/772/</idno>
-          
-  
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb772.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91211/</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3071024/</idno>
@@ -45115,10 +45112,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb739.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/739/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/739/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb739.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1454048</idno>
@@ -45179,10 +45176,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb738.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/738/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/738/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb738.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb738.html</idno>
@@ -45246,10 +45243,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb730.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/730/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/730/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb730.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb730.html</idno>
@@ -45298,10 +45295,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb720.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/720/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/720/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb720.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb720.html</idno>
@@ -45374,10 +45371,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb717.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/717/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/717/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb717.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb717.html</idno>
@@ -45441,10 +45438,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb715.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/715/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/715/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb715.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb715.html</idno>
@@ -45502,10 +45499,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb714.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/714/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/714/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb714.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q132938395</idno>
@@ -45569,10 +45566,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb703.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/703/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/703/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb703.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q456586</idno>
@@ -45654,10 +45651,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb700.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/700/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/700/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb700.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb700.html</idno>
@@ -45730,13 +45727,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb695.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/695/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/185949/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb695.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb695.html</idno>
@@ -45806,10 +45803,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb692.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/692/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/692/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb692.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb692.html</idno>
@@ -45876,10 +45873,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb686.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/686/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/686/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb686.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q123225708</idno>
@@ -45961,18 +45958,6 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1799</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/7531292/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb677.html</idno>
-          
-  
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4008216-7</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/677/</idno>
           
   
@@ -45985,10 +45970,25 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64155/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb677.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/90392/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/90392/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341101/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1799</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/7531292/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb677.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4008216-7</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb677.html</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3081368/</idno>
@@ -46016,9 +46016,6 @@
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb677</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341101/</idno>
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.6</idno>
@@ -46100,13 +46097,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb669.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/669/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/246126/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb669.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q681931</idno>
@@ -46188,10 +46185,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb665.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/665/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/665/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb665.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb665.html</idno>
@@ -46285,22 +46282,22 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q486450</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb662.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/662/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88112/</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4004168-2</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88115/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88115/</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q486450</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb662.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4004168-2</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2782067/</idno>
@@ -46424,12 +46421,6 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</idno>
-          
-  
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4076310-9</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/652/</idno>
           
   
@@ -46448,13 +46439,19 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64237/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91524/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb652.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4076310-9</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3067695/</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb652.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91524/</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3067696/</idno>
@@ -46560,10 +46557,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb645.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/645/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/645/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb645.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb645.html</idno>
@@ -46618,10 +46615,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb635.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/635/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/635/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb635.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb635.html</idno>
@@ -46715,16 +46712,16 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb633.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/633/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb633.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43303/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43303/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb633.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb633.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb43303.html</idno>
@@ -46794,10 +46791,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb626.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/626/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/626/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb626.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1792619</idno>
@@ -46867,10 +46864,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb612.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/612/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/612/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb612.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2292251</idno>
@@ -46970,10 +46967,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb599.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/599/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/599/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb599.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2531995</idno>
@@ -47058,10 +47055,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb588.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/588/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/588/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb588.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb588.html</idno>
@@ -47152,10 +47149,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb584.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/584/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/584/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb584.html</idno>
           
   
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Zentralkino</idno>
@@ -47225,6 +47222,9 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/568/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q13924</idno>
           
   
@@ -47232,9 +47232,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb568.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/568/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Adriatisches_Meer</idno>
@@ -47322,22 +47319,22 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/567/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5943</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb567.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/567/</idno>
-          
-  
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Stephansdom</idno>
           
   
-          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=17551</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb567.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb567.html</idno>
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=17551</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb567.html</idno>
@@ -47501,13 +47498,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/554/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q836007</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb554.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/554/</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb554.html</idno>
@@ -47601,16 +47598,16 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb542.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/542/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb542.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92256/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92256/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb542.html</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb542.html</idno>
           
   
           <idno type="URL" subtype="geonames">https://www.geonames.org/12495675</idno>
@@ -47677,10 +47674,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb527.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/527/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/527/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb527.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb527.html</idno>
@@ -47726,10 +47723,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb525.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/525/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/525/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb525.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb525.html</idno>
@@ -47823,6 +47820,12 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/521/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341574/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q254835</idno>
           
   
@@ -47830,9 +47833,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb521.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/521/</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb521.html</idno>
@@ -47860,9 +47860,6 @@
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb521</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341574/</idno>
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.16</idno>
@@ -47968,22 +47965,22 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb520.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/520/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/520/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb520.html</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2033589-1</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q113470466</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q414538</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Akademietheater_(Wien)</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q414538</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q113470466</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb520.html</idno>
@@ -48068,16 +48065,16 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb516.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb517.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/516/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/517/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb516.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb517.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb516.html</idno>
@@ -48156,10 +48153,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb511.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/511/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb511.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q154568</idno>
@@ -48238,13 +48235,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb497.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/497/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/194975/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb497.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q319069</idno>
@@ -48338,10 +48335,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb494.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/494/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/494/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb494.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb494.html</idno>
@@ -48393,10 +48390,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb485.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/485/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb485.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb485.html</idno>
@@ -48487,6 +48484,12 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/484/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62728/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q72</idno>
           
   
@@ -48494,12 +48497,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb484.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/484/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62728/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4068038-1</idno>
@@ -48511,10 +48508,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Z%C3%BCrich</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb484.html</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb484.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb484.html</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb484.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb484.html</idno>
@@ -48617,15 +48614,6 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2767775/</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q665243</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb483.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/483/</idno>
           
   
@@ -48635,16 +48623,25 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/107222/</idno>
           
   
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2767775/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q665243</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb483.html</idno>
+          
+  
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4206827-7</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Reichenau_an_der_Rax</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb483.html</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb483.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb483.html</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb483.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb483.html</idno>
@@ -48735,22 +48732,22 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb462.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/462/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64195/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/97045/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb462.html</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3164603/</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb462.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/97045/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4062501-1</idno>
@@ -48862,10 +48859,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb446.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/446/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb446.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb446.html</idno>
@@ -48935,16 +48932,16 @@
           </location>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1205677</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb437.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/437/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46256/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1205677</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb437.html</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Deutsches_Haus_(Br%C3%BCnn)</idno>
@@ -49050,16 +49047,19 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/3173140/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb428.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/428/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/104572/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/158927/</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3173140/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb428.html</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4528045-9</idno>
@@ -49072,9 +49072,6 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb428.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/158927/</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q431389</idno>
@@ -49165,13 +49162,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/422/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2512799</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb422.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/422/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Venedig_in_Wien</idno>
@@ -49241,13 +49238,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/413/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1610900</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb413.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/413/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/S%C3%BCdbahnhotel</idno>
@@ -49408,6 +49405,9 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/373/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q686468</idno>
           
   
@@ -49415,9 +49415,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb373.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/373/</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb373.html</idno>
@@ -49572,10 +49569,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/338/</idno>
+          
+  
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb338.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/338/</idno>
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb338.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb338.html</idno>
@@ -49585,9 +49585,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb338.html</idno>
-          
-  
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb338.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb338.html</idno>
@@ -49651,10 +49648,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb337.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/337/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/337/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb337.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb337.html</idno>
@@ -49760,10 +49757,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb334.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/334/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb334.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb334.html</idno>
@@ -49830,10 +49827,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb333.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/333/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb333.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q371908</idno>
@@ -49909,13 +49906,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/320/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q46242</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb320.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/320/</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb320.html</idno>
@@ -49991,10 +49988,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb298.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/298/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb298.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb298.html</idno>
@@ -50061,10 +50058,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb295.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/295/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb295.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb295.html</idno>
@@ -50122,10 +50119,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb280.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/280/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/280/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb280.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb280.html</idno>
@@ -50198,10 +50195,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb267.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/267/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/267/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb267.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb267.html</idno>
@@ -50268,22 +50265,22 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/3176959/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb263.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/263/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63165/</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4017581-9</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64149/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64149/</idno>
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3176959/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb263.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4017581-9</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2044</idno>
@@ -50377,10 +50374,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb255.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/255/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/255/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb255.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb255.html</idno>
@@ -50486,10 +50483,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb253.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/253/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/253/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb253.html</idno>
           
   
           <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/index.php?title=Imperialkino</idno>
@@ -50580,10 +50577,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb245.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/245/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/245/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb245.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q321562</idno>
@@ -50701,22 +50698,22 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb240.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/240/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/240/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb240.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb240.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb240.html</idno>
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q695126</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiener_Konzerthaus</idno>
           
   
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q695126</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb240.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb240.html</idno>
@@ -50798,22 +50795,22 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2643743/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb224.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/224/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62748/</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4074335-4</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</idno>
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2643743/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb224.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4074335-4</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb224.html</idno>
@@ -50825,10 +50822,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/London</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</idno>
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb224.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb224.html</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb224.html</idno>
@@ -50931,19 +50928,22 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/213/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/95979/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410626/</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2782052/</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb213.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/213/</idno>
-          
-  
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb213.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/95979/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4027718-5</idno>
@@ -50971,9 +50971,6 @@
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb213</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410626/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb213.html</idno>
@@ -51046,10 +51043,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb208.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/208/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb208.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb208.html</idno>
@@ -51107,10 +51104,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb205.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/205/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/205/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb205.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb205.html</idno>
@@ -51122,10 +51119,10 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hotel_Bristol_(Wien)</idno>
           
   
-          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=7575</idno>
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb205.html</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb205.html</idno>
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=7575</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb205.html</idno>
@@ -51207,10 +51204,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb192.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/192/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb192.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1325723</idno>
@@ -51286,10 +51283,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb191.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/191/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/191/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb191.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q882721</idno>
@@ -51395,16 +51392,19 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/7873001/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb189.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/189/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91735/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341577/</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/7873001/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb189.html</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4054504-0</idno>
@@ -51435,9 +51435,6 @@
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb189</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341577/</idno>
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.18</idno>
@@ -51528,16 +51525,16 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb182.html</idno>
-          
-  
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4044660-8</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/182/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64183/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb182.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4044660-8</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2988507/</idno>
@@ -51667,6 +51664,12 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92171/</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2950159/</idno>
           
   
@@ -51676,13 +51679,7 @@
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4005728-8</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/168/</idno>
-          
-  
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb168.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92171/</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q64</idno>
@@ -51818,28 +51815,28 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb159.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/159/</idno>
-          
-  
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb159.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/90847/</idno>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/3333500/</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/100460/</idno>
           
   
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4293892-2</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/105272/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/105272/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb159.html</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb159.html</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3333500/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4293892-2</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/414655-4</idno>
@@ -51933,22 +51930,10 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2925533/</idno>
-          
-  
-          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1794</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb146.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/146/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/46955/</idno>
-          
-  
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4018118-2</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64181/</idno>
@@ -51961,6 +51946,24 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64503/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261820/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410582/</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2925533/</idno>
+          
+  
+          <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1794</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb146.html</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4018118-2</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb146.html</idno>
@@ -51978,13 +51981,10 @@
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb146.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/261820/</idno>
+          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb146.html</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/DWplace00239</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb146.html</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb146</idno>
@@ -52006,9 +52006,6 @@
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.2.13</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/410582/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb146.html</idno>
@@ -52096,6 +52093,21 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/140/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7946/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/116244/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262514/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/302348/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2814</idno>
           
   
@@ -52105,16 +52117,7 @@
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb140.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/140/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7946/</idno>
-          
-  
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb140.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/116244/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4023025-9</idno>
@@ -52124,9 +52127,6 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb140.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262514/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb140.html</idno>
@@ -52139,9 +52139,6 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00000883</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/302348/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb140.html</idno>
@@ -52211,10 +52208,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb128.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/128/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/128/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb128.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1229217</idno>
@@ -52296,10 +52293,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb126.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/126/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/126/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb126.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb126.html</idno>
@@ -52369,13 +52366,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/118/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q877699</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb118.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/118/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Carltheater</idno>
@@ -52475,13 +52472,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb112.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/112/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91600/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb112.html</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/8181703/</idno>
@@ -52581,10 +52578,19 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb107.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/107/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/107/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405828/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407035/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407158/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb107.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb107.html</idno>
@@ -52596,9 +52602,6 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb107.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/405828/</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q876053</idno>
           
   
@@ -52606,12 +52609,6 @@
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Sofiens%C3%A4le</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407158/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407035/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb107.html</idno>
@@ -52681,13 +52678,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/103/</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/6697258/</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb103.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/103/</idno>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb103.html</idno>
@@ -52763,13 +52760,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/102/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q162077</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb102.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/102/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Glyptothek_(M%C3%BCnchen)</idno>
@@ -52839,13 +52836,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/101/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q170152</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb101.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/101/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Neue_Pinakothek</idno>
@@ -52927,10 +52924,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb97.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/97/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/97/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb97.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb97.html</idno>
@@ -52985,13 +52982,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q732697</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb92.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_divadlo</idno>
@@ -53076,13 +53073,16 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407212/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1886083</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb91.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Staatsoper_Prag</idno>
@@ -53092,9 +53092,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb91.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/407212/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb91.html</idno>
@@ -53188,13 +53185,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb83.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/83/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/199663/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb83.html</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/8604499/</idno>
@@ -53264,10 +53261,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb77.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/77/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb77.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb77.html</idno>
@@ -53355,12 +53352,6 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2780893/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb69.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/69/</idno>
           
   
@@ -53370,10 +53361,19 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64219/</idno>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2600996/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/96100/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/96100/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341393/</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2780893/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb69.html</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2600996/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4079284-5</idno>
@@ -53397,13 +53397,10 @@
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb69.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341393/</idno>
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/3324498/</idno>
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.3</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/3324498/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb69.html</idno>
@@ -53485,22 +53482,28 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143650/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/352089/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406767/</idno>
+          
+  
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2782729/</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb59.html</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59/</idno>
-          
-  
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb59.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb59.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/143650/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066013-8</idno>
@@ -53521,16 +53524,10 @@
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.1</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/352089/</idno>
-          
-  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2430175</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/10040416-9</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406767/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb59.html</idno>
@@ -53600,10 +53597,10 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2771956/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55/</idno>
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2771956/</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb55.html</idno>
@@ -53718,12 +53715,6 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb410.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb52.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/52/</idno>
           
   
@@ -53731,6 +53722,15 @@
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/44238/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406492/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb410.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb52.html</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2772614/</idno>
@@ -53758,9 +53758,6 @@
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.11.14</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/406492/</idno>
           
   
           <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pmb52.html</idno>
@@ -53860,19 +53857,19 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36789/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341419/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51010/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb51.html</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/2775259/</idno>
@@ -54005,15 +54002,6 @@
           </location>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
-          
-  
-          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066009-6</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50/</idno>
           
   
@@ -54023,10 +54011,25 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20954/</idno>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33999/</idno>
+          
+  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65221/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2761333/</idno>
+          
+  
+          <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4066009-6</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb50.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb50.html</idno>
@@ -54039,12 +54042,6 @@
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb50.html</idno>
-          
-  
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2761333/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/33999/</idno>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</idno>
@@ -54159,16 +54156,16 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb41.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/41/</idno>
           
   
-          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=15996</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb41.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb41.html</idno>
+          
+  
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=15996</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb41.html</idno>
@@ -54250,13 +54247,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb40.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92311/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb40.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q167619</idno>
@@ -54359,13 +54356,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb39.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/39/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/108/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb39.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb39.html</idno>
@@ -54435,10 +54432,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb37.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb37.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb37.html</idno>
@@ -54499,16 +54496,16 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb35.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/35/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb35.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92498/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92498/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb35.html</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb35.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb35.html</idno>
@@ -54590,13 +54587,7 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/30/</idno>
-          
-  
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb30.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91649/</idno>
@@ -54605,10 +54596,22 @@
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93885/</idno>
           
   
-          <idno type="URL" subtype="geonames">https://sws.geonames.org/2766818/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/94039/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/94039/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262547/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341363/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb30.html</idno>
+          
+  
+          <idno type="URL" subtype="geonames">https://sws.geonames.org/2766818/</idno>
           
   
           <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4076982-3</idno>
@@ -54624,9 +54627,6 @@
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/262547/</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb30.html</idno>
@@ -54645,9 +54645,6 @@
           
   
           <idno type="URL" subtype="schnitzler-fischer">https://biblio.ub.uni-freiburg.de/sf/#pmb30</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/341363/</idno>
           
   
           <idno type="URL" subtype="schoenberg-ue">https://www.schoenberg-ue.at/ue/places/place.9.7</idno>
@@ -54729,19 +54726,19 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29/</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb29.html</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92506/</idno>
           
   
-          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92506.html</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb29.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb29.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb29.html</idno>
@@ -54820,10 +54817,16 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb28.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/28/</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/618/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb618.html</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb28.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q694747</idno>
@@ -54833,12 +54836,6 @@
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb28.html</idno>
-          
-  
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb618.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/618/</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb618.html</idno>
@@ -54938,10 +54935,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb27.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/27/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb27.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q521155</idno>
@@ -55041,10 +55038,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb24.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/24/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb24.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb24.html</idno>
@@ -55099,10 +55096,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb21.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb21.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q284902</idno>
@@ -55193,16 +55190,16 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb20.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/20/</idno>
           
   
-          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb20.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92202/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92202/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb20.html</idno>
+          
+  
+          <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb20.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q688555</idno>
@@ -55211,13 +55208,13 @@
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Volkstheater_(Wien)</idno>
           
   
-          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=6125</idno>
-          
-  
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb20.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb20.html</idno>
+          
+  
+          <idno type="URL" subtype="wiengeschichtewiki">https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=6125</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb20.html</idno>
@@ -55320,13 +55317,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb19.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/19/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92490/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb19.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1244587</idno>
@@ -55426,10 +55423,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb18.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/18/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb18.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb18.html</idno>
@@ -55490,10 +55487,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb15.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/15/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb15.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q209937</idno>
@@ -55584,10 +55581,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb14.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/14/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb14.html</idno>
           
   
           <idno type="URL" subtype="geonames">https://www.geonames.org/6354992/</idno>
@@ -55693,6 +55690,12 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13/</idno>
+          
+  
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/246/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1592692</idno>
           
   
@@ -55700,12 +55703,6 @@
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb13.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13/</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/246/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hebbel-Theater</idno>
@@ -55799,13 +55796,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q45772100</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb12.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/12/</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb12.html</idno>
@@ -55890,10 +55887,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11.html</idno>
           
   
           <idno type="URL" subtype="legalkraus">https://www.kraus.wienbibliothek.at/legalkraus/pmb11.html</idno>
@@ -55969,13 +55966,13 @@
           </location>
           
   
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9/</idno>
+          
+  
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q812446</idno>
           
   
           <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb9.html</idno>
-          
-  
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/9/</idno>
           
   
           <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Bayerisches_Staatsschauspiel</idno>
@@ -56045,13 +56042,13 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb8.html</idno>
-          
-  
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/8/</idno>
           
   
           <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/91530/</idno>
+          
+  
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb8.html</idno>
           
   
           <idno type="URL" subtype="geonames">https://sws.geonames.org/3322725/</idno>
@@ -56139,10 +56136,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb7.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/7/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb7.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q265129</idno>
@@ -56224,10 +56221,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb4.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb4.html</idno>
           
   
           <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1020093</idno>
@@ -56312,10 +56309,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb3.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb3.html</idno>
@@ -56385,10 +56382,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb2.html</idno>
           
   
           <idno type="URL" subtype="schnitzler-interviews">https://schnitzler-interviews.acdh.oeaw.ac.at/pmb2.html</idno>
@@ -56401,24 +56398,6 @@
           
   
           <idno type="URL" subtype="schnitzler-kultur">https://schnitzler-kultur.acdh.oeaw.ac.at/pmb2.html</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37986</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38002</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38005</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38008</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38011</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38019</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb10264</idno>
@@ -56448,52 +56427,22 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb12826</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43667</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb37986</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43668</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38002</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43669</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38005</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43670</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38008</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43671</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38011</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43672</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43673</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43674</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43675</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43676</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43677</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43678</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43679</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb44290</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45346</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45685</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38019</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38023</idno>
@@ -56640,6 +56589,54 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43666</idno>
           
   
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43667</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43668</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43669</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43670</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43671</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43672</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43673</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43674</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43675</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43676</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43677</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43678</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43679</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb44290</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45346</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb45685</idno>
+          
+  
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb47636</idno>
           
   
@@ -56664,6 +56661,12 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb50166</idno>
           
   
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_51252</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb58810</idno>
+          
+  
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38909</idno>
           
   
@@ -56686,12 +56689,6 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38951</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_51252</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb58810</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38954</idno>
@@ -56919,9 +56916,6 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb562</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_59322</idno>
-          
-  
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00002240</idno>
           
   
@@ -56983,6 +56977,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_56885</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_59322</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38675</idno>
@@ -57060,6 +57057,27 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00004483</idno>
           
   
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39293</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39237</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_52028</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38292</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38300</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38303</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38307</idno>
+          
+  
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38310</idno>
           
   
@@ -57097,51 +57115,6 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38141</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39293</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb39237</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_52028</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38292</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38300</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38303</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38307</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38269</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38272</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38731</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38774</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38781</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38784</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38792</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38798</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38144</idno>
@@ -57196,6 +57169,15 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_60779</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38269</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38272</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38731</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38733</idno>
@@ -57261,19 +57243,19 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38767</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54308</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38774</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43479</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38781</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54269</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38784</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_39762</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38792</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54115</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38798</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38802</idno>
@@ -57321,7 +57303,22 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_45890</idno>
           
   
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54308</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43479</idno>
+          
+  
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_47631</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54269</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_39762</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_54115</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/fa_place00001185</idno>
@@ -57552,60 +57549,6 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_42872</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38368</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38370</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38375</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38381</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38391</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38401</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38422</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38450</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38451</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38461</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38464</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38467</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38477</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38490</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38491</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38499</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38500</idno>
-          
-  
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38504</idno>
-          
-  
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38345</idno>
           
   
@@ -57663,28 +57606,58 @@
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38364</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49342</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38368</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49979</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38370</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_52700</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38375</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41193</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38381</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_50971</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38391</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_45434</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38401</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43583</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38422</idno>
           
   
-          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb52908</idno>
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38450</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38451</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38461</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38464</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38467</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38477</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38490</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38491</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38499</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38500</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38504</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb38513</idno>
@@ -57763,6 +57736,27 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_43507</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49342</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_49979</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_52700</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_41193</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_50971</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/p_45434</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43583</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43584</idno>
@@ -57901,6 +57895,9 @@
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb43582</idno>
+          
+  
+          <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb52908</idno>
           
   
           <idno type="URL" subtype="semantickraus">https://sk.acdh.oeaw.ac.at/pmb61038</idno>
@@ -58072,10 +58069,10 @@
           </location>
           
   
-          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb1.html</idno>
+          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1/</idno>
           
   
-          <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/1/</idno>
+          <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb1.html</idno>
           
   
           <idno type="URL" subtype="wienerschnitzler">https://wienerschnitzler.org/pmb1.html</idno>
