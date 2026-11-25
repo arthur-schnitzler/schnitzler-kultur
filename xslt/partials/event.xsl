@@ -317,12 +317,13 @@
                         </xsl:if>
 
                         <!-- Ressourcen: alle Links aus list-of-relevant-uris
-                             (idnos des Ereignisses + Chronik/Tagebuch des Tages) -->
+                             (idnos des Ereignisses + Chronik/Tagebuch des Tages);
+                             PMB fehlt hier, weil es im Block »Datensatz« steht -->
                         <xsl:variable name="when" select="@when-iso"/>
                         <xsl:variable name="res-idnos" as="node()">
                             <xsl:element name="idnos">
                                 <xsl:copy-of
-                                    select="tei:idno[normalize-space(.) and not(@subtype = $current-edition)]"/>
+                                    select="tei:idno[normalize-space(.) and not(@subtype = ($current-edition, 'pmb'))]"/>
                                 <xsl:if test="$when">
                                     <xsl:if test="not(tei:idno[@subtype = 'schnitzler-chronik'])">
                                         <tei:idno type="URL" subtype="schnitzler-chronik">
@@ -361,8 +362,10 @@
                             <div class="side-card-body">
                                 <h2 class="side-card-title side-card-title-small">Datensatz</h2>
                                 <ul class="record-list">
+                                    <!-- nur die erste pmb-idno (= eigener Eintrag): weitere sind
+                                         zusammengeführte Einträge, die auf diesen weiterleiten -->
                                     <xsl:for-each
-                                        select="tei:idno[@subtype = 'pmb' and normalize-space(.)]">
+                                        select="tei:idno[@subtype = 'pmb' and normalize-space(.)][1]">
                                         <li>
                                             <span class="record-label">PMB</span>
                                             <a target="_blank" href="{normalize-space(.)}">
@@ -372,16 +375,6 @@
                                             </a>
                                         </li>
                                     </xsl:for-each>
-                                    <xsl:if test="@when-iso">
-                                        <li>
-                                            <span class="record-label">Chronik</span>
-                                            <a target="_blank"
-                                                href="{concat('https://schnitzler-chronik.acdh.oeaw.ac.at/', @when-iso, '.html')}">
-                                                <xsl:value-of
-                                                  select="concat(@when-iso, ' ↗')"/>
-                                            </a>
-                                        </li>
-                                    </xsl:if>
                                     <li>
                                         <span class="record-label">XML/TEI</span>
                                         <a href="listevent.xml">Quelldaten ↓</a>
